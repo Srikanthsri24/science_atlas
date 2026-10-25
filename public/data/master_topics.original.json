@@ -1,0 +1,4910 @@
+{
+  "note": "Original comprehensive concept inventory; not a verified board-specific textbook transcription",
+  "grades": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "boards": [
+    "AP SCERT",
+    "Telangana SCERT",
+    "NCERT",
+    "CBSE",
+    "CISCE",
+    "Other state boards"
+  ],
+  "records": [
+    {
+      "id": "SA-0001",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Living and nonliving",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0002",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Classification",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0003",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Cells and organelles",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0004",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Cell division",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0005",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Tissues",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0006",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Microorganisms",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0007",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Biodiversity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0008",
+      "subject": "Biology",
+      "chapter": "Foundations",
+      "topic": "Evolution",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0009",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Human body movements",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0010",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Joints in human body",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0011",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Joints for sports",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0012",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Animal nervous system",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0013",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Human brain",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0014",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Reflex action in animals",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0015",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Human digestive system",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0016",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Human tooth",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0017",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Tongue and tooth activity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0018",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Respiration in human beings",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0019",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Circulatory and excretion system in animals",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0020",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Excretory system in animals",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0021",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Endocrine system",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0022",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Sense organs",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0023",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Human reproduction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0024",
+      "subject": "Biology",
+      "chapter": "Human Body",
+      "topic": "Immune system",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0025",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Coordination in plants",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0026",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Respiration in plants",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0027",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Water and food movement in plants",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0028",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Photosynthesis",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0029",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Transpiration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0030",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Plant hormones",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0031",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Plant reproduction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0032",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Plant tissues",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0033",
+      "subject": "Biology",
+      "chapter": "Plant Biology",
+      "topic": "Mineral nutrition",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0034",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal husbandry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0035",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Digestion in ruminants",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0036",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal adaptations",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0037",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal nutrition",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0038",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal reproduction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0039",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal locomotion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0040",
+      "subject": "Biology",
+      "chapter": "Animal Biology",
+      "topic": "Animal behaviour",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0041",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "DNA",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0042",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "RNA",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0043",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Genes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0044",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Mendelian genetics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0045",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Chromosomes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0046",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Mutations",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0047",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Biotechnology",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0048",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "PCR",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0049",
+      "subject": "Biology",
+      "chapter": "Genetics",
+      "topic": "Genetic engineering",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0050",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Ecosystems",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0051",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Food chains",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0052",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Food webs",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0053",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Population ecology",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0054",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Conservation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0055",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Pollution",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0056",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Biogeochemical cycles",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0057",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Nutrition",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0058",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Deficiency diseases",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0059",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Pathogens",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0060",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Vaccination",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0061",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Public health",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0062",
+      "subject": "Biology",
+      "chapter": "Health",
+      "topic": "Adolescence",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0063",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0064",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Velocity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0065",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Acceleration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0066",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Newton laws",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0067",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Friction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0068",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Work energy power",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0069",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Momentum",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0070",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Newton cradle",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0071",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Circular motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0072",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Rotational motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0073",
+      "subject": "Physics",
+      "chapter": "Mechanics",
+      "topic": "Torque",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0074",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Gravitation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0075",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Free fall in a uniform gravitational field",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0076",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Air resistance",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0077",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Terminal velocity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0078",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Satellite motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0079",
+      "subject": "Physics",
+      "chapter": "Gravity",
+      "topic": "Escape velocity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0080",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Buoyancy",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0081",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Archimedes principle",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0082",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Apparent loss in weight",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0083",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Surface tension",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0084",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Angle of contact",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0085",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Bernoulli theorem",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0086",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Capillary action",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0087",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Coefficient of viscosity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0088",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Pascal law",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0089",
+      "subject": "Physics",
+      "chapter": "Fluids",
+      "topic": "Fluid pressure",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0090",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Electricity and magnetism",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0091",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Fleming left hand rule",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0092",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Speed of movement of coil",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0093",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Magnetic field lines",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0094",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Electric current",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0095",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Ohm law",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0096",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Electric circuits",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0097",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Electric motors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0098",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Electromagnetic induction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0099",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Generators",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0100",
+      "subject": "Physics",
+      "chapter": "Electricity and Magnetism",
+      "topic": "Transformers",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0101",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Laws of reflection",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0102",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Plane mirrors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0103",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Concave mirrors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0104",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Convex mirrors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0105",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Real life examples",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0106",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Refraction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0107",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Lenses",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0108",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Human eye",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0109",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Prisms",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0110",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Interference",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0111",
+      "subject": "Physics",
+      "chapter": "Light and Optics",
+      "topic": "Diffraction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0112",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Echoes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0113",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "SONAR",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0114",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Reverberations",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0115",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Effective length of seconds pendulum",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0116",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Variation of time period of a simple pendulum",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0117",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Pendulum wave",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0118",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Simple harmonic motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0119",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Wave motion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0120",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Resonance",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0121",
+      "subject": "Physics",
+      "chapter": "Waves and Oscillations",
+      "topic": "Doppler effect",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0122",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Heat",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0123",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Temperature",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0124",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Heat transfer",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0125",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Thermal expansion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0126",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Gas laws",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0127",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Thermodynamics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0128",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Entropy",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0129",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Atomic physics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0130",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Nuclear physics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0131",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric effect",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0132",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Semiconductors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0133",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Quantum physics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0134",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Relativity",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0135",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Rutherford model",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0136",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Valency",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0137",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Atomic particles",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0138",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr model",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0139",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Electronic configuration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0140",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Periodic table",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0141",
+      "subject": "Chemistry",
+      "chapter": "Atomic Structure",
+      "topic": "Periodic trends",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0142",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Ionic bonding",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0143",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Covalent bonding",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0144",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Metallic bonding",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0145",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Lewis structures",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0146",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Molecular geometry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0147",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Hybridization",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0148",
+      "subject": "Chemistry",
+      "chapter": "Bonding",
+      "topic": "Hydrogen bonding",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0149",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Rate of reaction",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0150",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Effect of concentration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0151",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Effect of catalysts",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0152",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Effect of surface area",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0153",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Effect of change in temperature",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0154",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Catalytic converter",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0155",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Activation energy",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0156",
+      "subject": "Chemistry",
+      "chapter": "Reaction Kinetics",
+      "topic": "Chemical equilibrium",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0157",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Salt analysis",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0158",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Group tests",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0159",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Cation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0160",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Anion",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0161",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Solubility",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0162",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Named reactions",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0163",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Colour changes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0164",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Indicators",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0165",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "pH",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0166",
+      "subject": "Chemistry",
+      "chapter": "Qualitative Analysis",
+      "topic": "Titration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0167",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Simple distillation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0168",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Fractional distillation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0169",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Centrifugation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0170",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Chromatography",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0171",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Filtration",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0172",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Evaporation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0173",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Crystallization",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0174",
+      "subject": "Chemistry",
+      "chapter": "Separation Techniques",
+      "topic": "Sublimation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0175",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Bravais lattice",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0176",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Radius ratio",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0177",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Effective number of particles",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0178",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Ionic crystal arrangements",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0179",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Types of voids",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0180",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Defects",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0181",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Unit cells",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0182",
+      "subject": "Chemistry",
+      "chapter": "Solid State",
+      "topic": "Packing efficiency",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0183",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Mole concept",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0184",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Stoichiometry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0185",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0186",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0187",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0188",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Colligative properties",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0189",
+      "subject": "Chemistry",
+      "chapter": "Physical Chemistry",
+      "topic": "Surface chemistry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0190",
+      "subject": "Chemistry",
+      "chapter": "Inorganic Chemistry",
+      "topic": "s block",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0191",
+      "subject": "Chemistry",
+      "chapter": "Inorganic Chemistry",
+      "topic": "p block",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0192",
+      "subject": "Chemistry",
+      "chapter": "Inorganic Chemistry",
+      "topic": "d block",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0193",
+      "subject": "Chemistry",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination chemistry",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0194",
+      "subject": "Chemistry",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Metallurgy",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0195",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Hydrocarbons",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0196",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Isomerism",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0197",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Functional groups",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0198",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Alcohols",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0199",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Aldehydes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0200",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Ketones",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0201",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Carboxylic acids",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0202",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Amines",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0203",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Polymers",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0204",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction mechanisms",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0205",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Rocks",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0206",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Minerals",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0207",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Earth structure",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0208",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Plate tectonics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0209",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Earthquakes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0210",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Volcanoes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0211",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Water cycle",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0212",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Weather",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0213",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Climate",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0214",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Monsoons",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0215",
+      "subject": "Earth & Space",
+      "chapter": "Earth Science",
+      "topic": "Oceans",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0216",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Solar system",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0217",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Sun",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0218",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Moon",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0219",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Planets",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0220",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Eclipses",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0221",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Seasons",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0222",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Stars",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0223",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Galaxies",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0224",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Black holes",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0225",
+      "subject": "Earth & Space",
+      "chapter": "Astronomy",
+      "topic": "Space missions",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0226",
+      "subject": "Earth & Space",
+      "chapter": "Environment",
+      "topic": "Natural resources",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0227",
+      "subject": "Earth & Space",
+      "chapter": "Environment",
+      "topic": "Climate change",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0228",
+      "subject": "Earth & Space",
+      "chapter": "Environment",
+      "topic": "Waste management",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0229",
+      "subject": "Earth & Space",
+      "chapter": "Environment",
+      "topic": "Renewable energy",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0230",
+      "subject": "Earth & Space",
+      "chapter": "Environment",
+      "topic": "Water conservation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0231",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Plants around us",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0232",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Animals around us",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0233",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Our senses",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0234",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Food",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0235",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Water",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0236",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Air",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0237",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Shelter",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0238",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Materials",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0239",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Push and pull",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0240",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Light and shadows",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0241",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Sound",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0242",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Day and night",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0243",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Early Science",
+      "topic": "Safety",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0244",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Observation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0245",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Measurement",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0246",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Classification",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0247",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Scientific method",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0248",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Experiments",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0249",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Graphs",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0250",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Science Skills",
+      "topic": "Data interpretation",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0251",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Simple machines",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0252",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Robotics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0253",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Sensors",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0254",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Electronics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0255",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "AI basics",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0256",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Computing",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    },
+    {
+      "id": "SA-0257",
+      "subject": "Foundational Science & Technology",
+      "chapter": "Technology",
+      "topic": "Engineering design",
+      "subtopics": [
+        "Core definitions and terminology",
+        "Structure, principles and mechanisms",
+        "Worked examples and real-world applications",
+        "Interactive observations and assessment"
+      ],
+      "visuals": [
+        "2D",
+        "3D",
+        "Watch",
+        "Simulate"
+      ],
+      "curriculum_status": "Needs official board/grade/textbook mapping"
+    }
+  ]
+}

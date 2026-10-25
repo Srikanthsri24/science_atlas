@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import ts from 'typescript';
+const source=readFileSync(new URL('../src/lib/models.ts',import.meta.url),'utf8');
+const js=ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
+const {pendulumPeriod,circuitValues,refract}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+test('one metre pendulum and length scaling',()=>{assert.ok(Math.abs(pendulumPeriod(1)-2.00606668)<1e-7);assert.ok(Math.abs(pendulumPeriod(4)/pendulumPeriod(1)-2)<1e-12);assert.throws(()=>pendulumPeriod(0));});
+test('Ohm law and power',()=>{assert.deepEqual(circuitValues(12,100),{current:.12,power:1.44});assert.throws(()=>circuitValues(1,0));});
+test('Snell law, normal incidence, critical angle and TIR',()=>{assert.equal(refract(0,1,1.5).angle,0);assert.ok(Math.abs(refract(30,1,1.5).angle-19.471220634)<1e-8);assert.equal(refract(60,1.5,1).angle,null);assert.ok(Math.abs(refract(60,1.5,1).criticalAngle-41.810314896)<1e-8);});
+test('rejects non-finite model inputs',()=>{for(const invalid of [NaN,Infinity,-Infinity]){assert.throws(()=>pendulumPeriod(invalid));assert.throws(()=>pendulumPeriod(1,invalid));assert.throws(()=>circuitValues(invalid,100));assert.throws(()=>circuitValues(12,invalid));assert.throws(()=>refract(invalid,1,1.5));assert.throws(()=>refract(30,invalid,1.5));assert.throws(()=>refract(30,1,invalid));}});

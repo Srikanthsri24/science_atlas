@@ -1,0 +1,4 @@
+export type UniverseKind='collision'|'lever'|'magnet'|'motor'|'standing'|'echo'|'conduction'|'capillary'|'decay'|'orbit'|'titration'|'distillation'|'crystal'|'electrolysis'|'galvanic'|'rutherford'|'solubility'|'centrifuge'|'heart'|'nephron'|'reflex'|'replication'|'meiosis'|'transpiration'|'foodweb'|'population'|'watercycle'|'seasons'|'moon'|'seismic';
+export const universeKinds:UniverseKind[]=["collision", "lever", "magnet", "motor", "standing", "echo", "conduction", "capillary", "decay", "orbit", "titration", "distillation", "crystal", "electrolysis", "galvanic", "rutherford", "solubility", "centrifuge", "heart", "nephron", "reflex", "replication", "meiosis", "transpiration", "foodweb", "population", "watercycle", "seasons", "moon", "seismic"];
+export const isUniverseKind=(kind:string):kind is UniverseKind=>(universeKinds as string[]).includes(kind);
+export type UniverseParameters={ua:number;ub:number;uc:number;ud:number};
