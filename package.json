@@ -1,6 +1,6 @@
 {
   "name": "science-atlas-360",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1 --port 5180",
     "test": "node --test tests/*.test.mjs",
-    "validate": "node scripts/validate-inventory.mjs",
+    "validate": "node scripts/validate-inventory.mjs && node scripts/concept-ledger.mjs",
     "predev": "node scripts/prepare-public.mjs",
     "prebuild": "node scripts/prepare-public.mjs"
   },

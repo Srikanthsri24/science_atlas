@@ -1,0 +1,4085 @@
+{
+  "schemaVersion": "1.0",
+  "records": [
+    {
+      "recordId": "SA-0075",
+      "contentId": "lesson:sa-0075",
+      "title": "Free fall in a uniform gravitational field",
+      "subject": "Physics",
+      "kind": "freefall",
+      "batch": 1,
+      "shortDescription": "Free fall is motion under gravity alone. In a near-Earth uniform field, a body released from rest accelerates downward at g.",
+      "ageAppropriateExplanation": "Imagine letting go of a ball where air has no effect. It falls faster each second because Earth pulls it downward.",
+      "explanation": [
+        "Free fall is motion under gravity alone. In a near-Earth uniform field, a body released from rest accelerates downward at g.",
+        "Taking downward as positive, v=gt and distance fallen=½gt², until ground contact. The model uses g=9.81 m/s²; it excludes air resistance and variation in gravity.",
+        "In an evacuated drop tube, objects of different masses released together have equal acceleration."
+      ],
+      "scientificPrinciples": [
+        "Taking downward as positive, v=gt and distance fallen=½gt², until ground contact. The model uses g=9.81 m/s²; it excludes air resistance and variation in gravity."
+      ],
+      "definitions": {
+        "Free fall": "Motion influenced only by gravity.",
+        "Uniform field": "A region where gravitational acceleration has the same magnitude and direction."
+      },
+      "terminology": [
+        "Free fall",
+        "Uniform field"
+      ],
+      "formula": "v = gt; s = ½gt²; v² = 2gs · v m/s, s m, t s",
+      "realLifeExamples": [
+        "In an evacuated drop tube, objects of different masses released together have equal acceleration."
+      ],
+      "objectives": [
+        "Start at rest at the selected height.",
+        "Equal time intervals cover increasing distances.",
+        "Keep height fixed and compare two masses."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A heavier object does not have greater free-fall acceleration in this uniform-field model."
+      ],
+      "steps": [
+        {
+          "title": "Release",
+          "caption": "Start at rest at the selected height.",
+          "detail": "Initial vertical speed is zero."
+        },
+        {
+          "title": "Accelerate",
+          "caption": "The speed increases by g each second.",
+          "detail": "Acceleration remains constant during the airborne part."
+        },
+        {
+          "title": "Fall farther",
+          "caption": "Equal time intervals cover increasing distances.",
+          "detail": "Distance depends on the square of elapsed time."
+        },
+        {
+          "title": "Reach the floor",
+          "caption": "Distinguish impact speed from speed after contact.",
+          "detail": "The model stops the body at the floor without rebound."
+        },
+        {
+          "title": "Compare masses",
+          "caption": "Keep height fixed and compare two masses.",
+          "detail": "Both vacuum trajectories have the same impact time."
+        }
+      ],
+      "activity": "Turn drag off, double mass, and compare impact time from the same height.",
+      "quiz": [
+        {
+          "question": "Which force acts in ideal free fall?",
+          "options": [
+            "Gravity alone",
+            "Drag alone",
+            "No force"
+          ],
+          "answer": 0,
+          "explanation": "Free fall means gravity is the only force considered."
+        },
+        {
+          "question": "From rest at g=10 m/s², speed after 2 s is…",
+          "options": [
+            "5 m/s",
+            "20 m/s",
+            "40 m/s"
+          ],
+          "answer": 1,
+          "explanation": "v=gt=10×2=20 m/s."
+        },
+        {
+          "question": "At the same height, doubling mass in vacuum makes fall time…",
+          "options": [
+            "Unchanged",
+            "Double",
+            "Half"
+          ],
+          "answer": 0,
+          "explanation": "The acceleration g is independent of test-body mass."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "airDrag": false
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the freefall scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Release",
+        "Accelerate",
+        "Fall farther",
+        "Reach the floor",
+        "Compare masses"
+      ],
+      "simulationSpecification": "Use the stated freefall equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Start at rest at the selected height.",
+        "The speed increases by g each second.",
+        "Equal time intervals cover increasing distances.",
+        "Distinguish impact speed from speed after contact.",
+        "Keep height fixed and compare two masses."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Free fall in a uniform gravitational field",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-5-free-fall",
+          "title": "OpenStax · Free Fall",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        },
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
+          "title": "OpenStax · Mechanics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Free fall is motion under gravity alone. In a near-Earth uniform field, a body released from rest accelerates downward at g.",
+        "Taking downward as positive, v=gt and distance fallen=½gt², until ground contact. The model uses g=9.81 m/s²; it excludes air resistance and variation in gravity.",
+        "In an evacuated drop tube, objects of different masses released together have equal acceleration.",
+        "The analytic model fixes density and drag coefficient and stops at the ground without a bounce. Terminal speed may not be reached before impact."
+      ],
+      "learningLevels": {
+        "primary": "Imagine letting go of a ball where air has no effect. It falls faster each second because Earth pulls it downward.",
+        "secondary": "Free fall is motion under gravity alone. In a near-Earth uniform field, a body released from rest accelerates downward at g. Taking downward as positive, v=gt and distance fallen=½gt², until ground contact. The model uses g=9.81 m/s²; it excludes air resistance and variation in gravity. In an evacuated drop tube, objects of different masses released together have equal acceleration.",
+        "senior": "v = gt; s = ½gt²; v² = 2gs · v m/s, s m, t s Taking downward as positive, v=gt and distance fallen=½gt², until ground contact. The model uses g=9.81 m/s²; it excludes air resistance and variation in gravity."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0076",
+      "contentId": "lesson:sa-0076",
+      "title": "Air resistance",
+      "subject": "Physics",
+      "kind": "freefall",
+      "batch": 1,
+      "shortDescription": "Air resistance opposes a body’s velocity relative to air. For this falling-body model, drag increases with the square of speed.",
+      "ageAppropriateExplanation": "Air pushes against a falling object. A wider object feels more resistance at the same speed.",
+      "explanation": [
+        "Air resistance opposes a body’s velocity relative to air. For this falling-body model, drag increases with the square of speed.",
+        "For downward speed v, Fdrag=½ρCdAv² upward and acceleration=g−Fdrag/m. Air density and drag coefficient are fixed teaching assumptions.",
+        "A broad parachute slows descent by increasing frontal area; this model does not calculate deployment."
+      ],
+      "scientificPrinciples": [
+        "For downward speed v, Fdrag=½ρCdAv² upward and acceleration=g−Fdrag/m. Air density and drag coefficient are fixed teaching assumptions."
+      ],
+      "definitions": {
+        "Drag": "Force resisting relative motion through a fluid.",
+        "Frontal area": "Projected area facing the flow, measured in m²."
+      },
+      "terminology": [
+        "Drag",
+        "Frontal area"
+      ],
+      "formula": "Fdrag = ½ρCdAv²; a = g − Fdrag/m",
+      "realLifeExamples": [
+        "A broad parachute slows descent by increasing frontal area; this model does not calculate deployment."
+      ],
+      "objectives": [
+        "At zero speed, quadratic drag is zero.",
+        "Compare drag with weight.",
+        "A finite drop may end before terminal speed."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Air resistance is not constant, and it does not point upward for every possible direction of motion."
+      ],
+      "steps": [
+        {
+          "title": "Release",
+          "caption": "At zero speed, quadratic drag is zero.",
+          "detail": "Gravity initially produces acceleration g."
+        },
+        {
+          "title": "Build speed",
+          "caption": "The upward drag force grows with speed.",
+          "detail": "Doubling speed gives four times the drag at unchanged area."
+        },
+        {
+          "title": "Reduce acceleration",
+          "caption": "Compare drag with weight.",
+          "detail": "The net downward force is mg−Fdrag."
+        },
+        {
+          "title": "Change area",
+          "caption": "A larger frontal area increases resistance.",
+          "detail": "Hold mass and time fixed for a fair comparison."
+        },
+        {
+          "title": "Read the limit",
+          "caption": "A finite drop may end before terminal speed.",
+          "detail": "Do not identify impact speed automatically with terminal speed."
+        }
+      ],
+      "activity": "Keep mass fixed, increase frontal area, and compare speed at the same elapsed time.",
+      "quiz": [
+        {
+          "question": "In this model, doubling speed changes drag by…",
+          "options": [
+            "2×",
+            "4×",
+            "½×"
+          ],
+          "answer": 1,
+          "explanation": "Quadratic drag is proportional to v²."
+        },
+        {
+          "question": "For a falling body, drag points…",
+          "options": [
+            "Downward",
+            "Upward",
+            "Always sideways"
+          ],
+          "answer": 1,
+          "explanation": "Drag opposes downward relative motion."
+        },
+        {
+          "question": "At release from rest, quadratic drag is…",
+          "options": [
+            "Zero",
+            "Equal to weight",
+            "Infinite"
+          ],
+          "answer": 0,
+          "explanation": "The v² factor is initially zero."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "airDrag": true
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the freefall scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Release",
+        "Build speed",
+        "Reduce acceleration",
+        "Change area",
+        "Read the limit"
+      ],
+      "simulationSpecification": "Use the stated freefall equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "At zero speed, quadratic drag is zero.",
+        "The upward drag force grows with speed.",
+        "Compare drag with weight.",
+        "A larger frontal area increases resistance.",
+        "A finite drop may end before terminal speed."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Air resistance",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
+          "title": "OpenStax · Mechanics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Air resistance opposes a body’s velocity relative to air. For this falling-body model, drag increases with the square of speed.",
+        "For downward speed v, Fdrag=½ρCdAv² upward and acceleration=g−Fdrag/m. Air density and drag coefficient are fixed teaching assumptions.",
+        "A broad parachute slows descent by increasing frontal area; this model does not calculate deployment.",
+        "The analytic model fixes density and drag coefficient and stops at the ground without a bounce. Terminal speed may not be reached before impact."
+      ],
+      "learningLevels": {
+        "primary": "Air pushes against a falling object. A wider object feels more resistance at the same speed.",
+        "secondary": "Air resistance opposes a body’s velocity relative to air. For this falling-body model, drag increases with the square of speed. For downward speed v, Fdrag=½ρCdAv² upward and acceleration=g−Fdrag/m. Air density and drag coefficient are fixed teaching assumptions. A broad parachute slows descent by increasing frontal area; this model does not calculate deployment.",
+        "senior": "Fdrag = ½ρCdAv²; a = g − Fdrag/m For downward speed v, Fdrag=½ρCdAv² upward and acceleration=g−Fdrag/m. Air density and drag coefficient are fixed teaching assumptions."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0077",
+      "contentId": "lesson:sa-0077",
+      "title": "Terminal velocity",
+      "subject": "Physics",
+      "kind": "freefall",
+      "batch": 1,
+      "shortDescription": "Terminal velocity occurs when drag balances weight, so vertical acceleration becomes zero while the body continues moving.",
+      "ageAppropriateExplanation": "A falling object can reach a steady speed when the air’s upward push balances its weight.",
+      "explanation": [
+        "Terminal velocity occurs when drag balances weight, so vertical acceleration becomes zero while the body continues moving.",
+        "For a body falling in still air with quadratic drag and negligible buoyancy, vt=√(2mg/(ρCdA)). The solution approaches vt; a short tower may be insufficient.",
+        "Skydivers change posture to change area and hence terminal speed; the model represents a fixed posture."
+      ],
+      "scientificPrinciples": [
+        "For a body falling in still air with quadratic drag and negligible buoyancy, vt=√(2mg/(ρCdA)). The solution approaches vt; a short tower may be insufficient."
+      ],
+      "definitions": {
+        "Terminal speed": "Steady limiting speed when the net force is zero.",
+        "Weight": "Gravitational force mg in newtons."
+      },
+      "terminology": [
+        "Terminal speed",
+        "Weight"
+      ],
+      "formula": "vt = √(2mg / ρCdA) · m/s",
+      "realLifeExamples": [
+        "Skydivers change posture to change area and hence terminal speed; the model represents a fixed posture."
+      ],
+      "objectives": [
+        "Weight acts downward throughout descent.",
+        "At the limit, drag equals weight.",
+        "Compare mass and area separately."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Zero acceleration does not mean zero velocity."
+      ],
+      "steps": [
+        {
+          "title": "Identify weight",
+          "caption": "Weight acts downward throughout descent.",
+          "detail": "Its magnitude is mg in this uniform field."
+        },
+        {
+          "title": "Watch drag grow",
+          "caption": "Drag rises as speed rises.",
+          "detail": "The force difference narrows over time."
+        },
+        {
+          "title": "Balance forces",
+          "caption": "At the limit, drag equals weight.",
+          "detail": "The acceleration approaches zero."
+        },
+        {
+          "title": "Continue moving",
+          "caption": "Force balance permits steady nonzero speed.",
+          "detail": "Newton’s first law applies."
+        },
+        {
+          "title": "Change the limit",
+          "caption": "Compare mass and area separately.",
+          "detail": "Terminal speed scales as √m and 1/√A."
+        }
+      ],
+      "activity": "Compare vt after quadrupling mass and after quadrupling area.",
+      "quiz": [
+        {
+          "question": "At terminal speed, acceleration is…",
+          "options": [
+            "Zero",
+            "g",
+            "Increasing"
+          ],
+          "answer": 0,
+          "explanation": "Balanced vertical forces give zero net acceleration."
+        },
+        {
+          "question": "Quadrupling mass at fixed area multiplies vt by…",
+          "options": [
+            "4",
+            "2",
+            "½"
+          ],
+          "answer": 1,
+          "explanation": "vt is proportional to √m."
+        },
+        {
+          "question": "A short drop must reach terminal speed.",
+          "options": [
+            "True",
+            "False",
+            "Only if mass is zero"
+          ],
+          "answer": 1,
+          "explanation": "Available distance and time may be insufficient."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "airDrag": true,
+        "fallHeight": 100
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the freefall scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Identify weight",
+        "Watch drag grow",
+        "Balance forces",
+        "Continue moving",
+        "Change the limit"
+      ],
+      "simulationSpecification": "Use the stated freefall equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Weight acts downward throughout descent.",
+        "Drag rises as speed rises.",
+        "At the limit, drag equals weight.",
+        "Force balance permits steady nonzero speed.",
+        "Compare mass and area separately."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Terminal velocity",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
+          "title": "OpenStax · Mechanics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Terminal velocity occurs when drag balances weight, so vertical acceleration becomes zero while the body continues moving.",
+        "For a body falling in still air with quadratic drag and negligible buoyancy, vt=√(2mg/(ρCdA)). The solution approaches vt; a short tower may be insufficient.",
+        "Skydivers change posture to change area and hence terminal speed; the model represents a fixed posture.",
+        "The analytic model fixes density and drag coefficient and stops at the ground without a bounce. Terminal speed may not be reached before impact."
+      ],
+      "learningLevels": {
+        "primary": "A falling object can reach a steady speed when the air’s upward push balances its weight.",
+        "secondary": "Terminal velocity occurs when drag balances weight, so vertical acceleration becomes zero while the body continues moving. For a body falling in still air with quadratic drag and negligible buoyancy, vt=√(2mg/(ρCdA)). The solution approaches vt; a short tower may be insufficient. Skydivers change posture to change area and hence terminal speed; the model represents a fixed posture.",
+        "senior": "vt = √(2mg / ρCdA) · m/s For a body falling in still air with quadratic drag and negligible buoyancy, vt=√(2mg/(ρCdA)). The solution approaches vt; a short tower may be insufficient."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0080",
+      "contentId": "lesson:sa-0080",
+      "title": "Buoyancy",
+      "subject": "Physics",
+      "kind": "buoyancy",
+      "batch": 1,
+      "shortDescription": "Buoyancy is the resultant upward pressure force exerted by a fluid on an immersed object.",
+      "ageAppropriateExplanation": "Water pushes harder on the bottom of a submerged object than on its top, creating an upward force.",
+      "explanation": [
+        "Buoyancy is the resultant upward pressure force exerted by a fluid on an immersed object.",
+        "In a stationary uniform-density fluid, Fb=ρfluid g Vdisplaced. A freely floating object balances weight with buoyancy; a held object may need another force.",
+        "A floating boat displaces enough water for the displaced water’s weight to equal the boat’s weight."
+      ],
+      "scientificPrinciples": [
+        "In a stationary uniform-density fluid, Fb=ρfluid g Vdisplaced. A freely floating object balances weight with buoyancy; a held object may need another force."
+      ],
+      "definitions": {
+        "Buoyancy": "Net upward hydrostatic force on an immersed object.",
+        "Displaced volume": "Volume of fluid excluded by the submerged part."
+      },
+      "terminology": [
+        "Buoyancy",
+        "Displaced volume"
+      ],
+      "formula": "Fb = ρfluid g Vdisplaced · N",
+      "realLifeExamples": [
+        "A floating boat displaces enough water for the displaced water’s weight to equal the boat’s weight."
+      ],
+      "objectives": [
+        "Identify the submerged part.",
+        "Multiply fluid density, g and displaced volume.",
+        "At fixed volume, denser fluid produces more buoyancy."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Buoyancy depends on displaced volume and fluid density, not on object mass alone."
+      ],
+      "steps": [
+        {
+          "title": "Enter the fluid",
+          "caption": "Identify the submerged part.",
+          "detail": "Only that volume displaces fluid."
+        },
+        {
+          "title": "Compare pressures",
+          "caption": "Pressure is larger deeper in the liquid.",
+          "detail": "The lower pressure forces do not cancel the upper ones."
+        },
+        {
+          "title": "Calculate the force",
+          "caption": "Multiply fluid density, g and displaced volume.",
+          "detail": "Convert litres to cubic metres."
+        },
+        {
+          "title": "Balance or move",
+          "caption": "Compare buoyancy with weight.",
+          "detail": "A restraint can supply the missing force."
+        },
+        {
+          "title": "Change the fluid",
+          "caption": "At fixed volume, denser fluid produces more buoyancy.",
+          "detail": "The body can float with less submerged volume."
+        }
+      ],
+      "activity": "Hold immersion fixed; double fluid density and compare buoyant force.",
+      "quiz": [
+        {
+          "question": "A 1 L submerged volume displaces…",
+          "options": [
+            "0.001 m³",
+            "1 m³",
+            "1000 m³"
+          ],
+          "answer": 0,
+          "explanation": "1 L=10⁻³ m³."
+        },
+        {
+          "question": "Doubling fluid density at fixed submerged volume gives…",
+          "options": [
+            "Half the buoyancy",
+            "Twice the buoyancy",
+            "No change"
+          ],
+          "answer": 1,
+          "explanation": "Fb is proportional to fluid density."
+        },
+        {
+          "question": "A freely floating body has…",
+          "options": [
+            "Fb=weight",
+            "Fb=0",
+            "Fb always greater than weight"
+          ],
+          "answer": 0,
+          "explanation": "Vertical forces balance at rest."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "released": false
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the buoyancy scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Enter the fluid",
+        "Compare pressures",
+        "Calculate the force",
+        "Balance or move",
+        "Change the fluid"
+      ],
+      "simulationSpecification": "Use the stated buoyancy equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Identify the submerged part.",
+        "Pressure is larger deeper in the liquid.",
+        "Multiply fluid density, g and displaced volume.",
+        "Compare buoyancy with weight.",
+        "At fixed volume, denser fluid produces more buoyancy."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Buoyancy",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+          "title": "OpenStax · Archimedes’ principle",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Buoyancy is the resultant upward pressure force exerted by a fluid on an immersed object.",
+        "In a stationary uniform-density fluid, Fb=ρfluid g Vdisplaced. A freely floating object balances weight with buoyancy; a held object may need another force.",
+        "A floating boat displaces enough water for the displaced water’s weight to equal the boat’s weight.",
+        "A freely floating object settles when buoyancy balances weight, provided its average density is below the fluid density. A denser block sinks and can eventually be supported by the tank floor. This experiment models a rigid cube in a large, fixed-level tank. A one-dimensional damped release uses hydrostatic buoyancy and illustrative linear drag; it omits fluid waves, surface tension, added mass and detailed turbulence."
+      ],
+      "learningLevels": {
+        "primary": "Water pushes harder on the bottom of a submerged object than on its top, creating an upward force.",
+        "secondary": "Buoyancy is the resultant upward pressure force exerted by a fluid on an immersed object. In a stationary uniform-density fluid, Fb=ρfluid g Vdisplaced. A freely floating object balances weight with buoyancy; a held object may need another force. A floating boat displaces enough water for the displaced water’s weight to equal the boat’s weight.",
+        "senior": "Fb = ρfluid g Vdisplaced · N In a stationary uniform-density fluid, Fb=ρfluid g Vdisplaced. A freely floating object balances weight with buoyancy; a held object may need another force."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0081",
+      "contentId": "lesson:sa-0081",
+      "title": "Archimedes principle",
+      "subject": "Physics",
+      "kind": "buoyancy",
+      "batch": 1,
+      "shortDescription": "Archimedes’ principle states that buoyant force equals the weight of the fluid displaced by an immersed body.",
+      "ageAppropriateExplanation": "Imagine replacing the underwater part of an object with water. That water’s weight tells you the upward buoyant force.",
+      "explanation": [
+        "Archimedes’ principle states that buoyant force equals the weight of the fluid displaced by an immersed body.",
+        "The principle follows from hydrostatic pressure forces. Displaced-fluid mass is ρV, and its weight is ρgV; partial and complete immersion use the same rule.",
+        "A ship’s hull can contain air while its total mass is supported by the water displaced by the submerged hull."
+      ],
+      "scientificPrinciples": [
+        "The principle follows from hydrostatic pressure forces. Displaced-fluid mass is ρV, and its weight is ρgV; partial and complete immersion use the same rule."
+      ],
+      "definitions": {
+        "Archimedes’ principle": "Buoyant force equals displaced-fluid weight.",
+        "Fluid density": "Mass per volume, in kg/m³."
+      },
+      "terminology": [
+        "Archimedes’ principle",
+        "Fluid density"
+      ],
+      "formula": "Fb = mdisplaced g = ρVdisplaced g",
+      "realLifeExamples": [
+        "A ship’s hull can contain air while its total mass is supported by the water displaced by the submerged hull."
+      ],
+      "objectives": [
+        "Read its density in kg/m³.",
+        "Multiply density by displaced volume.",
+        "Double immersion before full submergence."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "The displaced-fluid volume equals submerged object volume, not necessarily the entire object volume."
+      ],
+      "steps": [
+        {
+          "title": "Define the fluid",
+          "caption": "Read its density in kg/m³.",
+          "detail": "Density and volume must use compatible units."
+        },
+        {
+          "title": "Find displacement",
+          "caption": "Use only the submerged volume.",
+          "detail": "A partially immersed block displaces less than its full volume."
+        },
+        {
+          "title": "Find fluid mass",
+          "caption": "Multiply density by displaced volume.",
+          "detail": "The result has units of kilograms."
+        },
+        {
+          "title": "Find fluid weight",
+          "caption": "Multiply displaced mass by g.",
+          "detail": "This equals the buoyant force."
+        },
+        {
+          "title": "Test proportionality",
+          "caption": "Double immersion before full submergence.",
+          "detail": "Buoyancy doubles in the uniform liquid."
+        }
+      ],
+      "activity": "Set the block to 50% and 100% immersion and compare displaced volume and buoyancy.",
+      "quiz": [
+        {
+          "question": "Archimedes’ principle compares buoyancy with…",
+          "options": [
+            "Object volume alone",
+            "Displaced-fluid weight",
+            "Object colour"
+          ],
+          "answer": 1,
+          "explanation": "It is the weight of the displaced fluid."
+        },
+        {
+          "question": "For a half-immersed 2 L body, displacement is…",
+          "options": [
+            "1 L",
+            "2 L",
+            "4 L"
+          ],
+          "answer": 0,
+          "explanation": "The submerged half occupies 1 L."
+        },
+        {
+          "question": "At constant density, doubling displaced volume makes Fb…",
+          "options": [
+            "Double",
+            "Half",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "Fb=ρgV."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "released": false
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the buoyancy scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Define the fluid",
+        "Find displacement",
+        "Find fluid mass",
+        "Find fluid weight",
+        "Test proportionality"
+      ],
+      "simulationSpecification": "Use the stated buoyancy equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Read its density in kg/m³.",
+        "Use only the submerged volume.",
+        "Multiply density by displaced volume.",
+        "Multiply displaced mass by g.",
+        "Double immersion before full submergence."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Archimedes principle",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+          "title": "OpenStax · Archimedes’ principle",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Archimedes’ principle states that buoyant force equals the weight of the fluid displaced by an immersed body.",
+        "The principle follows from hydrostatic pressure forces. Displaced-fluid mass is ρV, and its weight is ρgV; partial and complete immersion use the same rule.",
+        "A ship’s hull can contain air while its total mass is supported by the water displaced by the submerged hull.",
+        "A freely floating object settles when buoyancy balances weight, provided its average density is below the fluid density. A denser block sinks and can eventually be supported by the tank floor. This experiment models a rigid cube in a large, fixed-level tank. A one-dimensional damped release uses hydrostatic buoyancy and illustrative linear drag; it omits fluid waves, surface tension, added mass and detailed turbulence."
+      ],
+      "learningLevels": {
+        "primary": "Imagine replacing the underwater part of an object with water. That water’s weight tells you the upward buoyant force.",
+        "secondary": "Archimedes’ principle states that buoyant force equals the weight of the fluid displaced by an immersed body. The principle follows from hydrostatic pressure forces. Displaced-fluid mass is ρV, and its weight is ρgV; partial and complete immersion use the same rule. A ship’s hull can contain air while its total mass is supported by the water displaced by the submerged hull.",
+        "senior": "Fb = mdisplaced g = ρVdisplaced g The principle follows from hydrostatic pressure forces. Displaced-fluid mass is ρV, and its weight is ρgV; partial and complete immersion use the same rule."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0082",
+      "contentId": "lesson:sa-0082",
+      "title": "Apparent loss in weight",
+      "subject": "Physics",
+      "kind": "buoyancy",
+      "batch": 1,
+      "shortDescription": "A suspended object has a smaller support-force reading in a fluid because buoyancy provides part of the upward force.",
+      "ageAppropriateExplanation": "A hanging scale pulls upward less strongly when water also supports the object.",
+      "explanation": [
+        "A suspended object has a smaller support-force reading in a fluid because buoyancy provides part of the upward force.",
+        "At rest with upward support, T=mg−Fb. The apparent loss in weight is W−T=Fb. Negative support means a downward restraint is needed; an ordinary string cannot push down.",
+        "A dense stone suspended from a spring balance reads less when submerged."
+      ],
+      "scientificPrinciples": [
+        "At rest with upward support, T=mg−Fb. The apparent loss in weight is W−T=Fb. Negative support means a downward restraint is needed; an ordinary string cannot push down."
+      ],
+      "definitions": {
+        "Apparent weight": "Support-force reading, not a change in gravitational mass.",
+        "Tension": "Pulling force exerted by a taut string."
+      },
+      "terminology": [
+        "Apparent weight",
+        "Tension"
+      ],
+      "formula": "T = mg − ρgVdisplaced; W − T = Fb",
+      "realLifeExamples": [
+        "A dense stone suspended from a spring balance reads less when submerged."
+      ],
+      "objectives": [
+        "Find W=mg.",
+        "The required upward support decreases.",
+        "A light restrained block may need downward support."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Immersion does not reduce the object’s mass or its gravitational weight in the model."
+      ],
+      "steps": [
+        {
+          "title": "Measure in air",
+          "caption": "Find W=mg.",
+          "detail": "Ignore air buoyancy in this model."
+        },
+        {
+          "title": "Submerge the block",
+          "caption": "Water supplies an upward force.",
+          "detail": "Keep the object stationary."
+        },
+        {
+          "title": "Read support",
+          "caption": "The required upward support decreases.",
+          "detail": "For positive tension T=mg−Fb."
+        },
+        {
+          "title": "Compare the loss",
+          "caption": "Subtract the immersed reading from W.",
+          "detail": "The difference equals displaced-fluid weight."
+        },
+        {
+          "title": "Check the sign",
+          "caption": "A light restrained block may need downward support.",
+          "detail": "Negative T is not a possible upward-string reading."
+        }
+      ],
+      "activity": "Use a dense block with positive support; compare weight minus support with buoyancy.",
+      "quiz": [
+        {
+          "question": "If W=12 N and Fb=3 N, upward support is…",
+          "options": [
+            "15 N",
+            "9 N",
+            "4 N"
+          ],
+          "answer": 1,
+          "explanation": "T=12−3=9 N."
+        },
+        {
+          "question": "The apparent loss equals…",
+          "options": [
+            "Buoyant force",
+            "New mass",
+            "Zero"
+          ],
+          "answer": 0,
+          "explanation": "W−T=Fb."
+        },
+        {
+          "question": "A negative required support means…",
+          "options": [
+            "A string pushes down",
+            "A downward restraint is needed",
+            "Gravity reversed"
+          ],
+          "answer": 1,
+          "explanation": "An upward-only hanging string cannot supply a negative tension."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "blockMass": 2,
+        "released": false
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the buoyancy scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Measure in air",
+        "Submerge the block",
+        "Read support",
+        "Compare the loss",
+        "Check the sign"
+      ],
+      "simulationSpecification": "Use the stated buoyancy equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Find W=mg.",
+        "Water supplies an upward force.",
+        "The required upward support decreases.",
+        "Subtract the immersed reading from W.",
+        "A light restrained block may need downward support."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Apparent loss in weight",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+          "title": "OpenStax · Archimedes’ principle",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A suspended object has a smaller support-force reading in a fluid because buoyancy provides part of the upward force.",
+        "At rest with upward support, T=mg−Fb. The apparent loss in weight is W−T=Fb. Negative support means a downward restraint is needed; an ordinary string cannot push down.",
+        "A dense stone suspended from a spring balance reads less when submerged.",
+        "A freely floating object settles when buoyancy balances weight, provided its average density is below the fluid density. A denser block sinks and can eventually be supported by the tank floor. This experiment models a rigid cube in a large, fixed-level tank. A one-dimensional damped release uses hydrostatic buoyancy and illustrative linear drag; it omits fluid waves, surface tension, added mass and detailed turbulence."
+      ],
+      "learningLevels": {
+        "primary": "A hanging scale pulls upward less strongly when water also supports the object.",
+        "secondary": "A suspended object has a smaller support-force reading in a fluid because buoyancy provides part of the upward force. At rest with upward support, T=mg−Fb. The apparent loss in weight is W−T=Fb. Negative support means a downward restraint is needed; an ordinary string cannot push down. A dense stone suspended from a spring balance reads less when submerged.",
+        "senior": "T = mg − ρgVdisplaced; W − T = Fb At rest with upward support, T=mg−Fb. The apparent loss in weight is W−T=Fb. Negative support means a downward restraint is needed; an ordinary string cannot push down."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0084",
+      "contentId": "lesson:sa-0084",
+      "title": "Angle of contact",
+      "subject": "Physics",
+      "kind": "capillary",
+      "batch": 1,
+      "shortDescription": "Contact angle describes how a liquid surface meets a solid, measured through the liquid. It helps determine whether a narrow tube shows capillary rise or depression.",
+      "ageAppropriateExplanation": "A liquid can curve upward or downward where it touches a wall. The angle at that meeting point matters.",
+      "explanation": [
+        "Contact angle describes how a liquid surface meets a solid, measured through the liquid. It helps determine whether a narrow tube shows capillary rise or depression.",
+        "In an ideal cylindrical tube, h=2γcosθ/(ρgr). Angles below 90° give rise, above 90° give depression, and 90° gives no net capillary height in this model.",
+        "Clean water on glass commonly wets the wall; actual angles depend on surface chemistry and contamination."
+      ],
+      "scientificPrinciples": [
+        "In an ideal cylindrical tube, h=2γcosθ/(ρgr). Angles below 90° give rise, above 90° give depression, and 90° gives no net capillary height in this model."
+      ],
+      "definitions": {
+        "Contact angle": "Angle between solid surface and liquid-interface tangent, measured through the liquid.",
+        "Wetting": "Tendency of a liquid to spread over or adhere to a solid."
+      },
+      "terminology": [
+        "Contact angle",
+        "Wetting"
+      ],
+      "formula": "h = 2γ cosθ / (ρgr) · θ in degrees in the controls",
+      "realLifeExamples": [
+        "Clean water on glass commonly wets the wall; actual angles depend on surface chemistry and contamination."
+      ],
+      "objectives": [
+        "Identify solid, liquid and gas.",
+        "An angle below 90° gives positive height.",
+        "The equation predicts equilibrium height."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Contact angle is measured through the liquid, and it is not always zero."
+      ],
+      "steps": [
+        {
+          "title": "Locate the contact",
+          "caption": "Identify solid, liquid and gas.",
+          "detail": "The angle is defined where the three meet."
+        },
+        {
+          "title": "Measure through liquid",
+          "caption": "Use the tangent to the interface.",
+          "detail": "Do not measure the complementary gas-side angle."
+        },
+        {
+          "title": "Try a wetting case",
+          "caption": "An angle below 90° gives positive height.",
+          "detail": "The cosine factor is positive."
+        },
+        {
+          "title": "Cross 90 degrees",
+          "caption": "The sign of cosθ changes.",
+          "detail": "A nonwetting case gives a depressed column."
+        },
+        {
+          "title": "Separate height and speed",
+          "caption": "The equation predicts equilibrium height.",
+          "detail": "The approach animation is illustrative, not a viscous-rise solution."
+        }
+      ],
+      "activity": "Compare 30°, 90° and 110° at the same radius.",
+      "quiz": [
+        {
+          "question": "At θ=90°, ideal capillary height is…",
+          "options": [
+            "Zero",
+            "Maximum",
+            "Infinite"
+          ],
+          "answer": 0,
+          "explanation": "cos90°=0."
+        },
+        {
+          "question": "At θ=110°, the model predicts…",
+          "options": [
+            "Rise",
+            "Depression",
+            "No dependence on radius"
+          ],
+          "answer": 1,
+          "explanation": "cos110° is negative."
+        },
+        {
+          "question": "Contact angle is measured through…",
+          "options": [
+            "The liquid",
+            "Only the solid",
+            "Only the gas"
+          ],
+          "answer": 0,
+          "explanation": "That is the stated contact-angle convention."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the capillary scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Locate the contact",
+        "Measure through liquid",
+        "Try a wetting case",
+        "Cross 90 degrees",
+        "Separate height and speed"
+      ],
+      "simulationSpecification": "Use the stated capillary equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Identify solid, liquid and gas.",
+        "Use the tangent to the interface.",
+        "An angle below 90° gives positive height.",
+        "The sign of cosθ changes.",
+        "The equation predicts equilibrium height."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Angle of contact",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
+          "title": "OpenStax · Surface phenomena",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Contact angle describes how a liquid surface meets a solid, measured through the liquid. It helps determine whether a narrow tube shows capillary rise or depression.",
+        "In an ideal cylindrical tube, h=2γcosθ/(ρgr). Angles below 90° give rise, above 90° give depression, and 90° gives no net capillary height in this model.",
+        "Clean water on glass commonly wets the wall; actual angles depend on surface chemistry and contamination.",
+        "At 90° the ideal static height is zero. Static Jurin height for density 1000 kg/m³ and g=9.81 m/s². The approach to height is a staged illustration, not a viscosity-dependent transient solver. Radius and vertical height use different visual scales."
+      ],
+      "learningLevels": {
+        "primary": "A liquid can curve upward or downward where it touches a wall. The angle at that meeting point matters.",
+        "secondary": "Contact angle describes how a liquid surface meets a solid, measured through the liquid. It helps determine whether a narrow tube shows capillary rise or depression. In an ideal cylindrical tube, h=2γcosθ/(ρgr). Angles below 90° give rise, above 90° give depression, and 90° gives no net capillary height in this model. Clean water on glass commonly wets the wall; actual angles depend on surface chemistry and contamination.",
+        "senior": "h = 2γ cosθ / (ρgr) · θ in degrees in the controls In an ideal cylindrical tube, h=2γcosθ/(ρgr). Angles below 90° give rise, above 90° give depression, and 90° gives no net capillary height in this model."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0085",
+      "contentId": "lesson:sa-0085",
+      "title": "Bernoulli theorem",
+      "subject": "Physics",
+      "kind": "bernoulli",
+      "batch": 1,
+      "shortDescription": "Bernoulli’s equation relates pressure, speed and height along a streamline in a steady ideal flow.",
+      "ageAppropriateExplanation": "In this level pipe, the narrow section carries faster flow and has lower static pressure.",
+      "explanation": [
+        "Bernoulli’s equation relates pressure, speed and height along a streamline in a steady ideal flow.",
+        "For incompressible steady inviscid flow, P+½ρv²+ρgz is constant along a streamline. The horizontal bench also obeys Q=Av; it omits viscous losses and pumps.",
+        "A Venturi tube compares pressures across different pipe areas to infer flow under suitable assumptions."
+      ],
+      "scientificPrinciples": [
+        "For incompressible steady inviscid flow, P+½ρv²+ρgz is constant along a streamline. The horizontal bench also obeys Q=Av; it omits viscous losses and pumps."
+      ],
+      "definitions": {
+        "Static pressure": "Local pressure acting on a surface moving with the fluid.",
+        "Continuity": "Conservation of fluid volume flow for an incompressible stream."
+      },
+      "terminology": [
+        "Static pressure",
+        "Continuity"
+      ],
+      "formula": "P + ½ρv² + ρgz = constant; Q = Av",
+      "realLifeExamples": [
+        "A Venturi tube compares pressures across different pipe areas to infer flow under suitable assumptions."
+      ],
+      "objectives": [
+        "Compare two sections of the same steady flow.",
+        "The faster section has larger ½ρv².",
+        "Real pipes lose mechanical energy."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Fast flow does not imply low pressure in every situation; height changes, pumps and losses matter."
+      ],
+      "steps": [
+        {
+          "title": "Follow one streamline",
+          "caption": "Compare two sections of the same steady flow.",
+          "detail": "Use the stated ideal assumptions."
+        },
+        {
+          "title": "Conserve flow",
+          "caption": "Q is the same through both sections.",
+          "detail": "Smaller area means larger mean speed."
+        },
+        {
+          "title": "Compare kinetic terms",
+          "caption": "The faster section has larger ½ρv².",
+          "detail": "At equal height, another energy-per-volume term must decrease."
+        },
+        {
+          "title": "Read pressure difference",
+          "caption": "The throat static pressure is lower.",
+          "detail": "The bench gives pressure difference, not an absolute-pressure safety prediction."
+        },
+        {
+          "title": "State the limits",
+          "caption": "Real pipes lose mechanical energy.",
+          "detail": "Friction and pumps require an extended energy equation."
+        }
+      ],
+      "activity": "Reduce throat radius at fixed Q and compare speed and pressure difference.",
+      "quiz": [
+        {
+          "question": "At fixed Q, halving area makes speed…",
+          "options": [
+            "Double",
+            "Half",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "v=Q/A."
+        },
+        {
+          "question": "In this level ideal pipe, the faster section has…",
+          "options": [
+            "Lower static pressure",
+            "Higher static pressure always",
+            "No pressure"
+          ],
+          "answer": 0,
+          "explanation": "Bernoulli trades pressure and kinetic terms."
+        },
+        {
+          "question": "Which assumption belongs to this bench?",
+          "options": [
+            "No viscous losses",
+            "Compressible shocks",
+            "A pump inside the throat"
+          ],
+          "answer": 0,
+          "explanation": "The displayed model is steady, incompressible and inviscid."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the bernoulli scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Follow one streamline",
+        "Conserve flow",
+        "Compare kinetic terms",
+        "Read pressure difference",
+        "State the limits"
+      ],
+      "simulationSpecification": "Use the stated bernoulli equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Compare two sections of the same steady flow.",
+        "Q is the same through both sections.",
+        "The faster section has larger ½ρv².",
+        "The throat static pressure is lower.",
+        "Real pipes lose mechanical energy."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Bernoulli theorem",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
+          "title": "OpenStax · Fluids",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Bernoulli’s equation relates pressure, speed and height along a streamline in a steady ideal flow.",
+        "For incompressible steady inviscid flow, P+½ρv²+ρgz is constant along a streamline. The horizontal bench also obeys Q=Av; it omits viscous losses and pumps.",
+        "A Venturi tube compares pressures across different pipe areas to infer flow under suitable assumptions.",
+        "The experiment imposes flow and inlet absolute pressure. The pressure columns use a vacuum reference and compressed heights; they are not open-to-atmosphere laboratory manometers. Real viscosity, losses and cavitation are omitted."
+      ],
+      "learningLevels": {
+        "primary": "In this level pipe, the narrow section carries faster flow and has lower static pressure.",
+        "secondary": "Bernoulli’s equation relates pressure, speed and height along a streamline in a steady ideal flow. For incompressible steady inviscid flow, P+½ρv²+ρgz is constant along a streamline. The horizontal bench also obeys Q=Av; it omits viscous losses and pumps. A Venturi tube compares pressures across different pipe areas to infer flow under suitable assumptions.",
+        "senior": "P + ½ρv² + ρgz = constant; Q = Av For incompressible steady inviscid flow, P+½ρv²+ρgz is constant along a streamline. The horizontal bench also obeys Q=Av; it omits viscous losses and pumps."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0086",
+      "contentId": "lesson:sa-0086",
+      "title": "Capillary action",
+      "subject": "Physics",
+      "kind": "capillary",
+      "batch": 1,
+      "shortDescription": "Capillary action is the rise or depression of a liquid in a narrow tube caused by surface tension and wetting, balanced by gravity.",
+      "ageAppropriateExplanation": "Water can climb in a thin tube because the curved surface and wall interactions support a small liquid column.",
+      "explanation": [
+        "Capillary action is the rise or depression of a liquid in a narrow tube caused by surface tension and wetting, balanced by gravity.",
+        "The upward vertical surface-tension component is 2πrγcosθ. Equating this with ρgπr²h gives Jurin’s equilibrium relation.",
+        "Capillary effects help wet paper and porous materials, though the single smooth tube is a simplified geometry."
+      ],
+      "scientificPrinciples": [
+        "The upward vertical surface-tension component is 2πrγcosθ. Equating this with ρgπr²h gives Jurin’s equilibrium relation."
+      ],
+      "definitions": {
+        "Surface tension": "Interfacial force per length, in N/m.",
+        "Capillary radius": "Internal tube radius, in metres in the equation."
+      },
+      "terminology": [
+        "Surface tension",
+        "Capillary radius"
+      ],
+      "formula": "h = 2γ cosθ/(ρgr) · h and r in m, γ in N/m",
+      "realLifeExamples": [
+        "Capillary effects help wet paper and porous materials, though the single smooth tube is a simplified geometry."
+      ],
+      "objectives": [
+        "Set a contact angle below 90°.",
+        "Set vertical surface tension equal to liquid-column weight.",
+        "The approach to equilibrium is staged."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "The smaller tube rises higher at equilibrium; this formula does not by itself predict the rate of rise."
+      ],
+      "steps": [
+        {
+          "title": "Wet the wall",
+          "caption": "Set a contact angle below 90°.",
+          "detail": "The vertical surface-tension component is upward."
+        },
+        {
+          "title": "Support a column",
+          "caption": "Gravity pulls down on the raised liquid.",
+          "detail": "The column weight grows with height."
+        },
+        {
+          "title": "Balance forces",
+          "caption": "Set vertical surface tension equal to liquid-column weight.",
+          "detail": "This produces h=2γcosθ/(ρgr)."
+        },
+        {
+          "title": "Change radius",
+          "caption": "A smaller radius produces a larger equilibrium rise.",
+          "detail": "Compare a factor-of-two change."
+        },
+        {
+          "title": "Read the animation",
+          "caption": "The approach to equilibrium is staged.",
+          "detail": "Only final height is calculated by Jurin’s law."
+        }
+      ],
+      "activity": "Halve radius while holding surface tension and angle fixed.",
+      "quiz": [
+        {
+          "question": "Halving tube radius at fixed conditions makes h…",
+          "options": [
+            "Twice as large",
+            "Half as large",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "Height is inversely proportional to radius."
+        },
+        {
+          "question": "Surface tension has SI units…",
+          "options": [
+            "N/m",
+            "kg/m³",
+            "m/s"
+          ],
+          "answer": 0,
+          "explanation": "Surface tension is force per unit length."
+        },
+        {
+          "question": "Jurin’s equation directly predicts…",
+          "options": [
+            "Equilibrium height",
+            "Every transient speed",
+            "Evaporation rate"
+          ],
+          "answer": 0,
+          "explanation": "The displayed relation is a static force balance."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the capillary scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Wet the wall",
+        "Support a column",
+        "Balance forces",
+        "Change radius",
+        "Read the animation"
+      ],
+      "simulationSpecification": "Use the stated capillary equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Set a contact angle below 90°.",
+        "Gravity pulls down on the raised liquid.",
+        "Set vertical surface tension equal to liquid-column weight.",
+        "A smaller radius produces a larger equilibrium rise.",
+        "The approach to equilibrium is staged."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Capillary action",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
+          "title": "OpenStax · Surface phenomena",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Capillary action is the rise or depression of a liquid in a narrow tube caused by surface tension and wetting, balanced by gravity.",
+        "The upward vertical surface-tension component is 2πrγcosθ. Equating this with ρgπr²h gives Jurin’s equilibrium relation.",
+        "Capillary effects help wet paper and porous materials, though the single smooth tube is a simplified geometry.",
+        "At 90° the ideal static height is zero. Static Jurin height for density 1000 kg/m³ and g=9.81 m/s². The approach to height is a staged illustration, not a viscosity-dependent transient solver. Radius and vertical height use different visual scales."
+      ],
+      "learningLevels": {
+        "primary": "Water can climb in a thin tube because the curved surface and wall interactions support a small liquid column.",
+        "secondary": "Capillary action is the rise or depression of a liquid in a narrow tube caused by surface tension and wetting, balanced by gravity. The upward vertical surface-tension component is 2πrγcosθ. Equating this with ρgπr²h gives Jurin’s equilibrium relation. Capillary effects help wet paper and porous materials, though the single smooth tube is a simplified geometry.",
+        "senior": "h = 2γ cosθ/(ρgr) · h and r in m, γ in N/m The upward vertical surface-tension component is 2πrγcosθ. Equating this with ρgπr²h gives Jurin’s equilibrium relation."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0093",
+      "contentId": "lesson:sa-0093",
+      "title": "Magnetic field lines",
+      "subject": "Physics",
+      "kind": "magnet",
+      "batch": 1,
+      "shortDescription": "Magnetic field lines visualize the direction of a magnetic field; a compass aligns approximately with the local field.",
+      "ageAppropriateExplanation": "A compass turns because the magnetic field gives it a direction. A line drawing is a map, not a physical thread.",
+      "explanation": [
+        "Magnetic field lines visualize the direction of a magnetic field; a compass aligns approximately with the local field.",
+        "The far-field point-dipole model gives B=μ₀[3(m·r̂)r̂−m]/(4πr³). The field is strongest near the source; the core is excluded from probe controls.",
+        "A compass near a small magnet changes direction as its position changes."
+      ],
+      "scientificPrinciples": [
+        "The far-field point-dipole model gives B=μ₀[3(m·r̂)r̂−m]/(4πr³). The field is strongest near the source; the core is excluded from probe controls."
+      ],
+      "definitions": {
+        "Magnetic field": "Vector describing magnetic force effects, measured in teslas.",
+        "Dipole moment": "Vector measure of source strength and orientation, in A·m²."
+      },
+      "terminology": [
+        "Magnetic field",
+        "Dipole moment"
+      ],
+      "formula": "Bdipole ∝ m/r³ · B in T, dipole moment in A·m²",
+      "realLifeExamples": [
+        "A compass near a small magnet changes direction as its position changes."
+      ],
+      "objectives": [
+        "Find the model magnet’s axis.",
+        "Direction changes with angular position.",
+        "Directional markers are a visualization."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Field lines do not physically carry moving particles; moving highlights indicate field direction only."
+      ],
+      "steps": [
+        {
+          "title": "Identify the dipole",
+          "caption": "Find the model magnet’s axis.",
+          "detail": "The source is an ideal point dipole outside its excluded core."
+        },
+        {
+          "title": "Place the probe",
+          "caption": "Read the local field vector.",
+          "detail": "The compass follows the local direction."
+        },
+        {
+          "title": "Move around",
+          "caption": "Direction changes with angular position.",
+          "detail": "The field is not uniform around the magnet."
+        },
+        {
+          "title": "Move farther away",
+          "caption": "Magnitude falls with the cube of distance.",
+          "detail": "Doubling distance on the same ray divides B by eight."
+        },
+        {
+          "title": "Read lines carefully",
+          "caption": "Directional markers are a visualization.",
+          "detail": "They are not a measured speed of magnetic influence."
+        }
+      ],
+      "activity": "Double probe distance along a fixed ray and compare the far-field magnitude.",
+      "quiz": [
+        {
+          "question": "A magnetic field is measured in…",
+          "options": [
+            "Teslas",
+            "Volts",
+            "Watts"
+          ],
+          "answer": 0,
+          "explanation": "The SI magnetic-field unit is the tesla."
+        },
+        {
+          "question": "Doubling distance in the dipole far field changes B by…",
+          "options": [
+            "½",
+            "⅛",
+            "8×"
+          ],
+          "answer": 1,
+          "explanation": "B scales as r⁻³ along a fixed ray."
+        },
+        {
+          "question": "Magnetic field lines are…",
+          "options": [
+            "Physical wires",
+            "A directional representation",
+            "Electron paths necessarily"
+          ],
+          "answer": 1,
+          "explanation": "Lines help represent the field vector."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the magnet scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Identify the dipole",
+        "Place the probe",
+        "Move around",
+        "Move farther away",
+        "Read lines carefully"
+      ],
+      "simulationSpecification": "Use the stated magnet equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Find the model magnet’s axis.",
+        "Read the local field vector.",
+        "Direction changes with angular position.",
+        "Magnitude falls with the cube of distance.",
+        "Directional markers are a visualization."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Magnetic field lines",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
+          "title": "OpenStax · Magnetism",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Magnetic field lines visualize the direction of a magnetic field; a compass aligns approximately with the local field.",
+        "The far-field point-dipole model gives B=μ₀[3(m·r̂)r̂−m]/(4πr³). The field is strongest near the source; the core is excluded from probe controls.",
+        "A compass near a small magnet changes direction as its position changes.",
+        "A larger dipole moment strengthens the field at the same probe location. Point magnetic dipole in vacuum with moment along +x; probe remains outside the core. Bar, field-line geometry and compass size are schematic. Moving field markers indicate direction, not particles flowing out of a magnet."
+      ],
+      "learningLevels": {
+        "primary": "A compass turns because the magnetic field gives it a direction. A line drawing is a map, not a physical thread.",
+        "secondary": "Magnetic field lines visualize the direction of a magnetic field; a compass aligns approximately with the local field. The far-field point-dipole model gives B=μ₀[3(m·r̂)r̂−m]/(4πr³). The field is strongest near the source; the core is excluded from probe controls. A compass near a small magnet changes direction as its position changes.",
+        "senior": "Bdipole ∝ m/r³ · B in T, dipole moment in A·m² The far-field point-dipole model gives B=μ₀[3(m·r̂)r̂−m]/(4πr³). The field is strongest near the source; the core is excluded from probe controls."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0094",
+      "contentId": "lesson:sa-0094",
+      "title": "Electric current",
+      "subject": "Physics",
+      "kind": "circuit",
+      "batch": 1,
+      "shortDescription": "Electric current is the rate at which charge passes a cross-section. A closed DC circuit can sustain a steady current.",
+      "ageAppropriateExplanation": "Current tells you how much charge passes a point each second. The charge is not used up in a resistor.",
+      "explanation": [
+        "Electric current is the rate at which charge passes a cross-section. A closed DC circuit can sustain a steady current.",
+        "I=ΔQ/Δt for an average current, and I=dQ/dt instantaneously. In this ideal resistor circuit, I=V/R after the path closes.",
+        "A 0.2 A current carries 1 C past a section in 5 s."
+      ],
+      "scientificPrinciples": [
+        "I=ΔQ/Δt for an average current, and I=dQ/dt instantaneously. In this ideal resistor circuit, I=V/R after the path closes."
+      ],
+      "definitions": {
+        "Current": "Rate of charge flow, in amperes.",
+        "Conventional current": "Direction defined as positive charge flow."
+      },
+      "terminology": [
+        "Current",
+        "Conventional current"
+      ],
+      "formula": "I = ΔQ/Δt; 1 A = 1 C/s",
+      "realLifeExamples": [
+        "A 0.2 A current carries 1 C past a section in 5 s."
+      ],
+      "objectives": [
+        "Imagine a cross-section through the wire.",
+        "A steady current requires a conducting loop.",
+        "Steady series current is the same around the loop."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Conventional current is opposite electron drift in a metal; animated marker speed is illustrative."
+      ],
+      "steps": [
+        {
+          "title": "Count charge",
+          "caption": "Imagine a cross-section through the wire.",
+          "detail": "Count net charge passing it in a time interval."
+        },
+        {
+          "title": "Divide by time",
+          "caption": "One coulomb per second is one ampere.",
+          "detail": "Use the rate, not the total charge alone."
+        },
+        {
+          "title": "Close the path",
+          "caption": "A steady current requires a conducting loop.",
+          "detail": "The open ideal DC circuit has zero steady current."
+        },
+        {
+          "title": "Compare directions",
+          "caption": "Conventional current follows positive-charge motion.",
+          "detail": "Metal conduction electrons drift oppositely."
+        },
+        {
+          "title": "Conserve charge",
+          "caption": "Steady series current is the same around the loop.",
+          "detail": "The resistor transfers energy, not disappearing charge."
+        }
+      ],
+      "activity": "Open the switch, then close it. At fixed resistance, double voltage and compare current.",
+      "quiz": [
+        {
+          "question": "2 C passes in 4 s. Current is…",
+          "options": [
+            "0.5 A",
+            "2 A",
+            "8 A"
+          ],
+          "answer": 0,
+          "explanation": "I=Q/t=2/4=0.5 A."
+        },
+        {
+          "question": "A resistor uses up…",
+          "options": [
+            "Charge",
+            "Electrical energy transferred to heat",
+            "Both equally"
+          ],
+          "answer": 1,
+          "explanation": "Charge is conserved while energy is transferred."
+        },
+        {
+          "question": "Steady current in the open ideal loop is…",
+          "options": [
+            "Zero",
+            "V/R",
+            "Infinite"
+          ],
+          "answer": 0,
+          "explanation": "The open path does not sustain a DC conduction current."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Count charge",
+        "Divide by time",
+        "Close the path",
+        "Compare directions",
+        "Conserve charge"
+      ],
+      "simulationSpecification": "Use the stated circuit equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Imagine a cross-section through the wire.",
+        "One coulomb per second is one ampere.",
+        "A steady current requires a conducting loop.",
+        "Conventional current follows positive-charge motion.",
+        "Steady series current is the same around the loop."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electric current",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+          "title": "OpenStax · Ohm’s law",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Electric current is the rate at which charge passes a cross-section. A closed DC circuit can sustain a steady current.",
+        "I=ΔQ/Δt for an average current, and I=dQ/dt instantaneously. In this ideal resistor circuit, I=V/R after the path closes.",
+        "A 0.2 A current carries 1 C past a section in 5 s.",
+        "The resistor converts electrical energy into thermal energy at a rate P = VI = I²R. This simulation models an ideal DC source and a constant resistor. It does not model a real lamp’s temperature-dependent resistance."
+      ],
+      "learningLevels": {
+        "primary": "Current tells you how much charge passes a point each second. The charge is not used up in a resistor.",
+        "secondary": "Electric current is the rate at which charge passes a cross-section. A closed DC circuit can sustain a steady current. I=ΔQ/Δt for an average current, and I=dQ/dt instantaneously. In this ideal resistor circuit, I=V/R after the path closes. A 0.2 A current carries 1 C past a section in 5 s.",
+        "senior": "I = ΔQ/Δt; 1 A = 1 C/s I=ΔQ/Δt for an average current, and I=dQ/dt instantaneously. In this ideal resistor circuit, I=V/R after the path closes."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0095",
+      "contentId": "lesson:sa-0095",
+      "title": "Ohm law",
+      "subject": "Physics",
+      "kind": "circuit",
+      "batch": 1,
+      "shortDescription": "Ohm’s law relates voltage and current for an ohmic conductor at constant physical conditions.",
+      "ageAppropriateExplanation": "For the model resistor, twice the voltage gives twice the current; twice the resistance gives half the current.",
+      "explanation": [
+        "Ohm’s law relates voltage and current for an ohmic conductor at constant physical conditions.",
+        "V=IR is used with a constant positive resistance. A real filament lamp can change resistance as it heats and need not have a straight V–I graph.",
+        "A 12 V ideal source across 100 Ω gives 0.12 A."
+      ],
+      "scientificPrinciples": [
+        "V=IR is used with a constant positive resistance. A real filament lamp can change resistance as it heats and need not have a straight V–I graph."
+      ],
+      "definitions": {
+        "Resistance": "Voltage-to-current ratio for the stated conditions, in ohms.",
+        "Ohmic conductor": "Conductor with proportional voltage and current over the stated range."
+      },
+      "terminology": [
+        "Resistance",
+        "Ohmic conductor"
+      ],
+      "formula": "V = IR; I = V/R · V volts, I amperes, R ohms",
+      "realLifeExamples": [
+        "A 12 V ideal source across 100 Ω gives 0.12 A."
+      ],
+      "objectives": [
+        "Complete the conducting path.",
+        "Resistance controls current for this model.",
+        "Double R at fixed V."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Ohm’s law is not a universal constant-resistance description of every device."
+      ],
+      "steps": [
+        {
+          "title": "Close the switch",
+          "caption": "Complete the conducting path.",
+          "detail": "Use the ideal steady DC state."
+        },
+        {
+          "title": "Set voltage",
+          "caption": "Voltage is energy transferred per charge.",
+          "detail": "Read the source value in volts."
+        },
+        {
+          "title": "Set resistance",
+          "caption": "Resistance controls current for this model.",
+          "detail": "Use a fixed ohmic value in ohms."
+        },
+        {
+          "title": "Calculate current",
+          "caption": "Divide V by R.",
+          "detail": "Convert amperes to milliamperes when comparing readouts."
+        },
+        {
+          "title": "Check proportionality",
+          "caption": "Double R at fixed V.",
+          "detail": "The predicted current halves."
+        }
+      ],
+      "activity": "Hold voltage at 12 V and change R from 100 Ω to 200 Ω.",
+      "quiz": [
+        {
+          "question": "12 V across 200 Ω gives…",
+          "options": [
+            "60 mA",
+            "600 mA",
+            "2400 A"
+          ],
+          "answer": 0,
+          "explanation": "I=12/200=0.06 A=60 mA."
+        },
+        {
+          "question": "At fixed R, doubling V makes I…",
+          "options": [
+            "Double",
+            "Half",
+            "Zero"
+          ],
+          "answer": 0,
+          "explanation": "I is directly proportional to V."
+        },
+        {
+          "question": "The model assumes resistance is…",
+          "options": [
+            "Constant",
+            "Always zero",
+            "Set by current alone"
+          ],
+          "answer": 0,
+          "explanation": "An ideal ohmic resistor has a fixed R here."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Close the switch",
+        "Set voltage",
+        "Set resistance",
+        "Calculate current",
+        "Check proportionality"
+      ],
+      "simulationSpecification": "Use the stated circuit equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Complete the conducting path.",
+        "Voltage is energy transferred per charge.",
+        "Resistance controls current for this model.",
+        "Divide V by R.",
+        "Double R at fixed V."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Ohm law",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+          "title": "OpenStax · Ohm’s law",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Ohm’s law relates voltage and current for an ohmic conductor at constant physical conditions.",
+        "V=IR is used with a constant positive resistance. A real filament lamp can change resistance as it heats and need not have a straight V–I graph.",
+        "A 12 V ideal source across 100 Ω gives 0.12 A.",
+        "The resistor converts electrical energy into thermal energy at a rate P = VI = I²R. This simulation models an ideal DC source and a constant resistor. It does not model a real lamp’s temperature-dependent resistance."
+      ],
+      "learningLevels": {
+        "primary": "For the model resistor, twice the voltage gives twice the current; twice the resistance gives half the current.",
+        "secondary": "Ohm’s law relates voltage and current for an ohmic conductor at constant physical conditions. V=IR is used with a constant positive resistance. A real filament lamp can change resistance as it heats and need not have a straight V–I graph. A 12 V ideal source across 100 Ω gives 0.12 A.",
+        "senior": "V = IR; I = V/R · V volts, I amperes, R ohms V=IR is used with a constant positive resistance. A real filament lamp can change resistance as it heats and need not have a straight V–I graph."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0096",
+      "contentId": "lesson:sa-0096",
+      "title": "Electric circuits",
+      "subject": "Physics",
+      "kind": "circuit",
+      "batch": 1,
+      "shortDescription": "A simple electric circuit joins a source, conducting path, switch and load so energy can be transferred around a closed loop.",
+      "ageAppropriateExplanation": "The battery supplies energy to moving charge; the resistor transfers that energy to its surroundings.",
+      "explanation": [
+        "A simple electric circuit joins a source, conducting path, switch and load so energy can be transferred around a closed loop.",
+        "The ideal source maintains a potential difference; the resistor obeys V=IR and converts power P=VI. Wires and closed-switch resistance are neglected.",
+        "A switched resistor circuit represents the basic energy path in many electronic experiments."
+      ],
+      "scientificPrinciples": [
+        "The ideal source maintains a potential difference; the resistor obeys V=IR and converts power P=VI. Wires and closed-switch resistance are neglected."
+      ],
+      "definitions": {
+        "Source": "Device maintaining a potential difference by transferring energy.",
+        "Load": "Component receiving electrical energy."
+      },
+      "terminology": [
+        "Source",
+        "Load"
+      ],
+      "formula": "I = V/R; P = VI = I²R · P in W",
+      "realLifeExamples": [
+        "A switched resistor circuit represents the basic energy path in many electronic experiments."
+      ],
+      "objectives": [
+        "Identify source, wires, switch and resistor.",
+        "Current flows around the complete loop.",
+        "At fixed R, doubling V quadruples power."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "The battery is not a source of charge that vanishes in the load; the circuit’s conducting material already contains charge carriers."
+      ],
+      "steps": [
+        {
+          "title": "Find the components",
+          "caption": "Identify source, wires, switch and resistor.",
+          "detail": "Each serves a different role."
+        },
+        {
+          "title": "Open the path",
+          "caption": "The ideal switch interrupts steady current.",
+          "detail": "Voltage can exist even when current is zero."
+        },
+        {
+          "title": "Close the path",
+          "caption": "Current flows around the complete loop.",
+          "detail": "The resistor limits its magnitude."
+        },
+        {
+          "title": "Transfer energy",
+          "caption": "Read the resistor power.",
+          "detail": "Power is energy transferred each second."
+        },
+        {
+          "title": "Change voltage",
+          "caption": "At fixed R, doubling V quadruples power.",
+          "detail": "Use P=V²/R."
+        }
+      ],
+      "activity": "Open and close the switch, then compare power after doubling voltage at fixed resistance.",
+      "quiz": [
+        {
+          "question": "The switch controls…",
+          "options": [
+            "Whether the path is complete",
+            "Charge mass",
+            "The value of g"
+          ],
+          "answer": 0,
+          "explanation": "An ideal switch opens or closes the conducting path."
+        },
+        {
+          "question": "At fixed R, doubling V changes power by…",
+          "options": [
+            "2×",
+            "4×",
+            "½×"
+          ],
+          "answer": 1,
+          "explanation": "P=V²/R."
+        },
+        {
+          "question": "One watt is…",
+          "options": [
+            "1 J/s",
+            "1 C",
+            "1 Ω/s"
+          ],
+          "answer": 0,
+          "explanation": "Power is the rate of energy transfer."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Find the components",
+        "Open the path",
+        "Close the path",
+        "Transfer energy",
+        "Change voltage"
+      ],
+      "simulationSpecification": "Use the stated circuit equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Identify source, wires, switch and resistor.",
+        "The ideal switch interrupts steady current.",
+        "Current flows around the complete loop.",
+        "Read the resistor power.",
+        "At fixed R, doubling V quadruples power."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electric circuits",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+          "title": "OpenStax · Ohm’s law",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A simple electric circuit joins a source, conducting path, switch and load so energy can be transferred around a closed loop.",
+        "The ideal source maintains a potential difference; the resistor obeys V=IR and converts power P=VI. Wires and closed-switch resistance are neglected.",
+        "A switched resistor circuit represents the basic energy path in many electronic experiments.",
+        "The resistor converts electrical energy into thermal energy at a rate P = VI = I²R. This simulation models an ideal DC source and a constant resistor. It does not model a real lamp’s temperature-dependent resistance."
+      ],
+      "learningLevels": {
+        "primary": "The battery supplies energy to moving charge; the resistor transfers that energy to its surroundings.",
+        "secondary": "A simple electric circuit joins a source, conducting path, switch and load so energy can be transferred around a closed loop. The ideal source maintains a potential difference; the resistor obeys V=IR and converts power P=VI. Wires and closed-switch resistance are neglected. A switched resistor circuit represents the basic energy path in many electronic experiments.",
+        "senior": "I = V/R; P = VI = I²R · P in W The ideal source maintains a potential difference; the resistor obeys V=IR and converts power P=VI. Wires and closed-switch resistance are neglected."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0097",
+      "contentId": "lesson:sa-0097",
+      "title": "Electric motors",
+      "subject": "Physics",
+      "kind": "motor",
+      "batch": 1,
+      "shortDescription": "An electric motor converts electrical energy into mechanical rotation using magnetic torque on a current-carrying coil.",
+      "ageAppropriateExplanation": "A coil in a magnetic field turns. The commutator reverses current each half-turn to keep the drive torque in the same rotational direction.",
+      "explanation": [
+        "An electric motor converts electrical energy into mechanical rotation using magnetic torque on a current-carrying coil.",
+        "For N turns, τ=NIABsinθ. This simplified DC motor uses ideal instantaneous commutation, chosen inertia and viscous damping; it omits coil inductance and back-emf.",
+        "Small brushed DC motors in toys use related principles, with additional real electrical and mechanical losses."
+      ],
+      "scientificPrinciples": [
+        "For N turns, τ=NIABsinθ. This simplified DC motor uses ideal instantaneous commutation, chosen inertia and viscous damping; it omits coil inductance and back-emf."
+      ],
+      "definitions": {
+        "Torque": "Turning effect of force, in N·m.",
+        "Commutator": "Switching arrangement reversing coil current each half-turn."
+      },
+      "terminology": [
+        "Torque",
+        "Commutator"
+      ],
+      "formula": "τ = NIAB sinθ; Jα = τdrive − bω",
+      "realLifeExamples": [
+        "Small brushed DC motors in toys use related principles, with additional real electrical and mechanical losses."
+      ],
+      "objectives": [
+        "Current passes through multiple turns.",
+        "Torque changes angular velocity.",
+        "Damping opposes rotation."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A larger field does not determine speed by itself; load, inertia, damping and back-emf matter."
+      ],
+      "steps": [
+        {
+          "title": "Find the coil",
+          "caption": "Current passes through multiple turns.",
+          "detail": "The magnetic field exerts forces on opposite sides."
+        },
+        {
+          "title": "Form a couple",
+          "caption": "Opposing forces produce a torque.",
+          "detail": "Torque depends on orientation."
+        },
+        {
+          "title": "Turn the rotor",
+          "caption": "Torque changes angular velocity.",
+          "detail": "The model integrates rotational motion."
+        },
+        {
+          "title": "Reverse current",
+          "caption": "The commutator switches each half-turn.",
+          "detail": "The ideal drive torque keeps the same sign."
+        },
+        {
+          "title": "Include resistance to motion",
+          "caption": "Damping opposes rotation.",
+          "detail": "This is a teaching motor model, not a complete circuit solver."
+        }
+      ],
+      "activity": "Hold damping fixed; increase current and compare the calculated angular response.",
+      "quiz": [
+        {
+          "question": "A motor primarily converts…",
+          "options": [
+            "Electrical to mechanical energy",
+            "Mechanical to nuclear energy",
+            "Heat to charge"
+          ],
+          "answer": 0,
+          "explanation": "The magnetic interaction drives rotation."
+        },
+        {
+          "question": "The commutator reverses…",
+          "options": [
+            "Coil current",
+            "Gravity",
+            "The whole field every instant"
+          ],
+          "answer": 0,
+          "explanation": "It reverses coil current each half-turn."
+        },
+        {
+          "question": "Torque depends on coil orientation.",
+          "options": [
+            "True",
+            "False",
+            "Only in vacuum"
+          ],
+          "answer": 0,
+          "explanation": "The sine factor represents orientation dependence."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the motor scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Find the coil",
+        "Form a couple",
+        "Turn the rotor",
+        "Reverse current",
+        "Include resistance to motion"
+      ],
+      "simulationSpecification": "Use the stated motor equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Current passes through multiple turns.",
+        "Opposing forces produce a torque.",
+        "Torque changes angular velocity.",
+        "The commutator switches each half-turn.",
+        "Damping opposes rotation."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electric motors",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop",
+          "title": "OpenStax · Electric motors",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "An electric motor converts electrical energy into mechanical rotation using magnetic torque on a current-carrying coil.",
+        "For N turns, τ=NIABsinθ. This simplified DC motor uses ideal instantaneous commutation, chosen inertia and viscous damping; it omits coil inductance and back-emf.",
+        "Small brushed DC motors in toys use related principles, with additional real electrical and mechanical losses.",
+        "Increasing field, current or turn count increases the available peak torque. Ideal commutation, uniform field, area 0.002 m², inertia 0.02 kg·m² and initial angle 0.3 rad. Numerical mechanical model with linear damping; no back-emf or inductance. Parameters are teaching choices, not a rated motor."
+      ],
+      "learningLevels": {
+        "primary": "A coil in a magnetic field turns. The commutator reverses current each half-turn to keep the drive torque in the same rotational direction.",
+        "secondary": "An electric motor converts electrical energy into mechanical rotation using magnetic torque on a current-carrying coil. For N turns, τ=NIABsinθ. This simplified DC motor uses ideal instantaneous commutation, chosen inertia and viscous damping; it omits coil inductance and back-emf. Small brushed DC motors in toys use related principles, with additional real electrical and mechanical losses.",
+        "senior": "τ = NIAB sinθ; Jα = τdrive − bω For N turns, τ=NIABsinθ. This simplified DC motor uses ideal instantaneous commutation, chosen inertia and viscous damping; it omits coil inductance and back-emf."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0098",
+      "contentId": "lesson:sa-0098",
+      "title": "Electromagnetic induction",
+      "subject": "Physics",
+      "kind": "induction",
+      "batch": 1,
+      "shortDescription": "Electromagnetic induction produces an emf when magnetic flux linkage changes.",
+      "ageAppropriateExplanation": "A rotating coil sees a changing amount of magnetic field passing through it, producing a changing voltage.",
+      "explanation": [
+        "Electromagnetic induction produces an emf when magnetic flux linkage changes.",
+        "Faraday’s law is emf=−d(NΦ)/dt. For uniform B and rigid rotation, NΦ=NBAcosωt and emf=NBAωsinωt. The sign follows Lenz’s law.",
+        "An alternator rotates a coil or field so flux linkage changes and electrical energy can be transferred."
+      ],
+      "scientificPrinciples": [
+        "Faraday’s law is emf=−d(NΦ)/dt. For uniform B and rigid rotation, NΦ=NBAcosωt and emf=NBAωsinωt. The sign follows Lenz’s law."
+      ],
+      "definitions": {
+        "Magnetic flux": "Surface integral of B through an area, in webers.",
+        "Emf": "Energy supplied per unit charge by a source process, in volts."
+      },
+      "terminology": [
+        "Magnetic flux",
+        "Emf"
+      ],
+      "formula": "ε = −d(NΦ)/dt; Φ = BA cosθ",
+      "realLifeExamples": [
+        "An alternator rotates a coil or field so flux linkage changes and electrical energy can be transferred."
+      ],
+      "objectives": [
+        "Identify the coil’s area and normal.",
+        "Emf follows the rate of change.",
+        "Faster rotation increases peak emf."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A magnetic field alone does not ensure induced emf; flux linkage must change."
+      ],
+      "steps": [
+        {
+          "title": "Define the area",
+          "caption": "Identify the coil’s area and normal.",
+          "detail": "Flux depends on field orientation relative to that normal."
+        },
+        {
+          "title": "Rotate the coil",
+          "caption": "Flux linkage changes with angle.",
+          "detail": "It is maximum when the normal aligns with B."
+        },
+        {
+          "title": "Differentiate flux",
+          "caption": "Emf follows the rate of change.",
+          "detail": "It is zero at flux extrema for smooth rotation."
+        },
+        {
+          "title": "Apply the sign",
+          "caption": "Lenz’s law opposes the flux change.",
+          "detail": "The minus sign expresses energy-consistent direction."
+        },
+        {
+          "title": "Change rotation rate",
+          "caption": "Faster rotation increases peak emf.",
+          "detail": "Peak emf is NBAω."
+        }
+      ],
+      "activity": "Double rotation frequency while holding turns, area and field fixed.",
+      "quiz": [
+        {
+          "question": "Induced emf requires changing…",
+          "options": [
+            "Flux linkage",
+            "Only wire colour",
+            "Only mass"
+          ],
+          "answer": 0,
+          "explanation": "Faraday’s law depends on d(NΦ)/dt."
+        },
+        {
+          "question": "At maximum sinusoidal flux linkage, emf is…",
+          "options": [
+            "Zero",
+            "Maximum positive",
+            "Infinite"
+          ],
+          "answer": 0,
+          "explanation": "The derivative at a smooth maximum is zero."
+        },
+        {
+          "question": "Doubling rotation frequency doubles ideal peak emf.",
+          "options": [
+            "True",
+            "False",
+            "Only if B is zero"
+          ],
+          "answer": 0,
+          "explanation": "Peak emf is proportional to ω."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the induction scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Define the area",
+        "Rotate the coil",
+        "Differentiate flux",
+        "Apply the sign",
+        "Change rotation rate"
+      ],
+      "simulationSpecification": "Use the stated induction equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Identify the coil’s area and normal.",
+        "Flux linkage changes with angle.",
+        "Emf follows the rate of change.",
+        "Lenz’s law opposes the flux change.",
+        "Faster rotation increases peak emf."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electromagnetic induction",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+          "title": "OpenStax · Electricity & magnetism",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Electromagnetic induction produces an emf when magnetic flux linkage changes.",
+        "Faraday’s law is emf=−d(NΦ)/dt. For uniform B and rigid rotation, NΦ=NBAcosωt and emf=NBAωsinωt. The sign follows Lenz’s law.",
+        "An alternator rotates a coil or field so flux linkage changes and electrical energy can be transferred.",
+        "An external drive supplies the energy. The experiment assumes a purely resistive load and ignores self-inductance and magnetic back reaction. The number of drawn windings is representative."
+      ],
+      "learningLevels": {
+        "primary": "A rotating coil sees a changing amount of magnetic field passing through it, producing a changing voltage.",
+        "secondary": "Electromagnetic induction produces an emf when magnetic flux linkage changes. Faraday’s law is emf=−d(NΦ)/dt. For uniform B and rigid rotation, NΦ=NBAcosωt and emf=NBAωsinωt. The sign follows Lenz’s law. An alternator rotates a coil or field so flux linkage changes and electrical energy can be transferred.",
+        "senior": "ε = −d(NΦ)/dt; Φ = BA cosθ Faraday’s law is emf=−d(NΦ)/dt. For uniform B and rigid rotation, NΦ=NBAcosωt and emf=NBAωsinωt. The sign follows Lenz’s law."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0099",
+      "contentId": "lesson:sa-0099",
+      "title": "Generators",
+      "subject": "Physics",
+      "kind": "induction",
+      "batch": 1,
+      "shortDescription": "A generator converts mechanical energy into electrical energy by changing magnetic flux linkage.",
+      "ageAppropriateExplanation": "Turning the coil can create an alternating voltage; when connected to a load, the voltage drives current.",
+      "explanation": [
+        "A generator converts mechanical energy into electrical energy by changing magnetic flux linkage.",
+        "The rotating-coil generator has sinusoidal emf NBAωsinωt and resistive current I=emf/R. An external drive is assumed to maintain rotation; reaction torque is not integrated.",
+        "Large power stations use turbines to drive generators; this single-coil model illustrates the induction principle."
+      ],
+      "scientificPrinciples": [
+        "The rotating-coil generator has sinusoidal emf NBAωsinωt and resistive current I=emf/R. An external drive is assumed to maintain rotation; reaction torque is not integrated."
+      ],
+      "definitions": {
+        "Generator": "Device converting mechanical energy to electrical energy.",
+        "Alternating current": "Current that changes direction periodically."
+      },
+      "terminology": [
+        "Generator",
+        "Alternating current"
+      ],
+      "formula": "εpeak = NBAω; I = ε/R · ω = 2πf",
+      "realLifeExamples": [
+        "Large power stations use turbines to drive generators; this single-coil model illustrates the induction principle."
+      ],
+      "objectives": [
+        "An external drive turns the coil.",
+        "Its sign reverses every half-cycle.",
+        "Real generation needs drive torque."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A generator does not create energy from nothing; a mechanical source must supply the electrical output and losses."
+      ],
+      "steps": [
+        {
+          "title": "Provide rotation",
+          "caption": "An external drive turns the coil.",
+          "detail": "Mechanical energy is the source of electrical output."
+        },
+        {
+          "title": "Change flux",
+          "caption": "The coil normal rotates relative to B.",
+          "detail": "Flux linkage varies periodically."
+        },
+        {
+          "title": "Generate emf",
+          "caption": "Its sign reverses every half-cycle.",
+          "detail": "The output is alternating."
+        },
+        {
+          "title": "Connect the load",
+          "caption": "A resistive load carries I=emf/R.",
+          "detail": "Current and emf are in phase in this simplified load."
+        },
+        {
+          "title": "Account for energy",
+          "caption": "Real generation needs drive torque.",
+          "detail": "The displayed fixed-speed model assumes that drive."
+        }
+      ],
+      "activity": "At fixed rotation, double load resistance and compare current amplitude.",
+      "quiz": [
+        {
+          "question": "A generator’s input energy is typically…",
+          "options": [
+            "Mechanical",
+            "Created from nothing",
+            "Only chemical in the wire"
+          ],
+          "answer": 0,
+          "explanation": "Mechanical work is converted to electrical energy."
+        },
+        {
+          "question": "Doubling R at fixed emf makes current amplitude…",
+          "options": [
+            "Half",
+            "Double",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "I=emf/R."
+        },
+        {
+          "question": "The rotating-coil output shown is…",
+          "options": [
+            "Alternating",
+            "A constant positive voltage",
+            "Always zero"
+          ],
+          "answer": 0,
+          "explanation": "The sine emf reverses sign."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the induction scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Provide rotation",
+        "Change flux",
+        "Generate emf",
+        "Connect the load",
+        "Account for energy"
+      ],
+      "simulationSpecification": "Use the stated induction equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "An external drive turns the coil.",
+        "The coil normal rotates relative to B.",
+        "Its sign reverses every half-cycle.",
+        "A resistive load carries I=emf/R.",
+        "Real generation needs drive torque."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Generators",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+          "title": "OpenStax · Electricity & magnetism",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A generator converts mechanical energy into electrical energy by changing magnetic flux linkage.",
+        "The rotating-coil generator has sinusoidal emf NBAωsinωt and resistive current I=emf/R. An external drive is assumed to maintain rotation; reaction torque is not integrated.",
+        "Large power stations use turbines to drive generators; this single-coil model illustrates the induction principle.",
+        "An external drive supplies the energy. The experiment assumes a purely resistive load and ignores self-inductance and magnetic back reaction. The number of drawn windings is representative."
+      ],
+      "learningLevels": {
+        "primary": "Turning the coil can create an alternating voltage; when connected to a load, the voltage drives current.",
+        "secondary": "A generator converts mechanical energy into electrical energy by changing magnetic flux linkage. The rotating-coil generator has sinusoidal emf NBAωsinωt and resistive current I=emf/R. An external drive is assumed to maintain rotation; reaction torque is not integrated. Large power stations use turbines to drive generators; this single-coil model illustrates the induction principle.",
+        "senior": "εpeak = NBAω; I = ε/R · ω = 2πf The rotating-coil generator has sinusoidal emf NBAωsinωt and resistive current I=emf/R. An external drive is assumed to maintain rotation; reaction torque is not integrated."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0103",
+      "contentId": "lesson:sa-0103",
+      "title": "Concave mirrors",
+      "subject": "Physics",
+      "kind": "mirrors",
+      "batch": 1,
+      "shortDescription": "A concave spherical mirror can form real or virtual images depending on object distance.",
+      "ageAppropriateExplanation": "A curved inward-facing mirror can bring near-axis reflected rays together; an object inside the focus gives an enlarged upright virtual image.",
+      "explanation": [
+        "A concave spherical mirror can form real or virtual images depending on object distance.",
+        "This paraxial model uses real-is-positive distances: 1/f=1/do+1/di and m=−di/do, with positive f for a concave mirror. Aberrations are omitted.",
+        "A concave shaving mirror can show an enlarged upright view when the face is inside its focal distance."
+      ],
+      "scientificPrinciples": [
+        "This paraxial model uses real-is-positive distances: 1/f=1/do+1/di and m=−di/do, with positive f for a concave mirror. Aberrations are omitted."
+      ],
+      "definitions": {
+        "Principal focus": "Near-axis focus of rays initially parallel to the axis.",
+        "Virtual image": "Image found by backward extensions of rays, not actual ray convergence."
+      },
+      "terminology": [
+        "Principal focus",
+        "Virtual image"
+      ],
+      "formula": "1/f = 1/do + 1/di; m = −di/do",
+      "realLifeExamples": [
+        "A concave shaving mirror can show an enlarged upright view when the face is inside its focal distance."
+      ],
+      "objectives": [
+        "Use positive f for the concave mirror.",
+        "Between f and 2f the real image is larger.",
+        "An object at f gives parallel outgoing rays."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A concave mirror does not always give an enlarged image, and dotted virtual extensions do not carry light."
+      ],
+      "steps": [
+        {
+          "title": "Locate the focus",
+          "caption": "Use positive f for the concave mirror.",
+          "detail": "The spherical mirror is approximated near the axis."
+        },
+        {
+          "title": "Place a distant object",
+          "caption": "Beyond 2f the real image is smaller and inverted.",
+          "detail": "Reflected rays actually converge."
+        },
+        {
+          "title": "Approach the focus",
+          "caption": "Between f and 2f the real image is larger.",
+          "detail": "Image distance increases toward the focal case."
+        },
+        {
+          "title": "Go inside the focus",
+          "caption": "The image becomes virtual and upright.",
+          "detail": "Use backward extensions to locate it."
+        },
+        {
+          "title": "Check the focal case",
+          "caption": "An object at f gives parallel outgoing rays.",
+          "detail": "There is no finite image distance in this ideal model."
+        }
+      ],
+      "activity": "Move the object from 3f to 1.5f to 0.5f; compare image type and orientation.",
+      "quiz": [
+        {
+          "question": "For f=1 m and do=3 m, di is…",
+          "options": [
+            "1.5 m",
+            "−1 m",
+            "3 m"
+          ],
+          "answer": 0,
+          "explanation": "1/di=1−1/3=2/3."
+        },
+        {
+          "question": "Inside the focal distance, the concave image is…",
+          "options": [
+            "Virtual and upright",
+            "Real and upright",
+            "Always absent"
+          ],
+          "answer": 0,
+          "explanation": "Backward ray extensions locate the virtual image."
+        },
+        {
+          "question": "Dotted backward extensions represent…",
+          "options": [
+            "Light travelling backward",
+            "Geometrical construction",
+            "A second light source"
+          ],
+          "answer": 1,
+          "explanation": "Only solid physical ray paths carry the animated light markers."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "mirrorFocus": 1
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the mirrors scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Locate the focus",
+        "Place a distant object",
+        "Approach the focus",
+        "Go inside the focus",
+        "Check the focal case"
+      ],
+      "simulationSpecification": "Use the stated mirrors equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Use positive f for the concave mirror.",
+        "Beyond 2f the real image is smaller and inverted.",
+        "Between f and 2f the real image is larger.",
+        "The image becomes virtual and upright.",
+        "An object at f gives parallel outgoing rays."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Concave mirrors",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
+          "title": "OpenStax · Optics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A concave spherical mirror can form real or virtual images depending on object distance.",
+        "This paraxial model uses real-is-positive distances: 1/f=1/do+1/di and m=−di/do, with positive f for a concave mirror. Aberrations are omitted.",
+        "A concave shaving mirror can show an enlarged upright view when the face is inside its focal distance.",
+        "Inside a concave mirror’s focal distance, backward extensions of reflected rays meet behind the mirror, producing an upright virtual image. A convex mirror gives an upright reduced virtual image of a real object. At the concave focal plane there is no finite image."
+      ],
+      "learningLevels": {
+        "primary": "A curved inward-facing mirror can bring near-axis reflected rays together; an object inside the focus gives an enlarged upright virtual image.",
+        "secondary": "A concave spherical mirror can form real or virtual images depending on object distance. This paraxial model uses real-is-positive distances: 1/f=1/do+1/di and m=−di/do, with positive f for a concave mirror. Aberrations are omitted. A concave shaving mirror can show an enlarged upright view when the face is inside its focal distance.",
+        "senior": "1/f = 1/do + 1/di; m = −di/do This paraxial model uses real-is-positive distances: 1/f=1/do+1/di and m=−di/do, with positive f for a concave mirror. Aberrations are omitted."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0104",
+      "contentId": "lesson:sa-0104",
+      "title": "Convex mirrors",
+      "subject": "Physics",
+      "kind": "mirrors",
+      "batch": 1,
+      "shortDescription": "A convex spherical mirror gives an upright, diminished virtual image for a real object in front of it.",
+      "ageAppropriateExplanation": "An outward-curving mirror spreads reflected rays; their backward extensions meet behind the mirror.",
+      "explanation": [
+        "A convex spherical mirror gives an upright, diminished virtual image for a real object in front of it.",
+        "Under the real-is-positive convention, convex f is negative. For positive object distance, the thin spherical-mirror relation gives negative image distance and positive magnification smaller than one.",
+        "Convex traffic mirrors provide a wide field of view, though the bench does not calculate the entire field of view."
+      ],
+      "scientificPrinciples": [
+        "Under the real-is-positive convention, convex f is negative. For positive object distance, the thin spherical-mirror relation gives negative image distance and positive magnification smaller than one."
+      ],
+      "definitions": {
+        "Convex mirror": "Reflecting surface that bulges toward the object.",
+        "Diminished image": "Image smaller in height than its object."
+      },
+      "terminology": [
+        "Convex mirror",
+        "Diminished image"
+      ],
+      "formula": "f < 0; 1/f = 1/do + 1/di; m = −di/do",
+      "realLifeExamples": [
+        "Convex traffic mirrors provide a wide field of view, though the bench does not calculate the entire field of view."
+      ],
+      "objectives": [
+        "Select a convex mirror with negative f.",
+        "Draw construction lines behind the mirror.",
+        "Compare several object distances."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A virtual image is not a physical meeting point of the reflected rays."
+      ],
+      "steps": [
+        {
+          "title": "Choose the surface",
+          "caption": "Select a convex mirror with negative f.",
+          "detail": "The reflecting surface curves outward."
+        },
+        {
+          "title": "Trace reflection",
+          "caption": "Physical reflected rays diverge.",
+          "detail": "The rays do not pass through the virtual focus."
+        },
+        {
+          "title": "Extend backward",
+          "caption": "Draw construction lines behind the mirror.",
+          "detail": "They locate an apparent source of reflected light."
+        },
+        {
+          "title": "Read the image",
+          "caption": "The image is upright and diminished.",
+          "detail": "Its image distance is negative."
+        },
+        {
+          "title": "Move the object",
+          "caption": "Compare several object distances.",
+          "detail": "The virtual character persists for real objects."
+        }
+      ],
+      "activity": "Keep f negative and vary positive object distance; compare image type and magnification.",
+      "quiz": [
+        {
+          "question": "Convex f in this convention is…",
+          "options": [
+            "Negative",
+            "Positive",
+            "Always zero"
+          ],
+          "answer": 0,
+          "explanation": "Real-is-positive gives a virtual focus negative f."
+        },
+        {
+          "question": "For a real object, a convex mirror image is…",
+          "options": [
+            "Upright and diminished",
+            "Always inverted",
+            "Real and enlarged"
+          ],
+          "answer": 0,
+          "explanation": "The model gives 0<m<1 and di<0."
+        },
+        {
+          "question": "A virtual image can be caught directly on a screen behind the mirror.",
+          "options": [
+            "True",
+            "False",
+            "Only if small"
+          ],
+          "answer": 1,
+          "explanation": "The physical reflected rays do not converge there."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "mirrorFocus": -1
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the mirrors scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Choose the surface",
+        "Trace reflection",
+        "Extend backward",
+        "Read the image",
+        "Move the object"
+      ],
+      "simulationSpecification": "Use the stated mirrors equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Select a convex mirror with negative f.",
+        "Physical reflected rays diverge.",
+        "Draw construction lines behind the mirror.",
+        "The image is upright and diminished.",
+        "Compare several object distances."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Convex mirrors",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
+          "title": "OpenStax · Optics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A convex spherical mirror gives an upright, diminished virtual image for a real object in front of it.",
+        "Under the real-is-positive convention, convex f is negative. For positive object distance, the thin spherical-mirror relation gives negative image distance and positive magnification smaller than one.",
+        "Convex traffic mirrors provide a wide field of view, though the bench does not calculate the entire field of view.",
+        "Inside a concave mirror’s focal distance, backward extensions of reflected rays meet behind the mirror, producing an upright virtual image. A convex mirror gives an upright reduced virtual image of a real object. At the concave focal plane there is no finite image."
+      ],
+      "learningLevels": {
+        "primary": "An outward-curving mirror spreads reflected rays; their backward extensions meet behind the mirror.",
+        "secondary": "A convex spherical mirror gives an upright, diminished virtual image for a real object in front of it. Under the real-is-positive convention, convex f is negative. For positive object distance, the thin spherical-mirror relation gives negative image distance and positive magnification smaller than one. Convex traffic mirrors provide a wide field of view, though the bench does not calculate the entire field of view.",
+        "senior": "f < 0; 1/f = 1/do + 1/di; m = −di/do Under the real-is-positive convention, convex f is negative. For positive object distance, the thin spherical-mirror relation gives negative image distance and positive magnification smaller than one."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0106",
+      "contentId": "lesson:sa-0106",
+      "title": "Refraction",
+      "subject": "Physics",
+      "kind": "refraction",
+      "batch": 1,
+      "shortDescription": "Refraction is a change in light direction at an interface caused by a change in propagation speed, except at normal incidence.",
+      "ageAppropriateExplanation": "A ray can bend when it enters another transparent material. Compare angles from the perpendicular normal.",
+      "explanation": [
+        "Refraction is a change in light direction at an interface caused by a change in propagation speed, except at normal incidence.",
+        "For isotropic media and one frequency, n1sinθ1=n2sinθ2. The refractive index is c/v; frequency stays unchanged at a stationary boundary, while wavelength changes.",
+        "A straw partly in water appears displaced because rays refract at the water–air boundary."
+      ],
+      "scientificPrinciples": [
+        "For isotropic media and one frequency, n1sinθ1=n2sinθ2. The refractive index is c/v; frequency stays unchanged at a stationary boundary, while wavelength changes."
+      ],
+      "definitions": {
+        "Refractive index": "Ratio of vacuum light speed to phase speed in a medium.",
+        "Normal": "Line perpendicular to the interface at incidence."
+      },
+      "terminology": [
+        "Refractive index",
+        "Normal"
+      ],
+      "formula": "n₁ sinθ₁ = n₂ sinθ₂; n = c/v",
+      "realLifeExamples": [
+        "A straw partly in water appears displaced because rays refract at the water–air boundary."
+      ],
+      "objectives": [
+        "Draw a perpendicular to the interface.",
+        "Calculate the transmitted direction.",
+        "From high to low index, sufficiently large incidence gives TIR."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Angles are measured from the normal, not the surface; light frequency does not change at this stationary boundary."
+      ],
+      "steps": [
+        {
+          "title": "Find the normal",
+          "caption": "Draw a perpendicular to the interface.",
+          "detail": "Both angles are measured from it."
+        },
+        {
+          "title": "Set the media",
+          "caption": "Compare n1 and n2.",
+          "detail": "The higher-index medium has smaller phase speed."
+        },
+        {
+          "title": "Apply Snell’s law",
+          "caption": "Calculate the transmitted direction.",
+          "detail": "Entering a higher index bends a non-normal ray toward the normal."
+        },
+        {
+          "title": "Follow reflected power",
+          "caption": "Some light may also reflect.",
+          "detail": "The power fractions use the lossless Fresnel model."
+        },
+        {
+          "title": "Check the limit",
+          "caption": "From high to low index, sufficiently large incidence gives TIR.",
+          "detail": "There is no propagating transmitted ray above the critical angle."
+        }
+      ],
+      "activity": "Compare air-to-glass with glass-to-air and watch for the critical-angle limit.",
+      "quiz": [
+        {
+          "question": "Angles in Snell’s law are measured from…",
+          "options": [
+            "The normal",
+            "The surface",
+            "The source axis always"
+          ],
+          "answer": 0,
+          "explanation": "Use the perpendicular normal."
+        },
+        {
+          "question": "At a stationary interface, light frequency…",
+          "options": [
+            "Stays the same",
+            "Always doubles",
+            "Becomes zero"
+          ],
+          "answer": 0,
+          "explanation": "Frequency is continuous across the stationary boundary."
+        },
+        {
+          "question": "Air to glass, away from normal incidence, bends…",
+          "options": [
+            "Toward the normal",
+            "Away from the normal",
+            "Always by 90°"
+          ],
+          "answer": 0,
+          "explanation": "Higher n gives smaller transmitted angle."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the refraction scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Find the normal",
+        "Set the media",
+        "Apply Snell’s law",
+        "Follow reflected power",
+        "Check the limit"
+      ],
+      "simulationSpecification": "Use the stated refraction equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Draw a perpendicular to the interface.",
+        "Compare n1 and n2.",
+        "Calculate the transmitted direction.",
+        "Some light may also reflect.",
+        "From high to low index, sufficiently large incidence gives TIR."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Refraction",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction",
+          "title": "OpenStax · Refraction",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Refraction is a change in light direction at an interface caused by a change in propagation speed, except at normal incidence.",
+        "For isotropic media and one frequency, n1sinθ1=n2sinθ2. The refractive index is c/v; frequency stays unchanged at a stationary boundary, while wavelength changes.",
+        "A straw partly in water appears displaced because rays refract at the water–air boundary.",
+        "When light travels from a higher-index medium to a lower-index medium above the critical angle, no propagating refracted ray appears: total internal reflection occurs. This model uses monochromatic rays and ideal flat transparent media; it calculates ideal unpolarized Fresnel power fractions but does not model absorption or an evanescent field."
+      ],
+      "learningLevels": {
+        "primary": "A ray can bend when it enters another transparent material. Compare angles from the perpendicular normal.",
+        "secondary": "Refraction is a change in light direction at an interface caused by a change in propagation speed, except at normal incidence. For isotropic media and one frequency, n1sinθ1=n2sinθ2. The refractive index is c/v; frequency stays unchanged at a stationary boundary, while wavelength changes. A straw partly in water appears displaced because rays refract at the water–air boundary.",
+        "senior": "n₁ sinθ₁ = n₂ sinθ₂; n = c/v For isotropic media and one frequency, n1sinθ1=n2sinθ2. The refractive index is c/v; frequency stays unchanged at a stationary boundary, while wavelength changes."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0107",
+      "contentId": "lesson:sa-0107",
+      "title": "Lenses",
+      "subject": "Physics",
+      "kind": "lens",
+      "batch": 1,
+      "shortDescription": "A thin lens refracts light at two surfaces and can form real or virtual images.",
+      "ageAppropriateExplanation": "A converging lens can bring near-axis rays together. A diverging lens spreads them so they appear to come from a point on the object side.",
+      "explanation": [
+        "A thin lens refracts light at two surfaces and can form real or virtual images.",
+        "The paraxial thin-lens relation is 1/f=1/do+1/di, with positive f for a converging lens and negative f for a diverging lens. The model omits thickness and aberrations.",
+        "A magnifying glass gives an upright virtual image when its object is inside the positive focal distance."
+      ],
+      "scientificPrinciples": [
+        "The paraxial thin-lens relation is 1/f=1/do+1/di, with positive f for a converging lens and negative f for a diverging lens. The model omits thickness and aberrations."
+      ],
+      "definitions": {
+        "Thin lens": "Lens approximation whose thickness is negligible for the ray construction.",
+        "Magnification": "Signed ratio of image height to object height."
+      },
+      "terminology": [
+        "Thin lens",
+        "Magnification"
+      ],
+      "formula": "1/f = 1/do + 1/di; m = −di/do",
+      "realLifeExamples": [
+        "A magnifying glass gives an upright virtual image when its object is inside the positive focal distance."
+      ],
+      "objectives": [
+        "Read the sign of focal length.",
+        "A real image forms where transmitted rays meet.",
+        "At do=f for a converging lens, output rays are parallel."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A converging lens does not always form a real image."
+      ],
+      "steps": [
+        {
+          "title": "Choose lens type",
+          "caption": "Read the sign of focal length.",
+          "detail": "Positive converges and negative diverges."
+        },
+        {
+          "title": "Trace principal rays",
+          "caption": "Follow rays from the top of the object.",
+          "detail": "The near-axis approximation is assumed."
+        },
+        {
+          "title": "Locate convergence",
+          "caption": "A real image forms where transmitted rays meet.",
+          "detail": "A negative image distance indicates a virtual construction."
+        },
+        {
+          "title": "Read orientation",
+          "caption": "Negative magnification means inversion.",
+          "detail": "Positive magnification means upright orientation."
+        },
+        {
+          "title": "Try the focus",
+          "caption": "At do=f for a converging lens, output rays are parallel.",
+          "detail": "No finite image location is displayed."
+        }
+      ],
+      "activity": "Compare a positive and a negative f at the same object distance.",
+      "quiz": [
+        {
+          "question": "A diverging thin lens has…",
+          "options": [
+            "Negative f",
+            "Positive f always",
+            "Zero power only"
+          ],
+          "answer": 0,
+          "explanation": "The stated convention uses negative focal length."
+        },
+        {
+          "question": "Negative magnification indicates…",
+          "options": [
+            "An inverted image",
+            "No image",
+            "A negative object height necessarily"
+          ],
+          "answer": 0,
+          "explanation": "The sign describes relative orientation."
+        },
+        {
+          "question": "For f=1 m and do=0.5 m, the image is…",
+          "options": [
+            "Virtual",
+            "Real",
+            "At the focus"
+          ],
+          "answer": 0,
+          "explanation": "The equation gives di=−1 m."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the lens scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Choose lens type",
+        "Trace principal rays",
+        "Locate convergence",
+        "Read orientation",
+        "Try the focus"
+      ],
+      "simulationSpecification": "Use the stated lens equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Read the sign of focal length.",
+        "Follow rays from the top of the object.",
+        "A real image forms where transmitted rays meet.",
+        "Negative magnification means inversion.",
+        "At do=f for a converging lens, output rays are parallel."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Lenses",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses",
+          "title": "OpenStax · Optics",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A thin lens refracts light at two surfaces and can form real or virtual images.",
+        "The paraxial thin-lens relation is 1/f=1/do+1/di, with positive f for a converging lens and negative f for a diverging lens. The model omits thickness and aberrations.",
+        "A magnifying glass gives an upright virtual image when its object is inside the positive focal distance.",
+        "Magnification is −di/do. At a converging lens’s focal distance the outgoing rays are parallel and there is no finite image. This approximation omits lens thickness, diffraction and aberration."
+      ],
+      "learningLevels": {
+        "primary": "A converging lens can bring near-axis rays together. A diverging lens spreads them so they appear to come from a point on the object side.",
+        "secondary": "A thin lens refracts light at two surfaces and can form real or virtual images. The paraxial thin-lens relation is 1/f=1/do+1/di, with positive f for a converging lens and negative f for a diverging lens. The model omits thickness and aberrations. A magnifying glass gives an upright virtual image when its object is inside the positive focal distance.",
+        "senior": "1/f = 1/do + 1/di; m = −di/do The paraxial thin-lens relation is 1/f=1/do+1/di, with positive f for a converging lens and negative f for a diverging lens. The model omits thickness and aberrations."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0112",
+      "contentId": "lesson:sa-0112",
+      "title": "Echoes",
+      "subject": "Physics",
+      "kind": "echo",
+      "batch": 1,
+      "shortDescription": "An echo is reflected sound heard after travelling to a reflecting surface and back.",
+      "ageAppropriateExplanation": "Send a sound toward a wall and count the return time. The sound travels the distance twice.",
+      "explanation": [
+        "An echo is reflected sound heard after travelling to a reflecting surface and back.",
+        "For a fixed source and receiver at the same location, d=cΔt/2. This model uses the near-room-temperature approximation c=331+0.6T m/s for air.",
+        "Ultrasonic range finders use travel time; their electronics and target scattering are outside this wall model."
+      ],
+      "scientificPrinciples": [
+        "For a fixed source and receiver at the same location, d=cΔt/2. This model uses the near-room-temperature approximation c=331+0.6T m/s for air."
+      ],
+      "definitions": {
+        "Echo delay": "Round-trip sound travel time.",
+        "Sound speed": "Propagation speed of an acoustic disturbance in the medium."
+      },
+      "terminology": [
+        "Echo delay",
+        "Sound speed"
+      ],
+      "formula": "Δt = 2d/c; c ≈ 331 + 0.6T · d m, T °C",
+      "realLifeExamples": [
+        "Ultrasonic range finders use travel time; their electronics and target scattering are outside this wall model."
+      ],
+      "objectives": [
+        "The source launches a travelling sound disturbance.",
+        "Sound returns from the ideal wall.",
+        "Warmer air has greater modeled sound speed."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Do not use d=cΔt for a round-trip echo; that gives the total travelled distance, twice the wall range."
+      ],
+      "steps": [
+        {
+          "title": "Emit the pulse",
+          "caption": "The source launches a travelling sound disturbance.",
+          "detail": "The source and receiver are colocated here."
+        },
+        {
+          "title": "Reach the wall",
+          "caption": "The outgoing pulse travels distance d.",
+          "detail": "This is only half the final journey."
+        },
+        {
+          "title": "Reflect",
+          "caption": "Sound returns from the ideal wall.",
+          "detail": "Multiple echoes and absorption are omitted."
+        },
+        {
+          "title": "Measure delay",
+          "caption": "The total path is 2d.",
+          "detail": "Use d=cΔt/2 to infer range."
+        },
+        {
+          "title": "Change temperature",
+          "caption": "Warmer air has greater modeled sound speed.",
+          "detail": "At fixed range the return delay decreases."
+        }
+      ],
+      "activity": "Double wall distance at fixed temperature, then change temperature at fixed distance.",
+      "quiz": [
+        {
+          "question": "For c=340 m/s and Δt=1 s, range is…",
+          "options": [
+            "170 m",
+            "340 m",
+            "680 m"
+          ],
+          "answer": 0,
+          "explanation": "d=cΔt/2=170 m."
+        },
+        {
+          "question": "Doubling wall distance makes echo delay…",
+          "options": [
+            "Double",
+            "Half",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "The round-trip distance doubles."
+        },
+        {
+          "question": "At fixed distance, higher modeled c gives…",
+          "options": [
+            "Shorter delay",
+            "Longer delay",
+            "No change"
+          ],
+          "answer": 0,
+          "explanation": "Δt=2d/c."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the echo scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Emit the pulse",
+        "Reach the wall",
+        "Reflect",
+        "Measure delay",
+        "Change temperature"
+      ],
+      "simulationSpecification": "Use the stated echo equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "The source launches a travelling sound disturbance.",
+        "The outgoing pulse travels distance d.",
+        "Sound returns from the ideal wall.",
+        "The total path is 2d.",
+        "Warmer air has greater modeled sound speed."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Echoes",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+          "title": "OpenStax · Sound",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "An echo is reflected sound heard after travelling to a reflecting surface and back.",
+        "For a fixed source and receiver at the same location, d=cΔt/2. This model uses the near-room-temperature approximation c=331+0.6T m/s for air.",
+        "Ultrasonic range finders use travel time; their electronics and target scattering are outside this wall model.",
+        "In this range, warmer air has a slightly higher sound speed. Straight-line reflection in uniform air; approximate speed c=331+0.6T m/s over the exposed temperature range. No attenuation, dispersion or multiple reflections. The round trip is slowed and repeated for visibility."
+      ],
+      "learningLevels": {
+        "primary": "Send a sound toward a wall and count the return time. The sound travels the distance twice.",
+        "secondary": "An echo is reflected sound heard after travelling to a reflecting surface and back. For a fixed source and receiver at the same location, d=cΔt/2. This model uses the near-room-temperature approximation c=331+0.6T m/s for air. Ultrasonic range finders use travel time; their electronics and target scattering are outside this wall model.",
+        "senior": "Δt = 2d/c; c ≈ 331 + 0.6T · d m, T °C For a fixed source and receiver at the same location, d=cΔt/2. This model uses the near-room-temperature approximation c=331+0.6T m/s for air."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0115",
+      "contentId": "lesson:sa-0115",
+      "title": "Effective length of seconds pendulum",
+      "subject": "Physics",
+      "kind": "pendulum",
+      "batch": 1,
+      "shortDescription": "A seconds pendulum has a full small-angle period of two seconds, approximately one second per half-swing.",
+      "ageAppropriateExplanation": "One complete swing out and back takes two seconds. The effective length runs from the pivot to the bob’s centre of mass.",
+      "explanation": [
+        "A seconds pendulum has a full small-angle period of two seconds, approximately one second per half-swing.",
+        "For an ideal simple pendulum, T=2π√(L/g), so L=gT²/(4π²). At g=9.81 m/s² and T=2 s, L is about 0.994 m.",
+        "A calibrated pendulum clock uses a related timing principle, with corrections for real dimensions, temperature and amplitude."
+      ],
+      "scientificPrinciples": [
+        "For an ideal simple pendulum, T=2π√(L/g), so L=gT²/(4π²). At g=9.81 m/s² and T=2 s, L is about 0.994 m."
+      ],
+      "definitions": {
+        "Period": "Time for one complete oscillation.",
+        "Effective length": "Pivot-to-bob-centre distance for the point-bob model."
+      },
+      "terminology": [
+        "Period",
+        "Effective length"
+      ],
+      "formula": "L = gT²/(4π²); T = 2 s → L ≈ 0.994 m at g=9.81 m/s²",
+      "realLifeExamples": [
+        "A calibrated pendulum clock uses a related timing principle, with corrections for real dimensions, temperature and amplitude."
+      ],
+      "objectives": [
+        "Start at one extreme and return to it.",
+        "Keep the angle within the linearized range.",
+        "A new g requires a new seconds-pendulum length."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "A seconds pendulum does not take one second for a complete back-and-forth cycle."
+      ],
+      "steps": [
+        {
+          "title": "Define a full cycle",
+          "caption": "Start at one extreme and return to it.",
+          "detail": "That out-and-back journey defines T."
+        },
+        {
+          "title": "Measure length",
+          "caption": "Use pivot to centre of mass.",
+          "detail": "String length alone can omit bob radius."
+        },
+        {
+          "title": "Choose small amplitude",
+          "caption": "Keep the angle within the linearized range.",
+          "detail": "This viewer limits release angle to 15°."
+        },
+        {
+          "title": "Solve for length",
+          "caption": "Insert T=2 s and the selected g.",
+          "detail": "At Earth gravity the length is close to one metre."
+        },
+        {
+          "title": "Change gravity",
+          "caption": "A new g requires a new seconds-pendulum length.",
+          "detail": "Length is proportional to g for fixed T."
+        }
+      ],
+      "activity": "Set length near 0.994 m and compare the displayed full period with 2 s.",
+      "quiz": [
+        {
+          "question": "A seconds pendulum has full period…",
+          "options": [
+            "2 s",
+            "1 s",
+            "0.5 s"
+          ],
+          "answer": 0,
+          "explanation": "The full oscillation is two seconds."
+        },
+        {
+          "question": "Its effective length is measured to…",
+          "options": [
+            "The bob centre of mass",
+            "The bottom of the bob only",
+            "The nearest wall"
+          ],
+          "answer": 0,
+          "explanation": "The point-bob approximation locates the mass at its centre."
+        },
+        {
+          "question": "At fixed T, required length is proportional to…",
+          "options": [
+            "g",
+            "1/g",
+            "Bob mass"
+          ],
+          "answer": 0,
+          "explanation": "L=gT²/(4π²)."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "length": 0.994,
+        "amplitude": 10,
+        "damping": 0
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the pendulum scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Define a full cycle",
+        "Measure length",
+        "Choose small amplitude",
+        "Solve for length",
+        "Change gravity"
+      ],
+      "simulationSpecification": "Use the stated pendulum equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Start at one extreme and return to it.",
+        "Use pivot to centre of mass.",
+        "Keep the angle within the linearized range.",
+        "Insert T=2 s and the selected g.",
+        "A new g requires a new seconds-pendulum length."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Effective length of seconds pendulum",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums",
+          "title": "OpenStax · Pendulums",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A seconds pendulum has a full small-angle period of two seconds, approximately one second per half-swing.",
+        "For an ideal simple pendulum, T=2π√(L/g), so L=gT²/(4π²). At g=9.81 m/s² and T=2 s, L is about 0.994 m.",
+        "A calibrated pendulum clock uses a related timing principle, with corrections for real dimensions, temperature and amplitude.",
+        "The model assumes no friction, a massless string, a point bob and a small initial angle. It conserves mechanical energy. Larger amplitudes increase the true period, so this formula should not be treated as exact for large swings."
+      ],
+      "learningLevels": {
+        "primary": "One complete swing out and back takes two seconds. The effective length runs from the pivot to the bob’s centre of mass.",
+        "secondary": "A seconds pendulum has a full small-angle period of two seconds, approximately one second per half-swing. For an ideal simple pendulum, T=2π√(L/g), so L=gT²/(4π²). At g=9.81 m/s² and T=2 s, L is about 0.994 m. A calibrated pendulum clock uses a related timing principle, with corrections for real dimensions, temperature and amplitude.",
+        "senior": "L = gT²/(4π²); T = 2 s → L ≈ 0.994 m at g=9.81 m/s² For an ideal simple pendulum, T=2π√(L/g), so L=gT²/(4π²). At g=9.81 m/s² and T=2 s, L is about 0.994 m."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0116",
+      "contentId": "lesson:sa-0116",
+      "title": "Variation of time period of a simple pendulum",
+      "subject": "Physics",
+      "kind": "pendulum",
+      "batch": 1,
+      "shortDescription": "The period of a small-angle simple pendulum increases with square root of length and decreases with square root of gravitational acceleration.",
+      "ageAppropriateExplanation": "A longer pendulum swings more slowly. Changing bob mass does not change its ideal timing.",
+      "explanation": [
+        "The period of a small-angle simple pendulum increases with square root of length and decreases with square root of gravitational acceleration.",
+        "T=2π√(L/g) applies to a point bob, massless string, small angles and negligible damping. Real large-amplitude pendulums have amplitude-dependent periods.",
+        "Pendulum clocks run differently if their effective length or local gravity changes."
+      ],
+      "scientificPrinciples": [
+        "T=2π√(L/g) applies to a point bob, massless string, small angles and negligible damping. Real large-amplitude pendulums have amplitude-dependent periods."
+      ],
+      "definitions": {
+        "Oscillation": "Repeated motion about an equilibrium position.",
+        "Small-angle approximation": "Using sinθ≈θ when θ is small in radians."
+      },
+      "terminology": [
+        "Oscillation",
+        "Small-angle approximation"
+      ],
+      "formula": "T = 2π√(L/g); T₂/T₁ = √(L₂g₁/L₁g₂)",
+      "realLifeExamples": [
+        "Pendulum clocks run differently if their effective length or local gravity changes."
+      ],
+      "objectives": [
+        "Use a small angle and no damping.",
+        "Quadrupling length doubles T.",
+        "Lower g gives a larger period."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "Doubling length does not double period; quadrupling length does in the ideal model."
+      ],
+      "steps": [
+        {
+          "title": "Fix the conditions",
+          "caption": "Use a small angle and no damping.",
+          "detail": "Change one input at a time."
+        },
+        {
+          "title": "Measure the baseline",
+          "caption": "Read the full period at one length.",
+          "detail": "A half-swing is not a full period."
+        },
+        {
+          "title": "Change length",
+          "caption": "Quadrupling length doubles T.",
+          "detail": "The relation is a square root."
+        },
+        {
+          "title": "Change mass",
+          "caption": "Compare the same motion for different bobs.",
+          "detail": "Mass cancels from the ideal equation."
+        },
+        {
+          "title": "Change gravity",
+          "caption": "Lower g gives a larger period.",
+          "detail": "The pendulum takes longer to complete its cycle."
+        }
+      ],
+      "activity": "Compare L=1 m and L=4 m, then vary mass with all other settings fixed.",
+      "quiz": [
+        {
+          "question": "Quadrupling L at fixed g makes T…",
+          "options": [
+            "Double",
+            "Quadruple",
+            "Half"
+          ],
+          "answer": 0,
+          "explanation": "T is proportional to √L."
+        },
+        {
+          "question": "Doubling bob mass makes ideal T…",
+          "options": [
+            "Unchanged",
+            "Double",
+            "Half"
+          ],
+          "answer": 0,
+          "explanation": "Mass does not appear in the period formula."
+        },
+        {
+          "question": "The stated formula assumes…",
+          "options": [
+            "Small angles",
+            "Any arbitrarily large angle",
+            "A stretching string"
+          ],
+          "answer": 0,
+          "explanation": "It is the small-angle simple-pendulum result."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {
+        "damping": 0
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the pendulum scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Fix the conditions",
+        "Measure the baseline",
+        "Change length",
+        "Change mass",
+        "Change gravity"
+      ],
+      "simulationSpecification": "Use the stated pendulum equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Use a small angle and no damping.",
+        "Read the full period at one length.",
+        "Quadrupling length doubles T.",
+        "Compare the same motion for different bobs.",
+        "Lower g gives a larger period."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Variation of time period of a simple pendulum",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums",
+          "title": "OpenStax · Pendulums",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "The period of a small-angle simple pendulum increases with square root of length and decreases with square root of gravitational acceleration.",
+        "T=2π√(L/g) applies to a point bob, massless string, small angles and negligible damping. Real large-amplitude pendulums have amplitude-dependent periods.",
+        "Pendulum clocks run differently if their effective length or local gravity changes.",
+        "The model assumes no friction, a massless string, a point bob and a small initial angle. It conserves mechanical energy. Larger amplitudes increase the true period, so this formula should not be treated as exact for large swings."
+      ],
+      "learningLevels": {
+        "primary": "A longer pendulum swings more slowly. Changing bob mass does not change its ideal timing.",
+        "secondary": "The period of a small-angle simple pendulum increases with square root of length and decreases with square root of gravitational acceleration. T=2π√(L/g) applies to a point bob, massless string, small angles and negligible damping. Real large-amplitude pendulums have amplitude-dependent periods. Pendulum clocks run differently if their effective length or local gravity changes.",
+        "senior": "T = 2π√(L/g); T₂/T₁ = √(L₂g₁/L₁g₂) T=2π√(L/g) applies to a point bob, massless string, small angles and negligible damping. Real large-amplitude pendulums have amplitude-dependent periods."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0118",
+      "contentId": "lesson:sa-0118",
+      "title": "Simple harmonic motion",
+      "subject": "Physics",
+      "kind": "spring",
+      "batch": 1,
+      "shortDescription": "Simple harmonic motion occurs when acceleration is proportional to displacement and directed toward equilibrium.",
+      "ageAppropriateExplanation": "Pull a mass on a spring and release it. It moves fastest at the middle and pauses briefly at each end.",
+      "explanation": [
+        "Simple harmonic motion occurs when acceleration is proportional to displacement and directed toward equilibrium.",
+        "For an ideal horizontal spring, F=−kx, ω=√(k/m) and x=Acosωt. The total mechanical energy is ½kA², shared between elastic potential and kinetic energy.",
+        "A small displacement of a mass on a linear spring is an approximate laboratory example of SHM."
+      ],
+      "scientificPrinciples": [
+        "For an ideal horizontal spring, F=−kx, ω=√(k/m) and x=Acosωt. The total mechanical energy is ½kA², shared between elastic potential and kinetic energy."
+      ],
+      "definitions": {
+        "Restoring force": "Force directed back toward equilibrium.",
+        "Angular frequency": "Phase rate of oscillation, in rad/s."
+      },
+      "terminology": [
+        "Restoring force",
+        "Angular frequency"
+      ],
+      "formula": "a = −ω²x; ω = √(k/m); T = 2π√(m/k)",
+      "realLifeExamples": [
+        "A small displacement of a mass on a linear spring is an approximate laboratory example of SHM."
+      ],
+      "objectives": [
+        "The spring stores elastic potential energy.",
+        "Speed and kinetic energy are greatest.",
+        "Larger mass increases period; larger stiffness decreases it."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "The mass does not have greatest speed at maximum displacement; its acceleration magnitude is greatest there."
+      ],
+      "steps": [
+        {
+          "title": "Displace the mass",
+          "caption": "The spring stores elastic potential energy.",
+          "detail": "The initial speed is zero at maximum extension."
+        },
+        {
+          "title": "Restore toward centre",
+          "caption": "The force points opposite displacement.",
+          "detail": "Its magnitude is k|x|."
+        },
+        {
+          "title": "Cross equilibrium",
+          "caption": "Speed and kinetic energy are greatest.",
+          "detail": "The restoring force is instantaneously zero."
+        },
+        {
+          "title": "Reach the opposite end",
+          "caption": "Speed returns to zero.",
+          "detail": "Energy is again elastic potential."
+        },
+        {
+          "title": "Change m or k",
+          "caption": "Larger mass increases period; larger stiffness decreases it.",
+          "detail": "Amplitude does not change the ideal linear period."
+        }
+      ],
+      "activity": "Pause at an extreme and at the middle. Compare displacement, speed and energy.",
+      "quiz": [
+        {
+          "question": "In SHM, acceleration points…",
+          "options": [
+            "Toward equilibrium",
+            "Always right",
+            "Always with velocity"
+          ],
+          "answer": 0,
+          "explanation": "a=−ω²x."
+        },
+        {
+          "question": "Speed is greatest at…",
+          "options": [
+            "Equilibrium",
+            "An extreme",
+            "Every point equally"
+          ],
+          "answer": 0,
+          "explanation": "Potential energy is minimum at equilibrium."
+        },
+        {
+          "question": "Quadrupling spring mass makes T…",
+          "options": [
+            "Double",
+            "Half",
+            "Quadruple"
+          ],
+          "answer": 0,
+          "explanation": "T is proportional to √m."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the spring scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Displace the mass",
+        "Restore toward centre",
+        "Cross equilibrium",
+        "Reach the opposite end",
+        "Change m or k"
+      ],
+      "simulationSpecification": "Use the stated spring equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "The spring stores elastic potential energy.",
+        "The force points opposite displacement.",
+        "Speed and kinetic energy are greatest.",
+        "Speed returns to zero.",
+        "Larger mass increases period; larger stiffness decreases it."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Simple harmonic motion",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+          "title": "OpenStax · Oscillations & waves",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "Simple harmonic motion occurs when acceleration is proportional to displacement and directed toward equilibrium.",
+        "For an ideal horizontal spring, F=−kx, ω=√(k/m) and x=Acosωt. The total mechanical energy is ½kA², shared between elastic potential and kinetic energy.",
+        "A small displacement of a mass on a linear spring is an approximate laboratory example of SHM.",
+        "The mass is fastest at equilibrium and stops momentarily at turning points. Kinetic and spring potential energy exchange while their sum stays constant."
+      ],
+      "learningLevels": {
+        "primary": "Pull a mass on a spring and release it. It moves fastest at the middle and pauses briefly at each end.",
+        "secondary": "Simple harmonic motion occurs when acceleration is proportional to displacement and directed toward equilibrium. For an ideal horizontal spring, F=−kx, ω=√(k/m) and x=Acosωt. The total mechanical energy is ½kA², shared between elastic potential and kinetic energy. A small displacement of a mass on a linear spring is an approximate laboratory example of SHM.",
+        "senior": "a = −ω²x; ω = √(k/m); T = 2π√(m/k) For an ideal horizontal spring, F=−kx, ω=√(k/m) and x=Acosωt. The total mechanical energy is ½kA², shared between elastic potential and kinetic energy."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    },
+    {
+      "recordId": "SA-0119",
+      "contentId": "lesson:sa-0119",
+      "title": "Wave motion",
+      "subject": "Physics",
+      "kind": "waves",
+      "batch": 1,
+      "shortDescription": "A travelling wave carries a disturbance through space while material points oscillate locally.",
+      "ageAppropriateExplanation": "Watch the crests move along the string while a marked point moves up and down. The pattern and the material have different motion.",
+      "explanation": [
+        "A travelling wave carries a disturbance through space while material points oscillate locally.",
+        "For y=A sin[2π(x/λ−ft)], the wave speed is v=fλ. This ideal model is transverse, sinusoidal, nondispersive and unbounded; the visible segment is only a window.",
+        "Ripples and waves on a string show propagation, though real media may disperse and damp."
+      ],
+      "scientificPrinciples": [
+        "For y=A sin[2π(x/λ−ft)], the wave speed is v=fλ. This ideal model is transverse, sinusoidal, nondispersive and unbounded; the visible segment is only a window."
+      ],
+      "definitions": {
+        "Wavelength": "Distance between successive points in the same phase.",
+        "Frequency": "Number of complete oscillations per second, in hertz."
+      },
+      "terminology": [
+        "Wavelength",
+        "Frequency"
+      ],
+      "formula": "v = fλ; y = A sin[2π(x/λ − ft)]",
+      "realLifeExamples": [
+        "Ripples and waves on a string show propagation, though real media may disperse and damp."
+      ],
+      "objectives": [
+        "Follow a point with fixed horizontal position.",
+        "Find the distance between adjacent crests.",
+        "At fixed v, doubling f halves λ."
+      ],
+      "prerequisites": [
+        "SI units and careful observation"
+      ],
+      "misconceptions": [
+        "The marked material point does not travel along with the crest in this transverse model."
+      ],
+      "steps": [
+        {
+          "title": "Mark one point",
+          "caption": "Follow a point with fixed horizontal position.",
+          "detail": "It oscillates vertically in the model."
+        },
+        {
+          "title": "Follow a crest",
+          "caption": "The phase pattern moves along the string.",
+          "detail": "This is propagation, not bulk transport of the string."
+        },
+        {
+          "title": "Measure wavelength",
+          "caption": "Find the distance between adjacent crests.",
+          "detail": "Use points in the same phase."
+        },
+        {
+          "title": "Relate speed and timing",
+          "caption": "One wavelength passes each period.",
+          "detail": "Therefore v=fλ."
+        },
+        {
+          "title": "Change frequency",
+          "caption": "At fixed v, doubling f halves λ.",
+          "detail": "Do not confuse transverse point velocity with wave speed."
+        }
+      ],
+      "activity": "Keep speed fixed and double frequency. Compare wavelength and the marked point’s motion.",
+      "quiz": [
+        {
+          "question": "At v=4 m/s and f=2 Hz, wavelength is…",
+          "options": [
+            "2 m",
+            "8 m",
+            "0.5 m"
+          ],
+          "answer": 0,
+          "explanation": "λ=v/f=2 m."
+        },
+        {
+          "question": "The marked material point moves…",
+          "options": [
+            "Up and down",
+            "Along with each crest",
+            "Only to the right"
+          ],
+          "answer": 0,
+          "explanation": "The wave is transverse."
+        },
+        {
+          "question": "At fixed speed, doubling frequency makes wavelength…",
+          "options": [
+            "Half",
+            "Double",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "λ=v/f."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed response using the displayed scientific relationship.",
+        "Identify one assumption that limits the model."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "sourceCheckedOn": "2026-10-26",
+      "visualization2D": "Animated SVG using the waves scientific model, labelled quantities and moving process markers.",
+      "visualization3D": "Original procedural WebGL geometry using the same numerical state as the SVG. Orbit, zoom and pan; geometric scales may be compressed.",
+      "animationStoryboard": [
+        "Mark one point",
+        "Follow a crest",
+        "Measure wavelength",
+        "Relate speed and timing",
+        "Change frequency"
+      ],
+      "simulationSpecification": "Use the stated waves equations and controls; parameter changes update the same state used by both renderers. No decorative motion is treated as a measured speed.",
+      "watchSequence": [
+        "Follow a point with fixed horizontal position.",
+        "The phase pattern moves along the string.",
+        "Find the distance between adjacent crests.",
+        "One wavelength passes each period.",
+        "At fixed v, doubling f halves λ."
+      ],
+      "accessibilityDescription": "Read the synchronized captions, labelled controls and live text measurements. Animation can be paused, stepped through and slowed; reduced-motion preference prevents automatic playback.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Wave motion",
+        "guidance": "Use the authored explanations, selected parameters and stated assumptions. No network tutor is included."
+      },
+      "sources": [
+        {
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+          "title": "OpenStax · Oscillations & waves",
+          "type": "scientific_reference",
+          "status": "retrieved_primary_reference"
+        }
+      ],
+      "detailedExplanation": [
+        "A travelling wave carries a disturbance through space while material points oscillate locally.",
+        "For y=A sin[2π(x/λ−ft)], the wave speed is v=fλ. This ideal model is transverse, sinusoidal, nondispersive and unbounded; the visible segment is only a window.",
+        "Ripples and waves on a string show propagation, though real media may disperse and damp.",
+        "This model shows an infinite travelling sinusoid through a finite viewing window. It has no fixed ends or reflections; it does not calculate tension from material properties."
+      ],
+      "learningLevels": {
+        "primary": "Watch the crests move along the string while a marked point moves up and down. The pattern and the material have different motion.",
+        "secondary": "A travelling wave carries a disturbance through space while material points oscillate locally. For y=A sin[2π(x/λ−ft)], the wave speed is v=fλ. This ideal model is transverse, sinusoidal, nondispersive and unbounded; the visible segment is only a window. Ripples and waves on a string show propagation, though real media may disperse and damp.",
+        "senior": "v = fλ; y = A sin[2π(x/λ − ft)] For y=A sin[2π(x/λ−ft)], the wave speed is v=fλ. This ideal model is transverse, sinusoidal, nondispersive and unbounded; the visible segment is only a window."
+      },
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
+      }
+    }
+  ]
+}

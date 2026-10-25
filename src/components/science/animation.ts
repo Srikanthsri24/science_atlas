@@ -6,7 +6,7 @@ export const motionDescriptions:Record<Kind,string>={...Object.fromEntries(Objec
 const noop=()=>{};
 const mix=(a:number,b:number,u:number)=>a+(b-a)*u;
 const smooth=(u:number)=>u*u*(3-2*u);
-export function animationFrame(kind:Kind,storyTime:number,elapsed:number,baseParameters?:Parameters):SceneProps&{action:string;index:number;loopPhase:number}{const chapter=chapterAt(kind,storyTime),source=storyState(kind,storyTime),p={...source.p},beat=((elapsed%6)+6)%6/6,travel=smooth(beat),osc=(1-Math.cos(beat*Math.PI*2))/2;let sceneTime=source.sceneTime;
+export function animationFrame(kind:Kind,storyTime:number,elapsed:number,baseParameters?:Partial<Parameters>):SceneProps&{action:string;index:number;loopPhase:number}{const chapter=chapterAt(kind,storyTime),source=storyState(kind,storyTime),p={...source.p},beat=((elapsed%6)+6)%6/6,travel=smooth(beat),osc=(1-Math.cos(beat*Math.PI*2))/2;let sceneTime=source.sceneTime;
  switch(kind){
  case'pendulum':sceneTime=elapsed;break;
  case'circuit':sceneTime=elapsed*2;p.closed=chapter.index===0?beat>.3:true;break;

@@ -1,0 +1,7 @@
+import{readFile,writeFile}from'node:fs/promises';
+const root=new URL('../',import.meta.url),read=async p=>JSON.parse(await readFile(new URL(p,root),'utf8')),inventory=await read('data/frontend-catalog.json'),authored=await read('data/authored-concepts.json');
+const byId=new Map(authored.records.map(c=>[c.recordId,c]));
+if(byId.size!==authored.records.length)throw Error('Duplicate authored concept IDs');
+for(const c of authored.records){if(!inventory.records.some(r=>r.id===c.recordId&&r.topic===c.title))throw Error('Authored record does not match preserved inventory: '+c.recordId);if(c.steps.length!==5||c.quiz.length!==3||!c.sources.length)throw Error('Incomplete authored record: '+c.recordId)}
+const records=inventory.records.map(r=>({recordId:r.id,title:r.topic,subject:r.subject,contentId:byId.get(r.id)?.contentId??null,batch:byId.get(r.id)?.batch??null,implementation:byId.get(r.id)?.implementationStatus??'pending_authoring',scientificReview:'pending_independent_expert_review',curriculumVerification:r.curriculum_mappings.length?'partial_evidence':'pending_verification'}));
+await writeFile(new URL('reports/concept-ledger.json',root),JSON.stringify({total:records.length,authored:byId.size,pending:records.length-byId.size,publicationBatchSize:25,records},null,2)+'\n');console.log(`Concept ledger: ${byId.size}/${records.length} authored; ${records.length-byId.size} pending.`);
