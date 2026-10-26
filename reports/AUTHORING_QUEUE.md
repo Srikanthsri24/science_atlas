@@ -1,8 +1,8 @@
 # Ongoing 408-concept authoring work
 
-The user explicitly requested continued completion of all 408 concepts, with a tested/published checkpoint every 25. Do not treat 100 concepts as the final goal.
+The user explicitly requested continued completion of all 408 concepts, with a tested/published checkpoint every 25. Do not treat an intermediate checkpoint as the final goal.
 
-Current content: 100 authored/frontend-tested records, 308 pending, plus 60 reusable lab experiences. Scientific independent expert review and official board mappings remain separate from implementation. Do not mark those verified without evidence. Inventory IDs and original fields must remain preserved.
+Published checkpoint: 175 authored/frontend-tested records, 233 pending, plus 60 reusable lab experiences. Scientific independent expert review and official board mappings remain separate from implementation. Do not mark those verified without evidence. Inventory IDs and original fields must remain preserved.
 
 ## Next checkpoint
 
@@ -10,9 +10,9 @@ Select 25 genuinely un-authored inventory IDs by comparing `data/frontend-catalo
 
 ## Each concept
 
-Provide original explanations at simple/detailed/equation levels, terminology, principles and units, examples, objectives and prerequisites, misconceptions, five clear process stages, genuine interactive visualization, an experiment activity, three valid questions and answer feedback, accessibility text, primary references and review status. Current content schema and examples are in `data/authored-concepts.json`. All added metadata is additive.
+Provide original explanations at simple/detailed/equation levels, terminology, principles and units, examples, objectives and prerequisites, misconceptions, five clear process stages, genuine interactive visualization, an experiment activity, three valid questions and answer feedback, accessibility text, company attribution and review status. Current content schema and examples are in `data/authored-concepts.json`. All added metadata is additive.
 
-Cross-check scientific facts against primary references. Test equations independently, then test every concept in the actual browser: moving SVG, parameter changes, WebGL where appropriate, all guided chapters, quiz submission and reload-persistent score/completion. Use the isolated local production origin for writing test results, preserving the normal and live learning state.
+Cross-check scientific facts against primary references and retain research evidence in the sibling science_atlas_research directory outside this published repository. Do not expose third-party reference links in the app or its public downloads. Test equations independently, then test every concept in the actual browser: moving SVG, parameter changes, WebGL where appropriate, all guided chapters, quiz submission and reload-persistent score/completion. Use the isolated local production origin for writing test results, preserving the normal and live learning state.
 
 ## Publish gate
 
