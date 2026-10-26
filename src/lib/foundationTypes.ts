@@ -1,3 +1,3 @@
-export const foundationKinds=['animals','senses','food','waterstates','house','force','shadow','sound','daynight','safety','measurement','robot','classifier','cellstructure','geneticcode','planttransport','ecosystem'] as const;
+export const foundationKinds=['animals','senses','food','waterstates','house','force','shadow','sound','daynight','safety','measurement','robot','classifier','cellstructure','geneticcode','planttransport','ecosystem','precipitation','weakacid','calorimetry'] as const;
 export type FoundationKind=typeof foundationKinds[number];
 export const isFoundationKind=(k:string):k is FoundationKind=>(foundationKinds as readonly string[]).includes(k);
