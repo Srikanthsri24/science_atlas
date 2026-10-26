@@ -2,7 +2,7 @@
 
 The user explicitly requested continued completion of all 408 concepts, with a tested/published checkpoint every 25. Do not treat an intermediate checkpoint as the final goal.
 
-Published checkpoint: 225 authored/frontend-tested records, 183 pending, plus 60 reusable lab experiences. Scientific independent expert review and official board mappings remain separate from implementation. Do not mark those verified without evidence. Inventory IDs and original fields must remain preserved.
+Published checkpoint: 250 authored/frontend-tested records, 158 pending, plus 60 reusable lab experiences. Scientific independent expert review and official board mappings remain separate from implementation. Do not mark those verified without evidence. Inventory IDs and original fields must remain preserved.
 
 ## Next checkpoint
 

@@ -1,6 +1,6 @@
 import type{UniverseKind,UniverseParameters}from'../../lib/universeTypes';import*as M from'../../lib/universeModels';
 export type V=[number,number,number];
-export type Thing={shape:'hemisphere'|'sphere'|'ellipsoid'|'box'|'tube'|'ring'|'arrow'|'text';at:V;color:string;radius?:number;size?:V;points?:V[];opacity?:number;text?:string;turn?:number;inspect?:string;plane?:'xy'|'xz';texture?:'Earth'|'Moon'|'Mars'};
+export type Thing={shape:'profile'|'cone'|'hemisphere'|'sphere'|'ellipsoid'|'box'|'tube'|'ring'|'arrow'|'text';at:V;color:string;radius?:number;size?:V;points?:V[];opacity?:number;text?:string;turn?:number;inspect?:string;plane?:'xy'|'xz';texture?:'Earth'|'Moon'|'Mars'};
 export type Flow={points:V[];color:string;count:number;speed:number};
 export type Metric={label:string;value:string;unit:string};
 export type World={things:Thing[];flows:Flow[];metrics:Metric[];physical:string;focus:string[]};

@@ -1,5 +1,7 @@
 # Science Atlas 360°
 
+**v0.17.0:** 250/408 concept lessons authored and frontend-tested. 158 remain pending. See [batch 10 report](reports/CONCEPT_BATCH_10.md) and the live `#authoring` ledger. Scientific expert review and official curriculum verification are tracked separately.
+
 **v0.16.0:** 225/408 concept lessons authored and frontend-tested. 183 remain pending. See [batch 9 report](reports/CONCEPT_BATCH_09.md) and the live `#authoring` ledger. Scientific expert review and official curriculum verification are tracked separately.
 
 **v0.15.0:** 200/408 concept lessons authored and frontend-tested. 208 remain pending. See [batch 8 report](reports/CONCEPT_BATCH_08.md) and the live `#authoring` ledger. Scientific expert review and official curriculum verification are tracked separately.
