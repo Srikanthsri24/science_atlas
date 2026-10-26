@@ -1,0 +1,42 @@
+{
+  "records": [
+    {
+      "id": "SA-0136",
+      "stage": 3,
+      "expected": "3",
+      "value": "3",
+      "passed": true
+    },
+    {
+      "id": "SA-0139",
+      "stage": 4,
+      "expected": "9",
+      "value": "9",
+      "passed": true
+    },
+    {
+      "id": "SA-0145",
+      "stage": 4,
+      "expected": "1",
+      "value": "1",
+      "passed": true
+    },
+    {
+      "id": "SA-0147",
+      "stage": 3,
+      "expected": "2",
+      "value": "2",
+      "passed": true
+    }
+  ],
+  "manualEditThenChapter": {
+    "expectedIsotope": 3,
+    "observed": 3,
+    "passed": true
+  },
+  "manualEditThenGuidedReplay": {
+    "expectedIsotope": 6,
+    "observed": 6,
+    "passed": true
+  }
+}
