@@ -1,3 +1,4 @@
+import FoundationDiagram from'../foundation/Diagram';import{isFoundationKind}from'../../lib/foundationTypes';
 import UniverseDiagram from'../universe/UniverseDiagram';import{isUniverseKind}from'../../lib/universeTypes';
 import Motion2D from'./MotionTracks';
 import ExpansionDiagram from'./ExpansionDiagram';import{isExpansionKind}from'./types';
@@ -102,4 +103,4 @@ function LegacyDiagram(props:SceneProps){const{kind,p,time,labels,selected,onSel
  <Motion2D {...props}/></svg>;
 }
 
-export default function Diagram(props:SceneProps){return isUniverseKind(props.kind)?<UniverseDiagram {...props}/>:isExpansionKind(props.kind)?<ExpansionDiagram {...props}/>:isBatchKind(props.kind)?<BatchDiagram {...props}/>:isNextKind(props.kind)?<NextDiagram {...props}/>:<LegacyDiagram {...props}/>}
+export default function Diagram(props:SceneProps){return isFoundationKind(props.kind)?<FoundationDiagram {...props}/>:isUniverseKind(props.kind)?<UniverseDiagram {...props}/>:isExpansionKind(props.kind)?<ExpansionDiagram {...props}/>:isBatchKind(props.kind)?<BatchDiagram {...props}/>:isNextKind(props.kind)?<NextDiagram {...props}/>:<LegacyDiagram {...props}/>}

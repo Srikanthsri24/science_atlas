@@ -1,3 +1,4 @@
+import{foundationStories,foundationPresentation}from'../foundation/stories';import{isFoundationKind}from'../../lib/foundationTypes';
 import{universeStories,universePresentation}from'../universe/stories';import{isUniverseKind}from'../../lib/universeTypes';
 import{expansionStories,expansionStoryState}from'./expansionStories';import{isExpansionKind}from'./types';
 import{batchStories,batchStoryState}from'./batchStories';import{isBatchKind}from'./types';
@@ -5,7 +6,7 @@ import{nextStories,nextStoryState}from'./nextStories';import{isNextKind}from'./t
 import type{Kind,Parameters}from'./types';import{defaults}from'./types';
 export type Chapter={title:string;focus:string;duration:number;caption:string;detail:string;observe:string;question:string;answer:string;formula?:string};
 function c(title:string,focus:string,caption:string,detail:string,observe:string,question:string,answer:string,formula?:string):Chapter{const words=Math.max(caption.split(/\s+/).length,detail.split(/\s+/).length);return{title,focus,duration:Math.max(16,2*Math.ceil(words/2.2)+2),caption,detail,observe,question,answer,formula}}
-export const stories:Record<Kind,Chapter[]>={...universeStories,...expansionStories,...batchStories,...nextStories,
+export const stories:Record<Kind,Chapter[]>={...foundationStories,...universeStories,...expansionStories,...batchStories,...nextStories,
 pendulum:[
 c('Store energy','Bob','Lift the bob away from equilibrium. Raising it stores gravitational potential energy.','At each turning point the bob is momentarily at rest and its potential energy is maximal. The repeated cycle lets you compare this with equilibrium.','Watch the height of the bob and the potential-energy bar.','Is the bob moving at a turning point?','No. It is momentarily at rest before reversing direction.','Eₚ ≈ ½mgLθ²'),
 c('Release the bob','Gravity','The tangential component of gravity pulls the bob toward equilibrium.','Potential energy transfers into kinetic energy. Tension acts along the string, while gravity has a component along the arc.','Follow the force and velocity arrows.','What causes the tangential acceleration?','The tangential component of gravity.','Fₜ = −mg sin θ ≈ −mgθ'),
@@ -49,7 +50,7 @@ export function chapterAt(kind:Kind,time:number){let start=0;for(let i=0;i<stori
 export function chapterStart(kind:Kind,index:number){return stories[kind].slice(0,index).reduce((sum,c)=>sum+c.duration,0)}
 const mix=(a:number,b:number,u:number)=>a+(b-a)*(u*u*(3-2*u));
 export function storyState(kind:Kind,time:number):{p:Parameters;sceneTime:number;focus:string;phase:number;index:number}{const s=chapterAt(kind,time),u=s.progress,p={...defaults};let sceneTime=time;
- if(isUniverseKind(kind)){const v=universePresentation(kind,s.index,u,time);Object.assign(p,v.p);sceneTime=v.time;}if(kind==='pendulum'){const phases=[0,u*.25,.25+u*.13,.5+u*.5,1+u];if(s.index===4)p.length=mix(1.5,3,u);sceneTime=phases[s.index]*2*Math.PI*Math.sqrt(p.length/p.gravity);}
+ if(isFoundationKind(kind)){const v=foundationPresentation(kind,s.index,u,time);Object.assign(p,v.p);sceneTime=v.time;}if(isUniverseKind(kind)){const v=universePresentation(kind,s.index,u,time);Object.assign(p,v.p);sceneTime=v.time;}if(kind==='pendulum'){const phases=[0,u*.25,.25+u*.13,.5+u*.5,1+u];if(s.index===4)p.length=mix(1.5,3,u);sceneTime=phases[s.index]*2*Math.PI*Math.sqrt(p.length/p.gravity);}
  if(kind==='circuit'){p.closed=s.index!==0;p.voltage=s.index<3?6:12;if(s.index===3)p.voltage=mix(6,12,u);p.resistance=s.index===4?mix(100,200,u):100;}
  if(kind==='refraction'){if(s.index<3){p.angle=40;p.n1=1;p.n2=1.5}else{p.n1=1.5;p.n2=1;p.angle=s.index===3?mix(20,41.810314896,u):mix(43,65,u)}}
  if(isExpansionKind(kind)){const expansion=expansionStoryState(kind,s.index,u);Object.assign(p,expansion.p);sceneTime=expansion.time;}

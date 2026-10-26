@@ -1,0 +1,1 @@
+import type{SceneProps}from'../science/types';import{foundationWorld}from'./world';import type{FoundationKind}from'../../lib/foundationTypes';import UniverseScene from'../universe/UniverseScene';export default function FoundationScene(p:SceneProps){return <UniverseScene {...p} worldOverride={foundationWorld(p.kind as FoundationKind,p.p,p.time)}/>}
