@@ -21496,7 +21496,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the force scientific model, labelled quantities and moving process markers.",
@@ -21543,8 +21543,13 @@
         "senior": "ΣF=ma; F(A on B)=−F(B on A) The block demonstration computes the second law with a horizontal applied force and ideal Coulomb friction. Its initial rest and force balance illustrate the first law. The third-law partner acts on the agent or surface, not as an extra cancelling force on the block."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -21655,7 +21660,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the force scientific model, labelled quantities and moving process markers.",
@@ -21702,8 +21707,13 @@
         "senior": "|fs|≤μN; modeled |fk|=μN; N=mg For this block initially at rest, static friction matches the applied force up to μmg; above that limit, sliding friction has magnitude μmg. One coefficient is used for both regimes, unlike many real material pairs where static and kinetic coefficients differ."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -21814,7 +21824,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the spring scientific model, labelled quantities and moving process markers.",
@@ -21861,8 +21871,13 @@
         "senior": "K=½mv²; U=½kx²; Wspring=−ΔU; P=Fv The ideal undamped spring exchanges elastic potential energy and kinetic energy while their sum stays constant. Spring force is −kx; work done by that force equals the decrease in elastic potential energy. Instantaneous power is Fv and can have either sign."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -21973,7 +21988,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the orbit scientific model, labelled quantities and moving process markers.",
@@ -22020,8 +22035,13 @@
         "senior": "T²=4π²a³/(GM); fixed-Sun model T=365.256a^(3/2) days Natural and artificial satellites can follow bound gravitational orbits. This scene uses a test body around a fixed solar-mass star, with semimajor axis in AU and period in days; it illustrates satellite mechanics but does not calculate an Earth-satellite altitude or a live trajectory."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -22132,7 +22152,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the motor scientific model, labelled quantities and moving process markers.",
@@ -22179,8 +22199,13 @@
         "senior": "τ=N B I A sinθ before commutator sign adjustment The ideal motor computes torque N B I A |sinθ| with a commutator reversing coil current each half turn. A numerical angular-motion model includes chosen inertia and damping. Its uniform field and fixed dimensions are instructional; it does not solve a full electromagnetic field."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -22291,7 +22316,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the motor scientific model, labelled quantities and moving process markers.",
@@ -22338,8 +22363,13 @@
         "senior": "F=I L×B; |F|=BIL sinφ Use the first finger for field, second finger for conventional current and thumb for force, mutually perpendicular. The vector relation is F=I L×B. In the rotating coil, opposite sides carry opposite currents and receive opposite forces, producing a torque."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": [
         {
@@ -22482,7 +22512,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the conduction scientific model, labelled quantities and moving process markers.",
@@ -22529,8 +22559,13 @@
         "senior": "Qdot=G(Tleft−Tright); τ=mc/(2G) Two identical insulated model blocks exchange heat through a conductance G. Each has heat capacity m×900 J/(kg·K), so the temperature difference decays exponentially and the mean stays constant. This example calculates contact conduction, not radiation or fluid convection."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -22641,7 +22676,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the gas scientific model, labelled quantities and moving process markers.",
@@ -22688,8 +22723,13 @@
         "senior": "T(K)=T(°C)+273.15; at fixed n,V: p∝T For an ideal gas at fixed amount and volume, pressure is proportional to absolute temperature. The viewer uses pV=nRT; illustrated particle speeds and collisions are qualitative and do not constitute a molecular simulation."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -22800,7 +22840,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the atom scientific model, labelled quantities and moving process markers.",
@@ -22847,8 +22887,13 @@
         "senior": "Neutral atom: electron count = proton count; photon transition ΔE=hf The viewer is a symbolic shell-occupancy illustration for selected neutral isotopes. Real electrons are described by quantum states rather than circular planetary paths. Discrete energy differences can produce absorption or emission spectra, but this scene does not calculate transition energies or orbital densities."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -22959,7 +23004,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the decay scientific model, labelled quantities and moving process markers.",
@@ -23006,8 +23051,13 @@
         "senior": "N=N0·2^(−t/t½); activity=λN The scene calculates expected population N=N0 exp(−λt) for a single isotope, with λ=ln2/half-life. Individual decay times are random; the smooth curve is an expectation. Daughter chains, alpha/beta/gamma spectra, fission and fusion energetics are explained but not numerically simulated."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23118,7 +23168,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the measurement scientific model, labelled quantities and moving process markers.",
@@ -23165,8 +23215,13 @@
         "senior": "Length: metre (m); mass: kilogram (kg); time: second (s) The ruler study measures length and distinguishes a reference value from an indicated reading. Division size determines ideal rounding; viewing geometry can add parallax. SI base quantities include length, mass and time, while speed and force are derived."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23277,7 +23332,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the measurement scientific model, labelled quantities and moving process markers.",
@@ -23324,8 +23379,13 @@
         "senior": "[length]=L; [velocity]=LT⁻¹; [force]=MLT⁻²; 1 m=100 cm Length has dimension L and can be expressed in metres or centimetres; velocity has LT⁻¹ and acceleration LT⁻². Dimensional consistency is necessary for a physical equation, but it cannot determine numerical constants or prove an equation is correct."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23436,7 +23496,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the projectile scientific model, labelled quantities and moving process markers.",
@@ -23483,8 +23543,13 @@
         "senior": "v=(vx,vy); speed=√(vx²+vy²); a=(0,−g) In ideal airborne motion, horizontal and vertical velocity components combine as a vector. Speed is √(vx²+vy²), a nonnegative scalar. At the apex vy=0, but vx remains nonzero; acceleration is downward throughout flight."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23595,7 +23660,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the projectile scientific model, labelled quantities and moving process markers.",
@@ -23642,8 +23707,13 @@
         "senior": "dy/dt=vy; dvy/dt=−g; dx/dt=vx For this no-drag projectile, horizontal position is linear in time, height is quadratic and vertical velocity is linear with slope −g. The interactive graph selects these quantities and speed; it ends at first landing and excludes the model’s imposed ground stop."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23754,7 +23824,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the sound scientific model, labelled quantities and moving process markers.",
@@ -23801,8 +23871,13 @@
         "senior": "c=fλ; period=1/f The model is a small-amplitude longitudinal plane wave with c=343 m/s. Displacement is prescribed sinusoidally; time is slowed 200 times and motion enlarged 1000 times. Wave pressure and intensity are not calculated from the amplified drawing."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -23913,7 +23988,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the shadow scientific model, labelled quantities and moving process markers.",
@@ -23960,8 +24035,13 @@
         "senior": "Straight rays apply here in a uniform medium and geometrical-optics approximation The point-source shadow scene traces tangent rays around an opaque sphere toward a flat screen. Rays represent propagation direction rather than physical material threads. Diffraction, interference, source extent and medium boundaries are omitted."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24072,7 +24152,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the lens scientific model, labelled quantities and moving process markers.",
@@ -24119,8 +24199,13 @@
         "senior": "1/f=1/do+1/di; m=−di/do The thin-lens paraxial model uses positive f for a converging lens and negative f for a diverging lens. With real object distance do>0, 1/f=1/do+1/di and magnification −di/do. Positive di is a real image; negative di a virtual image. Aberration and diffraction are excluded."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24235,7 +24320,7 @@
         "angle": 55
       },
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the refraction scientific model, labelled quantities and moving process markers.",
@@ -24282,8 +24367,13 @@
         "senior": "θc=arcsin(n2/n1), only for n1>n2 Snell’s law gives n1 sinθ1=n2 sinθ2. When n1>n2 and sinθ1>n2/n1, there is no propagating refracted ray in the second medium. This flat lossless model gives unit reflected power in TIR; it does not visualize the evanescent field."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24394,7 +24484,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the capacitor scientific model, labelled quantities and moving process markers.",
@@ -24441,8 +24531,13 @@
         "senior": "Q=CVC; elementary charge magnitude e≈1.602×10⁻¹⁹ C A capacitor’s plates acquire equal and opposite charge through an external circuit; charge does not cross the ideal dielectric. The RC model computes Q=CVC during charging or discharge. Markers are representative and do not display individual electron trajectories."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24553,7 +24648,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
@@ -24600,8 +24695,13 @@
         "senior": "V=W/q; I=V/R The ideal DC source fixes voltage V across the ohmic load when the switch is closed. Current is V/R and electrical power is VI. The model omits internal battery resistance, wire resistance and time-dependent electrochemistry."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24712,7 +24812,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
@@ -24759,8 +24859,13 @@
         "senior": "R=V/I; 1 Ω=1 V/A For an ideal ohmic resistor with constant temperature, V=IR and resistance is constant. This model has a fixed resistor, ideal source and zero-resistance wires. Real components may have nonlinear current-voltage behavior or temperature dependence."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -24871,7 +24976,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the circuit scientific model, labelled quantities and moving process markers.",
@@ -24918,8 +25023,13 @@
         "senior": "P=VI; E=Pt; 1 kWh=3.6×10⁶ J For the ideal closed DC circuit, P=VI=I²R=V²/R. Energy transferred in a steady interval is Pt. The viewer reports electrical power but does not calculate resistor temperature, cooling or material damage."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": [
         {
@@ -25062,7 +25172,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the capacitor scientific model, labelled quantities and moving process markers.",
@@ -25109,8 +25219,13 @@
         "senior": "C=Q/V; τ=RC; U=½CV² The RC model calculates charge, voltage, signed current and energy for charging or discharge. Resistance is entered in kΩ and capacitance in µF, converted to SI internally. The time constant is RC, and stored energy is half CV²."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     },
@@ -25221,7 +25336,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the induction scientific model, labelled quantities and moving process markers.",
@@ -25268,8 +25383,13 @@
         "senior": "emf=Epeak sinωt; Ipeak=Epeak/R; Irms=Ipeak/√2 for a sine wave A prescribed coil rotates uniformly in a uniform magnetic field. Flux per turn is BA cosωt, induced emf is NBAω sinωt, and a purely resistive load gives I=emf/R. Inductance, capacitance, back-reaction and mechanical-drive power are omitted."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": [
         {
@@ -25412,7 +25532,7 @@
       ],
       "preset": {},
       "reviewStatus": "pending_independent_expert_review",
-      "implementationStatus": "authored",
+      "implementationStatus": "tested_frontend",
       "curriculumStatus": "pending_verification",
       "sourceCheckedOn": "2026-10-26",
       "visualization2D": "Animated SVG using the gas scientific model, labelled quantities and moving process markers.",
@@ -25459,8 +25579,13 @@
         "senior": "⟨Ktrans⟩=3kBT/2; pV=NkBT For an ideal monatomic gas, mean translational kinetic energy per particle is 3kBT/2 and pV=NkBT=nRT. The viewer calculates the ideal-gas state equation; particle animation is illustrative, not a numerical collision simulation or a measured speed distribution."
       },
       "validation": {
-        "status": "pending_frontend_testing",
-        "scientificReview": "pending_independent_expert_review"
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "independentExpertReview": "pending"
       },
       "curriculumMappings": []
     }

@@ -55,6 +55,24 @@
       "stageCaptionsMatched": true
     },
     {
+      "id": "SA-0122",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0123",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
       "id": "SA-0129",
       "moving": true,
       "controls": true,
@@ -62,6 +80,151 @@
       "chapters": 5,
       "questions": 3,
       "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0130",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0323",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0324",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0325",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0329",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0340",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0342",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0343",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0346",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0350",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0353",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0354",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0356",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0357",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0360",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
+    },
+    {
+      "id": "SA-0362",
+      "moving": true,
+      "controls": true,
+      "webgl": true,
+      "chapters": 5,
+      "questions": 3,
+      "stageCaptionsMatched": true
     }
-  ]
+  ],
+  "auditNote": "Saved report restored from individually observed successful browser tool results after an earlier browser session overwrote the file with a stale subset."
 }

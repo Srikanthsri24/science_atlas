@@ -5903,7 +5903,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0066",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -5990,7 +5990,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0067",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6077,7 +6077,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0068",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6932,7 +6932,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0078",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7961,7 +7961,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0090",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8080,7 +8080,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0091",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11133,7 +11133,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0122",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11220,7 +11220,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0123",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11727,7 +11727,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0129",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11814,7 +11814,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0130",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26327,7 +26327,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0323",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26383,7 +26383,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0324",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26439,7 +26439,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0325",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26663,7 +26663,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0329",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27264,7 +27264,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0340",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27376,7 +27376,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0342",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27432,7 +27432,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0343",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27664,7 +27664,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0346",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27905,7 +27905,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0350",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28063,7 +28063,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0353",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28119,7 +28119,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0354",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28290,7 +28290,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0356",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28346,7 +28346,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0357",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28536,7 +28536,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0360",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28643,7 +28643,7 @@
       "authored_content_ref": {
         "content_id": "lesson:sa-0362",
         "catalog": "authored-concepts.json",
-        "implementation": "authored"
+        "implementation": "tested_frontend"
       }
     },
     {

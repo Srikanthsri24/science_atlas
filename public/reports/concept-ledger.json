@@ -660,7 +660,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0066",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -670,7 +670,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0067",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -680,7 +680,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0068",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -780,7 +780,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0078",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -900,7 +900,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0090",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -910,7 +910,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0091",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1220,7 +1220,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0122",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1230,7 +1230,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0123",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1290,7 +1290,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0129",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1300,7 +1300,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0130",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3230,7 +3230,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0323",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3240,7 +3240,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0324",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3250,7 +3250,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0325",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3290,7 +3290,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0329",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3400,7 +3400,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0340",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3420,7 +3420,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0342",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3430,7 +3430,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0343",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3460,7 +3460,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0346",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3500,7 +3500,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0350",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3530,7 +3530,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0353",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3540,7 +3540,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0354",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3560,7 +3560,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0356",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3570,7 +3570,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0357",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3600,7 +3600,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0360",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3620,7 +3620,7 @@
       "subject": "Physics",
       "contentId": "lesson:sa-0362",
       "batch": 6,
-      "implementation": "authored",
+      "implementation": "tested_frontend",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
