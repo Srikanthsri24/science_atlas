@@ -1233,6 +1233,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0014",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -1625,6 +1630,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0018",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -2605,6 +2615,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0028",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -2687,6 +2702,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0029",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -4013,6 +4033,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0044",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -4619,6 +4644,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0051",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -4783,6 +4813,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0053",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -5603,6 +5638,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0063",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -5685,6 +5725,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0064",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -5767,6 +5812,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0065",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6095,6 +6145,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0069",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6423,6 +6478,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0073",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6505,6 +6565,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0074",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6587,6 +6652,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0075",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6669,6 +6739,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0076",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6751,6 +6826,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0077",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -6997,6 +7077,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0080",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7079,6 +7164,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0081",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7161,6 +7251,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0082",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7243,6 +7338,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0083",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7325,6 +7425,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0084",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7407,6 +7512,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0085",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7489,6 +7599,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0086",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -7571,6 +7686,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0087",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8013,6 +8133,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0092",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8127,6 +8252,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0093",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8241,6 +8371,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0094",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8355,6 +8490,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0095",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8469,6 +8609,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0096",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8583,6 +8728,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0097",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8697,6 +8847,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0098",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8811,6 +8966,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0099",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -8975,6 +9135,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0101",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -9171,6 +9336,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0103",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -9285,6 +9455,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0104",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -9481,6 +9656,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0106",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -9595,6 +9775,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0107",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -10069,6 +10254,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0112",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -10315,6 +10505,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0115",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -10397,6 +10592,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0116",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -10561,6 +10761,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0118",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -10643,6 +10848,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0119",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11053,6 +11263,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0124",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11217,6 +11432,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0126",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -11955,6 +12175,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0135",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -12119,6 +12344,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0137",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -12201,6 +12431,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0138",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -12561,6 +12796,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0142",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -12675,6 +12915,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0143",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -12921,6 +13166,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0146",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13167,6 +13417,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0149",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13249,6 +13504,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0150",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13331,6 +13591,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0151",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13495,6 +13760,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0153",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13659,6 +13929,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0155",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -13741,6 +14016,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0156",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14151,6 +14431,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0161",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14543,6 +14828,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0165",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14625,6 +14915,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0166",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14707,6 +15002,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0167",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14871,6 +15171,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0169",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -14953,6 +15258,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0170",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -15527,6 +15837,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0177",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -15609,6 +15924,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0178",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -15855,6 +16175,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0181",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -15937,6 +16262,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0182",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -18343,6 +18673,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0209",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -18507,6 +18842,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0211",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -18917,6 +19257,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0216",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -19081,6 +19426,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0218",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -19327,6 +19677,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0221",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -22832,6 +23187,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0268",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -22985,6 +23345,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0271",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23087,6 +23452,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0273",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23189,6 +23559,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0275",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23393,6 +23768,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0279",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23444,6 +23824,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0280",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23597,6 +23982,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0283",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23648,6 +24038,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0284",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23801,6 +24196,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0287",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -23954,6 +24354,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0290",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -24005,6 +24410,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0291",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -25057,6 +25467,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0311",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -25886,6 +26301,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0326",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -25937,6 +26357,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0327",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -25988,6 +26413,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0328",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26090,6 +26520,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0330",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26141,6 +26576,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0331",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26192,6 +26632,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0332",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26294,6 +26739,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0334",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26345,6 +26795,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0335",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26498,6 +26953,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0338",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26549,6 +27009,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0339",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26651,6 +27116,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0341",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26836,6 +27306,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0344",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -26919,6 +27394,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0345",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -27965,6 +28445,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0363",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28373,6 +28858,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0371",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -28922,6 +29412,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0378",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -30006,6 +30501,11 @@
         "quiz_questions": [],
         "assessment_criteria": [],
         "accessibility_description": null
+      },
+      "authored_content_ref": {
+        "content_id": "lesson:sa-0398",
+        "catalog": "authored-concepts.json",
+        "implementation": "tested_frontend"
       }
     },
     {
@@ -34319,5 +34819,11 @@
       "source_id": "SRC-CBSE-SCIENCE-X-2026",
       "message": "Official PDF course table includes Effects of Current and Heredity content, while page 6 note broadly excludes certain topics from year-end examination. Assessment scope is not inferred; seek board clarification."
     }
-  ]
+  ],
+  "authored_content_catalog": {
+    "path": "authored-concepts.json",
+    "authored_record_count": 100,
+    "total_inventory_records": 408,
+    "note": "Dedicated lesson content is additive and distinct from scientific expert review and official curriculum verification."
+  }
 }
