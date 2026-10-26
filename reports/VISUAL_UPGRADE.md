@@ -19,11 +19,11 @@ Both modes now use a dark scientific stage with readable annotations and structu
 
 ## Scientific references
 
-- [OpenStax: Pendulums](https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums)
-- [OpenStax: Damped oscillations](https://openstax.org/books/university-physics-volume-1/pages/15-5-damped-oscillations)
-- [OpenStax: Refraction](https://openstax.org/books/university-physics-volume-3/pages/1-3-refraction)
-- [OpenStax: Eukaryotic cells](https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells)
-- [NASA: About the planets](https://science.nasa.gov/solar-system/planets/)
+- [OpenStax: Pendulums](#company)
+- [OpenStax: Damped oscillations](#company)
+- [OpenStax: Refraction](#company)
+- [OpenStax: Eukaryotic cells](#company)
+- [NASA: About the planets](#company)
 
 Sources support principles; they do not constitute independent review or endorsement of the software. All authored lesson review status remains pending expert review.
 

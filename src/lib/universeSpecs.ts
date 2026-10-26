@@ -49,7 +49,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "p = mv · e = relative separation speed / approach speed",
     "note": "One-dimensional isolated bodies; the second body starts at rest. Contact timing uses fixed 0.2 m radii. Momentum is conserved for all e; kinetic energy only for e=1. No deformation or impact-force calculation. Display repeats one encounter in six seconds.",
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions"
+    "source": "#company"
   },
   "lever": {
     "title": "Balance around a pivot",
@@ -98,7 +98,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "τ = Fr cosθ · balance when F₁r₁ = F₂r₂",
     "note": "Rigid lever with point loads, a 1 kg uniform beam contribution to inertia, gravity 9.81 m/s², illustrative rotational damping 0.7 N·m·s/rad and stops at ±0.35 rad. Torques are calculated; the apparatus is an educational model.",
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium"
+    "source": "#company"
   },
   "magnet": {
     "title": "Read an invisible field",
@@ -138,7 +138,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "B = μ₀/(4πr³) [3(m·r̂)r̂ − m]",
     "note": "Point magnetic dipole in vacuum with moment along +x; probe remains outside the core. Bar, field-line geometry and compass size are schematic. Moving field markers indicate direction, not particles flowing out of a magnet.",
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop"
+    "source": "#company"
   },
   "motor": {
     "title": "Keep a coil turning",
@@ -187,7 +187,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "τ = N B I A |sinθ| · J dω/dt = τ − bω",
     "note": "Ideal commutation, uniform field, area 0.002 m², inertia 0.02 kg·m² and initial angle 0.3 rad. Numerical mechanical model with linear damping; no back-emf or inductance. Parameters are teaching choices, not a rated motor.",
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop"
+    "source": "#company"
   },
   "standing": {
     "title": "The pattern that stands still",
@@ -236,7 +236,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "fₙ = n/(2L)√(T/μ) · y = A sin(nπx/L)cos(2πft)",
     "note": "Ideal string fixed at both ends, amplitude 0.2 m, no damping. Frequency is physical; one full oscillation is displayed over two seconds to avoid aliasing. Motion is deliberately slowed.",
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance"
+    "source": "#company"
   },
   "echo": {
     "title": "Measure with a returning sound",
@@ -267,7 +267,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "distance = sound speed × echo delay / 2",
     "note": "Straight-line reflection in uniform air; approximate speed c=331+0.6T m/s over the exposed temperature range. No attenuation, dispersion or multiple reflections. The round trip is slowed and repeated for visibility.",
-    "source": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength"
+    "source": "#company"
   },
   "conduction": {
     "title": "Heat finds a balance",
@@ -316,7 +316,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "Q̇ = G(T₁−T₂) · ΔT(t) = ΔT₀e⁻ᵗ/τ",
     "note": "Two equal masses with heat capacity 900 J/(kg·K), uniform block temperatures, no environmental heat loss. Exact two-compartment heat exchange conserves thermal energy. Geometry and microscopic agitation are symbolic.",
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer"
+    "source": "#company"
   },
   "capillary": {
     "title": "Water climbs a narrow tube",
@@ -356,7 +356,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "h = 2γcosθ / (ρgr)",
     "note": "Static Jurin height for density 1000 kg/m³ and g=9.81 m/s². The approach to height is a staged illustration, not a viscosity-dependent transient solver. Radius and vertical height use different visual scales.",
-    "source": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+    "source": "#company"
   },
   "decay": {
     "title": "A clock inside the nucleus",
@@ -387,7 +387,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "N = N₀e⁻λt · λ = ln2 / t½",
     "note": "Single decay channel, constant decay probability per time. Counts are expected values; marker colour changes are a deterministic illustration, not predictions of which nucleus decays. No isotope-specific radiation dose model.",
-    "source": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay"
+    "source": "#company"
   },
   "orbit": {
     "title": "An orbit that changes speed",
@@ -418,7 +418,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "M = E − e sinE · T = 365.256 a³ᐟ² days",
     "note": "Two-body Kepler ellipse around a Sun-mass star; negligible planet mass. Newton iteration solves Kepler’s equation. Orbit orientation, sizes and display time are schematic; not an ephemeris.",
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion"
+    "source": "#company"
   },
   "titration": {
     "title": "Find the turning point of a titration",
@@ -467,7 +467,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "at equivalence: CₐVₐ = CᵦVᵦ",
     "note": "Ideal monoprotic strong acid/base at 25°C, complete reaction and dissociation, Kw=10⁻¹⁴. Includes water autoionization and changing total volume. Indicator colour uses an illustrative phenolphthalein transition (pKa 9.4); no activity correction or weak-acid chemistry.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/14-7-acid-base-titrations"
+    "source": "#company"
   },
   "distillation": {
     "title": "Follow the more volatile component",
@@ -507,7 +507,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "yA = αxA / [1 + (α−1)xA]",
     "note": "Ideal fictional binary mixture with constant relative volatility, initially 1 mol. Differential batch material balance, perfect condensation, no reflux. No real boiling temperatures, azeotropes or compound-specific fit. Run stops after 80% collection.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions"
+    "source": "#company"
   },
   "crystal": {
     "title": "Build the space inside a solid",
@@ -543,7 +543,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "effective atoms: SC 1 · BCC 2 · FCC 4",
     "note": "Ideal hard-sphere cubic cells. Contact radii and packing efficiencies follow geometric relations. Boundary atoms are drawn whole but their fractional contributions are stated. The construction is explanatory, not crystallization dynamics.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids"
+    "source": "#company"
   },
   "electrolysis": {
     "title": "Split water with charge",
@@ -583,7 +583,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "n(H₂)=Q/(2F) · n(O₂)=Q/(4F)",
     "note": "Ideal conducting water/electrolyte system with inert electrodes and 100% current efficiency. Gas volumes use the ideal-gas law. Hydrogen evolves at the cathode and oxygen at the anode. No overpotentials or competing electrolyte reactions are modeled.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis"
+    "source": "#company"
   },
   "galvanic": {
     "title": "A chemical source of voltage",
@@ -632,7 +632,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "E = 1.10 − RT/(2F) ln([Zn²⁺]/[Cu²⁺])",
     "note": "Ideal Zn/Cu cell with unit metal activities and concentration as activity. Half-cell concentrations are held fixed; E/R is an ideal external-load current without internal resistance. Salt-bridge and electron markers are representative, not a transport/aging solver.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/17-2-galvanic-cells"
+    "source": "#company"
   },
   "rutherford": {
     "title": "A small target, a large deflection",
@@ -663,7 +663,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "tan(χ/2)=k/(2Eb) · k=Z₁Z₂e²/(4πε₀)",
     "note": "Classical repulsive Coulomb scattering, alpha charge +2e and gold nuclear charge +79e. Velocity-Verlet trajectory uses an enlarged zoomed nucleus; no nuclear force, electron screening, recoil or quantum corrections. Formula assumes asymptotic impact conditions.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/2-2-evolution-of-atomic-theory"
+    "source": "#company"
   },
   "solubility": {
     "title": "A gas dissolves under pressure",
@@ -703,7 +703,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "Ceq = kH p · C(t)=Ceq(1−e⁻ᵏᵗ)",
     "note": "Generic ideal dilute gas-solvent system with user-chosen Henry coefficient, fixed temperature and a maintained gas reservoir. First-order mass transfer from initially solute-free liquid. No named-gas fit, reaction or closed-vessel pressure change.",
-    "source": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility"
+    "source": "#company"
   },
   "centrifuge": {
     "title": "Separate with a spinning frame",
@@ -752,7 +752,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "dr/dt = Δρ d²ω²r/(18η)",
     "note": "Dilute spherical particles in a co-rotating Newtonian fluid, Stokes drag and terminal radial drift; initial radius 3 cm, wall 8 cm. No Brownian motion, turbulence or particle interactions. Rotor rotation is visually slowed; physical settling time is stated.",
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed"
+    "source": "#company"
   },
   "heart": {
     "title": "One beat, two circulations",
@@ -783,7 +783,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "cardiac output = heart rate × stroke volume",
     "note": "Conceptual chamber-and-vessel loop with an illustrative contraction waveform. Output is rate×stroke volume, not a pressure/valve-flow solver or patient model. Purple indicates lower oxygenation; real venous blood is dark red, not blue. Organ shape and timing are interpretive.",
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology"
+    "source": "#company"
   },
   "nephron": {
     "title": "Filter, reclaim, excrete",
@@ -832,7 +832,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "urine flow = filtration × (1−water reabsorption)",
     "note": "Whole-nephron bookkeeping for a generic freely filtered solute, no secretion or protein binding. Fixed fractional reabsorption, no blood-pressure autoregulation or clinical prediction. Tubule geometry and transport markers are schematic.",
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney"
+    "source": "#company"
   },
   "reflex": {
     "title": "The short route to a response",
@@ -881,7 +881,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "latency = sensory length/speed + synaptic delay + motor length/speed",
     "note": "One simplified spinal reflex path with constant conduction speed and one aggregate synaptic delay. No detailed neuron, muscle-force or patient-response model. Pulse motion is slowed; calculated latency is in milliseconds.",
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system"
+    "source": "#company"
   },
   "replication": {
     "title": "Copy a strand, keep the code",
@@ -917,7 +917,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "base pairing: A↔T · C↔G",
     "note": "Conceptual replication of a short DNA segment, starting from a prepared template. Complementarity and copied-base count are exact. Fork timing, enzyme sizes and strand geometry are schematic; no leading/lagging kinetics, mutation or proofreading solver.",
-    "source": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication"
+    "source": "#company"
   },
   "meiosis": {
     "title": "Two divisions, four haploid sets",
@@ -939,7 +939,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "one replicated 2n=4 cell → four n=2 products",
     "note": "Conceptual meiosis starting after DNA replication, with two homologous chromosome pairs. First division separates homologs; second separates sisters. Stage durations and spindle geometry are schematic. Crossing-over and stochastic assortment are not explicitly calculated.",
-    "source": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis"
+    "source": "#company"
   },
   "transpiration": {
     "title": "From roots to the air",
@@ -988,7 +988,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "water flux = gs × VPD / air pressure",
     "note": "Tetens saturation-vapour-pressure approximation, air pressure 101325 Pa, teaching maximum stomatal conductance 0.15 mol/(m²·s), no species calibration. Fixed leaf temperature; no energy balance or hydraulic cavitation solver.",
-    "source": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+    "source": "#company"
   },
   "foodweb": {
     "title": "Energy through an ecosystem",
@@ -1028,7 +1028,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "energy at level n = producer energy × efficiencyⁿ",
     "note": "One simplified chain within a food web, equal chosen transfer efficiency at each step. Untransferred energy includes respiration, waste and uneaten material, not only heat. No organism-population or full ecosystem simulation.",
-    "source": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems"
+    "source": "#company"
   },
   "population": {
     "title": "Growth meets a limit",
@@ -1068,7 +1068,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "dN/dt = rN(1−N/K)",
     "note": "Deterministic continuous logistic population, constant carrying capacity and rate, no age structure, migration, predation or random events. Dots are representative; N is an expected continuous model quantity.",
-    "source": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth"
+    "source": "#company"
   },
   "watercycle": {
     "title": "The same water, many journeys",
@@ -1117,7 +1117,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "ocean + atmosphere + land + ice = constant",
     "note": "Four well-mixed reservoirs, initial total 1000 relative water units. Linear transfers and numerical mass-conserving integration. Coefficients are teaching choices, not an Earth/climate calibration; no atmospheric energy or global water budget claim.",
-    "source": "https://www.usgs.gov/special-topics/water-science-school/science/water-cycle"
+    "source": "#company"
   },
   "seasons": {
     "title": "Tilt changes the sunlight",
@@ -1157,7 +1157,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "solar declination = asin(sin tilt × sin annual angle)",
     "note": "Circular Earth orbit, fixed axis direction, approximate 365.2422-day year and solar constant 1361 W/m². Day length and daily top-of-atmosphere irradiance are geometric, without refraction, atmosphere, terrain or climate.",
-    "source": "https://spaceplace.nasa.gov/seasons/en/"
+    "source": "#company"
   },
   "moon": {
     "title": "Read the Moon’s changing face",
@@ -1179,7 +1179,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "illuminated fraction = (1−cos elongation)/2",
     "note": "Circular coplanar phase geometry with distant sunlight. The Earth-view phase disc is separate from the orbital diagram. Sizes/distances are compressed. Eclipses, libration and lunar topography are omitted.",
-    "source": "https://science.nasa.gov/moon/moon-phases/"
+    "source": "#company"
   },
   "seismic": {
     "title": "Two arrivals from one quake",
@@ -1219,7 +1219,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
     ],
     "formula": "distance = (tS−tP) / (1/vS−1/vP)",
     "note": "Straight paths through a uniform medium, constant speeds and one source-station distance. Wavefronts and seismograms are schematic; no depth inversion, heterogeneous Earth, magnitude estimate or earthquake prediction.",
-    "source": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes"
+    "source": "#company"
   }
 };
 export function universeDefaults(kind:string):UniverseParameters{const p:UniverseParameters={ua:1,ub:1,uc:1,ud:1};const spec=universeSpecs[kind as UniverseKind];if(spec)for(const c of spec.controls)p[c.key]=c.initial;return p}

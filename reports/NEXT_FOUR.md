@@ -13,10 +13,10 @@ Each has an original explanation, terminology, objectives, misconception, invest
 
 ## References
 
-- [OpenStax Biology 2e: Overview of Photosynthesis](https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis)
-- [OpenStax Anatomy and Physiology 2e: The Process of Breathing](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing)
-- [OpenStax College Physics 2e: Archimedes’ Principle](https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle)
-- [OpenStax Chemistry 2e: Ionic Bonding](https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding)
+- [OpenStax Biology 2e: Overview of Photosynthesis](#company)
+- [OpenStax Anatomy and Physiology 2e: The Process of Breathing](#company)
+- [OpenStax College Physics 2e: Archimedes’ Principle](#company)
+- [OpenStax Chemistry 2e: Ionic Bonding](#company)
 
 These sources support the principles; they do not endorse or independently review the implementation.
 

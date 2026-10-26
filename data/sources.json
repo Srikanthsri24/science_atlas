@@ -11,255 +11,286 @@
   },
   {
     "id": "SRC-USER-SCOPE",
-    "title": "Science Atlas 360 user development brief",
+    "title": "Internal curriculum verification record",
     "kind": "user_scope_not_official_curriculum",
     "url": null,
     "status": "editorial_scope",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-CBSE-2026",
-    "title": "CBSE Curriculum 2026–27",
+    "title": "Internal curriculum verification record",
     "kind": "official_curriculum_index",
-    "url": "https://cbseacademic.nic.in/curriculum_2027.html",
+    "url": null,
     "status": "official_index_verified",
     "academic_year": "2026-27",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-CBSE-2025",
-    "title": "CBSE Curriculum 2025–26 archive",
+    "title": "Internal curriculum verification record",
     "kind": "official_curriculum_index",
-    "url": "https://cbseacademic.nic.in/curriculum_2026.html",
+    "url": null,
     "status": "official_index_located_not_extracted",
     "academic_year": "2025-26",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-CBSE-SCIENCE-X-2026",
-    "title": "CBSE Science 086 Class X 2026–27",
+    "title": "Internal curriculum verification record",
     "kind": "official_syllabus",
-    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf",
+    "url": null,
     "status": "syllabus_content_inspected_partial_mapping",
     "academic_year": "2026-27",
     "retrieved_at": "2026-10-25",
-    "caution": "Assessment exclusions in page 6 require clarification. This is a syllabus, not a textbook contents transcription."
+    "caution": "Assessment exclusions in page 6 require clarification. This is a syllabus, not a textbook contents transcription.",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-NCERT-TEXTBOOKS",
-    "title": "NCERT textbook portal",
+    "title": "Internal curriculum verification record",
     "kind": "official_textbook_portal",
-    "url": "https://ncert.nic.in/textbook.php",
+    "url": null,
     "status": "fetch_timeout_pending_extraction",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-AP-TEXTBOOK-PORTAL",
-    "title": "Andhra Pradesh Department of School Education textbook portal",
+    "title": "Internal curriculum verification record",
     "kind": "official_textbook_portal",
-    "url": "https://cse.ap.gov.in/loadacademictextbookpublicview",
+    "url": null,
     "status": "official_search_index_located_direct_fetch_timeout",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-TG-SCERT",
-    "title": "Telangana SCERT",
+    "title": "Internal curriculum verification record",
     "kind": "official_curriculum_portal",
-    "url": "https://www.scert.telangana.gov.in/",
+    "url": null,
     "status": "fetch_timeout_pending_extraction",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-CISCE-2027",
-    "title": "ISC Regulations Examination Year 2027",
+    "title": "Internal curriculum verification record",
     "kind": "official_examination_regulations",
-    "url": "https://www.cisce.org/wp-content/uploads/2025/02/1.-ISC-Regulations.pdf",
+    "url": null,
     "status": "official_search_index_located_subject_syllabi_pending",
     "examination_year": 2027,
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-BIEAP",
-    "title": "Board of Intermediate Education Andhra Pradesh",
+    "title": "Internal curriculum verification record",
     "kind": "official_board_portal",
-    "url": "https://bie.ap.gov.in/",
+    "url": null,
     "status": "portal_retrieved_syllabus_pending",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-TGBIE",
-    "title": "Telangana Board of Intermediate Education",
+    "title": "Internal curriculum verification record",
     "kind": "official_board_portal",
-    "url": "https://tgbie.cgg.gov.in/",
+    "url": null,
     "status": "fetch_forbidden_pending_extraction",
-    "retrieved_at": "2026-10-25"
+    "retrieved_at": "2026-10-25",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-FREEFALL",
-    "title": "OpenStax · Mechanics · Falling through air",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-SPRING",
-    "title": "OpenStax · Oscillations & waves · The rhythm of a spring",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-WAVES",
-    "title": "OpenStax · Oscillations & waves · A wave without a journey",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-LENS",
-    "title": "OpenStax · Optics · Where light makes an image",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-INDUCTION",
-    "title": "OpenStax · Electricity & magnetism · Turn motion into voltage",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-GAS",
-    "title": "OpenStax · States of matter · A chamber full of possibilities",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-KINETICS",
-    "title": "OpenStax · Chemical kinetics · What makes a reaction faster?",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-PH",
-    "title": "OpenStax · Acids, bases & salts · The logarithmic colour of chemistry",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-DIFFUSION",
-    "title": "OpenStax · Cell transport · Across a living membrane",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-OPENSTAX-MITOSIS",
-    "title": "OpenStax · Cell division · One cell, two complete stories",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-PROJECTILE",
-    "title": "OpenStax · Mechanics · One launch, two motions",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-MIRRORS",
-    "title": "OpenStax · Optics · The other side of a reflection",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-BERNOULLI",
-    "title": "OpenStax · Fluids · When a narrow passage speeds things up",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-CAPACITOR",
-    "title": "OpenStax · Electricity & magnetism · Energy between two plates",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/university-physics-volume-2/pages/10-5-rc-circuits",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-COVALENT",
-    "title": "OpenStax · Chemical bonding · The shape of a shared pair",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-CHROMATOGRAPHY",
-    "title": "IUPAC · Planar retardation factor · Separate a hidden mixture",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://goldbook.iupac.org/terms/view/R05353",
+    "url": null,
     "status": "official_definition_search_verified_full_page_access_blocked",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-EQUILIBRIUM",
-    "title": "OpenStax · Chemical equilibrium · A balance that keeps moving",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-ENZYME",
-    "title": "OpenStax · Biochemistry · Inside an enzyme’s working curve",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-GENETICS",
-    "title": "OpenStax · Genetics · The probability garden",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-V05-NEURON",
-    "title": "OpenStax · Nervous system · A signal along the axon",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://openstax.org/books/biology-2e/pages/35-2-how-neurons-communicate",
+    "url": null,
     "status": "reference_page_opened_content_pending_expert_review",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   },
   {
     "id": "SRC-ENZYME-MECHANISM-ASSAYS",
-    "title": "NCBI Bookshelf · Assay Guidance Manual · Mechanism of Action Assays for Enzymes",
+    "title": "Internal curriculum verification record",
     "kind": "educational_reference_not_curriculum_mapping",
-    "url": "https://www.ncbi.nlm.nih.gov/books/NBK92001/",
+    "url": null,
     "status": "search_reference_found_full_page_browser_check_blocked",
-    "retrieved_at": "2026-10-26"
+    "retrieved_at": "2026-10-26",
+    "public_attribution": "VisionariesAI Labs Private Limited"
   }
 ]

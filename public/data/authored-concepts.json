@@ -138,16 +138,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-5-free-fall",
-          "title": "OpenStax · Free Fall",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -170,7 +164,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0076",
@@ -309,10 +304,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -335,7 +330,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0077",
@@ -475,10 +471,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -501,7 +497,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0080",
@@ -640,10 +637,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
-          "title": "OpenStax · Archimedes’ principle",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -666,7 +663,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0081",
@@ -805,10 +803,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
-          "title": "OpenStax · Archimedes’ principle",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -831,7 +829,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0082",
@@ -971,10 +970,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
-          "title": "OpenStax · Archimedes’ principle",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -997,7 +996,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0084",
@@ -1134,10 +1134,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
-          "title": "OpenStax · Surface phenomena",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -1160,7 +1160,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0085",
@@ -1297,10 +1298,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
-          "title": "OpenStax · Fluids",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -1323,7 +1324,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0086",
@@ -1460,10 +1462,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
-          "title": "OpenStax · Surface phenomena",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -1486,7 +1488,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0093",
@@ -1623,10 +1626,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
-          "title": "OpenStax · Magnetism",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -1681,7 +1684,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0094",
@@ -1818,10 +1822,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
-          "title": "OpenStax · Ohm’s law",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -1876,7 +1880,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0095",
@@ -2013,10 +2018,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
-          "title": "OpenStax · Ohm’s law",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -2071,7 +2076,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0096",
@@ -2208,10 +2214,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
-          "title": "OpenStax · Ohm’s law",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -2266,7 +2272,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0097",
@@ -2403,10 +2410,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop",
-          "title": "OpenStax · Electric motors",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -2461,7 +2468,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0098",
@@ -2598,10 +2606,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
-          "title": "OpenStax · Electricity & magnetism",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -2656,7 +2664,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0099",
@@ -2793,10 +2802,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
-          "title": "OpenStax · Electricity & magnetism",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -2851,7 +2860,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0103",
@@ -2990,10 +3000,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3048,7 +3058,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0104",
@@ -3187,10 +3198,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3245,7 +3256,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0106",
@@ -3382,10 +3394,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction",
-          "title": "OpenStax · Refraction",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3440,7 +3452,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0107",
@@ -3577,10 +3590,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3635,7 +3648,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0112",
@@ -3772,10 +3786,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
-          "title": "OpenStax · Sound",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3798,7 +3812,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0115",
@@ -3939,10 +3954,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums",
-          "title": "OpenStax · Pendulums",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -3965,7 +3980,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0116",
@@ -4104,10 +4120,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums",
-          "title": "OpenStax · Pendulums",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4130,7 +4146,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0118",
@@ -4267,10 +4284,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
-          "title": "OpenStax · Oscillations & waves",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4293,7 +4310,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0119",
@@ -4430,10 +4448,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
-          "title": "OpenStax · Oscillations & waves",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4456,7 +4474,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0135",
@@ -4593,10 +4612,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/2-2-evolution-of-atomic-theory",
-          "title": "OpenStax · Atomic structure",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4619,7 +4638,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0137",
@@ -4760,10 +4780,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
-          "title": "OpenStax · Atomic structure",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4786,7 +4806,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0138",
@@ -4923,16 +4944,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model",
-          "title": "OpenStax · The Bohr Model",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
-          "title": "OpenStax · Atomic structure",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -4955,7 +4970,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0142",
@@ -5094,10 +5110,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding",
-          "title": "OpenStax · Ionic bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -5152,7 +5168,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0143",
@@ -5289,16 +5306,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-2-covalent-bonding",
-          "title": "OpenStax · Covalent Bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
-          "title": "OpenStax · Chemical bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -5353,7 +5364,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0146",
@@ -5490,10 +5502,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
-          "title": "OpenStax · Chemical bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -5516,7 +5528,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0149",
@@ -5653,22 +5666,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws",
-          "title": "OpenStax · Integrated Rate Laws",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
-          "title": "OpenStax · Rate Laws",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-          "title": "OpenStax · Chemical kinetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -5691,7 +5692,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0150",
@@ -5828,16 +5830,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
-          "title": "OpenStax · Rate Laws",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-          "title": "OpenStax · Chemical kinetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -5860,7 +5856,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0151",
@@ -5997,10 +5994,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-          "title": "OpenStax · Chemical kinetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6023,7 +6020,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0153",
@@ -6160,10 +6158,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-          "title": "OpenStax · Chemical kinetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6186,7 +6184,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0155",
@@ -6323,10 +6322,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-          "title": "OpenStax · Chemical kinetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6349,7 +6348,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0156",
@@ -6486,16 +6486,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
-          "title": "OpenStax · Chemical Equilibria",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
-          "title": "OpenStax · Chemical equilibrium",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6518,7 +6512,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0161",
@@ -6655,10 +6650,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility",
-          "title": "OpenStax · Solutions",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6681,7 +6676,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0165",
@@ -6818,10 +6814,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
-          "title": "OpenStax · Acids, bases & salts",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -6876,7 +6872,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0166",
@@ -7013,10 +7010,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/14-7-acid-base-titrations",
-          "title": "OpenStax · Acids, bases & analysis",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7039,7 +7036,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0167",
@@ -7176,10 +7174,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
-          "title": "OpenStax · Separation methods",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7202,7 +7200,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0169",
@@ -7339,10 +7338,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Separation methods",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7365,7 +7364,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0170",
@@ -7504,16 +7504,10 @@
       },
       "sources": [
         {
-          "url": "https://goldbook.iupac.org/terms/view/R05353",
-          "title": "IUPAC · Planar retardation factor",
-          "type": "scientific_reference",
-          "status": "primary_reference_confirmed_in_search"
-        },
-        {
-          "url": "https://goldbook.iupac.org/terms/view/C01075",
-          "title": "IUPAC · Chromatography",
-          "type": "scientific_reference",
-          "status": "primary_reference_confirmed_in_search"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7536,7 +7530,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0177",
@@ -7673,10 +7668,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
-          "title": "OpenStax · Crystalline solids",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7699,7 +7694,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0178",
@@ -7839,10 +7835,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding",
-          "title": "OpenStax · Ionic bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -7865,7 +7861,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0181",
@@ -8002,10 +7999,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
-          "title": "OpenStax · Crystalline solids",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8028,7 +8025,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0182",
@@ -8165,10 +8163,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
-          "title": "OpenStax · Crystalline solids",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8191,7 +8189,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0371",
@@ -8328,10 +8327,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
-          "title": "OpenStax · Chemical bonding",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8354,7 +8353,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0378",
@@ -8491,10 +8491,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/14-7-acid-base-titrations",
-          "title": "OpenStax · Acids, bases & analysis",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8549,7 +8549,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0363",
@@ -8686,10 +8687,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
-          "title": "OpenStax · Nuclear physics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8712,7 +8713,8 @@
         "parameterControl": "passed",
         "independentExpertReview": "pending"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0063",
@@ -8849,16 +8851,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-1-position-displacement-and-average-velocity",
-          "title": "OpenStax · Motion",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -8884,7 +8880,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0064",
@@ -9021,16 +9018,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-2-instantaneous-velocity-and-speed",
-          "title": "OpenStax · Velocity",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9056,7 +9047,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0065",
@@ -9195,16 +9187,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-3-average-and-instantaneous-acceleration",
-          "title": "OpenStax · Acceleration",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9230,7 +9216,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0069",
@@ -9367,16 +9354,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-1-linear-momentum",
-          "title": "OpenStax · Momentum",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
-          "title": "OpenStax · Momentum & collisions",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9402,7 +9383,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0073",
@@ -9539,16 +9521,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/10-6-torque",
-          "title": "OpenStax · Torque",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
-          "title": "OpenStax · Torque & equilibrium",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9574,7 +9550,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0074",
@@ -9711,16 +9688,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/13-1-newtons-law-of-universal-gravitation",
-          "title": "OpenStax · Gravitation",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion",
-          "title": "OpenStax · Orbital mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9746,7 +9717,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0083",
@@ -9883,10 +9855,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
-          "title": "OpenStax · Surface phenomena",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -9912,7 +9884,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0087",
@@ -10049,10 +10022,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-          "title": "OpenStax · Separation methods",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10078,7 +10051,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0092",
@@ -10215,10 +10189,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop",
-          "title": "OpenStax · Electric motors",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10244,7 +10218,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0101",
@@ -10383,10 +10358,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10412,7 +10387,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0124",
@@ -10549,10 +10525,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer",
-          "title": "OpenStax · Thermal physics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10578,7 +10554,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0126",
@@ -10715,10 +10692,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
-          "title": "OpenStax · States of matter",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10744,7 +10721,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0326",
@@ -10881,16 +10859,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-1-position-displacement-and-average-velocity",
-          "title": "OpenStax · Distance and displacement",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -10916,7 +10888,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0327",
@@ -11053,16 +11026,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-2-instantaneous-velocity-and-speed",
-          "title": "OpenStax · Speed",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11088,7 +11055,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0328",
@@ -11225,16 +11193,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-4-motion-with-constant-acceleration",
-          "title": "OpenStax · Equations of motion",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-          "title": "OpenStax · Mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11260,7 +11222,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0330",
@@ -11397,16 +11360,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-2-impulse-and-collisions",
-          "title": "OpenStax · Impulse",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
-          "title": "OpenStax · Momentum & collisions",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11432,7 +11389,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0331",
@@ -11569,16 +11527,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-3-conservation-of-linear-momentum",
-          "title": "OpenStax · Conservation of momentum",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
-          "title": "OpenStax · Momentum & collisions",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11604,7 +11556,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0332",
@@ -11741,16 +11694,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/12-1-conditions-for-static-equilibrium",
-          "title": "OpenStax · Equilibrium",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
-          "title": "OpenStax · Torque & equilibrium",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11776,7 +11723,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0334",
@@ -11913,10 +11861,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
-          "title": "OpenStax · Archimedes’ principle",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -11942,7 +11890,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0335",
@@ -12081,10 +12030,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
-          "title": "OpenStax · Archimedes’ principle",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -12110,7 +12059,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0338",
@@ -12247,10 +12197,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
-          "title": "OpenStax · Fluids",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -12276,7 +12226,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0339",
@@ -12415,10 +12366,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums",
-          "title": "OpenStax · Pendulums",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -12444,7 +12395,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0341",
@@ -12581,10 +12533,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
-          "title": "OpenStax · Waves & resonance",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -12610,7 +12562,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0344",
@@ -12747,10 +12700,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -12808,7 +12761,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0345",
@@ -12945,10 +12899,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses",
-          "title": "OpenStax · Optics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13006,7 +12960,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0028",
@@ -13143,10 +13098,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
-          "title": "OpenStax · Photosynthesis",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13204,7 +13159,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0029",
@@ -13341,10 +13297,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
-          "title": "OpenStax · Plant physiology",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13370,7 +13326,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0044",
@@ -13509,16 +13466,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance",
-          "title": "OpenStax · Laws of Inheritance",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits",
-          "title": "OpenStax · Genetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13576,7 +13527,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0051",
@@ -13713,10 +13665,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
-          "title": "OpenStax · Ecology",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13742,7 +13694,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0053",
@@ -13879,10 +13832,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
-          "title": "OpenStax · Population ecology",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -13908,7 +13861,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0279",
@@ -14045,10 +13999,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
-          "title": "OpenStax · Cell division",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14074,7 +14028,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0280",
@@ -14211,10 +14166,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
-          "title": "OpenStax · Cell division",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14240,7 +14195,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0283",
@@ -14379,16 +14335,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
-          "title": "OpenStax · Heart Anatomy",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology",
-          "title": "OpenStax · Human physiology",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14414,7 +14364,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0284",
@@ -14553,16 +14504,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
-          "title": "OpenStax · Heart Anatomy",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology",
-          "title": "OpenStax · Human physiology",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14588,7 +14533,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0287",
@@ -14725,10 +14671,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
-          "title": "OpenStax · The process of breathing",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14754,7 +14700,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0290",
@@ -14891,10 +14838,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/35-2-how-neurons-communicate",
-          "title": "OpenStax · Nervous system",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -14920,7 +14867,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0291",
@@ -15059,16 +15007,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses",
-          "title": "OpenStax · Motor Responses",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
-          "title": "OpenStax · Nervous system",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -15094,7 +15036,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0311",
@@ -15231,10 +15174,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
-          "title": "OpenStax · Molecular genetics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -15260,7 +15203,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0273",
@@ -15397,10 +15341,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
-          "title": "OpenStax · Photosynthesis",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -15426,7 +15370,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0014",
@@ -15563,16 +15508,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses",
-          "title": "OpenStax · Motor Responses",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
-          "title": "OpenStax · Nervous system",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -15630,7 +15569,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0018",
@@ -15767,10 +15707,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
-          "title": "OpenStax · The process of breathing",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -15828,7 +15768,8 @@
           "verified_at": "2026-10-25",
           "review_status": "editorial_mapping_requires_curriculum_reviewer"
         }
-      ]
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0268",
@@ -15965,16 +15906,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/5-3-active-transport",
-          "title": "OpenStax · Active Transport",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
-          "title": "OpenStax · Cell transport",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16000,7 +15935,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0271",
@@ -16138,10 +16074,10 @@
       "focus": "Nucleus",
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
-          "title": "OpenStax · Eukaryotic cells",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16167,7 +16103,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0275",
@@ -16310,16 +16247,10 @@
       "focus": "Golgi apparatus",
       "sources": [
         {
-          "url": "https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
-          "title": "OpenStax · Endomembrane System",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
-        },
-        {
-          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
-          "title": "OpenStax · Eukaryotic cells",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16345,7 +16276,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0209",
@@ -16484,10 +16416,10 @@
       },
       "sources": [
         {
-          "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
-          "title": "USGS · Earthquakes",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16513,7 +16445,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0211",
@@ -16650,10 +16583,10 @@
       },
       "sources": [
         {
-          "url": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
-          "title": "USGS · Water cycle",
-          "type": "scientific_reference",
-          "status": "primary_reference_confirmed_in_search"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16679,7 +16612,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0218",
@@ -16816,10 +16750,10 @@
       },
       "sources": [
         {
-          "url": "https://science.nasa.gov/moon/moon-phases/",
-          "title": "NASA · Moon phases",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -16845,7 +16779,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0221",
@@ -16982,10 +16917,10 @@
       },
       "sources": [
         {
-          "url": "https://spaceplace.nasa.gov/seasons/en/",
-          "title": "NASA · Earth–Sun system",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -17011,7 +16946,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0398",
@@ -17148,10 +17084,10 @@
       },
       "sources": [
         {
-          "url": "https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion",
-          "title": "OpenStax · Orbital mechanics",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -17177,7 +17113,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     },
     {
       "recordId": "SA-0216",
@@ -17314,10 +17251,10 @@
       },
       "sources": [
         {
-          "url": "https://science.nasa.gov/solar-system/",
-          "title": "NASA · Solar system",
-          "type": "scientific_reference",
-          "status": "retrieved_primary_reference"
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
         }
       ],
       "detailedExplanation": [
@@ -17343,7 +17280,8 @@
         "scoreAfterReload": "passed",
         "completionAfterReload": "passed"
       },
-      "curriculumMappings": []
+      "curriculumMappings": [],
+      "contentOwner": "VisionariesAI Labs Private Limited"
     }
   ]
 }

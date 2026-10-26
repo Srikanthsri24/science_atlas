@@ -90,8 +90,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "sin(2θ) has the same value for complementary angles."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion",
-    "sourceTitle": "OpenStax · Mechanics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -184,8 +184,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "There is no finite-image solution in the paraxial equation."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-3/pages/2-2-spherical-mirrors",
-    "sourceTitle": "OpenStax · Optics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -277,8 +277,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "It assumes steady incompressible inviscid flow."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
-    "sourceTitle": "OpenStax · Fluids",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -369,8 +369,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "Charge separates on plates without crossing the ideal insulator."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/10-5-rc-circuits",
-    "sourceTitle": "OpenStax · Electricity & magnetism",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -463,8 +463,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "It is a spatial structural representation."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
-    "sourceTitle": "OpenStax · Chemical bonding",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -558,8 +558,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "Both centres track the same fraction of front travel."
       }
     ],
-    "source": "https://goldbook.iupac.org/terms/view/R05353",
-    "sourceTitle": "IUPAC · Planar retardation factor",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -651,8 +651,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "The model converts A and B one-for-one."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
-    "sourceTitle": "OpenStax · Chemical equilibrium",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -744,8 +744,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "The experiment compares initial rates at different substrate concentrations."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
-    "sourceTitle": "OpenStax · Biochemistry",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -839,8 +839,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "It gives probabilities under stated genetic assumptions."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits",
-    "sourceTitle": "OpenStax · Genetics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -932,8 +932,8 @@ export const expansionLessons:Lesson[]=[
         "explanation": "Neighbouring membrane regions change potential at delayed times."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/35-2-how-neurons-communicate",
-    "sourceTitle": "OpenStax · Nervous system",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   }
 ];

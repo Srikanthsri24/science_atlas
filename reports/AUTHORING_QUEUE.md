@@ -22,3 +22,7 @@ Repository: https://github.com/Srikanthsri24/science_atlas
 Live: https://srikanthsri24.github.io/science_atlas/
 
 The initial inventory contains generic legacy scaffolds. Preserve them in the imported data and supply specific authoring content separately; never silently delete or label scaffolds as completed explanations.
+
+## Company-only public attribution
+
+The user explicitly removed third-party reference links and Sources & verification sections from the platform. All public lesson/concept attribution must use `#company` and VisionariesAI Labs Private Limited. Continue scientific cross-checking as development work. Keep research evidence outside this repository, under the sibling science_atlas_research folder; never publish that folder. Do not replace company attribution with external referral URLs. Public reports are intentionally restricted by prepare-public.mjs.

@@ -91,8 +91,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Terminal speed is inversely proportional to the square root of area."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-    "sourceTitle": "OpenStax · Mechanics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -185,8 +185,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Energy is proportional to A²."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
-    "sourceTitle": "OpenStax · Oscillations & waves",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -280,8 +280,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Wavelength equals speed divided by frequency."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/16-2-mathematics-of-waves",
-    "sourceTitle": "OpenStax · Oscillations & waves",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -374,8 +374,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Its negative image distance and positive magnification describe a virtual upright image."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-3/pages/2-4-thin-lenses",
-    "sourceTitle": "OpenStax · Optics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -467,8 +467,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "The rotating drive supplies energy."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
-    "sourceTitle": "OpenStax · Electricity & magnetism",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -561,8 +561,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Pressure is proportional to amount."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
-    "sourceTitle": "OpenStax · States of matter",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -654,8 +654,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Rate = k[A]."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
-    "sourceTitle": "OpenStax · Chemical kinetics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -748,8 +748,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Including autoionization prevents crossing neutrality."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
-    "sourceTitle": "OpenStax · Acids, bases & salts",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -844,8 +844,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Total solute is conserved and volumes are equal."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
-    "sourceTitle": "OpenStax · Cell transport",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -939,8 +939,8 @@ export const batchLessons:Lesson[]=[
         "explanation": "Mitosis preserves the chromosome number per daughter."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
-    "sourceTitle": "OpenStax · Cell division",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   }
 ];

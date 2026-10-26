@@ -6,7 +6,7 @@ The original JSON parses successfully and contains 257 unique record IDs across 
 
 ## What has been verified
 
-The official [CBSE 2026–27 curriculum index](https://cbseacademic.nic.in/curriculum_2027.html) and its [Class X Science syllabus](https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf) were inspected. Fifty-five concept records have partial mappings identifying their presence in this syllabus. These mappings include unit, year, class, source pages and explicit verification status. They do not claim that editorial atlas chapter labels are textbook chapters. Chapter and textbook edition remain null until the relevant text is checked.
+The official [CBSE 2026–27 curriculum index](#company) and its [Class X Science syllabus](#company) were inspected. Fifty-five concept records have partial mappings identifying their presence in this syllabus. These mappings include unit, year, class, source pages and explicit verification status. They do not claim that editorial atlas chapter labels are textbook chapters. Chapter and textbook edition remain null until the relevant text is checked.
 
 The same syllabus prescribes NCERT publications, but NCERT is modeled as a publisher and curriculum resource institution, while CBSE remains an examination and curriculum board. ICSE and ISC are qualifications associated with CISCE. The legacy `boards` array is retained unchanged for old consumers; new consumers should use `board_registry`.
 
@@ -14,9 +14,9 @@ The PDF contains an apparent ambiguity between its content table, formative-only
 
 ## What remains unverified
 
-This is not a complete official textbook transcription for Classes 1–12. There are no fully verified textbook-to-chapter mappings yet. The [NCERT textbook portal](https://ncert.nic.in/textbook.php), [AP textbook portal](https://cse.ap.gov.in/loadacademictextbookpublicview), and [Telangana SCERT portal](https://www.scert.telangana.gov.in/) were located but direct retrieval timed out. The [BIEAP portal](https://bie.ap.gov.in/) was retrieved without syllabus contents; [TGBIE](https://tgbie.cgg.gov.in/) returned forbidden. The official [ISC 2027 regulations](https://www.cisce.org/wp-content/uploads/2025/02/1.-ISC-Regulations.pdf) were located, but subject syllabi were not extracted. No unofficial mirror has been substituted as official evidence.
+This is not a complete official textbook transcription for Classes 1–12. There are no fully verified textbook-to-chapter mappings yet. The [NCERT textbook portal](#company), [AP textbook portal](#company), and [Telangana SCERT portal](#company) were located but direct retrieval timed out. The [BIEAP portal](#company) was retrieved without syllabus contents; [TGBIE](#company) returned forbidden. The official [ISC 2027 regulations](#company) were located, but subject syllabi were not extracted. No unofficial mirror has been substituted as official evidence.
 
-The [CBSE 2025–26 index](https://cbseacademic.nic.in/curriculum_2026.html) is registered for version retention, but its contents are not imported. Academic-session and examination-year fields are kept separate. A 2027 examination label alone does not establish a 2026–27 academic-session mapping.
+The [CBSE 2025–26 index](#company) is registered for version retention, but its contents are not imported. Academic-session and examination-year fields are kept separate. A 2027 examination label alone does not establish a 2026–27 academic-session mapping.
 
 All grade browse ranges are editorial recommendations, never official curriculum assignments. All inventory records have pending scientific review. Empty educational-content fields are explicitly null or empty arrays, rather than generated filler. Implemented lesson content and working visualization availability must be provided through the application's lesson/experience registry.
 

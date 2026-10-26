@@ -90,8 +90,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Zero relative separation speed gives a common outgoing velocity."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/9-4-types-of-collisions",
-    "sourceTitle": "OpenStax · Momentum & collisions",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -185,8 +185,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Unequal loads can balance with unequal arms."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium",
-    "sourceTitle": "OpenStax · Torque & equilibrium",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -279,8 +279,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "They are visual direction markers, not matter."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop",
-    "sourceTitle": "OpenStax · Magnetism",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -372,8 +372,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Electromagnetic torque transfers electrical input into rotor motion."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop",
-    "sourceTitle": "OpenStax · Electric motors",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -466,8 +466,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "It is a stationary zero of the standing-wave amplitude."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
-    "sourceTitle": "OpenStax · Waves & resonance",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -561,8 +561,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The approximate relation is c=331+0.6T."
       }
     ],
-    "source": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
-    "sourceTitle": "OpenStax · Sound",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -655,8 +655,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The system approaches the same equilibrium faster."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer",
-    "sourceTitle": "OpenStax · Thermal physics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -748,8 +748,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Cosθ becomes negative."
       }
     ],
-    "source": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action",
-    "sourceTitle": "OpenStax · Surface phenomena",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -840,8 +840,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Activity is λN with constant λ."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-3/pages/10-3-radioactive-decay",
-    "sourceTitle": "OpenStax · Nuclear physics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -933,8 +933,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Kepler’s third law gives T² proportional to a³."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion",
-    "sourceTitle": "OpenStax · Orbital mechanics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1026,8 +1026,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Excess hydroxide makes it basic."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/14-7-acid-base-titrations",
-    "sourceTitle": "OpenStax · Acids, bases & analysis",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1119,8 +1119,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Removed A is accumulated in the collected stream."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
-    "sourceTitle": "OpenStax · Separation methods",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1211,8 +1211,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The ideal geometric fraction is π/(3√2), about 0.7405."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
-    "sourceTitle": "OpenStax · Crystalline solids",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1303,8 +1303,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Q=It."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/17-7-electrolysis",
-    "sourceTitle": "OpenStax · Electrochemistry",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1395,8 +1395,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The ideal Zn/Cu model uses E°=1.10 V."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/17-2-galvanic-cells",
-    "sourceTitle": "OpenStax · Electrochemistry",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1488,8 +1488,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The visual scale is chosen to explain the scattering."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/2-2-evolution-of-atomic-theory",
-    "sourceTitle": "OpenStax · Atomic structure",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1581,8 +1581,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The coefficient is user-selected and reactions are excluded."
       }
     ],
-    "source": "https://openstax.org/books/chemistry-2e/pages/11-3-solubility",
-    "sourceTitle": "OpenStax · Solutions",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1674,8 +1674,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The radial drift coefficient is inversely proportional to viscosity."
       }
     ],
-    "source": "https://openstax.org/books/university-physics-volume-1/pages/6-4-drag-force-and-terminal-speed",
-    "sourceTitle": "OpenStax · Separation methods",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1770,8 +1770,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Real venous blood is dark red; colours are explanatory."
       }
     ],
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology",
-    "sourceTitle": "OpenStax · Human physiology",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1863,8 +1863,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "It uses fixed reabsorption fractions and no secretory transport."
       }
     ],
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney",
-    "sourceTitle": "OpenStax · Human physiology",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -1957,8 +1957,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Travel time is distance divided by speed."
       }
     ],
-    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
-    "sourceTitle": "OpenStax · Nervous system",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2050,8 +2050,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The short-segment construction is staged for explanation."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
-    "sourceTitle": "OpenStax · Molecular genetics",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2143,8 +2143,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The final products are haploid with two chromosomes each."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
-    "sourceTitle": "OpenStax · Cell division",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2237,8 +2237,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Total rate is area multiplied by area-specific flux."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
-    "sourceTitle": "OpenStax · Plant physiology",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2333,8 +2333,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Its scope is a simplified pathway with a chosen efficiency."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
-    "sourceTitle": "OpenStax · Ecology",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2426,8 +2426,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "No stochastic individual-level process is calculated."
       }
     ],
-    "source": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
-    "sourceTitle": "OpenStax · Population ecology",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2523,8 +2523,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "They illustrate a conservative reservoir system."
       }
     ],
-    "source": "https://www.usgs.gov/special-topics/water-science-school/science/water-cycle",
-    "sourceTitle": "USGS · Water cycle",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2620,8 +2620,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The Sun stays on the modeled equatorial plane."
       }
     ],
-    "source": "https://spaceplace.nasa.gov/seasons/en/",
-    "sourceTitle": "NASA · Earth–Sun system",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2717,8 +2717,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "The phase geometry deliberately omits eclipse alignment and shadowing."
       }
     ],
-    "source": "https://science.nasa.gov/moon/moon-phases/",
-    "sourceTitle": "NASA · Moon phases",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   },
   {
@@ -2811,8 +2811,8 @@ export const universeLessons:Lesson[]=[
         "explanation": "Additional station geometry is needed for localization."
       }
     ],
-    "source": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
-    "sourceTitle": "USGS · Earthquakes",
+    "source": "#company",
+    "sourceTitle": "VisionariesAI Labs Private Limited",
     "review": "Editorial draft · expert review pending"
   }
 ];
