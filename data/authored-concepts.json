@@ -69582,6 +69582,1517 @@
         "concept": "Industrial chemistry",
         "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
       }
+    },
+    {
+      "recordId": "SA-0347",
+      "contentId": "lesson:sa-0347",
+      "title": "Optical instruments",
+      "subject": "Physics",
+      "kind": "magnifier",
+      "batch": 17,
+      "shortDescription": "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example.",
+      "ageAppropriateExplanation": "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example.",
+      "explanation": [
+        "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example.",
+        "A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens.",
+        "Magnifying glasses reveal small details; compound microscopes and telescopes combine optical elements in different ways."
+      ],
+      "detailedExplanation": [
+        "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example.",
+        "A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens.",
+        "Magnifying glasses reveal small details; compound microscopes and telescopes combine optical elements in different ways.",
+        "Light does not actually travel backwards to the virtual image. The separate D/f relaxed-eye comparison uses an object at focus, not the selected finite-u image. One magnifier does not simulate all instruments."
+      ],
+      "learningLevels": {
+        "primary": "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example.",
+        "secondary": "Optical instruments use controlled light paths to help us observe objects. A simple magnifier is one useful starting example. A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens. Magnifying glasses reveal small details; compound microscopes and telescopes combine optical elements in different ways.",
+        "senior": "1/f=1/u+1/v; m=−v/u. Separate relaxed-eye comparison: angular magnification D/f with D=25 cm. A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens."
+      },
+      "scientificPrinciples": [
+        "A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens."
+      ],
+      "definitions": {
+        "Focal length": "Distance from a thin lens to its focus for paraxial incident parallel rays.",
+        "Virtual image": "Apparent origin found by backward extensions of emerging rays.",
+        "Magnification": "Image-to-object size ratio for this construction."
+      },
+      "terminology": [
+        "Focal length",
+        "Virtual image",
+        "Magnification"
+      ],
+      "formula": "1/f=1/u+1/v; m=−v/u. Separate relaxed-eye comparison: angular magnification D/f with D=25 cm.",
+      "realLifeExamples": [
+        "Magnifying glasses reveal small details; compound microscopes and telescopes combine optical elements in different ways."
+      ],
+      "objectives": [
+        "Identify the converging lens and small upright object.",
+        "Trace a parallel ray and a central ray beyond the lens.",
+        "Distinguish linear and angular magnification."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Light does not actually travel backwards to the virtual image. The separate D/f relaxed-eye comparison uses an object at focus, not the selected finite-u image. One magnifier does not simulate all instruments."
+      ],
+      "steps": [
+        {
+          "title": "Instrument",
+          "caption": "Identify the converging lens and small upright object.",
+          "detail": "The model is a paraxial thin-lens construction.",
+          "parameters": {
+            "ub": 0.5
+          }
+        },
+        {
+          "title": "Object inside focus",
+          "caption": "Keep object distance smaller than focal length.",
+          "detail": "This setting produces a virtual image on the object side.",
+          "parameters": {
+            "ub": 0.7
+          }
+        },
+        {
+          "title": "Follow rays",
+          "caption": "Trace a parallel ray and a central ray beyond the lens.",
+          "detail": "Moving guides follow actual forward light paths.",
+          "parameters": {
+            "ub": 0.5
+          }
+        },
+        {
+          "title": "Image construction",
+          "caption": "Extend emerging rays backwards to their apparent intersection.",
+          "detail": "The virtual image is upright and enlarged; extensions are not reverse light travel.",
+          "parameters": {
+            "ub": 0.8
+          }
+        },
+        {
+          "title": "Compare scope",
+          "caption": "Distinguish linear and angular magnification.",
+          "detail": "The separate D/f reference uses a relaxed eye and object at focus; microscopes and telescopes require additional elements.",
+          "parameters": {
+            "ua": 15,
+            "ub": 0.5
+          }
+        }
+      ],
+      "activity": "Set object distance to half the focal length; predict image distance and linear magnification.",
+      "quiz": [
+        {
+          "question": "For u<f in this positive-lens model, the image is",
+          "options": [
+            "Virtual and upright",
+            "Real and inverted",
+            "Always absent"
+          ],
+          "answer": 0,
+          "explanation": "The signed image distance is negative and m is positive."
+        },
+        {
+          "question": "At u=f/2, linear magnification is",
+          "options": [
+            "2",
+            "0.5",
+            "−2"
+          ],
+          "answer": 0,
+          "explanation": "v=−f and m=−v/u=2."
+        },
+        {
+          "question": "Backward extensions represent",
+          "options": [
+            "A construction locating apparent origin",
+            "Light actually moving backwards",
+            "An extra lens"
+          ],
+          "answer": 0,
+          "explanation": "Real rays continue beyond the lens."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the magnifier model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Instrument",
+        "Object inside focus",
+        "Follow rays",
+        "Image construction",
+        "Compare scope"
+      ],
+      "simulationSpecification": "A thin converging lens with its object inside the focal length gives an upright enlarged virtual image. Backward ray extensions locate its apparent origin, while real light continues beyond the lens. 1/f=1/u+1/v; m=−v/u. Separate relaxed-eye comparison: angular magnification D/f with D=25 cm.",
+      "watchSequence": [
+        "Identify the converging lens and small upright object.",
+        "Keep object distance smaller than focal length.",
+        "Trace a parallel ray and a central ray beyond the lens.",
+        "Extend emerging rays backwards to their apparent intersection.",
+        "Distinguish linear and angular magnification."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Optical instruments",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0351",
+      "contentId": "lesson:sa-0351",
+      "title": "Electric field",
+      "subject": "Physics",
+      "kind": "electrostatic",
+      "batch": 17,
+      "shortDescription": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+      "ageAppropriateExplanation": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+      "explanation": [
+        "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both.",
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation."
+      ],
+      "detailedExplanation": [
+        "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both.",
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation.",
+        "Field-line markers show orientation, not moving particles. A negative potential is allowed; it depends on source sign and chosen zero. Probe avoids the singular source."
+      ],
+      "learningLevels": {
+        "primary": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "secondary": "A fixed electric charge creates an electric field and an electric potential in the space around it. For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both. Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation.",
+        "senior": "Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀). For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both."
+      },
+      "scientificPrinciples": [
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both."
+      ],
+      "definitions": {
+        "Electric field": "Force per unit positive test charge.",
+        "Electric potential": "Potential energy per unit charge relative to a chosen reference.",
+        "Point charge": "Ideal charge concentrated at a position."
+      },
+      "terminology": [
+        "Electric field",
+        "Electric potential",
+        "Point charge"
+      ],
+      "formula": "Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀).",
+      "realLifeExamples": [
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation."
+      ],
+      "objectives": [
+        "Identify the fixed source charge and sign.",
+        "Follow outward guides for positive charge and inward guides for negative charge.",
+        "Explain potential energy for a selected test charge."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Field-line markers show orientation, not moving particles. A negative potential is allowed; it depends on source sign and chosen zero. Probe avoids the singular source."
+      ],
+      "steps": [
+        {
+          "title": "Source",
+          "caption": "Identify the fixed source charge and sign.",
+          "detail": "The source remains at the origin in vacuum.",
+          "parameters": {
+            "ua": 5
+          }
+        },
+        {
+          "title": "Probe",
+          "caption": "Read distance from source to probe.",
+          "detail": "The probe does not disturb the prescribed source.",
+          "parameters": {
+            "ub": 0.5
+          }
+        },
+        {
+          "title": "Field direction",
+          "caption": "Follow outward guides for positive charge and inward guides for negative charge.",
+          "detail": "Field direction is defined by force on a positive test charge; field markers are not particles.",
+          "parameters": {
+            "ua": -5
+          }
+        },
+        {
+          "title": "Distance law",
+          "caption": "Increase radius and compare E and V.",
+          "detail": "Doubling r gives one quarter of field and one half of potential.",
+          "parameters": {
+            "ub": 1
+          }
+        },
+        {
+          "title": "Reference",
+          "caption": "Explain potential energy for a selected test charge.",
+          "detail": "The zero of potential is at infinity and U=qtest V.",
+          "parameters": {
+            "ua": 5,
+            "ub": 1
+          }
+        }
+      ],
+      "activity": "Double the probe radius and compare field and potential ratios; then reverse source sign.",
+      "quiz": [
+        {
+          "question": "Doubling r changes field magnitude to",
+          "options": [
+            "One quarter",
+            "One half",
+            "Double"
+          ],
+          "answer": 0,
+          "explanation": "The point-charge field follows an inverse square law."
+        },
+        {
+          "question": "Doubling r changes potential magnitude to",
+          "options": [
+            "One half",
+            "One quarter",
+            "Double"
+          ],
+          "answer": 0,
+          "explanation": "Point-charge potential is proportional to 1/r."
+        },
+        {
+          "question": "Electric potential is a",
+          "options": [
+            "Scalar",
+            "Direction arrow",
+            "Particle speed"
+          ],
+          "answer": 0,
+          "explanation": "It is energy per charge with a chosen reference."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {
+        "ua": 5,
+        "ub": 1
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the electrostatic model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Source",
+        "Probe",
+        "Field direction",
+        "Distance law",
+        "Reference"
+      ],
+      "simulationSpecification": "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both. Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀).",
+      "watchSequence": [
+        "Identify the fixed source charge and sign.",
+        "Read distance from source to probe.",
+        "Follow outward guides for positive charge and inward guides for negative charge.",
+        "Increase radius and compare E and V.",
+        "Explain potential energy for a selected test charge."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electric field",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0352",
+      "contentId": "lesson:sa-0352",
+      "title": "Electric potential",
+      "subject": "Physics",
+      "kind": "electrostatic",
+      "batch": 17,
+      "shortDescription": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+      "ageAppropriateExplanation": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+      "explanation": [
+        "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both.",
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation."
+      ],
+      "detailedExplanation": [
+        "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both.",
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation.",
+        "Field-line markers show orientation, not moving particles. A negative potential is allowed; it depends on source sign and chosen zero. Probe avoids the singular source."
+      ],
+      "learningLevels": {
+        "primary": "A fixed electric charge creates an electric field and an electric potential in the space around it.",
+        "secondary": "A fixed electric charge creates an electric field and an electric potential in the space around it. For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both. Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation.",
+        "senior": "Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀). For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both."
+      },
+      "scientificPrinciples": [
+        "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both."
+      ],
+      "definitions": {
+        "Electric field": "Force per unit positive test charge.",
+        "Electric potential": "Potential energy per unit charge relative to a chosen reference.",
+        "Point charge": "Ideal charge concentrated at a position."
+      },
+      "terminology": [
+        "Electric field",
+        "Electric potential",
+        "Point charge"
+      ],
+      "formula": "Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀).",
+      "realLifeExamples": [
+        "Charged objects can exert forces without touching; their detailed finite shapes require more than a point-charge approximation."
+      ],
+      "objectives": [
+        "Identify the fixed source charge and sign.",
+        "Follow outward guides for positive charge and inward guides for negative charge.",
+        "Explain potential energy for a selected test charge."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Field-line markers show orientation, not moving particles. A negative potential is allowed; it depends on source sign and chosen zero. Probe avoids the singular source."
+      ],
+      "steps": [
+        {
+          "title": "Source",
+          "caption": "Identify the fixed source charge and sign.",
+          "detail": "The source remains at the origin in vacuum.",
+          "parameters": {
+            "ua": 5
+          }
+        },
+        {
+          "title": "Probe",
+          "caption": "Read distance from source to probe.",
+          "detail": "The probe does not disturb the prescribed source.",
+          "parameters": {
+            "ub": 0.5
+          }
+        },
+        {
+          "title": "Field direction",
+          "caption": "Follow outward guides for positive charge and inward guides for negative charge.",
+          "detail": "Field direction is defined by force on a positive test charge; field markers are not particles.",
+          "parameters": {
+            "ua": 5
+          }
+        },
+        {
+          "title": "Distance law",
+          "caption": "Increase radius and compare E and V.",
+          "detail": "Doubling r gives one quarter of field and one half of potential.",
+          "parameters": {
+            "ub": 1
+          }
+        },
+        {
+          "title": "Reference",
+          "caption": "Explain potential energy for a selected test charge.",
+          "detail": "The zero of potential is at infinity and U=qtest V.",
+          "parameters": {
+            "ua": -5,
+            "ub": 1
+          }
+        }
+      ],
+      "activity": "Double the probe radius and compare field and potential ratios; then reverse source sign.",
+      "quiz": [
+        {
+          "question": "Doubling r changes field magnitude to",
+          "options": [
+            "One quarter",
+            "One half",
+            "Double"
+          ],
+          "answer": 0,
+          "explanation": "The point-charge field follows an inverse square law."
+        },
+        {
+          "question": "Doubling r changes potential magnitude to",
+          "options": [
+            "One half",
+            "One quarter",
+            "Double"
+          ],
+          "answer": 0,
+          "explanation": "Point-charge potential is proportional to 1/r."
+        },
+        {
+          "question": "Electric potential is a",
+          "options": [
+            "Scalar",
+            "Direction arrow",
+            "Particle speed"
+          ],
+          "answer": 0,
+          "explanation": "It is energy per charge with a chosen reference."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {
+        "ua": 5,
+        "ub": 1
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the electrostatic model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Source",
+        "Probe",
+        "Field direction",
+        "Distance law",
+        "Reference"
+      ],
+      "simulationSpecification": "For an ideal vacuum point charge, field is a signed radial vector proportional to 1/r², while potential relative to infinity is a scalar proportional to 1/r. A nonperturbing probe samples both. Eᵣ=kq/r²; V=kq/r; U=qtest V; k=1/(4πε₀).",
+      "watchSequence": [
+        "Identify the fixed source charge and sign.",
+        "Read distance from source to probe.",
+        "Follow outward guides for positive charge and inward guides for negative charge.",
+        "Increase radius and compare E and V.",
+        "Explain potential energy for a selected test charge."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electric potential",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0355",
+      "contentId": "lesson:sa-0355",
+      "title": "Series and parallel circuits",
+      "subject": "Physics",
+      "kind": "network",
+      "batch": 17,
+      "shortDescription": "Connecting two resistors in series or parallel changes how current and voltage are distributed.",
+      "ageAppropriateExplanation": "Connecting two resistors in series or parallel changes how current and voltage are distributed.",
+      "explanation": [
+        "Connecting two resistors in series or parallel changes how current and voltage are distributed.",
+        "Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor.",
+        "Household loads are commonly connected in parallel to share supply voltage, with protective devices and real wiring requiring additional design."
+      ],
+      "detailedExplanation": [
+        "Connecting two resistors in series or parallel changes how current and voltage are distributed.",
+        "Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor.",
+        "Household loads are commonly connected in parallel to share supply voltage, with protective devices and real wiring requiring additional design.",
+        "Moving markers indicate conventional-current direction rather than electron drift speed. Ideal wires and source omit heating, internal resistance and switching transients."
+      ],
+      "learningLevels": {
+        "primary": "Connecting two resistors in series or parallel changes how current and voltage are distributed.",
+        "secondary": "Connecting two resistors in series or parallel changes how current and voltage are distributed. Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor. Household loads are commonly connected in parallel to share supply voltage, with protective devices and real wiring requiring additional design.",
+        "senior": "Series Req=R₁+R₂; parallel 1/Req=1/R₁+1/R₂; I=V/Req; P=VI. Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor."
+      },
+      "scientificPrinciples": [
+        "Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor."
+      ],
+      "definitions": {
+        "Series": "Elements connected in one current path.",
+        "Parallel": "Branches connected across the same pair of nodes.",
+        "Equivalent resistance": "Single resistance drawing the same source current at the selected voltage."
+      },
+      "terminology": [
+        "Series",
+        "Parallel",
+        "Equivalent resistance"
+      ],
+      "formula": "Series Req=R₁+R₂; parallel 1/Req=1/R₁+1/R₂; I=V/Req; P=VI.",
+      "realLifeExamples": [
+        "Household loads are commonly connected in parallel to share supply voltage, with protective devices and real wiring requiring additional design."
+      ],
+      "objectives": [
+        "Identify the ideal voltage source and two resistors.",
+        "Read each series voltage drop.",
+        "Compare equivalent resistance, total current and power."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Moving markers indicate conventional-current direction rather than electron drift speed. Ideal wires and source omit heating, internal resistance and switching transients."
+      ],
+      "steps": [
+        {
+          "title": "Elements",
+          "caption": "Identify the ideal voltage source and two resistors.",
+          "detail": "All resistances are positive and wires are ideal.",
+          "parameters": {
+            "ud": 0
+          }
+        },
+        {
+          "title": "Series path",
+          "caption": "Connect the resistors in one path.",
+          "detail": "The same current passes through each resistor.",
+          "parameters": {
+            "ud": 0
+          }
+        },
+        {
+          "title": "Voltage division",
+          "caption": "Read each series voltage drop.",
+          "detail": "At 6 V with 20 Ω and 40 Ω, drops are 2 V and 4 V.",
+          "parameters": {
+            "ud": 0
+          }
+        },
+        {
+          "title": "Parallel branches",
+          "caption": "Connect both resistors across the source.",
+          "detail": "At 6 V the branch currents are 0.3 A and 0.15 A.",
+          "parameters": {
+            "ud": 1
+          }
+        },
+        {
+          "title": "Power balance",
+          "caption": "Compare equivalent resistance, total current and power.",
+          "detail": "Source power equals the sum of resistor powers in the ideal DC model.",
+          "parameters": {
+            "ud": 1
+          }
+        }
+      ],
+      "activity": "Use 6 V, 20 Ω and 40 Ω; compare 0.1 A series current with 0.45 A total parallel current.",
+      "quiz": [
+        {
+          "question": "Which is equal in series?",
+          "options": [
+            "Current",
+            "Every resistor voltage regardless of R",
+            "Resistance of all parts"
+          ],
+          "answer": 0,
+          "explanation": "One current path gives equal current."
+        },
+        {
+          "question": "Which is equal across parallel branches?",
+          "options": [
+            "Voltage",
+            "Every branch current regardless of R",
+            "Every resistance"
+          ],
+          "answer": 0,
+          "explanation": "Both endpoints share the same nodes."
+        },
+        {
+          "question": "For 20 Ω and 40 Ω in series across 6 V, current is",
+          "options": [
+            "0.1 A",
+            "3 A",
+            "60 A"
+          ],
+          "answer": 0,
+          "explanation": "I=6/(20+40)=0.1 A."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {
+        "ua": 6,
+        "ub": 20,
+        "uc": 40,
+        "ud": 0
+      },
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [
+        {
+          "id": "MAP-CBSE-2026-27-10-SA-0355",
+          "board_id": "CBSE",
+          "state_or_curriculum": "India / CBSE",
+          "academic_year": "2026-27",
+          "class": 10,
+          "subject": "Science",
+          "subject_code": "086",
+          "publisher_id": "NCERT",
+          "textbook": null,
+          "textbook_status": "prescribed_publisher_confirmed_edition_and_chapter_pending",
+          "unit_id": "IV",
+          "unit_title": "Effects of Current",
+          "syllabus_section": null,
+          "chapter": null,
+          "topic": "Series and parallel circuits",
+          "subtopic": null,
+          "scientific_concept_id": "concept:sa-0355",
+          "status": "concept_presence_verified",
+          "hierarchy_status": "partial_mapping",
+          "assessment_scope": "pending_clarification",
+          "source_id": "SRC-CBSE-SCIENCE-X-2026",
+          "source_pages": [
+            4,
+            5,
+            6
+          ],
+          "verification_method": "Official syllabus content inspected; original atlas concept matched editorially",
+          "verified_at": "2026-10-25",
+          "review_status": "editorial_mapping_requires_curriculum_reviewer"
+        }
+      ],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the network model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Elements",
+        "Series path",
+        "Voltage division",
+        "Parallel branches",
+        "Power balance"
+      ],
+      "simulationSpecification": "Ideal series elements carry equal current and their voltage drops add. Ideal parallel branches share voltage and their currents add. Ohm’s law and power accounting apply to each resistor. Series Req=R₁+R₂; parallel 1/Req=1/R₁+1/R₂; I=V/Req; P=VI.",
+      "watchSequence": [
+        "Identify the ideal voltage source and two resistors.",
+        "Connect the resistors in one path.",
+        "Read each series voltage drop.",
+        "Connect both resistors across the source.",
+        "Compare equivalent resistance, total current and power."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Series and parallel circuits",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0358",
+      "contentId": "lesson:sa-0358",
+      "title": "Electromagnets",
+      "subject": "Physics",
+      "kind": "solenoid",
+      "batch": 17,
+      "shortDescription": "An electric current in a coil produces a magnetic field, and reversing current reverses its direction.",
+      "ageAppropriateExplanation": "An electric current in a coil produces a magnetic field, and reversing current reverses its direction.",
+      "explanation": [
+        "An electric current in a coil produces a magnetic field, and reversing current reverses its direction.",
+        "For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius.",
+        "Electromagnets are used in actuators and instruments; iron cores introduce material effects absent here."
+      ],
+      "detailedExplanation": [
+        "An electric current in a coil produces a magnetic field, and reversing current reverses its direction.",
+        "For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius.",
+        "Electromagnets are used in actuators and instruments; iron cores introduce material effects absent here.",
+        "The drawn winding has representative turns and shape, while numerical N and dimensions are physical inputs. No iron saturation, heating or fringe-field solution is included."
+      ],
+      "learningLevels": {
+        "primary": "An electric current in a coil produces a magnetic field, and reversing current reverses its direction.",
+        "secondary": "An electric current in a coil produces a magnetic field, and reversing current reverses its direction. For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius. Electromagnets are used in actuators and instruments; iron cores introduce material effects absent here.",
+        "senior": "Bcentre=μ₀NI/[2√(R²+(L/2)²)]; for L≫R, B≈μ₀NI/L. For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius."
+      },
+      "scientificPrinciples": [
+        "For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius."
+      ],
+      "definitions": {
+        "Solenoid": "Coil with turns distributed along an axis.",
+        "Air core": "Interior without a ferromagnetic core in this model.",
+        "Magnetic field": "Vector quantity describing magnetic interactions."
+      },
+      "terminology": [
+        "Solenoid",
+        "Air core",
+        "Magnetic field"
+      ],
+      "formula": "Bcentre=μ₀NI/[2√(R²+(L/2)²)]; for L≫R, B≈μ₀NI/L.",
+      "realLifeExamples": [
+        "Electromagnets are used in actuators and instruments; iron cores introduce material effects absent here."
+      ],
+      "objectives": [
+        "Identify the air-core winding and its axis.",
+        "Read the central axial field and direction.",
+        "Compare current, turns and physical dimensions."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "The drawn winding has representative turns and shape, while numerical N and dimensions are physical inputs. No iron saturation, heating or fringe-field solution is included."
+      ],
+      "steps": [
+        {
+          "title": "Coil",
+          "caption": "Identify the air-core winding and its axis.",
+          "detail": "Representative drawn turns differ from the numerical physical turn count.",
+          "parameters": {
+            "ua": 1
+          }
+        },
+        {
+          "title": "Current direction",
+          "caption": "Follow the conventional-current guide around the winding.",
+          "detail": "Viewed from positive x, the selected positive winding current is counterclockwise.",
+          "parameters": {
+            "ua": 1
+          }
+        },
+        {
+          "title": "Central field",
+          "caption": "Read the central axial field and direction.",
+          "detail": "The right-hand grip convention connects winding current with axial field.",
+          "parameters": {
+            "ua": 2
+          }
+        },
+        {
+          "title": "Reverse current",
+          "caption": "Reverse current while retaining geometry.",
+          "detail": "The signed field reverses and magnitude is unchanged at equal absolute current.",
+          "parameters": {
+            "ua": -2
+          }
+        },
+        {
+          "title": "Strength and limits",
+          "caption": "Compare current, turns and physical dimensions.",
+          "detail": "The finite air-core equation does not predict ferromagnetic core behaviour.",
+          "parameters": {
+            "ua": 1,
+            "ub": 400
+          }
+        }
+      ],
+      "activity": "Double current at fixed geometry and turns; reverse current and compare signed field.",
+      "quiz": [
+        {
+          "question": "Doubling current at fixed geometry makes B",
+          "options": [
+            "Double",
+            "Half",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "The field is proportional to I."
+        },
+        {
+          "question": "Reversing current reverses",
+          "options": [
+            "Axial field direction",
+            "The sign of mass",
+            "The number of turns"
+          ],
+          "answer": 0,
+          "explanation": "The current-generated field changes sign."
+        },
+        {
+          "question": "Does this air-core calculation include iron saturation?",
+          "options": [
+            "No",
+            "Yes",
+            "Only at 500 turns"
+          ],
+          "answer": 0,
+          "explanation": "No ferromagnetic material model is included."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the solenoid model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Coil",
+        "Current direction",
+        "Central field",
+        "Reverse current",
+        "Strength and limits"
+      ],
+      "simulationSpecification": "For the selected uniformly wound finite air-core solenoid, central axial field follows the summed current-loop result. The long-solenoid approximation emerges when length is much greater than radius. Bcentre=μ₀NI/[2√(R²+(L/2)²)]; for L≫R, B≈μ₀NI/L.",
+      "watchSequence": [
+        "Identify the air-core winding and its axis.",
+        "Follow the conventional-current guide around the winding.",
+        "Read the central axial field and direction.",
+        "Reverse current while retaining geometry.",
+        "Compare current, turns and physical dimensions."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electromagnets",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0359",
+      "contentId": "lesson:sa-0359",
+      "title": "Fleming right hand rule",
+      "subject": "Physics",
+      "kind": "motional",
+      "batch": 17,
+      "shortDescription": "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction.",
+      "ageAppropriateExplanation": "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction.",
+      "explanation": [
+        "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction.",
+        "For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current.",
+        "Electric generators use relative motion and fields, but a working loaded generator also requires a complete circuit and energy input."
+      ],
+      "detailedExplanation": [
+        "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction.",
+        "For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current.",
+        "Electric generators use relative motion and fields, but a working loaded generator also requires a complete circuit and energy input.",
+        "Electron separation is opposite to positive-charge direction. Initial separation guides are not a sustained open-circuit current. This is the generator right-hand rule, distinct from the motor force mnemonic."
+      ],
+      "learningLevels": {
+        "primary": "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction.",
+        "secondary": "Fleming’s right-hand generator rule relates motion, magnetic field and induced conventional-charge direction. For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current. Electric generators use relative motion and fields, but a working loaded generator also requires a complete circuit and energy input.",
+        "senior": "Fmag/q=v×B; V(+y)−V(−y)=−Bℓv for the selected axes. For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current."
+      },
+      "scientificPrinciples": [
+        "For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current."
+      ],
+      "definitions": {
+        "Motional emf": "Charge-separating effect associated with motion through a magnetic field.",
+        "Conventional direction": "Direction associated with positive charge movement.",
+        "Open circuit": "Arrangement without a complete conducting return path."
+      },
+      "terminology": [
+        "Motional emf",
+        "Conventional direction",
+        "Open circuit"
+      ],
+      "formula": "Fmag/q=v×B; V(+y)−V(−y)=−Bℓv for the selected axes.",
+      "realLifeExamples": [
+        "Electric generators use relative motion and fields, but a working loaded generator also requires a complete circuit and energy input."
+      ],
+      "objectives": [
+        "Identify rod y, velocity x and magnetic field z.",
+        "Follow the initial separation guide.",
+        "Explain why emf does not guarantee sustained current."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Electron separation is opposite to positive-charge direction. Initial separation guides are not a sustained open-circuit current. This is the generator right-hand rule, distinct from the motor force mnemonic."
+      ],
+      "steps": [
+        {
+          "title": "Axes",
+          "caption": "Identify rod y, velocity x and magnetic field z.",
+          "detail": "The chosen axes make the cross-product direction explicit.",
+          "parameters": {
+            "ua": 0.5,
+            "uc": 2
+          }
+        },
+        {
+          "title": "Positive force",
+          "caption": "Apply v×B to a positive charge.",
+          "detail": "For positive x motion and positive z field, magnetic force points negative y.",
+          "parameters": {
+            "ua": 0.5,
+            "uc": 2
+          }
+        },
+        {
+          "title": "Charge separation",
+          "caption": "Follow the initial separation guide.",
+          "detail": "An opposing electric field develops until the open-rod charges balance the magnetic force.",
+          "parameters": {
+            "ua": 0.5,
+            "uc": 2
+          }
+        },
+        {
+          "title": "Reverse input",
+          "caption": "Reverse velocity or magnetic field.",
+          "detail": "Each reversal reverses the signed end-to-end potential difference.",
+          "parameters": {
+            "uc": -2
+          }
+        },
+        {
+          "title": "Circuit distinction",
+          "caption": "Explain why emf does not guarantee sustained current.",
+          "detail": "A complete conducting path and load are needed for a circuit-current calculation.",
+          "parameters": {
+            "ua": -0.5,
+            "uc": -2
+          }
+        }
+      ],
+      "activity": "Reverse either velocity or field, then reverse both; predict the sign of the open-rod voltage.",
+      "quiz": [
+        {
+          "question": "For +x velocity and +z B, positive magnetic force is",
+          "options": [
+            "−y",
+            "+y",
+            "+x"
+          ],
+          "answer": 0,
+          "explanation": "The cross product x×z=−y."
+        },
+        {
+          "question": "Reversing both v and B makes the emf sign",
+          "options": [
+            "Unchanged",
+            "Reversed",
+            "Always zero"
+          ],
+          "answer": 0,
+          "explanation": "The product Bv retains its sign."
+        },
+        {
+          "question": "Does the open rod carry sustained load current in this model?",
+          "options": [
+            "No",
+            "Yes",
+            "Only in 3D"
+          ],
+          "answer": 0,
+          "explanation": "No closed return path is present."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the motional model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Axes",
+        "Positive force",
+        "Charge separation",
+        "Reverse input",
+        "Circuit distinction"
+      ],
+      "simulationSpecification": "For a conducting rod along y moving along x through a uniform field along z, magnetic force on a positive charge follows v×B. Charge separation establishes an open-rod potential difference; an open rod has no sustained circuit current. Fmag/q=v×B; V(+y)−V(−y)=−Bℓv for the selected axes.",
+      "watchSequence": [
+        "Identify rod y, velocity x and magnetic field z.",
+        "Apply v×B to a positive charge.",
+        "Follow the initial separation guide.",
+        "Reverse velocity or magnetic field.",
+        "Explain why emf does not guarantee sustained current."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Fleming right hand rule",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0361",
+      "contentId": "lesson:sa-0361",
+      "title": "Electromagnetic waves",
+      "subject": "Physics",
+      "kind": "emwave",
+      "batch": 17,
+      "shortDescription": "An electromagnetic wave carries changing electric and magnetic fields through space.",
+      "ageAppropriateExplanation": "An electromagnetic wave carries changing electric and magnetic fields through space.",
+      "explanation": [
+        "An electromagnetic wave carries changing electric and magnetic fields through space.",
+        "A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c.",
+        "Radio waves and visible light are electromagnetic waves with different frequencies and wavelengths."
+      ],
+      "detailedExplanation": [
+        "An electromagnetic wave carries changing electric and magnetic fields through space.",
+        "A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c.",
+        "Radio waves and visible light are electromagnetic waves with different frequencies and wavelengths.",
+        "The curves represent field values rather than particle paths. Separate visual scale factors make E and B comparable despite different units; phase is greatly slowed from physical MHz."
+      ],
+      "learningLevels": {
+        "primary": "An electromagnetic wave carries changing electric and magnetic fields through space.",
+        "secondary": "An electromagnetic wave carries changing electric and magnetic fields through space. A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c. Radio waves and visible light are electromagnetic waves with different frequencies and wavelengths.",
+        "senior": "E=E₀sin(kx−ωt)ŷ; B=(E₀/c)sin(kx−ωt)ẑ; c=fλ. A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c."
+      },
+      "scientificPrinciples": [
+        "A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c."
+      ],
+      "definitions": {
+        "Polarization": "Orientation of the electric-field oscillation.",
+        "Wavelength": "Distance between equal-phase points.",
+        "Frequency": "Cycles per second at a fixed location."
+      },
+      "terminology": [
+        "Polarization",
+        "Wavelength",
+        "Frequency"
+      ],
+      "formula": "E=E₀sin(kx−ωt)ŷ; B=(E₀/c)sin(kx−ωt)ẑ; c=fλ.",
+      "realLifeExamples": [
+        "Radio waves and visible light are electromagnetic waves with different frequencies and wavelengths."
+      ],
+      "objectives": [
+        "Identify electric y, magnetic z and propagation positive x.",
+        "Read magnetic amplitude from electric amplitude.",
+        "Separate slowed field oscillation from particle motion."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "The curves represent field values rather than particle paths. Separate visual scale factors make E and B comparable despite different units; phase is greatly slowed from physical MHz."
+      ],
+      "steps": [
+        {
+          "title": "Three directions",
+          "caption": "Identify electric y, magnetic z and propagation positive x.",
+          "detail": "Use 3D to see the perpendicular orientations.",
+          "parameters": {
+            "ua": 60,
+            "ub": 30
+          }
+        },
+        {
+          "title": "In phase",
+          "caption": "Follow field peaks moving along the propagation direction.",
+          "detail": "E and B at the same position reach zero and extrema together.",
+          "parameters": {
+            "ua": 60
+          }
+        },
+        {
+          "title": "Amplitude relation",
+          "caption": "Read magnetic amplitude from electric amplitude.",
+          "detail": "In vacuum B₀=E₀/c, with distinct physical units.",
+          "parameters": {
+            "ua": 100
+          }
+        },
+        {
+          "title": "Frequency",
+          "caption": "Increase physical frequency and compare wavelength readout.",
+          "detail": "The fixed-width viewer refits two wavelengths; metres are specified numerically.",
+          "parameters": {
+            "ub": 60
+          }
+        },
+        {
+          "title": "Interpret motion",
+          "caption": "Separate slowed field oscillation from particle motion.",
+          "detail": "The display phase clock is 0.3 cycles per second rather than the physical MHz value.",
+          "parameters": {
+            "ua": 60,
+            "ub": 30
+          }
+        }
+      ],
+      "activity": "Double frequency and observe wavelength halve; compare E₀ and B₀ when amplitude doubles.",
+      "quiz": [
+        {
+          "question": "E and B in this vacuum wave are",
+          "options": [
+            "Perpendicular and in phase",
+            "Parallel",
+            "Always opposite in phase"
+          ],
+          "answer": 0,
+          "explanation": "Both are transverse and their extrema coincide."
+        },
+        {
+          "question": "Doubling frequency in vacuum makes wavelength",
+          "options": [
+            "Half",
+            "Double",
+            "Unchanged"
+          ],
+          "answer": 0,
+          "explanation": "c=fλ is constant in vacuum."
+        },
+        {
+          "question": "The displayed wave curve is",
+          "options": [
+            "A field-value plot",
+            "A particle trajectory",
+            "A literal solid string"
+          ],
+          "answer": 0,
+          "explanation": "No material string is present."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the emwave model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Three directions",
+        "In phase",
+        "Amplitude relation",
+        "Frequency",
+        "Interpret motion"
+      ],
+      "simulationSpecification": "A linearly polarized vacuum plane wave has electric and magnetic fields perpendicular to each other and to propagation. They are in phase and their amplitudes satisfy E₀/B₀=c. E=E₀sin(kx−ωt)ŷ; B=(E₀/c)sin(kx−ωt)ẑ; c=fλ.",
+      "watchSequence": [
+        "Identify electric y, magnetic z and propagation positive x.",
+        "Follow field peaks moving along the propagation direction.",
+        "Read magnetic amplitude from electric amplitude.",
+        "Increase physical frequency and compare wavelength readout.",
+        "Separate slowed field oscillation from particle motion."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Electromagnetic waves",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
+    },
+    {
+      "recordId": "SA-0392",
+      "contentId": "lesson:sa-0392",
+      "title": "Environmental chemistry",
+      "subject": "Chemistry",
+      "kind": "pollution",
+      "batch": 17,
+      "shortDescription": "Environmental chemistry studies substances, their transformations and their movement through air, water and soil.",
+      "ageAppropriateExplanation": "Environmental chemistry studies substances, their transformations and their movement through air, water and soil.",
+      "explanation": [
+        "Environmental chemistry studies substances, their transformations and their movement through air, water and soil.",
+        "This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models.",
+        "Treatment can reduce a tracked pollutant amount, but by-products and transferred waste must also be assessed."
+      ],
+      "detailedExplanation": [
+        "Environmental chemistry studies substances, their transformations and their movement through air, water and soil.",
+        "This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models.",
+        "Treatment can reduce a tracked pollutant amount, but by-products and transferred waste must also be assessed.",
+        "Lower box mass does not by itself establish safety or disappearance of all environmental impact. No toxicity, exposure, dispersion or chemical-product prediction is included."
+      ],
+      "learningLevels": {
+        "primary": "Environmental chemistry studies substances, their transformations and their movement through air, water and soil.",
+        "secondary": "Environmental chemistry studies substances, their transformations and their movement through air, water and soil. This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models. Treatment can reduce a tracked pollutant amount, but by-products and transferred waste must also be assessed.",
+        "senior": "dM/dt=S−kM; M(t)=M₀e^(−kt)+(S/k)(1−e^(−kt)) for k>0; k=0: M=M₀+St. This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models."
+      },
+      "scientificPrinciples": [
+        "This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models."
+      ],
+      "definitions": {
+        "Environmental compartment": "Chosen bounded region used for accounting.",
+        "Input rate": "Amount entering per unit time.",
+        "First-order removal": "Removal rate proportional to the tracked amount."
+      },
+      "terminology": [
+        "Environmental compartment",
+        "Input rate",
+        "First-order removal"
+      ],
+      "formula": "dM/dt=S−kM; M(t)=M₀e^(−kt)+(S/k)(1−e^(−kt)) for k>0; k=0: M=M₀+St.",
+      "realLifeExamples": [
+        "Treatment can reduce a tracked pollutant amount, but by-products and transferred waste must also be assessed."
+      ],
+      "objectives": [
+        "Identify the selected well-mixed compartment.",
+        "Compare removal with the current amount.",
+        "Explain what happens beyond the tracked boundary."
+      ],
+      "prerequisites": [
+        "Read labelled quantities and distinguish a model from a measured dataset"
+      ],
+      "misconceptions": [
+        "Lower box mass does not by itself establish safety or disappearance of all environmental impact. No toxicity, exposure, dispersion or chemical-product prediction is included."
+      ],
+      "steps": [
+        {
+          "title": "Boundary",
+          "caption": "Identify the selected well-mixed compartment.",
+          "detail": "All amounts are tracked in milligrams within one mathematical box.",
+          "parameters": {
+            "ua": 40,
+            "ub": 4,
+            "uc": 0.1
+          }
+        },
+        {
+          "title": "Input",
+          "caption": "Follow the constant source entering the box.",
+          "detail": "Input is selected in milligrams per hour.",
+          "parameters": {
+            "uc": 0
+          }
+        },
+        {
+          "title": "Removal",
+          "caption": "Compare removal with the current amount.",
+          "detail": "First-order removal has units per hour and scales with tracked mass.",
+          "parameters": {
+            "uc": 0.1
+          }
+        },
+        {
+          "title": "Balance",
+          "caption": "Compare trajectories with and without removal.",
+          "detail": "For positive k the long-time tracked amount tends to S/k.",
+          "parameters": {
+            "uc": 0.3
+          }
+        },
+        {
+          "title": "Wider environment",
+          "caption": "Explain what happens beyond the tracked boundary.",
+          "detail": "Transferred material and transformation products require further accounting; no safety claim follows from box mass alone.",
+          "parameters": {
+            "uc": 0.1
+          }
+        }
+      ],
+      "activity": "Compare zero removal with positive removal and identify the steady amount S/k.",
+      "quiz": [
+        {
+          "question": "At k=0 and positive source, mass",
+          "options": [
+            "Grows linearly",
+            "Must stay constant",
+            "Becomes negative"
+          ],
+          "answer": 0,
+          "explanation": "M=M₀+St."
+        },
+        {
+          "question": "At positive k, the steady tracked amount is",
+          "options": [
+            "S/k",
+            "Sk",
+            "Always zero"
+          ],
+          "answer": 0,
+          "explanation": "Input equals kM at steady state."
+        },
+        {
+          "question": "Does removal from the tracked box destroy matter?",
+          "options": [
+            "No",
+            "Yes",
+            "Only after 24 hours"
+          ],
+          "answer": 0,
+          "explanation": "It can transfer material or change the tracked chemical form."
+        }
+      ],
+      "assessmentCriteria": [
+        "Correctly answer all three concept questions.",
+        "Explain the observed relationship using the stated scientific model.",
+        "Identify one limiting assumption."
+      ],
+      "preset": {},
+      "reviewStatus": "pending_independent_expert_review",
+      "implementationStatus": "tested_frontend",
+      "curriculumStatus": "pending_verification",
+      "curriculumMappings": [],
+      "sourceCheckedOn": "2026-10-27",
+      "sources": [
+        {
+          "url": "#company",
+          "title": "VisionariesAI Labs Private Limited",
+          "type": "company_content",
+          "status": "company_authored"
+        }
+      ],
+      "contentOwner": "VisionariesAI Labs Private Limited",
+      "validation": {
+        "automated": "passed",
+        "svgMotion": "passed",
+        "webglLoad": "passed",
+        "guidedChapters": 5,
+        "quizQuestions": 3,
+        "parameterControl": "passed",
+        "assessmentPersistence": "passed",
+        "independentExpertReview": "pending"
+      },
+      "visualization2D": "Animated SVG using the pollution model with named structures, units and process guides.",
+      "visualization3D": "Original procedural WebGL geometry sharing the same state; lengths and display times may be compressed as stated.",
+      "animationStoryboard": [
+        "Boundary",
+        "Input",
+        "Removal",
+        "Balance",
+        "Wider environment"
+      ],
+      "simulationSpecification": "This representative well-mixed environmental box balances constant pollutant input and first-order removal. Removal means departure from the tracked box or tracked chemical form, not destruction of matter; destinations and transformation products need additional models. dM/dt=S−kM; M(t)=M₀e^(−kt)+(S/k)(1−e^(−kt)) for k>0; k=0: M=M₀+St.",
+      "watchSequence": [
+        "Identify the selected well-mixed compartment.",
+        "Follow the constant source entering the box.",
+        "Compare removal with the current amount.",
+        "Compare trajectories with and without removal.",
+        "Explain what happens beyond the tracked boundary."
+      ],
+      "accessibilityDescription": "Read synchronized captions, labelled controls and live measurements. Pause, slow and step through the sequence. Reduced-motion preference disables autoplay.",
+      "tutorContext": {
+        "enabled": false,
+        "concept": "Environmental chemistry",
+        "guidance": "Use authored explanations and explicit model assumptions; no network tutor is included."
+      }
     }
   ]
 }

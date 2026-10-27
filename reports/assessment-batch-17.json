@@ -1,0 +1,52 @@
+{
+  "records": [
+    {
+      "id": "SA-0347",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0351",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0352",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0355",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0358",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0359",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0361",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    },
+    {
+      "id": "SA-0392",
+      "graded": true,
+      "scorePersisted": true,
+      "completionPersisted": true
+    }
+  ]
+}
