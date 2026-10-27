@@ -1,5 +1,7 @@
 # Science Atlas 360°
 
+**v0.25.0 investigation workspace:** all 408 concept labs now share 100-second five-stage playback, landscape/portrait presentation, practical observation records and class-wise navigation. Internal functional review records cover all 408; visual-quality upgrades remain separately tracked. See reports/INTERNAL_REVIEW.md.
+
 **v0.24.0:** 408/408 concept lessons authored and frontend-tested. 0 remain pending. See [batch 17 report](reports/CONCEPT_BATCH_17.md). Expert review and official curriculum verification are tracked separately.
 
 **v0.23.0:** 400/408 concept lessons authored and frontend-tested. 8 remain pending. See [batch 16 report](reports/CONCEPT_BATCH_16.md). Expert review and official curriculum verification are tracked separately.

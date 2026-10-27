@@ -11,6 +11,7 @@
       "contentId": "lesson:sa-0001",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -21,6 +22,7 @@
       "contentId": "lesson:sa-0002",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -31,6 +33,7 @@
       "contentId": "lesson:sa-0003",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -41,6 +44,7 @@
       "contentId": "lesson:sa-0004",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -51,6 +55,7 @@
       "contentId": "lesson:sa-0005",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -61,6 +66,7 @@
       "contentId": "lesson:sa-0006",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -71,6 +77,7 @@
       "contentId": "lesson:sa-0007",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -81,6 +88,7 @@
       "contentId": "lesson:sa-0008",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -91,6 +99,7 @@
       "contentId": "lesson:sa-0009",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -101,6 +110,7 @@
       "contentId": "lesson:sa-0010",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -111,6 +121,7 @@
       "contentId": "lesson:sa-0011",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -121,6 +132,7 @@
       "contentId": "lesson:sa-0012",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -131,6 +143,7 @@
       "contentId": "lesson:sa-0013",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -141,6 +154,7 @@
       "contentId": "lesson:sa-0014",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -151,6 +165,7 @@
       "contentId": "lesson:sa-0015",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -161,6 +176,7 @@
       "contentId": "lesson:sa-0016",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -171,6 +187,7 @@
       "contentId": "lesson:sa-0017",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -181,6 +198,7 @@
       "contentId": "lesson:sa-0018",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -191,6 +209,7 @@
       "contentId": "lesson:sa-0019",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -201,6 +220,7 @@
       "contentId": "lesson:sa-0020",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -211,6 +231,7 @@
       "contentId": "lesson:sa-0021",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -221,6 +242,7 @@
       "contentId": "lesson:sa-0022",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -231,6 +253,7 @@
       "contentId": "lesson:sa-0023",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -241,6 +264,7 @@
       "contentId": "lesson:sa-0024",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -251,6 +275,7 @@
       "contentId": "lesson:sa-0025",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -261,6 +286,7 @@
       "contentId": "lesson:sa-0026",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -271,6 +297,7 @@
       "contentId": "lesson:sa-0027",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -281,6 +308,7 @@
       "contentId": "lesson:sa-0028",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -291,6 +319,7 @@
       "contentId": "lesson:sa-0029",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -301,6 +330,7 @@
       "contentId": "lesson:sa-0030",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -311,6 +341,7 @@
       "contentId": "lesson:sa-0031",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -321,6 +352,7 @@
       "contentId": "lesson:sa-0032",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -331,6 +363,7 @@
       "contentId": "lesson:sa-0033",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -341,6 +374,7 @@
       "contentId": "lesson:sa-0034",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -351,6 +385,7 @@
       "contentId": "lesson:sa-0035",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -361,6 +396,7 @@
       "contentId": "lesson:sa-0036",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -371,6 +407,7 @@
       "contentId": "lesson:sa-0037",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -381,6 +418,7 @@
       "contentId": "lesson:sa-0038",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -391,6 +429,7 @@
       "contentId": "lesson:sa-0039",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -401,6 +440,7 @@
       "contentId": "lesson:sa-0040",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -411,6 +451,7 @@
       "contentId": "lesson:sa-0041",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -421,6 +462,7 @@
       "contentId": "lesson:sa-0042",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -431,6 +473,7 @@
       "contentId": "lesson:sa-0043",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -441,6 +484,7 @@
       "contentId": "lesson:sa-0044",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -451,6 +495,7 @@
       "contentId": "lesson:sa-0045",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -461,6 +506,7 @@
       "contentId": "lesson:sa-0046",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -471,6 +517,7 @@
       "contentId": "lesson:sa-0047",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -481,6 +528,7 @@
       "contentId": "lesson:sa-0048",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -491,6 +539,7 @@
       "contentId": "lesson:sa-0049",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -501,6 +550,7 @@
       "contentId": "lesson:sa-0050",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -511,6 +561,7 @@
       "contentId": "lesson:sa-0051",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -521,6 +572,7 @@
       "contentId": "lesson:sa-0052",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -531,6 +583,7 @@
       "contentId": "lesson:sa-0053",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -541,6 +594,7 @@
       "contentId": "lesson:sa-0054",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -551,6 +605,7 @@
       "contentId": "lesson:sa-0055",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -561,6 +616,7 @@
       "contentId": "lesson:sa-0056",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -571,6 +627,7 @@
       "contentId": "lesson:sa-0057",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -581,6 +638,7 @@
       "contentId": "lesson:sa-0058",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -591,6 +649,7 @@
       "contentId": "lesson:sa-0059",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -601,6 +660,7 @@
       "contentId": "lesson:sa-0060",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -611,6 +671,7 @@
       "contentId": "lesson:sa-0061",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -621,6 +682,7 @@
       "contentId": "lesson:sa-0062",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -631,6 +693,7 @@
       "contentId": "lesson:sa-0063",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -641,6 +704,7 @@
       "contentId": "lesson:sa-0064",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -651,6 +715,7 @@
       "contentId": "lesson:sa-0065",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -661,6 +726,7 @@
       "contentId": "lesson:sa-0066",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -671,6 +737,7 @@
       "contentId": "lesson:sa-0067",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -681,6 +748,7 @@
       "contentId": "lesson:sa-0068",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -691,6 +759,7 @@
       "contentId": "lesson:sa-0069",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -701,6 +770,7 @@
       "contentId": "lesson:sa-0070",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -711,6 +781,7 @@
       "contentId": "lesson:sa-0071",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -721,6 +792,7 @@
       "contentId": "lesson:sa-0072",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -731,6 +803,7 @@
       "contentId": "lesson:sa-0073",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -741,6 +814,7 @@
       "contentId": "lesson:sa-0074",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -751,6 +825,7 @@
       "contentId": "lesson:sa-0075",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -761,6 +836,7 @@
       "contentId": "lesson:sa-0076",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -771,6 +847,7 @@
       "contentId": "lesson:sa-0077",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -781,6 +858,7 @@
       "contentId": "lesson:sa-0078",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -791,6 +869,7 @@
       "contentId": "lesson:sa-0079",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -801,6 +880,7 @@
       "contentId": "lesson:sa-0080",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -811,6 +891,7 @@
       "contentId": "lesson:sa-0081",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -821,6 +902,7 @@
       "contentId": "lesson:sa-0082",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -831,6 +913,7 @@
       "contentId": "lesson:sa-0083",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -841,6 +924,7 @@
       "contentId": "lesson:sa-0084",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -851,6 +935,7 @@
       "contentId": "lesson:sa-0085",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -861,6 +946,7 @@
       "contentId": "lesson:sa-0086",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -871,6 +957,7 @@
       "contentId": "lesson:sa-0087",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -881,6 +968,7 @@
       "contentId": "lesson:sa-0088",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -891,6 +979,7 @@
       "contentId": "lesson:sa-0089",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -901,6 +990,7 @@
       "contentId": "lesson:sa-0090",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -911,6 +1001,7 @@
       "contentId": "lesson:sa-0091",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -921,6 +1012,7 @@
       "contentId": "lesson:sa-0092",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -931,6 +1023,7 @@
       "contentId": "lesson:sa-0093",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -941,6 +1034,7 @@
       "contentId": "lesson:sa-0094",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -951,6 +1045,7 @@
       "contentId": "lesson:sa-0095",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -961,6 +1056,7 @@
       "contentId": "lesson:sa-0096",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -971,6 +1067,7 @@
       "contentId": "lesson:sa-0097",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -981,6 +1078,7 @@
       "contentId": "lesson:sa-0098",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -991,6 +1089,7 @@
       "contentId": "lesson:sa-0099",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1001,6 +1100,7 @@
       "contentId": "lesson:sa-0100",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1011,6 +1111,7 @@
       "contentId": "lesson:sa-0101",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1021,6 +1122,7 @@
       "contentId": "lesson:sa-0102",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1031,6 +1133,7 @@
       "contentId": "lesson:sa-0103",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1041,6 +1144,7 @@
       "contentId": "lesson:sa-0104",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1051,6 +1155,7 @@
       "contentId": "lesson:sa-0105",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1061,6 +1166,7 @@
       "contentId": "lesson:sa-0106",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1071,6 +1177,7 @@
       "contentId": "lesson:sa-0107",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1081,6 +1188,7 @@
       "contentId": "lesson:sa-0108",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1091,6 +1199,7 @@
       "contentId": "lesson:sa-0109",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1101,6 +1210,7 @@
       "contentId": "lesson:sa-0110",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1111,6 +1221,7 @@
       "contentId": "lesson:sa-0111",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1121,6 +1232,7 @@
       "contentId": "lesson:sa-0112",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1131,6 +1243,7 @@
       "contentId": "lesson:sa-0113",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1141,6 +1254,7 @@
       "contentId": "lesson:sa-0114",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1151,6 +1265,7 @@
       "contentId": "lesson:sa-0115",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1161,6 +1276,7 @@
       "contentId": "lesson:sa-0116",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1171,6 +1287,7 @@
       "contentId": "lesson:sa-0117",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1181,6 +1298,7 @@
       "contentId": "lesson:sa-0118",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1191,6 +1309,7 @@
       "contentId": "lesson:sa-0119",
       "batch": 1,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1201,6 +1320,7 @@
       "contentId": "lesson:sa-0120",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1211,6 +1331,7 @@
       "contentId": "lesson:sa-0121",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1221,6 +1342,7 @@
       "contentId": "lesson:sa-0122",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1231,6 +1353,7 @@
       "contentId": "lesson:sa-0123",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1241,6 +1364,7 @@
       "contentId": "lesson:sa-0124",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1251,6 +1375,7 @@
       "contentId": "lesson:sa-0125",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1261,6 +1386,7 @@
       "contentId": "lesson:sa-0126",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1271,6 +1397,7 @@
       "contentId": "lesson:sa-0127",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1281,6 +1408,7 @@
       "contentId": "lesson:sa-0128",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1291,6 +1419,7 @@
       "contentId": "lesson:sa-0129",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1301,6 +1430,7 @@
       "contentId": "lesson:sa-0130",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1311,6 +1441,7 @@
       "contentId": "lesson:sa-0131",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1321,6 +1452,7 @@
       "contentId": "lesson:sa-0132",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1331,6 +1463,7 @@
       "contentId": "lesson:sa-0133",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1341,6 +1474,7 @@
       "contentId": "lesson:sa-0134",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1351,6 +1485,7 @@
       "contentId": "lesson:sa-0135",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1361,6 +1496,7 @@
       "contentId": "lesson:sa-0136",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1371,6 +1507,7 @@
       "contentId": "lesson:sa-0137",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1381,6 +1518,7 @@
       "contentId": "lesson:sa-0138",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1391,6 +1529,7 @@
       "contentId": "lesson:sa-0139",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1401,6 +1540,7 @@
       "contentId": "lesson:sa-0140",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1411,6 +1551,7 @@
       "contentId": "lesson:sa-0141",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1421,6 +1562,7 @@
       "contentId": "lesson:sa-0142",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1431,6 +1573,7 @@
       "contentId": "lesson:sa-0143",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1441,6 +1584,7 @@
       "contentId": "lesson:sa-0144",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1451,6 +1595,7 @@
       "contentId": "lesson:sa-0145",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1461,6 +1606,7 @@
       "contentId": "lesson:sa-0146",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1471,6 +1617,7 @@
       "contentId": "lesson:sa-0147",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1481,6 +1628,7 @@
       "contentId": "lesson:sa-0148",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1491,6 +1639,7 @@
       "contentId": "lesson:sa-0149",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1501,6 +1650,7 @@
       "contentId": "lesson:sa-0150",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1511,6 +1661,7 @@
       "contentId": "lesson:sa-0151",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1521,6 +1672,7 @@
       "contentId": "lesson:sa-0152",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1531,6 +1683,7 @@
       "contentId": "lesson:sa-0153",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1541,6 +1694,7 @@
       "contentId": "lesson:sa-0154",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1551,6 +1705,7 @@
       "contentId": "lesson:sa-0155",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1561,6 +1716,7 @@
       "contentId": "lesson:sa-0156",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1571,6 +1727,7 @@
       "contentId": "lesson:sa-0157",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1581,6 +1738,7 @@
       "contentId": "lesson:sa-0158",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1591,6 +1749,7 @@
       "contentId": "lesson:sa-0159",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1601,6 +1760,7 @@
       "contentId": "lesson:sa-0160",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1611,6 +1771,7 @@
       "contentId": "lesson:sa-0161",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1621,6 +1782,7 @@
       "contentId": "lesson:sa-0162",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1631,6 +1793,7 @@
       "contentId": "lesson:sa-0163",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1641,6 +1804,7 @@
       "contentId": "lesson:sa-0164",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1651,6 +1815,7 @@
       "contentId": "lesson:sa-0165",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1661,6 +1826,7 @@
       "contentId": "lesson:sa-0166",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1671,6 +1837,7 @@
       "contentId": "lesson:sa-0167",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1681,6 +1848,7 @@
       "contentId": "lesson:sa-0168",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1691,6 +1859,7 @@
       "contentId": "lesson:sa-0169",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1701,6 +1870,7 @@
       "contentId": "lesson:sa-0170",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1711,6 +1881,7 @@
       "contentId": "lesson:sa-0171",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1721,6 +1892,7 @@
       "contentId": "lesson:sa-0172",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1731,6 +1903,7 @@
       "contentId": "lesson:sa-0173",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1741,6 +1914,7 @@
       "contentId": "lesson:sa-0174",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1751,6 +1925,7 @@
       "contentId": "lesson:sa-0175",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1761,6 +1936,7 @@
       "contentId": "lesson:sa-0176",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1771,6 +1947,7 @@
       "contentId": "lesson:sa-0177",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1781,6 +1958,7 @@
       "contentId": "lesson:sa-0178",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1791,6 +1969,7 @@
       "contentId": "lesson:sa-0179",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1801,6 +1980,7 @@
       "contentId": "lesson:sa-0180",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1811,6 +1991,7 @@
       "contentId": "lesson:sa-0181",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1821,6 +2002,7 @@
       "contentId": "lesson:sa-0182",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1831,6 +2013,7 @@
       "contentId": "lesson:sa-0183",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1841,6 +2024,7 @@
       "contentId": "lesson:sa-0184",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1851,6 +2035,7 @@
       "contentId": "lesson:sa-0185",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1861,6 +2046,7 @@
       "contentId": "lesson:sa-0186",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1871,6 +2057,7 @@
       "contentId": "lesson:sa-0187",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1881,6 +2068,7 @@
       "contentId": "lesson:sa-0188",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1891,6 +2079,7 @@
       "contentId": "lesson:sa-0189",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1901,6 +2090,7 @@
       "contentId": "lesson:sa-0190",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1911,6 +2101,7 @@
       "contentId": "lesson:sa-0191",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1921,6 +2112,7 @@
       "contentId": "lesson:sa-0192",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1931,6 +2123,7 @@
       "contentId": "lesson:sa-0193",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1941,6 +2134,7 @@
       "contentId": "lesson:sa-0194",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1951,6 +2145,7 @@
       "contentId": "lesson:sa-0195",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1961,6 +2156,7 @@
       "contentId": "lesson:sa-0196",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -1971,6 +2167,7 @@
       "contentId": "lesson:sa-0197",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1981,6 +2178,7 @@
       "contentId": "lesson:sa-0198",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -1991,6 +2189,7 @@
       "contentId": "lesson:sa-0199",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -2001,6 +2200,7 @@
       "contentId": "lesson:sa-0200",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -2011,6 +2211,7 @@
       "contentId": "lesson:sa-0201",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -2021,6 +2222,7 @@
       "contentId": "lesson:sa-0202",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2031,6 +2233,7 @@
       "contentId": "lesson:sa-0203",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2041,6 +2244,7 @@
       "contentId": "lesson:sa-0204",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2051,6 +2255,7 @@
       "contentId": "lesson:sa-0205",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2061,6 +2266,7 @@
       "contentId": "lesson:sa-0206",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2071,6 +2277,7 @@
       "contentId": "lesson:sa-0207",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2081,6 +2288,7 @@
       "contentId": "lesson:sa-0208",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2091,6 +2299,7 @@
       "contentId": "lesson:sa-0209",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2101,6 +2310,7 @@
       "contentId": "lesson:sa-0210",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2111,6 +2321,7 @@
       "contentId": "lesson:sa-0211",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2121,6 +2332,7 @@
       "contentId": "lesson:sa-0212",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2131,6 +2343,7 @@
       "contentId": "lesson:sa-0213",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2141,6 +2354,7 @@
       "contentId": "lesson:sa-0214",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2151,6 +2365,7 @@
       "contentId": "lesson:sa-0215",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2161,6 +2376,7 @@
       "contentId": "lesson:sa-0216",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2171,6 +2387,7 @@
       "contentId": "lesson:sa-0217",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2181,6 +2398,7 @@
       "contentId": "lesson:sa-0218",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2191,6 +2409,7 @@
       "contentId": "lesson:sa-0219",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2201,6 +2420,7 @@
       "contentId": "lesson:sa-0220",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2211,6 +2431,7 @@
       "contentId": "lesson:sa-0221",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2221,6 +2442,7 @@
       "contentId": "lesson:sa-0222",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2231,6 +2453,7 @@
       "contentId": "lesson:sa-0223",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2241,6 +2464,7 @@
       "contentId": "lesson:sa-0224",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2251,6 +2475,7 @@
       "contentId": "lesson:sa-0225",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2261,6 +2486,7 @@
       "contentId": "lesson:sa-0226",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2271,6 +2497,7 @@
       "contentId": "lesson:sa-0227",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2281,6 +2508,7 @@
       "contentId": "lesson:sa-0228",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -2291,6 +2519,7 @@
       "contentId": "lesson:sa-0229",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2301,6 +2530,7 @@
       "contentId": "lesson:sa-0230",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2311,6 +2541,7 @@
       "contentId": "lesson:sa-0231",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2321,6 +2552,7 @@
       "contentId": "lesson:sa-0232",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2331,6 +2563,7 @@
       "contentId": "lesson:sa-0233",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2341,6 +2574,7 @@
       "contentId": "lesson:sa-0234",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2351,6 +2585,7 @@
       "contentId": "lesson:sa-0235",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2361,6 +2596,7 @@
       "contentId": "lesson:sa-0236",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2371,6 +2607,7 @@
       "contentId": "lesson:sa-0237",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2381,6 +2618,7 @@
       "contentId": "lesson:sa-0238",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2391,6 +2629,7 @@
       "contentId": "lesson:sa-0239",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2401,6 +2640,7 @@
       "contentId": "lesson:sa-0240",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2411,6 +2651,7 @@
       "contentId": "lesson:sa-0241",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2421,6 +2662,7 @@
       "contentId": "lesson:sa-0242",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2431,6 +2673,7 @@
       "contentId": "lesson:sa-0243",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2441,6 +2684,7 @@
       "contentId": "lesson:sa-0244",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2451,6 +2695,7 @@
       "contentId": "lesson:sa-0245",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2461,6 +2706,7 @@
       "contentId": "lesson:sa-0246",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2471,6 +2717,7 @@
       "contentId": "lesson:sa-0247",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2481,6 +2728,7 @@
       "contentId": "lesson:sa-0248",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2491,6 +2739,7 @@
       "contentId": "lesson:sa-0249",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2501,6 +2750,7 @@
       "contentId": "lesson:sa-0250",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2511,6 +2761,7 @@
       "contentId": "lesson:sa-0251",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2521,6 +2772,7 @@
       "contentId": "lesson:sa-0252",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2531,6 +2783,7 @@
       "contentId": "lesson:sa-0253",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2541,6 +2794,7 @@
       "contentId": "lesson:sa-0254",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2551,6 +2805,7 @@
       "contentId": "lesson:sa-0255",
       "batch": 5,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2561,6 +2816,7 @@
       "contentId": "lesson:sa-0256",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2571,6 +2827,7 @@
       "contentId": "lesson:sa-0257",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2581,6 +2838,7 @@
       "contentId": "lesson:sa-0258",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2591,6 +2849,7 @@
       "contentId": "lesson:sa-0259",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2601,6 +2860,7 @@
       "contentId": "lesson:sa-0260",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2611,6 +2871,7 @@
       "contentId": "lesson:sa-0261",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2621,6 +2882,7 @@
       "contentId": "lesson:sa-0262",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2631,6 +2893,7 @@
       "contentId": "lesson:sa-0263",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2641,6 +2904,7 @@
       "contentId": "lesson:sa-0264",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2651,6 +2915,7 @@
       "contentId": "lesson:sa-0265",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2661,6 +2926,7 @@
       "contentId": "lesson:sa-0266",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2671,6 +2937,7 @@
       "contentId": "lesson:sa-0267",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2681,6 +2948,7 @@
       "contentId": "lesson:sa-0268",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2691,6 +2959,7 @@
       "contentId": "lesson:sa-0269",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2701,6 +2970,7 @@
       "contentId": "lesson:sa-0270",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2711,6 +2981,7 @@
       "contentId": "lesson:sa-0271",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2721,6 +2992,7 @@
       "contentId": "lesson:sa-0272",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2731,6 +3003,7 @@
       "contentId": "lesson:sa-0273",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2741,6 +3014,7 @@
       "contentId": "lesson:sa-0274",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2751,6 +3025,7 @@
       "contentId": "lesson:sa-0275",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2761,6 +3036,7 @@
       "contentId": "lesson:sa-0276",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2771,6 +3047,7 @@
       "contentId": "lesson:sa-0277",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2781,6 +3058,7 @@
       "contentId": "lesson:sa-0278",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2791,6 +3069,7 @@
       "contentId": "lesson:sa-0279",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2801,6 +3080,7 @@
       "contentId": "lesson:sa-0280",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2811,6 +3091,7 @@
       "contentId": "lesson:sa-0281",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2821,6 +3102,7 @@
       "contentId": "lesson:sa-0282",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2831,6 +3113,7 @@
       "contentId": "lesson:sa-0283",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2841,6 +3124,7 @@
       "contentId": "lesson:sa-0284",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2851,6 +3135,7 @@
       "contentId": "lesson:sa-0285",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2861,6 +3146,7 @@
       "contentId": "lesson:sa-0286",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2871,6 +3157,7 @@
       "contentId": "lesson:sa-0287",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2881,6 +3168,7 @@
       "contentId": "lesson:sa-0288",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2891,6 +3179,7 @@
       "contentId": "lesson:sa-0289",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2901,6 +3190,7 @@
       "contentId": "lesson:sa-0290",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2911,6 +3201,7 @@
       "contentId": "lesson:sa-0291",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2921,6 +3212,7 @@
       "contentId": "lesson:sa-0292",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2931,6 +3223,7 @@
       "contentId": "lesson:sa-0293",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2941,6 +3234,7 @@
       "contentId": "lesson:sa-0294",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2951,6 +3245,7 @@
       "contentId": "lesson:sa-0295",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2961,6 +3256,7 @@
       "contentId": "lesson:sa-0296",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2971,6 +3267,7 @@
       "contentId": "lesson:sa-0297",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -2981,6 +3278,7 @@
       "contentId": "lesson:sa-0298",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -2991,6 +3289,7 @@
       "contentId": "lesson:sa-0299",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3001,6 +3300,7 @@
       "contentId": "lesson:sa-0300",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3011,6 +3311,7 @@
       "contentId": "lesson:sa-0301",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3021,6 +3322,7 @@
       "contentId": "lesson:sa-0302",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3031,6 +3333,7 @@
       "contentId": "lesson:sa-0303",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3041,6 +3344,7 @@
       "contentId": "lesson:sa-0304",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3051,6 +3355,7 @@
       "contentId": "lesson:sa-0305",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3061,6 +3366,7 @@
       "contentId": "lesson:sa-0306",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3071,6 +3377,7 @@
       "contentId": "lesson:sa-0307",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3081,6 +3388,7 @@
       "contentId": "lesson:sa-0308",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3091,6 +3399,7 @@
       "contentId": "lesson:sa-0309",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3101,6 +3410,7 @@
       "contentId": "lesson:sa-0310",
       "batch": 13,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3111,6 +3421,7 @@
       "contentId": "lesson:sa-0311",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3121,6 +3432,7 @@
       "contentId": "lesson:sa-0312",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3131,6 +3443,7 @@
       "contentId": "lesson:sa-0313",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3141,6 +3454,7 @@
       "contentId": "lesson:sa-0314",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3151,6 +3465,7 @@
       "contentId": "lesson:sa-0315",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3161,6 +3476,7 @@
       "contentId": "lesson:sa-0316",
       "batch": 7,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3171,6 +3487,7 @@
       "contentId": "lesson:sa-0317",
       "batch": 10,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3181,6 +3498,7 @@
       "contentId": "lesson:sa-0318",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3191,6 +3509,7 @@
       "contentId": "lesson:sa-0319",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3201,6 +3520,7 @@
       "contentId": "lesson:sa-0320",
       "batch": 11,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3211,6 +3531,7 @@
       "contentId": "lesson:sa-0321",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3221,6 +3542,7 @@
       "contentId": "lesson:sa-0322",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3231,6 +3553,7 @@
       "contentId": "lesson:sa-0323",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3241,6 +3564,7 @@
       "contentId": "lesson:sa-0324",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3251,6 +3575,7 @@
       "contentId": "lesson:sa-0325",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3261,6 +3586,7 @@
       "contentId": "lesson:sa-0326",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3271,6 +3597,7 @@
       "contentId": "lesson:sa-0327",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3281,6 +3608,7 @@
       "contentId": "lesson:sa-0328",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3291,6 +3619,7 @@
       "contentId": "lesson:sa-0329",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3301,6 +3630,7 @@
       "contentId": "lesson:sa-0330",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3311,6 +3641,7 @@
       "contentId": "lesson:sa-0331",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3321,6 +3652,7 @@
       "contentId": "lesson:sa-0332",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3331,6 +3663,7 @@
       "contentId": "lesson:sa-0333",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3341,6 +3674,7 @@
       "contentId": "lesson:sa-0334",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3351,6 +3685,7 @@
       "contentId": "lesson:sa-0335",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3361,6 +3696,7 @@
       "contentId": "lesson:sa-0336",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3371,6 +3707,7 @@
       "contentId": "lesson:sa-0337",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3381,6 +3718,7 @@
       "contentId": "lesson:sa-0338",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3391,6 +3729,7 @@
       "contentId": "lesson:sa-0339",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3401,6 +3740,7 @@
       "contentId": "lesson:sa-0340",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3411,6 +3751,7 @@
       "contentId": "lesson:sa-0341",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3421,6 +3762,7 @@
       "contentId": "lesson:sa-0342",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3431,6 +3773,7 @@
       "contentId": "lesson:sa-0343",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3441,6 +3784,7 @@
       "contentId": "lesson:sa-0344",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3451,6 +3795,7 @@
       "contentId": "lesson:sa-0345",
       "batch": 3,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3461,6 +3806,7 @@
       "contentId": "lesson:sa-0346",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3471,6 +3817,7 @@
       "contentId": "lesson:sa-0347",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3481,6 +3828,7 @@
       "contentId": "lesson:sa-0348",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3491,6 +3839,7 @@
       "contentId": "lesson:sa-0349",
       "batch": 12,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3501,6 +3850,7 @@
       "contentId": "lesson:sa-0350",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3511,6 +3861,7 @@
       "contentId": "lesson:sa-0351",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3521,6 +3872,7 @@
       "contentId": "lesson:sa-0352",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3531,6 +3883,7 @@
       "contentId": "lesson:sa-0353",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3541,6 +3894,7 @@
       "contentId": "lesson:sa-0354",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3551,6 +3905,7 @@
       "contentId": "lesson:sa-0355",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3561,6 +3916,7 @@
       "contentId": "lesson:sa-0356",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3571,6 +3927,7 @@
       "contentId": "lesson:sa-0357",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3581,6 +3938,7 @@
       "contentId": "lesson:sa-0358",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3591,6 +3949,7 @@
       "contentId": "lesson:sa-0359",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3601,6 +3960,7 @@
       "contentId": "lesson:sa-0360",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3611,6 +3971,7 @@
       "contentId": "lesson:sa-0361",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3621,6 +3982,7 @@
       "contentId": "lesson:sa-0362",
       "batch": 6,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3631,6 +3993,7 @@
       "contentId": "lesson:sa-0363",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3641,6 +4004,7 @@
       "contentId": "lesson:sa-0364",
       "batch": 15,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3651,6 +4015,7 @@
       "contentId": "lesson:sa-0365",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3661,6 +4026,7 @@
       "contentId": "lesson:sa-0366",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3671,6 +4037,7 @@
       "contentId": "lesson:sa-0367",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3681,6 +4048,7 @@
       "contentId": "lesson:sa-0368",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3691,6 +4059,7 @@
       "contentId": "lesson:sa-0369",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3701,6 +4070,7 @@
       "contentId": "lesson:sa-0370",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3711,6 +4081,7 @@
       "contentId": "lesson:sa-0371",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3721,6 +4092,7 @@
       "contentId": "lesson:sa-0372",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3731,6 +4103,7 @@
       "contentId": "lesson:sa-0373",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3741,6 +4114,7 @@
       "contentId": "lesson:sa-0374",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3751,6 +4125,7 @@
       "contentId": "lesson:sa-0375",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3761,6 +4136,7 @@
       "contentId": "lesson:sa-0376",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3771,6 +4147,7 @@
       "contentId": "lesson:sa-0377",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3781,6 +4158,7 @@
       "contentId": "lesson:sa-0378",
       "batch": 2,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3791,6 +4169,7 @@
       "contentId": "lesson:sa-0379",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3801,6 +4180,7 @@
       "contentId": "lesson:sa-0380",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "partial_evidence"
     },
@@ -3811,6 +4191,7 @@
       "contentId": "lesson:sa-0381",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3821,6 +4202,7 @@
       "contentId": "lesson:sa-0382",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3831,6 +4213,7 @@
       "contentId": "lesson:sa-0383",
       "batch": 8,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3841,6 +4224,7 @@
       "contentId": "lesson:sa-0384",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3851,6 +4235,7 @@
       "contentId": "lesson:sa-0385",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3861,6 +4246,7 @@
       "contentId": "lesson:sa-0386",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3871,6 +4257,7 @@
       "contentId": "lesson:sa-0387",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3881,6 +4268,7 @@
       "contentId": "lesson:sa-0388",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3891,6 +4279,7 @@
       "contentId": "lesson:sa-0389",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3901,6 +4290,7 @@
       "contentId": "lesson:sa-0390",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3911,6 +4301,7 @@
       "contentId": "lesson:sa-0391",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3921,6 +4312,7 @@
       "contentId": "lesson:sa-0392",
       "batch": 17,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3931,6 +4323,7 @@
       "contentId": "lesson:sa-0393",
       "batch": 16,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3941,6 +4334,7 @@
       "contentId": "lesson:sa-0394",
       "batch": 14,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3951,6 +4345,7 @@
       "contentId": "lesson:sa-0395",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3961,6 +4356,7 @@
       "contentId": "lesson:sa-0396",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3971,6 +4367,7 @@
       "contentId": "lesson:sa-0397",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3981,6 +4378,7 @@
       "contentId": "lesson:sa-0398",
       "batch": 4,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -3991,6 +4389,7 @@
       "contentId": "lesson:sa-0399",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4001,6 +4400,7 @@
       "contentId": "lesson:sa-0400",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4011,6 +4411,7 @@
       "contentId": "lesson:sa-0401",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4021,6 +4422,7 @@
       "contentId": "lesson:sa-0402",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4031,6 +4433,7 @@
       "contentId": "lesson:sa-0403",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4041,6 +4444,7 @@
       "contentId": "lesson:sa-0404",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4051,6 +4455,7 @@
       "contentId": "lesson:sa-0405",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4061,6 +4466,7 @@
       "contentId": "lesson:sa-0406",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4071,6 +4477,7 @@
       "contentId": "lesson:sa-0407",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     },
@@ -4081,6 +4488,7 @@
       "contentId": "lesson:sa-0408",
       "batch": 9,
       "implementation": "tested_frontend",
+      "internalFunctionalReview": "passed_internal_functional_review",
       "scientificReview": "pending_independent_expert_review",
       "curriculumVerification": "pending_verification"
     }

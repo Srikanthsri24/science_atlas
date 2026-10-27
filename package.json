@@ -1,6 +1,6 @@
 {
   "name": "science-atlas-360",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,8 @@
     "test": "node --test tests/*.test.mjs",
     "validate": "node scripts/validate-inventory.mjs && node scripts/concept-ledger.mjs",
     "predev": "node scripts/prepare-public.mjs",
-    "prebuild": "node scripts/prepare-public.mjs"
+    "prebuild": "node scripts/prepare-public.mjs",
+    "review": "node scripts/review-concepts.mjs"
   },
   "dependencies": {
     "react": "^19.1.0",
