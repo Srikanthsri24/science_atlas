@@ -250,23 +250,387 @@
       "webgl": true,
       "screenshot": "SA-0025.png",
       "status": "upgrade_browser_checks_passed"
-    }
-  ],
-  "reviewedCount": 25,
-  "visualFindings": [
-    {
-      "records": [
-        "SA-0013"
-      ],
-      "finding": "Brain representation overly abstract",
-      "action": "Added paired cerebral hemisphere geometry, illustrative surface folds, brainstem and spinal connection; retained schematic limitations."
     },
     {
-      "records": [
-        "SA-0008"
-      ],
-      "finding": "Nearby annotation clipped in initial framing",
-      "action": "Camera bounds now reserve room for nearby scientific labels while ignoring remote text."
+      "id": "SA-0026",
+      "title": "Respiration in plants",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0026.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0027",
+      "title": "Water and food movement in plants",
+      "kind": "planttransport",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0027.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0028",
+      "title": "Photosynthesis",
+      "kind": "photosynthesis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0028.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0029",
+      "title": "Transpiration",
+      "kind": "transpiration",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0029.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0030",
+      "title": "Plant hormones",
+      "kind": "tropism",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0030.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0031",
+      "title": "Plant reproduction",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0031.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0032",
+      "title": "Plant tissues",
+      "kind": "tissues",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0032.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0033",
+      "title": "Mineral nutrition",
+      "kind": "planttransport",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0033.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0034",
+      "title": "Animal husbandry",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0034.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0035",
+      "title": "Digestion in ruminants",
+      "kind": "digestion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0035.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0036",
+      "title": "Animal adaptations",
+      "kind": "animals",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0036.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0037",
+      "title": "Animal nutrition",
+      "kind": "digestion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0037.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0038",
+      "title": "Animal reproduction",
+      "kind": "reproduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0038.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0039",
+      "title": "Animal locomotion",
+      "kind": "animals",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0039.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0040",
+      "title": "Animal behaviour",
+      "kind": "reflex",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0040.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0041",
+      "title": "DNA",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0041.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0042",
+      "title": "RNA",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0042.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0043",
+      "title": "Genes",
+      "kind": "genetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0043.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0044",
+      "title": "Mendelian genetics",
+      "kind": "genetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0044.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0045",
+      "title": "Chromosomes",
+      "kind": "mitosis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0045.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0046",
+      "title": "Mutations",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0046.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0047",
+      "title": "Biotechnology",
+      "kind": "pcr",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0047.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0048",
+      "title": "PCR",
+      "kind": "pcr",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0048.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0049",
+      "title": "Genetic engineering",
+      "kind": "recombinant",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0049.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0050",
+      "title": "Ecosystems",
+      "kind": "ecosystem",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0050.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0051",
+      "title": "Food chains",
+      "kind": "foodweb",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0051.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0052",
+      "title": "Food webs",
+      "kind": "ecosystem",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0052.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0053",
+      "title": "Population ecology",
+      "kind": "population",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0053.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0054",
+      "title": "Conservation",
+      "kind": "ecosystem",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0054.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0055",
+      "title": "Pollution",
+      "kind": "pollution",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0055.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0056",
+      "title": "Biogeochemical cycles",
+      "kind": "cycles",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0056.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0057",
+      "title": "Nutrition",
+      "kind": "food",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0057.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0058",
+      "title": "Deficiency diseases",
+      "kind": "nutrition",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0058.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0059",
+      "title": "Pathogens",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0059.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0060",
+      "title": "Vaccination",
+      "kind": "immune",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0060.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0061",
+      "title": "Public health",
+      "kind": "hygiene",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0061.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0062",
+      "title": "Adolescence",
+      "kind": "reproduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0062.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0063",
+      "title": "Motion",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0063.png",
+      "status": "upgrade_browser_checks_passed"
     }
-  ]
+  ],
+  "reviewedCount": 63
 }

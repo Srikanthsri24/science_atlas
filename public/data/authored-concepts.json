@@ -26177,7 +26177,7 @@
         {
           "title": "Read the sequence",
           "caption": "Identify the coding strand bases.",
-          "detail": "The displayed top direction is 5′ to 3′.",
+          "detail": "Follow the labelled coding strand from its 5′ end to its 3′ end; the complementary strand runs antiparallel.",
           "parameters": {
             "ua": 0,
             "ub": 0
