@@ -1,0 +1,875 @@
+{
+  "scope": "Browser viewport layout checks, not certification on physical hardware",
+  "records": [
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "requestedWidth": 320,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 320,
+      "width": 320,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone",
+      "requestedWidth": 390,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 390,
+      "width": 390,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "requestedWidth": 844,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "requestedWidth": 768,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "requestedWidth": 1024,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "requestedWidth": 1366,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "requestedWidth": 1920,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "overview",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "classes",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "analytics",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "preferences",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "review-ledger",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "pendulum-explore",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "pendulum-watch",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "concept-practical",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "concept-watch",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "requestedWidth": 3840,
+      "screen": "concept-quiz",
+      "clipped": [],
+      "scroll": 3840,
+      "width": 3840,
+      "passed": true
+    }
+  ],
+  "additionalStressChecks": [
+    {
+      "device": "small-phone",
+      "width": 320,
+      "screen": "long-crystallography-readouts-and-two-trial-record",
+      "passed": true
+    },
+    {
+      "device": "small-phone",
+      "width": 320,
+      "screen": "portrait-3d-presentation",
+      "canvas": {
+        "width": 304,
+        "height": 269
+      },
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "screen": "populated-practical-3d",
+      "canvas": [
+        {
+          "height": 950,
+          "width": 535
+        }
+      ],
+      "overflow": [],
+      "scrollWidth": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "tablet-portrait",
+      "screen": "populated-practical-3d",
+      "canvas": [
+        {
+          "height": 896,
+          "width": 504
+        }
+      ],
+      "overflow": [],
+      "scrollWidth": 768,
+      "width": 768,
+      "passed": true
+    },
+    {
+      "device": "laptop",
+      "screen": "populated-practical-3d",
+      "canvas": [
+        {
+          "height": 950,
+          "width": 535
+        }
+      ],
+      "overflow": [],
+      "scrollWidth": 1366,
+      "width": 1366,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "screen": "populated-practical-3d",
+      "canvas": [
+        {
+          "height": 950,
+          "width": 535
+        }
+      ],
+      "overflow": [],
+      "scrollWidth": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "phone-landscape",
+      "screen": "3d-landscape-presentation",
+      "canvas": [
+        {
+          "height": 154,
+          "width": 844
+        }
+      ],
+      "exitVisible": [
+        {
+          "x": 707.5703125,
+          "y": 15.75
+        }
+      ],
+      "scrollWidth": 844,
+      "width": 844,
+      "passed": true
+    },
+    {
+      "device": "tablet-landscape",
+      "screen": "3d-landscape-presentation",
+      "canvas": [
+        {
+          "height": 532,
+          "width": 1024
+        }
+      ],
+      "exitVisible": [
+        {
+          "x": 887.5703125,
+          "y": 15.75
+        }
+      ],
+      "scrollWidth": 1024,
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "device": "TV",
+      "screen": "3d-landscape-presentation",
+      "canvas": [
+        {
+          "height": 808,
+          "width": 1920
+        }
+      ],
+      "exitVisible": [
+        {
+          "x": 1726.9140625,
+          "y": 12
+        }
+      ],
+      "scrollWidth": 1920,
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "device": "4K-TV",
+      "screen": "3d-landscape-presentation",
+      "canvas": [
+        {
+          "height": 1867,
+          "width": 3840
+        }
+      ],
+      "exitVisible": [
+        {
+          "x": 3640.6171875,
+          "y": 12
+        }
+      ],
+      "scrollWidth": 3840,
+      "width": 3840,
+      "passed": true
+    }
+  ]
+}

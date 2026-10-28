@@ -825,11 +825,286 @@
       "screenshot": "SA-0075.png",
       "status": "upgrade_browser_checks_passed",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0076",
+      "title": "Air resistance",
+      "kind": "freefall",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0076.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0077",
+      "title": "Terminal velocity",
+      "kind": "freefall",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0077.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0078",
+      "title": "Satellite motion",
+      "kind": "orbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0078.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0079",
+      "title": "Escape velocity",
+      "kind": "escape",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0079.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0080",
+      "title": "Buoyancy",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0080.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0081",
+      "title": "Archimedes principle",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0081.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0082",
+      "title": "Apparent loss in weight",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0082.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0083",
+      "title": "Surface tension",
+      "kind": "capillary",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0083.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0084",
+      "title": "Angle of contact",
+      "kind": "capillary",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0084.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0085",
+      "title": "Bernoulli theorem",
+      "kind": "bernoulli",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0085.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0086",
+      "title": "Capillary action",
+      "kind": "capillary",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0086.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0087",
+      "title": "Coefficient of viscosity",
+      "kind": "centrifuge",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0087.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0088",
+      "title": "Pascal law",
+      "kind": "hydrostatic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0088.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0089",
+      "title": "Fluid pressure",
+      "kind": "hydrostatic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0089.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0090",
+      "title": "Electricity and magnetism",
+      "kind": "motor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0090.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0091",
+      "title": "Fleming left hand rule",
+      "kind": "motor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0091.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0092",
+      "title": "Speed of movement of coil",
+      "kind": "motor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0092.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0093",
+      "title": "Magnetic field lines",
+      "kind": "magnet",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0093.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0094",
+      "title": "Electric current",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0094.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0095",
+      "title": "Ohm law",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0095.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0096",
+      "title": "Electric circuits",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0096.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0097",
+      "title": "Electric motors",
+      "kind": "motor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0097.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0098",
+      "title": "Electromagnetic induction",
+      "kind": "induction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0098.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0099",
+      "title": "Generators",
+      "kind": "induction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0099.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0100",
+      "title": "Transformers",
+      "kind": "transformer",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0100.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 75,
-  "browserCheckedCount": 75,
-  "initialFrameVisualReviewedCount": 75,
+  "reviewedCount": 100,
+  "browserCheckedCount": 100,
+  "initialFrameVisualReviewedCount": 100,
   "visualFindings": [
     {
       "records": [
@@ -859,6 +1134,22 @@
       ],
       "finding": "Inheritance board absent before reveal; label panels overlapped",
       "action": "Four probability cells remain visible, row/column alleles explicit, labels sized to text, 2D board updated."
+    },
+    {
+      "records": [
+        "SA-0019"
+      ],
+      "finding": "Body overview lacked sufficient anatomy context",
+      "action": "Added transparent body silhouette, jointed limb context, individual organs, subject-left label and posterior kidneys."
+    },
+    {
+      "records": [
+        "SA-0080",
+        "SA-0081",
+        "SA-0082"
+      ],
+      "finding": "Captured practical readouts omitted required holding force",
+      "action": "Added required holding force, displaced volume, weight-minus-holding-force comparison and actual floor reaction with units."
     },
     {
       "records": [
