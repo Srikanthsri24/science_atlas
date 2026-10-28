@@ -1,0 +1,272 @@
+{
+  "scope": "Individual upgraded-workspace browser checks; scene-specific realism approval requires visual findings",
+  "records": [
+    {
+      "id": "SA-0001",
+      "title": "Living and nonliving",
+      "kind": "classification",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0001.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0002",
+      "title": "Classification",
+      "kind": "classification",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0002.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0003",
+      "title": "Cells and organelles",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0003.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0004",
+      "title": "Cell division",
+      "kind": "mitosis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0004.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0005",
+      "title": "Tissues",
+      "kind": "tissues",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0005.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0006",
+      "title": "Microorganisms",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0006.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0007",
+      "title": "Biodiversity",
+      "kind": "classification",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0007.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0008",
+      "title": "Evolution",
+      "kind": "evolution",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0008.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0009",
+      "title": "Human body movements",
+      "kind": "joint",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0009.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0010",
+      "title": "Joints in human body",
+      "kind": "joint",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0010.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0011",
+      "title": "Joints for sports",
+      "kind": "joint",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0011.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0012",
+      "title": "Animal nervous system",
+      "kind": "neuron",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0012.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0013",
+      "title": "Human brain",
+      "kind": "bodyatlas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0013.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0014",
+      "title": "Reflex action in animals",
+      "kind": "reflex",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0014.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0015",
+      "title": "Human digestive system",
+      "kind": "digestion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0015.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0016",
+      "title": "Human tooth",
+      "kind": "tooth",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0016.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0017",
+      "title": "Tongue and tooth activity",
+      "kind": "tooth",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0017.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0018",
+      "title": "Respiration in human beings",
+      "kind": "breathing",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0018.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0019",
+      "title": "Circulatory and excretion system in animals",
+      "kind": "bodyatlas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0019.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0020",
+      "title": "Excretory system in animals",
+      "kind": "nephron",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0020.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0021",
+      "title": "Endocrine system",
+      "kind": "endocrine",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0021.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0022",
+      "title": "Sense organs",
+      "kind": "senses",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0022.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0023",
+      "title": "Human reproduction",
+      "kind": "reproduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0023.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0024",
+      "title": "Immune system",
+      "kind": "immune",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0024.png",
+      "status": "upgrade_browser_checks_passed"
+    },
+    {
+      "id": "SA-0025",
+      "title": "Coordination in plants",
+      "kind": "tropism",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0025.png",
+      "status": "upgrade_browser_checks_passed"
+    }
+  ],
+  "reviewedCount": 25,
+  "visualFindings": [
+    {
+      "records": [
+        "SA-0013"
+      ],
+      "finding": "Brain representation overly abstract",
+      "action": "Added paired cerebral hemisphere geometry, illustrative surface folds, brainstem and spinal connection; retained schematic limitations."
+    },
+    {
+      "records": [
+        "SA-0008"
+      ],
+      "finding": "Nearby annotation clipped in initial framing",
+      "action": "Camera bounds now reserve room for nearby scientific labels while ignoring remote text."
+    }
+  ]
+}
