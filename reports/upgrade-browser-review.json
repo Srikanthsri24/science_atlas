@@ -9,7 +9,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0001.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0002",
@@ -19,7 +20,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0002.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0003",
@@ -29,7 +31,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0003.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0004",
@@ -39,7 +42,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0004.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0005",
@@ -49,7 +53,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0005.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0006",
@@ -59,7 +64,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0006.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0007",
@@ -69,7 +75,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0007.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0008",
@@ -79,7 +86,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0008.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0009",
@@ -89,7 +97,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0009.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0010",
@@ -99,7 +108,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0010.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0011",
@@ -109,7 +119,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0011.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0012",
@@ -119,7 +130,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0012.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0013",
@@ -129,7 +141,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0013.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0014",
@@ -139,7 +152,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0014.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0015",
@@ -149,7 +163,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0015.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0016",
@@ -159,7 +174,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0016.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0017",
@@ -169,7 +185,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0017.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0018",
@@ -179,7 +196,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0018.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0019",
@@ -189,7 +207,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0019.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0020",
@@ -199,7 +218,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0020.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0021",
@@ -209,7 +229,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0021.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0022",
@@ -219,7 +240,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0022.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0023",
@@ -229,7 +251,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0023.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0024",
@@ -239,7 +262,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0024.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0025",
@@ -249,7 +273,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0025.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0026",
@@ -259,7 +284,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0026.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0027",
@@ -269,7 +295,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0027.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0028",
@@ -279,7 +306,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0028.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0029",
@@ -289,7 +317,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0029.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0030",
@@ -299,7 +328,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0030.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0031",
@@ -309,7 +339,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0031.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0032",
@@ -319,7 +350,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0032.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0033",
@@ -329,7 +361,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0033.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0034",
@@ -339,7 +372,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0034.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0035",
@@ -349,7 +383,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0035.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0036",
@@ -359,7 +394,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0036.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0037",
@@ -369,7 +405,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0037.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0038",
@@ -379,7 +416,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0038.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0039",
@@ -389,7 +427,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0039.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0040",
@@ -399,7 +438,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0040.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0041",
@@ -409,7 +449,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0041.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0042",
@@ -419,7 +460,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0042.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0043",
@@ -429,7 +471,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0043.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0044",
@@ -439,7 +482,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0044.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0045",
@@ -449,7 +493,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0045.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0046",
@@ -459,7 +504,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0046.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0047",
@@ -469,7 +515,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0047.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0048",
@@ -479,7 +526,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0048.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0049",
@@ -489,7 +537,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0049.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0050",
@@ -499,7 +548,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0050.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0051",
@@ -509,7 +559,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0051.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0052",
@@ -519,7 +570,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0052.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0053",
@@ -529,7 +581,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0053.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0054",
@@ -539,7 +592,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0054.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0055",
@@ -549,7 +603,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0055.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0056",
@@ -559,7 +614,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0056.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0057",
@@ -569,7 +625,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0057.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0058",
@@ -579,7 +636,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0058.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0059",
@@ -589,7 +647,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0059.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0060",
@@ -599,7 +658,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0060.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0061",
@@ -609,7 +669,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0061.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0062",
@@ -619,7 +680,8 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0062.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     },
     {
       "id": "SA-0063",
@@ -629,8 +691,181 @@
       "practical": true,
       "webgl": true,
       "screenshot": "SA-0063.png",
-      "status": "upgrade_browser_checks_passed"
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0064",
+      "title": "Velocity",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0064.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0065",
+      "title": "Acceleration",
+      "kind": "freefall",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0065.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0066",
+      "title": "Newton laws",
+      "kind": "force",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0066.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0067",
+      "title": "Friction",
+      "kind": "force",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0067.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0068",
+      "title": "Work energy power",
+      "kind": "spring",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0068.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0069",
+      "title": "Momentum",
+      "kind": "collision",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0069.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0070",
+      "title": "Newton cradle",
+      "kind": "cradle",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0070.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0071",
+      "title": "Circular motion",
+      "kind": "rotation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0071.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0072",
+      "title": "Rotational motion",
+      "kind": "rotation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0072.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0073",
+      "title": "Torque",
+      "kind": "lever",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0073.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0074",
+      "title": "Gravitation",
+      "kind": "orbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0074.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0075",
+      "title": "Free fall in a uniform gravitational field",
+      "kind": "freefall",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0075.png",
+      "status": "upgrade_browser_checks_passed",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 63
+  "reviewedCount": 75,
+  "browserCheckedCount": 75,
+  "initialFrameVisualReviewedCount": 75,
+  "visualFindings": [
+    {
+      "records": [
+        "SA-0013"
+      ],
+      "finding": "Brain representation too abstract",
+      "action": "Paired cerebral hemisphere geometry, illustrative surface folds, cerebellum, brainstem and spinal connection; retained schematic limitations."
+    },
+    {
+      "records": [
+        "SA-0008"
+      ],
+      "finding": "Nearby annotations clipped",
+      "action": "Camera bounds reserve room for nearby labels and ignore remote text."
+    },
+    {
+      "records": [
+        "SA-0041"
+      ],
+      "finding": "DNA shown only as flat sequence",
+      "action": "Right-handed complementary helical backbones, paired bases and dynamically attached antiparallel end labels; dimensions remain illustrative."
+    },
+    {
+      "records": [
+        "SA-0043",
+        "SA-0044"
+      ],
+      "finding": "Inheritance board absent before reveal; label panels overlapped",
+      "action": "Four probability cells remain visible, row/column alleles explicit, labels sized to text, 2D board updated."
+    },
+    {
+      "records": [
+        "SA-0070"
+      ],
+      "finding": "Cradle bobs lacked apparatus context",
+      "action": "Added base, support frame, fixed hangers, paired suspension strings and metallic bobs; existing ideal transfer model retained."
+    }
+  ]
 }
