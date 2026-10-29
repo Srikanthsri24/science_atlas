@@ -4188,11 +4188,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0276",
+      "title": "Lysosomes",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0276.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0277",
+      "title": "Ribosomes",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0277.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0278",
+      "title": "Vacuoles",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0278.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0279",
+      "title": "Mitosis",
+      "kind": "mitosis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0279.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0280",
+      "title": "Meiosis",
+      "kind": "meiosis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0280.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0281",
+      "title": "Skeletal system",
+      "kind": "skeleton",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0281.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0282",
+      "title": "Muscular system",
+      "kind": "sarcomere",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0282.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0283",
+      "title": "Human heart",
+      "kind": "heart",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0283.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0284",
+      "title": "Blood circulation",
+      "kind": "heart",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0284.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0285",
+      "title": "Blood vessels",
+      "kind": "blood",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0285.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0286",
+      "title": "Blood components",
+      "kind": "blood",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0286.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0287",
+      "title": "Lung breathing",
+      "kind": "breathing",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0287.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0288",
+      "title": "Human development",
+      "kind": "reproduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0288.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0289",
+      "title": "Spinal cord",
+      "kind": "reflex",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0289.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0290",
+      "title": "Neuron signal transmission",
+      "kind": "neuron",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0290.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0291",
+      "title": "Reflex arc",
+      "kind": "reflex",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0291.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0292",
+      "title": "Muscle contraction",
+      "kind": "sarcomere",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0292.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0293",
+      "title": "Joint movement",
+      "kind": "joint",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0293.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0294",
+      "title": "Roots, stems and leaves",
+      "kind": "planttransport",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0294.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0295",
+      "title": "Flower anatomy",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0295.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0296",
+      "title": "Plant respiration",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0296.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0297",
+      "title": "Xylem and phloem",
+      "kind": "planttransport",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0297.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0298",
+      "title": "Tropic movements",
+      "kind": "tropism",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0298.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0299",
+      "title": "Pollination",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0299.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0300",
+      "title": "Fertilization in flowering plants",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0300.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 275,
-  "browserCheckedCount": 275,
-  "initialFrameVisualReviewedCount": 275,
+  "reviewedCount": 300,
+  "browserCheckedCount": 300,
+  "initialFrameVisualReviewedCount": 300,
   "visualFindings": [
     {
       "records": [
@@ -4588,6 +5038,55 @@
       ],
       "finding": "Cellular organization and transport were difficult to distinguish",
       "action": "Membrane double-line guide, wall edges, nuclear-envelope/chromatin guides, folded rough ER with attached ribosomes, Golgi stacks/vesicle, chloroplast thylakoids and selected presence/absence labels. Added diffusion-rate context and connected osmosis/diffusion chambers; directed net-transfer markers stop at equal concentration. Detailed nucleus/chloroplast/Golgi viewers retain their earlier cutaways and animated routes."
+    },
+    {
+      "records": [
+        "SA-0276",
+        "SA-0277",
+        "SA-0278",
+        "SA-0296"
+      ],
+      "finding": "Organelle and translation identities needed clearer structural context",
+      "action": "Retained organelle cutaways, folded membranes and presence labels; translation now displays mRNA with distinct ribosomal subunits, incoming amino acid and tRNA guides without a misleading DNA row."
+    },
+    {
+      "records": [
+        "SA-0279",
+        "SA-0280",
+        "SA-0285",
+        "SA-0286",
+        "SA-0288",
+        "SA-0289",
+        "SA-0290",
+        "SA-0291"
+      ],
+      "finding": "Division, development and signalling needed explicit process geometry",
+      "action": "Centrosome asters and cleavage-furrow guide with narrated mitosis windows synchronized to preparation, metaphase, anaphase and daughter formation; explicit meiosis ploidy labels; open vessel lumen; constant-volume cleavage spheres; spinal cross-section, response labels, neuron soma and dendrites."
+    },
+    {
+      "records": [
+        "SA-0281",
+        "SA-0282",
+        "SA-0283",
+        "SA-0284",
+        "SA-0287",
+        "SA-0292",
+        "SA-0293"
+      ],
+      "finding": "Body motion and circulation lacked visible structure and phase context",
+      "action": "Rounded representative axial/appendicular bones, fixed-length forearm motion, constant A-band and changing H-zone guides; four named heart valves with mutually exclusive filling/ejection gates and isovolumetric windows. Heart cycle is slowed five times for inspection; schematic timings are not a clinical pressure model. Breathing and joint viewers retain their working movement models."
+    },
+    {
+      "records": [
+        "SA-0294",
+        "SA-0295",
+        "SA-0297",
+        "SA-0298",
+        "SA-0299",
+        "SA-0300"
+      ],
+      "finding": "Plant transport and fertilization routes needed clearer containment and order",
+      "action": "Transparent stem contains xylem/phloem paths; anther source and growing pollen tube labelled; two sperm markers move only after the tube reaches the ovule and before fusion outcomes appear. The guided fertilization timeline follows a single ordered growth/delivery/fusion/development cycle with an ovule-to-seed guide. Polar nuclei and illustrative zygote/endosperm outcomes remain distinct."
     }
   ]
 }

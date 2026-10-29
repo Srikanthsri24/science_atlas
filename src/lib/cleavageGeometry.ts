@@ -1,0 +1,2 @@
+/** Representative equal-volume spheres; arrangement is schematic, not embryo morphometry. */
+export function cleavageGeometry(stage:number){const n=2**Math.max(0,Math.min(3,Math.floor(stage))),r=.55/Math.cbrt(n);const centres:[number,number,number][]=n===1?[[0,0,0]]:n===2?[[-r,0,0],[r,0,0]]:n===4?[[1,1,1],[-1,-1,1],[-1,1,-1],[1,-1,-1]].map(v=>v.map(x=>x*r/Math.sqrt(2))as[number,number,number]):Array.from({length:8},(_,i)=>[(i&1?1:-1)*r,(i&2?1:-1)*r,(i&4?1:-1)*r]as[number,number,number]);return{n,r,centres};}
