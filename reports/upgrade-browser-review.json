@@ -2838,11 +2838,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0201",
+      "title": "Carboxylic acids",
+      "kind": "organic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0201.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0202",
+      "title": "Amines",
+      "kind": "organic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0202.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0203",
+      "title": "Polymers",
+      "kind": "polymer",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0203.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0204",
+      "title": "Reaction mechanisms",
+      "kind": "organicreaction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0204.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0205",
+      "title": "Rocks",
+      "kind": "geology",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0205.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0206",
+      "title": "Minerals",
+      "kind": "geology",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0206.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0207",
+      "title": "Earth structure",
+      "kind": "geology",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0207.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0208",
+      "title": "Plate tectonics",
+      "kind": "geology",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0208.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0209",
+      "title": "Earthquakes",
+      "kind": "seismic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0209.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0210",
+      "title": "Volcanoes",
+      "kind": "geology",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0210.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0211",
+      "title": "Water cycle",
+      "kind": "watercycle",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0211.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0212",
+      "title": "Weather",
+      "kind": "weather",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0212.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0213",
+      "title": "Climate",
+      "kind": "climate",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0213.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0214",
+      "title": "Monsoons",
+      "kind": "weather",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0214.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0215",
+      "title": "Oceans",
+      "kind": "ocean",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0215.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0216",
+      "title": "Solar system",
+      "kind": "solar",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0216.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0217",
+      "title": "Sun",
+      "kind": "star",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0217.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0218",
+      "title": "Moon",
+      "kind": "moon",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0218.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0219",
+      "title": "Planets",
+      "kind": "solar",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0219.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0220",
+      "title": "Eclipses",
+      "kind": "eclipse",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0220.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0221",
+      "title": "Seasons",
+      "kind": "seasons",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0221.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0222",
+      "title": "Stars",
+      "kind": "star",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0222.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0223",
+      "title": "Galaxies",
+      "kind": "galaxy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0223.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0224",
+      "title": "Black holes",
+      "kind": "blackhole",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0224.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0225",
+      "title": "Space missions",
+      "kind": "mission",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0225.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 200,
-  "browserCheckedCount": 200,
-  "initialFrameVisualReviewedCount": 200,
+  "reviewedCount": 225,
+  "browserCheckedCount": 225,
+  "initialFrameVisualReviewedCount": 225,
   "visualFindings": [
     {
       "records": [
@@ -3097,6 +3547,55 @@
       ],
       "finding": "Coordination markers suggested continuous current and some multiple-bond strokes overlapped",
       "action": "Static shared-pair dots rotate with donor geometry; molecular formula, functional group and atom legend added; multiple-bond offsets perpendicular to bond direction preserve distinct strokes."
+    },
+    {
+      "records": [
+        "SA-0201",
+        "SA-0202",
+        "SA-0203",
+        "SA-0204"
+      ],
+      "finding": "Organic structures lacked enough process and identity context",
+      "action": "Formula/group captions remain attached to molecular extent; polymer repeat formula and motion scope labelled, esterification atom roles and simplified reaction sequence shown."
+    },
+    {
+      "records": [
+        "SA-0205",
+        "SA-0206",
+        "SA-0207",
+        "SA-0208",
+        "SA-0209",
+        "SA-0210"
+      ],
+      "finding": "Geological examples lacked specimen and internal-structure clarity",
+      "action": "Irregular specimen profiles, texture scan, mineral labels, four-layer 3D cutaway with 2D section, plate-boundary direction labels, seismic-arrival state and volcanic structure route."
+    },
+    {
+      "records": [
+        "SA-0211",
+        "SA-0212",
+        "SA-0213",
+        "SA-0214",
+        "SA-0215"
+      ],
+      "finding": "Water/weather state was hard to connect to process motion",
+      "action": "Land relief, named evaporation/precipitation/runoff paths, reservoir labels, parcel/environment temperature comparison, climate globe/net flux and density-labelled ocean circulation guides."
+    },
+    {
+      "records": [
+        "SA-0216",
+        "SA-0217",
+        "SA-0218",
+        "SA-0219",
+        "SA-0220",
+        "SA-0221",
+        "SA-0222",
+        "SA-0223",
+        "SA-0224",
+        "SA-0225"
+      ],
+      "finding": "Space demonstrations lacked spatial reference and quantitative visual alignment",
+      "action": "Past-position orbital trails, stellar temperature/radius/Wien labels, textured Earth/Moon and viewing direction, eclipse overlap/separation, fixed-tilt label, galaxy radius guides, proportional Schwarzschild/ISCO/orbit radii and mission tracks/antenna."
     }
   ]
 }

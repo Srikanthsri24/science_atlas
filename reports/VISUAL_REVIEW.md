@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-200/408 initial-frame visual inspections recorded; 200/408 upgraded-viewer browser checks recorded.
+225/408 initial-frame visual inspections recorded; 225/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -31,5 +31,9 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0176, SA-0177, SA-0179, SA-0180, SA-0181, SA-0182: 3D boundary-atom portions clipped to cell bounds with faint neighbouring spheres; ionic-fragment camera fits the widest staged assembly in landscape and portrait; 2D ownership fractions and explicit sharing arithmetic. Added host/guest threshold labels, radius construction guide and labelled defect inventory with visible vacancy cues.
 - SA-0184, SA-0186, SA-0187, SA-0188, SA-0189, SA-0194: Open electrolysis and half-cell vessels, DC-source guide and gas-volume readout; opposite salt-bridge ion paths and electrode half-equations. Added solution comparison glassware, adsorption vessel/coverage and reduction-process schematic with stoichiometric maximum.
 - SA-0193, SA-0195, SA-0196, SA-0197, SA-0198, SA-0199, SA-0200: Static shared-pair dots rotate with donor geometry; molecular formula, functional group and atom legend added; multiple-bond offsets perpendicular to bond direction preserve distinct strokes.
+- SA-0201, SA-0202, SA-0203, SA-0204: Formula/group captions remain attached to molecular extent; polymer repeat formula and motion scope labelled, esterification atom roles and simplified reaction sequence shown.
+- SA-0205, SA-0206, SA-0207, SA-0208, SA-0209, SA-0210: Irregular specimen profiles, texture scan, mineral labels, four-layer 3D cutaway with 2D section, plate-boundary direction labels, seismic-arrival state and volcanic structure route.
+- SA-0211, SA-0212, SA-0213, SA-0214, SA-0215: Land relief, named evaporation/precipitation/runoff paths, reservoir labels, parcel/environment temperature comparison, climate globe/net flux and density-labelled ocean circulation guides.
+- SA-0216, SA-0217, SA-0218, SA-0219, SA-0220, SA-0221, SA-0222, SA-0223, SA-0224, SA-0225: Past-position orbital trails, stellar temperature/radius/Wien labels, textured Earth/Moon and viewing direction, eclipse overlap/separation, fixed-tilt label, galaxy radius guides, proportional Schwarzschild/ISCO/orbit radii and mission tracks/antenna.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0201.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0226.
