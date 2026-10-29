@@ -5988,11 +5988,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0376",
+      "title": "Oxidation and reduction",
+      "kind": "galvanic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0376.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0377",
+      "title": "Acids, bases and salts",
+      "kind": "ph",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0377.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0378",
+      "title": "Neutralization",
+      "kind": "titration",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0378.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0379",
+      "title": "Corrosion",
+      "kind": "corrosion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0379.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0380",
+      "title": "Metals and non-metals",
+      "kind": "ionic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0380.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0381",
+      "title": "Precipitation",
+      "kind": "precipitation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0381.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0382",
+      "title": "Thermochemistry",
+      "kind": "calorimetry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0382.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0383",
+      "title": "Ionic equilibrium",
+      "kind": "weakacid",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0383.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0384",
+      "title": "Crystal systems",
+      "kind": "lattice",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0384.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0385",
+      "title": "Tetrahedral and octahedral voids",
+      "kind": "voids",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0385.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0386",
+      "title": "Point defects",
+      "kind": "defects",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0386.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0387",
+      "title": "Schottky and Frenkel defects",
+      "kind": "defects",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0387.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0388",
+      "title": "Phenols",
+      "kind": "organic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0388.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0389",
+      "title": "Ethers",
+      "kind": "organic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0389.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0390",
+      "title": "Biomolecules",
+      "kind": "organic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0390.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0391",
+      "title": "Named organic reactions",
+      "kind": "organicreaction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0391.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0392",
+      "title": "Environmental chemistry",
+      "kind": "pollution",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0392.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0393",
+      "title": "Industrial chemistry",
+      "kind": "converter",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0393.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0394",
+      "title": "Green chemistry",
+      "kind": "organicreaction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0394.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0395",
+      "title": "Soil science",
+      "kind": "soil",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0395.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0396",
+      "title": "Atmosphere",
+      "kind": "weather",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0396.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0397",
+      "title": "Weather systems",
+      "kind": "weather",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0397.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0398",
+      "title": "Planetary motion",
+      "kind": "orbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0398.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0399",
+      "title": "Satellites",
+      "kind": "spaceorbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0399.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0400",
+      "title": "Space exploration",
+      "kind": "spaceorbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0400.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 375,
-  "browserCheckedCount": 375,
-  "initialFrameVisualReviewedCount": 375,
+  "reviewedCount": 400,
+  "browserCheckedCount": 400,
+  "initialFrameVisualReviewedCount": 400,
   "visualFindings": [
     {
       "records": [
@@ -6584,6 +7034,49 @@
       ],
       "finding": "Gas-production animation needed direct equation and current accounting",
       "action": "Balanced overall water-electrolysis equation and Q=It substitution added to the vessel/collection-tube scene; gas markers stop at zero current. The ideal Faraday model remains explicit, with separate hydrogen/oxygen quantities."
+    },
+    {
+      "records": [
+        "SA-0376",
+        "SA-0377",
+        "SA-0378",
+        "SA-0380",
+        "SA-0383",
+        "SA-0384",
+        "SA-0385",
+        "SA-0386",
+        "SA-0387",
+        "SA-0388",
+        "SA-0389",
+        "SA-0390",
+        "SA-0391",
+        "SA-0392",
+        "SA-0393",
+        "SA-0394",
+        "SA-0396",
+        "SA-0397",
+        "SA-0398"
+      ],
+      "finding": "Remaining chemistry and Earth examples required individual upgraded-viewer inspection",
+      "action": "Individually reviewed half-cell/salt-bridge directions, pH scale, burette scale, ionic transfer, weak-acid equilibrium, crystal vectors/voids/defects, labelled organic functional groups/reaction routes (automatic inspection rotation bounded so rings remain readable in 2D; manual 3D orbit retained), pollution removal, converter channels, parcel/temperature weather guides and orbital trails. Reused tested scientific models without replacing their scope notes."
+    },
+    {
+      "records": [
+        "SA-0379",
+        "SA-0381",
+        "SA-0382"
+      ],
+      "finding": "Dissolution, equilibrium and energy direction needed explicit visual evidence",
+      "action": "Corrosion adds a liquid-film guide, Fe dissolution half-equation, along-metal electron guide and loss/current/time caption; zero current stops ion/electron traffic. Precipitation labels Q versus Ksp and species identity. Calorimetry has graduated temperature marks and distinct positive solution heat/negative reaction heat captions."
+    },
+    {
+      "records": [
+        "SA-0395",
+        "SA-0399",
+        "SA-0400"
+      ],
+      "finding": "Column flow and satellite diagrams lacked apparatus/motion context",
+      "action": "Saturated column wall/screens, irregular representative grains, length/porosity and Darcy-flow labels. Satellites gain solar panels/antenna and perpendicular tangential-velocity/inward-acceleration guides; enlarged satellite geometry remains illustrative."
     }
   ]
 }
