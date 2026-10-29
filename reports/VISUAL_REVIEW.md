@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-400/408 initial-frame visual inspections recorded; 400/408 upgraded-viewer browser checks recorded.
+408/408 initial-frame visual inspections recorded; 408/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -61,5 +61,6 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0376, SA-0377, SA-0378, SA-0380, SA-0383, SA-0384, SA-0385, SA-0386, SA-0387, SA-0388, SA-0389, SA-0390, SA-0391, SA-0392, SA-0393, SA-0394, SA-0396, SA-0397, SA-0398: Individually reviewed half-cell/salt-bridge directions, pH scale, burette scale, ionic transfer, weak-acid equilibrium, crystal vectors/voids/defects, labelled organic functional groups/reaction routes (automatic inspection rotation bounded so rings remain readable in 2D; manual 3D orbit retained), pollution removal, converter channels, parcel/temperature weather guides and orbital trails. Reused tested scientific models without replacing their scope notes.
 - SA-0379, SA-0381, SA-0382: Corrosion adds a liquid-film guide, Fe dissolution half-equation, along-metal electron guide and loss/current/time caption; zero current stops ion/electron traffic. Precipitation labels Q versus Ksp and species identity. Calorimetry has graduated temperature marks and distinct positive solution heat/negative reaction heat captions.
 - SA-0395, SA-0399, SA-0400: Saturated column wall/screens, irregular representative grains, length/porosity and Darcy-flow labels. Satellites gain solar panels/antenna and perpendicular tangential-velocity/inward-acceleration guides; enlarged satellite geometry remains illustrative.
+- SA-0401, SA-0402, SA-0403, SA-0404, SA-0405, SA-0406, SA-0407, SA-0408: Classifier now shows both normalized feature scales; robot shows target/actual error span; nanoparticle view explicitly labels radius/edge, sphere/cube S/V formula, representative nine-particle drawing and total exposed surface. Individually reviewed sensor encoding, renewable output/stopped inactive rotor, lever equilibrium, material buoyancy and satellite tangential/inward guides.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0401.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. All 408 concepts have recorded initial-frame inspections. Further quality review covers selected 2D frames and animation states; this is not every-second or independent expert certification.

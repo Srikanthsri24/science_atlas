@@ -6438,11 +6438,155 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0401",
+      "title": "Machine learning fundamentals",
+      "kind": "classifier",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0401.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0402",
+      "title": "Internet of Things",
+      "kind": "digital",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0402.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0403",
+      "title": "Automation",
+      "kind": "robot",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0403.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0404",
+      "title": "Renewable energy systems",
+      "kind": "renewable",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0404.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0405",
+      "title": "Engineering mechanisms",
+      "kind": "lever",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0405.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0406",
+      "title": "Materials science",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0406.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0407",
+      "title": "Nanotechnology",
+      "kind": "nano",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0407.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0408",
+      "title": "Aerospace technology",
+      "kind": "spaceorbit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0408.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 400,
-  "browserCheckedCount": 400,
-  "initialFrameVisualReviewedCount": 400,
+  "reviewedCount": 408,
+  "browserCheckedCount": 408,
+  "initialFrameVisualReviewedCount": 408,
   "visualFindings": [
     {
       "records": [
@@ -7077,6 +7221,20 @@
       ],
       "finding": "Column flow and satellite diagrams lacked apparatus/motion context",
       "action": "Saturated column wall/screens, irregular representative grains, length/porosity and Darcy-flow labels. Satellites gain solar panels/antenna and perpendicular tangential-velocity/inward-acceleration guides; enlarged satellite geometry remains illustrative."
+    },
+    {
+      "records": [
+        "SA-0401",
+        "SA-0402",
+        "SA-0403",
+        "SA-0404",
+        "SA-0405",
+        "SA-0406",
+        "SA-0407",
+        "SA-0408"
+      ],
+      "finding": "Applied-science examples needed final individual viewer review and stronger measurement context",
+      "action": "Classifier now shows both normalized feature scales; robot shows target/actual error span; nanoparticle view explicitly labels radius/edge, sphere/cube S/V formula, representative nine-particle drawing and total exposed surface. Individually reviewed sensor encoding, renewable output/stopped inactive rotor, lever equilibrium, material buoyancy and satellite tangential/inward guides."
     }
   ]
 }
