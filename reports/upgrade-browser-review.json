@@ -3738,11 +3738,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0251",
+      "title": "Simple machines",
+      "kind": "lever",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0251.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0252",
+      "title": "Robotics",
+      "kind": "robot",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0252.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0253",
+      "title": "Sensors",
+      "kind": "robot",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0253.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0254",
+      "title": "Electronics",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0254.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0255",
+      "title": "AI basics",
+      "kind": "classifier",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0255.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0256",
+      "title": "Computing",
+      "kind": "digital",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0256.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0257",
+      "title": "Engineering design",
+      "kind": "lever",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0257.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0258",
+      "title": "Living and non-living things",
+      "kind": "classification",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0258.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0259",
+      "title": "Human body basics",
+      "kind": "bodyatlas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0259.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0260",
+      "title": "Health and hygiene",
+      "kind": "hygiene",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0260.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0261",
+      "title": "Weather and seasons",
+      "kind": "weather",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0261.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0262",
+      "title": "Earth, Sun and Moon",
+      "kind": "moon",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0262.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0263",
+      "title": "Environment and conservation",
+      "kind": "ecosystem",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0263.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0264",
+      "title": "Objects and their properties",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0264.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0265",
+      "title": "Cell discovery and cell theory",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0265.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0266",
+      "title": "Prokaryotic and eukaryotic cells",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0266.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0267",
+      "title": "Plant and animal cells",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0267.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0268",
+      "title": "Cell membrane and transport",
+      "kind": "diffusion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0268.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0269",
+      "title": "Diffusion and osmosis",
+      "kind": "transport",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0269.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0270",
+      "title": "Cell wall",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0270.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0271",
+      "title": "Nucleus",
+      "kind": "cell",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0271.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0272",
+      "title": "Mitochondria",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0272.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0273",
+      "title": "Chloroplasts",
+      "kind": "photosynthesis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0273.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0274",
+      "title": "Endoplasmic reticulum",
+      "kind": "cellstructure",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0274.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0275",
+      "title": "Golgi apparatus",
+      "kind": "cell",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0275.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 250,
-  "browserCheckedCount": 250,
-  "initialFrameVisualReviewedCount": 250,
+  "reviewedCount": 275,
+  "browserCheckedCount": 275,
+  "initialFrameVisualReviewedCount": 275,
   "visualFindings": [
     {
       "records": [
@@ -4095,6 +4545,49 @@
       ],
       "finding": "Investigation and graph views needed coordinate context",
       "action": "Pendulum retains analytic trail and energy exchange; projectile views now include coordinate labels/range graduations and synchronized airborne height/time and vertical-velocity/time plots in both viewers and video capture, alongside the interactive motion graph."
+    },
+    {
+      "records": [
+        "SA-0251",
+        "SA-0252",
+        "SA-0253",
+        "SA-0254",
+        "SA-0255",
+        "SA-0256",
+        "SA-0257"
+      ],
+      "finding": "Engineering and digital views lacked visible measurement/rule context",
+      "action": "Lever fulcrum/base, suspension, distances and forces; robot sensor/position markers and track scale; equal-distance classifier boundary with common feature scale; explicit bit indicators and decimal output. Circuit retains its earlier working charge/current animation."
+    },
+    {
+      "records": [
+        "SA-0258",
+        "SA-0259",
+        "SA-0260",
+        "SA-0261",
+        "SA-0262",
+        "SA-0263",
+        "SA-0264"
+      ],
+      "finding": "Foundational biological/process examples needed clearer identities and routes",
+      "action": "Living-status observation labels, named body organs and illustrative coordination route, mode-specific hygiene symbols, recognizable ecosystem organisms and full four-level reference-chain budget. Weather, Moon and buoyancy retain their upgraded apparatus, globe/phase and camera/readout context."
+    },
+    {
+      "records": [
+        "SA-0265",
+        "SA-0266",
+        "SA-0267",
+        "SA-0268",
+        "SA-0269",
+        "SA-0270",
+        "SA-0271",
+        "SA-0272",
+        "SA-0273",
+        "SA-0274",
+        "SA-0275"
+      ],
+      "finding": "Cellular organization and transport were difficult to distinguish",
+      "action": "Membrane double-line guide, wall edges, nuclear-envelope/chromatin guides, folded rough ER with attached ribosomes, Golgi stacks/vesicle, chloroplast thylakoids and selected presence/absence labels. Added diffusion-rate context and connected osmosis/diffusion chambers; directed net-transfer markers stop at equal concentration. Detailed nucleus/chloroplast/Golgi viewers retain their earlier cutaways and animated routes."
     }
   ]
 }

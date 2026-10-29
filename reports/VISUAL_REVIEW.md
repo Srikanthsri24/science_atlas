@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-250/408 initial-frame visual inspections recorded; 250/408 upgraded-viewer browser checks recorded.
+275/408 initial-frame visual inspections recorded; 275/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -39,5 +39,8 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0232, SA-0233, SA-0234, SA-0235, SA-0236, SA-0237, SA-0238, SA-0246: Jointed legs/feet, cat muzzle/whiskers/tail, fish fin and trait labels; transparent sensory teaching head, distinct bread/lentil/fruit/oil geometry, particle chamber, shelter temperature/heat transfer labels and corrected SVG box-rotation sign so roofs match the 3D slope. Gas retains its upgraded apparatus; buoyancy camera now fits the complete tank/hanger envelope in landscape and portrait, alongside its physical readouts.
 - SA-0239, SA-0240, SA-0241, SA-0242, SA-0243, SA-0244, SA-0245: Force/friction/acceleration labels, object/shadow comparison, sound-source diaphragm, textured sunlit hemisphere/latitude guide, scenario-specific safety apparatus, and measurement reference/reading/error bounds.
 - SA-0247, SA-0248, SA-0249, SA-0250: Pendulum retains analytic trail and energy exchange; projectile views now include coordinate labels/range graduations and synchronized airborne height/time and vertical-velocity/time plots in both viewers and video capture, alongside the interactive motion graph.
+- SA-0251, SA-0252, SA-0253, SA-0254, SA-0255, SA-0256, SA-0257: Lever fulcrum/base, suspension, distances and forces; robot sensor/position markers and track scale; equal-distance classifier boundary with common feature scale; explicit bit indicators and decimal output. Circuit retains its earlier working charge/current animation.
+- SA-0258, SA-0259, SA-0260, SA-0261, SA-0262, SA-0263, SA-0264: Living-status observation labels, named body organs and illustrative coordination route, mode-specific hygiene symbols, recognizable ecosystem organisms and full four-level reference-chain budget. Weather, Moon and buoyancy retain their upgraded apparatus, globe/phase and camera/readout context.
+- SA-0265, SA-0266, SA-0267, SA-0268, SA-0269, SA-0270, SA-0271, SA-0272, SA-0273, SA-0274, SA-0275: Membrane double-line guide, wall edges, nuclear-envelope/chromatin guides, folded rough ER with attached ribosomes, Golgi stacks/vesicle, chloroplast thylakoids and selected presence/absence labels. Added diffusion-rate context and connected osmosis/diffusion chambers; directed net-transfer markers stop at equal concentration. Detailed nucleus/chloroplast/Golgi viewers retain their earlier cutaways and animated routes.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0251.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0276.

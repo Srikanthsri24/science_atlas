@@ -1,0 +1,2 @@
+/** Clip the Euclidean nearest-centroid tie line to a normalized unit square. */
+export function centroidBoundary(a:[number,number],b:[number,number]){const nx=b[0]-a[0],ny=b[1]-a[1],c=(b[0]**2+b[1]**2-a[0]**2-a[1]**2)/2,points:[number,number][]=[];const add=(x:number,y:number)=>{if(x>=-1e-10&&x<=1+1e-10&&y>=-1e-10&&y<=1+1e-10&&!points.some(p=>Math.hypot(p[0]-x,p[1]-y)<1e-9))points.push([Math.max(0,Math.min(1,x)),Math.max(0,Math.min(1,y))])};if(Math.abs(ny)>1e-12){add(0,c/ny);add(1,(c-nx)/ny)}if(Math.abs(nx)>1e-12){add(c/nx,0);add((c-ny)/nx,1)}return points.slice(0,2)}
