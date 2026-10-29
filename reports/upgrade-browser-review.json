@@ -3288,11 +3288,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0226",
+      "title": "Natural resources",
+      "kind": "reservoir",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0226.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0227",
+      "title": "Climate change",
+      "kind": "climate",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0227.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0228",
+      "title": "Waste management",
+      "kind": "waste",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0228.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0229",
+      "title": "Renewable energy",
+      "kind": "renewable",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0229.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0230",
+      "title": "Water conservation",
+      "kind": "reservoir",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0230.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0231",
+      "title": "Plants around us",
+      "kind": "transpiration",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0231.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0232",
+      "title": "Animals around us",
+      "kind": "animals",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0232.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0233",
+      "title": "Our senses",
+      "kind": "senses",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0233.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0234",
+      "title": "Food",
+      "kind": "food",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0234.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0235",
+      "title": "Water",
+      "kind": "waterstates",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0235.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0236",
+      "title": "Air",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0236.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0237",
+      "title": "Shelter",
+      "kind": "house",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0237.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0238",
+      "title": "Materials",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0238.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0239",
+      "title": "Push and pull",
+      "kind": "force",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0239.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0240",
+      "title": "Light and shadows",
+      "kind": "shadow",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0240.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0241",
+      "title": "Sound",
+      "kind": "sound",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0241.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0242",
+      "title": "Day and night",
+      "kind": "daynight",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0242.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0243",
+      "title": "Safety",
+      "kind": "safety",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0243.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0244",
+      "title": "Observation",
+      "kind": "measurement",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0244.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0245",
+      "title": "Measurement",
+      "kind": "measurement",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0245.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0246",
+      "title": "Classification",
+      "kind": "animals",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0246.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0247",
+      "title": "Scientific method",
+      "kind": "pendulum",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0247.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0248",
+      "title": "Experiments",
+      "kind": "pendulum",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0248.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0249",
+      "title": "Graphs",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0249.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0250",
+      "title": "Data interpretation",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0250.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 225,
-  "browserCheckedCount": 225,
-  "initialFrameVisualReviewedCount": 225,
+  "reviewedCount": 250,
+  "browserCheckedCount": 250,
+  "initialFrameVisualReviewedCount": 250,
   "visualFindings": [
     {
       "records": [
@@ -3596,6 +4046,55 @@
       ],
       "finding": "Space demonstrations lacked spatial reference and quantitative visual alignment",
       "action": "Past-position orbital trails, stellar temperature/radius/Wien labels, textured Earth/Moon and viewing direction, eclipse overlap/separation, fixed-tilt label, galaxy radius guides, proportional Schwarzschild/ISCO/orbit radii and mission tracks/antenna."
+    },
+    {
+      "records": [
+        "SA-0226",
+        "SA-0227",
+        "SA-0228",
+        "SA-0229",
+        "SA-0230",
+        "SA-0231"
+      ],
+      "finding": "Resource-transfer motion could contradict zero calculated flow",
+      "action": "Storage tank/ruler and balance labels, collection bins and stock accounting, renewable output labels with inactive rotor stopped, branching roots/soil and transpiration paths stopped at zero calculated water loss; climate retains globe and flux readout."
+    },
+    {
+      "records": [
+        "SA-0232",
+        "SA-0233",
+        "SA-0234",
+        "SA-0235",
+        "SA-0236",
+        "SA-0237",
+        "SA-0238",
+        "SA-0246"
+      ],
+      "finding": "Foundational examples needed more recognizable object and structure context",
+      "action": "Jointed legs/feet, cat muzzle/whiskers/tail, fish fin and trait labels; transparent sensory teaching head, distinct bread/lentil/fruit/oil geometry, particle chamber, shelter temperature/heat transfer labels and corrected SVG box-rotation sign so roofs match the 3D slope. Gas retains its upgraded apparatus; buoyancy camera now fits the complete tank/hanger envelope in landscape and portrait, alongside its physical readouts."
+    },
+    {
+      "records": [
+        "SA-0239",
+        "SA-0240",
+        "SA-0241",
+        "SA-0242",
+        "SA-0243",
+        "SA-0244",
+        "SA-0245"
+      ],
+      "finding": "Physical changes and measurement outcomes were disconnected from the scene",
+      "action": "Force/friction/acceleration labels, object/shadow comparison, sound-source diaphragm, textured sunlit hemisphere/latitude guide, scenario-specific safety apparatus, and measurement reference/reading/error bounds."
+    },
+    {
+      "records": [
+        "SA-0247",
+        "SA-0248",
+        "SA-0249",
+        "SA-0250"
+      ],
+      "finding": "Investigation and graph views needed coordinate context",
+      "action": "Pendulum retains analytic trail and energy exchange; projectile views now include coordinate labels/range graduations and synchronized airborne height/time and vertical-velocity/time plots in both viewers and video capture, alongside the interactive motion graph."
     }
   ]
 }

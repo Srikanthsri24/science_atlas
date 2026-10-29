@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-225/408 initial-frame visual inspections recorded; 225/408 upgraded-viewer browser checks recorded.
+250/408 initial-frame visual inspections recorded; 250/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -35,5 +35,9 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0205, SA-0206, SA-0207, SA-0208, SA-0209, SA-0210: Irregular specimen profiles, texture scan, mineral labels, four-layer 3D cutaway with 2D section, plate-boundary direction labels, seismic-arrival state and volcanic structure route.
 - SA-0211, SA-0212, SA-0213, SA-0214, SA-0215: Land relief, named evaporation/precipitation/runoff paths, reservoir labels, parcel/environment temperature comparison, climate globe/net flux and density-labelled ocean circulation guides.
 - SA-0216, SA-0217, SA-0218, SA-0219, SA-0220, SA-0221, SA-0222, SA-0223, SA-0224, SA-0225: Past-position orbital trails, stellar temperature/radius/Wien labels, textured Earth/Moon and viewing direction, eclipse overlap/separation, fixed-tilt label, galaxy radius guides, proportional Schwarzschild/ISCO/orbit radii and mission tracks/antenna.
+- SA-0226, SA-0227, SA-0228, SA-0229, SA-0230, SA-0231: Storage tank/ruler and balance labels, collection bins and stock accounting, renewable output labels with inactive rotor stopped, branching roots/soil and transpiration paths stopped at zero calculated water loss; climate retains globe and flux readout.
+- SA-0232, SA-0233, SA-0234, SA-0235, SA-0236, SA-0237, SA-0238, SA-0246: Jointed legs/feet, cat muzzle/whiskers/tail, fish fin and trait labels; transparent sensory teaching head, distinct bread/lentil/fruit/oil geometry, particle chamber, shelter temperature/heat transfer labels and corrected SVG box-rotation sign so roofs match the 3D slope. Gas retains its upgraded apparatus; buoyancy camera now fits the complete tank/hanger envelope in landscape and portrait, alongside its physical readouts.
+- SA-0239, SA-0240, SA-0241, SA-0242, SA-0243, SA-0244, SA-0245: Force/friction/acceleration labels, object/shadow comparison, sound-source diaphragm, textured sunlit hemisphere/latitude guide, scenario-specific safety apparatus, and measurement reference/reading/error bounds.
+- SA-0247, SA-0248, SA-0249, SA-0250: Pendulum retains analytic trail and energy exchange; projectile views now include coordinate labels/range graduations and synchronized airborne height/time and vertical-velocity/time plots in both viewers and video capture, alongside the interactive motion graph.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0226.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0251.

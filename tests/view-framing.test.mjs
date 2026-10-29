@@ -2,3 +2,5 @@ import test from'node:test';import assert from'node:assert/strict';import{loadTs
 const w={things:[{shape:'box',at:[2,0,0],size:[4,2,1],color:'red',inspect:'Body'},{shape:'sphere',at:[-4,0,0],radius:.5,color:'blue',inspect:'Probe'},{shape:'text',at:[100,100,100],text:'Label',color:'white'}],flows:[],metrics:[],physical:'',focus:[]};
 test('portrait camera preserves horizontal geometry and ignores far-away text labels',()=>{const a=worldFrame(w,16/9),b=worldFrame(w,9/16);assert.ok(b.distance>a.distance);assert.ok(a.distance<20);assert.deepEqual(a.centre,[-.25,0,0])});
 test('selected structure receives a tighter centred frame without changing scientific state',()=>{const before=JSON.stringify(w),all=worldFrame(w,1),part=worldFrame(w,1,'Probe');assert.deepEqual(part.centre,[-4,0,0]);assert.ok(part.distance<all.distance);assert.equal(JSON.stringify(w),before)});
+
+const{buoyancyFrame}=await loadTs('src/lib/viewFraming.ts');test('buoyancy frame includes the complete tank and hanger in landscape and portrait',()=>{const a=buoyancyFrame(16/9),b=buoyancyFrame(9/16);assert.ok(a.distance>9);assert.ok(b.distance>a.distance);assert.ok(Math.abs(a.centre[1]+.4)<1e-10)});
