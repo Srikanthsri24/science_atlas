@@ -23,6 +23,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm test
       - run: pnpm review
+      - run: pnpm review:practicals
       - run: pnpm validate
       - run: pnpm build --base=/science_atlas/
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6

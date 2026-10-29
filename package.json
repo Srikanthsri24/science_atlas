@@ -11,7 +11,8 @@
     "validate": "node scripts/validate-inventory.mjs && node scripts/concept-ledger.mjs",
     "predev": "node scripts/prepare-public.mjs",
     "prebuild": "node scripts/prepare-public.mjs",
-    "review": "node scripts/review-concepts.mjs"
+    "review": "node scripts/review-concepts.mjs",
+    "review:practicals": "node scripts/review-practicals.mjs"
   },
   "dependencies": {
     "react": "^19.1.0",

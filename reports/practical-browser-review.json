@@ -1,5 +1,5 @@
 {
-  "scope": "Fresh phone-viewport browser checks of working text, captured observation table and report control; not physical-device or independent scientific certification",
+  "scope": "Fresh 390×844 browser checks of all 408 practical workflows, plus shared populated-table layout checks. Report contents are automated for all concepts and representative actual downloads were verified. Not physical-device or independent expert certification.",
   "records": [
     {
       "id": "SA-0001",
@@ -5200,6 +5200,156 @@
       "width": 390,
       "working": 515,
       "passed": true
+    },
+    {
+      "id": "SA-0401",
+      "kind": "classifier",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 6,
+      "trialRows": 1,
+      "width": 390,
+      "working": 593,
+      "passed": true
+    },
+    {
+      "id": "SA-0402",
+      "kind": "digital",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 8,
+      "trialRows": 1,
+      "width": 390,
+      "working": 431,
+      "passed": true
+    },
+    {
+      "id": "SA-0403",
+      "kind": "robot",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 7,
+      "trialRows": 1,
+      "width": 390,
+      "working": 514,
+      "passed": true
+    },
+    {
+      "id": "SA-0404",
+      "kind": "renewable",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 8,
+      "trialRows": 1,
+      "width": 390,
+      "working": 648,
+      "passed": true
+    },
+    {
+      "id": "SA-0405",
+      "kind": "lever",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 6,
+      "trialRows": 1,
+      "width": 390,
+      "working": 571,
+      "passed": true
+    },
+    {
+      "id": "SA-0406",
+      "kind": "buoyancy",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 12,
+      "trialRows": 1,
+      "width": 390,
+      "working": 716,
+      "passed": true
+    },
+    {
+      "id": "SA-0407",
+      "kind": "nano",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 7,
+      "trialRows": 1,
+      "width": 390,
+      "working": 479,
+      "passed": true
+    },
+    {
+      "id": "SA-0408",
+      "kind": "spaceorbit",
+      "badWorking": false,
+      "calculationPanels": 1,
+      "reportButton": true,
+      "scroll": 390,
+      "tableHeaders": 9,
+      "trialRows": 1,
+      "width": 390,
+      "working": 515,
+      "passed": true
+    }
+  ],
+  "total": 408,
+  "passed": 408,
+  "sharedLayoutChecks": [
+    {
+      "overflowingWorking": [],
+      "scrollWidth": 320,
+      "table": 911,
+      "tableContainer": 206,
+      "width": 320
+    },
+    {
+      "overflowingWorking": [],
+      "scrollWidth": 768,
+      "table": 911,
+      "tableContainer": 426,
+      "width": 768
+    },
+    {
+      "overflowingWorking": [],
+      "scrollWidth": 1366,
+      "table": 934,
+      "tableContainer": 934,
+      "width": 1366
+    },
+    {
+      "overflowingWorking": [],
+      "scrollWidth": 1920,
+      "table": 1468,
+      "tableContainer": 1468,
+      "width": 1920
+    }
+  ],
+  "downloadChecks": [
+    {
+      "id": "SA-0408",
+      "kind": "quantitative",
+      "downloaded": true,
+      "contentsVerified": true
+    },
+    {
+      "id": "SA-0001",
+      "kind": "qualitative",
+      "downloaded": true,
+      "contentsVerified": true
     }
   ]
 }
