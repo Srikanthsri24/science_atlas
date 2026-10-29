@@ -1100,11 +1100,443 @@
       "screenshot": "SA-0100.png",
       "status": "upgrade_browser_checks_passed",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0101",
+      "title": "Laws of reflection",
+      "kind": "mirrors",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0101.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0102",
+      "title": "Plane mirrors",
+      "kind": "planemirror",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0102.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0103",
+      "title": "Concave mirrors",
+      "kind": "mirrors",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0103.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0104",
+      "title": "Convex mirrors",
+      "kind": "mirrors",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0104.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0105",
+      "title": "Real life examples",
+      "kind": "planemirror",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0105.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0106",
+      "title": "Refraction",
+      "kind": "refraction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0106.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0107",
+      "title": "Lenses",
+      "kind": "lens",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0107.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected",
+      "realTimePlaybackCheck": {
+        "speed": 1,
+        "completedSeconds": 100,
+        "stoppedAtEnd": true,
+        "visibleTab": true,
+        "finalCaption": "At do=f for a converging lens, output rays are parallel."
+      }
+    },
+    {
+      "id": "SA-0108",
+      "title": "Human eye",
+      "kind": "eye",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0108.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0109",
+      "title": "Prisms",
+      "kind": "waveoptics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0109.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0110",
+      "title": "Interference",
+      "kind": "waveoptics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0110.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0111",
+      "title": "Diffraction",
+      "kind": "waveoptics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0111.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0112",
+      "title": "Echoes",
+      "kind": "echo",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0112.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0113",
+      "title": "SONAR",
+      "kind": "sonar",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0113.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0114",
+      "title": "Reverberations",
+      "kind": "reverb",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0114.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0115",
+      "title": "Effective length of seconds pendulum",
+      "kind": "pendulum",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0115.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0116",
+      "title": "Variation of time period of a simple pendulum",
+      "kind": "pendulum",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0116.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0117",
+      "title": "Pendulum wave",
+      "kind": "pendarray",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0117.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0118",
+      "title": "Simple harmonic motion",
+      "kind": "spring",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0118.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0119",
+      "title": "Wave motion",
+      "kind": "waves",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0119.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0120",
+      "title": "Resonance",
+      "kind": "resonator",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0120.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0121",
+      "title": "Doppler effect",
+      "kind": "doppler",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0121.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0122",
+      "title": "Heat",
+      "kind": "conduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0122.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0123",
+      "title": "Temperature",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0123.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0124",
+      "title": "Heat transfer",
+      "kind": "conduction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0124.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0125",
+      "title": "Thermal expansion",
+      "kind": "expansion",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0125.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 100,
-  "browserCheckedCount": 100,
-  "initialFrameVisualReviewedCount": 100,
+  "reviewedCount": 125,
+  "browserCheckedCount": 125,
+  "initialFrameVisualReviewedCount": 125,
   "visualFindings": [
     {
       "records": [
@@ -1157,6 +1589,73 @@
       ],
       "finding": "Cradle bobs lacked apparatus context",
       "action": "Added base, support frame, fixed hangers, paired suspension strings and metallic bobs; existing ideal transfer model retained."
+    },
+    {
+      "records": [
+        "SA-0101",
+        "SA-0103",
+        "SA-0104",
+        "SA-0107"
+      ],
+      "finding": "Optical benches lacked apparatus context and clear propagating light",
+      "action": "Shared tested paraxial ray geometry in 2D and 3D, mounted mirror/lens, calibrated bench, visible object/image, real-path pulse markers, stationary dashed virtual extensions and larger labels."
+    },
+    {
+      "records": [
+        "SA-0102",
+        "SA-0105"
+      ],
+      "finding": "Plane-mirror virtual rays looked like physical transmitted rays",
+      "action": "Mounted mirror frame, distance labels, ghosted virtual image, dashed backward constructions and local-normal guides; light markers remain on the reflected side."
+    },
+    {
+      "records": [
+        "SA-0106",
+        "SA-0108"
+      ],
+      "finding": "Optical angle/reference context unclear; rendered retinal location mismatched the stated scale",
+      "action": "Added refraction angle arcs and normal label. Aligned eye retinal vertex with the 17 mm model scale and added curved retinal/corneal outlines and focus-offset annotation."
+    },
+    {
+      "records": [
+        "SA-0109",
+        "SA-0110",
+        "SA-0111"
+      ],
+      "finding": "Detection screen was visually too narrow to interpret",
+      "action": "Added supported detection-screen geometry and a magnified intensity profile; retains Fraunhofer and prism assumptions."
+    },
+    {
+      "records": [
+        "SA-0112",
+        "SA-0113",
+        "SA-0114"
+      ],
+      "finding": "Sound direction and decay were difficult to read",
+      "action": "Transducer/source detail, outbound/return labels, range/delay labels, room boundaries and decaying reverberation-marker brightness alongside the pressure-envelope bar."
+    },
+    {
+      "records": [
+        "SA-0115",
+        "SA-0116",
+        "SA-0117",
+        "SA-0118",
+        "SA-0119",
+        "SA-0120",
+        "SA-0121"
+      ],
+      "finding": "Oscillation/wave demonstrations lacked supporting context and distinct motion cues",
+      "action": "Analytic pendulum trail, common suspension frame, spring energy exchange, wave material-velocity arrow and phase-crest marker, oscillator track and readable phase/gain, bounded continuous-history Doppler fronts."
+    },
+    {
+      "records": [
+        "SA-0122",
+        "SA-0123",
+        "SA-0124",
+        "SA-0125"
+      ],
+      "finding": "Thermal scenes lacked apparatus and had overly crude motion cues",
+      "action": "Insulated block support and heat-flow annotation; illustrative thermal vibration uses absolute temperature; gas chamber has front/back walls and isotropic temperature speed scaling; rod comparison bench includes fixed alignment and a moving-end pointer."
     }
   ]
 }
