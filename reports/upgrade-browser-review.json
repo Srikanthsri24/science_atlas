@@ -4638,11 +4638,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0301",
+      "title": "Seed germination",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0301.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0302",
+      "title": "Plant growth",
+      "kind": "flower",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0302.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0303",
+      "title": "Invertebrates and vertebrates",
+      "kind": "animals",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0303.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0304",
+      "title": "Animal respiration",
+      "kind": "breathing",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0304.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0305",
+      "title": "Animal circulation",
+      "kind": "heart",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0305.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0306",
+      "title": "Aquaculture",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0306.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0307",
+      "title": "Poultry farming",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0307.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0308",
+      "title": "Apiculture",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0308.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0309",
+      "title": "Sericulture",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0309.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0310",
+      "title": "Livestock management",
+      "kind": "husbandry",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0310.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0311",
+      "title": "DNA replication",
+      "kind": "replication",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0311.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0312",
+      "title": "Protein synthesis",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0312.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0313",
+      "title": "Genetic variation",
+      "kind": "genetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0313.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0314",
+      "title": "Natural selection",
+      "kind": "evolution",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0314.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0315",
+      "title": "Human evolution",
+      "kind": "humanlineage",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0315.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0316",
+      "title": "Molecular genetics",
+      "kind": "geneticcode",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0316.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0317",
+      "title": "Bacteria",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0317.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0318",
+      "title": "Viruses",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0318.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0319",
+      "title": "Fungi",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0319.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0320",
+      "title": "Protozoa",
+      "kind": "microbe",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0320.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0321",
+      "title": "Microbial applications",
+      "kind": "fermentation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0321.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0322",
+      "title": "Conservation biology",
+      "kind": "ecosystem",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0322.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0323",
+      "title": "Physical quantities and measurement",
+      "kind": "measurement",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0323.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0324",
+      "title": "Units and dimensions",
+      "kind": "measurement",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0324.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0325",
+      "title": "Scalars and vectors",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0325.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 300,
-  "browserCheckedCount": 300,
-  "initialFrameVisualReviewedCount": 300,
+  "reviewedCount": 325,
+  "browserCheckedCount": 325,
+  "initialFrameVisualReviewedCount": 325,
   "visualFindings": [
     {
       "records": [
@@ -5087,6 +5537,61 @@
       ],
       "finding": "Plant transport and fertilization routes needed clearer containment and order",
       "action": "Transparent stem contains xylem/phloem paths; anther source and growing pollen tube labelled; two sperm markers move only after the tube reaches the ovule and before fusion outcomes appear. The guided fertilization timeline follows a single ordered growth/delivery/fusion/development cycle with an ovule-to-seed guide. Polar nuclei and illustrative zygote/endosperm outcomes remain distinct."
+    },
+    {
+      "records": [
+        "SA-0301",
+        "SA-0302"
+      ],
+      "finding": "Germination could restart under later developmental captions",
+      "action": "One ordered guided growth sequence separates embryo/water uptake, radicle and shoot windows; soil reference, lateral-root guides and stage labels added."
+    },
+    {
+      "records": [
+        "SA-0303",
+        "SA-0304",
+        "SA-0305",
+        "SA-0313",
+        "SA-0322",
+        "SA-0323",
+        "SA-0324",
+        "SA-0325"
+      ],
+      "finding": "Shared examples required individual route and state review",
+      "action": "Individually checked the upgraded animal trait geometry, breathing apparatus, gated circulation, Punnett probability board, conservation chain budget, measurement/parallax apparatus and projectile vector/graph views; their existing improved models are reused rather than duplicating science."
+    },
+    {
+      "records": [
+        "SA-0306",
+        "SA-0307",
+        "SA-0308",
+        "SA-0309",
+        "SA-0310"
+      ],
+      "finding": "Animal-management illustrations were too abstract",
+      "action": "Fish tank boundary, aeration and attached tail/fin/eye geometry; poultry comb/beak/feathers; hexagonal comb and moving bee wings/legs; silkworm legs/host-leaf veins/cocoon; livestock hoof/muzzle/ear/tail context. Care labels replace unrelated bottom traffic."
+    },
+    {
+      "records": [
+        "SA-0311",
+        "SA-0312",
+        "SA-0314",
+        "SA-0315",
+        "SA-0316"
+      ],
+      "finding": "Genetic information and ancestry lacked representation context",
+      "action": "Two parental and two new complementary backbones with antiparallel labels and semiconservative caption; distinct ribosomal subunits and mRNA retained; selection graph axes, ticks and generation scale; ancestry branch points explicitly labelled, with inspection markers distinguished from individuals."
+    },
+    {
+      "records": [
+        "SA-0317",
+        "SA-0318",
+        "SA-0319",
+        "SA-0320",
+        "SA-0321"
+      ],
+      "finding": "Microbial structure and motion could be misread",
+      "action": "Closed bacterial nucleoid loop/pili context, enveloped-virus capsid/genome context, a single illustrative daughter-nucleus guide in yeast instead of nucleus traffic, amoeba contractile-vacuole guide; fermentation vessel, balanced equation and product-quantity caption with markers stopped at zero substrate/rate."
     }
   ]
 }

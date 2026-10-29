@@ -7,3 +7,6 @@ export function ionicLatticeFrame(aspect:number){const h=1.5*.7*1.65;const thing
 
 /** Full tank, hanger and force-label envelope for the buoyancy apparatus. */
 export function buoyancyFrame(aspect:number){return worldFrame({things:[{shape:'box',at:[0,-.4,0],size:[5,5.4,3.2],color:'#fff'}],flows:[],metrics:[],physical:'buoyancy apparatus',focus:[]},aspect)}
+
+/** Fixed full-growth envelope prevents a seed-only opening frame cropping the later shoot/root. */
+export function germinationFrame(aspect:number){return worldFrame({things:[{shape:'box',at:[0,-.2,0],size:[3.7,4.9,1],color:'#fff'}],flows:[],metrics:[],physical:'full seedling envelope',focus:[]},aspect)}
