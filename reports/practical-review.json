@@ -4930,7 +4930,7 @@
       "kind": "intermolecular",
       "status": "passed_automated_practical_checks",
       "workingModes": [
-        "quantitative"
+        "qualitative"
       ],
       "animatedStateChecks": 15,
       "labelledInputs": true,
@@ -5170,8 +5170,8 @@
       "kind": "intermolecular",
       "status": "passed_automated_practical_checks",
       "workingModes": [
-        "qualitative",
-        "quantitative"
+        "quantitative",
+        "qualitative"
       ],
       "animatedStateChecks": 15,
       "labelledInputs": true,

@@ -1532,11 +1532,436 @@
         "svgDiagram": true
       },
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0126",
+      "title": "Gas laws",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0126.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0127",
+      "title": "Thermodynamics",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0127.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0128",
+      "title": "Entropy",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0128.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0129",
+      "title": "Atomic physics",
+      "kind": "atom",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0129.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0130",
+      "title": "Nuclear physics",
+      "kind": "decay",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0130.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0131",
+      "title": "Photoelectric effect",
+      "kind": "photoelectric",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0131.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0132",
+      "title": "Semiconductors",
+      "kind": "semiconductor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0132.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0133",
+      "title": "Quantum physics",
+      "kind": "quantumbox",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0133.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0134",
+      "title": "Relativity",
+      "kind": "relativity",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0134.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0135",
+      "title": "Rutherford model",
+      "kind": "rutherford",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0135.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0136",
+      "title": "Valency",
+      "kind": "atom",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0136.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0137",
+      "title": "Atomic particles",
+      "kind": "atom",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0137.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0138",
+      "title": "Bohr model",
+      "kind": "atom",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0138.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0139",
+      "title": "Electronic configuration",
+      "kind": "atom",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0139.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0140",
+      "title": "Periodic table",
+      "kind": "periodic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0140.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0141",
+      "title": "Periodic trends",
+      "kind": "periodic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0141.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0142",
+      "title": "Ionic bonding",
+      "kind": "ionic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0142.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0143",
+      "title": "Covalent bonding",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0143.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0144",
+      "title": "Metallic bonding",
+      "kind": "metallic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0144.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0145",
+      "title": "Lewis structures",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0145.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0146",
+      "title": "Molecular geometry",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0146.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0147",
+      "title": "Hybridization",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0147.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0148",
+      "title": "Hydrogen bonding",
+      "kind": "intermolecular",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0148.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0149",
+      "title": "Rate of reaction",
+      "kind": "kinetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0149.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0150",
+      "title": "Effect of concentration",
+      "kind": "kinetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0150.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 125,
-  "browserCheckedCount": 125,
-  "initialFrameVisualReviewedCount": 125,
+  "reviewedCount": 150,
+  "browserCheckedCount": 150,
+  "initialFrameVisualReviewedCount": 150,
   "visualFindings": [
     {
       "records": [
@@ -1656,6 +2081,55 @@
       ],
       "finding": "Thermal scenes lacked apparatus and had overly crude motion cues",
       "action": "Insulated block support and heat-flow annotation; illustrative thermal vibration uses absolute temperature; gas chamber has front/back walls and isotropic temperature speed scaling; rod comparison bench includes fixed alignment and a moving-end pointer."
+    },
+    {
+      "records": [
+        "SA-0126",
+        "SA-0127",
+        "SA-0128",
+        "SA-0149",
+        "SA-0150"
+      ],
+      "finding": "State readouts were disconnected from particle demonstrations",
+      "action": "Added 3D isotherm/concentration plots with exact current-state markers, improved label sizing, and retained 2D plots and model assumptions."
+    },
+    {
+      "records": [
+        "SA-0129",
+        "SA-0130",
+        "SA-0135",
+        "SA-0136",
+        "SA-0137",
+        "SA-0138",
+        "SA-0139"
+      ],
+      "finding": "Atomic identity, decay and force-direction context were difficult to read",
+      "action": "Added isotope/configuration labels, parent/daughter expected-population legend, and scaled radial Coulomb-repulsion direction on the scattering particle."
+    },
+    {
+      "records": [
+        "SA-0131",
+        "SA-0132",
+        "SA-0133",
+        "SA-0134"
+      ],
+      "finding": "Quantum apparatus and representation distinctions lacked clarity",
+      "action": "Added photoelectric collector/base and energy labels, retained representative minority carriers, labelled wavefunction phase versus stationary probability density, and annotated relativity clock/reference times."
+    },
+    {
+      "records": [
+        "SA-0140",
+        "SA-0141",
+        "SA-0142",
+        "SA-0143",
+        "SA-0144",
+        "SA-0145",
+        "SA-0146",
+        "SA-0147",
+        "SA-0148"
+      ],
+      "finding": "Bonding and tabular views had projection or physical-interpretation issues",
+      "action": "Added selected-element summary, octahedral coordination region, bond-angle arc and inspection rotation; separated ammonia hydrogens in 2D; zero-field metallic agitation has no prescribed net drift; hydrogen-bond guides carry no electron-transfer flow. Corrected worked-guide mode mapping so Lennard-Jones energy is not attributed to hydrogen bonding."
     }
   ]
 }
