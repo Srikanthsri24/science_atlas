@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-350/408 initial-frame visual inspections recorded; 350/408 upgraded-viewer browser checks recorded.
+375/408 initial-frame visual inspections recorded; 375/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -55,5 +55,8 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0330, SA-0331: Sphere radii now match the model contact separation; low-friction track/support context and equal/opposite impulse readouts added. Instantaneous contact and restitution remain explicit.
 - SA-0333, SA-0336, SA-0337: Centre-of-mass orbit guides and weighted-distance equality; zero angular speed has no false direction arrows. Open circular pipe, end rims, parabolic envelope, normalized bounded velocity arrows and pressure/radius/speed captions; zero pressure has stationary tracers and no velocity arrows.
 - SA-0341: A rose material marker follows one antinode vertically, a fixed equilibrium guide remains visible, and harmonic/wavelength/frequency are labelled alongside the stationary gold nodes.
+- SA-0351, SA-0352, SA-0355, SA-0358, SA-0359, SA-0361: Equal-potential shell sections and probe-radius guide; branch current/voltage labels and topology accounting; N/S coil labels reverse with signed current. Moving-rod charge markers run only during an initial separation window, then show opposite end-charge guides. Fixed-position E/B probes demonstrate in-phase perpendicular field components and a wavelength reference. Zero-voltage network traffic stops.
+- SA-0353, SA-0354, SA-0356, SA-0357, SA-0360, SA-0362, SA-0363, SA-0364, SA-0365, SA-0366, SA-0367, SA-0368, SA-0369, SA-0370, SA-0371, SA-0372: Individually inspected circuit charge motion, capacitor charge/time plot, induced alternating voltage, gas chamber, expected parent/daughter populations (default focus highlighting removed so parent purple is not mistaken for daughter gold), stellar labels, density/tank framing, water particle chamber, ionic transfer/lattice, separation front, shared electron pairs, donor geometry, VSEPR and intermolecular distinctions. VSEPR narration now explicitly selects water, methane and ammonia so its water caption cannot show ammonia. Existing upgraded models retained with their assumptions.
+- SA-0373, SA-0374, SA-0375: Balanced overall water-electrolysis equation and Q=It substitution added to the vessel/collection-tube scene; gas markers stop at zero current. The ideal Faraday model remains explicit, with separate hydrogen/oxygen quantities.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0351.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0376.

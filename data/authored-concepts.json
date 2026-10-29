@@ -8236,27 +8236,42 @@
         {
           "title": "Count regions",
           "caption": "Include both bonds and lone pairs.",
-          "detail": "A multiple bond would count as one directional region."
+          "detail": "A multiple bond would count as one directional region.",
+          "parameters": {
+            "moleculeIndex": 0
+          }
         },
         {
           "title": "Arrange regions",
           "caption": "Four regions have a tetrahedral electron geometry.",
-          "detail": "The qualitative model spreads repulsions in space."
+          "detail": "The qualitative model spreads repulsions in space.",
+          "parameters": {
+            "moleculeIndex": 2
+          }
         },
         {
           "title": "Ignore lone pairs when naming atom geometry",
           "caption": "Water’s atom arrangement is bent.",
-          "detail": "Two lone pairs still affect its structure."
+          "detail": "Two lone pairs still affect its structure.",
+          "parameters": {
+            "moleculeIndex": 0
+          }
         },
         {
           "title": "Compare the set",
           "caption": "Ammonia is pyramidal and methane tetrahedral.",
-          "detail": "Their central lone-pair counts differ."
+          "detail": "Their central lone-pair counts differ.",
+          "parameters": {
+            "moleculeIndex": 1
+          }
         },
         {
           "title": "State limits",
           "caption": "The displayed angles are supplied approximate values.",
-          "detail": "VSEPR itself is not a numerical quantum calculation."
+          "detail": "VSEPR itself is not a numerical quantum calculation.",
+          "parameters": {
+            "moleculeIndex": 2
+          }
         }
       ],
       "activity": "Compare the three molecules with lone-pair markers revealed and hidden.",

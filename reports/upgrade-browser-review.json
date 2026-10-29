@@ -5538,11 +5538,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0351",
+      "title": "Electric field",
+      "kind": "electrostatic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0351.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0352",
+      "title": "Electric potential",
+      "kind": "electrostatic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0352.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0353",
+      "title": "Potential difference",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0353.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0354",
+      "title": "Electrical resistance",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0354.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0355",
+      "title": "Series and parallel circuits",
+      "kind": "network",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0355.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0356",
+      "title": "Electrical power",
+      "kind": "circuit",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0356.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0357",
+      "title": "Capacitance",
+      "kind": "capacitor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0357.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0358",
+      "title": "Electromagnets",
+      "kind": "solenoid",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0358.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0359",
+      "title": "Fleming right hand rule",
+      "kind": "motional",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0359.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0360",
+      "title": "Alternating current",
+      "kind": "induction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0360.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0361",
+      "title": "Electromagnetic waves",
+      "kind": "emwave",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0361.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0362",
+      "title": "Kinetic theory",
+      "kind": "gas",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0362.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0363",
+      "title": "Radioactivity",
+      "kind": "decay",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0363.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0364",
+      "title": "Astronomy and astrophysics",
+      "kind": "star",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0364.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0365",
+      "title": "Matter and its properties",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0365.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0366",
+      "title": "States of matter",
+      "kind": "waterstates",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0366.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0367",
+      "title": "Elements and compounds",
+      "kind": "ionic",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0367.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0368",
+      "title": "Mixtures",
+      "kind": "chromatography",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0368.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0369",
+      "title": "Atoms and molecules",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0369.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0370",
+      "title": "Coordinate bonding",
+      "kind": "coordination",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0370.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0371",
+      "title": "VSEPR theory",
+      "kind": "covalent",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0371.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0372",
+      "title": "Intermolecular forces",
+      "kind": "intermolecular",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0372.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0373",
+      "title": "Chemical equations",
+      "kind": "electrolysis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0373.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0374",
+      "title": "Balancing chemical equations",
+      "kind": "electrolysis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0374.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0375",
+      "title": "Reaction types",
+      "kind": "electrolysis",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0375.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 350,
-  "browserCheckedCount": 350,
-  "initialFrameVisualReviewedCount": 350,
+  "reviewedCount": 375,
+  "browserCheckedCount": 375,
+  "initialFrameVisualReviewedCount": 375,
   "visualFindings": [
     {
       "records": [
@@ -6091,6 +6541,49 @@
       ],
       "finding": "Fixed nodes and moving material were difficult to distinguish",
       "action": "A rose material marker follows one antinode vertically, a fixed equilibrium guide remains visible, and harmonic/wavelength/frequency are labelled alongside the stationary gold nodes."
+    },
+    {
+      "records": [
+        "SA-0351",
+        "SA-0352",
+        "SA-0355",
+        "SA-0358",
+        "SA-0359",
+        "SA-0361"
+      ],
+      "finding": "Field/current orientation and open-circuit charge separation needed clearer context",
+      "action": "Equal-potential shell sections and probe-radius guide; branch current/voltage labels and topology accounting; N/S coil labels reverse with signed current. Moving-rod charge markers run only during an initial separation window, then show opposite end-charge guides. Fixed-position E/B probes demonstrate in-phase perpendicular field components and a wavelength reference. Zero-voltage network traffic stops."
+    },
+    {
+      "records": [
+        "SA-0353",
+        "SA-0354",
+        "SA-0356",
+        "SA-0357",
+        "SA-0360",
+        "SA-0362",
+        "SA-0363",
+        "SA-0364",
+        "SA-0365",
+        "SA-0366",
+        "SA-0367",
+        "SA-0368",
+        "SA-0369",
+        "SA-0370",
+        "SA-0371",
+        "SA-0372"
+      ],
+      "finding": "Remaining shared electricity, atomic and molecular examples required individual viewer checks",
+      "action": "Individually inspected circuit charge motion, capacitor charge/time plot, induced alternating voltage, gas chamber, expected parent/daughter populations (default focus highlighting removed so parent purple is not mistaken for daughter gold), stellar labels, density/tank framing, water particle chamber, ionic transfer/lattice, separation front, shared electron pairs, donor geometry, VSEPR and intermolecular distinctions. VSEPR narration now explicitly selects water, methane and ammonia so its water caption cannot show ammonia. Existing upgraded models retained with their assumptions."
+    },
+    {
+      "records": [
+        "SA-0373",
+        "SA-0374",
+        "SA-0375"
+      ],
+      "finding": "Gas-production animation needed direct equation and current accounting",
+      "action": "Balanced overall water-electrolysis equation and Q=It substitution added to the vessel/collection-tube scene; gas markers stop at zero current. The ideal Faraday model remains explicit, with separate hydrogen/oxygen quantities."
     }
   ]
 }
