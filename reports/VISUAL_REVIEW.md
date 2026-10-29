@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-175/408 initial-frame visual inspections recorded; 175/408 upgraded-viewer browser checks recorded.
+200/408 initial-frame visual inspections recorded; 200/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -28,5 +28,8 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0157, SA-0158, SA-0159, SA-0160, SA-0161, SA-0163, SA-0166, SA-0167, SA-0168: Reusable open cylindrical vessels, rims, bases and liquid surfaces in both renderers; burette scale, condenser coolant guides, receiver and total-reflux composition labels.
 - SA-0164, SA-0165, SA-0166: Converted scientific HSL colours to compatible comma syntax, including heat and wave-screen colours; added a WebGL saturation regression test and 3D pH scale.
 - SA-0169, SA-0170, SA-0171, SA-0172, SA-0173, SA-0174, SA-0175: Added rotor housing/RCF label, chromatography origin/front labels, filter size context, dissolved/crystal mass labels, explicit CO₂ solid-to-gas accounting and cell-vector construction guide. Corrected sublimation worked calculations to conserve 20 g rather than use crystallization capacity.
+- SA-0176, SA-0177, SA-0179, SA-0180, SA-0181, SA-0182: 3D boundary-atom portions clipped to cell bounds with faint neighbouring spheres; ionic-fragment camera fits the widest staged assembly in landscape and portrait; 2D ownership fractions and explicit sharing arithmetic. Added host/guest threshold labels, radius construction guide and labelled defect inventory with visible vacancy cues.
+- SA-0184, SA-0186, SA-0187, SA-0188, SA-0189, SA-0194: Open electrolysis and half-cell vessels, DC-source guide and gas-volume readout; opposite salt-bridge ion paths and electrode half-equations. Added solution comparison glassware, adsorption vessel/coverage and reduction-process schematic with stoichiometric maximum.
+- SA-0193, SA-0195, SA-0196, SA-0197, SA-0198, SA-0199, SA-0200: Static shared-pair dots rotate with donor geometry; molecular formula, functional group and atom legend added; multiple-bond offsets perpendicular to bond direction preserve distinct strokes.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0176.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0201.
