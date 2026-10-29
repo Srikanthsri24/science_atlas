@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-150/408 initial-frame visual inspections recorded; 150/408 upgraded-viewer browser checks recorded.
+175/408 initial-frame visual inspections recorded; 175/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -24,5 +24,9 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0129, SA-0130, SA-0135, SA-0136, SA-0137, SA-0138, SA-0139: Added isotope/configuration labels, parent/daughter expected-population legend, and scaled radial Coulomb-repulsion direction on the scattering particle.
 - SA-0131, SA-0132, SA-0133, SA-0134: Added photoelectric collector/base and energy labels, retained representative minority carriers, labelled wavefunction phase versus stationary probability density, and annotated relativity clock/reference times.
 - SA-0140, SA-0141, SA-0142, SA-0143, SA-0144, SA-0145, SA-0146, SA-0147, SA-0148: Added selected-element summary, octahedral coordination region, bond-angle arc and inspection rotation; separated ammonia hydrogens in 2D; zero-field metallic agitation has no prescribed net drift; hydrogen-bond guides carry no electron-transfer flow. Corrected worked-guide mode mapping so Lennard-Jones energy is not attributed to hydrogen bonding.
+- SA-0151, SA-0152, SA-0153, SA-0154, SA-0155, SA-0156: Added dissolution vessel and surface/mass readout, converter support channels, and common-scale forward/reverse rate bars. Kinetics retains concentration plot, barrier label and staged particle conversion.
+- SA-0157, SA-0158, SA-0159, SA-0160, SA-0161, SA-0163, SA-0166, SA-0167, SA-0168: Reusable open cylindrical vessels, rims, bases and liquid surfaces in both renderers; burette scale, condenser coolant guides, receiver and total-reflux composition labels.
+- SA-0164, SA-0165, SA-0166: Converted scientific HSL colours to compatible comma syntax, including heat and wave-screen colours; added a WebGL saturation regression test and 3D pH scale.
+- SA-0169, SA-0170, SA-0171, SA-0172, SA-0173, SA-0174, SA-0175: Added rotor housing/RCF label, chromatography origin/front labels, filter size context, dissolved/crystal mass labels, explicit CO₂ solid-to-gas accounting and cell-vector construction guide. Corrected sublimation worked calculations to conserve 20 g rather than use crystallization capacity.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0151.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0176.

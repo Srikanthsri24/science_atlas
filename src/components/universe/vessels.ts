@@ -1,0 +1,4 @@
+import type{Thing,V}from'./world';
+/** Original schematic open glassware. Geometry is illustrative; readings define physical volume. */
+export function glassVessel(at:V,radius:number,height:number,label='Glass vessel'):Thing[]{const bottom=at[1]-height/2,top=at[1]+height/2;return[{shape:'cylinder',at,size:[2*radius,height,2*radius],radius,color:'#a5d4df',opacity:.16,inspect:label},{shape:'ring',at:[at[0],top,at[2]],radius,color:'#b3d9e0',plane:'xz',inspect:label},{shape:'ellipsoid',at:[at[0],bottom,at[2]],size:[radius,.025,radius],color:'#8bbac6',opacity:.3,inspect:label},{shape:'ring',at:[at[0],bottom,at[2]],radius,color:'#8bbac6',plane:'xz',inspect:label}];}
+export function liquid(at:V,radius:number,height:number,color:string,label='Liquid'):Thing[]{return[{shape:'cylinder',at,size:[2*radius,height,2*radius],radius,color,opacity:.18,inspect:label},{shape:'ellipsoid',at:[at[0],at[1]+height/2,at[2]],size:[radius,.012,radius],color,opacity:.24,inspect:label}];}

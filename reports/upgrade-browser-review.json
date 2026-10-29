@@ -1957,11 +1957,436 @@
         "svgDiagram": true
       },
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0151",
+      "title": "Effect of catalysts",
+      "kind": "kinetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0151.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0152",
+      "title": "Effect of surface area",
+      "kind": "surface",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0152.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0153",
+      "title": "Effect of change in temperature",
+      "kind": "kinetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0153.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0154",
+      "title": "Catalytic converter",
+      "kind": "converter",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0154.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0155",
+      "title": "Activation energy",
+      "kind": "kinetics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0155.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0156",
+      "title": "Chemical equilibrium",
+      "kind": "equilibrium",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0156.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0157",
+      "title": "Salt analysis",
+      "kind": "qualitative",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0157.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0158",
+      "title": "Group tests",
+      "kind": "qualitative",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0158.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0159",
+      "title": "Cation",
+      "kind": "precipitation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0159.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0160",
+      "title": "Anion",
+      "kind": "precipitation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0160.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0161",
+      "title": "Solubility",
+      "kind": "solubility",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0161.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0162",
+      "title": "Named reactions",
+      "kind": "organicreaction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0162.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0163",
+      "title": "Colour changes",
+      "kind": "qualitative",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0163.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0164",
+      "title": "Indicators",
+      "kind": "ph",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0164.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0165",
+      "title": "pH",
+      "kind": "ph",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0165.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0166",
+      "title": "Titration",
+      "kind": "titration",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0166.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0167",
+      "title": "Simple distillation",
+      "kind": "distillation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0167.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0168",
+      "title": "Fractional distillation",
+      "kind": "fractional",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0168.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0169",
+      "title": "Centrifugation",
+      "kind": "centrifuge",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0169.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0170",
+      "title": "Chromatography",
+      "kind": "chromatography",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0170.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0171",
+      "title": "Filtration",
+      "kind": "separation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0171.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0172",
+      "title": "Evaporation",
+      "kind": "separation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0172.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0173",
+      "title": "Crystallization",
+      "kind": "separation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0173.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0174",
+      "title": "Sublimation",
+      "kind": "separation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0174.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0175",
+      "title": "Bravais lattice",
+      "kind": "lattice",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0175.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 150,
-  "browserCheckedCount": 150,
-  "initialFrameVisualReviewedCount": 150,
+  "reviewedCount": 175,
+  "browserCheckedCount": 175,
+  "initialFrameVisualReviewedCount": 175,
   "visualFindings": [
     {
       "records": [
@@ -2130,6 +2555,55 @@
       ],
       "finding": "Bonding and tabular views had projection or physical-interpretation issues",
       "action": "Added selected-element summary, octahedral coordination region, bond-angle arc and inspection rotation; separated ammonia hydrogens in 2D; zero-field metallic agitation has no prescribed net drift; hydrogen-bond guides carry no electron-transfer flow. Corrected worked-guide mode mapping so Lennard-Jones energy is not attributed to hydrogen bonding."
+    },
+    {
+      "records": [
+        "SA-0151",
+        "SA-0152",
+        "SA-0153",
+        "SA-0154",
+        "SA-0155",
+        "SA-0156"
+      ],
+      "finding": "Reaction motion lacked experimental and rate context",
+      "action": "Added dissolution vessel and surface/mass readout, converter support channels, and common-scale forward/reverse rate bars. Kinetics retains concentration plot, barrier label and staged particle conversion."
+    },
+    {
+      "records": [
+        "SA-0157",
+        "SA-0158",
+        "SA-0159",
+        "SA-0160",
+        "SA-0161",
+        "SA-0163",
+        "SA-0166",
+        "SA-0167",
+        "SA-0168"
+      ],
+      "finding": "Flat containers and disconnected apparatus labels reduced clarity",
+      "action": "Reusable open cylindrical vessels, rims, bases and liquid surfaces in both renderers; burette scale, condenser coolant guides, receiver and total-reflux composition labels."
+    },
+    {
+      "records": [
+        "SA-0164",
+        "SA-0165",
+        "SA-0166"
+      ],
+      "finding": "Modern CSS HSL syntax was unsupported by Three.js and rendered white",
+      "action": "Converted scientific HSL colours to compatible comma syntax, including heat and wave-screen colours; added a WebGL saturation regression test and 3D pH scale."
+    },
+    {
+      "records": [
+        "SA-0169",
+        "SA-0170",
+        "SA-0171",
+        "SA-0172",
+        "SA-0173",
+        "SA-0174",
+        "SA-0175"
+      ],
+      "finding": "Separation and lattice demonstrations lacked process/readout alignment",
+      "action": "Added rotor housing/RCF label, chromatography origin/front labels, filter size context, dissolved/crystal mass labels, explicit CO₂ solid-to-gas accounting and cell-vector construction guide. Corrected sublimation worked calculations to conserve 20 g rather than use crystallization capacity."
     }
   ]
 }
