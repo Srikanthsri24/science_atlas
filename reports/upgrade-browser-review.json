@@ -5088,11 +5088,461 @@
       },
       "twoDimensionalVisualReview": "middle_frame_inspected",
       "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0326",
+      "title": "Distance and displacement",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0326.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0327",
+      "title": "Speed",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0327.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0328",
+      "title": "Equations of motion",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0328.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0329",
+      "title": "Graphs of motion",
+      "kind": "projectile",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0329.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0330",
+      "title": "Impulse",
+      "kind": "collision",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0330.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0331",
+      "title": "Conservation of momentum",
+      "kind": "collision",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0331.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0332",
+      "title": "Equilibrium",
+      "kind": "lever",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0332.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0333",
+      "title": "Centre of mass",
+      "kind": "rotation",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0333.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0334",
+      "title": "Density",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0334.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0335",
+      "title": "Floatation",
+      "kind": "buoyancy",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0335.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0336",
+      "title": "Viscosity",
+      "kind": "viscous",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0336.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0337",
+      "title": "Fluid flow",
+      "kind": "viscous",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0337.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0338",
+      "title": "Continuity equation",
+      "kind": "bernoulli",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0338.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0339",
+      "title": "Simple pendulum",
+      "kind": "pendulum",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0339.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0340",
+      "title": "Sound waves",
+      "kind": "sound",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0340.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0341",
+      "title": "Standing waves",
+      "kind": "standing",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0341.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0342",
+      "title": "Light propagation",
+      "kind": "shadow",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0342.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0343",
+      "title": "Ray diagrams",
+      "kind": "lens",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0343.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0344",
+      "title": "Mirror formula",
+      "kind": "mirrors",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0344.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0345",
+      "title": "Lens formula",
+      "kind": "lens",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0345.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0346",
+      "title": "Total internal reflection",
+      "kind": "refraction",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0346.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0347",
+      "title": "Optical instruments",
+      "kind": "magnifier",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0347.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0348",
+      "title": "Dispersion",
+      "kind": "waveoptics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0348.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0349",
+      "title": "Polarization",
+      "kind": "waveoptics",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0349.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
+    },
+    {
+      "id": "SA-0350",
+      "title": "Electric charge",
+      "kind": "capacitor",
+      "duration": 100,
+      "practical": true,
+      "webgl": true,
+      "screenshot": "SA-0350.png",
+      "status": "upgrade_browser_checks_passed",
+      "stageScrubCheck": {
+        "middle": 50,
+        "end": 100,
+        "lastCaptionMatched": true,
+        "svgDiagram": true
+      },
+      "twoDimensionalVisualReview": "middle_frame_inspected",
+      "visualInspection": "initial_frame_inspected"
     }
   ],
-  "reviewedCount": 325,
-  "browserCheckedCount": 325,
-  "initialFrameVisualReviewedCount": 325,
+  "reviewedCount": 350,
+  "browserCheckedCount": 350,
+  "initialFrameVisualReviewedCount": 350,
   "visualFindings": [
     {
       "records": [
@@ -5592,6 +6042,55 @@
       ],
       "finding": "Microbial structure and motion could be misread",
       "action": "Closed bacterial nucleoid loop/pili context, enveloped-virus capsid/genome context, a single illustrative daughter-nucleus guide in yeast instead of nucleus traffic, amoeba contractile-vacuole guide; fermentation vessel, balanced equation and product-quantity caption with markers stopped at zero substrate/rate."
+    },
+    {
+      "records": [
+        "SA-0326",
+        "SA-0327",
+        "SA-0328",
+        "SA-0329",
+        "SA-0332",
+        "SA-0334",
+        "SA-0335",
+        "SA-0338",
+        "SA-0339",
+        "SA-0340",
+        "SA-0342",
+        "SA-0343",
+        "SA-0344",
+        "SA-0345",
+        "SA-0346",
+        "SA-0347",
+        "SA-0348",
+        "SA-0349",
+        "SA-0350"
+      ],
+      "finding": "Shared mechanics and optics examples required their own route/state review",
+      "action": "Individually reviewed upgraded coordinate/trajectory/time plots, supported lever, complete buoyancy camera, fluid continuity, analytic pendulum trail, sound-source diaphragm, object/shadow, paraxial ray benches and optical formula geometry, refraction/TIR pulses, mounted wave-optics apparatus and capacitor charge motion. Reused tested models and their explicit assumptions."
+    },
+    {
+      "records": [
+        "SA-0330",
+        "SA-0331"
+      ],
+      "finding": "Rendered collision spheres overlapped before the model contact point",
+      "action": "Sphere radii now match the model contact separation; low-friction track/support context and equal/opposite impulse readouts added. Instantaneous contact and restitution remain explicit."
+    },
+    {
+      "records": [
+        "SA-0333",
+        "SA-0336",
+        "SA-0337"
+      ],
+      "finding": "Mass distribution and fluid velocity were hard to compare",
+      "action": "Centre-of-mass orbit guides and weighted-distance equality; zero angular speed has no false direction arrows. Open circular pipe, end rims, parabolic envelope, normalized bounded velocity arrows and pressure/radius/speed captions; zero pressure has stationary tracers and no velocity arrows."
+    },
+    {
+      "records": [
+        "SA-0341"
+      ],
+      "finding": "Fixed nodes and moving material were difficult to distinguish",
+      "action": "A rose material marker follows one antinode vertically, a fixed equilibrium guide remains visible, and harmonic/wavelength/frequency are labelled alongside the stationary gold nodes."
     }
   ]
 }

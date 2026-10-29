@@ -1,6 +1,6 @@
 # Scene-specific visualization review
 
-325/408 initial-frame visual inspections recorded; 325/408 upgraded-viewer browser checks recorded.
+350/408 initial-frame visual inspections recorded; 350/408 upgraded-viewer browser checks recorded.
 
 Every checked concept was opened in its own laboratory route, its 100-second timeline and practical record were checked, and a 3D theatre frame was captured. Contact sheets support the initial-frame visual inspection. This does not assert that every second, parameter combination, camera angle or physical device was inspected, or that every scene has reached the requested final realism.
 
@@ -51,5 +51,9 @@ Every checked concept was opened in its own laboratory route, its 100-second tim
 - SA-0306, SA-0307, SA-0308, SA-0309, SA-0310: Fish tank boundary, aeration and attached tail/fin/eye geometry; poultry comb/beak/feathers; hexagonal comb and moving bee wings/legs; silkworm legs/host-leaf veins/cocoon; livestock hoof/muzzle/ear/tail context. Care labels replace unrelated bottom traffic.
 - SA-0311, SA-0312, SA-0314, SA-0315, SA-0316: Two parental and two new complementary backbones with antiparallel labels and semiconservative caption; distinct ribosomal subunits and mRNA retained; selection graph axes, ticks and generation scale; ancestry branch points explicitly labelled, with inspection markers distinguished from individuals.
 - SA-0317, SA-0318, SA-0319, SA-0320, SA-0321: Closed bacterial nucleoid loop/pili context, enveloped-virus capsid/genome context, a single illustrative daughter-nucleus guide in yeast instead of nucleus traffic, amoeba contractile-vacuole guide; fermentation vessel, balanced equation and product-quantity caption with markers stopped at zero substrate/rate.
+- SA-0326, SA-0327, SA-0328, SA-0329, SA-0332, SA-0334, SA-0335, SA-0338, SA-0339, SA-0340, SA-0342, SA-0343, SA-0344, SA-0345, SA-0346, SA-0347, SA-0348, SA-0349, SA-0350: Individually reviewed upgraded coordinate/trajectory/time plots, supported lever, complete buoyancy camera, fluid continuity, analytic pendulum trail, sound-source diaphragm, object/shadow, paraxial ray benches and optical formula geometry, refraction/TIR pulses, mounted wave-optics apparatus and capacitor charge motion. Reused tested models and their explicit assumptions.
+- SA-0330, SA-0331: Sphere radii now match the model contact separation; low-friction track/support context and equal/opposite impulse readouts added. Instantaneous contact and restitution remain explicit.
+- SA-0333, SA-0336, SA-0337: Centre-of-mass orbit guides and weighted-distance equality; zero angular speed has no false direction arrows. Open circular pipe, end rims, parabolic envelope, normalized bounded velocity arrows and pressure/radius/speed captions; zero pressure has stationary tracers and no velocity arrows.
+- SA-0341: A rose material marker follows one antinode vertically, a fixed equilibrium guide remains visible, and harmonic/wavelength/frequency are labelled alongside the stationary gold nodes.
 
-Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0326.
+Model assumptions remain visible. Internal functional review is distinct from independent scientific certification and official board certification. The remaining scene-specific review continues from SA-0351.
