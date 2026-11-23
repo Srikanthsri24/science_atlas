@@ -1,0 +1,1160 @@
+{
+  "batch": 1,
+  "company": "VisionariesAI Labs Private Limited",
+  "recordCount": 25,
+  "scope": "SA-0001 through SA-0025",
+  "durationSeconds": 100,
+  "reviewLimits": "Selected desktop frames, middle/end timeline states, phone/tablet theatre layouts and numerical regression checks. Not every second, parameter, camera angle or physical device; not independent expert certification.",
+  "records": [
+    {
+      "id": "SA-0001",
+      "title": "Living and nonliving",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Consider energy",
+      "endCaption": "Handle dormancy",
+      "overflow": false,
+      "kind": "classification",
+      "visualUpgrade": "Specimen detail: leaf/root veins, mushroom gills, bacterial envelope, seed-coat contours and moving combustion profiles in their applicable modes.",
+      "guidedPlayer": {
+        "id": "SA-0001",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0001",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0001",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0002",
+      "title": "Classification",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare nutrition",
+      "endCaption": "State scope",
+      "overflow": false,
+      "kind": "classification",
+      "visualUpgrade": "Specimen detail: leaf/root veins, mushroom gills, bacterial envelope, seed-coat contours and moving combustion profiles in their applicable modes.",
+      "guidedPlayer": {
+        "id": "SA-0002",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0002",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0002",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0003",
+      "title": "Cells and organelles",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare compartments",
+      "endCaption": "Read the limits",
+      "overflow": false,
+      "kind": "cellstructure",
+      "visualUpgrade": "ER folds, nuclear pores, mitochondrial cristae and membrane surface; bacterial exclusions preserved.",
+      "guidedPlayer": {
+        "id": "SA-0003",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0003",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0003",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0004",
+      "title": "Cell division",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Align copies",
+      "endCaption": "Divide cytoplasm",
+      "overflow": false,
+      "kind": "mitosis",
+      "visualUpgrade": "Kinetochore markers and bundled spindle fibres follow existing chromosome states.",
+      "guidedPlayer": {
+        "id": "SA-0004",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0004",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0004",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0005",
+      "title": "Tissues",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Inspect support",
+      "endCaption": "Compare plants",
+      "overflow": false,
+      "kind": "tissues",
+      "visualUpgrade": "Microvilli, fibroblast processes, peripheral muscle nuclei and plant wall junctions.",
+      "guidedPlayer": {
+        "id": "SA-0005",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0005",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0005",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0006",
+      "title": "Microorganisms",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Observe yeast",
+      "endCaption": "Compare roles",
+      "overflow": false,
+      "kind": "microbe",
+      "visualUpgrade": "Envelope proteins, yeast wall lamellae, virus proteins and cytoplasmic granules in applicable modes.",
+      "guidedPlayer": {
+        "id": "SA-0006",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0006",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0006",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0007",
+      "title": "Biodiversity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Consider genes",
+      "endCaption": "Measure carefully",
+      "overflow": false,
+      "kind": "classification",
+      "visualUpgrade": "Specimen detail: leaf/root veins, mushroom gills, bacterial envelope, seed-coat contours and moving combustion profiles in their applicable modes.",
+      "guidedPlayer": {
+        "id": "SA-0007",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0007",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0007",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0008",
+      "title": "Evolution",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Apply selection",
+      "endCaption": "Separate mechanisms",
+      "overflow": false,
+      "kind": "evolution",
+      "visualUpgrade": "Observed selection history traced separately from the full model reference.",
+      "guidedPlayer": {
+        "id": "SA-0008",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0008",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0008",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0009",
+      "title": "Human body movements",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow the tendon",
+      "endCaption": "Balance torque",
+      "overflow": false,
+      "kind": "joint",
+      "visualUpgrade": "Condyles, paired forearm guides, joint capsule and muscle fibres tied to hinge geometry.",
+      "guidedPlayer": {
+        "id": "SA-0009",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0009",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0009",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0010",
+      "title": "Joints in human body",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Move a hinge",
+      "endCaption": "Separate supports",
+      "overflow": false,
+      "kind": "joint",
+      "visualUpgrade": "Condyles, paired forearm guides, joint capsule and muscle fibres tied to hinge geometry.",
+      "guidedPlayer": {
+        "id": "SA-0010",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0010",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0010",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0011",
+      "title": "Joints for sports",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Inspect attachments",
+      "endCaption": "State the boundary",
+      "overflow": false,
+      "kind": "joint",
+      "visualUpgrade": "Condyles, paired forearm guides, joint capsule and muscle fibres tied to hinge geometry.",
+      "guidedPlayer": {
+        "id": "SA-0011",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0011",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0011",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0012",
+      "title": "Animal nervous system",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Propagate",
+      "endCaption": "Compare diversity",
+      "overflow": false,
+      "kind": "neuron",
+      "visualUpgrade": "Branched dendrites and myelin segments; prescribed voltage model remains explicit.",
+      "guidedPlayer": {
+        "id": "SA-0012",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0012",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0012",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0013",
+      "title": "Human brain",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Explore the cerebellum",
+      "endCaption": "Connect regions",
+      "overflow": false,
+      "kind": "bodyatlas",
+      "visualUpgrade": "Cerebellar folia and vessel guides for brain mode; aortic, venous and renal guides for body mode.",
+      "guidedPlayer": {
+        "id": "SA-0013",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0013",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0013",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0014",
+      "title": "Reflex action in animals",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Relay centrally",
+      "endCaption": "Compare animals carefully",
+      "overflow": false,
+      "kind": "reflex",
+      "visualUpgrade": "Myelin segments and spinal central-canal context accompany the latency model.",
+      "guidedPlayer": {
+        "id": "SA-0014",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0014",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0014",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0015",
+      "title": "Human digestive system",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Process in stomach and intestine",
+      "endCaption": "Eliminate unabsorbed material",
+      "overflow": false,
+      "kind": "digestion",
+      "visualUpgrade": "Smooth stomach/liver contours, connected gut regions, rugae, wall folds and travelling contraction ring.",
+      "guidedPlayer": {
+        "id": "SA-0015",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0015",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0015",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0016",
+      "title": "Human tooth",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Inspect dentine and pulp",
+      "endCaption": "Compare function",
+      "overflow": false,
+      "kind": "tooth",
+      "visualUpgrade": "Dentine tubules, separate pulp vessels and supporting bone section; tongue activity retained.",
+      "guidedPlayer": {
+        "id": "SA-0016",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0016",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0016",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0017",
+      "title": "Tongue and tooth activity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Mix saliva",
+      "endCaption": "Separate sensation",
+      "overflow": false,
+      "kind": "tooth",
+      "visualUpgrade": "Dentine tubules, separate pulp vessels and supporting bone section; tongue activity retained.",
+      "guidedPlayer": {
+        "id": "SA-0017",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0017",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0017",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0018",
+      "title": "Respiration in human beings",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Exchange gases",
+      "endCaption": "Use cellular energy pathways",
+      "overflow": false,
+      "kind": "breathing",
+      "visualUpgrade": "Original lung microsurface and branching vessel detail in both viewers; inflation/flow retain the model.",
+      "guidedPlayer": {
+        "id": "SA-0018",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0018",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0018",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0019",
+      "title": "Circulatory and excretion system in animals",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Filter selectively",
+      "endCaption": "Separate outputs",
+      "overflow": false,
+      "kind": "bodyatlas",
+      "visualUpgrade": "Cerebellar folia and vessel guides for brain mode; aortic, venous and renal guides for body mode.",
+      "guidedPlayer": {
+        "id": "SA-0019",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0019",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0019",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0020",
+      "title": "Excretory system in animals",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Reclaim materials",
+      "endCaption": "Compare animal groups",
+      "overflow": false,
+      "kind": "nephron",
+      "visualUpgrade": "Capillary tuft, afferent and peritubular routes and brush-border guide.",
+      "guidedPlayer": {
+        "id": "SA-0020",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0020",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0020",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0021",
+      "title": "Endocrine system",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Reach target tissues",
+      "endCaption": "Reduce feedback drive",
+      "overflow": false,
+      "kind": "endocrine",
+      "visualUpgrade": "Pancreatic islet cells, membrane receptors and circulating hormone-route context.",
+      "guidedPlayer": {
+        "id": "SA-0021",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0021",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0021",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0022",
+      "title": "Sense organs",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Detect contact",
+      "endCaption": "Include other modalities",
+      "overflow": false,
+      "kind": "senses",
+      "visualUpgrade": "Iris/pupil, pinna folds, receptor and papilla details for selected examples.",
+      "guidedPlayer": {
+        "id": "SA-0022",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0022",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0022",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0023",
+      "title": "Human reproduction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow fertilization",
+      "endCaption": "Distinguish later events",
+      "overflow": false,
+      "kind": "reproduction",
+      "visualUpgrade": "Lining, fimbriae, seminiferous-tubule guide and gamete boundary in appropriate modes.",
+      "guidedPlayer": {
+        "id": "SA-0023",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0023",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0023",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0024",
+      "title": "Immune system",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Recognize specifically",
+      "endCaption": "Retain memory",
+      "overflow": false,
+      "kind": "immune",
+      "visualUpgrade": "Leukocyte membrane, barrier cells and antigen epitopes in selected immune stages.",
+      "guidedPlayer": {
+        "id": "SA-0024",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0024",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0024",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0025",
+      "title": "Coordination in plants",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare elongation",
+      "endCaption": "Recognize scope",
+      "overflow": false,
+      "kind": "tropism",
+      "visualUpgrade": "Elongating cell-file guides and leaf venation follow the growing stem.",
+      "guidedPlayer": {
+        "id": "SA-0025",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0025",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0025",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    }
+  ]
+}

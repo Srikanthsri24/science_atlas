@@ -1,3 +1,4 @@
+import{biologyDetails}from'../science/biology/detailWorld';
 import{cardiacPhase}from'../../lib/cardiacPhase';
 import{cellSites}from'../../lib/cellSites';
 import{glassVessel,liquid}from'./vessels';
@@ -8,7 +9,7 @@ export type Flow={opacity?:number;points:V[];color:string;count:number;speed:num
 export type Metric={label:string;value:string;unit:string};
 export type World={things:Thing[];flows:Flow[];metrics:Metric[];physical:string;focus:string[]};
 const C='#79d6db',P='#b69ae9',G='#f0c579',R='#dd8b9c',B='#80a9d7',GREEN='#78bc98',D='#31516c';
-export function universeWorld(kind:UniverseKind,p:UniverseParameters,display:number,animated=true):World{const{ua:a,ub:b,uc:c,ud:d}=p,u=((display%6)+6)%6/6,ease=u*u*(3-2*u),things:Thing[]=[],flows:Flow[]=[],metrics:Metric[]=[];let physical='Display timing is staged for observation';
+function rawuniverseWorld(kind:UniverseKind,p:UniverseParameters,display:number,animated=true):World{const{ua:a,ub:b,uc:c,ud:d}=p,u=((display%6)+6)%6/6,ease=u*u*(3-2*u),things:Thing[]=[],flows:Flow[]=[],metrics:Metric[]=[];let physical='Display timing is staged for observation';
  const sphere=(at:V,r:number,color=C,inspect?:string,opacity=1)=>things.push({shape:'sphere',at,radius:r,color,inspect,opacity});
  const ellipsoid=(at:V,size:V,color=C,inspect?:string,opacity=1,turn=0)=>things.push({shape:'ellipsoid',at,size,color,inspect,opacity,turn});
  const box=(at:V,size:V,color=D,inspect?:string,opacity=1)=>things.push({shape:'box',at,size,color,inspect,opacity});
@@ -52,3 +53,5 @@ export function universeWorld(kind:UniverseKind,p:UniverseParameters,display:num
  case'seismic':{const s=M.seismic(a,b,c),time=u*s.s*1.3,scale=2.4/a;ring([0,0,0],b*time*scale,G);ring([0,0,0],c*time*scale,P);sphere([0,0,0],.12,R,'Earthquake source');box([2.4,0,0],[.18,.5,.3],C,'Seismic station');const wiggle=Math.sin(time*8)*(Math.exp(-(((time-s.p)/2)**2))+2.5*Math.exp(-(((time-s.s)/2)**2)));tube([[1.9,-1.4,0],[2.1,-1.4+wiggle*.2,0],[2.3,-1.4-wiggle*.2,0],[2.6,-1.4,0]],C,.02,'Schematic seismogram');label([0,1.9,0],'P wave (gold) · S wave (purple)',G);label([2.3,.6,0],time<s.p?'Awaiting P':time<s.s?'P received · awaiting S':'P and S received',C);label([0,-1.75,0],`P ${s.p.toFixed(2)} s · S–P ${s.lag.toFixed(2)} s`,G);metric('P arrival',s.p,'s');metric('S−P separation',s.lag,'s');metric('Recovered distance',s.recovered,'km');physical=`Uniform medium · physical elapsed ${time.toFixed(1)} s`;break}
  }
  if(kind!=='crystal')label([0,-2.2,0],physical,'#88a1ba');return{things,flows,metrics,physical,focus:[...new Set(things.map(t=>t.inspect).filter(Boolean))] as string[]};}
+
+export function universeWorld(kind:UniverseKind,p:UniverseParameters,time:number,animated=true):World{return biologyDetails(kind,p,time,rawuniverseWorld(kind,p,time,animated))}
