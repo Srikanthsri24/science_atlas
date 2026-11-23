@@ -1,0 +1,1541 @@
+{
+  "batch": "05",
+  "range": [
+    "SA-0101",
+    "SA-0125"
+  ],
+  "reviewScope": "Internal selected-state review; not independent expert certification or official curriculum verification.",
+  "animationSeconds": 100,
+  "desktopViewport": {
+    "width": 1280,
+    "height": 960
+  },
+  "routes": [
+    {
+      "id": "SA-0101",
+      "title": "Laws of reflection",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Measure incidence",
+      "endCaption": "Read the approximation",
+      "overflow": false
+    },
+    {
+      "id": "SA-0102",
+      "title": "Plane mirrors",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Reflect light",
+      "endCaption": "Locate the image",
+      "overflow": false
+    },
+    {
+      "id": "SA-0103",
+      "title": "Concave mirrors",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Approach the focus",
+      "endCaption": "Check the focal case",
+      "overflow": false
+    },
+    {
+      "id": "SA-0104",
+      "title": "Convex mirrors",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Extend backward",
+      "endCaption": "Move the object",
+      "overflow": false
+    },
+    {
+      "id": "SA-0105",
+      "title": "Real life examples",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Observe a change",
+      "endCaption": "Transfer carefully",
+      "overflow": false
+    },
+    {
+      "id": "SA-0106",
+      "title": "Refraction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Apply Snell\u2019s law",
+      "endCaption": "Check the limit",
+      "overflow": false
+    },
+    {
+      "id": "SA-0107",
+      "title": "Lenses",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Locate convergence",
+      "endCaption": "Try the focus",
+      "overflow": false
+    },
+    {
+      "id": "SA-0108",
+      "title": "Human eye",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Refract incoming rays",
+      "endCaption": "Recognize vision\u2019s scope",
+      "overflow": false
+    },
+    {
+      "id": "SA-0109",
+      "title": "Prisms",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Cross the material",
+      "endCaption": "Compare wavelengths",
+      "overflow": false
+    },
+    {
+      "id": "SA-0110",
+      "title": "Interference",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Superpose waves",
+      "endCaption": "Change separation",
+      "overflow": false
+    },
+    {
+      "id": "SA-0111",
+      "title": "Diffraction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Find the central maximum",
+      "endCaption": "Change width",
+      "overflow": false
+    },
+    {
+      "id": "SA-0112",
+      "title": "Echoes",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Reflect",
+      "endCaption": "Change temperature",
+      "overflow": false
+    },
+    {
+      "id": "SA-0113",
+      "title": "SONAR",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Reflect",
+      "endCaption": "Calculate range",
+      "overflow": false
+    },
+    {
+      "id": "SA-0114",
+      "title": "Reverberations",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Overlap arrivals",
+      "endCaption": "Compare treatment",
+      "overflow": false
+    },
+    {
+      "id": "SA-0115",
+      "title": "Effective length of seconds pendulum",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Choose small amplitude",
+      "endCaption": "Change gravity",
+      "overflow": false
+    },
+    {
+      "id": "SA-0116",
+      "title": "Variation of time period of a simple pendulum",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Change length",
+      "endCaption": "Change gravity",
+      "overflow": false
+    },
+    {
+      "id": "SA-0117",
+      "title": "Pendulum wave",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Lose alignment",
+      "endCaption": "Reunite ideally",
+      "overflow": false
+    },
+    {
+      "id": "SA-0118",
+      "title": "Simple harmonic motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Cross equilibrium",
+      "endCaption": "Change m or k",
+      "overflow": false
+    },
+    {
+      "id": "SA-0119",
+      "title": "Wave motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Measure wavelength",
+      "endCaption": "Change frequency",
+      "overflow": false
+    },
+    {
+      "id": "SA-0120",
+      "title": "Resonance",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Observe the response",
+      "endCaption": "Locate the displacement peak",
+      "overflow": false
+    },
+    {
+      "id": "SA-0121",
+      "title": "Doppler effect",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Compress forward spacing",
+      "endCaption": "Compare the limit",
+      "overflow": false
+    },
+    {
+      "id": "SA-0122",
+      "title": "Heat",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Observe change",
+      "endCaption": "Check conservation",
+      "overflow": false
+    },
+    {
+      "id": "SA-0123",
+      "title": "Temperature",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Raise temperature",
+      "endCaption": "State the approximation",
+      "overflow": false
+    },
+    {
+      "id": "SA-0124",
+      "title": "Heat transfer",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Change temperatures",
+      "endCaption": "Compare mechanisms",
+      "overflow": false
+    },
+    {
+      "id": "SA-0125",
+      "title": "Thermal expansion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "capturedDisplaySeconds": 50,
+      "midCaption": "Apply a coefficient",
+      "endCaption": "Compare cooling",
+      "overflow": false
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "id": "SA-0101",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0102",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0103",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 431.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0104",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0105",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0106",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0107",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 431.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0108",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0109",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0110",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0111",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0112",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0113",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0114",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0115",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0116",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0117",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0118",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 406.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0119",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0120",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0121",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0122",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0123",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0124",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0125",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0101",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0102",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0103",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0104",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0105",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0106",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0107",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0108",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0109",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0110",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0111",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0112",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0113",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0114",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0115",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0116",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0117",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0118",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0119",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0120",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0121",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0122",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0123",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0124",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0125",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0101",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0102",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0103",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0104",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0105",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0106",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0107",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0108",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0109",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0110",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0111",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0112",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0113",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0114",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0115",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0116",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0117",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0118",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0119",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0120",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0121",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0122",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0123",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0124",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0125",
+      "device": "tv",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 807.8046875,
+        "viewport": 1920,
+        "width": 1920,
+        "x": 0
+      },
+      "canvas": true
+    }
+  ],
+  "guidedChecks": [
+    {
+      "id": "SA-0101",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Read the approximation",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0102",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Locate the image",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0103",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check the focal case",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0104",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Move the object",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0105",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Transfer carefully",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0106",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check the limit",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0107",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Try the focus",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0108",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Recognize vision\u2019s scope",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0109",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare wavelengths",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0110",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change separation",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0111",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change width",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0112",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change temperature",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0113",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Calculate range",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0114",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare treatment",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0115",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change gravity",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0116",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change gravity",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0117",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Reunite ideally",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0118",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change m or k",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0119",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change frequency",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0120",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Locate the displacement peak",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0121",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare the limit",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0122",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check conservation",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0123",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "State the approximation",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0124",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare mechanisms",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0125",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare cooling",
+      "observationTable": true
+    }
+  ],
+  "semanticChecks": [
+    {
+      "id": "SA-0103",
+      "chapter": "Endpoint",
+      "metrics": "Image distance\nInfinity m\nMagnification\nUndefined \u00d7\nImage location\nNo finite image"
+    },
+    {
+      "id": "SA-0115",
+      "chapter": "Endpoint",
+      "metrics": "Full period\n2.000 s\nSpeed\n0.000 m/s"
+    },
+    {
+      "id": "SA-0117",
+      "chapter": "Endpoint",
+      "metrics": "Pendulum 1 physical period\n2.00 s\nPendulum 9 physical period\n1.30 s\nExact small-angle reunion\n30.00 s"
+    },
+    {
+      "id": "SA-0116",
+      "chapter": 2,
+      "metrics": "Full period\n1.737 s\nSpeed\n0.036 m/s"
+    },
+    {
+      "id": "SA-0116",
+      "chapter": 3,
+      "metrics": "Full period\n3.475 s\nSpeed\n0.072 m/s"
+    },
+    {
+      "id": "SA-0116",
+      "chapter": 4,
+      "metrics": "Full period\n3.475 s\nSpeed\n0.941 m/s"
+    },
+    {
+      "id": "SA-0123",
+      "chapter": 1,
+      "metrics": "Pressure\n124.72 kPa\nPV\n249.43 J\nTemperature\n300 K\nMean translational energy per particle\n6.213e-21 J\npV\n249.434 J\nMonatomic \u0394U from 300 K\n0.000 J\nGas \u0394S from 300 K, 2 L\n0.000 J/K\nWork: isochoric then isothermal path\n0.000 J\nHeat on stated reversible path\n0.000 J"
+    },
+    {
+      "id": "SA-0123",
+      "chapter": 3,
+      "metrics": "Pressure\n249.43 kPa\nPV\n498.87 J\nTemperature\n600 K\nMean translational energy per particle\n1.243e-20 J\npV\n498.868 J\nMonatomic \u0394U from 300 K\n374.151 J\nGas \u0394S from 300 K, 2 L\n0.864 J/K\nWork: isochoric then isothermal path\n0.000 J\nHeat on stated reversible path\n374.151 J"
+    },
+    {
+      "id": "SA-0106",
+      "chapter": "Endpoint",
+      "metrics": "Transmitted angle\nNo ray (TIR)"
+    },
+    {
+      "id": "SA-0125",
+      "chapter": "Endpoint",
+      "metrics": "Final length change\n-0.36 mm\nFinal length\n0.99964 m\nLinear expansion coefficient\n12.00 \u03bcK\u207b\u00b9"
+    }
+  ],
+  "livePlaybackSpotCheck": {
+    "id": "SA-0110",
+    "started": 0.4948,
+    "advancedTo": 45.18610000000424,
+    "clockAdvances": true,
+    "scope": "Live playback spot check; all 25 routes also checked at selected timeline states."
+  },
+  "manualExtremeCheck": {
+    "id": "SA-0116",
+    "lengthMetres": 4,
+    "periodSeconds": 4.012,
+    "evidence": "pendulum-4m-clearance.png"
+  },
+  "automatedTests": {
+    "total": 1655,
+    "passed": 1655,
+    "targetedBatchTests": 34,
+    "exactStagedSnapshot": true
+  },
+  "build": "TypeScript compilation and Vite production build passed on the exact staged source snapshot. Existing large-bundle warnings remain."
+}

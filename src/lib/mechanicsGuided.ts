@@ -1,3 +1,4 @@
+import{waveThermalConceptTime}from'./waveThermalPresentation';
 import{projectile}from'./expansionModels';
 import{falling}from'./batchModels';
 import type{Parameters}from'../components/science/types';
@@ -10,7 +11,7 @@ export function mechanicsConceptTime(id:string,seconds:number,p:Parameters):numb
  if(['SA-0090','SA-0091','SA-0092','SA-0097'].includes(id)){return 6*Math.min(.99999,(t<80?t/80:(t-80)/20));}
  if(id==='SA-0079'||id==='SA-0087'){return 6*Math.min(.99999,(t<60?t/60:(t-60)/40));}
  if(id==='SA-0069'){const impact=3.6/p.uc,duration=impact+.4,physical=t<60?impact*t/60:impact+.4*(t-60)/40;return 6*Math.min(.99999,physical/duration);}
- return null;
+ return waveThermalConceptTime(id,t,p);
 }
 /** Stroboscopic positions at equal physical-time intervals; no predicted future samples. */
 export function fallSamples(p:Parameters,t:number){const end=falling(0,p.fallHeight,p.fallMass,p.fallArea,p.airDrag).impactTime,now=Math.min(t,end),dt=end/12;return Array.from({length:12},(_,j)=>now-(j+1)*dt).filter(t=>t>=0).reverse().map(t=>({time:t,height:falling(t,p.fallHeight,p.fallMass,p.fallArea,p.airDrag).height}));}

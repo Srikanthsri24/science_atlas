@@ -1,10 +1,10 @@
 {
   "totalLabs": 408,
-  "completedCount": 100,
-  "remainingCount": 308,
-  "completedThrough": "SA-0100",
-  "nextLab": "SA-0101",
-  "nextBatchEnd": "SA-0125",
+  "completedCount": 125,
+  "remainingCount": 283,
+  "completedThrough": "SA-0125",
+  "nextLab": "SA-0126",
+  "nextBatchEnd": "SA-0150",
   "goalStatus": "active",
   "minimumAnimationSeconds": 60,
   "reviewedBatchAnimationSeconds": 100,
@@ -30,6 +30,11 @@
       "range": "SA-0076\u2013SA-0100",
       "branch": "codex/fluid-field-realism-batch-04",
       "report": "reports/fluid-field-batch-04/review.json"
+    },
+    {
+      "range": "SA-0101\u2013SA-0125",
+      "branch": "codex/optics-waves-realism-batch-05",
+      "report": "reports/optics-waves-batch-05/review.json"
     }
   ]
 }

@@ -3351,27 +3351,47 @@
         {
           "title": "Locate the focus",
           "caption": "Use positive f for the concave mirror.",
-          "detail": "The spherical mirror is approximated near the axis."
+          "detail": "The spherical mirror is approximated near the axis.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Place a distant object",
           "caption": "Beyond 2f the real image is smaller and inverted.",
-          "detail": "Reflected rays actually converge."
+          "detail": "Reflected rays actually converge.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Approach the focus",
           "caption": "Between f and 2f the real image is larger.",
-          "detail": "Image distance increases toward the focal case."
+          "detail": "Image distance increases toward the focal case.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 1.5
+          }
         },
         {
           "title": "Go inside the focus",
           "caption": "The image becomes virtual and upright.",
-          "detail": "Use backward extensions to locate it."
+          "detail": "Use backward extensions to locate it.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 0.5
+          }
         },
         {
           "title": "Check the focal case",
           "caption": "An object at f gives parallel outgoing rays.",
-          "detail": "There is no finite image distance in this ideal model."
+          "detail": "There is no finite image distance in this ideal model.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 1
+          }
         }
       ],
       "activity": "Move the object from 3f to 1.5f to 0.5f; compare image type and orientation.",
@@ -3549,27 +3569,47 @@
         {
           "title": "Choose the surface",
           "caption": "Select a convex mirror with negative f.",
-          "detail": "The reflecting surface curves outward."
+          "detail": "The reflecting surface curves outward.",
+          "parameters": {
+            "mirrorFocus": -1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Trace reflection",
           "caption": "Physical reflected rays diverge.",
-          "detail": "The rays do not pass through the virtual focus."
+          "detail": "The rays do not pass through the virtual focus.",
+          "parameters": {
+            "mirrorFocus": -1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Extend backward",
           "caption": "Draw construction lines behind the mirror.",
-          "detail": "They locate an apparent source of reflected light."
+          "detail": "They locate an apparent source of reflected light.",
+          "parameters": {
+            "mirrorFocus": -1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Read the image",
           "caption": "The image is upright and diminished.",
-          "detail": "Its image distance is negative."
+          "detail": "Its image distance is negative.",
+          "parameters": {
+            "mirrorFocus": -1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Move the object",
           "caption": "Compare several object distances.",
-          "detail": "The virtual character persists for real objects."
+          "detail": "The virtual character persists for real objects.",
+          "parameters": {
+            "mirrorFocus": -1,
+            "mirrorDistance": 1.5
+          }
         }
       ],
       "activity": "Keep f negative and vary positive object distance; compare image type and magnification.",
@@ -3747,27 +3787,52 @@
         {
           "title": "Find the normal",
           "caption": "Draw a perpendicular to the interface.",
-          "detail": "Both angles are measured from it."
+          "detail": "Both angles are measured from it.",
+          "parameters": {
+            "n1": 1,
+            "n2": 1.5,
+            "angle": 0
+          }
         },
         {
           "title": "Set the media",
           "caption": "Compare n1 and n2.",
-          "detail": "The higher-index medium has smaller phase speed."
+          "detail": "The higher-index medium has smaller phase speed.",
+          "parameters": {
+            "n1": 1,
+            "n2": 1.5,
+            "angle": 30
+          }
         },
         {
           "title": "Apply Snell’s law",
           "caption": "Calculate the transmitted direction.",
-          "detail": "Entering a higher index bends a non-normal ray toward the normal."
+          "detail": "Entering a higher index bends a non-normal ray toward the normal.",
+          "parameters": {
+            "n1": 1,
+            "n2": 1.5,
+            "angle": 40
+          }
         },
         {
           "title": "Follow reflected power",
           "caption": "Some light may also reflect.",
-          "detail": "The power fractions use the lossless Fresnel model."
+          "detail": "The power fractions use the lossless Fresnel model.",
+          "parameters": {
+            "n1": 1,
+            "n2": 1.5,
+            "angle": 40
+          }
         },
         {
           "title": "Check the limit",
           "caption": "From high to low index, sufficiently large incidence gives TIR.",
-          "detail": "There is no propagating transmitted ray above the critical angle."
+          "detail": "There is no propagating transmitted ray above the critical angle.",
+          "parameters": {
+            "n1": 1.5,
+            "n2": 1,
+            "angle": 60
+          }
         }
       ],
       "activity": "Compare air-to-glass with glass-to-air and watch for the critical-angle limit.",
@@ -3943,27 +4008,47 @@
         {
           "title": "Choose lens type",
           "caption": "Read the sign of focal length.",
-          "detail": "Positive converges and negative diverges."
+          "detail": "Positive converges and negative diverges.",
+          "parameters": {
+            "focalLength": 1,
+            "objectDistance": 3
+          }
         },
         {
           "title": "Trace principal rays",
           "caption": "Follow rays from the top of the object.",
-          "detail": "The near-axis approximation is assumed."
+          "detail": "The near-axis approximation is assumed.",
+          "parameters": {
+            "focalLength": 1,
+            "objectDistance": 3
+          }
         },
         {
           "title": "Locate convergence",
           "caption": "A real image forms where transmitted rays meet.",
-          "detail": "A negative image distance indicates a virtual construction."
+          "detail": "A negative image distance indicates a virtual construction.",
+          "parameters": {
+            "focalLength": 1,
+            "objectDistance": 2
+          }
         },
         {
           "title": "Read orientation",
           "caption": "Negative magnification means inversion.",
-          "detail": "Positive magnification means upright orientation."
+          "detail": "Positive magnification means upright orientation.",
+          "parameters": {
+            "focalLength": 1,
+            "objectDistance": 2
+          }
         },
         {
           "title": "Try the focus",
           "caption": "At do=f for a converging lens, output rays are parallel.",
-          "detail": "No finite image location is displayed."
+          "detail": "No finite image location is displayed.",
+          "parameters": {
+            "focalLength": 1,
+            "objectDistance": 1
+          }
         }
       ],
       "activity": "Compare a positive and a negative f at the same object distance.",
@@ -4139,27 +4224,47 @@
         {
           "title": "Emit the pulse",
           "caption": "The source launches a travelling sound disturbance.",
-          "detail": "The source and receiver are colocated here."
+          "detail": "The source and receiver are colocated here.",
+          "parameters": {
+            "ua": 30,
+            "ub": 20
+          }
         },
         {
           "title": "Reach the wall",
           "caption": "The outgoing pulse travels distance d.",
-          "detail": "This is only half the final journey."
+          "detail": "This is only half the final journey.",
+          "parameters": {
+            "ua": 30,
+            "ub": 20
+          }
         },
         {
           "title": "Reflect",
           "caption": "Sound returns from the ideal wall.",
-          "detail": "Multiple echoes and absorption are omitted."
+          "detail": "Multiple echoes and absorption are omitted.",
+          "parameters": {
+            "ua": 30,
+            "ub": 20
+          }
         },
         {
           "title": "Measure delay",
           "caption": "The total path is 2d.",
-          "detail": "Use d=cΔt/2 to infer range."
+          "detail": "Use d=cΔt/2 to infer range.",
+          "parameters": {
+            "ua": 30,
+            "ub": 20
+          }
         },
         {
           "title": "Change temperature",
           "caption": "Warmer air has greater modeled sound speed.",
-          "detail": "At fixed range the return delay decreases."
+          "detail": "At fixed range the return delay decreases.",
+          "parameters": {
+            "ua": 30,
+            "ub": 35
+          }
         }
       ],
       "activity": "Double wall distance at fixed temperature, then change temperature at fixed distance.",
@@ -4303,27 +4408,62 @@
         {
           "title": "Define a full cycle",
           "caption": "Start at one extreme and return to it.",
-          "detail": "That out-and-back journey defines T."
+          "detail": "That out-and-back journey defines T.",
+          "parameters": {
+            "length": 0.9939608115313336,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Measure length",
           "caption": "Use pivot to centre of mass.",
-          "detail": "String length alone can omit bob radius."
+          "detail": "String length alone can omit bob radius.",
+          "parameters": {
+            "length": 0.9939608115313336,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Choose small amplitude",
           "caption": "Keep the angle within the linearized range.",
-          "detail": "This viewer limits release angle to 15°."
+          "detail": "This viewer limits release angle to 15°.",
+          "parameters": {
+            "length": 0.9939608115313336,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Solve for length",
           "caption": "Insert T=2 s and the selected g.",
-          "detail": "At Earth gravity the length is close to one metre."
+          "detail": "At Earth gravity the length is close to one metre.",
+          "parameters": {
+            "length": 0.9939608115313336,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Change gravity",
           "caption": "A new g requires a new seconds-pendulum length.",
-          "detail": "Length is proportional to g for fixed T."
+          "detail": "Length is proportional to g for fixed T.",
+          "parameters": {
+            "length": 1.9879216230626673,
+            "gravity": 19.62,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         }
       ],
       "activity": "Set length near 0.994 m and compare the displayed full period with 2 s.",
@@ -4471,27 +4611,62 @@
         {
           "title": "Fix the conditions",
           "caption": "Use a small angle and no damping.",
-          "detail": "Change one input at a time."
+          "detail": "Change one input at a time.",
+          "parameters": {
+            "length": 0.75,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Measure the baseline",
           "caption": "Read the full period at one length.",
-          "detail": "A half-swing is not a full period."
+          "detail": "A half-swing is not a full period.",
+          "parameters": {
+            "length": 0.75,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Change length",
           "caption": "Quadrupling length doubles T.",
-          "detail": "The relation is a square root."
+          "detail": "The relation is a square root.",
+          "parameters": {
+            "length": 3,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 1
+          }
         },
         {
           "title": "Change mass",
           "caption": "Compare the same motion for different bobs.",
-          "detail": "Mass cancels from the ideal equation."
+          "detail": "Mass cancels from the ideal equation.",
+          "parameters": {
+            "length": 3,
+            "gravity": 9.81,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 2
+          }
         },
         {
           "title": "Change gravity",
           "caption": "Lower g gives a larger period.",
-          "detail": "The pendulum takes longer to complete its cycle."
+          "detail": "The pendulum takes longer to complete its cycle.",
+          "parameters": {
+            "length": 3,
+            "gravity": 4.9,
+            "amplitude": 10,
+            "damping": 0,
+            "mass": 2
+          }
         }
       ],
       "activity": "Compare L=1 m and L=4 m, then vary mass with all other settings fixed.",
@@ -4637,27 +4812,52 @@
         {
           "title": "Displace the mass",
           "caption": "The spring stores elastic potential energy.",
-          "detail": "The initial speed is zero at maximum extension."
+          "detail": "The initial speed is zero at maximum extension.",
+          "parameters": {
+            "springMass": 1,
+            "springK": 20,
+            "springAmplitude": 0.3
+          }
         },
         {
           "title": "Restore toward centre",
           "caption": "The force points opposite displacement.",
-          "detail": "Its magnitude is k|x|."
+          "detail": "Its magnitude is k|x|.",
+          "parameters": {
+            "springMass": 1,
+            "springK": 20,
+            "springAmplitude": 0.3
+          }
         },
         {
           "title": "Cross equilibrium",
           "caption": "Speed and kinetic energy are greatest.",
-          "detail": "The restoring force is instantaneously zero."
+          "detail": "The restoring force is instantaneously zero.",
+          "parameters": {
+            "springMass": 1,
+            "springK": 20,
+            "springAmplitude": 0.3
+          }
         },
         {
           "title": "Reach the opposite end",
           "caption": "Speed returns to zero.",
-          "detail": "Energy is again elastic potential."
+          "detail": "Energy is again elastic potential.",
+          "parameters": {
+            "springMass": 1,
+            "springK": 20,
+            "springAmplitude": 0.3
+          }
         },
         {
           "title": "Change m or k",
           "caption": "Larger mass increases period; larger stiffness decreases it.",
-          "detail": "Amplitude does not change the ideal linear period."
+          "detail": "Amplitude does not change the ideal linear period.",
+          "parameters": {
+            "springMass": 2,
+            "springK": 20,
+            "springAmplitude": 0.3
+          }
         }
       ],
       "activity": "Pause at an extreme and at the middle. Compare displacement, speed and energy.",
@@ -4801,27 +5001,52 @@
         {
           "title": "Mark one point",
           "caption": "Follow a point with fixed horizontal position.",
-          "detail": "It oscillates vertically in the model."
+          "detail": "It oscillates vertically in the model.",
+          "parameters": {
+            "waveAmplitude": 0.4,
+            "waveFrequency": 1,
+            "waveSpeed": 2
+          }
         },
         {
           "title": "Follow a crest",
           "caption": "The phase pattern moves along the string.",
-          "detail": "This is propagation, not bulk transport of the string."
+          "detail": "This is propagation, not bulk transport of the string.",
+          "parameters": {
+            "waveAmplitude": 0.4,
+            "waveFrequency": 1,
+            "waveSpeed": 2
+          }
         },
         {
           "title": "Measure wavelength",
           "caption": "Find the distance between adjacent crests.",
-          "detail": "Use points in the same phase."
+          "detail": "Use points in the same phase.",
+          "parameters": {
+            "waveAmplitude": 0.4,
+            "waveFrequency": 1,
+            "waveSpeed": 2
+          }
         },
         {
           "title": "Relate speed and timing",
           "caption": "One wavelength passes each period.",
-          "detail": "Therefore v=fλ."
+          "detail": "Therefore v=fλ.",
+          "parameters": {
+            "waveAmplitude": 0.4,
+            "waveFrequency": 1,
+            "waveSpeed": 2
+          }
         },
         {
           "title": "Change frequency",
           "caption": "At fixed v, doubling f halves λ.",
-          "detail": "Do not confuse transverse point velocity with wave speed."
+          "detail": "Do not confuse transverse point velocity with wave speed.",
+          "parameters": {
+            "waveAmplitude": 0.4,
+            "waveFrequency": 2,
+            "waveSpeed": 2
+          }
         }
       ],
       "activity": "Keep speed fixed and double frequency. Compare wavelength and the marked point’s motion.",
@@ -10820,27 +11045,47 @@
         {
           "title": "Find the incoming ray",
           "caption": "Trace the ray toward the surface.",
-          "detail": "Its direction defines incidence."
+          "detail": "Its direction defines incidence.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Draw the normal",
           "caption": "Use the perpendicular at the contact point.",
-          "detail": "For a sphere it follows the local radius."
+          "detail": "For a sphere it follows the local radius.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 3
+          }
         },
         {
           "title": "Measure incidence",
           "caption": "Measure the ray-to-normal angle.",
-          "detail": "Do not use the complementary surface angle."
+          "detail": "Do not use the complementary surface angle.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 2
+          }
         },
         {
           "title": "Reflect in the plane",
           "caption": "The outgoing angle has equal magnitude.",
-          "detail": "The incident ray, normal and reflection remain coplanar."
+          "detail": "The incident ray, normal and reflection remain coplanar.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 2
+          }
         },
         {
           "title": "Read the approximation",
           "caption": "The optical bench uses principal near-axis rays.",
-          "detail": "Spherical aberration and rough-surface scattering are omitted."
+          "detail": "Spherical aberration and rough-surface scattering are omitted.",
+          "parameters": {
+            "mirrorFocus": 1,
+            "mirrorDistance": 3
+          }
         }
       ],
       "activity": "Follow a moving light marker through reflection and identify the appropriate local normal.",
@@ -10987,27 +11232,57 @@
         {
           "title": "Create a difference",
           "caption": "Choose two different temperatures.",
-          "detail": "There is a thermal driving difference."
+          "detail": "There is a thermal driving difference.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Conduct energy",
           "caption": "Net heat flows from hotter to colder.",
-          "detail": "G sets the rate per degree difference."
+          "detail": "G sets the rate per degree difference.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Change temperatures",
           "caption": "One body cools as the other warms.",
-          "detail": "Equal masses and equal heat capacities are assumed."
+          "detail": "Equal masses and equal heat capacities are assumed.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Conserve energy",
           "caption": "The insulated pair approaches its common mean.",
-          "detail": "No energy crosses the outer system boundary."
+          "detail": "No energy crosses the outer system boundary.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Compare mechanisms",
           "caption": "Convection moves fluid and radiation uses electromagnetic energy.",
-          "detail": "Only conduction is calculated by this bench."
+          "detail": "Only conduction is calculated by this bench.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         }
       ],
       "activity": "Double conductance and compare the approach time while keeping both masses and starting temperatures fixed.",
@@ -23132,27 +23407,57 @@
         {
           "title": "Choose temperatures",
           "caption": "Set the initial temperatures of the two blocks.",
-          "detail": "They have equal mass and specific heat."
+          "detail": "They have equal mass and specific heat.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Make thermal contact",
           "caption": "Energy transfers through the chosen conductance.",
-          "detail": "The pair is insulated from outside."
+          "detail": "The pair is insulated from outside.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Observe change",
           "caption": "The warmer block cools and the cooler block warms.",
-          "detail": "Energy lost by one is gained by the other."
+          "detail": "Energy lost by one is gained by the other.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Approach equilibrium",
           "caption": "The temperature difference decreases.",
-          "detail": "Heat-transfer rate falls with the difference."
+          "detail": "Heat-transfer rate falls with the difference.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 5
+          }
         },
         {
           "title": "Check conservation",
           "caption": "The arithmetic mean remains fixed for these identical blocks.",
-          "detail": "Unequal heat capacities would require a weighted equilibrium calculation."
+          "detail": "Unequal heat capacities would require a weighted equilibrium calculation.",
+          "parameters": {
+            "ua": 80,
+            "ub": 20,
+            "uc": 1,
+            "ud": 10
+          }
         }
       ],
       "activity": "Compare equal initial temperatures with a warmer-left and cooler-right pair.",
@@ -23296,27 +23601,57 @@
         {
           "title": "Read the unit",
           "caption": "Use kelvin for the gas-law temperature.",
-          "detail": "Celsius values require conversion."
+          "detail": "Celsius values require conversion.",
+          "parameters": {
+            "gasMoles": 0.1,
+            "gasVolume": 2,
+            "temperature": 300,
+            "thermalPlot": true
+          }
         },
         {
           "title": "Fix the sample",
           "caption": "Hold amount and container volume constant.",
-          "detail": "This isolates the temperature effect."
+          "detail": "This isolates the temperature effect.",
+          "parameters": {
+            "gasMoles": 0.1,
+            "gasVolume": 2,
+            "temperature": 300,
+            "thermalPlot": true
+          }
         },
         {
           "title": "Raise temperature",
           "caption": "Calculated pressure increases.",
-          "detail": "The model uses the absolute-temperature ratio."
+          "detail": "The model uses the absolute-temperature ratio.",
+          "parameters": {
+            "gasMoles": 0.1,
+            "gasVolume": 2,
+            "temperature": 600,
+            "thermalPlot": true
+          }
         },
         {
           "title": "Compare quantities",
           "caption": "Temperature and total thermal energy are different quantities.",
-          "detail": "Amount and substance also affect internal energy."
+          "detail": "Amount and substance also affect internal energy.",
+          "parameters": {
+            "gasMoles": 0.1,
+            "gasVolume": 2,
+            "temperature": 600,
+            "thermalPlot": true
+          }
         },
         {
           "title": "State the approximation",
           "caption": "The gas is ideal.",
-          "detail": "Real-gas effects and phase changes are omitted."
+          "detail": "Real-gas effects and phase changes are omitted.",
+          "parameters": {
+            "gasMoles": 0.1,
+            "gasVolume": 2,
+            "temperature": 600,
+            "thermalPlot": true
+          }
         }
       ],
       "activity": "Keep amount and volume fixed and compare pressure at 300 K and 600 K.",
@@ -49125,27 +49460,42 @@
         {
           "title": "Place the object",
           "caption": "Observe its distance from the mirror.",
-          "detail": "The surface is flat."
+          "detail": "The surface is flat.",
+          "parameters": {
+            "ua": 1
+          }
         },
         {
           "title": "Send incident rays",
           "caption": "Rays reach different surface points.",
-          "detail": "Angles are measured from the normal."
+          "detail": "Angles are measured from the normal.",
+          "parameters": {
+            "ua": 1
+          }
         },
         {
           "title": "Reflect light",
           "caption": "Outgoing rays obey equal angles.",
-          "detail": "Light remains in front of the ideal mirror."
+          "detail": "Light remains in front of the ideal mirror.",
+          "parameters": {
+            "ua": 1
+          }
         },
         {
           "title": "Extend rays backward",
           "caption": "Thin constructions meet behind the mirror.",
-          "detail": "They are not actual light paths."
+          "detail": "They are not actual light paths.",
+          "parameters": {
+            "ua": 1
+          }
         },
         {
           "title": "Locate the image",
           "caption": "The virtual upright image is equally far behind.",
-          "detail": "Its size matches the object."
+          "detail": "Its size matches the object.",
+          "parameters": {
+            "ua": 1.5
+          }
         }
       ],
       "activity": "Change object distance and compare the matched image distance.",
@@ -49289,27 +49639,42 @@
         {
           "title": "Choose a situation",
           "caption": "Use an ideal flat mirror.",
-          "detail": "The original broad inventory heading is preserved."
+          "detail": "The original broad inventory heading is preserved.",
+          "parameters": {
+            "ua": 0.5
+          }
         },
         {
           "title": "State assumptions",
           "caption": "The surface is plane and reflecting.",
-          "detail": "Curved mirrors require other geometry."
+          "detail": "Curved mirrors require other geometry.",
+          "parameters": {
+            "ua": 0.5
+          }
         },
         {
           "title": "Observe a change",
           "caption": "Move the object farther away.",
-          "detail": "Keep the mirror fixed."
+          "detail": "Keep the mirror fixed.",
+          "parameters": {
+            "ua": 1.5
+          }
         },
         {
           "title": "Explain the image",
           "caption": "Backward ray extensions locate it.",
-          "detail": "Its distance matches the object distance."
+          "detail": "Its distance matches the object distance.",
+          "parameters": {
+            "ua": 1.5
+          }
         },
         {
           "title": "Transfer carefully",
           "caption": "Apply the rule only where assumptions fit.",
-          "detail": "Other real-life optics need their own models."
+          "detail": "Other real-life optics need their own models.",
+          "parameters": {
+            "ua": 1
+          }
         }
       ],
       "activity": "Move the object and explain the image location using reflected rays.",
@@ -49453,27 +49818,47 @@
         {
           "title": "Place an object",
           "caption": "Read its physical distance.",
-          "detail": "The drawing compresses object position."
+          "detail": "The drawing compresses object position.",
+          "parameters": {
+            "ua": 58,
+            "ub": 1
+          }
         },
         {
           "title": "Choose equivalent power",
           "caption": "The reduced model represents combined optics.",
-          "detail": "It is not the isolated lens alone."
+          "detail": "It is not the isolated lens alone.",
+          "parameters": {
+            "ua": 58,
+            "ub": 1
+          }
         },
         {
           "title": "Refract incoming rays",
           "caption": "Trace schematic rays through the equivalent lens.",
-          "detail": "Paraxial optics is assumed."
+          "detail": "Paraxial optics is assumed.",
+          "parameters": {
+            "ua": 60,
+            "ub": 1
+          }
         },
         {
           "title": "Locate the image",
           "caption": "Compare calculated v with the chosen retina.",
-          "detail": "Read millimetres for the physical result."
+          "detail": "Read millimetres for the physical result.",
+          "parameters": {
+            "ua": 60,
+            "ub": 1
+          }
         },
         {
           "title": "Recognize vision’s scope",
           "caption": "Receptors and brain processing also matter.",
-          "detail": "The model provides no clinical prescription."
+          "detail": "The model provides no clinical prescription.",
+          "parameters": {
+            "ua": 60,
+            "ub": 1
+          }
         }
       ],
       "activity": "Hold object distance fixed and move calculated image distance toward the chosen retina.",
@@ -49649,27 +50034,57 @@
         {
           "title": "Enter a prism",
           "caption": "Identify the common incident direction.",
-          "detail": "The apex angle is 60°."
+          "detail": "The apex angle is 60°.",
+          "parameters": {
+            "ua": 2,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Refract at the first face",
           "caption": "Apply Snell’s law for each chosen index.",
-          "detail": "All rays share 55° incidence."
+          "detail": "All rays share 55° incidence.",
+          "parameters": {
+            "ua": 2,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Cross the material",
           "caption": "Internal directions differ slightly.",
-          "detail": "Index follows a selected dispersion law."
+          "detail": "Index follows a selected dispersion law.",
+          "parameters": {
+            "ua": 2,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Exit the second face",
           "caption": "The second refraction changes direction again.",
-          "detail": "The geometry obeys both boundaries."
+          "detail": "The geometry obeys both boundaries.",
+          "parameters": {
+            "ua": 2,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Compare wavelengths",
           "caption": "Shorter wavelengths deviate more in this chosen model.",
-          "detail": "This is not a universal law for every spectral region."
+          "detail": "This is not a universal law for every spectral region.",
+          "parameters": {
+            "ua": 2,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         }
       ],
       "activity": "Compare the deviation values for 450, 550 and 650 nm.",
@@ -49847,27 +50262,57 @@
         {
           "title": "Choose coherent illumination",
           "caption": "Use one selected wavelength.",
-          "detail": "A stable phase relation is assumed."
+          "detail": "A stable phase relation is assumed.",
+          "parameters": {
+            "ua": 0,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Pass two slits",
           "caption": "The openings provide overlapping fields.",
-          "detail": "Their width is finite."
+          "detail": "Their width is finite.",
+          "parameters": {
+            "ua": 0,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Superpose waves",
           "caption": "Relative phase changes across the screen.",
-          "detail": "The fields add before intensity is found."
+          "detail": "The fields add before intensity is found.",
+          "parameters": {
+            "ua": 0,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Read bright and dark bands",
           "caption": "Constructive and destructive regions alternate.",
-          "detail": "A diffraction envelope also modulates them."
+          "detail": "A diffraction envelope also modulates them.",
+          "parameters": {
+            "ua": 0,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Change separation",
           "caption": "Larger d gives smaller small-angle fringe spacing.",
-          "detail": "Hold wavelength and screen distance fixed."
+          "detail": "Hold wavelength and screen distance fixed.",
+          "parameters": {
+            "ua": 0,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.5
+          }
         }
       ],
       "activity": "Increase slit separation while keeping wavelength fixed and compare spacing.",
@@ -50013,27 +50458,57 @@
         {
           "title": "Choose one slit",
           "caption": "Select the single-slit view.",
-          "detail": "The aperture is rectangular."
+          "detail": "The aperture is rectangular.",
+          "parameters": {
+            "ua": 1,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Spread the wave",
           "caption": "Different aperture regions contribute to the field.",
-          "detail": "Wavefront arcs are illustrative."
+          "detail": "Wavefront arcs are illustrative.",
+          "parameters": {
+            "ua": 1,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Find the central maximum",
           "caption": "Intensity has a finite unit limit at θ=0.",
-          "detail": "The formula is not evaluated as undefined 0/0."
+          "detail": "The formula is not evaluated as undefined 0/0.",
+          "parameters": {
+            "ua": 1,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Locate minima",
           "caption": "Destructive interference gives dark positions.",
-          "detail": "The first satisfies a sinθ=λ."
+          "detail": "The first satisfies a sinθ=λ.",
+          "parameters": {
+            "ua": 1,
+            "ub": 550,
+            "uc": 0.04,
+            "ud": 0.25
+          }
         },
         {
           "title": "Change width",
           "caption": "A smaller a broadens the central region.",
-          "detail": "Use physical screen millimetres."
+          "detail": "Use physical screen millimetres.",
+          "parameters": {
+            "ua": 1,
+            "ub": 550,
+            "uc": 0.08,
+            "ud": 0.25
+          }
         }
       ],
       "activity": "Halve slit width and compare the first-minimum distance.",
@@ -50179,27 +50654,42 @@
         {
           "title": "Emit sound",
           "caption": "A transducer sends a pulse.",
-          "detail": "Its frequency and beam pattern are not simulated."
+          "detail": "Its frequency and beam pattern are not simulated.",
+          "parameters": {
+            "ua": 50
+          }
         },
         {
           "title": "Propagate outward",
           "caption": "The pulse travels toward a target.",
-          "detail": "The medium is uniform water."
+          "detail": "The medium is uniform water.",
+          "parameters": {
+            "ua": 50
+          }
         },
         {
           "title": "Reflect",
           "caption": "A target returns an echo.",
-          "detail": "Reflection strength is not calculated."
+          "detail": "Reflection strength is not calculated.",
+          "parameters": {
+            "ua": 50
+          }
         },
         {
           "title": "Measure delay",
           "caption": "The round-trip time includes outward and return paths.",
-          "detail": "Physical milliseconds appear in the readout."
+          "detail": "Physical milliseconds appear in the readout.",
+          "parameters": {
+            "ua": 50
+          }
         },
         {
           "title": "Calculate range",
           "caption": "Multiply delay by speed and divide by two.",
-          "detail": "The display cycle is not the physical travel time."
+          "detail": "The display cycle is not the physical travel time.",
+          "parameters": {
+            "ua": 100
+          }
         }
       ],
       "activity": "Double target range and compare the numerical echo delay.",
@@ -50343,27 +50833,47 @@
         {
           "title": "Create a sound",
           "caption": "A source excites the room.",
-          "detail": "The scene begins a decay example."
+          "detail": "The scene begins a decay example.",
+          "parameters": {
+            "ua": 200,
+            "ub": 20
+          }
         },
         {
           "title": "Reflect repeatedly",
           "caption": "Many paths connect surfaces and receiver.",
-          "detail": "Their timing is schematic."
+          "detail": "Their timing is schematic.",
+          "parameters": {
+            "ua": 200,
+            "ub": 20
+          }
         },
         {
           "title": "Overlap arrivals",
           "caption": "Later reflections persist.",
-          "detail": "This differs from one isolated echo."
+          "detail": "This differs from one isolated echo.",
+          "parameters": {
+            "ua": 200,
+            "ub": 20
+          }
         },
         {
           "title": "Absorb energy",
           "caption": "The diffuse-field estimate gives exponential decay.",
-          "detail": "The bar represents pressure amplitude."
+          "detail": "The bar represents pressure amplitude.",
+          "parameters": {
+            "ua": 200,
+            "ub": 40
+          }
         },
         {
           "title": "Compare treatment",
           "caption": "Greater A shortens the estimated RT60.",
-          "detail": "Real rooms can depart from the assumptions."
+          "detail": "Real rooms can depart from the assumptions.",
+          "parameters": {
+            "ua": 200,
+            "ub": 40
+          }
         }
       ],
       "activity": "Double equivalent absorption area at fixed volume and compare RT60.",
@@ -50507,27 +51017,47 @@
         {
           "title": "Set a shared release",
           "caption": "All pendulums begin in phase.",
-          "detail": "The amplitude is small in the physical model."
+          "detail": "The amplitude is small in the physical model.",
+          "parameters": {
+            "ua": 30,
+            "ub": 15
+          }
         },
         {
           "title": "Assign different periods",
           "caption": "Each completes a different integer cycle count.",
-          "detail": "The periods are selected deliberately."
+          "detail": "The periods are selected deliberately.",
+          "parameters": {
+            "ua": 30,
+            "ub": 15
+          }
         },
         {
           "title": "Lose alignment",
           "caption": "Phase differences accumulate.",
-          "detail": "The bobs remain independent."
+          "detail": "The bobs remain independent.",
+          "parameters": {
+            "ua": 30,
+            "ub": 15
+          }
         },
         {
           "title": "Form changing patterns",
           "caption": "Observe the array as phases spread.",
-          "detail": "Displayed geometry is adjusted for clarity."
+          "detail": "Displayed geometry is adjusted for clarity.",
+          "parameters": {
+            "ua": 30,
+            "ub": 15
+          }
         },
         {
           "title": "Reunite ideally",
           "caption": "After the chosen interval, all phases match.",
-          "detail": "Damping and tuning errors are omitted."
+          "detail": "Damping and tuning errors are omitted.",
+          "parameters": {
+            "ua": 30,
+            "ub": 15
+          }
         }
       ],
       "activity": "Change reunion interval and inspect the first and last physical periods.",
@@ -50671,27 +51201,47 @@
         {
           "title": "Specify a natural scale",
           "caption": "The natural frequency is fixed at 1 Hz.",
-          "detail": "The static force-displacement scale is also fixed."
+          "detail": "The static force-displacement scale is also fixed.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 0.2
+          }
         },
         {
           "title": "Apply a periodic drive",
           "caption": "Choose the drive-frequency ratio.",
-          "detail": "The model begins in steady state."
+          "detail": "The model begins in steady state.",
+          "parameters": {
+            "ua": 0.8,
+            "ub": 0.2
+          }
         },
         {
           "title": "Observe the response",
           "caption": "The mass oscillates at the drive frequency.",
-          "detail": "Displacement is magnified two times."
+          "detail": "Displacement is magnified two times.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.2
+          }
         },
         {
           "title": "Compare damping",
           "caption": "More damping limits amplification near resonance.",
-          "detail": "Phase also changes."
+          "detail": "Phase also changes.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.4
+          }
         },
         {
           "title": "Locate the displacement peak",
           "caption": "Use the damping-dependent peak ratio.",
-          "detail": "Energy and velocity resonance are different measures."
+          "detail": "Energy and velocity resonance are different measures.",
+          "parameters": {
+            "ua": 0.95,
+            "ub": 0.2
+          }
         }
       ],
       "activity": "Sweep the frequency ratio at low damping, then increase damping and compare the peak.",
@@ -50835,27 +51385,47 @@
         {
           "title": "Emit a periodic sound",
           "caption": "Choose emitted frequency.",
-          "detail": "Air is stationary and uniform."
+          "detail": "Air is stationary and uniform.",
+          "parameters": {
+            "ua": 0,
+            "ub": 400
+          }
         },
         {
           "title": "Move the source",
           "caption": "The source moves to the right.",
-          "detail": "Its speed stays below c."
+          "detail": "Its speed stays below c.",
+          "parameters": {
+            "ua": 80,
+            "ub": 400
+          }
         },
         {
           "title": "Compress forward spacing",
           "caption": "Successive fronts are closer ahead.",
-          "detail": "Sound still travels at c relative to air."
+          "detail": "Sound still travels at c relative to air.",
+          "parameters": {
+            "ua": 80,
+            "ub": 400
+          }
         },
         {
           "title": "Spread rear spacing",
           "caption": "Behind, wavelengths are larger.",
-          "detail": "A stationary rear observer receives lower frequency."
+          "detail": "A stationary rear observer receives lower frequency.",
+          "parameters": {
+            "ua": 80,
+            "ub": 400
+          }
         },
         {
           "title": "Compare the limit",
           "caption": "At zero source speed both frequencies equal f.",
-          "detail": "Observer motion is excluded."
+          "detail": "Observer motion is excluded.",
+          "parameters": {
+            "ua": 150,
+            "ub": 400
+          }
         }
       ],
       "activity": "Set source speed to zero, then increase it and compare ahead/behind frequencies.",
@@ -50999,27 +51569,52 @@
         {
           "title": "Set a reference length",
           "caption": "Read L₀ in metres.",
-          "detail": "The dark rod represents the reference."
+          "detail": "The dark rod represents the reference.",
+          "parameters": {
+            "ua": 1,
+            "ub": 50,
+            "uc": 12
+          }
         },
         {
           "title": "Choose a temperature change",
           "caption": "Use a difference in kelvins.",
-          "detail": "A temperature interval in °C has equal size."
+          "detail": "A temperature interval in °C has equal size.",
+          "parameters": {
+            "ua": 1,
+            "ub": 50,
+            "uc": 12
+          }
         },
         {
           "title": "Apply a coefficient",
           "caption": "The chosen α is constant.",
-          "detail": "Real values vary by material and temperature."
+          "detail": "Real values vary by material and temperature.",
+          "parameters": {
+            "ua": 1,
+            "ub": 50,
+            "uc": 12
+          }
         },
         {
           "title": "Observe extension",
           "caption": "The upper rod changes with magnified displacement.",
-          "detail": "The physical millimetre readout remains unscaled."
+          "detail": "The physical millimetre readout remains unscaled.",
+          "parameters": {
+            "ua": 1,
+            "ub": 50,
+            "uc": 12
+          }
         },
         {
           "title": "Compare cooling",
           "caption": "Negative ΔT contracts the chosen rod.",
-          "detail": "No heat-transfer timing is predicted."
+          "detail": "No heat-transfer timing is predicted.",
+          "parameters": {
+            "ua": 1,
+            "ub": -30,
+            "uc": 12
+          }
         }
       ],
       "activity": "Double ΔT at fixed α and L₀ and compare the physical extension.",

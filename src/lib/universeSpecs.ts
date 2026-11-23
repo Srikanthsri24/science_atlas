@@ -315,7 +315,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
       }
     ],
     "formula": "Q̇ = G(T₁−T₂) · ΔT(t) = ΔT₀e⁻ᵗ/τ",
-    "note": "Two equal masses with heat capacity 900 J/(kg·K), uniform block temperatures, no environmental heat loss. Exact two-compartment heat exchange conserves thermal energy. Geometry and microscopic agitation are symbolic.",
+    "note": "Two equal masses with heat capacity 900 J/(kg·K), uniform block temperatures, no environmental heat loss. Exact two-compartment heat exchange conserves thermal energy. Geometry and microscopic agitation are symbolic. Shared physical time is referenced to conductance 5 W/K, so changing conductance changes the rate at the same display stage.",
     "source": "#company"
   },
   "capillary": {
