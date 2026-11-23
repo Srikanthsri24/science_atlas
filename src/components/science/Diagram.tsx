@@ -1,3 +1,4 @@
+import CellDiagram from'./cell/CellDiagram';
 import FoundationDiagram from'../foundation/Diagram';import{isFoundationKind}from'../../lib/foundationTypes';
 import UniverseDiagram from'../universe/UniverseDiagram';import{isUniverseKind}from'../../lib/universeTypes';
 import Motion2D from'./MotionTracks';
@@ -16,10 +17,6 @@ function LegacyDiagram(props:SceneProps){const{kind,p,time,labels,selected,onSel
  const ray=fresnel(p.angle,p.n1,p.n2),a=p.angle*Math.PI/180,b=(ray.angle??90)*Math.PI/180;
  const circuit=p.closed?circuitValues(p.voltage,p.resistance):{current:0,power:0};
  const nucleons=Array.from({length:p.electrons*2},(_,i)=>({x:450+Math.cos(i*2.399)*Math.sqrt(i+1)*7,y:255+Math.sin(i*2.399)*Math.sqrt(i+1)*7,proton:i%2===0}));
- const cellRoute=()=>{if(!guided)return null;let x=0,y=0;const u=phase;
- if(focus==='Cell membrane'){x=lerp(710,640,u);y=205}else if(focus==='Nucleus'){x=lerp(370,455,u);y=lerp(250,190,u)}else if(focus==='Golgi apparatus'){x=lerp(460,590,u);y=lerp(200,270,u)}else if(focus==='Vesicle'){x=lerp(610,740,u);y=lerp(285,325,u)}else return null;
- return <g><circle cx={x} cy={y} r={focus==='Nucleus'?6:12} fill={focus==='Nucleus'?'#a4e8ee':'#ffcd86'} fillOpacity=".25" stroke="#ffdf9e" strokeWidth="2"/>{Array.from({length:5},(_,i)=><circle key={i} cx={x+Math.sin(i*2)*5} cy={y+Math.cos(i*2)*5} r="2" fill="#ffe6ac"/>)}</g>;
- };
  return <svg className="science-diagram" viewBox="0 0 900 520" role="img" aria-label={`${kind} live scientific model`}><defs>
  <pattern id={`${id}-grid`} width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#7794b2" strokeOpacity=".07"/></pattern>
  <radialGradient id={`${id}-back`}><stop stopColor="#1c3046"/><stop offset="1" stopColor="#0a1425"/></radialGradient>
@@ -68,21 +65,6 @@ function LegacyDiagram(props:SceneProps){const{kind,p,time,labels,selected,onSel
  <g transform="translate(72 218)"><text fill="#d1dbea" fontSize="50">{p.electrons===3?'Li':p.electrons===6?'C':'F'}</text><text y="30" fill="#8d9cb2" fontSize="12">{p.electrons===3?'Lithium-6':p.electrons===6?'Carbon-12':'Fluorine-18'}</text><text y="62" fill="#e2acb6" fontSize="11">{p.electrons} protons</text><text y="82" fill="#91aed7" fontSize="11">{p.electrons} neutrons</text><text y="102" fill="#a5dfe9" fontSize="11">{p.electrons} electrons</text><text y="128" fill="#d4c4fa" fontSize="11">Configuration 2,{p.electrons-2}</text></g>
  <text x="450" y="485" textAnchor="middle" fill="#7f93ac" fontSize="11">Shell occupancy model · nucleus enlarged · paths are symbolic, not quantum trajectories</text>
  </>}
- {kind==='cell'&&<>
- <ellipse cx="450" cy="420" rx="260" ry="21" fill="#020b14" opacity=".35"/>
- <path d="M177 267C154 145 254 85 382 96C501 66 660 91 713 185C787 273 717 400 594 408C473 448 305 413 229 363C195 341 181 307 177 267Z" fill={ref('cell')} stroke={active('Cell membrane')?'#c4b0ff':'#5eaaa6'} strokeWidth={active('Cell membrane')?5:3} {...clickable('Cell membrane')}/>
- <path d="M190 262C173 151 261 98 385 110C510 80 646 104 700 191C768 275 706 386 590 395" fill="none" stroke="#a8e4d2" strokeOpacity=".38" strokeWidth="2"/>
- {Array.from({length:48},(_,i)=>{const a=i/48*Math.PI*2;return <circle key={i} cx={450+Math.cos(a)*260} cy={255+Math.sin(a)*151} r="3" fill="#a3d6c4" opacity=".25"/>})}
- <g {...clickable('Rough ER')} opacity={guided&&focus!=='Rough ER'&&focus!=='Nucleus'?.65:1}>{Array.from({length:6},(_,i)=><g key={i}><path d={`M${313+i*10} ${159-i*5}C${455+i*8} ${112+i*8} ${485+i*5} ${220+i*10} ${400+i*7} ${267+i*10}`} fill="none" stroke={active('Rough ER')?'#d1bbff':'#8b72a6'} strokeWidth="8" strokeLinecap="round"/>{Array.from({length:5},(_,j)=><circle key={j} cx={362+i*14+j*8} cy={158+i*16+j*4} r="3" fill="#e6c9e7"/>)}</g>)}</g>
- <g {...clickable('Nucleus')}><ellipse cx="337" cy="246" rx="76" ry="69" fill={ref('nucleus')} stroke={active('Nucleus')?'#cdb5ff':'#b99aca'} strokeWidth="3"/><ellipse cx="337" cy="246" rx="67" ry="60" fill="none" stroke="#cab2dd" strokeOpacity=".4"/>{Array.from({length:11},(_,i)=><path key={i} d={`M${292+(i*17)%84} ${211+(i*23)%56}q14 -12 23 3t-8 17`} fill="none" stroke="#dfb9e0" opacity=".35" strokeWidth="2"/>)}<circle cx="350" cy="258" r="23" fill="#5b4179" stroke="#a784af"/>{Array.from({length:10},(_,i)=><circle key={i} cx={337+Math.cos(i/10*Math.PI*2)*73} cy={246+Math.sin(i/10*Math.PI*2)*65} r="3.7" fill="#382d59" stroke="#bf9aca"/>)}</g>
- {[[565,160,-22],[272,338,16],[540,350,-18]].map(([x,y,rot],i)=><g key={i} {...clickable('Mitochondrion')} transform={`translate(${x} ${y}) rotate(${rot})`}><ellipse rx="48" ry="24" fill={ref('mito')} stroke={active('Mitochondrion')?'#ffe2ae':'#bd8b66'} strokeWidth="2"/><ellipse rx="40" ry="17" fill="#704b3d"/>{Array.from({length:7},(_,j)=><path key={j} d={`M${-31+j*10} -13q14 9 0 25`} stroke="#dfad7d" strokeWidth="3" fill="none"/>)}{active('Mitochondrion')&&<ellipse rx="55" ry="31" fill="none" stroke="#ffcf89" strokeDasharray="4 4"/>}</g>)}
- <g {...clickable('Golgi apparatus')} transform="translate(589 265) rotate(-15)">{Array.from({length:6},(_,i)=><path key={i} d={`M${-43+i*3} ${-31+i*13}Q0 ${-9+i*13} ${47-i*3} ${-29+i*13}`} fill="none" stroke={active('Golgi apparatus')?'#ffd5c2':['#bd837d','#bf8f8a','#ce9e90'][i%3]} strokeWidth="9" strokeLinecap="round"/>)}</g>
- {Array.from({length:42},(_,i)=><g key={i} opacity=".8"><circle cx={222+(i*73)%435} cy={144+(i*53)%228} r={i%5===0?5:active('Ribosomes')?3.5:2} fill={active('Ribosomes')?'#ffdcaa':i%5===0?'#91b8ac':'#c8b4cb'}/></g>)}
- {focus==='Rough ER'&&guided&&<path d={`M438 200${Array.from({length:Math.floor(phase*18)},(_,i)=>`l7 ${i%2?-7:7}`).join('')}`} fill="none" stroke="#ffdb98" strokeWidth="3"/>}
- {focus==='Cell membrane'&&guided&&<g><rect x="689" y="188" width="14" height="31" rx="5" fill="#b0cfc2" stroke="#e5eed4"/><path d="M696 190V217" stroke="#1c4546" strokeWidth="5"/></g>}
- <g {...clickable('Vesicle')}><circle cx="655" cy="325" r="15" fill={active('Vesicle')?'#a882b6':'#4e7475'} stroke={active('Vesicle')?'#ffe0a5':'#a3b3a3'} strokeWidth="2"/>{[0,1,2].map(i=><circle key={i} cx={651+i*4} cy={323+i%2*5} r="2" fill="#e2c391"/>)}</g>{cellRoute()}{!p.cutaway&&<path d="M177 267C154 145 254 85 382 96C501 66 660 91 713 185C787 273 717 400 594 408C473 448 305 413 229 363C195 341 181 307 177 267Z" fill="#467e7b" opacity=".66"/>}
- {label('Nucleus',287,217,146,144,'end')}{label('Rough ER',448,166,480,74)}{label('Mitochondrion',588,162,729,111)}{label('Golgi apparatus',615,270,761,266)}{label('Cell membrane',688,361,738,433)}{labels&&<text x="78" y="474" fill="#7b9aab" fontSize="11">Animal cell · cutaway interpretation · organelles and transport shown at illustrative scales</text>}
- </>}
  {kind==='solar'&&<>
  {Array.from({length:100},(_,i)=><circle key={i} cx={(i*167.9+37)%900} cy={(i*91.7+13)%520} r={i%9===0?1.4:.7} fill="#c3d4ec" opacity={.12+(i%4)*.12}/>)}
  <circle cx="450" cy="265" r="66" fill="#f99a43" opacity=".12" filter={ref('soft')}/><circle cx="450" cy="265" r="33" fill={ref('sun')} {...clickable('Sun')}/>{glow('Sun',450,265,46)}
@@ -103,4 +85,4 @@ function LegacyDiagram(props:SceneProps){const{kind,p,time,labels,selected,onSel
  <Motion2D {...props}/></svg>;
 }
 
-export default function Diagram(props:SceneProps){return isFoundationKind(props.kind)?<FoundationDiagram {...props}/>:isUniverseKind(props.kind)?<UniverseDiagram {...props}/>:isExpansionKind(props.kind)?<ExpansionDiagram {...props}/>:isBatchKind(props.kind)?<BatchDiagram {...props}/>:isNextKind(props.kind)?<NextDiagram {...props}/>:<LegacyDiagram {...props}/>}
+export default function Diagram(props:SceneProps){return props.kind==='cell'?<CellDiagram {...props}/>:isFoundationKind(props.kind)?<FoundationDiagram {...props}/>:isUniverseKind(props.kind)?<UniverseDiagram {...props}/>:isExpansionKind(props.kind)?<ExpansionDiagram {...props}/>:isBatchKind(props.kind)?<BatchDiagram {...props}/>:isNextKind(props.kind)?<NextDiagram {...props}/>:<LegacyDiagram {...props}/>}
