@@ -7,7 +7,7 @@ const U=await loadTs('src/components/universe/world.ts');
 const D=await loadTs('src/components/science/biology/detailWorld.ts');
 const A=await loadTs('src/components/science/animation.ts');
 const S=await loadTs('src/components/science/stories.ts');
-const records=JSON.parse(readFileSync('data/authored-concepts.json')).records.filter(c=>Number(c.recordId.slice(3))<=25).sort((a,b)=>a.recordId.localeCompare(b.recordId));
+const records=JSON.parse(readFileSync('data/authored-concepts.json')).records.filter(c=>Number(c.recordId.slice(3))<=50).sort((a,b)=>a.recordId.localeCompare(b.recordId));
 for(const c of records)test(`${c.recordId} ${c.title}: five staged chapters, finite geometry and motion`,()=>{
  assert.equal(c.steps.length,5);assert.ok(D.hasBiologyDetail(c.kind));
  const signatures=[];
@@ -16,7 +16,7 @@ for(const c of records)test(`${c.recordId} ${c.title}: five staged chapters, fin
   assert.equal(f.index,chapter);assert.ok(Object.values(f.p).every(x=>typeof x==='boolean'||Number.isFinite(x)));
   const w=F.foundationWorld(c.kind,f.p,f.time),v=w.things.length?w:U.universeWorld(c.kind,f.p,f.time,true);
   for(const t of v.things){assert.ok(t.at.every(Number.isFinite));if(t.points)assert.ok(t.points.every(p=>p.every(Number.isFinite)));if(t.size)assert.ok(t.size.every(x=>Number.isFinite(x)&&x>=0));}
-  signatures.push(JSON.stringify([f.p,f.time,v.things,v.flows]));
+  signatures.push(JSON.stringify([f.p,f.time,f.phase,f.chapterIndex,v.things,v.flows]));
  }
  assert.ok(new Set(signatures).size>5,'staged states must advance rather than remain frozen');
 });

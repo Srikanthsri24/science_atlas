@@ -37,7 +37,7 @@ export function animationFrame(kind:Kind,storyTime:number,elapsed:number,basePar
  case'chromatography':sceneTime=beat*10/p.frontSpeed;break;
  case'equilibrium':sceneTime=beat*40;break;
  case'enzyme':if(chapter.index===0)p.substrate=2;if(chapter.index===2||chapter.index===4)p.substrate=mix(2,20,osc);break;
- case'genetics':p.geneticReveal=chapter.index<2?0:Math.min(4,Math.floor(beat*5));break;
+ case'genetics':p.geneticReveal=chapter.index<2?0:chapter.index===2?Math.min(4,1+Math.floor(chapter.progress*4)):4;break;
  case'neuron':sceneTime=beat*(100/p.nerveSpeed+4);break;
  }
  // Manual parameters are accepted for the standalone animation preview, if supplied.

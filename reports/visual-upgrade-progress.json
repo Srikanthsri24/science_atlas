@@ -1,0 +1,25 @@
+{
+  "totalLabs": 408,
+  "completedCount": 50,
+  "remainingCount": 358,
+  "completedThrough": "SA-0050",
+  "nextLab": "SA-0051",
+  "nextBatchEnd": "SA-0075",
+  "goalStatus": "active",
+  "minimumAnimationSeconds": 60,
+  "reviewedBatchAnimationSeconds": 100,
+  "reviewScope": "Internal selected-state and responsive review; independent expert/curriculum verification statuses are unchanged.",
+  "batches": [
+    {
+      "range": "SA-0001\u2013SA-0025",
+      "commit": "aad999d",
+      "branch": "codex/biology-realism-batch-01",
+      "report": "reports/biology-batch-01/review.json"
+    },
+    {
+      "range": "SA-0026\u2013SA-0050",
+      "branch": "codex/biology-realism-batch-02",
+      "report": "reports/biology-batch-02/review.json"
+    }
+  ]
+}

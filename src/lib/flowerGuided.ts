@@ -2,3 +2,5 @@
 export function flowerGuidedTime(seconds:number){const t=Math.max(0,Math.min(100,seconds)),i=Math.min(4,Math.floor(t/20)),u=Math.min(.99999,t/20-i),starts=[0,.65,.85,.9,.95],ends=[.65,.84,.9,.95,.999];return 6*(starts[i]+(ends[i]-starts[i])*u)}
 /** Seed viability/water uptake precede radicle and shoot emergence. */
 export function germinationGuidedTime(seconds:number){const t=Math.max(0,Math.min(100,seconds)),i=Math.min(4,Math.floor(t/20)),u=Math.min(.99999,t/20-i),starts=[0,.04,.1,.35,.7],ends=[.04,.1,.35,.7,.999];return 6*(starts[i]+(ends[i]-starts[i])*u)}
+/** Mixed plant-reproduction/pollination lessons enter tube growth at different chapter positions. */
+export function flowerConceptTime(id:string,seconds:number){const t=Math.max(0,Math.min(100,seconds)),i=Math.min(4,Math.floor(t/20)),u=Math.min(.99999,t/20-i);if(id==='SA-0031'){if(i===2)return 6*.65*u;if(i===3)return 6*(.84+.159*u)}if(id==='SA-0299'){if(i===3)return 6*.65*u;if(i===4)return 6*(.65+.349*u)}return flowerGuidedTime(seconds)}

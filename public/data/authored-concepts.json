@@ -44819,7 +44819,7 @@
           "caption": "Primers help define a region.",
           "detail": "No functional sequence design is supplied.",
           "parameters": {
-            "ud": 1
+            "ud": 2
           }
         },
         {
@@ -44827,7 +44827,7 @@
           "caption": "Complementary DNA is extended.",
           "detail": "Strand motion is illustrative.",
           "parameters": {
-            "ud": 2
+            "ud": 3
           }
         },
         {
@@ -44835,7 +44835,7 @@
           "caption": "Copy abundance follows the selected efficiency.",
           "detail": "Real reactions can leave exponential growth.",
           "parameters": {
-            "ud": 3
+            "ud": 0
           }
         },
         {

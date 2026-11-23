@@ -1,0 +1,1164 @@
+{
+  "batch": 2,
+  "company": "VisionariesAI Labs Private Limited",
+  "recordCount": 25,
+  "scope": "SA-0026 through SA-0050",
+  "durationSeconds": 100,
+  "reviewLimits": "Selected 2D/3D frames, middle/end timeline states, guided final-state checks, phone/tablet theatre layouts and numerical regression tests. Not every second, parameter, camera angle or physical device; not independent expert certification.",
+  "records": [
+    {
+      "id": "SA-0026",
+      "title": "Respiration in plants",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Use mitochondria",
+      "endCaption": "Compare photosynthesis",
+      "overflow": false,
+      "kind": "cellstructure",
+      "visualUpgrade": "Plant-cell wall lamellae, chloroplast envelope/intergranal guides, retained mitochondrial cristae and cellular-energy route.",
+      "guidedPlayer": {
+        "id": "SA-0026",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0026",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0026",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0027",
+      "title": "Water and food movement in plants",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow xylem",
+      "endCaption": "Compare direction",
+      "overflow": false,
+      "kind": "planttransport",
+      "visualUpgrade": "Xylem wall thickening, phloem sieve plates/pores, companion-cell context, root hairs and leaf veins; original source/sink flow directions retained.",
+      "guidedPlayer": {
+        "id": "SA-0027",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0027",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0027",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0028",
+      "title": "Photosynthesis",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Transfer energy",
+      "endCaption": "Compare limitations",
+      "overflow": false,
+      "kind": "photosynthesis",
+      "visualUpgrade": "Original membrane microsurface, granum protein markers and stroma detail in matching 2D/3D views; 168 protein markers use one instanced mesh.",
+      "guidedPlayer": {
+        "id": "SA-0028",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0028",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0028",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0029",
+      "title": "Transpiration",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Evaporate at leaves",
+      "endCaption": "Adjust stomata",
+      "overflow": false,
+      "kind": "transpiration",
+      "visualUpgrade": "Veined leaves and enlarged guard cells; aperture follows the control, and new vapour traffic stops when stomata close or vapour-pressure deficit reaches zero.",
+      "guidedPlayer": {
+        "id": "SA-0029",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0029",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0029",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0030",
+      "title": "Plant hormones",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Prescribe unequal elongation",
+      "endCaption": "Compare roles",
+      "overflow": false,
+      "kind": "tropism",
+      "visualUpgrade": "Growing cell-file and leaf-vein detail within the prescribed unequal-elongation model.",
+      "guidedPlayer": {
+        "id": "SA-0030",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0030",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0030",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0031",
+      "title": "Plant reproduction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Grow a pollen tube",
+      "endCaption": "Establish a seedling",
+      "overflow": false,
+      "kind": "flower",
+      "visualUpgrade": "Petal veins and pollen detail; concept-specific pollen-tube/fusion timing and later seedling stages.",
+      "guidedPlayer": {
+        "id": "SA-0031",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0031",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0031",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0032",
+      "title": "Plant tissues",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Differentiate functions",
+      "endCaption": "Connect organs",
+      "overflow": false,
+      "kind": "tissues",
+      "visualUpgrade": "Plant wall junctions and vascular wall thickening, with existing meristem division/sieve-tube movement.",
+      "guidedPlayer": {
+        "id": "SA-0032",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0032",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0032",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0033",
+      "title": "Mineral nutrition",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Cross membranes",
+      "endCaption": "Integrate nutrition",
+      "overflow": false,
+      "kind": "planttransport",
+      "visualUpgrade": "Xylem wall thickening, phloem sieve plates/pores, companion-cell context, root hairs and leaf veins; original source/sink flow directions retained.",
+      "guidedPlayer": {
+        "id": "SA-0033",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0033",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0033",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0034",
+      "title": "Animal husbandry",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Maintain environment",
+      "endCaption": "Evaluate sustainability",
+      "overflow": false,
+      "kind": "husbandry",
+      "visualUpgrade": "Species-specific coat, gill, feather, bee-stripe and larval-segment detail in applicable examples.",
+      "guidedPlayer": {
+        "id": "SA-0034",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0034",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0034",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0035",
+      "title": "Digestion in ruminants",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Ruminate",
+      "endCaption": "Absorb products",
+      "overflow": false,
+      "kind": "digestion",
+      "visualUpgrade": "Rumen papillae, reticulum honeycomb, omasal leaf and abomasal fold guides for ruminants; connected gastric/intestinal detail for the human example.",
+      "guidedPlayer": {
+        "id": "SA-0035",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0035",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0035",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0036",
+      "title": "Animal adaptations",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Consider environment",
+      "endCaption": "Distinguish timescales",
+      "overflow": false,
+      "kind": "animals",
+      "visualUpgrade": "Fin rays and scale guides, feather and abdominal-segment detail for applicable animals; existing locomotion retained.",
+      "guidedPlayer": {
+        "id": "SA-0036",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0036",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0036",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0037",
+      "title": "Animal nutrition",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Absorb",
+      "endCaption": "Egest",
+      "overflow": false,
+      "kind": "digestion",
+      "visualUpgrade": "Rumen papillae, reticulum honeycomb, omasal leaf and abomasal fold guides for ruminants; connected gastric/intestinal detail for the human example.",
+      "guidedPlayer": {
+        "id": "SA-0037",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0037",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0037",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0038",
+      "title": "Animal reproduction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare fusion sites",
+      "endCaption": "Separate classifications",
+      "overflow": false,
+      "kind": "reproduction",
+      "visualUpgrade": "Representative egg-envelope context; external-fertilization example avoids mammalian zona terminology.",
+      "guidedPlayer": {
+        "id": "SA-0038",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0038",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0038",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0039",
+      "title": "Animal locomotion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Observe swimming",
+      "endCaption": "Compare mechanisms",
+      "overflow": false,
+      "kind": "animals",
+      "visualUpgrade": "Fin rays and scale guides, feather and abdominal-segment detail for applicable animals; existing locomotion retained.",
+      "guidedPlayer": {
+        "id": "SA-0039",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0039",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0039",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0040",
+      "title": "Animal behaviour",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Integrate locally",
+      "endCaption": "Compare behaviours",
+      "overflow": false,
+      "kind": "reflex",
+      "visualUpgrade": "One illustrative circuit explicitly distinguished from wider behavioural networks.",
+      "guidedPlayer": {
+        "id": "SA-0040",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0040",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0040",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0041",
+      "title": "DNA",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Check directions",
+      "endCaption": "Compare a change",
+      "overflow": false,
+      "kind": "geneticcode",
+      "visualUpgrade": "Sugar/phosphate markers, an RNA polymerase/exit guide and peptide detail; no false longitudinal DNA traffic. Inspection rotation is labelled.",
+      "guidedPlayer": {
+        "id": "SA-0041",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0041",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0041",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0042",
+      "title": "RNA",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Use uracil",
+      "endCaption": "State omissions",
+      "overflow": false,
+      "kind": "geneticcode",
+      "visualUpgrade": "Sugar/phosphate markers, an RNA polymerase/exit guide and peptide detail; no false longitudinal DNA traffic. Inspection rotation is labelled.",
+      "guidedPlayer": {
+        "id": "SA-0042",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0042",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0042",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0043",
+      "title": "Genes",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Form gametes",
+      "endCaption": "Limit interpretation",
+      "overflow": false,
+      "kind": "genetics",
+      "visualUpgrade": "Matched allele-path demonstrations, duplicate generic markers removed, probability-board message moved clear of cells; per-concept reveal timing and four retained final outcomes.",
+      "guidedPlayer": {
+        "id": "SA-0043",
+        "guided": true,
+        "duration": 100,
+        "finalPairings": 4
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0043",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0043",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0044",
+      "title": "Mendelian genetics",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Combine randomly",
+      "endCaption": "Interpret chance",
+      "overflow": false,
+      "kind": "genetics",
+      "visualUpgrade": "Matched allele-path demonstrations, duplicate generic markers removed, probability-board message moved clear of cells; per-concept reveal timing and four retained final outcomes.",
+      "guidedPlayer": {
+        "id": "SA-0044",
+        "guided": true,
+        "duration": 100,
+        "finalPairings": 4
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0044",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0044",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0045",
+      "title": "Chromosomes",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Align",
+      "endCaption": "Distribute",
+      "overflow": false,
+      "kind": "mitosis",
+      "visualUpgrade": "Previously upgraded chromosome/spindle geometry reviewed on the distinct chromosome lesson.",
+      "guidedPlayer": {
+        "id": "SA-0045",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0045",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0045",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0046",
+      "title": "Mutations",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Translate a reference",
+      "endCaption": "Compare missense change",
+      "overflow": false,
+      "kind": "geneticcode",
+      "visualUpgrade": "Sugar/phosphate markers, an RNA polymerase/exit guide and peptide detail; no false longitudinal DNA traffic. Inspection rotation is labelled.",
+      "guidedPlayer": {
+        "id": "SA-0046",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0046",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0046",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0047",
+      "title": "Biotechnology",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Synthesize copies",
+      "endCaption": "Evaluate results",
+      "overflow": false,
+      "kind": "pcr",
+      "visualUpgrade": "Template backbone units, polymerase fronts tied to new-strand ends, correct forced stages, ordered 100-second copy-count sweep and full extension windows; unrelated bottom traffic removed.",
+      "guidedPlayer": {
+        "id": "SA-0047",
+        "guided": true,
+        "duration": 100,
+        "finalCycles": 20
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0047",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0047",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0048",
+      "title": "PCR",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Recognize boundaries",
+      "endCaption": "Repeat and compare",
+      "overflow": false,
+      "kind": "pcr",
+      "visualUpgrade": "Template backbone units, polymerase fronts tied to new-strand ends, correct forced stages, ordered 100-second copy-count sweep and full extension windows; unrelated bottom traffic removed.",
+      "guidedPlayer": {
+        "id": "SA-0048",
+        "guided": true,
+        "duration": 100,
+        "finalCycles": 20
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0048",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0048",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0049",
+      "title": "Genetic engineering",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Join DNA",
+      "endCaption": "Evaluate function",
+      "overflow": false,
+      "kind": "recombinant",
+      "visualUpgrade": "Plasmid backbone units and prepared-end guides; static construct stages replace unrelated orbiting dots.",
+      "guidedPlayer": {
+        "id": "SA-0049",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0049",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0049",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    },
+    {
+      "id": "SA-0050",
+      "title": "Ecosystems",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Connect consumers",
+      "endCaption": "Separate flows",
+      "overflow": false,
+      "kind": "ecosystem",
+      "visualUpgrade": "Producer-root, rabbit-eye and hawk-feather detail; feeding-flow topology and chain energy budget retained.",
+      "guidedPlayer": {
+        "id": "SA-0050",
+        "guided": true,
+        "duration": 100
+      },
+      "responsiveChecks": [
+        {
+          "id": "SA-0050",
+          "width": 390,
+          "layout": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "theatre": {
+            "scrollWidth": 390,
+            "width": 390
+          },
+          "threeD": true
+        },
+        {
+          "id": "SA-0050",
+          "width": 820,
+          "layout": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "theatre": {
+            "scrollWidth": 820,
+            "width": 820
+          },
+          "threeD": true
+        }
+      ],
+      "reviewStatus": "passed_selected_state_internal_review"
+    }
+  ]
+}
