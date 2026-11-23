@@ -161,7 +161,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
         "key": "ub",
         "label": "Motor current",
         "unit": "A",
-        "min": 0.1,
+        "min": 0,
         "max": 2,
         "step": 0.1,
         "initial": 1
@@ -186,7 +186,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
       }
     ],
     "formula": "τ = N B I A |sinθ| · J dω/dt = τ − bω",
-    "note": "Ideal commutation, uniform field, area 0.002 m², inertia 0.02 kg·m² and initial angle 0.3 rad. Numerical mechanical model with linear damping; no back-emf or inductance. Parameters are teaching choices, not a rated motor.",
+    "note": "Ideal commutation, uniform field, area 0.002 m², inertia 0.02 kg·m² and initial angle 0.3 rad. Numerical mechanical model with linear damping; no back-emf or inductance. Parameters are teaching choices, not a rated motor. The marked geometric reference normal is perpendicular to the coil; current reverses independently, and force arrows show directions at a visual scale.",
     "source": "#company"
   },
   "standing": {
@@ -751,7 +751,7 @@ export const universeSpecs:Record<UniverseKind,UniverseSpec>={
       }
     ],
     "formula": "dr/dt = Δρ d²ω²r/(18η)",
-    "note": "Dilute spherical particles in a co-rotating Newtonian fluid, Stokes drag and terminal radial drift; initial radius 3 cm, wall 8 cm. No Brownian motion, turbulence or particle interactions. Rotor rotation is visually slowed; physical settling time is stated.",
+    "note": "Dilute spherical particles in a co-rotating Newtonian fluid, Stokes drag and terminal radial drift; initial radius 3 cm, wall 8 cm. No Brownian motion, turbulence or particle interactions. Rotor rotation is visually slowed; physical settling time is stated. A shared display clock referenced to a 1 mPa·s carrier makes viscosity change particle position at the same stage.",
     "source": "#company"
   },
   "heart": {

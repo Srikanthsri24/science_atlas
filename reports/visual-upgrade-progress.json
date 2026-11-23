@@ -1,10 +1,10 @@
 {
   "totalLabs": 408,
-  "completedCount": 75,
-  "remainingCount": 333,
-  "completedThrough": "SA-0075",
-  "nextLab": "SA-0076",
-  "nextBatchEnd": "SA-0100",
+  "completedCount": 100,
+  "remainingCount": 308,
+  "completedThrough": "SA-0100",
+  "nextLab": "SA-0101",
+  "nextBatchEnd": "SA-0125",
   "goalStatus": "active",
   "minimumAnimationSeconds": 60,
   "reviewedBatchAnimationSeconds": 100,
@@ -25,6 +25,11 @@
       "range": "SA-0051\u2013SA-0075",
       "branch": "codex/laboratory-realism-batch-03",
       "report": "reports/laboratory-batch-03/review.json"
+    },
+    {
+      "range": "SA-0076\u2013SA-0100",
+      "branch": "codex/fluid-field-realism-batch-04",
+      "report": "reports/fluid-field-batch-04/review.json"
     }
   ]
 }

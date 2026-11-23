@@ -1,0 +1,1195 @@
+{
+  "batch": "04",
+  "range": [
+    "SA-0076",
+    "SA-0100"
+  ],
+  "reviewScope": "Internal selected-state review; not independent expert certification or official curriculum verification.",
+  "animationSeconds": 100,
+  "desktopViewport": {
+    "width": 1280,
+    "height": 960
+  },
+  "routes": [
+    {
+      "id": "SA-0076",
+      "title": "Air resistance",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Reduce acceleration",
+      "endCaption": "Read the limit",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0077",
+      "title": "Terminal velocity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Balance forces",
+      "endCaption": "Change the limit",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0078",
+      "title": "Satellite motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare closest approach",
+      "endCaption": "Distinguish applications",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0079",
+      "title": "Escape velocity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow radial motion",
+      "endCaption": "Read physical limits",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0080",
+      "title": "Buoyancy",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Calculate the force",
+      "endCaption": "Change the fluid",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0081",
+      "title": "Archimedes principle",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Find fluid mass",
+      "endCaption": "Test proportionality",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0082",
+      "title": "Apparent loss in weight",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Read support",
+      "endCaption": "Check the sign",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0083",
+      "title": "Surface tension",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Include wetting",
+      "endCaption": "State assumptions",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0084",
+      "title": "Angle of contact",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Try a wetting case",
+      "endCaption": "Separate height and speed",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0085",
+      "title": "Bernoulli theorem",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare kinetic terms",
+      "endCaption": "State the limits",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0086",
+      "title": "Capillary action",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Balance forces",
+      "endCaption": "Read the animation",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0087",
+      "title": "Coefficient of viscosity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Apply Stokes drag",
+      "endCaption": "Distinguish properties",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0088",
+      "title": "Pascal law",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Transmit the pressure change",
+      "endCaption": "Conserve work",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0089",
+      "title": "Fluid pressure",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Account for density",
+      "endCaption": "Compare equal depths",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0090",
+      "title": "Electricity and magnetism",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Generate torque",
+      "endCaption": "Balance motion",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0091",
+      "title": "Fleming left hand rule",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Find force",
+      "endCaption": "Follow reversal",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0092",
+      "title": "Speed of movement of coil",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Include commutation",
+      "endCaption": "Compare controls",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0093",
+      "title": "Magnetic field lines",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Move around",
+      "endCaption": "Read lines carefully",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0094",
+      "title": "Electric current",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Close the path",
+      "endCaption": "Conserve charge",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0095",
+      "title": "Ohm law",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Set resistance",
+      "endCaption": "Check proportionality",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0096",
+      "title": "Electric circuits",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Close the path",
+      "endCaption": "Change voltage",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0097",
+      "title": "Electric motors",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Turn the rotor",
+      "endCaption": "Include resistance to motion",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    },
+    {
+      "id": "SA-0098",
+      "title": "Electromagnetic induction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Differentiate flux",
+      "endCaption": "Change rotation rate",
+      "overflow": false,
+      "capturedDisplaySeconds": 50.25
+    },
+    {
+      "id": "SA-0099",
+      "title": "Generators",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Generate emf",
+      "endCaption": "Account for energy",
+      "overflow": false,
+      "capturedDisplaySeconds": 50.25
+    },
+    {
+      "id": "SA-0100",
+      "title": "Transformers",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Induce output voltage",
+      "endCaption": "Conserve power",
+      "overflow": false,
+      "capturedDisplaySeconds": 50
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "id": "SA-0076",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0077",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0078",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0079",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0080",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0081",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 431.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0082",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0083",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0084",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0085",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0086",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0087",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0088",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0089",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0090",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0091",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0092",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0093",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0094",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 406.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0095",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0096",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0097",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0098",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 431.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0099",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 431.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0100",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0076",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0077",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0078",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0079",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0080",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0081",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0082",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0083",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0084",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0085",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0086",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0087",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0088",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0089",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0090",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0091",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0092",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0093",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0094",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0095",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0096",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0097",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0098",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0099",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0100",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    }
+  ],
+  "guidedChecks": [
+    {
+      "id": "SA-0076",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Read the limit",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0077",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change the limit",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0078",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Distinguish applications",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0079",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Read physical limits",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0080",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change the fluid",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0081",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Test proportionality",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0082",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check the sign",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0083",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "State assumptions",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0084",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Separate height and speed",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0085",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "State the limits",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0086",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Read the animation",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0087",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Distinguish properties",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0088",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Conserve work",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0089",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare equal depths",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0090",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Balance motion",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0091",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Follow reversal",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0092",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare controls",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0093",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Read lines carefully",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0094",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Conserve charge",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0095",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check proportionality",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0096",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change voltage",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0097",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Include resistance to motion",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0098",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change rotation rate",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0099",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Account for energy",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0100",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Conserve power",
+      "observationTable": true
+    }
+  ],
+  "semanticChecks": [
+    {
+      "id": "SA-0084",
+      "chapter": 4,
+      "metrics": "Final capillary height\n-14.68 mm\nContact angle\n120 \u00b0\nRadius\n0.50 mm"
+    },
+    {
+      "id": "SA-0084",
+      "chapter": 5,
+      "metrics": "Final capillary height\n0.00 mm\nContact angle\n90 \u00b0\nRadius\n0.50 mm"
+    },
+    {
+      "id": "SA-0090",
+      "chapter": 1,
+      "metrics": "Coil torque\n0.0000 N\u00b7m\nAngular speed\n0.00 rad/s\nCurrent direction\nNo current"
+    },
+    {
+      "id": "SA-0096",
+      "chapter": 2,
+      "metrics": "Current\n0.000 A\nPower\n0.000 W"
+    },
+    {
+      "id": "SA-0096",
+      "chapter": 3,
+      "metrics": "Current\n0.090 A\nPower\n0.810 W"
+    },
+    {
+      "id": "SA-0100",
+      "chapter": 5,
+      "metrics": "Secondary RMS voltage\n24.00 V\nSecondary RMS current\n0.60 A\nPrimary RMS current\n1.20 A\nIdeal transferred power\n14.40 W"
+    },
+    {
+      "id": "SA-0082",
+      "chapter": 5,
+      "metrics": "Weight\n4.91 N\nBuoyant force\n9.81 N\nSubmerged fraction\n100.0 %\nBody average density\n500.000 kg/m\u00b3\nDensity ratio\n0.500\nDisplaced fluid volume\n1.000 L\nHolding force required at this immersion (upward positive)\n-4.905 N\nWeight minus required holding force\n9.810 N\nActual floor reaction\n0.000 N"
+    }
+  ],
+  "livePlaybackSpotCheck": {
+    "id": "SA-0099",
+    "started": 50.2969,
+    "advancedTo": 75.65840000000036,
+    "clockAdvances": true,
+    "scope": "Live playback spot check; all 25 routes also checked at selected timeline states."
+  },
+  "automatedTests": {
+    "total": 1621,
+    "passed": 1621,
+    "targetedBatchTests": 34,
+    "exactStagedSnapshot": true
+  },
+  "build": "TypeScript compilation and Vite production build passed on the exact staged source snapshot. Existing large-bundle warnings remain."
+}

@@ -215,27 +215,57 @@
         {
           "title": "Release",
           "caption": "At zero speed, quadratic drag is zero.",
-          "detail": "Gravity initially produces acceleration g."
+          "detail": "Gravity initially produces acceleration g.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Build speed",
           "caption": "The upward drag force grows with speed.",
-          "detail": "Doubling speed gives four times the drag at unchanged area."
+          "detail": "Doubling speed gives four times the drag at unchanged area.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Reduce acceleration",
           "caption": "Compare drag with weight.",
-          "detail": "The net downward force is mg−Fdrag."
+          "detail": "The net downward force is mg−Fdrag.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Change area",
           "caption": "A larger frontal area increases resistance.",
-          "detail": "Hold mass and time fixed for a fair comparison."
+          "detail": "Hold mass and time fixed for a fair comparison.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.16
+          }
         },
         {
           "title": "Read the limit",
           "caption": "A finite drop may end before terminal speed.",
-          "detail": "Do not identify impact speed automatically with terminal speed."
+          "detail": "Do not identify impact speed automatically with terminal speed.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.16
+          }
         }
       ],
       "activity": "Keep mass fixed, increase frontal area, and compare speed at the same elapsed time.",
@@ -381,27 +411,57 @@
         {
           "title": "Identify weight",
           "caption": "Weight acts downward throughout descent.",
-          "detail": "Its magnitude is mg in this uniform field."
+          "detail": "Its magnitude is mg in this uniform field.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Watch drag grow",
           "caption": "Drag rises as speed rises.",
-          "detail": "The force difference narrows over time."
+          "detail": "The force difference narrows over time.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Balance forces",
-          "caption": "At the limit, drag equals weight.",
-          "detail": "The acceleration approaches zero."
+          "caption": "Drag approaches weight as speed approaches its limit.",
+          "detail": "A finite tower may end before exact terminal speed; the model approaches the balance asymptotically.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Continue moving",
           "caption": "Force balance permits steady nonzero speed.",
-          "detail": "Newton’s first law applies."
+          "detail": "Newton’s first law applies.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 1,
+            "fallArea": 0.08
+          }
         },
         {
           "title": "Change the limit",
           "caption": "Compare mass and area separately.",
-          "detail": "Terminal speed scales as √m and 1/√A."
+          "detail": "Terminal speed scales as √m and 1/√A.",
+          "parameters": {
+            "airDrag": true,
+            "fallHeight": 100,
+            "fallMass": 2,
+            "fallArea": 0.08
+          }
         }
       ],
       "activity": "Compare vt after quadrupling mass and after quadrupling area.",
@@ -548,27 +608,62 @@
         {
           "title": "Enter the fluid",
           "caption": "Identify the submerged part.",
-          "detail": "Only that volume displaces fluid."
+          "detail": "Only that volume displaces fluid.",
+          "parameters": {
+            "released": false,
+            "immersion": 0,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Compare pressures",
           "caption": "Pressure is larger deeper in the liquid.",
-          "detail": "The lower pressure forces do not cancel the upper ones."
+          "detail": "The lower pressure forces do not cancel the upper ones.",
+          "parameters": {
+            "released": false,
+            "immersion": 25,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Calculate the force",
           "caption": "Multiply fluid density, g and displaced volume.",
-          "detail": "Convert litres to cubic metres."
+          "detail": "Convert litres to cubic metres.",
+          "parameters": {
+            "released": false,
+            "immersion": 50,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Balance or move",
           "caption": "Compare buoyancy with weight.",
-          "detail": "A restraint can supply the missing force."
+          "detail": "A restraint can supply the missing force.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Change the fluid",
           "caption": "At fixed volume, denser fluid produces more buoyancy.",
-          "detail": "The body can float with less submerged volume."
+          "detail": "The body can float with less submerged volume.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1200
+          }
         }
       ],
       "activity": "Hold immersion fixed; double fluid density and compare buoyant force.",
@@ -714,27 +809,62 @@
         {
           "title": "Define the fluid",
           "caption": "Read its density in kg/m³.",
-          "detail": "Density and volume must use compatible units."
+          "detail": "Density and volume must use compatible units.",
+          "parameters": {
+            "released": false,
+            "immersion": 0,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Find displacement",
           "caption": "Use only the submerged volume.",
-          "detail": "A partially immersed block displaces less than its full volume."
+          "detail": "A partially immersed block displaces less than its full volume.",
+          "parameters": {
+            "released": false,
+            "immersion": 25,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Find fluid mass",
           "caption": "Multiply density by displaced volume.",
-          "detail": "The result has units of kilograms."
+          "detail": "The result has units of kilograms.",
+          "parameters": {
+            "released": false,
+            "immersion": 50,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Find fluid weight",
           "caption": "Multiply displaced mass by g.",
-          "detail": "This equals the buoyant force."
+          "detail": "This equals the buoyant force.",
+          "parameters": {
+            "released": false,
+            "immersion": 75,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Test proportionality",
           "caption": "Double immersion before full submergence.",
-          "detail": "Buoyancy doubles in the uniform liquid."
+          "detail": "Buoyancy doubles in the uniform liquid.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 1,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         }
       ],
       "activity": "Set the block to 50% and 100% immersion and compare displaced volume and buoyancy.",
@@ -880,27 +1010,62 @@
         {
           "title": "Measure in air",
           "caption": "Find W=mg.",
-          "detail": "Ignore air buoyancy in this model."
+          "detail": "Ignore air buoyancy in this model.",
+          "parameters": {
+            "released": false,
+            "immersion": 0,
+            "blockMass": 2,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Submerge the block",
           "caption": "Water supplies an upward force.",
-          "detail": "Keep the object stationary."
+          "detail": "Keep the object stationary.",
+          "parameters": {
+            "released": false,
+            "immersion": 50,
+            "blockMass": 2,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Read support",
           "caption": "The required upward support decreases.",
-          "detail": "For positive tension T=mg−Fb."
+          "detail": "For positive tension T=mg−Fb.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 2,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Compare the loss",
           "caption": "Subtract the immersed reading from W.",
-          "detail": "The difference equals displaced-fluid weight."
+          "detail": "The difference equals displaced-fluid weight.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 2,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         },
         {
           "title": "Check the sign",
-          "caption": "A light restrained block may need downward support.",
-          "detail": "Negative T is not a possible upward-string reading."
+          "caption": "Compare a lighter body at the same displaced volume.",
+          "detail": "If buoyancy exceeds weight, a downward restraint is needed; an ordinary upward spring balance cannot provide it.",
+          "parameters": {
+            "released": false,
+            "immersion": 100,
+            "blockMass": 0.5,
+            "blockVolume": 1,
+            "fluidDensity": 1000
+          }
         }
       ],
       "activity": "Use a dense block with positive support; compare weight minus support with buoyancy.",
@@ -1047,27 +1212,52 @@
         {
           "title": "Locate the contact",
           "caption": "Identify solid, liquid and gas.",
-          "detail": "The angle is defined where the three meet."
+          "detail": "The angle is defined where the three meet.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Measure through liquid",
           "caption": "Use the tangent to the interface.",
-          "detail": "Do not measure the complementary gas-side angle."
+          "detail": "Do not measure the complementary gas-side angle.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Try a wetting case",
           "caption": "An angle below 90° gives positive height.",
-          "detail": "The cosine factor is positive."
+          "detail": "The cosine factor is positive.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 0,
+            "uc": 0.072
+          }
         },
         {
           "title": "Cross 90 degrees",
           "caption": "The sign of cosθ changes.",
-          "detail": "A nonwetting case gives a depressed column."
+          "detail": "A nonwetting case gives a depressed column.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 120,
+            "uc": 0.072
+          }
         },
         {
           "title": "Separate height and speed",
           "caption": "The equation predicts equilibrium height.",
-          "detail": "The approach animation is illustrative, not a viscous-rise solution."
+          "detail": "The approach animation is illustrative, not a viscous-rise solution.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 90,
+            "uc": 0.072
+          }
         }
       ],
       "activity": "Compare 30°, 90° and 110° at the same radius.",
@@ -1211,27 +1401,52 @@
         {
           "title": "Follow one streamline",
           "caption": "Compare two sections of the same steady flow.",
-          "detail": "Use the stated ideal assumptions."
+          "detail": "Use the stated ideal assumptions.",
+          "parameters": {
+            "flowRate": 1,
+            "inletRadius": 3,
+            "throatRadius": 2.5
+          }
         },
         {
           "title": "Conserve flow",
           "caption": "Q is the same through both sections.",
-          "detail": "Smaller area means larger mean speed."
+          "detail": "Smaller area means larger mean speed.",
+          "parameters": {
+            "flowRate": 1,
+            "inletRadius": 3,
+            "throatRadius": 2
+          }
         },
         {
           "title": "Compare kinetic terms",
           "caption": "The faster section has larger ½ρv².",
-          "detail": "At equal height, another energy-per-volume term must decrease."
+          "detail": "At equal height, another energy-per-volume term must decrease.",
+          "parameters": {
+            "flowRate": 1,
+            "inletRadius": 3,
+            "throatRadius": 1.5
+          }
         },
         {
           "title": "Read pressure difference",
           "caption": "The throat static pressure is lower.",
-          "detail": "The bench gives pressure difference, not an absolute-pressure safety prediction."
+          "detail": "The bench gives pressure difference, not an absolute-pressure safety prediction.",
+          "parameters": {
+            "flowRate": 1,
+            "inletRadius": 3,
+            "throatRadius": 1.5
+          }
         },
         {
           "title": "State the limits",
           "caption": "Real pipes lose mechanical energy.",
-          "detail": "Friction and pumps require an extended energy equation."
+          "detail": "Friction and pumps require an extended energy equation.",
+          "parameters": {
+            "flowRate": 1,
+            "inletRadius": 3,
+            "throatRadius": 1.5
+          }
         }
       ],
       "activity": "Reduce throat radius at fixed Q and compare speed and pressure difference.",
@@ -1375,27 +1590,52 @@
         {
           "title": "Wet the wall",
           "caption": "Set a contact angle below 90°.",
-          "detail": "The vertical surface-tension component is upward."
+          "detail": "The vertical surface-tension component is upward.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Support a column",
           "caption": "Gravity pulls down on the raised liquid.",
-          "detail": "The column weight grows with height."
+          "detail": "The column weight grows with height.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Balance forces",
           "caption": "Set vertical surface tension equal to liquid-column weight.",
-          "detail": "This produces h=2γcosθ/(ρgr)."
+          "detail": "This produces h=2γcosθ/(ρgr).",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Change radius",
           "caption": "A smaller radius produces a larger equilibrium rise.",
-          "detail": "Compare a factor-of-two change."
+          "detail": "Compare a factor-of-two change.",
+          "parameters": {
+            "ua": 1,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Read the animation",
           "caption": "The approach to equilibrium is staged.",
-          "detail": "Only final height is calculated by Jurin’s law."
+          "detail": "Only final height is calculated by Jurin’s law.",
+          "parameters": {
+            "ua": 1,
+            "ub": 30,
+            "uc": 0.072
+          }
         }
       ],
       "activity": "Halve radius while holding surface tension and angle fixed.",
@@ -1539,27 +1779,52 @@
         {
           "title": "Identify the dipole",
           "caption": "Find the model magnet’s axis.",
-          "detail": "The source is an ideal point dipole outside its excluded core."
+          "detail": "The source is an ideal point dipole outside its excluded core.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.5,
+            "uc": 0.5
+          }
         },
         {
           "title": "Place the probe",
           "caption": "Read the local field vector.",
-          "detail": "The compass follows the local direction."
+          "detail": "The compass follows the local direction.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.5,
+            "uc": 0.5
+          }
         },
         {
           "title": "Move around",
           "caption": "Direction changes with angular position.",
-          "detail": "The field is not uniform around the magnet."
+          "detail": "The field is not uniform around the magnet.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.2,
+            "uc": 1
+          }
         },
         {
           "title": "Move farther away",
           "caption": "Magnitude falls with the cube of distance.",
-          "detail": "Doubling distance on the same ray divides B by eight."
+          "detail": "Doubling distance on the same ray divides B by eight.",
+          "parameters": {
+            "ua": 1,
+            "ub": 1,
+            "uc": 1
+          }
         },
         {
           "title": "Read lines carefully",
           "caption": "Directional markers are a visualization.",
-          "detail": "They are not a measured speed of magnetic influence."
+          "detail": "They are not a measured speed of magnetic influence.",
+          "parameters": {
+            "ua": 1,
+            "ub": 1,
+            "uc": 1
+          }
         }
       ],
       "activity": "Double probe distance along a fixed ray and compare the far-field magnitude.",
@@ -1735,27 +2000,52 @@
         {
           "title": "Count charge",
           "caption": "Imagine a cross-section through the wire.",
-          "detail": "Count net charge passing it in a time interval."
+          "detail": "Count net charge passing it in a time interval.",
+          "parameters": {
+            "closed": false,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Divide by time",
           "caption": "One coulomb per second is one ampere.",
-          "detail": "Use the rate, not the total charge alone."
+          "detail": "Use the rate, not the total charge alone.",
+          "parameters": {
+            "closed": false,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Close the path",
           "caption": "A steady current requires a conducting loop.",
-          "detail": "The open ideal DC circuit has zero steady current."
+          "detail": "The open ideal DC circuit has zero steady current.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Compare directions",
           "caption": "Conventional current follows positive-charge motion.",
-          "detail": "Metal conduction electrons drift oppositely."
+          "detail": "Metal conduction electrons drift oppositely.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Conserve charge",
           "caption": "Steady series current is the same around the loop.",
-          "detail": "The resistor transfers energy, not disappearing charge."
+          "detail": "The resistor transfers energy, not disappearing charge.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         }
       ],
       "activity": "Open the switch, then close it. At fixed resistance, double voltage and compare current.",
@@ -1931,27 +2221,52 @@
         {
           "title": "Close the switch",
           "caption": "Complete the conducting path.",
-          "detail": "Use the ideal steady DC state."
+          "detail": "Use the ideal steady DC state.",
+          "parameters": {
+            "closed": true,
+            "voltage": 6,
+            "resistance": 100
+          }
         },
         {
           "title": "Set voltage",
           "caption": "Voltage is energy transferred per charge.",
-          "detail": "Read the source value in volts."
+          "detail": "Read the source value in volts.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Set resistance",
           "caption": "Resistance controls current for this model.",
-          "detail": "Use a fixed ohmic value in ohms."
+          "detail": "Use a fixed ohmic value in ohms.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 150
+          }
         },
         {
           "title": "Calculate current",
           "caption": "Divide V by R.",
-          "detail": "Convert amperes to milliamperes when comparing readouts."
+          "detail": "Convert amperes to milliamperes when comparing readouts.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 150
+          }
         },
         {
           "title": "Check proportionality",
           "caption": "Double R at fixed V.",
-          "detail": "The predicted current halves."
+          "detail": "The predicted current halves.",
+          "parameters": {
+            "closed": true,
+            "voltage": 12,
+            "resistance": 150
+          }
         }
       ],
       "activity": "Hold voltage at 12 V and change R from 100 Ω to 200 Ω.",
@@ -2127,27 +2442,52 @@
         {
           "title": "Find the components",
           "caption": "Identify source, wires, switch and resistor.",
-          "detail": "Each serves a different role."
+          "detail": "Each serves a different role.",
+          "parameters": {
+            "closed": false,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Open the path",
           "caption": "The ideal switch interrupts steady current.",
-          "detail": "Voltage can exist even when current is zero."
+          "detail": "Voltage can exist even when current is zero.",
+          "parameters": {
+            "closed": false,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Close the path",
           "caption": "Current flows around the complete loop.",
-          "detail": "The resistor limits its magnitude."
+          "detail": "The resistor limits its magnitude.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Transfer energy",
           "caption": "Read the resistor power.",
-          "detail": "Power is energy transferred each second."
+          "detail": "Power is energy transferred each second.",
+          "parameters": {
+            "closed": true,
+            "voltage": 9,
+            "resistance": 100
+          }
         },
         {
           "title": "Change voltage",
           "caption": "At fixed R, doubling V quadruples power.",
-          "detail": "Use P=V²/R."
+          "detail": "Use P=V²/R.",
+          "parameters": {
+            "closed": true,
+            "voltage": 12,
+            "resistance": 100
+          }
         }
       ],
       "activity": "Open and close the switch, then compare power after doubling voltage at fixed resistance.",
@@ -2323,27 +2663,57 @@
         {
           "title": "Find the coil",
           "caption": "Current passes through multiple turns.",
-          "detail": "The magnetic field exerts forces on opposite sides."
+          "detail": "The magnetic field exerts forces on opposite sides.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Form a couple",
           "caption": "Opposing forces produce a torque.",
-          "detail": "Torque depends on orientation."
+          "detail": "Torque depends on orientation.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Turn the rotor",
           "caption": "Torque changes angular velocity.",
-          "detail": "The model integrates rotational motion."
+          "detail": "The model integrates rotational motion.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Reverse current",
           "caption": "The commutator switches each half-turn.",
-          "detail": "The ideal drive torque keeps the same sign."
+          "detail": "The ideal drive torque keeps the same sign.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Include resistance to motion",
           "caption": "Damping opposes rotation.",
-          "detail": "This is a teaching motor model, not a complete circuit solver."
+          "detail": "This is a teaching motor model, not a complete circuit solver.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         }
       ],
       "activity": "Hold damping fixed; increase current and compare the calculated angular response.",
@@ -2519,27 +2889,62 @@
         {
           "title": "Define the area",
           "caption": "Identify the coil’s area and normal.",
-          "detail": "Flux depends on field orientation relative to that normal."
+          "detail": "Flux depends on field orientation relative to that normal.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Rotate the coil",
           "caption": "Flux linkage changes with angle.",
-          "detail": "It is maximum when the normal aligns with B."
+          "detail": "It is maximum when the normal aligns with B.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Differentiate flux",
           "caption": "Emf follows the rate of change.",
-          "detail": "It is zero at flux extrema for smooth rotation."
+          "detail": "It is zero at flux extrema for smooth rotation.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Apply the sign",
           "caption": "Lenz’s law opposes the flux change.",
-          "detail": "The minus sign expresses energy-consistent direction."
+          "detail": "The minus sign expresses energy-consistent direction.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Change rotation rate",
           "caption": "Faster rotation increases peak emf.",
-          "detail": "Peak emf is NBAω."
+          "detail": "Peak emf is NBAω.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.5,
+            "turns": 20,
+            "load": 10
+          }
         }
       ],
       "activity": "Double rotation frequency while holding turns, area and field fixed.",
@@ -2715,27 +3120,62 @@
         {
           "title": "Provide rotation",
           "caption": "An external drive turns the coil.",
-          "detail": "Mechanical energy is the source of electrical output."
+          "detail": "Mechanical energy is the source of electrical output.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Change flux",
           "caption": "The coil normal rotates relative to B.",
-          "detail": "Flux linkage varies periodically."
+          "detail": "Flux linkage varies periodically.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Generate emf",
           "caption": "Its sign reverses every half-cycle.",
-          "detail": "The output is alternating."
+          "detail": "The output is alternating.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 10
+          }
         },
         {
           "title": "Connect the load",
           "caption": "A resistive load carries I=emf/R.",
-          "detail": "Current and emf are in phase in this simplified load."
+          "detail": "Current and emf are in phase in this simplified load.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 20
+          }
         },
         {
           "title": "Account for energy",
           "caption": "Real generation needs drive torque.",
-          "detail": "The displayed fixed-speed model assumes that drive."
+          "detail": "The displayed fixed-speed model assumes that drive.",
+          "parameters": {
+            "field": 0.4,
+            "coilArea": 0.08,
+            "coilFrequency": 0.25,
+            "turns": 20,
+            "load": 20
+          }
         }
       ],
       "activity": "At fixed rotation, double load resistance and compare current amplitude.",
@@ -9792,27 +10232,52 @@
         {
           "title": "Locate the interface",
           "caption": "Separate liquid, solid wall and gas.",
-          "detail": "Surface tension belongs to an interface."
+          "detail": "Surface tension belongs to an interface.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.04
+          }
         },
         {
           "title": "Measure force per length",
           "caption": "Multiply γ by contact-line length.",
-          "detail": "Direction matters for the vertical component."
+          "detail": "Direction matters for the vertical component.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.04
+          }
         },
         {
           "title": "Include wetting",
           "caption": "Use the cosθ factor at the wall.",
-          "detail": "Changing contact angle can reverse the column displacement."
+          "detail": "Changing contact angle can reverse the column displacement.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "Balance weight",
           "caption": "A higher γ supports a larger equilibrium column.",
-          "detail": "Density, gravity and radius also matter."
+          "detail": "Density, gravity and radius also matter.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         },
         {
           "title": "State assumptions",
           "caption": "The value of γ is prescribed.",
-          "detail": "Temperature effects, contamination and transient interface dynamics are omitted."
+          "detail": "Temperature effects, contamination and transient interface dynamics are omitted.",
+          "parameters": {
+            "ua": 0.5,
+            "ub": 30,
+            "uc": 0.072
+          }
         }
       ],
       "activity": "Hold contact angle and radius fixed while doubling γ; compare the equilibrium height.",
@@ -9959,27 +10424,57 @@
         {
           "title": "Define viscosity",
           "caption": "Relate shear stress to velocity gradient.",
-          "detail": "The fluid is assumed Newtonian."
+          "detail": "The fluid is assumed Newtonian.",
+          "parameters": {
+            "ua": 2000,
+            "ub": 5,
+            "uc": 300,
+            "ud": 1
+          }
         },
         {
           "title": "Check units",
           "caption": "Convert mPa·s to Pa·s.",
-          "detail": "One mPa·s is 0.001 Pa·s."
+          "detail": "One mPa·s is 0.001 Pa·s.",
+          "parameters": {
+            "ua": 2000,
+            "ub": 5,
+            "uc": 300,
+            "ud": 1
+          }
         },
         {
           "title": "Apply Stokes drag",
           "caption": "Viscous resistance opposes particle motion.",
-          "detail": "The small-sphere creeping-flow assumption is essential."
+          "detail": "The small-sphere creeping-flow assumption is essential.",
+          "parameters": {
+            "ua": 2000,
+            "ub": 5,
+            "uc": 300,
+            "ud": 1
+          }
         },
         {
           "title": "Compare settling",
           "caption": "Increasing η reduces radial speed.",
-          "detail": "In this model, doubling η doubles settling time."
+          "detail": "In this model, doubling η doubles settling time.",
+          "parameters": {
+            "ua": 2000,
+            "ub": 5,
+            "uc": 300,
+            "ud": 2
+          }
         },
         {
           "title": "Distinguish properties",
           "caption": "Viscosity and density are separate inputs.",
-          "detail": "Kinematic viscosity is their ratio, not the same quantity."
+          "detail": "Kinematic viscosity is their ratio, not the same quantity.",
+          "parameters": {
+            "ua": 2000,
+            "ub": 5,
+            "uc": 300,
+            "ud": 2
+          }
         }
       ],
       "activity": "Double viscosity while fixing particle size, density contrast and rpm; compare settling time.",
@@ -10126,27 +10621,57 @@
         {
           "title": "Start the rotor",
           "caption": "The coil has a specified inertia.",
-          "detail": "Its angular speed begins from the model initial state."
+          "detail": "Its angular speed begins from the model initial state.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Apply torque",
           "caption": "The magnetic interaction drives rotation.",
-          "detail": "Instantaneous torque depends on orientation."
+          "detail": "Instantaneous torque depends on orientation.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Include commutation",
           "caption": "Current reverses every half-turn.",
-          "detail": "The drive torque retains its rotation direction."
+          "detail": "The drive torque retains its rotation direction.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Oppose motion",
           "caption": "Damping grows with angular speed.",
-          "detail": "A torque imbalance changes speed."
+          "detail": "A torque imbalance changes speed.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.006
+          }
         },
         {
           "title": "Compare controls",
           "caption": "Change one of current, field or damping.",
-          "detail": "The result belongs to this simplified motor, not every real motor."
+          "detail": "The result belongs to this simplified motor, not every real motor.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 2,
+            "uc": 20,
+            "ud": 0.006
+          }
         }
       ],
       "activity": "Increase damping at fixed field, current and turns, then compare angular speed.",
@@ -22003,27 +22528,47 @@
         {
           "title": "Identify attraction",
           "caption": "The attracting star lies at a focus.",
-          "detail": "The body’s mass is neglected in the central-mass approximation."
+          "detail": "The body’s mass is neglected in the central-mass approximation.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.4
+          }
         },
         {
           "title": "Follow a bound path",
           "caption": "An ellipse is a possible ideal orbit.",
-          "detail": "The scene uses a two-body model."
+          "detail": "The scene uses a two-body model.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.4
+          }
         },
         {
           "title": "Compare closest approach",
           "caption": "Distance changes around an eccentric orbit.",
-          "detail": "The speed is higher nearer the focus."
+          "detail": "The speed is higher nearer the focus.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.6
+          }
         },
         {
           "title": "Change orbital size",
           "caption": "Larger semimajor axis increases period.",
-          "detail": "These numerical units are calibrated to a solar-mass star."
+          "detail": "These numerical units are calibrated to a solar-mass star.",
+          "parameters": {
+            "ua": 1.5,
+            "ub": 0.4
+          }
         },
         {
           "title": "Distinguish applications",
           "caption": "Earth satellites use Earth’s gravitational parameter.",
-          "detail": "Do not read the AU display as an Earth-satellite altitude."
+          "detail": "Do not read the AU display as an Earth-satellite altitude.",
+          "parameters": {
+            "ua": 1,
+            "ub": 0.4
+          }
         }
       ],
       "activity": "Compare eccentricity at fixed semimajor axis, then compare semimajor axis at fixed eccentricity.",
@@ -22167,27 +22712,57 @@
         {
           "title": "Establish the field",
           "caption": "Identify north-to-south external field direction.",
-          "detail": "The scene prescribes a uniform field."
+          "detail": "The scene prescribes a uniform field.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 0,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Supply current",
           "caption": "Current flows around the coil.",
-          "detail": "Markers illustrate conventional current."
+          "detail": "Markers illustrate conventional current.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Generate torque",
           "caption": "Forces on opposite coil sides create a couple.",
-          "detail": "The angular factor changes with orientation."
+          "detail": "The angular factor changes with orientation.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Reverse current",
           "caption": "An ideal commutator maintains the turning tendency.",
-          "detail": "Current reversal occurs each half turn."
+          "detail": "Current reversal occurs each half turn.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Balance motion",
           "caption": "Damping opposes rotation.",
-          "detail": "The speed follows the specified inertia and torque model."
+          "detail": "The speed follows the specified inertia and torque model.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         }
       ],
       "activity": "Change current at fixed field and turns, then compare angular speed and torque.",
@@ -22331,27 +22906,57 @@
         {
           "title": "Point along the field",
           "caption": "The first finger represents magnetic field direction.",
-          "detail": "Outside a magnet it is conventionally north to south."
+          "detail": "Outside a magnet it is conventionally north to south.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Point along current",
           "caption": "The second finger follows conventional current.",
-          "detail": "It is opposite electron drift in a metal."
+          "detail": "It is opposite electron drift in a metal.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Find force",
           "caption": "The thumb indicates force in the motor rule.",
-          "detail": "The conductor must have a current component across the field."
+          "detail": "The conductor must have a current component across the field.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Compare coil sides",
           "caption": "Opposite current directions give opposite forces.",
-          "detail": "The pair can produce a turning effect."
+          "detail": "The pair can produce a turning effect.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         },
         {
           "title": "Follow reversal",
           "caption": "The ideal commutator changes coil current direction.",
-          "detail": "This maintains the selected rotational tendency."
+          "detail": "This maintains the selected rotational tendency.",
+          "parameters": {
+            "ua": 0.3,
+            "ub": 1,
+            "uc": 20,
+            "ud": 0.003
+          }
         }
       ],
       "activity": "Pause the coil and identify field and current directions on both opposite sides.",
@@ -47938,27 +48543,57 @@
         {
           "title": "Apply an input force",
           "caption": "Force acts over the small piston area.",
-          "detail": "Area is fixed at 0.001 m²."
+          "detail": "Area is fixed at 0.001 m².",
+          "parameters": {
+            "ua": 1000,
+            "ub": 2,
+            "uc": 20,
+            "ud": 1
+          }
         },
         {
           "title": "Produce added pressure",
           "caption": "Divide input force by area.",
-          "detail": "Pressure has units pascals."
+          "detail": "Pressure has units pascals.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 2,
+            "uc": 20,
+            "ud": 1
+          }
         },
         {
           "title": "Transmit the pressure change",
           "caption": "Connected static liquid shares the imposed increment.",
-          "detail": "Highlights are not sustained flow."
+          "detail": "Highlights are not sustained flow.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 2,
+            "uc": 20,
+            "ud": 4
+          }
         },
         {
           "title": "Act on a larger area",
           "caption": "Equal pressure produces a larger force.",
-          "detail": "The example pistons are at equal elevation."
+          "detail": "The example pistons are at equal elevation.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 2,
+            "uc": 20,
+            "ud": 4
+          }
         },
         {
           "title": "Conserve work",
           "caption": "Output motion is shorter for a force gain.",
-          "detail": "The ideal device supplies no free energy."
+          "detail": "The ideal device supplies no free energy.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 2,
+            "uc": 20,
+            "ud": 4
+          }
         }
       ],
       "activity": "Set area ratio to four and compare input/output force and inverse displacement ratio.",
@@ -48102,27 +48737,57 @@
         {
           "title": "Define the surface",
           "caption": "Use the stated atmospheric surface pressure.",
-          "detail": "This sets the absolute-pressure reference."
+          "detail": "This sets the absolute-pressure reference.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 0,
+            "uc": 0,
+            "ud": 4
+          }
         },
         {
           "title": "Choose a depth",
           "caption": "Measure downward from the surface.",
-          "detail": "Depth is in metres."
+          "detail": "Depth is in metres.",
+          "parameters": {
+            "ua": 1000,
+            "ub": 1,
+            "uc": 0,
+            "ud": 4
+          }
         },
         {
           "title": "Account for density",
           "caption": "Denser fluid adds more pressure per depth.",
-          "detail": "Density is held uniform."
+          "detail": "Density is held uniform.",
+          "parameters": {
+            "ua": 1200,
+            "ub": 1,
+            "uc": 0,
+            "ud": 4
+          }
         },
         {
           "title": "Calculate pressure",
           "caption": "Use ρgh for the gauge increment.",
-          "detail": "Add surface pressure for absolute pressure."
+          "detail": "Add surface pressure for absolute pressure.",
+          "parameters": {
+            "ua": 1200,
+            "ub": 2,
+            "uc": 0,
+            "ud": 4
+          }
         },
         {
           "title": "Compare equal depths",
           "caption": "Container shape does not enter this relation.",
-          "detail": "The static and uniform-density assumptions matter."
+          "detail": "The static and uniform-density assumptions matter.",
+          "parameters": {
+            "ua": 1200,
+            "ub": 2,
+            "uc": 0,
+            "ud": 4
+          }
         }
       ],
       "activity": "Double depth at fixed density and compare gauge pressure.",
@@ -48266,27 +48931,57 @@
         {
           "title": "Supply alternating input",
           "caption": "Changing current produces changing core flux.",
-          "detail": "The display slows the phase."
+          "detail": "The display slows the phase.",
+          "parameters": {
+            "ua": 12,
+            "ub": 200,
+            "uc": 200,
+            "ud": 40
+          }
         },
         {
           "title": "Link both windings",
           "caption": "A shared ideal flux links the coils.",
-          "detail": "Perfect coupling is assumed."
+          "detail": "Perfect coupling is assumed.",
+          "parameters": {
+            "ua": 12,
+            "ub": 200,
+            "uc": 200,
+            "ud": 40
+          }
         },
         {
           "title": "Induce output voltage",
           "caption": "Turns ratio determines the RMS voltage ratio.",
-          "detail": "Sparse drawn loops represent many turns."
+          "detail": "Sparse drawn loops represent many turns.",
+          "parameters": {
+            "ua": 12,
+            "ub": 200,
+            "uc": 400,
+            "ud": 40
+          }
         },
         {
           "title": "Connect a load",
           "caption": "The resistive load draws secondary current.",
-          "detail": "Its value is an input."
+          "detail": "Its value is an input.",
+          "parameters": {
+            "ua": 12,
+            "ub": 200,
+            "uc": 400,
+            "ud": 40
+          }
         },
         {
           "title": "Conserve power",
           "caption": "Input and output powers match ideally.",
-          "detail": "Real losses require a different model."
+          "detail": "Real losses require a different model.",
+          "parameters": {
+            "ua": 12,
+            "ub": 200,
+            "uc": 400,
+            "ud": 40
+          }
         }
       ],
       "activity": "Double secondary turns at fixed primary voltage and inspect the load current and power.",
@@ -64097,27 +64792,47 @@
         {
           "title": "Choose a world",
           "caption": "Read its ideal surface escape speed.",
-          "detail": "The body is spherical."
+          "detail": "The body is spherical.",
+          "parameters": {
+            "ua": 0,
+            "ub": 0.8
+          }
         },
         {
           "title": "Set launch energy",
           "caption": "Use a fraction of the threshold speed.",
-          "detail": "Thrust ends at release."
+          "detail": "Thrust ends at release.",
+          "parameters": {
+            "ua": 0,
+            "ub": 0.8
+          }
         },
         {
           "title": "Follow radial motion",
           "caption": "Gravity continues to reduce outward speed.",
-          "detail": "RK4 integrates inverse-square acceleration."
+          "detail": "RK4 integrates inverse-square acceleration.",
+          "parameters": {
+            "ua": 0,
+            "ub": 0.8
+          }
         },
         {
           "title": "Compare outcomes",
           "caption": "A bound launch can return to the surface.",
-          "detail": "An unbound launch need not return."
+          "detail": "An unbound launch need not return.",
+          "parameters": {
+            "ua": 0,
+            "ub": 1.05
+          }
         },
         {
           "title": "Read physical limits",
           "caption": "Air and rotation change practical launch requirements.",
-          "detail": "The finite logarithmic view is not a mission design tool."
+          "detail": "The finite logarithmic view is not a mission design tool.",
+          "parameters": {
+            "ua": 0,
+            "ub": 1.05
+          }
         }
       ],
       "activity": "Compare launch factors below, at and above one for the same world.",
