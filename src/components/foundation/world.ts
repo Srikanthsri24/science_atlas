@@ -33,4 +33,7 @@ function rawfoundationWorld(kind:FoundationKind,p:UniverseParameters,time:number
  }
  return{things,flows,metrics,physical,focus:[...new Set(things.flatMap(t=>t.inspect?[t.inspect]:[]))]}}
 
-export function foundationWorld(kind:FoundationKind,p:UniverseParameters,time:number):World{return biologyDetails(kind,p,time,rawfoundationWorld(kind,p,time))}
+// Reuse one immutable render-frame description across the notebook, toolbar and viewer.
+// Weak keys release old parameter objects; the value fingerprint also detects in-place edits.
+const renderFrames=new WeakMap<UniverseParameters,{key:string;world:World}>();
+export function foundationWorld(kind:FoundationKind,p:UniverseParameters,time:number):World{const key=kind+'|'+time+'|'+JSON.stringify(p),cached=renderFrames.get(p);if(cached?.key===key)return cached.world;const world=biologyDetails(kind,p,time,rawfoundationWorld(kind,p,time));renderFrames.set(p,{key,world});return world}

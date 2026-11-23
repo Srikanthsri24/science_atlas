@@ -65,7 +65,11 @@
         {
           "title": "Compare masses",
           "caption": "Keep height fixed and compare two masses.",
-          "detail": "Both vacuum trajectories have the same impact time."
+          "detail": "Both vacuum trajectories have the same impact time.",
+          "parameters": {
+            "fallMass": 2,
+            "airDrag": false
+          }
         }
       ],
       "activity": "Turn drag off, double mass, and compare impact time from the same height.",
@@ -9129,7 +9133,10 @@
         {
           "title": "Compare drag",
           "caption": "With drag, acceleration decreases as resistance grows.",
-          "detail": "Constant-g gravity does not imply constant net acceleration when other forces act."
+          "detail": "Constant-g gravity does not imply constant net acceleration when other forces act.",
+          "parameters": {
+            "airDrag": true
+          }
         }
       ],
       "activity": "With drag off, compare speed increases over equal time intervals.",
@@ -9465,7 +9472,13 @@
         {
           "title": "Balance the beam",
           "caption": "Equal opposing torque magnitudes give zero net torque.",
-          "detail": "Zero torque does not by itself prove zero total force."
+          "detail": "Zero torque does not by itself prove zero total force.",
+          "parameters": {
+            "ua": 15,
+            "ub": 10,
+            "uc": 1,
+            "ud": 1.5
+          }
         }
       ],
       "activity": "Double one moment arm while holding its force fixed; then restore balance with the opposite force.",
@@ -21448,27 +21461,52 @@
         {
           "title": "Identify the body",
           "caption": "Choose the block as the system.",
-          "detail": "Include only forces acting on this block."
+          "detail": "Include only forces acting on this block.",
+          "parameters": {
+            "ua": 3,
+            "ub": 1,
+            "uc": 0
+          }
         },
         {
           "title": "Test balance",
           "caption": "Small applied force can be balanced by friction.",
-          "detail": "From rest it remains at rest in this case."
+          "detail": "From rest it remains at rest in this case.",
+          "parameters": {
+            "ua": 0,
+            "ub": 1,
+            "uc": 0
+          }
         },
         {
           "title": "Unbalance forces",
           "caption": "An excess applied force produces acceleration.",
-          "detail": "Use the vector sum rather than one force alone."
+          "detail": "Use the vector sum rather than one force alone.",
+          "parameters": {
+            "ua": 4,
+            "ub": 1,
+            "uc": 0
+          }
         },
         {
           "title": "Compare mass",
           "caption": "At the same net force, larger mass gives smaller acceleration.",
-          "detail": "The equation concerns net force."
+          "detail": "The equation concerns net force.",
+          "parameters": {
+            "ua": 4,
+            "ub": 2,
+            "uc": 0
+          }
         },
         {
           "title": "Find the partner",
           "caption": "The block exerts an opposite force on its interaction partner.",
-          "detail": "That force acts on another body and is described rather than separately simulated."
+          "detail": "That force acts on another body and is described rather than separately simulated.",
+          "parameters": {
+            "ua": 4,
+            "ub": 1,
+            "uc": 0
+          }
         }
       ],
       "activity": "Find a friction-balanced case, then increase applied force and compare acceleration.",
@@ -21612,27 +21650,52 @@
         {
           "title": "Contact the surface",
           "caption": "The horizontal support balances the weight vertically.",
-          "detail": "Its normal force is mg here."
+          "detail": "Its normal force is mg here.",
+          "parameters": {
+            "ua": 0,
+            "ub": 1,
+            "uc": 0.3
+          }
         },
         {
           "title": "Apply a small force",
           "caption": "Static friction balances the applied horizontal force.",
-          "detail": "The block can stay at rest."
+          "detail": "The block can stay at rest.",
+          "parameters": {
+            "ua": 1,
+            "ub": 1,
+            "uc": 0.3
+          }
         },
         {
           "title": "Reach the limit",
           "caption": "The maximum modeled static friction is μmg.",
-          "detail": "This depends on the normal load."
+          "detail": "This depends on the normal load.",
+          "parameters": {
+            "ua": 2.943,
+            "ub": 1,
+            "uc": 0.3
+          }
         },
         {
           "title": "Slide",
           "caption": "Above the limit the block accelerates.",
-          "detail": "The same chosen coefficient sets sliding friction in this simplification."
+          "detail": "The same chosen coefficient sets sliding friction in this simplification.",
+          "parameters": {
+            "ua": 5,
+            "ub": 1,
+            "uc": 0.3
+          }
         },
         {
           "title": "Reverse the force",
           "caption": "The illustrated sliding direction reverses.",
-          "detail": "Friction opposes the new tendency or motion."
+          "detail": "Friction opposes the new tendency or motion.",
+          "parameters": {
+            "ua": -5,
+            "ub": 1,
+            "uc": 0.3
+          }
         }
       ],
       "activity": "At fixed mass, sweep applied force across the friction threshold.",
@@ -52742,27 +52805,42 @@
         {
           "title": "Identify the term",
           "caption": "Pathogenicity concerns disease-causing potential.",
-          "detail": "It depends on context."
+          "detail": "It depends on context.",
+          "parameters": {
+            "ua": 0
+          }
         },
         {
           "title": "Compare bacteria",
           "caption": "Some can cause disease.",
-          "detail": "Many do not."
+          "detail": "Many do not.",
+          "parameters": {
+            "ua": 0
+          }
         },
         {
           "title": "Compare viruses",
           "caption": "They depend on suitable host cells.",
-          "detail": "They are not bacterial cells."
+          "detail": "They are not bacterial cells.",
+          "parameters": {
+            "ua": 1
+          }
         },
         {
           "title": "Compare eukaryotic forms",
           "caption": "Some fungi and protists can be pathogenic.",
-          "detail": "The shown yeast and amoeba are representative forms."
+          "detail": "The shown yeast and amoeba are representative forms.",
+          "parameters": {
+            "ua": 2
+          }
         },
         {
           "title": "Avoid visual diagnosis",
           "caption": "Shape alone is insufficient evidence.",
-          "detail": "No pathogen culture or treatment is included."
+          "detail": "No pathogen culture or treatment is included.",
+          "parameters": {
+            "ua": 3
+          }
         }
       ],
       "activity": "Compare cell organization across forms without inferring disease from appearance.",

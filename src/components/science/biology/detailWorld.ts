@@ -1,10 +1,11 @@
+import{laboratoryDetails}from'../laboratoryDetails';
 import{plantGeneticsDetails}from'./plantGeneticsDetails';
 import type { World, Thing, V } from '../../universe/world';
 import type { UniverseParameters } from '../../../lib/universeTypes';
 import { elbow } from '../../../lib/livingModels';
 
 // Original teaching geometry. Added anatomy is illustrative, never a new numerical solver.
-export const biologyPreviewKinds = ['classification','cellstructure','mitosis','tissues','microbe','evolution','joint','neuron','bodyatlas','reflex','digestion','tooth','breathing','nephron','endocrine','senses','reproduction','immune','tropism','planttransport','photosynthesis','transpiration','flower','husbandry','animals','geneticcode','genetics','pcr','recombinant','ecosystem'] as const;
+export const biologyPreviewKinds = ['classification','cellstructure','mitosis','tissues','microbe','evolution','joint','neuron','bodyatlas','reflex','digestion','tooth','breathing','nephron','endocrine','senses','reproduction','immune','tropism','planttransport','photosynthesis','transpiration','flower','husbandry','animals','geneticcode','genetics','pcr','recombinant','ecosystem','foodweb','population','pollution','cycles','food','nutrition','hygiene','projectile','freefall','force','spring','collision','cradle','rotation','lever','orbit'] as const;
 export const hasBiologyDetail = (kind:string) => (biologyPreviewKinds as readonly string[]).includes(kind);
 export function biologyDetails(kind:string,p:UniverseParameters,time:number,base:World):World {
  if(!hasBiologyDetail(kind))return base;
@@ -117,5 +118,5 @@ for(let j=0;j<7;j++)line([[-.82+j*.07,.15,.39],[-.87+j*.07,.35,.40],[-.73+j*.07,
   const stem=base.things.find(t=>t.inspect==='Growing shoot');if(stem?.points){for(let j=3;j<stem.points.length-2;j+=4){const a=stem.points[j];for(const s of[-1,1])line([[a[0]+s*.055,a[1]-.03,.045],[a[0]+s*.055,a[1]+.06,.045]],ivory,.008,'Elongating cell file')}
    const tip=stem.points.at(-1)!;for(const s of[-1,1])veins([tip[0],tip[1]-.1,.10],[tip[0]+s*.5,tip[1]-.1,.10],dark,'Leaf venation');}
  }
- return plantGeneticsDetails(kind,p,time,{...base,things,flows,focus:[...new Set(things.flatMap(t=>t.inspect?[t.inspect]:[]))]});
+ return laboratoryDetails(kind,p,time,plantGeneticsDetails(kind,p,time,{...base,things,flows,focus:[...new Set(things.flatMap(t=>t.inspect?[t.inspect]:[]))]}));
 }

@@ -1,0 +1,1170 @@
+{
+  "batch": "03",
+  "range": [
+    "SA-0051",
+    "SA-0075"
+  ],
+  "reviewScope": "Internal selected-state review; not independent expert certification or official curriculum verification.",
+  "animationSeconds": 100,
+  "desktopViewport": {
+    "width": 1280,
+    "height": 960
+  },
+  "routes": [
+    {
+      "id": "SA-0051",
+      "title": "Food chains",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow another transfer",
+      "endCaption": "State the scope",
+      "overflow": false
+    },
+    {
+      "id": "SA-0052",
+      "title": "Food webs",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Read arrow direction",
+      "endCaption": "Avoid prediction errors",
+      "overflow": false
+    },
+    {
+      "id": "SA-0053",
+      "title": "Population ecology",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Include limits",
+      "endCaption": "Separate ecology from the model",
+      "overflow": false
+    },
+    {
+      "id": "SA-0054",
+      "title": "Conservation",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Explore a change",
+      "endCaption": "Monitor outcomes",
+      "overflow": false
+    },
+    {
+      "id": "SA-0055",
+      "title": "Pollution",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Remove a fraction",
+      "endCaption": "Interpret scope",
+      "overflow": false
+    },
+    {
+      "id": "SA-0056",
+      "title": "Biogeochemical cycles",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Return material",
+      "endCaption": "Add missing processes",
+      "overflow": false
+    },
+    {
+      "id": "SA-0057",
+      "title": "Nutrition",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Absorb products",
+      "endCaption": "Include variety",
+      "overflow": false
+    },
+    {
+      "id": "SA-0058",
+      "title": "Deficiency diseases",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Consider insufficient supply",
+      "endCaption": "Use balanced understanding",
+      "overflow": false
+    },
+    {
+      "id": "SA-0059",
+      "title": "Pathogens",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Compare viruses",
+      "endCaption": "Avoid visual diagnosis",
+      "overflow": false
+    },
+    {
+      "id": "SA-0060",
+      "title": "Vaccination",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Build an adaptive response",
+      "endCaption": "Interpret protection carefully",
+      "overflow": false
+    },
+    {
+      "id": "SA-0061",
+      "title": "Public health",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Apply a preventive measure",
+      "endCaption": "Evaluate with evidence",
+      "overflow": false
+    },
+    {
+      "id": "SA-0062",
+      "title": "Adolescence",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Recognize broader development",
+      "endCaption": "Support wellbeing",
+      "overflow": false
+    },
+    {
+      "id": "SA-0063",
+      "title": "Motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow change",
+      "endCaption": "Check contact",
+      "overflow": false
+    },
+    {
+      "id": "SA-0064",
+      "title": "Velocity",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Follow vx",
+      "endCaption": "Combine components",
+      "overflow": false
+    },
+    {
+      "id": "SA-0065",
+      "title": "Acceleration",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Release from rest",
+      "endCaption": "Compare drag",
+      "overflow": false
+    },
+    {
+      "id": "SA-0066",
+      "title": "Newton laws",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Unbalance forces",
+      "endCaption": "Find the partner",
+      "overflow": false
+    },
+    {
+      "id": "SA-0067",
+      "title": "Friction",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Reach the limit",
+      "endCaption": "Reverse the force",
+      "overflow": false
+    },
+    {
+      "id": "SA-0068",
+      "title": "Work energy power",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Cross equilibrium",
+      "endCaption": "Connect power",
+      "overflow": false
+    },
+    {
+      "id": "SA-0069",
+      "title": "Momentum",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Calculate before",
+      "endCaption": "Separate energy",
+      "overflow": false
+    },
+    {
+      "id": "SA-0070",
+      "title": "Newton cradle",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Transfer an impulse",
+      "endCaption": "Compare reality",
+      "overflow": false
+    },
+    {
+      "id": "SA-0071",
+      "title": "Circular motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Read the tangent",
+      "endCaption": "Change angular speed",
+      "overflow": false
+    },
+    {
+      "id": "SA-0072",
+      "title": "Rotational motion",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Rotate uniformly",
+      "endCaption": "Compare energy",
+      "overflow": false
+    },
+    {
+      "id": "SA-0073",
+      "title": "Torque",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Choose a sign",
+      "endCaption": "Balance the beam",
+      "overflow": false
+    },
+    {
+      "id": "SA-0074",
+      "title": "Gravitation",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Change direction",
+      "endCaption": "State the scope",
+      "overflow": false
+    },
+    {
+      "id": "SA-0075",
+      "title": "Free fall in a uniform gravitational field",
+      "twoD": true,
+      "threeD": true,
+      "duration": 100,
+      "midCaption": "Fall farther",
+      "endCaption": "Compare masses",
+      "overflow": false
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "id": "SA-0051",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0052",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0053",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0054",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0055",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0056",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0057",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0058",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0059",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0060",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0061",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0062",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0063",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 406.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0064",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 428.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0065",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 406.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0066",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0067",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 386.21875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0068",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 406.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0069",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0070",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0071",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0072",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 411.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0073",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 389.71875,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0074",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 364.125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0075",
+      "device": "phone",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 453.8125,
+        "viewport": 390,
+        "width": 362.25,
+        "x": 13.875
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0051",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0052",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0053",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0054",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0055",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0056",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0057",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0058",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0059",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0060",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0061",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0062",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0063",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0064",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0065",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0066",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0067",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0068",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0069",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0070",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0071",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0072",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0073",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0074",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    },
+    {
+      "id": "SA-0075",
+      "device": "tablet",
+      "normalFits": true,
+      "stageFits": true,
+      "bounds": {
+        "height": 944.3125,
+        "viewport": 820,
+        "width": 820,
+        "x": 0
+      },
+      "canvas": true
+    }
+  ],
+  "guidedChecks": [
+    {
+      "id": "SA-0051",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "State the scope",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0052",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Avoid prediction errors",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0053",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Separate ecology from the model",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0054",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Monitor outcomes",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0055",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Interpret scope",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0056",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Add missing processes",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0057",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Include variety",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0058",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Use balanced understanding",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0059",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Avoid visual diagnosis",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0060",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Interpret protection carefully",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0061",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Evaluate with evidence",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0062",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Support wellbeing",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0063",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Check contact",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0064",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Combine components",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0065",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare drag",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0066",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Find the partner",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0067",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Reverse the force",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0068",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Connect power",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0069",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Separate energy",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0070",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare reality",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0071",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Change angular speed",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0072",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare energy",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0073",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Balance the beam",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0074",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "State the scope",
+      "observationTable": true
+    },
+    {
+      "id": "SA-0075",
+      "guided": true,
+      "threeD": true,
+      "duration": 100,
+      "endCaption": "Compare masses",
+      "observationTable": true
+    }
+  ],
+  "semanticChecks": [
+    {
+      "id": "SA-0067",
+      "chapter": "2. Apply a small force",
+      "metrics": "Net acceleration\n0.00 m/s\u00b2\nVelocity\n0.00 m/s\nFriction force magnitude\n1.00 N\nDisplacement\n0.00 m"
+    },
+    {
+      "id": "SA-0067",
+      "chapter": "4. Slide",
+      "metrics": "Net acceleration\n2.06 m/s\u00b2\nVelocity\n0.00 m/s\nFriction force magnitude\n2.94 N\nDisplacement\n0.00 m"
+    },
+    {
+      "id": "SA-0067",
+      "chapter": "5. Reverse the force",
+      "metrics": "Net acceleration\n-2.06 m/s\u00b2\nVelocity\n-0.83 m/s\nFriction force magnitude\n2.94 N\nDisplacement\n-0.17 m"
+    },
+    {
+      "id": "SA-0073",
+      "chapter": "Final balance",
+      "metrics": "Left moment\n15.00 N\u00b7m\nRight moment\n15.00 N\u00b7m\nNet moment\n0.00 N\u00b7m"
+    },
+    {
+      "id": "SA-0063",
+      "chapter": "End",
+      "metrics": "Horizontal position\n19.875 m\nVertical position\n0.000 m\nHorizontal velocity\n0.000 m/s\nVertical velocity\n0.000 m/s\nSpeed\n0.000 m/s\nDistance travelled\n27.416 m\nDisplacement magnitude\n19.875 m\nModel elapsed\n2.648 s"
+    },
+    {
+      "id": "SA-0065",
+      "chapter": "End",
+      "metrics": "Height\n0.00 m\nImpact speed\n19.58 m/s\nTerminal speed\n20.64 m/s"
+    },
+    {
+      "id": "SA-0075",
+      "chapter": "End",
+      "metrics": "Height\n0.00 m\nImpact speed\n31.32 m/s\nTerminal speed\nNo drag m/s"
+    }
+  ],
+  "livePlaybackSpotCheck": {
+    "id": "SA-0068",
+    "started": 0.104,
+    "advancedTo": 12.988999999996272,
+    "clockAdvances": true,
+    "scope": "Live playback spot check; all 25 routes additionally checked at selected timeline states."
+  },
+  "automatedTests": {
+    "total": 1587,
+    "passed": 1587,
+    "targetedBatchTests": 33,
+    "exactStagedSnapshot": true
+  },
+  "build": "TypeScript compilation and Vite production build passed on the exact staged source snapshot. Existing bundle-size warnings remain."
+}
