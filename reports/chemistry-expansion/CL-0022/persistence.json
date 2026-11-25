@@ -1,0 +1,6 @@
+{
+  "conclusion": "Greater initial exposed area increases the model dissolution rate at equal starting sugar mass. Stirring increases the chosen surface-transfer coefficient. Solid plus dissolved sugar remains equal to the starting mass: dissolution is not destruction. At 120 s, 10 g coarse grains without stirring retain 1.370962 g solid, while stirring 0.5 reaches full model dissolution. These cubic grains and chosen transfer rates are teaching approximations, not actual sucrose crystal habit or calibrated kitchen-sugar timings.",
+  "lastNote": "Minimum 2 g coarse sample has a small positive 0.008806 g solid remainder at 120 s.",
+  "prediction": "With the same sugar mass, many smaller grains should dissolve faster because they expose more total area. Stirring should increase the chosen transfer rate. Dissolved sugar should remain in the liquid.",
+  "rows": 13
+}

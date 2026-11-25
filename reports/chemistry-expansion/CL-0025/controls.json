@@ -1,0 +1,17 @@
+{
+  "guideSeekEnd": "110",
+  "replayFromEnd": "0.14769999999692662",
+  "pausedCanRecord": true,
+  "resumedLocksRecord": true,
+  "manualPauseResume": true,
+  "manualSpeedsTested": [
+    0.5,
+    1,
+    2
+  ],
+  "selectedIndicesTested": [
+    0,
+    63
+  ],
+  "escapeExitsTheatre": true
+}

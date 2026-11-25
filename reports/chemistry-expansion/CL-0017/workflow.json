@@ -1,0 +1,8 @@
+{
+  "liveManual3600ModelSecondsCompleted": true,
+  "manualSpeed": 120,
+  "recordLockedDuringRun": true,
+  "manualPauseResumePassed": true,
+  "table": "Paired reference-liquid observations · model time differs from presentation time\nTrial\tStart mL each\tRadius mm\tLength cm\tModel time s\tWater left mL\tWater collected mL\tOil left mL\tOil collected mL\tMy observation\n1\t100\t0.8\t20\t3600.000\t0.000067984\t99.999932016\t81.775983296\t18.224016704\t\n2\t100\t0.8\t20\t0.000\t100.000000000\t0.000000000\t100.000000000\t0.000000000\t\n3\t100\t0.8\t20\t3600.000\t0.000067984\t99.999932016\t81.775983296\t18.224016704\t\n4\t100\t0.8\t20\t1800.000\t0.082452498\t99.917547502\t90.430074254\t9.569925746\t\n5\t100\t0.4\t20\t3600.000\t41.164749553\t58.835250447\t98.750456270\t1.249543730\t\n6\t100\t0.6\t20\t3600.000\t1.118240532\t98.881759468\t93.832707762\t6.167292238\t\n7\t100\t0.8\t40\t3600.000\t0.082452498\t99.917547502\t90.430074254\t9.569925746\t\n8\t200\t0.8\t20\t3600.000\t0.000135968\t199.999864032\t163.551966592\t36.448033408\t\n9\t50\t0.4\t40\t3600.000\t32.079880592\t17.920119408\t49.686632073\t0.313367927\t",
+  "download": "/Users/macbookpro/Downloads/CL-0017-water-oil-pouring-practical.html"
+}

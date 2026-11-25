@@ -1,0 +1,10 @@
+{
+  "wettingGuideLocked": true,
+  "pauseResume": true,
+  "seekEnd": "110",
+  "labelsBefore": 1,
+  "labelsAfter": 0,
+  "orbitZoom": true,
+  "escape": true,
+  "darkTheme": true
+}

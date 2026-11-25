@@ -1,0 +1,4932 @@
+{
+  "schemaVersion": 1,
+  "title": "Science Atlas Chemistry Labs — Classes 1–12",
+  "company": "VisionariesAI Labs Private Limited",
+  "coverageNote": "A 270-investigation development catalogue. Class placement is editorial, not certified board alignment. A listed lab is not counted implemented until its review fields pass.",
+  "labs": [
+    {
+      "id": "CL-0001",
+      "sequence": 1,
+      "grade": 1,
+      "title": "Sort objects by their material",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Sort objects by their material. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0001/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0002",
+      "sequence": 2,
+      "grade": 1,
+      "title": "Compare transparent, translucent and opaque materials",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare transparent, translucent and opaque materials. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0002/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Illustrative narrowband slab, chosen coefficients, forward-scattering approximation; no calibrated optical material constants or full transport solver."
+    },
+    {
+      "id": "CL-0003",
+      "sequence": 3,
+      "grade": 1,
+      "title": "Find waterproof materials",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find waterproof materials. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0003/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Chosen sheet conductance and wetting delay; reservoir head model. No capillary, absorption, swelling or sheet-failure solver."
+    },
+    {
+      "id": "CL-0004",
+      "sequence": 4,
+      "grade": 1,
+      "title": "Compare water absorption by paper, cloth and plastic",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare water absorption by paper, cloth and plastic. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0004/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Chosen first-order retained-water model; capped by available water; density approximation 1 g/mL; same short draining protocol. No swelling, evaporation, dissolution or surface-droplet solver."
+    },
+    {
+      "id": "CL-0005",
+      "sequence": 5,
+      "grade": 1,
+      "title": "Sort rough and smooth surfaces",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Sort rough and smooth surfaces. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0005/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Synthetic height fields and sampled mean absolute profile deviation; not measured material data, tactile sensation, friction prediction or standards-compliant metrology."
+    },
+    {
+      "id": "CL-0006",
+      "sequence": 6,
+      "grade": 1,
+      "title": "Compare flexible and rigid objects",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare flexible and rigid objects. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0006/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Chosen small-deflection Euler–Bernoulli cantilever examples; incremental bending relative to unloaded reference, ideal clamp, no creep, yielding or dynamics."
+    },
+    {
+      "id": "CL-0007",
+      "sequence": 7,
+      "grade": 1,
+      "title": "Find materials attracted to a magnet",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find materials attracted to a magnet. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0007/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0008",
+      "sequence": 8,
+      "grade": 1,
+      "title": "Compare floating and sinking everyday objects",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare floating and sinking everyday objects. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0008/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0009",
+      "sequence": 9,
+      "grade": 1,
+      "title": "Observe a liquid taking the shape of its container",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe a liquid taking the shape of its container. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0009/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0010",
+      "sequence": 10,
+      "grade": 1,
+      "title": "Compare dry sand and wet sand",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare dry sand and wet sand. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0010/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0011",
+      "sequence": 11,
+      "grade": 1,
+      "title": "Observe ice changing into liquid water",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe ice changing into liquid water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0011/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0012",
+      "sequence": 12,
+      "grade": 1,
+      "title": "Choose a material for a reusable drinking cup",
+      "strand": "Materials around us",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Choose a material for a reusable drinking cup. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0012/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1
+    },
+    {
+      "id": "CL-0013",
+      "sequence": 13,
+      "grade": 2,
+      "title": "Compare salt and sand in water",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare salt and sand in water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0013/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": "1.0.0"
+    },
+    {
+      "id": "CL-0014",
+      "sequence": 14,
+      "grade": 2,
+      "title": "Recover visible solids by handpicking",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Recover visible solids by handpicking. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0014/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": "1.0.0"
+    },
+    {
+      "id": "CL-0015",
+      "sequence": 15,
+      "grade": 2,
+      "title": "Separate large and small grains with a sieve",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate large and small grains with a sieve. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0015/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": "1.0.0"
+    },
+    {
+      "id": "CL-0016",
+      "sequence": 16,
+      "grade": 2,
+      "title": "Observe oil and water forming layers",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe oil and water forming layers. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0016/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": "1.0.0"
+    },
+    {
+      "id": "CL-0017",
+      "sequence": 17,
+      "grade": 2,
+      "title": "Compare water and cooking oil pouring",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare water and cooking oil pouring. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0017/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": "1.0.0"
+    },
+    {
+      "id": "CL-0018",
+      "sequence": 18,
+      "grade": 2,
+      "title": "Mix coloured water and follow the colour",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Mix coloured water and follow the colour. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0018/review.json"
+    },
+    {
+      "id": "CL-0019",
+      "sequence": 19,
+      "grade": 2,
+      "title": "Observe water drying from a shallow dish",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe water drying from a shallow dish. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0019/review.json"
+    },
+    {
+      "id": "CL-0020",
+      "sequence": 20,
+      "grade": 2,
+      "title": "Make droplets join on a smooth surface",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Make droplets join on a smooth surface. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0020/review.json"
+    },
+    {
+      "id": "CL-0021",
+      "sequence": 21,
+      "grade": 2,
+      "title": "Compare clay, paper and metal after wetting",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare clay, paper and metal after wetting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0021/review.json"
+    },
+    {
+      "id": "CL-0022",
+      "sequence": 22,
+      "grade": 2,
+      "title": "Investigate dissolving sugar crystals",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate dissolving sugar crystals. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0022/review.json"
+    },
+    {
+      "id": "CL-0023",
+      "sequence": 23,
+      "grade": 2,
+      "title": "Observe water vapour condensing on a cool lid",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe water vapour condensing on a cool lid. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0023/review.json"
+    },
+    {
+      "id": "CL-0024",
+      "sequence": 24,
+      "grade": 2,
+      "title": "Identify a suitable container for a liquid",
+      "strand": "Everyday mixtures and changes",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify a suitable container for a liquid. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0024/review.json"
+    },
+    {
+      "id": "CL-0025",
+      "sequence": 25,
+      "grade": 3,
+      "title": "Compare particle arrangements in solid, liquid and gas",
+      "strand": "States, solutions and measurement",
+      "status": "ready",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare particle arrangements in solid, liquid and gas. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0025/review.json"
+    },
+    {
+      "id": "CL-0026",
+      "sequence": 26,
+      "grade": 3,
+      "title": "Measure a liquid volume in a graduated cylinder",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Measure a liquid volume in a graduated cylinder. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0027",
+      "sequence": 27,
+      "grade": 3,
+      "title": "Use a balance to compare sample masses",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Use a balance to compare sample masses. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0028",
+      "sequence": 28,
+      "grade": 3,
+      "title": "Find how stirring changes dissolving time",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find how stirring changes dissolving time. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0029",
+      "sequence": 29,
+      "grade": 3,
+      "title": "Compare dissolving in warm and cool water",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare dissolving in warm and cool water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0030",
+      "sequence": 30,
+      "grade": 3,
+      "title": "Compare fine and coarse sugar dissolving",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare fine and coarse sugar dissolving. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0031",
+      "sequence": 31,
+      "grade": 3,
+      "title": "Find when added salt stops dissolving",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find when added salt stops dissolving. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0032",
+      "sequence": 32,
+      "grade": 3,
+      "title": "Compare a solution and a suspension",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare a solution and a suspension. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0033",
+      "sequence": 33,
+      "grade": 3,
+      "title": "Filter chalk particles from water",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Filter chalk particles from water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0034",
+      "sequence": 34,
+      "grade": 3,
+      "title": "Follow evaporation and condensation in a closed system",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Follow evaporation and condensation in a closed system. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0035",
+      "sequence": 35,
+      "grade": 3,
+      "title": "Compare melting and dissolving",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare melting and dissolving. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0036",
+      "sequence": 36,
+      "grade": 3,
+      "title": "Investigate volume displacement by an insoluble solid",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate volume displacement by an insoluble solid. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0037",
+      "sequence": 37,
+      "grade": 3,
+      "title": "Observe food colouring spreading through still water",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe food colouring spreading through still water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0038",
+      "sequence": 38,
+      "grade": 3,
+      "title": "Compare soluble and insoluble household solids",
+      "strand": "States, solutions and measurement",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare soluble and insoluble household solids. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0039",
+      "sequence": 39,
+      "grade": 4,
+      "title": "Separate rice and husk by winnowing",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate rice and husk by winnowing. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0040",
+      "sequence": 40,
+      "grade": 4,
+      "title": "Separate iron filings from sand magnetically",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate iron filings from sand magnetically. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0041",
+      "sequence": 41,
+      "grade": 4,
+      "title": "Recover sand by sedimentation and decantation",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Recover sand by sedimentation and decantation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0042",
+      "sequence": 42,
+      "grade": 4,
+      "title": "Compare filter papers with different pore sizes",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare filter papers with different pore sizes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0043",
+      "sequence": 43,
+      "grade": 4,
+      "title": "Recover dissolved salt by evaporation",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Recover dissolved salt by evaporation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0044",
+      "sequence": 44,
+      "grade": 4,
+      "title": "Separate a two-colour ink by paper chromatography",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate a two-colour ink by paper chromatography. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0045",
+      "sequence": 45,
+      "grade": 4,
+      "title": "Compare beaker and measuring-cylinder readings",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare beaker and measuring-cylinder readings. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0046",
+      "sequence": 46,
+      "grade": 4,
+      "title": "Read a meniscus at different eye heights",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Read a meniscus at different eye heights. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0047",
+      "sequence": 47,
+      "grade": 4,
+      "title": "Investigate floating layers of immiscible liquids",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate floating layers of immiscible liquids. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0048",
+      "sequence": 48,
+      "grade": 4,
+      "title": "Compare equal-volume samples by density",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare equal-volume samples by density. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0049",
+      "sequence": 49,
+      "grade": 4,
+      "title": "Observe melting and freezing of a chosen material",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe melting and freezing of a chosen material. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0050",
+      "sequence": 50,
+      "grade": 4,
+      "title": "Investigate how surface area changes evaporation",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate how surface area changes evaporation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0051",
+      "sequence": 51,
+      "grade": 4,
+      "title": "Compare evaporation in moving and still air",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare evaporation in moving and still air. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0052",
+      "sequence": 52,
+      "grade": 4,
+      "title": "Follow the path of water through a simple filter bed",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Follow the path of water through a simple filter bed. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0053",
+      "sequence": 53,
+      "grade": 4,
+      "title": "Compare sieving and filtration",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare sieving and filtration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0054",
+      "sequence": 54,
+      "grade": 4,
+      "title": "Plan a separation sequence for a three-component mixture",
+      "strand": "Separation and material properties",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Plan a separation sequence for a three-component mixture. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0055",
+      "sequence": 55,
+      "grade": 5,
+      "title": "Distinguish reversible and irreversible material changes",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Distinguish reversible and irreversible material changes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0056",
+      "sequence": 56,
+      "grade": 5,
+      "title": "Observe a dissolving mass balance in a closed container",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe a dissolving mass balance in a closed container. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0057",
+      "sequence": 57,
+      "grade": 5,
+      "title": "Compare water samples using a turbidity model",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare water samples using a turbidity model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0058",
+      "sequence": 58,
+      "grade": 5,
+      "title": "Investigate simple distillation of coloured water",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate simple distillation of coloured water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0059",
+      "sequence": 59,
+      "grade": 5,
+      "title": "Grow crystals from a supersaturated solution",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Grow crystals from a supersaturated solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0060",
+      "sequence": 60,
+      "grade": 5,
+      "title": "Compare crystal growth during fast and slow cooling",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare crystal growth during fast and slow cooling. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0061",
+      "sequence": 61,
+      "grade": 5,
+      "title": "Observe carbon dioxide production from an acid and carbonate",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe carbon dioxide production from an acid and carbonate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0062",
+      "sequence": 62,
+      "grade": 5,
+      "title": "Compare an acid and a base using a cabbage-indicator model",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare an acid and a base using a cabbage-indicator model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0063",
+      "sequence": 63,
+      "grade": 5,
+      "title": "Investigate neutralizing an acidic solution",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate neutralizing an acidic solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0064",
+      "sequence": 64,
+      "grade": 5,
+      "title": "Observe rust formation with different water and oxygen conditions",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe rust formation with different water and oxygen conditions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0065",
+      "sequence": 65,
+      "grade": 5,
+      "title": "Compare corrosion protection by coatings",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare corrosion protection by coatings. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0066",
+      "sequence": 66,
+      "grade": 5,
+      "title": "Compare expansion of air on warming",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare expansion of air on warming. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0067",
+      "sequence": 67,
+      "grade": 5,
+      "title": "Investigate gas occupying space in an inverted cup",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate gas occupying space in an inverted cup. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0068",
+      "sequence": 68,
+      "grade": 5,
+      "title": "Compare solution concentration by colour intensity",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare solution concentration by colour intensity. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0069",
+      "sequence": 69,
+      "grade": 5,
+      "title": "Investigate the effect of temperature on gas solubility",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate the effect of temperature on gas solubility. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0070",
+      "sequence": 70,
+      "grade": 5,
+      "title": "Compare sedimentation before and after flocculation",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare sedimentation before and after flocculation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0071",
+      "sequence": 71,
+      "grade": 5,
+      "title": "Separate a salt-and-sand mixture completely",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate a salt-and-sand mixture completely. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0072",
+      "sequence": 72,
+      "grade": 5,
+      "title": "Design a water-recovery experiment",
+      "strand": "Changes and water investigations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Design a water-recovery experiment. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0073",
+      "sequence": 73,
+      "grade": 6,
+      "title": "Classify a material as element, compound or mixture",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Classify a material as element, compound or mixture. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0074",
+      "sequence": 74,
+      "grade": 6,
+      "title": "Compare homogeneous and heterogeneous mixtures",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare homogeneous and heterogeneous mixtures. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0075",
+      "sequence": 75,
+      "grade": 6,
+      "title": "Model diffusion in gases and liquids",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model diffusion in gases and liquids. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0076",
+      "sequence": 76,
+      "grade": 6,
+      "title": "Compare physical and chemical changes using particle evidence",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare physical and chemical changes using particle evidence. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0077",
+      "sequence": 77,
+      "grade": 6,
+      "title": "Measure density from mass and displaced volume",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Measure density from mass and displaced volume. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0078",
+      "sequence": 78,
+      "grade": 6,
+      "title": "Prepare a solution with a stated mass concentration",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Prepare a solution with a stated mass concentration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0079",
+      "sequence": 79,
+      "grade": 6,
+      "title": "Compare saturation at different temperatures",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare saturation at different temperatures. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0080",
+      "sequence": 80,
+      "grade": 6,
+      "title": "Construct a solubility curve from trials",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Construct a solubility curve from trials. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0081",
+      "sequence": 81,
+      "grade": 6,
+      "title": "Compare solute recovery after evaporation",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare solute recovery after evaporation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0082",
+      "sequence": 82,
+      "grade": 6,
+      "title": "Separate salt, sand and iron in stages",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate salt, sand and iron in stages. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0083",
+      "sequence": 83,
+      "grade": 6,
+      "title": "Use chromatography to compare ink samples",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Use chromatography to compare ink samples. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0084",
+      "sequence": 84,
+      "grade": 6,
+      "title": "Investigate a separating funnel with two liquid layers",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate a separating funnel with two liquid layers. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0085",
+      "sequence": 85,
+      "grade": 6,
+      "title": "Compare filtration and centrifugation of a suspension",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare filtration and centrifugation of a suspension. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0086",
+      "sequence": 86,
+      "grade": 6,
+      "title": "Investigate sublimation as a separation method",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate sublimation as a separation method. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0087",
+      "sequence": 87,
+      "grade": 6,
+      "title": "Compare pure-substance and mixture melting behaviour",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare pure-substance and mixture melting behaviour. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0088",
+      "sequence": 88,
+      "grade": 6,
+      "title": "Observe a heating curve for water",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe a heating curve for water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0089",
+      "sequence": 89,
+      "grade": 6,
+      "title": "Observe a cooling curve and a freezing plateau",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe a cooling curve and a freezing plateau. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0090",
+      "sequence": 90,
+      "grade": 6,
+      "title": "Compare heat conductors among materials",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare heat conductors among materials. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0091",
+      "sequence": 91,
+      "grade": 6,
+      "title": "Investigate the effect of an insulating layer on cooling",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate the effect of an insulating layer on cooling. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0092",
+      "sequence": 92,
+      "grade": 6,
+      "title": "Record and compare repeat measurements",
+      "strand": "Matter and mixtures",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Record and compare repeat measurements. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0093",
+      "sequence": 93,
+      "grade": 7,
+      "title": "Classify solutions with litmus indicators",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Classify solutions with litmus indicators. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0094",
+      "sequence": 94,
+      "grade": 7,
+      "title": "Compare turmeric-indicator responses",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare turmeric-indicator responses. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0095",
+      "sequence": 95,
+      "grade": 7,
+      "title": "Map cabbage-indicator colour to a chosen pH scale",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Map cabbage-indicator colour to a chosen pH scale. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0096",
+      "sequence": 96,
+      "grade": 7,
+      "title": "Compare universal-indicator colours across pH",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare universal-indicator colours across pH. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0097",
+      "sequence": 97,
+      "grade": 7,
+      "title": "Investigate neutralization with a temperature readout",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate neutralization with a temperature readout. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0098",
+      "sequence": 98,
+      "grade": 7,
+      "title": "Observe acid-carbonate gas formation and limewater evidence",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe acid-carbonate gas formation and limewater evidence. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0099",
+      "sequence": 99,
+      "grade": 7,
+      "title": "Compare indicators before and after dilution",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare indicators before and after dilution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0100",
+      "sequence": 100,
+      "grade": 7,
+      "title": "Investigate acidic and basic oxides with water",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate acidic and basic oxides with water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0101",
+      "sequence": 101,
+      "grade": 7,
+      "title": "Compare the pH of selected food-solution models",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare the pH of selected food-solution models. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0102",
+      "sequence": 102,
+      "grade": 7,
+      "title": "Observe a precipitation reaction between two salt solutions",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe a precipitation reaction between two salt solutions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0103",
+      "sequence": 103,
+      "grade": 7,
+      "title": "Compare fast and slow reaction observations",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare fast and slow reaction observations. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0104",
+      "sequence": 104,
+      "grade": 7,
+      "title": "Investigate surface area in a dissolving-solid model",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate surface area in a dissolving-solid model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0105",
+      "sequence": 105,
+      "grade": 7,
+      "title": "Compare reversible phase changes and new-substance formation",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare reversible phase changes and new-substance formation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0106",
+      "sequence": 106,
+      "grade": 7,
+      "title": "Test the conditions required for iron corrosion",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Test the conditions required for iron corrosion. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0107",
+      "sequence": 107,
+      "grade": 7,
+      "title": "Compare rusting with saltwater concentration",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare rusting with saltwater concentration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0108",
+      "sequence": 108,
+      "grade": 7,
+      "title": "Investigate a protective zinc coating",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate a protective zinc coating. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0109",
+      "sequence": 109,
+      "grade": 7,
+      "title": "Compare water hardness using a soap-foam model",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare water hardness using a soap-foam model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0110",
+      "sequence": 110,
+      "grade": 7,
+      "title": "Compare soap and detergent in hard water",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare soap and detergent in hard water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0111",
+      "sequence": 111,
+      "grade": 7,
+      "title": "Follow acid-rain effects on a carbonate surface",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Follow acid-rain effects on a carbonate surface. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0112",
+      "sequence": 112,
+      "grade": 7,
+      "title": "Compare natural and synthetic fibre absorption",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare natural and synthetic fibre absorption. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0113",
+      "sequence": 113,
+      "grade": 7,
+      "title": "Investigate starch detection with iodine",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate starch detection with iodine. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0114",
+      "sequence": 114,
+      "grade": 7,
+      "title": "Compare dissolved and suspended impurities in water",
+      "strand": "Acids, bases and reaction evidence",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare dissolved and suspended impurities in water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0115",
+      "sequence": 115,
+      "grade": 8,
+      "title": "Construct and compare neutral atomic models",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Construct and compare neutral atomic models. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0116",
+      "sequence": 116,
+      "grade": 8,
+      "title": "Form ions by formal electron bookkeeping",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Form ions by formal electron bookkeeping. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0117",
+      "sequence": 117,
+      "grade": 8,
+      "title": "Build simple molecules from valency constraints",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Build simple molecules from valency constraints. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0118",
+      "sequence": 118,
+      "grade": 8,
+      "title": "Compare ionic and covalent particle arrangements",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare ionic and covalent particle arrangements. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0119",
+      "sequence": 119,
+      "grade": 8,
+      "title": "Investigate electrical conduction in selected solutions",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate electrical conduction in selected solutions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0120",
+      "sequence": 120,
+      "grade": 8,
+      "title": "Compare a solid ionic sample and its aqueous solution",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare a solid ionic sample and its aqueous solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0121",
+      "sequence": 121,
+      "grade": 8,
+      "title": "Model electrolysis of water with gas-volume accounting",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model electrolysis of water with gas-volume accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0122",
+      "sequence": 122,
+      "grade": 8,
+      "title": "Investigate copper electroplating and deposited mass",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate copper electroplating and deposited mass. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0123",
+      "sequence": 123,
+      "grade": 8,
+      "title": "Compare reactivity through metal-displacement reactions",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare reactivity through metal-displacement reactions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0124",
+      "sequence": 124,
+      "grade": 8,
+      "title": "Observe metal reactions with dilute acid in a chosen model",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe metal reactions with dilute acid in a chosen model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0125",
+      "sequence": 125,
+      "grade": 8,
+      "title": "Compare metal-oxide and non-metal-oxide behaviour",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare metal-oxide and non-metal-oxide behaviour. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0126",
+      "sequence": 126,
+      "grade": 8,
+      "title": "Balance atoms in a simple reaction model",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Balance atoms in a simple reaction model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0127",
+      "sequence": 127,
+      "grade": 8,
+      "title": "Investigate a combustion triangle using controlled conditions",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate a combustion triangle using controlled conditions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0128",
+      "sequence": 128,
+      "grade": 8,
+      "title": "Compare complete and incomplete combustion of a fuel model",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare complete and incomplete combustion of a fuel model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0129",
+      "sequence": 129,
+      "grade": 8,
+      "title": "Compare fuel energy per gram using calorimetry",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare fuel energy per gram using calorimetry. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0130",
+      "sequence": 130,
+      "grade": 8,
+      "title": "Investigate how oxygen availability changes combustion products",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate how oxygen availability changes combustion products. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0131",
+      "sequence": 131,
+      "grade": 8,
+      "title": "Compare biodegradable and persistent material breakdown models",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare biodegradable and persistent material breakdown models. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0132",
+      "sequence": 132,
+      "grade": 8,
+      "title": "Investigate adsorption by activated carbon",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate adsorption by activated carbon. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0133",
+      "sequence": 133,
+      "grade": 8,
+      "title": "Compare oil cleanup by adsorption and decantation",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare oil cleanup by adsorption and decantation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0134",
+      "sequence": 134,
+      "grade": 8,
+      "title": "Investigate polymer-chain length and a stated property model",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate polymer-chain length and a stated property model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0135",
+      "sequence": 135,
+      "grade": 8,
+      "title": "Compare thermoplastic and thermoset network structures",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare thermoplastic and thermoset network structures. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0136",
+      "sequence": 136,
+      "grade": 8,
+      "title": "Investigate alloy composition and a chosen property model",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate alloy composition and a chosen property model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0137",
+      "sequence": 137,
+      "grade": 8,
+      "title": "Compare water purification methods and their limits",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare water purification methods and their limits. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0138",
+      "sequence": 138,
+      "grade": 8,
+      "title": "Investigate conservation of mass during precipitation",
+      "strand": "Particles, reactions and materials",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate conservation of mass during precipitation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0139",
+      "sequence": 139,
+      "grade": 9,
+      "title": "Measure the density of a regular solid with uncertainty",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Measure the density of a regular solid with uncertainty. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0140",
+      "sequence": 140,
+      "grade": 9,
+      "title": "Separate a colloid from a suspension using scattering evidence",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Separate a colloid from a suspension using scattering evidence. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0141",
+      "sequence": 141,
+      "grade": 9,
+      "title": "Compare true solution, colloid and suspension particle sizes",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare true solution, colloid and suspension particle sizes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0142",
+      "sequence": 142,
+      "grade": 9,
+      "title": "Investigate crystallization yield and mother-liquor losses",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate crystallization yield and mother-liquor losses. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0143",
+      "sequence": 143,
+      "grade": 9,
+      "title": "Compare boiling-point measurements for pure and mixed samples",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare boiling-point measurements for pure and mixed samples. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0144",
+      "sequence": 144,
+      "grade": 9,
+      "title": "Investigate fractional distillation with relative volatility",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate fractional distillation with relative volatility. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0145",
+      "sequence": 145,
+      "grade": 9,
+      "title": "Find a melting-point range from a heating trace",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find a melting-point range from a heating trace. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0146",
+      "sequence": 146,
+      "grade": 9,
+      "title": "Calculate concentration after successive dilutions",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Calculate concentration after successive dilutions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0147",
+      "sequence": 147,
+      "grade": 9,
+      "title": "Verify mass conservation in a closed gas-forming reaction",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Verify mass conservation in a closed gas-forming reaction. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0148",
+      "sequence": 148,
+      "grade": 9,
+      "title": "Investigate fixed mass ratios in a chosen compound",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate fixed mass ratios in a chosen compound. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0149",
+      "sequence": 149,
+      "grade": 9,
+      "title": "Count particles using the mole and Avogadro constant",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Count particles using the mole and Avogadro constant. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0150",
+      "sequence": 150,
+      "grade": 9,
+      "title": "Convert mass to moles for several substances",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Convert mass to moles for several substances. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0151",
+      "sequence": 151,
+      "grade": 9,
+      "title": "Compare empirical and molecular formulas",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare empirical and molecular formulas. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0152",
+      "sequence": 152,
+      "grade": 9,
+      "title": "Determine a hydrate formula from a mass-loss model",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine a hydrate formula from a mass-loss model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0153",
+      "sequence": 153,
+      "grade": 9,
+      "title": "Compare isotopes and weighted atomic mass",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare isotopes and weighted atomic mass. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0154",
+      "sequence": 154,
+      "grade": 9,
+      "title": "Simulate Rutherford scattering at different impact parameters",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Simulate Rutherford scattering at different impact parameters. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0155",
+      "sequence": 155,
+      "grade": 9,
+      "title": "Investigate Bohr energy levels for hydrogen-like atoms",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Bohr energy levels for hydrogen-like atoms. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0156",
+      "sequence": 156,
+      "grade": 9,
+      "title": "Build electronic configurations and identify valence electrons",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Build electronic configurations and identify valence electrons. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0157",
+      "sequence": 157,
+      "grade": 9,
+      "title": "Compare atomic and ionic sizes in a stated data set",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare atomic and ionic sizes in a stated data set. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0158",
+      "sequence": 158,
+      "grade": 9,
+      "title": "Construct a periodic-table grouping from electronic structure",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Construct a periodic-table grouping from electronic structure. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0159",
+      "sequence": 159,
+      "grade": 9,
+      "title": "Track atom conservation while balancing equations",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Track atom conservation while balancing equations. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0160",
+      "sequence": 160,
+      "grade": 9,
+      "title": "Model crystal separation from a saturated solution",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model crystal separation from a saturated solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0161",
+      "sequence": 161,
+      "grade": 9,
+      "title": "Compare pressure-volume states of an ideal gas",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare pressure-volume states of an ideal gas. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0162",
+      "sequence": 162,
+      "grade": 9,
+      "title": "Compare temperature-volume states at fixed pressure",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare temperature-volume states at fixed pressure. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0163",
+      "sequence": 163,
+      "grade": 9,
+      "title": "Compare gas pressure at fixed volume as temperature changes",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare gas pressure at fixed volume as temperature changes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0164",
+      "sequence": 164,
+      "grade": 9,
+      "title": "Model diffusion through a concentration gradient",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model diffusion through a concentration gradient. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0165",
+      "sequence": 165,
+      "grade": 9,
+      "title": "Determine an unknown concentration by a calibration curve",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine an unknown concentration by a calibration curve. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0166",
+      "sequence": 166,
+      "grade": 9,
+      "title": "Compare measurement precision and accuracy with repeated trials",
+      "strand": "Atomic and quantitative foundations",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare measurement precision and accuracy with repeated trials. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0167",
+      "sequence": 167,
+      "grade": 10,
+      "title": "Observe magnesium oxidation with atom and mass accounting",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Observe magnesium oxidation with atom and mass accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0168",
+      "sequence": 168,
+      "grade": 10,
+      "title": "Investigate thermal decomposition of a chosen carbonate",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate thermal decomposition of a chosen carbonate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0169",
+      "sequence": 169,
+      "grade": 10,
+      "title": "Model electrolysis with electrode-product tracking",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model electrolysis with electrode-product tracking. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0170",
+      "sequence": 170,
+      "grade": 10,
+      "title": "Compare single-displacement reactions in a metal series",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare single-displacement reactions in a metal series. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0171",
+      "sequence": 171,
+      "grade": 10,
+      "title": "Investigate double-displacement precipitation reactions",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate double-displacement precipitation reactions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0172",
+      "sequence": 172,
+      "grade": 10,
+      "title": "Identify oxidation and reduction through electron accounting",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify oxidation and reduction through electron accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0173",
+      "sequence": 173,
+      "grade": 10,
+      "title": "Compare endothermic and exothermic energy changes",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare endothermic and exothermic energy changes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0174",
+      "sequence": 174,
+      "grade": 10,
+      "title": "Measure an acid-base neutralization curve",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Measure an acid-base neutralization curve. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0175",
+      "sequence": 175,
+      "grade": 10,
+      "title": "Find hydrogen-ion concentration from pH",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Find hydrogen-ion concentration from pH. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0176",
+      "sequence": 176,
+      "grade": 10,
+      "title": "Compare pH before and after tenfold dilution",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare pH before and after tenfold dilution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0177",
+      "sequence": 177,
+      "grade": 10,
+      "title": "Compare strong and weak acids at equal formal concentration",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare strong and weak acids at equal formal concentration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0178",
+      "sequence": 178,
+      "grade": 10,
+      "title": "Investigate a buffer resisting a small acid addition",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate a buffer resisting a small acid addition. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0179",
+      "sequence": 179,
+      "grade": 10,
+      "title": "Compare salts formed from different acid-base pairs",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare salts formed from different acid-base pairs. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0180",
+      "sequence": 180,
+      "grade": 10,
+      "title": "Model carbon dioxide release from bicarbonate",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model carbon dioxide release from bicarbonate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0181",
+      "sequence": 181,
+      "grade": 10,
+      "title": "Compare hydrated and anhydrous salt observations",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare hydrated and anhydrous salt observations. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0182",
+      "sequence": 182,
+      "grade": 10,
+      "title": "Investigate crystallization water in copper sulfate",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate crystallization water in copper sulfate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0183",
+      "sequence": 183,
+      "grade": 10,
+      "title": "Compare metal extraction by reduction conditions",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare metal extraction by reduction conditions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0184",
+      "sequence": 184,
+      "grade": 10,
+      "title": "Investigate galvanic corrosion between dissimilar metals",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate galvanic corrosion between dissimilar metals. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0185",
+      "sequence": 185,
+      "grade": 10,
+      "title": "Compare electroplating thickness at different currents",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare electroplating thickness at different currents. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0186",
+      "sequence": 186,
+      "grade": 10,
+      "title": "Build carbon-chain and ring structures",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Build carbon-chain and ring structures. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0187",
+      "sequence": 187,
+      "grade": 10,
+      "title": "Distinguish saturated and unsaturated hydrocarbon models",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Distinguish saturated and unsaturated hydrocarbon models. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0188",
+      "sequence": 188,
+      "grade": 10,
+      "title": "Compare ethanol and ethanoic-acid functional behaviour",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare ethanol and ethanoic-acid functional behaviour. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0189",
+      "sequence": 189,
+      "grade": 10,
+      "title": "Investigate esterification equilibrium in a chosen model",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate esterification equilibrium in a chosen model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0190",
+      "sequence": 190,
+      "grade": 10,
+      "title": "Compare soap micelles and oil dispersion",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare soap micelles and oil dispersion. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0191",
+      "sequence": 191,
+      "grade": 10,
+      "title": "Investigate soap preparation through stoichiometric accounting",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate soap preparation through stoichiometric accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0192",
+      "sequence": 192,
+      "grade": 10,
+      "title": "Compare soap performance with calcium-ion concentration",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare soap performance with calcium-ion concentration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0193",
+      "sequence": 193,
+      "grade": 10,
+      "title": "Model acid reactions with metals, carbonates and oxides",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Model acid reactions with metals, carbonates and oxides. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0194",
+      "sequence": 194,
+      "grade": 10,
+      "title": "Investigate how concentration changes initial reaction rate",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate how concentration changes initial reaction rate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0195",
+      "sequence": 195,
+      "grade": 10,
+      "title": "Compare a catalysed and uncatalysed reaction pathway",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare a catalysed and uncatalysed reaction pathway. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0196",
+      "sequence": 196,
+      "grade": 10,
+      "title": "Design a controlled corrosion comparison",
+      "strand": "Chemical reactions and applications",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Design a controlled corrosion comparison. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0197",
+      "sequence": 197,
+      "grade": 11,
+      "title": "Prepare a standard sodium-carbonate solution",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Prepare a standard sodium-carbonate solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0198",
+      "sequence": 198,
+      "grade": 11,
+      "title": "Prepare a standard oxalic-acid solution",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Prepare a standard oxalic-acid solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0199",
+      "sequence": 199,
+      "grade": 11,
+      "title": "Standardize hydrochloric acid against sodium carbonate",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Standardize hydrochloric acid against sodium carbonate. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0200",
+      "sequence": 200,
+      "grade": 11,
+      "title": "Standardize sodium hydroxide against oxalic acid",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Standardize sodium hydroxide against oxalic acid. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0201",
+      "sequence": 201,
+      "grade": 11,
+      "title": "Determine sample purity by acid-base titration",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine sample purity by acid-base titration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0202",
+      "sequence": 202,
+      "grade": 11,
+      "title": "Identify a limiting reactant from mass inputs",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify a limiting reactant from mass inputs. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0203",
+      "sequence": 203,
+      "grade": 11,
+      "title": "Calculate percentage yield with product recovery",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Calculate percentage yield with product recovery. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0204",
+      "sequence": 204,
+      "grade": 11,
+      "title": "Determine an empirical formula from composition",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine an empirical formula from composition. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0205",
+      "sequence": 205,
+      "grade": 11,
+      "title": "Compare gas-law predictions with a chosen nonideal model",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare gas-law predictions with a chosen nonideal model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0206",
+      "sequence": 206,
+      "grade": 11,
+      "title": "Investigate Dalton partial pressures in a gas mixture",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Dalton partial pressures in a gas mixture. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0207",
+      "sequence": 207,
+      "grade": 11,
+      "title": "Compare gas effusion rates using molar mass",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare gas effusion rates using molar mass. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0208",
+      "sequence": 208,
+      "grade": 11,
+      "title": "Compare hydrogen emission lines with energy transitions",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare hydrogen emission lines with energy transitions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0209",
+      "sequence": 209,
+      "grade": 11,
+      "title": "Inspect atomic orbitals and probability density",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Inspect atomic orbitals and probability density. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0210",
+      "sequence": 210,
+      "grade": 11,
+      "title": "Apply Aufbau, Pauli and Hund occupancy rules",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Apply Aufbau, Pauli and Hund occupancy rules. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0211",
+      "sequence": 211,
+      "grade": 11,
+      "title": "Compare periodic trends using a stated element data set",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare periodic trends using a stated element data set. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0212",
+      "sequence": 212,
+      "grade": 11,
+      "title": "Construct Lewis structures with formal-charge accounting",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Construct Lewis structures with formal-charge accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0213",
+      "sequence": 213,
+      "grade": 11,
+      "title": "Predict molecular shapes using VSEPR electron domains",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Predict molecular shapes using VSEPR electron domains. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0214",
+      "sequence": 214,
+      "grade": 11,
+      "title": "Compare sigma and pi bonding in molecular models",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare sigma and pi bonding in molecular models. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0215",
+      "sequence": 215,
+      "grade": 11,
+      "title": "Inspect sp, sp2 and sp3 orbital descriptions",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Inspect sp, sp2 and sp3 orbital descriptions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0216",
+      "sequence": 216,
+      "grade": 11,
+      "title": "Compare bond polarity and molecular dipole vectors",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare bond polarity and molecular dipole vectors. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0217",
+      "sequence": 217,
+      "grade": 11,
+      "title": "Compare intermolecular-force contributions in selected examples",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare intermolecular-force contributions in selected examples. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0218",
+      "sequence": 218,
+      "grade": 11,
+      "title": "Determine calorimeter heat capacity by mixing water",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine calorimeter heat capacity by mixing water. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0219",
+      "sequence": 219,
+      "grade": 11,
+      "title": "Determine enthalpy of neutralization in a calorimeter",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine enthalpy of neutralization in a calorimeter. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0220",
+      "sequence": 220,
+      "grade": 11,
+      "title": "Determine a dissolution enthalpy from temperature change",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine a dissolution enthalpy from temperature change. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0221",
+      "sequence": 221,
+      "grade": 11,
+      "title": "Investigate Hess-law energy-cycle accounting",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Hess-law energy-cycle accounting. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0222",
+      "sequence": 222,
+      "grade": 11,
+      "title": "Compare Gibbs energy and reaction spontaneity",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare Gibbs energy and reaction spontaneity. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0223",
+      "sequence": 223,
+      "grade": 11,
+      "title": "Investigate reaction quotient and equilibrium direction",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate reaction quotient and equilibrium direction. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0224",
+      "sequence": 224,
+      "grade": 11,
+      "title": "Shift an iron-thiocyanate equilibrium by concentration",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Shift an iron-thiocyanate equilibrium by concentration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0225",
+      "sequence": 225,
+      "grade": 11,
+      "title": "Shift a cobalt-complex equilibrium in a stated model",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Shift a cobalt-complex equilibrium in a stated model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0226",
+      "sequence": 226,
+      "grade": 11,
+      "title": "Investigate common-ion suppression of weak-acid ionization",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate common-ion suppression of weak-acid ionization. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0227",
+      "sequence": 227,
+      "grade": 11,
+      "title": "Construct a weak-acid titration and buffer region",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Construct a weak-acid titration and buffer region. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0228",
+      "sequence": 228,
+      "grade": 11,
+      "title": "Compare precipitation thresholds using ionic product and Ksp",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare precipitation thresholds using ionic product and Ksp. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0229",
+      "sequence": 229,
+      "grade": 11,
+      "title": "Purify a selected solid by recrystallization",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Purify a selected solid by recrystallization. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0230",
+      "sequence": 230,
+      "grade": 11,
+      "title": "Determine the melting point of an organic sample",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine the melting point of an organic sample. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0231",
+      "sequence": 231,
+      "grade": 11,
+      "title": "Determine the boiling point of an organic liquid",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine the boiling point of an organic liquid. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0232",
+      "sequence": 232,
+      "grade": 11,
+      "title": "Identify selected anions and cations from combined evidence",
+      "strand": "Senior chemistry foundations and practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify selected anions and cations from combined evidence. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0233",
+      "sequence": 233,
+      "grade": 12,
+      "title": "Compare molarity, molality and mole fraction for a solution",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare molarity, molality and mole fraction for a solution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0234",
+      "sequence": 234,
+      "grade": 12,
+      "title": "Investigate Raoult-law vapour-pressure lowering",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Raoult-law vapour-pressure lowering. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0235",
+      "sequence": 235,
+      "grade": 12,
+      "title": "Compare ideal and nonideal solution behaviour",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare ideal and nonideal solution behaviour. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0236",
+      "sequence": 236,
+      "grade": 12,
+      "title": "Determine molar mass from boiling-point elevation",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine molar mass from boiling-point elevation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0237",
+      "sequence": 237,
+      "grade": 12,
+      "title": "Determine molar mass from freezing-point depression",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine molar mass from freezing-point depression. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0238",
+      "sequence": 238,
+      "grade": 12,
+      "title": "Investigate osmotic pressure and a van t Hoff factor",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate osmotic pressure and a van t Hoff factor. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0239",
+      "sequence": 239,
+      "grade": 12,
+      "title": "Build a Daniell cell and calculate its potential",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Build a Daniell cell and calculate its potential. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0240",
+      "sequence": 240,
+      "grade": 12,
+      "title": "Investigate Nernst potential as ion concentration changes",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Nernst potential as ion concentration changes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0241",
+      "sequence": 241,
+      "grade": 12,
+      "title": "Determine a concentration using a concentration cell",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine a concentration using a concentration cell. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0242",
+      "sequence": 242,
+      "grade": 12,
+      "title": "Compare conductivity and molar conductivity on dilution",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare conductivity and molar conductivity on dilution. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0243",
+      "sequence": 243,
+      "grade": 12,
+      "title": "Investigate Kohlrausch-law limiting conductivity",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate Kohlrausch-law limiting conductivity. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0244",
+      "sequence": 244,
+      "grade": 12,
+      "title": "Verify Faraday-law deposited mass in electrolysis",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Verify Faraday-law deposited mass in electrolysis. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0245",
+      "sequence": 245,
+      "grade": 12,
+      "title": "Fit a first-order rate constant from concentration-time data",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Fit a first-order rate constant from concentration-time data. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0246",
+      "sequence": 246,
+      "grade": 12,
+      "title": "Distinguish zero-order and first-order kinetic plots",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Distinguish zero-order and first-order kinetic plots. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0247",
+      "sequence": 247,
+      "grade": 12,
+      "title": "Determine activation energy from an Arrhenius plot",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine activation energy from an Arrhenius plot. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0248",
+      "sequence": 248,
+      "grade": 12,
+      "title": "Investigate a thiosulfate-acid turbidity-time model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate a thiosulfate-acid turbidity-time model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0249",
+      "sequence": 249,
+      "grade": 12,
+      "title": "Compare iodide-persulfate reaction rates",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare iodide-persulfate reaction rates. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0250",
+      "sequence": 250,
+      "grade": 12,
+      "title": "Investigate an iodine-clock threshold model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate an iodine-clock threshold model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0251",
+      "sequence": 251,
+      "grade": 12,
+      "title": "Compare adsorption isotherms under stated assumptions",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare adsorption isotherms under stated assumptions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0252",
+      "sequence": 252,
+      "grade": 12,
+      "title": "Prepare a colloid and compare coagulation conditions",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Prepare a colloid and compare coagulation conditions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0253",
+      "sequence": 253,
+      "grade": 12,
+      "title": "Compare simple-cubic, BCC and FCC unit cells",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare simple-cubic, BCC and FCC unit cells. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0254",
+      "sequence": 254,
+      "grade": 12,
+      "title": "Calculate packing efficiency and coordination number",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Calculate packing efficiency and coordination number. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0255",
+      "sequence": 255,
+      "grade": 12,
+      "title": "Inspect tetrahedral and octahedral void occupancy",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Inspect tetrahedral and octahedral void occupancy. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0256",
+      "sequence": 256,
+      "grade": 12,
+      "title": "Compare Schottky and Frenkel defect bookkeeping",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare Schottky and Frenkel defect bookkeeping. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0257",
+      "sequence": 257,
+      "grade": 12,
+      "title": "Investigate ligand substitution in a coordination complex",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate ligand substitution in a coordination complex. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0258",
+      "sequence": 258,
+      "grade": 12,
+      "title": "Compare coordination isomers and stereoisomers",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare coordination isomers and stereoisomers. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0259",
+      "sequence": 259,
+      "grade": 12,
+      "title": "Standardize permanganate using a chosen oxalate standard",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Standardize permanganate using a chosen oxalate standard. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0260",
+      "sequence": 260,
+      "grade": 12,
+      "title": "Estimate iron(II) concentration by permanganate titration",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Estimate iron(II) concentration by permanganate titration. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0261",
+      "sequence": 261,
+      "grade": 12,
+      "title": "Determine water hardness using an EDTA titration model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Determine water hardness using an EDTA titration model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0262",
+      "sequence": 262,
+      "grade": 12,
+      "title": "Identify an alcohol, phenol or carboxylic-acid sample",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify an alcohol, phenol or carboxylic-acid sample. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0263",
+      "sequence": 263,
+      "grade": 12,
+      "title": "Distinguish aldehyde and ketone evidence in selected tests",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Distinguish aldehyde and ketone evidence in selected tests. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0264",
+      "sequence": 264,
+      "grade": 12,
+      "title": "Identify reducing sugars with a stated reagent model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Identify reducing sugars with a stated reagent model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0265",
+      "sequence": 265,
+      "grade": 12,
+      "title": "Investigate protein detection using a biuret-colour model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Investigate protein detection using a biuret-colour model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0266",
+      "sequence": 266,
+      "grade": 12,
+      "title": "Compare ester hydrolysis under acidic and basic conditions",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare ester hydrolysis under acidic and basic conditions. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0267",
+      "sequence": 267,
+      "grade": 12,
+      "title": "Inspect substitution and elimination competition in a chosen model",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Inspect substitution and elimination competition in a chosen model. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0268",
+      "sequence": 268,
+      "grade": 12,
+      "title": "Compare addition and condensation polymer formation",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare addition and condensation polymer formation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0269",
+      "sequence": 269,
+      "grade": 12,
+      "title": "Compare atom economy, yield and waste in two synthetic routes",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Compare atom economy, yield and waste in two synthetic routes. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    },
+    {
+      "id": "CL-0270",
+      "sequence": 270,
+      "grade": 12,
+      "title": "Design a multi-stage qualitative-analysis investigation",
+      "strand": "Advanced chemistry and analytical practicals",
+      "status": "planned",
+      "curriculumStatus": "editorial_class_path_pending_board_mapping",
+      "aim": "Design a multi-stage qualitative-analysis investigation. Record the observations and explain the evidence.",
+      "minimumAnimationSeconds": 60,
+      "review": {
+        "model": "pending",
+        "twoD": "pending",
+        "threeD": "pending",
+        "responsive": "pending",
+        "practicalRecord": "pending"
+      }
+    }
+  ]
+}

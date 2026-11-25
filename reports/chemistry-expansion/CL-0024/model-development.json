@@ -1,0 +1,28 @@
+{
+  "labId": "CL-0024",
+  "status": "completed_internal_functional_review",
+  "implemented": [
+    "quasistatic tilted cylinder volume integral and inverse free surface",
+    "open/sealed/vented base-hole conservation model",
+    "110-second matched-case guide frames",
+    "faceted 3D liquid mesh and matching 2D clipping geometry",
+    "validated persisted practical records and escaped exam-style HTML report",
+    "teacher formula substitutions separating instantaneous flow from integrated leakage"
+  ],
+  "targetedTests": {
+    "passed": 13,
+    "failed": 0,
+    "scope": "CL-0024 model, geometry and record tests"
+  },
+  "remaining": [],
+  "reviewClaim": "Internal functional/model-consistency review passed; no independent expert or board certification",
+  "sourceHashes": {
+    "src/lib/chemistry/liquidContainer.ts": "a80d2c0e15474d46788cb1830c0f5a2836eba8ad6ad65e38e14a15d5341efffb",
+    "src/lib/chemistry/liquidContainerGeometry.ts": "bd998e92221468b958039b27fb4460132c0e506636c510aab7a89954ec170e15",
+    "src/lib/chemistry/liquidContainerRecord.ts": "8b508e6a88e0512e73a440955e9779e9bcc85179fad174ca6ace10a19f5dddad",
+    "tests/chemistry-liquid-container.test.mjs": "8611147dc799e38f52b9fbdd9c71a46f1f18e746c33ceb97e98d0ea18d6e477e",
+    "tests/chemistry-liquid-container-geometry.test.mjs": "f012a9ccac24eada04a7963474423ce743bd993e838064b4dd79dabc03a6759c",
+    "tests/chemistry-liquid-container-record.test.mjs": "281d91b6a95e3ffadd67f41082824b8513adaff275af01b8569103623b2dbf8e"
+  },
+  "reviewEvidence": "review.json"
+}

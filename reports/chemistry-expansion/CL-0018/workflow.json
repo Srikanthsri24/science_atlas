@@ -1,0 +1,17 @@
+{
+  "trials": 11,
+  "notes": [
+    "At stirring 0, a difference remains after 120 s.",
+    "Initial post-addition state: upper sampling region contains all 2.5 mg dye.",
+    "Stirring 1 approaches uniformity after 120 s; dye mass remains 2.5 mg.",
+    "More clear water: same 2.5 mg dye, lower mean 11.111111 mg/L.",
+    "At 24 s, upper and lower averages are closer but not equal.",
+    "Zero source concentration: no tracer, uniformity not observable.",
+    "Zero coloured source: no tracer, even though source concentration setting is nonzero.",
+    "Maximum 300 mL initial state fits below the rim; 10 mg dye.",
+    "Minimum coloured volume and source concentration, initial state.",
+    "Low-dye case after 120 s background exchange.",
+    "Maximum volume after 120 s stirring; 10 mg dye conserved."
+  ],
+  "table": "Imaginary sampling regions · one continuous miscible liquid\nTrial\tClear mL\tSource mL\tSource mg/mL\tStirring\tTime s\tDye mg\tMean mg/L\tUpper mg/mL\tLower mg/mL\tUniformity %\tMy observation\n1\t100\t25\t0.1\t0\t120.000\t2.500000\t20.000000\t0.030976233\t0.009023767\t45.118836\t\n2\t100\t25\t0.1\t1\t0.000\t2.500000\t20.000000\t0.040000000\t0.000000000\t0.000000\t\n3\t100\t25\t0.1\t1\t120.000\t2.500000\t20.000000\t0.020000123\t0.019999877\t99.999386\t\n4\t200\t25\t0.1\t1\t120.000\t2.500000\t11.111111\t0.011111179\t0.011111043\t99.999386\t\n5\t100\t25\t0.1\t1\t24.000\t2.500000\t20.000000\t0.021814359\t0.018185641\t90.928205\t\n6\t100\t25\t0\t1\t120.000\t0.000000\t0.000000\t0.000000000\t0.000000000\tNot observable\t\n7\t100\t0\t0.1\t1\t0.000\t0.000000\t0.000000\t0.000000000\t0.000000000\tNot observable\t\n8\t250\t50\t0.2\t1\t0.000\t10.000000\t33.333333\t0.066666667\t0.000000000\t0.000000\t\n9\t50\t5\t0.025\t0\t0.000\t0.125000\t2.272727\t0.004545455\t0.000000000\t0.000000\t\n10\t50\t5\t0.025\t0\t120.000\t0.125000\t2.272727\t0.003520026\t0.001025428\t45.118836\t\n11\t250\t50\t0.2\t1\t120.000\t10.000000\t33.333333\t0.033333538\t0.033333129\t99.999386\t"
+}

@@ -1,0 +1,6 @@
+{
+  "conclusion": "In the 100 mL water / 100 mL oil trial, tared liquid mass in the jar increases from 100 g to 185 g while total liquid mass remains 185 g. Oil forms the upper phase at the chosen lower density. Immiscibility and density explain different things. Immediate separation excludes real temporary droplets and emulsions.",
+  "observation": "At 10 s, 50 mL oil is in each vessel. Water height stays 3.536777 cm; total mass is 185 g.",
+  "prediction": "Oil should remain a separate phase above water. Transferring it should not change the water volume or the total liquid mass.",
+  "rows": 8
+}

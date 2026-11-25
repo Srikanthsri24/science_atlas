@@ -1,0 +1,16 @@
+{
+  "trials": 10,
+  "notes": [
+    "A 40 °C lid is the warm control: all initial water remains vapour.",
+    "Initially dry lid: 0.047445042 g vapour and zero liquid.",
+    "Live cold-lid run: 0.034407373 g liquid forms; 0.013037669 g remains vapour.",
+    "At 25 °C, less condensate forms than at 10 °C with the same starting air.",
+    "At 90 s, condensation is still approaching its model plateau.",
+    "No initial vapour: no water is available and no droplets appear.",
+    "Maximum air inventory and warm saturated air: the model droplets remain about 1.05 mm in radius.",
+    "Minimum air volume and temperature still conserve the smaller initial water inventory.",
+    "At equal air/lid temperature with saturated initial air, there is no net condensation in this initially dry-lid model.",
+    "A 25 °C lid is below bulk air temperature but does not condense the lower-humidity sample: its initial vapour pressure is below lid saturation pressure."
+  ],
+  "table": "Sealed jar · initial humidity specified before condensation\nTrial\tAir L\tAir °C\tLid °C\tInitial RH %\tTime s\tInitial vapour g\tVapour g\tLiquid g\tRadius mm\tMy observation\n1\t1.5\t35\t40\t80\t300.000\t0.047445042\t0.047445042\t0.000000000\t0.000000\t\n2\t1.5\t35\t10\t80\t0.000\t0.047445042\t0.047445042\t0.000000000\t0.000000\t\n3\t1.5\t35\t10\t80\t300.000\t0.047445042\t0.013037669\t0.034407373\t0.690040\t\n4\t1.5\t35\t25\t80\t300.000\t0.047445042\t0.033447522\t0.013997520\t0.511298\t\n5\t1.5\t35\t10\t80\t90.000\t0.047445042\t0.018653803\t0.028791238\t0.650245\t\n6\t1.5\t35\t10\t0\t300.000\t0.000000000\t0.000000000\t0.000000000\t0.000000\t\n7\t3\t40\t10\t100\t300.000\t0.153107085\t0.031844375\t0.121262711\t1.050105\t\n8\t1\t20\t10\t100\t300.000\t0.017283637\t0.009077620\t0.008206017\t0.427925\t\n9\t1\t20\t20\t100\t300.000\t0.017283637\t0.017283637\t0.000000000\t0.000000\t\n10\t1.5\t35\t25\t40\t300.000\t0.023722521\t0.023722521\t0.000000000\t0.000000\t"
+}

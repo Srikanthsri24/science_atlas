@@ -1,0 +1,67 @@
+{
+  "name": "tv",
+  "normal": {
+    "aside": {
+      "bottom": 1531,
+      "height": 1249.2578125,
+      "left": 1569,
+      "right": 1834,
+      "top": 281.7421875,
+      "width": 265,
+      "x": 1569,
+      "y": 281.7421875
+    },
+    "viewport": 1920,
+    "width": 1920
+  },
+  "modes": [
+    {
+      "content": {
+        "bottom": 955.0703125,
+        "height": 883.0703125,
+        "left": 0,
+        "right": 1920,
+        "top": 72,
+        "width": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 955.0703125,
+        "height": 883.0703125,
+        "left": 0,
+        "right": 1920,
+        "top": 72,
+        "width": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 1920,
+      "width": 1920
+    },
+    {
+      "content": {
+        "bottom": 955.0703125,
+        "height": 883.0703125,
+        "left": 0,
+        "right": 1920,
+        "top": 72,
+        "width": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 955.0703125,
+        "height": 883.0703125,
+        "left": 0,
+        "right": 1920,
+        "top": 72,
+        "width": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 1920,
+      "width": 1920
+    }
+  ]
+}

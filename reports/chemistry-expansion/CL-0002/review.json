@@ -1,0 +1,46 @@
+{
+  "labId": "CL-0002",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 100,
+  "checks": {
+    "model": "passed \u2014 conservation, boundary cases, monotonic attenuation and distinction between directed/diffuse transmission",
+    "twoD": "passed \u2014 labelled slit mask, controlled comparisons and portrait vertical beam layout",
+    "threeD": "passed \u2014 labelled apparatus, sharp/diffuse screen patterns, camera orbit and selected sample states",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow",
+    "practicalRecord": "passed \u2014 three controlled trials retained after reload, report export checked including numeric formula substitutions",
+    "playback": "complete live 100-second playback reached final comparison caption; play, pause and seeking verified"
+  },
+  "evidence": [
+    "responsive.json",
+    "persistence.json",
+    "tested-practical-report.html",
+    "clear-sample-3d.png",
+    "phone-2d.png",
+    "phone-3d.png",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "laptop-2d.png",
+    "laptop-3d.png",
+    "tv-2d.png",
+    "tv-3d.png",
+    "../shared-tablet-panels.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device testing.",
+    "Coefficients are chosen teaching parameters, not measured material data.",
+    "Forward scattering slab approximation; no refraction, lenses, multiple scattering or geometric image formation is solved.",
+    "Ray paths and screen patterns explain the computed channel strengths; beam shapes are schematic.",
+    "Official board mapping remains pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/transparency.ts": "435bb21a059558b1dfed25076e1f19b65bd73963a16219e6931fcc599318cdd9",
+    "src/lib/chemistry/transparencyRecord.ts": "b980a473a238045a812974200bcc70ced05caea72b41a970bc8a3d8875b41ff8",
+    "src/components/chemistry/TransparencyLab.tsx": "f41e6ef3fb16f4582db9bd4794461e416aa55c19eaeabe50752e9896d9af6432",
+    "src/components/chemistry/TransparencyScene.tsx": "39596adaad1b955c786afd469cb9ac89067e2061f38809205a981210c2da639c",
+    "src/components/chemistry/TransparencyDiagram.tsx": "3fe319a8ad0066b4c6d40d07177b73f725724f804640fd5166eb3c9b7bdc5811",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  },
+  "sharedPanelReview": "Tablet panel headings and controls rechecked after shared responsive CSS adjustment; no overflow."
+}

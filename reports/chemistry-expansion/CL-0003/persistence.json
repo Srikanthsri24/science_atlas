@@ -1,0 +1,11 @@
+{
+  "conclusion": "With 20 mL, a sealed 5 cm² opening and 60 seconds, the intact plastic and foil models collected no water. Cloth collected more than paper. A puncture changed the plastic result. This finite illustrative test does not certify every real sheet.",
+  "observations": [
+    "Some water passed through after the wetting delay.",
+    "More water reached the collecting cup than for paper.",
+    "No through-sheet leakage appeared in this intact sample.",
+    "No through-sheet leakage appeared in this intact sample.",
+    "The puncture allowed water through the same plastic sheet."
+  ],
+  "prediction": "The intact plastic and foil sheets should keep the lower cup dry. A puncture may let water through."
+}

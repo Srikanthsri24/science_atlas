@@ -1,0 +1,13 @@
+{
+  "observationTable": "Matched starting water · note the actual angle and each loss path\nTrial\tContainer\tInitial mL\tTarget °\tActual °\tTime s\tRetained mL\tSpilled mL\tLeaked mL\tMy observation\n1\tOpen cup with a base hole\t150\t90\t90.000\t30.000\t0.000000\t118.146459\t31.853541\t\n2\tOpen cup with a base hole\t150\t0\t0.000\t0.000\t150.000000\t0.000000\t0.000000\t\n3\tOpen cup with a base hole\t150\t0\t0.000\t16.174\t113.910016\t0.000000\t36.089984\t\n4\tOpen cup with a base hole\t150\t0\t0.000\t30.000\t86.990698\t0.000000\t63.009302\t\n5\tOpen tumbler\t150\t0\t0.000\t30.000\t150.000000\t0.000000\t0.000000\t\n6\tOpen tumbler\t150\t90\t90.000\t30.000\t0.000000\t150.000000\t0.000000\t\n7\tWatertight lidded jar\t150\t90\t90.000\t30.000\t150.000000\t0.000000\t0.000000\t\n8\tWatertight lidded jar\t150\t0\t0.000\t30.000\t150.000000\t0.000000\t0.000000\t\n9\tWatertight lidded jar\t200\t100\t100.000\t30.000\t200.000000\t0.000000\t0.000000\t\n10\tOpen tumbler\t200\t60\t60.000\t30.000\t150.597604\t49.402396\t0.000000\t\n11\tOpen cup with a base hole\t50\t0\t0.000\t30.000\t17.226648\t0.000000\t32.773352\t",
+  "prediction": null,
+  "readings": [
+    "67.500° / 90°",
+    "117.112445 mL · 78.075%",
+    "32.887555 / 0.000000 mL",
+    "32.887555 / 150 mL",
+    "0.000000 mL/s",
+    "150.000000 = 150.000000 mL"
+  ],
+  "logs": []
+}

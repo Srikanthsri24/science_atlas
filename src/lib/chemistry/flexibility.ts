@@ -1,0 +1,13 @@
+/** Chosen linear-elastic cantilever models, compared at identical geometry.
+ * Reported bending is incremental relative to the unloaded reference profile.
+ * L=0.100 m, b=0.020 m, thickness=0.004 m; ideal clamp and centred tip load.
+ * Small-deflection Euler–Bernoulli approximation; no creep, yielding or dynamics.
+ */
+export const flexibilitySamples={polymer:{name:'Flexible-polymer model',youngModulusPa:50e6},wood:{name:'Wood-strip model',youngModulusPa:10e9},steel:{name:'Steel-strip model',youngModulusPa:200e9}}as const;
+export type FlexibilitySample=keyof typeof flexibilitySamples;
+export function flexibilityState(sample:FlexibilitySample,loadG:number,alongMm=100){
+ if(!Object.hasOwn(flexibilitySamples,sample)||![loadG,alongMm].every(Number.isFinite)||loadG<0||loadG>8||alongMm<0||alongMm>100)throw new RangeError('Use a known strip, added load 0–8 g and position 0–100 mm');
+ const lengthM=.1,widthM=.02,thicknessM=.004,gravityMPerS2=9.81,forceN=loadG/1000*gravityMPerS2,secondMomentM4=widthM*thicknessM**3/12,youngModulusPa=flexibilitySamples[sample].youngModulusPa,xM=alongMm/1000,tipDeflectionM=forceN*lengthM**3/(3*youngModulusPa*secondMomentM4),deflectionM=forceN*xM*xM*(3*lengthM-xM)/(6*youngModulusPa*secondMomentM4),maximumStressPa=forceN*lengthM*thicknessM/(2*secondMomentM4),maximumStrain=maximumStressPa/youngModulusPa,strainEnergyJ=.5*forceN*tipDeflectionM;
+ return{sample,loadG,alongMm,lengthM,widthM,thicknessM,gravityMPerS2,forceN,secondMomentM4,youngModulusPa,deflectionM,tipDeflectionM,maximumStressPa,maximumStrain,strainEnergyJ,relativeTipDeflection:tipDeflectionM/lengthM};
+}
+export function flexibilityFrame(time:number){if(!Number.isFinite(time))throw new RangeError('Finite lesson time required');const t=Math.max(0,Math.min(110,time)),sample:FlexibilitySample=t<40?'polymer':t<70?'wood':'steel',start=t<40?10:t<70?40:70,local=Math.max(0,t-start),loadG=local<10?local/10*5:local<17?5:local<25?5*(1-(local-17)/8):0,caption=t<10?'Compare strips with the same length, width and thickness. Observe the unloaded reference shape.':t<40?'Add and remove the chosen small load from the flexible-polymer model. Incremental bending returns to zero in this ideal elastic model.':t<70?'Repeat with the wood-strip model at equal geometry and load. Smaller bending means greater stiffness under these conditions.':t<100?'Repeat with the steel-strip model. Its calculated bending is small but not exactly zero. No real material is perfectly rigid.':'Compare equal geometry and load. Display magnification is not actual bending. These selected elastic moduli are examples, not measured material certifications.';return{sample,loadG:Math.max(0,loadG),caption};}

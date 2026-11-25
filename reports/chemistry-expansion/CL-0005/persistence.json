@@ -1,0 +1,11 @@
+{
+  "conclusion": "Under equal central x-scan conditions, the selected glass model had the least height variation and the abrasive model the most. The chosen wood profile varied with direction. A different line sampled a different abrasive profile. These synthetic scans do not measure friction or how a real surface feels.",
+  "observations": [
+    "Smallest average height variation in this comparison.",
+    "More variation than the selected glass model along x.",
+    "Largest variation among the three central x scans.",
+    "Across-grain direction gave more variation than along-grain direction.",
+    "Changing the scan line changed the sampled abrasive profile."
+  ],
+  "prediction": "The selected abrasive model may show more height variation than the selected glass model. I will compare equal scan conditions."
+}

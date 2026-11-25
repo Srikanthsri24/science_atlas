@@ -1,0 +1,6 @@
+{
+  "conclusion": "All three samples kept 64 equal-radius representative particles. The crystalline example vibrated around fixed sites. The dense liquid analogy changed close neighbours, while the dilute gas explored its larger region. Net displacement differs from path length. These are prescribed model samples in arbitrary units; selecting a state did not simulate heating or liquid cohesion.",
+  "note": "Gas at 30 presentation seconds: 64 particles remain, mean nearest spacing 1.791051 u and tracked net displacement 7.320994 u.",
+  "prediction": "I expect fixed-site vibration in the solid example, close particles changing neighbours in the liquid analogy, and freer motion with wider gaps in the gas model.",
+  "rows": 10
+}

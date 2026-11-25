@@ -1,0 +1,10 @@
+{
+  "conclusion": "At 2 g dry mass, 20 mL water and 60 seconds, the chosen paper model retained more water than cloth; the chosen plastic model gained no mass. In an empty-bath control, 0.500 g paper stayed at 0.500 g. These are illustrative samples, with loose surface drops excluded.",
+  "observations": [
+    "Wet mass increased by 5.836 g after the same soak and drain.",
+    "Wet mass increased by 3.107 g, less than the chosen paper sample.",
+    "The chosen short-test plastic model showed no internal uptake.",
+    "With no available water, the 0.500 g paper sample gained no mass."
+  ],
+  "prediction": "Equal dry samples may retain different amounts of water. I predict paper will show the largest mass gain in these chosen models."
+}

@@ -1,0 +1,7 @@
+{
+  "startedAt": "2026-11-25T11:09:49.629Z",
+  "finishedObservedAt": "2026-11-25T11:13:14.860Z",
+  "durationSeconds": 110,
+  "timeline": "110",
+  "state": "Change the lid, keep the air comparable\nAir space: 1.5 L\nMaintained bulk air: 35 °C\nMaintained lid: 40 °C\nInitial relative humidity: 80 %\nModel time: 300.0 s\nShow schematic transfer guides\nRun 300 s condensation experiment · 10× faster\nRemaining vapour / liquid droplets\n47.445042 / 0.000000 mg\nWater accounted / initial inventory\n47.445042 / 47.445042 mg\nCurrent vapour pressure / current humidity\n4498.145 Pa / 80.000 %\nIdeal drop radius\n0.000000 mm\nReference latent heat removed externally\n0.000000 J\nObservation\nNo net condensation under these initial conditions.\nRecord displayed condensation evidence\n\nCompare lids at 10, 25 and 40 °C with identical initial air. Try initial humidity zero. Keep initial humidity separate from the current humidity, which changes as vapour condenses."
+}

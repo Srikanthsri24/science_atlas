@@ -1,0 +1,14 @@
+{
+  "sugarGuideLocked": true,
+  "pauseResume": true,
+  "seekEnd": "110",
+  "guidesBefore": 1,
+  "guidesAfter": 0,
+  "isolatedCrystalScreens": [
+    "phone",
+    "tablet",
+    "laptop"
+  ],
+  "escape": true,
+  "darkTheme": true
+}

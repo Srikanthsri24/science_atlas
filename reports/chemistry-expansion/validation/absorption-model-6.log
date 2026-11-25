@@ -1,0 +1,14 @@
+✔ retained-water model conserves water and wet mass across full control bounds (15.530891ms)
+✔ initial, empty-bath and chosen plastic boundaries have no retained water (0.500272ms)
+✔ mass gain and percentage uptake match independently substituted examples (0.351823ms)
+✔ retained-water model rejects invalid input and cannot divide by zero dry mass (1.119365ms)
+✔ absorption guide has 110 seconds of dry weighing, controlled soaking and comparison (2.54297ms)
+✔ absorption workflow weighs after soaking and draining, never while immersed (0.324184ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 972.3398

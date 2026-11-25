@@ -1,0 +1,16 @@
+✔ sieve records reject invalid values, unsupported versions and excessive history (6.006198ms)
+✔ sieve calculations substitute converted spherical mass and handle no-passable recovery (3.07454ms)
+✔ sieve report includes every exam section, escapes prose and works all recorded trials (1.458822ms)
+✔ sieve model uses independently computed spherical masses with mm³ to cm³ conversion (3.179165ms)
+✔ strict aperture threshold and boundary controls preserve size eligibility (0.99533ms)
+✔ sieve and collector mass accounting includes every in-transit specimen and monotonic collection (34.083246ms)
+✔ sieving rejects nonfinite/out-of-range inputs and guide includes three aperture comparisons (2.866301ms)
+✔ sieve display aligns smaller specimens before passage and lands them on the collector without lost identities (2.687186ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1093.974143

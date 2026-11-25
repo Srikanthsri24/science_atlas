@@ -1,0 +1,53 @@
+[
+  {
+    "name": "tablet",
+    "width": 820,
+    "height": 1180,
+    "pass": true,
+    "svgFit": true,
+    "bounds": {
+      "asideRight": 794,
+      "documentWidth": 820,
+      "stageRight": 793
+    }
+  },
+  {
+    "name": "laptop",
+    "width": 1280,
+    "height": 960,
+    "pass": true,
+    "svgFit": true,
+    "bounds": {
+      "asideRight": 1240,
+      "documentWidth": 1280,
+      "stageRight": 956
+    }
+  },
+  {
+    "name": "tv",
+    "width": 1920,
+    "height": 1080,
+    "pass": true,
+    "svgFit": true,
+    "bounds": {
+      "asideRight": 1834,
+      "documentWidth": 1920,
+      "stageRight": 1550
+    }
+  },
+  {
+    "name": "phone",
+    "width": 390,
+    "height": 844,
+    "pass": true,
+    "svgFit": true,
+    "bounds": {
+      "asideRight": 372,
+      "documentWidth": 390,
+      "height": 844,
+      "stageRight": 371,
+      "svgFit": true,
+      "width": 390
+    }
+  }
+]

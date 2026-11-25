@@ -1,0 +1,15 @@
+✔ coloured-mixing records reject invalid/missing controls and bound history (4.208575ms)
+✔ mixing worked examples independently substitute conserved tracer, dilution and concentration contrast (1.169981ms)
+✔ mixing report escapes prose, includes all exam sections and identifies no-tracer observations (1.792832ms)
+✔ coloured-water mixing independently substitutes dye mass, dilution and equal-zone exchange (2.69552ms)
+✔ two-zone exchange conserves tracer and volume over full controls without exceeding source concentration (2.207558ms)
+✔ dilution changes the mean while stirring changes uniformity, and tracer-free controls do not claim mixing completion (1.070967ms)
+✔ coloured-water model rejects unsupported values and guide compares dilution and stirring (2.359751ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1438.474785

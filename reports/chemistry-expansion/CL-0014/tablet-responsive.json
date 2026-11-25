@@ -1,0 +1,67 @@
+{
+  "name": "tablet",
+  "normal": {
+    "aside": {
+      "bottom": 2344.7109375,
+      "height": 921.9765625,
+      "left": 236,
+      "right": 794,
+      "top": 1422.734375,
+      "width": 558,
+      "x": 236,
+      "y": 1422.734375
+    },
+    "viewport": 820,
+    "width": 820
+  },
+  "modes": [
+    {
+      "content": {
+        "bottom": 1053.203125,
+        "height": 981.203125,
+        "left": 0,
+        "right": 820,
+        "top": 72,
+        "width": 820,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 1053.203125,
+        "height": 981.203125,
+        "left": 0,
+        "right": 820,
+        "top": 72,
+        "width": 820,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 820,
+      "width": 820
+    },
+    {
+      "content": {
+        "bottom": 1053.203125,
+        "height": 981.203125,
+        "left": 0,
+        "right": 820,
+        "top": 72,
+        "width": 820,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 1053.203125,
+        "height": 981.203125,
+        "left": 0,
+        "right": 820,
+        "top": 72,
+        "width": 820,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 820,
+      "width": 820
+    }
+  ]
+}

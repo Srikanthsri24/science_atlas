@@ -1,0 +1,9 @@
+{
+  "conclusion": "At equal 5 mm thickness and 1 W input, the clear sample preserved direction, the frosted sample scattered transmitted light and the opaque sample transmitted very little. These chosen coefficients are illustrative, not measured material data.",
+  "observations": [
+    "Directed pattern visible; high transmission.",
+    "Light passes but the pattern is diffuse.",
+    "Almost no light reaches the screen at this thickness."
+  ],
+  "prediction": "A clear sample will preserve the pattern; a frosted sample may pass light but scatter it."
+}

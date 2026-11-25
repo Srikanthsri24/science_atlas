@@ -1,0 +1,24 @@
+{
+  "canvas": {
+    "bottom": 609.609375,
+    "height": 512.609375,
+    "left": 0,
+    "right": 390,
+    "top": 97,
+    "width": 390,
+    "x": 0,
+    "y": 97
+  },
+  "stage": {
+    "bottom": 609.609375,
+    "height": 512.609375,
+    "left": 0,
+    "right": 390,
+    "top": 97,
+    "width": 390,
+    "x": 0,
+    "y": 97
+  },
+  "viewport": 390,
+  "width": 390
+}

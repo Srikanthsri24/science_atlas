@@ -1,0 +1,8 @@
+{
+  "startedAt": "2026-11-25T10:31:40.301Z",
+  "finishedObservedAt": "2026-11-25T10:34:05.376Z",
+  "durationSeconds": 110,
+  "timeline": "110",
+  "stagedTransfersSeconds": 3,
+  "state": "Compare selected coupons\nSelected coupon\nUncoated paper coupon\nPorous unfired clay coupon\nNonporous metal coupon\nStarting water: 10 mL\nSoak duration: 60 s\nModel time: 180.0 s\nShow apparatus guides\nRun 180 s wetting experiment · 6× faster\nCurrent stage\nWeigh after standardized drainage\nDry reference / calculated wet mass\n20.000 / 20.000496 g\nAbsorbed / surface water\n0.000000 / 0.000495750 g\nBath / collected drainage\n9.800000 / 0.199504250 g\nWater accounted\n10.000000 / 10 g\nRecord displayed wetting evidence\n\nUse equal soak and drain times. Record each coupon at the final weighing stage. Compare surface film with bulk uptake; do not infer absorption from wet appearance alone."
+}

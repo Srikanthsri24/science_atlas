@@ -1,0 +1,8 @@
+{
+  "startedAt": "2026-11-25T10:00:15.064Z",
+  "finishedObservedAt": "2026-11-25T10:02:36.905Z",
+  "durationSeconds": 110,
+  "timeline": "110",
+  "state": "Control one condition\nStarting water: 10 mL\nExposed wet area: 200 cm²\nWater and air: 35 °C\nAmbient humidity: 25 %\nAir movement setting: 0.50\nModel time: 120.0 min\nShow schematic transfer markers\nRun 2 h model experiment · 240× faster\nRemaining liquid\n0.000000 g\nWater transferred to surrounding air\n10.000000 g\nTotal accounted mass\n10.000000 g\nCurrent net transfer rate\n0.000000000 g/s\nLiquid depth\n0.000000 cm\nObservation\nThe idealized model has reached the dry state.\nRecord displayed drying evidence\n\nPause to record. Compare areas 20, 80 and 200 cm² at equal time. Then hold area constant and change humidity. Try a saturated-air control and an initially empty dish.",
+  "logs": []
+}

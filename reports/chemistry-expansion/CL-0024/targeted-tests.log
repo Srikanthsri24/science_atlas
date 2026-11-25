@@ -1,0 +1,21 @@
+✔ clipped water mesh has outward winding and matches analytical volume within faceting tolerance (75.383234ms)
+✔ 2D liquid cutaway uses the same free-surface plane as the 3D cylinder (2.36986ms)
+✔ tilting apparatus stays above the tray and transfer exits remain within catch area (62.736789ms)
+✔ rotating local liquid-plane points produces a level world free surface (0.606646ms)
+✔ container report validates persisted trials and bounds user notes (24.519059ms)
+✔ worked flow substitutes current head and separates integrated leakage from final flow (0.91212ms)
+✔ exam report includes observations, procedures, result and escaped student text (1.114613ms)
+✔ rim-capacity calculations substitute both simple and clipped-geometry branches (4.114302ms)
+✔ tilted cylinder integrates correct upright, half-full and unclipped rim volumes (3.865606ms)
+✔ volume integral agrees with independent midpoint slices and inverse free surfaces (56.096837ms)
+✔ all containers conserve volume with nonnegative separate loss channels at arbitrary times (60.520782ms)
+✔ upright vented orifice follows independent analytical draining solution (0.475477ms)
+✔ 110-second explanation compares identical water amounts and tilt while validating domain (2.519554ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1276.514373

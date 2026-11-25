@@ -1,0 +1,15 @@
+{
+  "visibleMarkers": 7,
+  "hiddenMarkers": 0,
+  "dryingGuideLocked": true,
+  "pauseResume": true,
+  "seekEnd": "110",
+  "orbitZoom": true,
+  "escape": true,
+  "finalMaterialRecheck": [
+    "phone",
+    "tablet",
+    "laptop",
+    "tv"
+  ]
+}

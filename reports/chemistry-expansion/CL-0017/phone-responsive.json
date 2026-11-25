@@ -1,0 +1,67 @@
+{
+  "name": "phone",
+  "normal": {
+    "aside": {
+      "bottom": 978.3203125,
+      "height": 885.8671875,
+      "left": 18,
+      "right": 372,
+      "top": 92.453125,
+      "width": 354,
+      "x": 18,
+      "y": 92.453125
+    },
+    "viewport": 390,
+    "width": 390
+  },
+  "modes": [
+    {
+      "content": {
+        "bottom": 591.609375,
+        "height": 494.609375,
+        "left": 0,
+        "right": 390,
+        "top": 97,
+        "width": 390,
+        "x": 0,
+        "y": 97
+      },
+      "stage": {
+        "bottom": 591.609375,
+        "height": 494.609375,
+        "left": 0,
+        "right": 390,
+        "top": 97,
+        "width": 390,
+        "x": 0,
+        "y": 97
+      },
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "content": {
+        "bottom": 591.609375,
+        "height": 494.609375,
+        "left": 0,
+        "right": 390,
+        "top": 97,
+        "width": 390,
+        "x": 0,
+        "y": 97
+      },
+      "stage": {
+        "bottom": 591.609375,
+        "height": 494.609375,
+        "left": 0,
+        "right": 390,
+        "top": 97,
+        "width": 390,
+        "x": 0,
+        "y": 97
+      },
+      "viewport": 390,
+      "width": 390
+    }
+  ]
+}

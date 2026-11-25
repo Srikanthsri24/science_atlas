@@ -1,0 +1,57 @@
+{
+  "labId": "CL-0011",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 sensible/latent heat substitution, temperature continuity, plateau, mass/energy conservation, domain and apparatus clearance; eight model/record tests",
+    "twoD": "passed \u2014 supported shrinking ice, collected water, temperature display and acquired heating curve; enlarged portrait labels checked",
+    "threeD": "passed \u2014 closed-base transparent calorimeter, perforated rack, shrinking block, schematic melt drips, water level and orbit; maximum block clearance checked",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; SVG fits; dark theme checked",
+    "practicalRecord": "passed \u2014 eight trials include initial/warming/final states, two plateau times, zero power, doubled mass and half power; text persisted and report exported with eight substitutions",
+    "playback": "live 110-second guide and 600-second model-time trial at 15\u00d7 compression completed; fullscreen pause/resume, guide replay/seek and Escape checked",
+    "recordingGate": "passed \u2014 live heating locks recording; paused and completed states record correctly"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "maximum-ice-3d.png",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "laptop-3d.png",
+    "model-notes.md",
+    "laptop-2d.png",
+    "persistence.json",
+    "verified-lab-preview.png",
+    "final-header-check.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Emulated viewports, not physical-device certification.",
+    "Ideal insulated lumped-enthalpy model with chosen constant properties, not calibrated calorimetry.",
+    "No heat loss, gradients, apparatus heat capacity, supercooling, evaporation or pressure effects.",
+    "Reference densities set phase volumes; rack displacement and schematic drip transit mass are neglected.",
+    "Supported domain stays below 4 \u00b0C; boiling is not modelled.",
+    "Manual playback compresses time 15\u00d7; the guide stages timing; recorded time is model time.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/iceMelting.ts": "5768af6018e15fc38eb0255a90ba2b60d6cd515c648c879cdf62b5b9099dbec7",
+    "src/lib/chemistry/meltingRecord.ts": "8f1176818c08223a53c69e98ac1f2b0e072c9153a287890fbe21bfbed40504ac",
+    "src/components/chemistry/MeltingLab.tsx": "c1e202e517a21528b6e0fa5383d290a268b8622d3f20e5ad7c50ac453443f9a6",
+    "src/components/chemistry/MeltingDiagram.tsx": "fd97281dc183f5d532e6ee4f298efed6dcd01c1ec41792ffd2444c832500f13f",
+    "src/components/chemistry/MeltingScene.tsx": "cc1e8d0c982d5273d36e6c8adc0c373141695e0bf13176a71d8ce888cd987ab8",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

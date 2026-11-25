@@ -1,0 +1,114 @@
+[
+  {
+    "device": "tablet",
+    "height": 1180,
+    "panel": {
+      "bottom": 1430.2890625,
+      "height": 536.5,
+      "left": 236,
+      "right": 794,
+      "top": 893.7890625,
+      "width": 558,
+      "x": 236,
+      "y": 893.7890625
+    },
+    "scrollWidth": 820,
+    "stage": {
+      "bottom": 641.59375,
+      "height": 312.75,
+      "left": 237,
+      "right": 793,
+      "top": 328.84375,
+      "width": 556,
+      "x": 237,
+      "y": 328.84375
+    },
+    "width": 820,
+    "canvasVisible": true,
+    "timelineSeconds": 50
+  },
+  {
+    "device": "laptop",
+    "height": 960,
+    "panel": {
+      "bottom": 577.53125,
+      "height": 732.7890625,
+      "left": 975,
+      "right": 1240,
+      "top": -155.2578125,
+      "width": 265,
+      "x": 975,
+      "y": -155.2578125
+    },
+    "scrollWidth": 1280,
+    "stage": {
+      "bottom": 292.9296875,
+      "height": 375.1875,
+      "left": 289,
+      "right": 956,
+      "top": -82.2578125,
+      "width": 667,
+      "x": 289,
+      "y": -82.2578125
+    },
+    "width": 1280,
+    "canvasVisible": true,
+    "timelineSeconds": 50
+  },
+  {
+    "device": "tv",
+    "height": 1080,
+    "panel": {
+      "bottom": 568.875,
+      "height": 972.6328125,
+      "left": 1569,
+      "right": 1834,
+      "top": -403.7578125,
+      "width": 265,
+      "x": 1569,
+      "y": -403.7578125
+    },
+    "scrollWidth": 1920,
+    "stage": {
+      "bottom": 352.6796875,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": -330.7578125,
+      "width": 1215,
+      "x": 335,
+      "y": -330.7578125
+    },
+    "width": 1920,
+    "canvasVisible": true,
+    "timelineSeconds": 50
+  },
+  {
+    "device": "phone",
+    "height": 844,
+    "panel": {
+      "bottom": 1130.6015625,
+      "height": 686.890625,
+      "left": 18,
+      "right": 372,
+      "top": 443.7109375,
+      "width": 354,
+      "x": 18,
+      "y": 443.7109375
+    },
+    "scrollWidth": 390,
+    "stage": {
+      "bottom": 122.515625,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": -503.2578125,
+      "width": 352,
+      "x": 19,
+      "y": -503.2578125
+    },
+    "width": 390,
+    "canvasVisible": true,
+    "timelineSeconds": 50
+  }
+]

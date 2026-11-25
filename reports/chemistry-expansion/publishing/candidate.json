@@ -1,0 +1,18 @@
+{
+  "baseCommit": "5c8f41152bef0d75d0726a6b3c630c2f600f54c0",
+  "candidateFileCount": 989,
+  "scopes": [
+    "data/chemistry-labs.json",
+    "public/data/chemistry-labs.json",
+    "src/App.tsx",
+    "vite.config.ts",
+    "src/components/chemistry",
+    "src/lib/chemistry",
+    "scripts/chemistry",
+    "reports/chemistry-expansion",
+    "tests/chemistry-*.test.mjs"
+  ],
+  "note": "Candidate overlays only chemistry batch files and the chemistry route/Vite changes. The 146 pre-existing staged files are excluded.",
+  "location": "Temporary detached validation worktree",
+  "validation": "passed"
+}

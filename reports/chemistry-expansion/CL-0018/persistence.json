@@ -1,0 +1,6 @@
+{
+  "conclusion": "Mixing redistributes conserved dye within the liquid; dilution lowers its mean concentration by increasing total volume. For 2.5 mg in 125 mL, mean concentration is 20 mg/L; in 225 mL it is 11.111111 mg/L. The two sampling regions are imaginary, and the exchange rate is a teaching assumption rather than calibrated fluid dynamics.",
+  "lastNote": "Maximum volume after 120 s stirring; 10 mg dye conserved.",
+  "prediction": "The same dye mass should have a lower mean concentration when more clear water is added. Stirring should reduce the difference between upper and lower samples.",
+  "rows": 11
+}

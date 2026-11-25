@@ -1,0 +1,15 @@
+✔ oil/water records reject missing or invalid parameters and bound retained history (4.996154ms)
+✔ oil/water worked examples independently substitute density, flow, heights and SI pressure (1.225164ms)
+✔ oil/water report escapes student prose and includes all exam sections and trial substitutions (1.699258ms)
+✔ metered oil pour independently substitutes volume, mass, cylindrical heights and hydrostatic units (3.110711ms)
+✔ jar plus source conserves each phase and mass over full control range without overflow (4.995056ms)
+✔ oil zero, no-flow and completed pour controls have distinct honest layer states (0.537115ms)
+✔ oil/water model rejects unsupported states and guide compares three controlled pours (2.763208ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1204.208656

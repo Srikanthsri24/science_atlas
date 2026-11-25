@@ -1,0 +1,16 @@
+✔ handpicking record bounds, sanitizes placement identities and rejects unsupported versions (4.365548ms)
+✔ handpicking calculations distinguish empty purity, pure partial recovery and contamination (2.586183ms)
+✔ handpicking report escapes student prose and includes object audit with every worked trial (1.987255ms)
+✔ handpicking starts with independently counted grain and stone mass (3.23855ms)
+✔ moving samples conserves identity and total mass; purity differs from recovery (3.887683ms)
+✔ invalid moves fail and persisted placements only accept known samples and trays (2.742807ms)
+✔ 110-second handpicking guide lifts every object and finishes fully sorted (42.924414ms)
+✔ shared picking coordinates preserve end positions and lift a real object during transfer (1.798619ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1147.096474

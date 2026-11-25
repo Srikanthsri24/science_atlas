@@ -1,0 +1,12 @@
+✔ sieve model uses independently computed spherical masses with mm³ to cm³ conversion (3.074581ms)
+✔ strict aperture threshold and boundary controls preserve size eligibility (0.771989ms)
+✔ sieve and collector mass accounting includes every in-transit specimen and monotonic collection (35.847497ms)
+✔ sieving rejects nonfinite/out-of-range inputs and guide includes three aperture comparisons (4.96294ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1151.307734

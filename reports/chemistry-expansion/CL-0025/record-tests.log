@@ -1,0 +1,11 @@
+✔ particle records reject invalid phases, times, indices and versions and bound notes/history (517.639595ms)
+✔ particle calculations substitute model units, spacing, net displacement and energy honestly (380.258023ms)
+✔ exam report includes all trials and escapes student content without product source links (2.706063ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2062.917264

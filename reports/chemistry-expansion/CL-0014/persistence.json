@@ -1,0 +1,6 @@
+{
+  "conclusion": "The completed separation recovers 7.2 g grain and 7.2 g stones, conserving 14.4 g. Purity and recovery measure different things. Handpicking needs visible distinguishable pieces and cannot remove dissolved material.",
+  "observation": "A misplaced stone lowers purity to 25%; total mass remains 14.4 g.",
+  "prediction": "Visible stones can be picked out without changing the identity or total mass of any piece.",
+  "rows": 6
+}

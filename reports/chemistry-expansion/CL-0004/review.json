@@ -1,0 +1,51 @@
+{
+  "labId": "CL-0004",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 retained-water bounds, conserved bath water, mass gain, capacity limits, empty bath, invalid inputs and staged movement",
+    "twoD": "passed \u2014 moving sample, balance readout, water level, draining markers and portrait information panel",
+    "threeD": "passed \u2014 rounded balance with live LCD, sample textures, bath, wet/dry movement, portrait readout separation and camera orbit",
+    "responsive": "passed \u2014 2D and 3D at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; dark theme reviewed; automatic theatre camera and labels also checked on a phone with landscape format selected",
+    "practicalRecord": "passed \u2014 three controlled 2 g/20 mL/60 s comparisons and one 0.5 g/0 mL/15 s negative control, all retained after reload with observations, conclusion and worked report calculations",
+    "workflow": "passed \u2014 recording locked during dry, immersed and moving states; unlocks only after drained wet sample reaches pan",
+    "playback": "complete live 110-second guide reached final comparison; pause/resume, seek and theatre Escape verified",
+    "localPreview": "fixed first-load graphics dependency reload through explicit optimization; report artifacts no longer interrupt lessons"
+  },
+  "evidence": [
+    "workflow.json",
+    "playback.json",
+    "responsive.json",
+    "persistence.json",
+    "tested-practical-report.html",
+    "camera-orbit.png",
+    "dark-laptop.png",
+    "phone-2d.png",
+    "phone-3d.png",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "laptop-2d.png",
+    "laptop-3d.png",
+    "tv-2d.png",
+    "tv-3d.png",
+    "phone-auto-fullscreen.png"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device certification.",
+    "Capacities and rate constants are chosen teaching examples, not measured universal material properties.",
+    "Water density is approximated as 1 g/mL.",
+    "No swelling, dissolution, evaporation, loose surface-droplet, buoyancy or water-displacement solver.",
+    "Sample movement, draining markers and apparatus geometry are schematic; guide time is staged.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/absorption.ts": "1141f13060a57633a479072501a73fabdae5aa2d08aa80cf8e59db028b2f7083",
+    "src/lib/chemistry/absorptionRecord.ts": "05c6be9700389dd4a34be976c1c06ac154658fefb6fda3d87c015dff293de301",
+    "src/components/chemistry/AbsorptionLab.tsx": "87bdc45c14119652907c7bd5ee14550ec169fb66eb3f6a499f1b649dd7a0f799",
+    "src/components/chemistry/AbsorptionScene.tsx": "92587be51bf8a705209824ceb7c53d16e44b10e551c7f47a7fbc96d80de78024",
+    "src/components/chemistry/AbsorptionDiagram.tsx": "954f6f2b3c2fa12e03805b4a8f2d7bb6730ac14d95344adbf9d75dff68fd5c8c",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

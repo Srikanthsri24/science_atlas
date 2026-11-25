@@ -1,0 +1,16 @@
+{
+  "guideTime": "110",
+  "modelTime": "30",
+  "readings": [
+    "64 / 0.45 u",
+    "12.000 u / 1728.000000 u³",
+    "0.037037037 particles/u³",
+    "1.791051 u",
+    "7.320994 u",
+    "0 / 0",
+    "128.000000000"
+  ],
+  "recordEnabled": true,
+  "sample": "gas",
+  "wallSeconds": 204.316
+}

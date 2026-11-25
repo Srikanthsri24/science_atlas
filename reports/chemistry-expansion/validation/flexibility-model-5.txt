@@ -1,0 +1,13 @@
+✔ cantilever calculation independently substitutes SI geometry and added weight (2.382286ms)
+✔ beam shape is fixed at the clamp, finite, monotonic and consistent with the free-end formula (3.848905ms)
+✔ linear loading, inverse modulus and elastic work are preserved without asserting perfect rigidity (0.609191ms)
+✔ cantilever model rejects unsupported loads, coordinates and unknown samples (1.522651ms)
+✔ 110-second bending lesson contains loading and unloading for all three controlled samples (2.790546ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1017.836927

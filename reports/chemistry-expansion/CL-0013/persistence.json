@@ -1,0 +1,6 @@
+{
+  "conclusion": "At 120 s, 20 g salt in 100 mL leaves 0.049575 g, while sand leaves 20 g. With 50 g salt in 100 mL, 14.089235 g remains. Total mass is conserved. Rates are chosen, not measured kinetics.",
+  "observation": "Salt crystals nearly disappear, but total mass stays 120 g.",
+  "prediction": "Salt will dissolve; sand will remain solid. More water may dissolve more salt.",
+  "rows": 8
+}

@@ -1,0 +1,53 @@
+{
+  "labId": "CL-0007",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 inverse-cube field, compliant sensor equilibrium, pole invariance, six specimen responses, off reference and supported range; eight model/record tests",
+    "twoD": "passed \u2014 approach rail, pole labels, sensor shift, force arrow and actual readings; portrait and landscape",
+    "threeD": "passed \u2014 procedural magnet, specimen and compliant sensor, model-linked approach and displacement, orbit camera",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080, no document overflow; dark theme checked; repeated after explicit SVG width/height fix, full diagram contained in presentation stage",
+    "practicalRecord": "passed \u2014 nine controlled trials, saved observations/prediction/conclusion, reload persistence and downloaded report with nine substitutions",
+    "playback": "live 110-second guide reached final comparison; seek, pause/resume, replay and Escape checked",
+    "recordingGate": "passed \u2014 locked during approach; fullscreen approach pause and resume checked"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "laptop-3d.png",
+    "model-notes.md",
+    "laptop-2d.png",
+    "persistence.json",
+    "svg-fit.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Emulated viewports, not physical-device certification.",
+    "Chosen point-magnet and reversible specimen parameters, not calibrated material measurements.",
+    "Sensor displacement magnified 100\u00d7 in schematic geometry.",
+    "No hysteresis, remanence, demagnetizing geometry, friction or dynamics.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/magnetMaterials.ts": "d67f3876d281dfd8b6fde287ccda72d69018cbd2ccc113b2704e0a8a800cb30e",
+    "src/lib/chemistry/magnetMaterialsRecord.ts": "82873ebc19cfeebb41dde18e43d1f5ac6c0228fef0c8cffb0405a8daf0056602",
+    "src/components/chemistry/MagnetMaterialsLab.tsx": "ae9a66c2f5193418c3b1ffcbb295ecd91959271f45487a7f1643585c6d5954ee",
+    "src/components/chemistry/MagnetMaterialsDiagram.tsx": "fca643abe7ff0a985b2a0cb75ff4670117eb10ac43a49827a051e8f713ea6a90",
+    "src/components/chemistry/MagnetMaterialsScene.tsx": "1c3dd9296b681986df259733d0f8f2d529e5a39a689cb71211cddd5478556f9a",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

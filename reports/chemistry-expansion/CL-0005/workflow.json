@@ -1,0 +1,42 @@
+{
+  "controlledScans": [
+    {
+      "sample": "glass",
+      "axis": "x",
+      "group": "relatively smooth",
+      "caption": "Complete scan: Polished-glass model. Average height deviation 0.0756 μm. Compare equal scan conditions before assigning a relative group.",
+      "partialRecordLocked": true
+    },
+    {
+      "sample": "wood",
+      "axis": "x",
+      "group": "intermediate",
+      "caption": "Complete scan: Wood-grain model. Average height deviation 0.2948 μm. Compare equal scan conditions before assigning a relative group.",
+      "partialRecordLocked": true
+    },
+    {
+      "sample": "abrasive",
+      "axis": "x",
+      "group": "relatively rough",
+      "caption": "Complete scan: Abrasive-sheet model. Average height deviation 2.1411 μm. Compare equal scan conditions before assigning a relative group.",
+      "partialRecordLocked": true
+    },
+    {
+      "sample": "wood",
+      "axis": "z",
+      "group": "intermediate",
+      "caption": "Complete scan: Wood-grain model. Average height deviation 1.2423 μm. Compare equal scan conditions before assigning a relative group.",
+      "partialRecordLocked": true
+    },
+    {
+      "sample": "abrasive",
+      "axis": "x",
+      "group": "relatively rough",
+      "caption": "Complete scan: Abrasive-sheet model. Average height deviation 2.2148 μm. Compare equal scan conditions before assigning a relative group.",
+      "partialRecordLocked": true
+    }
+  ],
+  "partialRecordingLocked": true,
+  "timedScanCompleted": true,
+  "pauseResumeVerified": true
+}

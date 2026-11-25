@@ -1,0 +1,62 @@
+[
+  {
+    "grade": 1,
+    "total": 12,
+    "visibleCards": 12
+  },
+  {
+    "grade": 2,
+    "total": 12,
+    "visibleCards": 12
+  },
+  {
+    "grade": 3,
+    "total": 14,
+    "visibleCards": 14
+  },
+  {
+    "grade": 4,
+    "total": 16,
+    "visibleCards": 16
+  },
+  {
+    "grade": 5,
+    "total": 18,
+    "visibleCards": 18
+  },
+  {
+    "grade": 6,
+    "total": 20,
+    "visibleCards": 20
+  },
+  {
+    "grade": 7,
+    "total": 22,
+    "visibleCards": 22
+  },
+  {
+    "grade": 8,
+    "total": 24,
+    "visibleCards": 24
+  },
+  {
+    "grade": 9,
+    "total": 28,
+    "visibleCards": 28
+  },
+  {
+    "grade": 10,
+    "total": 30,
+    "visibleCards": 30
+  },
+  {
+    "grade": 11,
+    "total": 36,
+    "visibleCards": 36
+  },
+  {
+    "grade": 12,
+    "total": 38,
+    "visibleCards": 36
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "tablet",
+  "width": 820,
+  "height": 1180,
+  "checks": [
+    {
+      "experiment": "leak",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 794,
+        "documentWidth": 820,
+        "stageRight": 793
+      }
+    },
+    {
+      "experiment": "drop",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 794,
+        "documentWidth": 820,
+        "stageRight": 793
+      }
+    }
+  ]
+}

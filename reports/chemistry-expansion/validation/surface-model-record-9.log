@@ -1,0 +1,17 @@
+✔ surface record validates scan conditions, grouping and retained text (15.197275ms)
+✔ surface worked statistics substitute sums, count, spacing and squared deviations (0.99402ms)
+✔ surface report includes all profile readings and escapes student content (3.172117ms)
+✔ profile statistics remove the mean and distinguish average, RMS and peak-to-valley (2.568822ms)
+✔ roughness statistics are offset invariant and scale with height units (0.717241ms)
+✔ surface scans reproduce the same field used by the visual mesh in either direction (17.26875ms)
+✔ chosen central profiles distinguish representative surfaces without asserting universal cutoffs (4.964971ms)
+✔ surface model and statistics reject invalid coordinates, scans and heights (1.610672ms)
+✔ 110-second scan guide includes completed hold states for every surface (1.766173ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1192.322223

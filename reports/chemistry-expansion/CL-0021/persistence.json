@@ -1,0 +1,6 @@
+{
+  "conclusion": "At equal 60 s soak and 30 s drainage, selected paper absorbs 3.926737 g and clay absorbs 2.593994 g; the selected nonporous metal absorbs zero. Surface film adds to wet mass and must not be mistaken for bulk uptake. For paper, bath + absorbed + surface + collected drainage equals the starting 10 g water. These chosen intact coupons do not predict erosion, strength failure or long-term corrosion.",
+  "lastNote": "Longer metal soak still gives no bulk absorption; surface film is distinct.",
+  "prediction": "The selected porous paper and clay should retain absorbed water after drainage. Nonporous metal may be wet on its surface without absorbing water into its bulk.",
+  "rows": 10
+}

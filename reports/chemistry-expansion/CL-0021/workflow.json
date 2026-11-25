@@ -1,0 +1,16 @@
+{
+  "trials": 10,
+  "notes": [
+    "Metal after equal soak/drain: zero bulk uptake but a tiny retained film increases wet mass.",
+    "Initial paper reference: 5 g; no water retained yet.",
+    "Live full paper trial: wet mass 8.927233 g, including 3.926737 g absorbed water.",
+    "Clay after the same timing absorbs 2.593994 g in this selected-coupon model.",
+    "At 72 s, surface drainage is still flowing; wet mass includes more surface water.",
+    "At 61.5 s, the holder is clear of the bath and no drainage has yet entered the collector.",
+    "At 94.5 s, the specimen transfers to the balance; collected water remains in the drain cup.",
+    "Longer 120 s soak with 20 mL water approaches paper capacity; all 20 g water is accounted.",
+    "Short 30 s clay soak retains less bulk water than the 60 s comparison.",
+    "Longer metal soak still gives no bulk absorption; surface film is distinct."
+  ],
+  "table": "Separate water reservoirs · matched soak and drainage protocol\nTrial\tCoupon\tWater mL\tSoak s\tTime s\tStage\tDry g\tWet g\tAbsorbed g\tSurface g\tDrained g\tBath g\tMy observation\n1\tmetal\t10\t60\t180.000\tWeigh after standardized drainage\t20\t20.000496\t0.000000\t0.000495750\t0.199504250\t9.800000\t\n2\tpaper\t10\t60\t0.000\tInitial immersed state\t5\t5.000000\t0.000000\t0.000000000\t0.000000000\t10.000000\t\n3\tpaper\t10\t60\t180.000\tWeigh after standardized drainage\t5\t8.927233\t3.926737\t0.000495750\t0.199504250\t5.873263\t\n4\tclay\t10\t60\t180.000\tWeigh after standardized drainage\t20\t22.594490\t2.593994\t0.000495750\t0.199504250\t7.206006\t\n5\tpaper\t10\t60\t72.000\tCollect surface drainage\t5\t8.959797\t3.926737\t0.033059778\t0.166940222\t5.873263\t\n6\tpaper\t10\t60\t61.500\tLift and transfer to the drain cup\t5\t9.126737\t3.926737\t0.200000000\t0.000000000\t5.873263\t\n7\tpaper\t10\t60\t94.500\tTransfer to the tared balance\t5\t8.927233\t3.926737\t0.000495750\t0.199504250\t5.873263\t\n8\tpaper\t20\t120\t180.000\tWeigh after standardized drainage\t5\t8.999154\t3.998658\t0.000495750\t0.199504250\t15.801342\t\n9\tclay\t10\t30\t180.000\tWeigh after standardized drainage\t20\t21.896857\t1.896362\t0.000495750\t0.199504189\t7.903638\t\n10\tmetal\t20\t120\t180.000\tWeigh after standardized drainage\t20\t20.000496\t0.000000\t0.000495750\t0.199504250\t19.800000\t"
+}

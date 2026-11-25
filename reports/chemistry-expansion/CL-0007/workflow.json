@@ -1,0 +1,26 @@
+[
+  {
+    "specimen": "iron",
+    "caption": "Iron model · nominal gap 25.00 mm · appreciable attraction. Actual force 6.6696e-4 N. Compare at equal gaps."
+  },
+  {
+    "specimen": "steel",
+    "caption": "Steel model · nominal gap 25.00 mm · appreciable attraction. Actual force 3.5016e-4 N. Compare at equal gaps."
+  },
+  {
+    "specimen": "aluminium",
+    "caption": "Aluminium model · nominal gap 25.00 mm · no appreciable classroom pull. Actual force 3.9322e-10 N. Compare at equal gaps."
+  },
+  {
+    "specimen": "copper",
+    "caption": "Copper model · nominal gap 25.00 mm · no appreciable classroom pull. Actual force -1.9661e-10 N. Compare at equal gaps."
+  },
+  {
+    "specimen": "wood",
+    "caption": "Wood model · nominal gap 25.00 mm · no appreciable classroom pull. Actual force 0.0000e+0 N. Compare at equal gaps."
+  },
+  {
+    "specimen": "plastic",
+    "caption": "Plastic model · nominal gap 25.00 mm · no appreciable classroom pull. Actual force 0.0000e+0 N. Compare at equal gaps."
+  }
+]

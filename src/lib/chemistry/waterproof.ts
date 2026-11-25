@@ -1,0 +1,13 @@
+/** Illustrative constant-area reservoir draining through a sheet.
+ * Conductances and wetting delays are chosen teaching parameters, not measured properties.
+ * After delay, flow Q = G h, h = V/A, so V(t) = V₀ exp(−Gt/A).
+ * mL = cm³; head cm; G units mL s⁻¹ cm⁻¹. No capillary/absorption or sheet failure solver.
+ */
+export const waterproofSamples={paper:{name:'Uncoated paper',conductance:.025,delay:8},cloth:{name:'Open-weave cloth',conductance:.09,delay:2},plastic:{name:'Plastic sheet',conductance:0,delay:0},foil:{name:'Aluminium foil',conductance:0,delay:0}}as const;
+export type WaterproofSample=keyof typeof waterproofSamples;
+export function waterproofState(sample:WaterproofSample,timeSeconds:number,initialMl=20,areaCm2=5,punctured=false){
+ if(typeof punctured!=='boolean'||!Object.hasOwn(waterproofSamples,sample)||![timeSeconds,initialMl,areaCm2].every(Number.isFinite)||timeSeconds<0||timeSeconds>120||initialMl<0||initialMl>40||areaCm2<2||areaCm2>10)throw new RangeError('Use a known sheet, time 0–120 s, volume 0–40 mL and area 2–10 cm²');
+ const p=waterproofSamples[sample],conductance=punctured?.5:p.conductance,delay=punctured?0:p.delay,elapsed=Math.max(0,timeSeconds-delay),remainingMl=initialMl*Math.exp(-conductance*elapsed/areaCm2),collectedMl=initialMl-remainingMl,headCm=remainingMl/areaCm2,flowMlPerSecond=timeSeconds<delay?0:conductance*headCm;
+ return{remainingMl,collectedMl,headCm,flowMlPerSecond,conductance,delay,initialMl,areaCm2,timeSeconds,punctured};
+}
+export function waterproofFrame(time:number){if(!Number.isFinite(time))throw new RangeError('Finite lesson time required');const t=Math.max(0,Math.min(100,time));const sample:WaterproofSample=t<30?'paper':t<50?'cloth':t<70?'plastic':'foil';const caption=t<10?'Identify the upper water reservoir, test sheet and lower collecting cup. Keep the sheet sealed around its edge.':t<30?'Uncoated paper: in this teaching model, water begins to pass through after a short wetting delay.':t<50?'Open-weave cloth: compare the water reaching the collecting cup. Keep starting volume and opening area the same.':t<70?'Intact plastic sheet: the model has no through-sheet flow. Waterproof behaviour depends on the chosen intact sample.':t<90?'Intact foil: again no through-sheet flow in this model. An intact barrier and a punctured barrier behave differently.':'Compare the evidence. No leak during a finite test supports a barrier claim for those conditions; it does not prove every object made of that material is waterproof.';return{sample,caption,testTime:t<10?0:t<30?(t-10)*3:t<50?(t-30)*3:t<70?(t-50)*3:t<90?(t-70)*3:60};}

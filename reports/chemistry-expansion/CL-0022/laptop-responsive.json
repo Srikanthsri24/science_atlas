@@ -1,0 +1,67 @@
+{
+  "name": "laptop",
+  "normal": {
+    "aside": {
+      "bottom": 1503.3046875,
+      "height": 1237.5625,
+      "left": 975,
+      "right": 1240,
+      "top": 265.7421875,
+      "width": 265,
+      "x": 975,
+      "y": 265.7421875
+    },
+    "viewport": 1280,
+    "width": 1280
+  },
+  "modes": [
+    {
+      "content": {
+        "bottom": 832.046875,
+        "height": 760.046875,
+        "left": 0,
+        "right": 1280,
+        "top": 72,
+        "width": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 832.046875,
+        "height": 760.046875,
+        "left": 0,
+        "right": 1280,
+        "top": 72,
+        "width": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 1280,
+      "width": 1280
+    },
+    {
+      "content": {
+        "bottom": 802.09375,
+        "height": 730.09375,
+        "left": 0,
+        "right": 1280,
+        "top": 72,
+        "width": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "stage": {
+        "bottom": 802.09375,
+        "height": 730.09375,
+        "left": 0,
+        "right": 1280,
+        "top": 72,
+        "width": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "viewport": 1280,
+      "width": 1280
+    }
+  ]
+}

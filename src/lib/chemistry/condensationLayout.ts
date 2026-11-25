@@ -1,0 +1,2 @@
+/** Prescribed, well-separated lid sites; not a nucleation prediction. Units cm. */
+export function condensationDropPose(index:number,jarHeightCm:number){if(!Number.isInteger(index)||index<0||index>=50||!Number.isFinite(jarHeightCm)||jarHeightCm<10||jarHeightCm>30)throw new RangeError('Site 0–49 and jar height 10–30 cm required');const radius=.85*Math.sqrt(100/Math.PI)*Math.sqrt((index+.5)/50),angle=index*Math.PI*(3-Math.sqrt(5));return{x:radius*Math.cos(angle),y:jarHeightCm,z:radius*Math.sin(angle)}}

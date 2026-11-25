@@ -1,0 +1,3 @@
+import{liquidContainerState,type ContainerKind}from './liquidContainer';
+export function liquidContainerLayout(kind:ContainerKind,initialMl:number,targetAngleDeg:number,timeS:number){const s=liquidContainerState(kind,initialMl,targetAngleDeg,timeS),t=s.angleDeg*Math.PI/180,c=Math.cos(t),n=Math.sin(t);return{...s,centerHeightCm:8,rimExit:{x:-2.5*c-6*n,y:8-2.5*n+6*c,z:0},holeExit:{x:6*n,y:8-6*c,z:0},trayHalfWidthCm:10,trayHalfDepthCm:7.5,trayWaterHeightCm:.1+s.collectorDepthCm}}
+export function containerPointToWorld(x:number,y:number,angleDeg:number){const t=angleDeg*Math.PI/180;return{x:x*Math.cos(t)-y*Math.sin(t),y:8+x*Math.sin(t)+y*Math.cos(t)}}

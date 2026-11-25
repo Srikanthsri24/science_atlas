@@ -1,0 +1,19 @@
+/** Illustrative, reversible point-specimen responses on an ideal compliant pull sensor.
+ * A point magnet with chosen moment 0.1 A m² is approached along its axis.
+ * B = (μ₀/4π) 2m/r³; F toward magnet = m_specimen(B) × 3B/r.
+ * The specimen's sensor displacement solves kx = F(gap − x), k=10 N/m.
+ * Parameters are original teaching examples, not calibrated material properties.
+ */
+export const magnetSamples={iron:{name:'Iron model',kind:'saturating',saturationMoment:.005,fieldScaleT:.001},steel:{name:'Steel model',kind:'saturating',saturationMoment:.004,fieldScaleT:.002},aluminium:{name:'Aluminium model',kind:'linear',momentPerTesla:2e-6},copper:{name:'Copper model',kind:'linear',momentPerTesla:-1e-6},wood:{name:'Wood model',kind:'linear',momentPerTesla:0},plastic:{name:'Plastic model',kind:'linear',momentPerTesla:0}}as const;
+export type MagnetSample=keyof typeof magnetSamples;
+export function axialMagnetField(distanceM:number,pole:1|-1=1){if(!Number.isFinite(distanceM)||distanceM<.02||distanceM>.12||![1,-1].includes(pole))throw new RangeError('Axial distance 0.02–0.12 m and polarity ±1 required');return pole*1e-7*2*.1/distanceM**3}
+export function specimenMoment(sample:MagnetSample,fieldT:number){if(!Object.hasOwn(magnetSamples,sample)||!Number.isFinite(fieldT)||Math.abs(fieldT)>.003)throw new RangeError('Known specimen and field within ±0.003 T required');const s=magnetSamples[sample];return s.kind==='saturating'?s.saturationMoment*Math.tanh(fieldT/s.fieldScaleT):s.momentPerTesla*fieldT}
+export function magnetMaterialState(sample:MagnetSample,gapMm=25,pole:1|-1=1,enabled=true){
+ if(!Object.hasOwn(magnetSamples,sample)||!Number.isFinite(gapMm)||gapMm<25||gapMm>100||![1,-1].includes(pole)||typeof enabled!=='boolean')throw new RangeError('Known sample, gap 25–100 mm, polarity ±1 and enabled flag required');
+ const gapM=gapMm/1000,sensorStiffnessNPerM=10,magnetMomentAm2=.1,detectionThresholdN=1e-6;
+ const forceAt=(x:number)=>{if(!enabled)return 0;const r=gapM-x,b=axialMagnetField(r,pole);return specimenMoment(sample,b)*3*b/r};
+ let displacementM=0;if(enabled&&forceAt(0)!==0){let lo=-.0005,hi=.0005;for(let i=0;i<64;i++){const mid=(lo+hi)/2;if(sensorStiffnessNPerM*mid-forceAt(mid)>0)hi=mid;else lo=mid}displacementM=(lo+hi)/2}
+ const actualGapM=gapM-displacementM,fieldT=enabled?axialMagnetField(actualGapM,pole):0,momentAm2=specimenMoment(sample,fieldT),forceN=forceAt(displacementM),sensorForceN=sensorStiffnessNPerM*displacementM,response=forceN>=detectionThresholdN?'appreciable attraction':forceN<=-detectionThresholdN?'appreciable repulsion':'no appreciable classroom pull';
+ return{sample,gapMm,pole,enabled,magnetMomentAm2,sensorStiffnessNPerM,displacementM,actualGapM,fieldT,momentAm2,forceN,sensorForceN,detectionThresholdN,response};
+}
+export function magnetMaterialsFrame(time:number){if(!Number.isFinite(time))throw new RangeError('Finite lesson time required');const t=Math.max(0,Math.min(110,time)),keys=Object.keys(magnetSamples) as MagnetSample[],index=Math.max(0,Math.min(5,Math.floor((t-10)/15))),sample=keys[index],local=Math.max(0,t-(10+index*15)),gapMm=t<10?100:100-75*Math.min(1,local/10),caption=t<10?'Identify the magnet, selected specimen and pull sensor. Compare materials at equal separation.':t<40?'Move the magnet closer to the chosen iron and steel models. The sensor shows appreciable attraction under the stated conditions.':t<70?'Compare aluminium and copper. They are metals, but the chosen weak responses are below the classroom detection threshold.':t<100?'Compare wood and plastic. Weak responses are neglected in these chosen models; the magnetic field can still be present.':'Compare equal gaps and switch the magnet off for a reference. Reversing its polarity does not reverse the attraction of the reversible iron model.';return{sample,gapMm,caption};}

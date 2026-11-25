@@ -1,0 +1,13 @@
+# CL-0015 — Separate large and small grains with a sieve
+
+This original investigation uses 30 ideal spherical specimens: five each of diameters 2, 3, 4, 5, 6 and 7 mm. Chosen density is 2.5 g/cm³. Each mass is ρπd³/6, with mm³ converted to cm³ using 10⁻³. Starting mass is 5.124723016 g (rounded for display).
+
+The ideal passage rule is diameter strictly less than circular aperture. Equal-size specimens are retained. A 3 mm opening therefore collects five 2 mm specimens; a 5 mm opening collects fifteen specimens in the 2–4 mm groups; an 8 mm opening can collect all thirty. With no passable specimens, passable recovery is undefined rather than 100%. Recovery of passable material is distinct from the collected fraction of the whole mixture.
+
+Each object retains its identity, diameter and mass. Its location is exactly one of sieve, in transfer or collector. In transfer includes both alignment and lowering; the object is never counted simultaneously in source and collector. Both specimen counts and mass are conserved. At aperture 5 mm, agitation 1 and 1.2 s, three specimens are in transfer and their combined 0.129590697 g is separately accounted for.
+
+Exposure timing is a chosen schedule, not measured granular kinetics. Transfer progress first aligns the specimen over its opening, then shows a slow controlled downward path. Agitation 0 leaves all pieces unexposed in this chosen model. There is no collision, clogging, orientation, breakage, electrostatic, contact or calibrated gravity solution. Real clearances require tolerances; the strict ideal boundary is stated rather than attributed to every real grain.
+
+The shared visual layout uses 0.08 display units per mm, a 70 × 60 mm plate, thirty actual circular openings and specimen radii proportional to the stated diameters. Initial specimens rest on the web between openings; passable pieces align with their opening before lowering. The collector supports their final positions. The plate shakes while settled collector specimens remain at rest. The 2D view is schematic projection; the 3D plate is perforated geometry. A magnified equal-scale top-view comparison and highlighted 3D diameter groups help students inspect the opening rule.
+
+The guide lasts 110 seconds and compares three aperture settings. Internal checks include eight model/record tests, live full-guide completion, a live manual 12-second run, pause/resume, record locking, eight observation states, all calculations and unit substitutions in the downloaded report, reload persistence, diameter inspection including equality, orbit and zoom, dark theme, Escape, and both views at four emulated sizes. Expert certification, official board mapping and physical-device certification are not claimed.

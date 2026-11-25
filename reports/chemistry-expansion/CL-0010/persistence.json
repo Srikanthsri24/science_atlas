@@ -1,0 +1,15 @@
+{
+  "rows": 8,
+  "observations": [
+    "The clamp holds the dry sample; this is not a released trial.",
+    "The dry sample has begun sliding after release.",
+    "Dry sand at 40° reaches the 150 mm end stop.",
+    "Damp sand at the same 40° remains at its release point.",
+    "At 55°, the damp sample fails and reaches the stop.",
+    "A horizontal damp sample has no downhill weight component.",
+    "At the ideal dry 30° threshold, the forces are equal and no failure is triggered.",
+    "The 60° maximum-angle damp trial also reaches the end stop."
+  ],
+  "prediction": "At equal 40° angle, the damp model should resist sliding because of its chosen contact bridges; dry sand should slide.",
+  "conclusion": "At equal 40° angle and 20 g mass, dry sand slides while the chosen damp slice resists because its initial bridge cohesion adds to the friction limit. Damp sand fails at 55° and 60°. Horizontal and threshold controls behave as predicted. The enlarged grains represent a plug model with chosen bridge count, not a calibrated real-sand collapse angle."
+}

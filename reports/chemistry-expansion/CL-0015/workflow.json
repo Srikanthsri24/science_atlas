@@ -1,0 +1,7 @@
+{
+  "liveManual12SecondRunCompleted": true,
+  "recordLockedDuringLiveRun": true,
+  "manualPauseResumePassed": true,
+  "table": "Calculated model observations · each specimen belongs to exactly one mass location\nTrial\tOpening mm\tShaking\tTime s\tPieces: sieve / moving / collected\tSieve g\tIn transfer g\tCollector g\tTotal g\tPassable recovery %\tMy observation\n1\t8\t1\t12.000\t0 / 0 / 30\t0.000000000\t0.000000000\t5.124723016\t5.124723016\t100.000000\t\n2\t3\t1\t0.000\t30 / 0 / 0\t5.124723016\t0.000000000\t0.000000000\t5.124723016\t0.000000\t\n3\t3\t1\t12.000\t25 / 0 / 5\t5.072363139\t0.000000000\t0.052359878\t5.124723016\t100.000000\t\n4\t5\t1\t12.000\t15 / 0 / 15\t4.476769531\t0.000000000\t0.647953485\t5.124723016\t100.000000\t\n5\t5\t1\t1.200\t27 / 3 / 0\t4.995132319\t0.129590697\t0.000000000\t5.124723016\t0.000000\t\n6\t2\t1\t12.000\t30 / 0 / 0\t5.124723016\t0.000000000\t0.000000000\t5.124723016\tUndefined — none fit\t\n7\t8\t0\t12.000\t30 / 0 / 0\t5.124723016\t0.000000000\t0.000000000\t5.124723016\t0.000000\t\n8\t5\t0.25\t12.000\t21 / 3 / 6\t4.735950925\t0.129590697\t0.259181394\t5.124723016\t40.000000\t",
+  "download": "/Users/macbookpro/Downloads/CL-0015-sieving-practical.html"
+}

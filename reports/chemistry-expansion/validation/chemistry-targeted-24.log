@@ -1,0 +1,32 @@
+✔ chemistry development list has 270 distinct stable IDs and covers each class progressively (5.39531ms)
+✔ planned chemistry labs cannot be counted ready without passing every review gate (1.122959ms)
+✔ material-sorting guide classifies six conserved samples once over a 100-second explanation (8.308815ms)
+✔ classification counts unique correct objects rather than attempts or guesses (2.570442ms)
+✔ portrait stations rearrange into two rows without hiding or merging samples and trays (1.194383ms)
+✔ practical import validates sample identities and bounds observation storage (2.529489ms)
+✔ exam-style report includes observations, correct unique counts, results, conclusion and escaped writing (0.942476ms)
+✔ optical record rejects corrupt trials and caps retained observations (5.538365ms)
+✔ worked optical calculations substitute coefficients with units and no-slab boundary (0.909737ms)
+✔ optical report escapes student text and retains distinct recorded parameter sets (0.878373ms)
+✔ CL-0002 conserves radiant power across direct, diffuse, reflected and absorbed channels (5.405819ms)
+✔ CL-0002 distinguishes transmitted brightness from image-preserving direct transmission (0.874956ms)
+✔ CL-0002 zero thickness is an absent slab and zero source power gives no outgoing light (0.747497ms)
+✔ CL-0002 transmitted fraction depends on the chosen sample and thickness, not source power (0.475341ms)
+✔ CL-0002 rejects unknown materials and invalid physical inputs (1.344476ms)
+✔ CL-0002 lesson lasts 100 seconds with controlled comparisons and finite outputs (2.526547ms)
+✔ waterproof record validates persisted physical inputs, conditions and text (2.549329ms)
+✔ waterproof worked calculation substitutes lag, conductance, area and conservation (0.871804ms)
+✔ waterproof report escapes observations and records sheet integrity separately (0.953391ms)
+✔ sheet reservoir conserves water and leakage is monotonic (41.795578ms)
+✔ intact and punctured barriers and wetting lag are distinguished (0.48287ms)
+✔ draining formula follows the documented head law after wetting delay (0.329597ms)
+✔ waterproof model rejects invalid and non-finite physical inputs (1.10754ms)
+✔ waterproof lesson spans 100 seconds and samples four controlled comparisons (1.745668ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1227.849064

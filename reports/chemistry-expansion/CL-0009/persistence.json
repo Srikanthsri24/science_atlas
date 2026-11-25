@@ -1,0 +1,15 @@
+{
+  "rows": 8,
+  "observations": [
+    "All 100 mL starts in the source; the receiver is empty.",
+    "The paused transfer accounts for water in both source and receiver.",
+    "100 mL reaches 7.957747 cm in the narrow cylinder.",
+    "The wider rectangular base gives a 3.125 cm level for the same 100 mL.",
+    "The flared vessel holds 100 mL at about 5.018236 cm.",
+    "At 200 mL, the narrow receiver retains 125.663706 mL and catches 74.336294 mL overflow.",
+    "Zero input gives zero water everywhere.",
+    "The 400 mL maximum test fills the narrow receiver and catches 274.336294 mL."
+  ],
+  "prediction": "The same 100 mL should rise highest in the narrow cylinder; changing container shape changes the height, not the amount of water.",
+  "conclusion": "Equal 100 mL volumes give different heights: about 7.958 cm narrow, 3.125 cm rectangular and 5.018 cm flared. When a receiver fills, excess water is caught separately. Source + retained water + caught overflow equals the initial volume, including the zero and 400 mL controls. This is prescribed metered flow; meniscus, splash and tube storage are neglected."
+}

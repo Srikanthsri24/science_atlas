@@ -1,0 +1,50 @@
+{
+  "labId": "CL-0003",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 100,
+  "checks": {
+    "model": "passed \u2014 conserved reservoir volume, nonnegative monotonic leakage, wetting delay, punctured barriers, head-law derivative and invalid inputs; swept full model volume/area bounds",
+    "twoD": "passed \u2014 water levels, flow-linked droplet markers, graduations and portrait layout",
+    "threeD": "passed \u2014 procedural vessels, sealed sheet, lower cup base, woven/fibrous sample surfaces, water levels, flow markers, graduations and camera orbit",
+    "responsive": "passed \u2014 2D and 3D at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; dark theme checked",
+    "practicalRecord": "passed \u2014 five controlled trials at 20 mL and 60 s, including a puncture comparison; observations and conclusion persisted after reload; exported report checked for all five substitutions",
+    "playback": "complete live 100-second guide reached final comparison caption; independent trial advanced beyond 57 s, paused and resumed beyond 63 s; endpoint 120 s disables resume"
+  },
+  "evidence": [
+    "responsive.json",
+    "persistence.json",
+    "playback.json",
+    "trial-timer.json",
+    "tested-practical-report.html",
+    "camera-orbit.png",
+    "dark-laptop.png",
+    "phone-2d.png",
+    "phone-3d.png",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "laptop-2d.png",
+    "laptop-3d.png",
+    "tv-2d.png",
+    "tv-3d.png",
+    "../shared-tablet-panels.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device testing.",
+    "Conductances and wetting delays are chosen teaching parameters, not calibrated measurements.",
+    "No capillary transport, absorption, swelling, tearing, pressure deformation or edge-leakage solver.",
+    "Apparatus geometry and droplet markers are schematic; markers do not measure physical droplet sizes.",
+    "The guide stages four test intervals within its 100-second duration; the independent trial runs at 1\u00d7 while visible.",
+    "Official board mapping remains pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/waterproof.ts": "5b2038e5655c7907f97b10434ef7f2694245271cedb77c89bc7390e58966d817",
+    "src/lib/chemistry/waterproofRecord.ts": "9f3040f1d997181e450a33616d87969c67b73973a81a74613fed3f63870453b0",
+    "src/components/chemistry/WaterproofLab.tsx": "d8b0bf2eca18b8ad336f0e1af4ac5f6a5d5b425d57d7b1302446313d3abacd3e",
+    "src/components/chemistry/WaterproofScene.tsx": "e60dbe19390a8087c6597fe7e36948628b4d95b10394382f9a32664b7337b7a6",
+    "src/components/chemistry/WaterproofDiagram.tsx": "a903e8607f69daff9663ad11dbe915f47c8095ad4e1aed4cbae7e26799522f47",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  },
+  "sharedPanelReview": "Tablet panel headings and controls rechecked after shared responsive CSS adjustment; no overflow."
+}

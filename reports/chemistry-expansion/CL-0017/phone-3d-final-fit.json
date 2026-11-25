@@ -1,0 +1,34 @@
+{
+  "canvas": {
+    "bottom": 591.609375,
+    "height": 494.609375,
+    "left": 0,
+    "right": 390,
+    "top": 97,
+    "width": 390,
+    "x": 0,
+    "y": 97
+  },
+  "focus": {
+    "bottom": 573.609375,
+    "height": 43,
+    "left": 20,
+    "right": 124,
+    "top": 530.609375,
+    "width": 104,
+    "x": 20,
+    "y": 530.609375
+  },
+  "stage": {
+    "bottom": 591.609375,
+    "height": 494.609375,
+    "left": 0,
+    "right": 390,
+    "top": 97,
+    "width": 390,
+    "x": 0,
+    "y": 97
+  },
+  "viewport": 390,
+  "width": 390
+}

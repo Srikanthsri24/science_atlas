@@ -1,0 +1,19 @@
+{
+  "trials": 13,
+  "notes": [
+    "Coarse grains without stirring still retain 1.370962 g solid at 120 s; sugar mass closes to 10 g.",
+    "Initial coarse-grain comparison: 10 g solid and zero dissolved.",
+    "Live manual run at stirring 0.5 reaches full model dissolution by 120 s; 10 g remains dissolved.",
+    "At 24 s, coarse grains retain 3.552104 g solid.",
+    "At 12 s, the smaller 512-grain sample has only 0.739095 g solid remaining.",
+    "At 120 s, the fine-grain sample is fully dissolved, with 10 g sugar still accounted.",
+    "The 64-grain sample at 12 s provides an intermediate size comparison.",
+    "The 216-grain sample at 12 s retains less solid than the 64-grain sample.",
+    "Maximum 20 g and 1000 grains: all crystals fit and remain below the minimum supported water depth.",
+    "The 1000-grain sample is fully dissolved at 120 s; 20 g remains accounted.",
+    "Maximum coarse crystals fit below water and clear the stirrer; no-stirring initial state.",
+    "At 120 s without stirring, 4.744125 g of the 20 g coarse sample remains solid.",
+    "Minimum 2 g coarse sample has a small positive 0.008806 g solid remainder at 120 s."
+  ],
+  "table": "Equal starting sugar mass · solid and dissolved mass tracked separately\nTrial\tSugar g\tWater mL\tGrains\tStirring\tTime s\tSide cm\tArea cm²\tSolid g\tDissolved g\tRate g/s\tMy observation\n1\t10\t200\t8\t0\t120.000\t0.475896753\t10.870931\t1.370962\t8.629038\t0.031923044\t\n2\t10\t200\t8\t0.5\t0.000\t0.922934675\t40.886804\t10.000000\t0.000000\t0.367981235\t\n3\t10\t200\t8\t0.5\t120.000\t0.000000000\t0.000000\t0.000000\t10.000000\t0.000000000\t\n4\t10\t200\t8\t0.5\t24.000\t0.653631304\t20.507226\t3.552104\t6.447896\t0.181648232\t\n5\t10\t200\t512\t0.5\t12.000\t0.096830270\t28.803383\t0.739095\t9.260905\t0.253346356\t\n6\t10\t200\t512\t0.5\t120.000\t0.000000000\t0.000000\t0.000000\t10.000000\t0.000000000\t\n7\t10\t200\t64\t0.5\t12.000\t0.326815652\t41.014453\t3.552104\t6.447896\t0.363296465\t\n8\t10\t200\t216\t0.5\t12.000\t0.173414890\t38.974251\t1.791060\t8.208940\t0.343710815\t\n9\t20\t400\t1000\t1\t0.000\t0.232564965\t324.518778\t20.000000\t0.000000\t4.867781663\t\n10\t20\t400\t1000\t1\t120.000\t0.000000000\t0.000000\t0.000000\t20.000000\t0.000000000\t\n11\t20\t200\t8\t0\t0.000\t1.162824825\t64.903756\t20.000000\t0.000000\t0.194711267\t\n12\t20\t200\t8\t0\t120.000\t0.719818483\t24.870655\t4.744125\t15.255875\t0.071822086\t\n13\t2\t200\t8\t0\t120.000\t0.088462685\t0.375631\t0.008806\t1.991194\t0.001121393\t"
+}

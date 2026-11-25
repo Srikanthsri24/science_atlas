@@ -1,0 +1,15 @@
+✔ pouring comparison independently substitutes SI Poiseuille rate and exponential reservoir decay (4.120419ms)
+✔ matched-reference pouring conserves volume and mass and stays laminar over the controls (1.76558ms)
+✔ chosen water drains faster; radius fourth power and length effects remain explicit (0.405372ms)
+✔ pouring model rejects unsupported controls and guide visits three matched radii (2.718597ms)
+✔ pouring records validate paired controls and bound saved history (3.90314ms)
+✔ paired pouring calculations independently substitute both reference decay constants and conserved mass (1.437513ms)
+✔ pouring report escapes prose and contains exam sections with paired substitutions for all trials (2.602834ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1153.057954

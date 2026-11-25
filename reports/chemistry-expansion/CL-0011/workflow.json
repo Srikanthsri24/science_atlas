@@ -1,0 +1,6 @@
+{
+  "paused": "warming ice · -3.006 °C · 0.000 g melted of 100 g. Model time 6.98 s; manual playback compresses time 15×.",
+  "recordingLocked": true,
+  "liveComplete": "warming liquid water · 3.708 °C · 100.000 g melted of 100 g. Model time 600.00 s; manual playback compresses time 15×.",
+  "trials": "1\t100.000\t60.000\t0.000\t0.000\t-5.000000\t100.0000\t0.0000\twarming ice\t\n2\t100.000\t60.000\t6.979\t418.770\t-3.005857\t100.0000\t0.0000\twarming ice\t\n3\t100.000\t60.000\t600.000\t36000.000\t3.708134\t0.0000\t100.0000\twarming liquid water\t\n4\t100.000\t60.000\t120.000\t7200.000\t0.000000\t81.5868\t18.4132\tmelting at 0 °C\t\n5\t100.000\t60.000\t360.000\t21600.000\t0.000000\t38.4731\t61.5269\tmelting at 0 °C\t\n6\t100.000\t0.000\t600.000\t0.000\t-5.000000\t100.0000\t0.0000\tsolid ice · no heat input\t\n7\t200.000\t60.000\t600.000\t36000.000\t0.000000\t98.5030\t101.4970\tmelting at 0 °C\t\n8\t100.000\t30.000\t600.000\t18000.000\t0.000000\t49.2515\t50.7485\tmelting at 0 °C\t"
+}

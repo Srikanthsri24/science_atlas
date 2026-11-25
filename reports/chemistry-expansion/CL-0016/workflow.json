@@ -1,0 +1,6 @@
+{
+  "liveManual30SecondRunCompleted": true,
+  "recordLockedDuringLiveRun": true,
+  "manualPauseResumePassed": true,
+  "table": "Calculated ideal-layer observations · total system = liquid in jar + oil in reservoir\nTrial\tWater mL\tSource oil mL\tRate mL/s\tTime s\tJar oil mL\tOil remaining mL\tWater height cm\tOil height cm\tJar liquid mass g\tTotal liquid mass g\tMy observation\n1\t250\t150\t7.5\t30.000\t150.000000\t0.000000\t8.841941\t5.305165\t377.500000\t377.500000\t\n2\t100\t100\t5\t0.000\t0.000000\t100.000000\t3.536777\t0.000000\t100.000000\t185.000000\t\n3\t100\t100\t5\t30.000\t100.000000\t0.000000\t3.536777\t3.536777\t185.000000\t185.000000\t\n4\t100\t100\t5\t10.000\t50.000000\t50.000000\t3.536777\t1.768388\t142.500000\t185.000000\t\n5\t100\t100\t5\t20.000\t100.000000\t0.000000\t3.536777\t3.536777\t185.000000\t185.000000\t\n6\t100\t100\t0\t30.000\t0.000000\t100.000000\t3.536777\t0.000000\t100.000000\t185.000000\t\n7\t100\t0\t10\t30.000\t0.000000\t0.000000\t3.536777\t0.000000\t100.000000\t100.000000\t\n8\t50\t25\t10\t30.000\t25.000000\t0.000000\t1.768388\t0.884194\t71.250000\t71.250000\t"
+}

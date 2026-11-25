@@ -1,0 +1,7 @@
+{
+  "sameTrayMoveDisabled": true,
+  "pausedTransferRecordLocked": true,
+  "svgSelectionPassed": true,
+  "returnToMixturePassed": true,
+  "table": "Completed transfers only · mass accounting for all 24 objects\nTrial\tMixture g\tGrain tray g\tStone tray g\tRecovered grain g\tRecovery %\tPurity %\tRemaining pieces\tMy observation\n1\t0.000000\t7.200000\t7.200000\t7.200000\t100.000000\t100.000000\t0\t\n2\t14.400000\t0.000000\t0.000000\t0.000000\t0.000000\tUndefined — empty\t24\t\n3\t14.000000\t0.400000\t0.000000\t0.400000\t5.555556\t100.000000\t23\t\n4\t12.800000\t1.600000\t0.000000\t0.400000\t5.555556\t25.000000\t22\t\n5\t12.800000\t0.400000\t1.200000\t0.400000\t5.555556\t100.000000\t22\t\n6\t14.000000\t0.400000\t0.000000\t0.400000\t5.555556\t100.000000\t23\t"
+}

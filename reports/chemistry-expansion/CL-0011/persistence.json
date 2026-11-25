@@ -1,0 +1,15 @@
+{
+  "rows": 8,
+  "observations": [
+    "Initially all 100 g is solid ice at −5 °C.",
+    "The ice warms below 0 °C; no liquid has formed yet.",
+    "At 600 s all 100 g is liquid at about 3.708134 °C.",
+    "At 120 s the mixture is at 0 °C with 18.4132 g melted.",
+    "At 360 s more mass has melted, but temperature remains 0 °C.",
+    "With zero power, ideal insulated ice stays at −5 °C.",
+    "The 200 g sample is still partly solid after the same 36000 J input.",
+    "At 30 W, the 100 g sample has only partly melted by 600 s."
+  ],
+  "prediction": "Ice should first warm to 0 °C, then melt at constant temperature while energy continues to enter. Total water mass should stay equal to the initial ice mass.",
+  "conclusion": "Heat first warms ice, then supplies latent energy while the ideal mixture stays at 0 °C, then warms the liquid. For 100 g at 60 W for 600 s: 1050 J warms ice, 33400 J melts it and 1550 J warms water. Total mass remains 100 g. Greater initial mass or lower heater power leaves some ice at 600 s. This model excludes heat losses and gradients."
+}

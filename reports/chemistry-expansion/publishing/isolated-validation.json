@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "reviewedChemistryLabs": 25,
+  "testCount": 1863,
+  "failed": 0,
+  "originalScienceConceptChecks": 408,
+  "originalPracticalAnimatedStates": 6120,
+  "inventoryValidation": "passed \u2014 257 original records preserved, 408 concepts, 55 partial source-backed mappings; no fully verified textbook-mapping claim",
+  "chemistrySourceHashLedger": "passed \u2014 25 ready entries",
+  "typescript": "passed",
+  "githubPagesProductionBuild": "passed with /science_atlas/ base",
+  "testedInputFileCount": 402,
+  "unrelatedStagedFilesExcluded": 146,
+  "notClaimed": [
+    "Independent expert certification",
+    "Physical-device certification",
+    "Official board alignment",
+    "Completion of all 270 labs"
+  ]
+}

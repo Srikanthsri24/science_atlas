@@ -1,0 +1,6 @@
+{
+  "conclusion": "The droplets come from water vapour initially inside the sealed jar. At the same initial air conditions, the 10 °C lid produces 0.034407373 g liquid by 300 s, while the 25 °C lid produces 0.013997520 g and the 40 °C control produces none. Remaining vapour plus liquid equals the initial inventory. Initial relative humidity differs from the current humidity as vapour is removed. Temperatures are externally maintained, and the transfer coefficient and fifty droplet sites are chosen teaching assumptions.",
+  "lastNote": "A 25 °C lid is below bulk air temperature but does not condense the lower-humidity sample: its initial vapour pressure is below lid saturation pressure.",
+  "prediction": "A sufficiently cool lid should collect liquid from water vapour already in the sealed jar. A warmer lid or lower initial humidity may prevent net condensation. Vapour plus droplets should keep the same total water mass.",
+  "rows": 10
+}

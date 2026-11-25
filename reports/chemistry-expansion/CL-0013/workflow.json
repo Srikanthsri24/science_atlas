@@ -1,0 +1,6 @@
+{
+  "observationRows": "Calculated model observations · starting water volume, not final solution volume\nTrial\tMaterial\tAdded g\tWater mL\tStirring\tTime s\tDissolved g\tSolid g\tTotal g\tMy observation\n1\tsalt\t50\t100\t1\t0.00\t0.000000\t50.000000\t150.000000\t\n2\tsalt\t20\t100\t1\t0.00\t0.000000\t20.000000\t120.000000\t\n3\tsalt\t20\t100\t1\t120.00\t19.950425\t0.049575\t120.000000\t\n4\tsand\t20\t100\t1\t120.00\t0.000000\t20.000000\t120.000000\t\n5\tsalt\t20\t100\t0\t120.00\t13.976116\t6.023884\t120.000000\t\n6\tsalt\t50\t100\t1\t120.00\t35.910765\t14.089235\t150.000000\t\n7\tsalt\t50\t250\t1\t120.00\t49.876062\t0.123938\t300.000000\t\n8\tsalt\t0\t250\t1\t120.00\t0.000000\t0.000000\t250.000000\t",
+  "manual120SecondRunCompleted": true,
+  "recordingLockedWhileRunning": true,
+  "download": "/Users/macbookpro/Downloads/CL-0013-salt-sand-practical.html"
+}

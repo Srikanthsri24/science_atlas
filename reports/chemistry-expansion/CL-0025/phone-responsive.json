@@ -1,0 +1,52 @@
+{
+  "two": {
+    "overflow": false,
+    "stage": {
+      "bottom": 609.609375,
+      "height": 512.609375,
+      "left": 0,
+      "right": 390,
+      "top": 97,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "viewer": {
+      "bottom": 609.609375,
+      "height": 512.609375,
+      "left": 0,
+      "right": 390,
+      "top": 97,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    }
+  },
+  "three": {
+    "overflow": false,
+    "stage": {
+      "bottom": 591.609375,
+      "height": 494.609375,
+      "left": 0,
+      "right": 390,
+      "top": 97,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "viewer": {
+      "bottom": 591.609375,
+      "height": 494.609375,
+      "left": 0,
+      "right": 390,
+      "top": 97,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    }
+  },
+  "normal": {
+    "overflow": false,
+    "tableScroll": true
+  }
+}

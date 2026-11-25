@@ -1,0 +1,53 @@
+{
+  "labId": "CL-0006",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 mass/force conversion, beam equation, zero recovery, modulus scaling and supported-range bounds; 8 model/record tests",
+    "twoD": "passed \u2014 load-linked bending, unloaded reference and actual-value labels, portrait and landscape",
+    "threeD": "passed \u2014 procedural strip deformation, clamp, load and force arrow; camera orbit",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; dark theme checked",
+    "practicalRecord": "passed \u2014 six trials, observations, prediction and conclusion persisted on reload; downloaded report verified with six worked calculations",
+    "playback": "full live 110-second guide reached comparison; pause/resume, endpoint replay and timeline seek checked",
+    "controls": "fullscreen load change paused and resumed; Escape exited theatre; recording locked while changing load"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "guide-controls.json",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "laptop-3d.png",
+    "model-notes.md",
+    "laptop-2d.png",
+    "persistence.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Emulated viewports, not physical-device certification.",
+    "Chosen elastic moduli, not calibrated material properties.",
+    "Incremental small-deflection Euler\u2013Bernoulli model; display bending exaggerated 5\u00d7.",
+    "Self-weight baseline, clamp compliance, yielding, creep, shear, torsion and dynamic oscillation excluded.",
+    "Official curriculum mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/flexibility.ts": "b2000ff325d39cd97f2c6bc9c45ffd2cea497636921c8ae41a0e770f5f3e5df5",
+    "src/lib/chemistry/flexibilityRecord.ts": "86b9d018801868992f1dc5e6a8b80b545683eff1274b32692ba4b8755a16fc1c",
+    "src/components/chemistry/FlexibilityLab.tsx": "2a643f86933660cadaa2e18a980b5ec23f91332185fcf6ada8b852bd22babbcc",
+    "src/components/chemistry/FlexibilityDiagram.tsx": "e102370e2070fdd7f352d9177b7418b747b26c4c5b697fdcdb4bb69b65d654dd",
+    "src/components/chemistry/FlexibilityScene.tsx": "f43177bbd038b400f730f2cb7b6a5c55263efb639b1715f888b6ad1538611e17",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

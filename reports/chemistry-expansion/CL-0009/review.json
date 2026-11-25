@@ -1,0 +1,56 @@
+{
+  "labId": "CL-0009",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 independent vessel capacities, height inversion, full-range source/receiver/overflow conservation and invalid inputs; seven model/record tests",
+    "twoD": "passed \u2014 source level, three vessel cross-sections, prescribed flow markers, receiver ruler and caught overflow; corrected header overlap and moved stream clear of ruler",
+    "threeD": "passed \u2014 transparent source, pump/pipe, open receivers, model-linked liquid surfaces and catch tray; shape changes and orbit checked",
+    "responsive": "passed \u2014 2D/3D at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; SVG contained; no document overflow; toolbar bounds and dark theme checked",
+    "practicalRecord": "passed \u2014 eight trials including initial, paused, three 100 mL shapes, 200 mL overflow, zero and 400 mL maximum; all text persisted on reload; eight worked substitutions exported",
+    "playback": "uninterrupted 110-second guide completed; live transfer auto-stopped when source emptied; fullscreen pause/resume, guide pause/resume/replay, seek and Escape checked",
+    "boundaryStates": "near-empty 0.2 mL source and small overflow rendered without negative SVG sizes; zero/max water and caught overflow validated"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "wide-vessel.png",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "overflow-2d.png",
+    "laptop-3d.png",
+    "model-notes.md",
+    "laptop-2d.png",
+    "persistence.json",
+    "overflow-3d.png",
+    "verified-lab-preview.png"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device certification.",
+    "Ideal internal dimensions and prescribed 20 mL/s pump flow, not calibrated apparatus or a gravity-drain simulation.",
+    "Level incompressible water; no meniscus, wetting, waves, splashes, evaporation, free-jet dynamics or transit storage.",
+    "Flow markers are schematic; numerical readings are authoritative.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/liquidContainers.ts": "ef222363ed1632687c8d4452390755b43c6aec42192ffa1ae17013ac3e979106",
+    "src/lib/chemistry/liquidContainersRecord.ts": "fab88a703ee2b08d2dc380538e4ec9836907fa7fefa3d03a057e994457c881b7",
+    "src/components/chemistry/ContainerLab.tsx": "56656e4a46ecd4e0d7375155f5870e8697d9c4d3fb0a30de2597ccdf29be6902",
+    "src/components/chemistry/ContainerDiagram.tsx": "bd9e904298dce36c28c012dda9486cb31db7ffbe3a265cc3890989ffa2cc52bb",
+    "src/components/chemistry/ContainerScene.tsx": "edf87e66fbbbaf5f9c309c74b6c805f406ae45894e75c4110ab5752663d72bcd",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

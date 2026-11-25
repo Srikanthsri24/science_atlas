@@ -1,0 +1,5 @@
+{
+  "time": "30",
+  "oil": "0",
+  "display": "Compare the layers\nStarting water: 100 mL\nSource oil: 0 mL\nMetered flow: 5.0 mL/s\nModel time: 30.0 s\nRun 30 s metered transfer\nPhase observation\nZero-oil control: there is no oil to transfer.\nWater / oil layer height\n3.537 / 0.000 cm\nOil in jar / source remaining\n0.000 / 0.000 mL\nLiquid mass · jar / system\n100.000 / 100.000 g\nTeacher extension · base gauge pressure\n346.958 Pa\nRecord displayed layer evidence\n\nPause to record. Start with 100 mL water and 100 mL oil at 5 mL/s. Compare 0, 10 and 20 model seconds. Then try larger volumes, zero flow and zero oil. Compare source plus jar, not the jar alone."
+}

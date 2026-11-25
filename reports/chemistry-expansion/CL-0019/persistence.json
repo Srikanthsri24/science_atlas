@@ -1,0 +1,6 @@
+{
+  "conclusion": "At equal conditions, greater wet area increases net water transfer. At 80 cm², 4.875936 g remains and 5.124064 g has entered ambient air, totaling the starting 10 g. Saturated air at equal temperature gives zero net evaporation. This model assumes constant wet area, maintained temperature and humidity, and a chosen transfer coefficient; it is not a calibrated real drying time.",
+  "lastNote": "Warm dry moving air increases net transfer; 30 g starting mass still closes.",
+  "prediction": "With the same starting water and conditions, more exposed area should transfer more water to the surrounding air. Higher humidity should reduce net evaporation.",
+  "rows": 9
+}

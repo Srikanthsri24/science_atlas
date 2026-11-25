@@ -1,0 +1,110 @@
+[
+  {
+    "name": "phone",
+    "width": 390,
+    "height": 844,
+    "checks": [
+      {
+        "experiment": "leak",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 372,
+          "documentWidth": 390,
+          "stageRight": 371
+        }
+      },
+      {
+        "experiment": "drop",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 372,
+          "documentWidth": 390,
+          "stageRight": 371
+        }
+      }
+    ]
+  },
+  {
+    "name": "tablet",
+    "width": 820,
+    "height": 1180,
+    "checks": [
+      {
+        "experiment": "leak",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 794,
+          "documentWidth": 820,
+          "stageRight": 793
+        }
+      },
+      {
+        "experiment": "drop",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 794,
+          "documentWidth": 820,
+          "stageRight": 793
+        }
+      }
+    ]
+  },
+  {
+    "name": "laptop",
+    "width": 1280,
+    "height": 960,
+    "checks": [
+      {
+        "experiment": "leak",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 1240,
+          "documentWidth": 1280,
+          "stageRight": 956
+        }
+      },
+      {
+        "experiment": "drop",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 1240,
+          "documentWidth": 1280,
+          "stageRight": 956
+        }
+      }
+    ]
+  },
+  {
+    "name": "tv",
+    "width": 1920,
+    "height": 1080,
+    "checks": [
+      {
+        "experiment": "leak",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 1834,
+          "documentWidth": 1920,
+          "stageRight": 1550
+        }
+      },
+      {
+        "experiment": "drop",
+        "pass": true,
+        "svgFit": true,
+        "bounds": {
+          "asideRight": 1834,
+          "documentWidth": 1920,
+          "stageRight": 1550
+        }
+      }
+    ]
+  }
+]

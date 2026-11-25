@@ -1,0 +1,9 @@
+{
+  "startedAt": "2026-11-25T09:47:36.884Z",
+  "finishedObservedAt": "2026-11-25T09:51:44.216Z",
+  "durationSeconds": 110,
+  "finalRenderer": true,
+  "timeline": "110",
+  "finalState": "Mix, dilute and compare\nClear water: 100 mL\nColoured source: 25 mL\nSource dye: 0.100 mg/mL\nStirring setting: 0.00\nModel time: 120.0 s\nShow imaginary sampling guides\nRun 120 s mixing experiment · 6× faster\nTracer mass / nominal liquid volume\n2.500000 mg / 125 mL\nMean concentration\n20.000000 mg/L\nUpper / lower average\n30.976233 / 9.023767 mg/L\nModel uniformity index\n45.1188 %\nObservation\nA concentration difference remains between the sampling regions.\nRecord displayed mixing evidence\n\nPause to record. Compare 100 mL and 200 mL clear water with the same 25 mL coloured source. Then compare stirring 1 and 0 at equal times. Try zero dye as a control. Sampling guides do not add a wall or change the model.",
+  "logs": []
+}

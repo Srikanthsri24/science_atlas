@@ -1,0 +1,6 @@
+{
+  "conclusion": "Both liquids preserve their own starting volume and tared mass. At 100 mL each, radius 0.8 mm and length 20 cm after 3600 model seconds, water collected 99.999932016 mL while oil collected 18.224016704 mL. Head and flow decline together. Real oil properties and surface tension can change real drainage; the reference comparison is ideal.",
+  "observation": "Doubling length gives the same remaining volumes at 3600 s as the shorter tube at 1800 s.",
+  "prediction": "With matched outlets and equal starting volumes, the chosen water reference should drain faster than the more viscous oil reference.",
+  "rows": 9
+}

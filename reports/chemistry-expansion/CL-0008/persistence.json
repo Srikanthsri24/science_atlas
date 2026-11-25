@@ -1,0 +1,13 @@
+{
+  "rows": 6,
+  "observations": [
+    "Before entry, no water is displaced and buoyancy is zero.",
+    "Partial immersion produces an upward buoyancy force.",
+    "Wood floats with slight residual bobbing near its 60% equilibrium fraction.",
+    "The polymer floats more deeply, near its 90% equilibrium fraction.",
+    "Glass rests on the bottom; support is 0.294300 N.",
+    "Steel rests on the bottom; support is 1.334160 N."
+  ],
+  "prediction": "For equal solid-sphere volumes, wood and the chosen polymer should float; glass and steel should sink.",
+  "conclusion": "At equal 20 cm³ volume, the lower-density wood and polymer models float, while glass and steel sink. At 12 s the floating cases still bob, so their transient buoyancy need not equal weight exactly. Bottom support balances weight minus buoyancy for the sinking cases. Hollow shapes and trapped air are outside this solid-sphere comparison."
+}

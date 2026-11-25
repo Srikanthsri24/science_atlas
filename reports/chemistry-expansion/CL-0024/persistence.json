@@ -1,0 +1,6 @@
+{
+  "conclusion": "Matched 150 mL trials show that the ideal sealed jar retains water at 90°. The open tumbler spills through its rim; the holed cup also leaks through its base. Choose a container for the intended task and check its seal. These are slow-tilt model results; real sloshing and small-hole capillary effects are excluded.",
+  "note": "At 90°, all 150 mL has left the holed cup: 118.146459 mL over the rim and 31.853541 mL through the base.",
+  "prediction": "The open tumbler should hold water upright, but the sealed jar should retain it when tilted. The holed cup should lose water even upright.",
+  "rows": 11
+}

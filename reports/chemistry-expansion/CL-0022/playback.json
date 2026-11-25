@@ -1,0 +1,8 @@
+{
+  "startedAt": "2026-11-25T10:50:10.598Z",
+  "finishedObservedAt": "2026-11-25T10:52:57.143Z",
+  "durationSeconds": 110,
+  "timeline": "110",
+  "stagedFineGrainTime": true,
+  "state": "Compare grain size and stirring\nStarting sugar: 10 g\nStarting water: 200 mL\nNumber of equal model grains\n8 grains\n64 grains\n216 grains\n512 grains\n1000 grains\nStirring setting: 0.00\nModel time: 120.0 s\nShow geometry guides\nRun 120 s sugar experiment · 6× faster\nSolid / dissolved sugar\n1.370962 / 8.629038 g\nSugar accounted\n10.000000 / 10 g\nGrain side / current exposed area\n0.475897 cm / 10.870931 cm²\nCurrent model dissolution rate\n0.031923044 g/s\nDissolved composition\n4.314519 g per 100 g starting water\nCurrent observation\nSolid grains remain; dissolution is incomplete.\nRecord displayed sugar evidence\n\nCompare 8 and 512 grains with the same sugar mass, water and stirring. Then compare stirring 0 and 0.5 at equal time. A clear liquid may contain dissolved sugar."
+}

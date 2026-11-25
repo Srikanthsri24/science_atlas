@@ -1,0 +1,57 @@
+{
+  "labId": "CL-0010",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 independent contact/weight substitution, equal-angle dry/damp comparison, bridge rupture, end-stop bound, held-tilt guide and record validity; seven model/record tests",
+    "twoD": "passed \u2014 rotating tray, visible clamp, model-linked slice travel, contact inset and numerical force limits; corrected support/text clearance and slice/tray contact",
+    "threeD": "passed \u2014 procedural granular slice on tilt tray, visible clamp and end rail, enlarged curved liquid-bridge inset, bridge rupture and camera orbit",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; SVG fit and no document overflow; final contact correction captured in all eight mode/device images; dark theme checked",
+    "practicalRecord": "passed \u2014 eight trials including clamped reference, paused sliding, dry/damp at 40\u00b0, damp 55\u00b0/60\u00b0, horizontal and ideal dry threshold; all student text persisted; report exported with eight substitutions",
+    "playback": "uninterrupted 110-second guide completed; full manual 3-second model-time trial at 6\u00d7 slower playback; fullscreen pause/resume, guide replay/seek and Escape checked",
+    "recordingGate": "passed \u2014 live motion locks recording; clamped, paused and completed states are distinguished"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "maximum-angle-2d.png",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "laptop-3d.png",
+    "model-notes.md",
+    "final-contact-check.json",
+    "laptop-2d.png",
+    "persistence.json",
+    "verified-lab-preview.png"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Emulated viewports, not physical-device certification.",
+    "Illustrative failure-plane and sliding-plug model, not individual grain dynamics or calibrated soil strength.",
+    "Chosen 500 bridges are not a water-content percentage; complete-wetting contact estimate is used.",
+    "Bridges rupture at failure; no reformation, grain rearrangement, drainage, vibration or detailed liquid-bridge solution.",
+    "Same friction coefficient before/after failure; perfectly inelastic end stop.",
+    "Grains and contact inset are enlarged; motion is replayed 6\u00d7 slower with model time recorded.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/sandCohesion.ts": "1a9e28118f9ae53bf2e33bd93990d31ddfb9449d24effaaa8d923efd05294ce9",
+    "src/lib/chemistry/sandRecord.ts": "5b93f6582292f9ed657b82a6c1fd933b51c154ae6375256145e5f0bca098f127",
+    "src/components/chemistry/SandLab.tsx": "90f748c656d18419139f87f300d825e00347379e0451bd3c395bc6cea7acd790",
+    "src/components/chemistry/SandDiagram.tsx": "b68eccb9c55c8932961f4d75474c8e224b16be80222e0935282022fe30622c4f",
+    "src/components/chemistry/SandScene.tsx": "a7f2b6fd3719cd3a6ccb2533cbf483bc3630b554cb24b9b8da40ebeb4f7d9999",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

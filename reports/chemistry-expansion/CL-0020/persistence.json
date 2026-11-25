@@ -1,0 +1,6 @@
+{
+  "conclusion": "Two 1 µL drops join to a represented volume of 2 µL. Their curved liquid–air area decreases from 7.676633 to 6.092948 mm², about 20.63%. A no-contact trial retains two drops. The model uses an ideal 90° contact angle and a volume-conserving geometric relaxation; its chosen timings do not predict real coalescence speed.",
+  "lastNote": "At 6 s the controlled approach has not yet reached contact.",
+  "prediction": "The two water volumes should add when the drops touch. The final joined drop should have less curved surface area than the two starting drops. If they remain separated, two drops should remain.",
+  "rows": 9
+}

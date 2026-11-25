@@ -1,0 +1,28 @@
+{
+  "fullGuideSeconds": 110,
+  "fullGuideObservedEnd": true,
+  "manualLiveRunSeconds": 30,
+  "manualPauseResume": true,
+  "recordingLockedDuringPlayback": true,
+  "recordingEnabledPausedAndAtEnd": true,
+  "guideSeekTo110": true,
+  "replayFromEndObservedTime": 0.1727,
+  "twoDAnimationObservedAtSeconds": 29,
+  "twoDAtThatTime": "85.3 degree tilt; 13.50 mL retained; 136.50 mL spilled",
+  "bothFormatControls": true,
+  "escapeClosesTheatre": true,
+  "darkLightToggle": true,
+  "parameterBoundariesTested": {
+    "waterMl": [
+      50,
+      200
+    ],
+    "targetTiltDeg": [
+      0,
+      100
+    ]
+  },
+  "observationsRetainedAfterReload": 11,
+  "noConsoleWarningsOrErrorsObserved": true,
+  "scope": "GUI interaction tests and source/model checks; no physical-device or independent expert certification"
+}

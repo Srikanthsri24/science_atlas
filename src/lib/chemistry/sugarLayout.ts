@@ -1,0 +1,3 @@
+import {sugarGrainCounts} from './sugarCrystals';
+/** Grain centres in centimetres on a permeable support 0.1 cm above the floor. */
+export function sugarGrainPose(index:number,count:number,sideCm:number){if(!sugarGrainCounts.includes(count as typeof sugarGrainCounts[number])||!Number.isInteger(index)||index<0||index>=count||!Number.isFinite(sideCm)||sideCm<0||sideCm>2)throw new RangeError('Supported grain index/count and side 0–2 cm required');const columns=Math.ceil(Math.sqrt(count)),pitch=9.6/columns;return{x:(index%columns-(columns-1)/2)*pitch,y:.1+sideCm/2,z:(Math.floor(index/columns)-(columns-1)/2)*pitch}}

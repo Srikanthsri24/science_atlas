@@ -1,0 +1,23 @@
+{
+  "rows": 16,
+  "observations": [
+    "Initial water hold: neither test is complete.",
+    "A paused paper hold has already lost water.",
+    "Paper retains 55.984665 mL and catches 144.015335 mL after 60 s.",
+    "The separate dry specimen is ready; no drop has occurred.",
+    "Before impact, the cup is falling and no damage result is assigned.",
+    "Paper exceeds its chosen damage threshold after impact and also fails retention.",
+    "Polymer holds all 200 mL; the drop test is still incomplete.",
+    "Polymer meets both chosen criteria at 0.30 m.",
+    "Glass holds water but still needs a drop test.",
+    "Glass exceeds its scenario threshold at 0.30 m.",
+    "Steel holds water; the drop test is still incomplete.",
+    "Steel meets both chosen criteria at 0.30 m.",
+    "Glass meets both criteria in the gentler 0.05 m scenario.",
+    "Zero-fill is a control and cannot complete the 200 mL comparison.",
+    "Steel exceeds the chosen threshold at the 1 m maximum height.",
+    "Zero-height is a control, not a completed drop."
+  ],
+  "choice": "polymer",
+  "conclusion": "For the chosen 200 mL/60 s and 0.30 m empty-drop criteria, polymer and steel meet both tests. I choose polymer when lower dry mass matters for matched dimensions. Glass holds water but fails the 0.30 m scenario; it meets the gentler 0.05 m scenario. Paper loses water. Incomplete and zero controls cannot establish a completed comparison. These illustrative thresholds do not certify real drinking-cup safety or environmental superiority."
+}

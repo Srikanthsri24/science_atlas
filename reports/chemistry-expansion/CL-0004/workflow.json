@@ -1,0 +1,22 @@
+[
+  {
+    "sample": "paper",
+    "recordingLockedUntilWeighing": true,
+    "caption": "Wet mass: 7.836 g. Compare it with the dry mass of 2.000 g."
+  },
+  {
+    "sample": "cloth",
+    "recordingLockedUntilWeighing": true,
+    "caption": "Wet mass: 5.107 g. Compare it with the dry mass of 2.000 g."
+  },
+  {
+    "sample": "plastic",
+    "recordingLockedUntilWeighing": true,
+    "caption": "Wet mass: 2.000 g. Compare it with the dry mass of 2.000 g."
+  },
+  {
+    "sample": "paper",
+    "recordingLockedUntilWeighing": true,
+    "caption": "Wet mass: 0.500 g. Compare it with the dry mass of 0.500 g."
+  }
+]

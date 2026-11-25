@@ -1,0 +1,27 @@
+{
+  "name": "phone",
+  "width": 390,
+  "height": 844,
+  "checks": [
+    {
+      "experiment": "leak",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 372,
+        "documentWidth": 390,
+        "stageRight": 371
+      }
+    },
+    {
+      "experiment": "drop",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 372,
+        "documentWidth": 390,
+        "stageRight": 371
+      }
+    }
+  ]
+}

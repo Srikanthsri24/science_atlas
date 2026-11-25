@@ -1,0 +1,25 @@
+{
+  "pausedGuideTime": "88.66060000000894",
+  "replayedTime": "0.33206400000298164",
+  "theatreExited": true,
+  "errors": [],
+  "historicalDevelopmentErrors": [
+    {
+      "level": "error",
+      "message": "The final argument passed to %s changed size between renders. The order and size of this array must remain constant.\n\nPrevious: %s\nIncoming: %s useEffect [[object Object], [object Object], 352, 625.7734375, (frames = 1) => invalidate2(get(), frames), drop, 0.3] [[object Object], [object Object], 352, 625.7734375, (frames = 1) => invalidate2(get(), frames), drop, 0.3, false]",
+      "timestamp": "2026-11-25T07:31:03.862Z",
+      "url": "http://localhost:5182/node_modules/.vite-science-atlas-360/deps/@react-three_fiber.js?v=42ca7d33"
+    }
+  ],
+  "cleanLoadCheck": {
+    "startedAt": "2026-11-25T07:38:13.160Z",
+    "checks": [
+      "cutaway off/on",
+      "water/drop switch",
+      "impact inspection and overview",
+      "height change",
+      "inspection back to water view"
+    ],
+    "errors": []
+  }
+}

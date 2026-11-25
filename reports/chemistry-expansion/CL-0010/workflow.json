@@ -1,0 +1,5 @@
+{
+  "paused": "Dry sand model · 40.0° · sliding · 5.681 mm travel. Model time 0.076 s; motion is replayed 6× slower.",
+  "recordingLocked": true,
+  "trials": "1\tDry sand model\t40.000\t0.000\t0.1261149\t0.0867745\t0.0000000\t0.000\theld by clamp\t\n2\tDry sand model\t40.000\t0.076\t0.1261149\t0.0867745\t0.0000000\t5.681\tsliding\t\n3\tDry sand model\t40.000\t3.000\t0.1261149\t0.0867745\t0.0000000\t150.000\treached end stop\t\n4\tDamp sand model\t40.000\t3.000\t0.1261149\t0.0867745\t0.0565487\t0.000\tresists sliding\t\n5\tDamp sand model\t55.000\t3.000\t0.1607176\t0.0649725\t0.0565487\t150.000\treached end stop\t\n6\tDamp sand model\t0.000\t3.000\t0.0000000\t0.1132761\t0.0565487\t0.000\tresists sliding\t\n7\tDry sand model\t30.000\t3.000\t0.0981000\t0.0981000\t0.0000000\t0.000\tresists sliding\t\n8\tDamp sand model\t60.000\t3.000\t0.1699142\t0.0566381\t0.0565487\t150.000\treached end stop\t"
+}

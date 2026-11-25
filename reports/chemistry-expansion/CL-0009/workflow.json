@@ -1,0 +1,4 @@
+{
+  "paused": "Narrow cylinder · 8.452 mL retained at 0.673 cm. Source + receiver + catch = 100.000 mL.",
+  "trials": "1\tNarrow cylinder\t100.000\t0.000\t100.000000\t0.000000\t0.000000\t0.000000\t\n2\tNarrow cylinder\t100.000\t0.423\t91.548000\t8.452000\t0.000000\t0.672589\t\n3\tNarrow cylinder\t100.000\t5.034\t0.000000\t100.000000\t0.000000\t7.957747\t\n4\tWide rectangular vessel\t100.000\t20.000\t0.000000\t100.000000\t0.000000\t3.125000\t\n5\tFlared vessel\t100.000\t20.000\t0.000000\t100.000000\t0.000000\t5.018236\t\n6\tNarrow cylinder\t200.000\t20.000\t0.000000\t125.663706\t74.336294\t10.000000\t\n7\tNarrow cylinder\t0.000\t0.000\t0.000000\t0.000000\t0.000000\t0.000000\t\n8\tNarrow cylinder\t400.000\t20.000\t0.000000\t125.663706\t274.336294\t10.000000\t"
+}

@@ -1,0 +1,15 @@
+{
+  "trials": 9,
+  "notes": [
+    "The 200 cm² dish is dry by 7200 s; all 10 g is accounted in ambient air.",
+    "Initial 80 cm² state: all 10 g remains liquid.",
+    "After 7200 s at 80 cm², 5.124064 g transferred and 4.875936 g remains.",
+    "With 20 cm², only 1.281016 g transferred at equal time.",
+    "At 3600 s, the 80 cm² dish has transferred half its two-hour amount.",
+    "At 100% humidity and equal temperature, net evaporation is zero.",
+    "Initially empty: no water to evaporate and no drying completion result.",
+    "Cool, no-air-movement setting retains background transfer; maximum initial depth fits inside dish.",
+    "Warm dry moving air increases net transfer; 30 g starting mass still closes."
+  ],
+  "table": "Remaining liquid and water transferred to the surrounding air\nTrial\tStart mL\tArea cm²\t°C\tRH %\tAir setting\tTime s\tRemaining g\tTransferred g\tCurrent g/s\tMy observation\n1\t10\t200\t35\t25\t0.5\t7200.0\t0.000000\t10.000000\t0.000000000\t\n2\t10\t80\t35\t25\t0.5\t0.0\t10.000000\t0.000000\t0.000711676\t\n3\t10\t80\t35\t25\t0.5\t7200.0\t4.875936\t5.124064\t0.000711676\t\n4\t10\t20\t35\t25\t0.5\t7200.0\t8.718984\t1.281016\t0.000177919\t\n5\t10\t80\t35\t25\t0.5\t3600.0\t7.437968\t2.562032\t0.000711676\t\n6\t10\t80\t35\t100\t0.5\t7200.0\t10.000000\t0.000000\t0.000000000\t\n7\t0\t80\t35\t100\t0.5\t7200.0\t0.000000\t0.000000\t0.000000000\t\n8\t30\t20\t10\t0\t0\t7200.0\t29.864681\t0.135319\t0.000018794\t\n9\t30\t200\t40\t0\t1\t7200.0\t0.000000\t30.000000\t0.000000000\t"
+}

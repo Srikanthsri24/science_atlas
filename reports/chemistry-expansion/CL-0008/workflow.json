@@ -1,0 +1,22 @@
+{
+  "paused": "Wood sphere model · 0.29 s · 24.65% submerged. Watch the sphere bob toward its floating equilibrium.",
+  "recordingLocked": true,
+  "trials": [
+    {
+      "sample": "wood",
+      "caption": "Wood sphere model · 12.00 s · 61.14% submerged. Watch the sphere bob toward its floating equilibrium."
+    },
+    {
+      "sample": "polymer",
+      "caption": "Polymer sphere model · 12.00 s · 91.70% submerged. Watch the sphere bob toward its floating equilibrium."
+    },
+    {
+      "sample": "glass",
+      "caption": "Glass sphere model · 12.00 s · 100.00% submerged. The bottom supports the part of the weight not balanced by buoyancy."
+    },
+    {
+      "sample": "steel",
+      "caption": "Steel sphere model · 12.00 s · 100.00% submerged. The bottom supports the part of the weight not balanced by buoyancy."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "sample": "polymer",
+    "transitionRecordingLocked": true,
+    "caption": "Flexible-polymer model · applied 5.000 g · actual tip bend 3.065625 mm. Compare the numerical bend, not the magnified picture."
+  },
+  {
+    "sample": "wood",
+    "transitionRecordingLocked": true,
+    "caption": "Wood-strip model · applied 5.000 g · actual tip bend 0.015328 mm. Compare the numerical bend, not the magnified picture."
+  },
+  {
+    "sample": "steel",
+    "transitionRecordingLocked": true,
+    "caption": "Steel-strip model · applied 5.000 g · actual tip bend 0.000766 mm. Compare the numerical bend, not the magnified picture."
+  },
+  {
+    "sample": "polymer",
+    "transitionRecordingLocked": true,
+    "caption": "Flexible-polymer model · applied 8.000 g · actual tip bend 4.905000 mm. Compare the numerical bend, not the magnified picture."
+  }
+]

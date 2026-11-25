@@ -1,0 +1,50 @@
+{
+  "labId": "CL-0005",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 mean removal, average absolute deviation, RMS, peak-to-valley, field/profile agreement, directional scans, invalid inputs and complete scan hold states",
+    "twoD": "passed \u2014 moving probe, shared-scale acquired height trace, partial-to-complete point count and readable portrait view",
+    "threeD": "passed \u2014 irregular synthetic grain caps, model-linked stylus, surface mesh and scan path, magnification labels and camera orbit",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; dark theme checked; expanded 101-row data table contained on phone",
+    "practicalRecord": "passed \u2014 five conditions with relative grouping, observations and conclusion persisted after reload; exported five worked calculations and 505 raw readings",
+    "playback": "full live 110-second guide reached final comparison; timed 25-second scan completed; pause/resume, replay, seek and theatre Escape checked",
+    "recordingGate": "passed \u2014 partial scan recording locked; complete scans accepted; fullscreen experiment controls paused at 3 points and resumed beyond 54 points"
+  },
+  "evidence": [
+    "workflow.json",
+    "playback.json",
+    "responsive.json",
+    "persistence.json",
+    "tested-practical-report.html",
+    "camera-orbit.png",
+    "dark-laptop.png",
+    "phone-2d.png",
+    "phone-3d.png",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "laptop-2d.png",
+    "laptop-3d.png",
+    "tv-2d.png",
+    "tv-3d.png"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device certification.",
+    "Original synthetic topographies, not measured material data.",
+    "An ideal point sampler is used; no tip convolution, haptic sensation, friction prediction or standards-compliant filtering is calculated.",
+    "3D height is exaggerated 50\u00d7; surface mesh is a sampled rendering of the same analytic field.",
+    "One profile samples one line; grouping is relative to the chosen comparison set.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/roughness.ts": "4628a69d122913a5ea23200e8caa72aa09d09b213f9ebf4baf3f04befa32096e",
+    "src/lib/chemistry/roughnessRecord.ts": "f94d690a43bf445bbcd78e3df80c0c3955d38aa326c94067591df3c93800cb6b",
+    "src/components/chemistry/RoughnessLab.tsx": "745f0febbeab532c4fc9d891b386797d0a4cc31fe4a4ba67b3e1124000fc034f",
+    "src/components/chemistry/RoughnessScene.tsx": "1345f0d4f86b2a5febe00ed4bca5c5712b213a09cd9d7c844914b45c1dcab8bf",
+    "src/components/chemistry/RoughnessDiagram.tsx": "d7f17007241896e2d378d028a8400d468c10a686b0332767d9fa6950a140a418",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}

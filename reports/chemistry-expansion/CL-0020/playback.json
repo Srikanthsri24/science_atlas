@@ -1,0 +1,8 @@
+{
+  "startedAt": "2026-11-25T10:18:07.689Z",
+  "finishedObservedAt": "2026-11-25T10:20:21.264Z",
+  "durationSeconds": 110,
+  "finalMaterial": true,
+  "timeline": "110",
+  "state": "Bring the drops together\nDrop A: 1.0 µL\nDrop B: 1.0 µL\nInitial air gap: 1.0 mm\nBring droplets into contact\nModel time: 20.0 s\nShow geometry guides\nRun 20 s droplet experiment\nDrops present\n2\nTotal represented volume\n2.000000 µL\nCurrent liquid–air area\n7.676633 mm²\nCurrent liquid–air surface energy\n0.558398 µJ\nObservation\nNo contact: two drops remain separate.\nRecord displayed droplet evidence\n\nPause before contact, during relaxation and after joining. Compare equal and unequal drops. Disable contact as a control. Record current area separately from the hypothetical joined endpoint."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "tv",
+  "width": 1920,
+  "height": 1080,
+  "checks": [
+    {
+      "experiment": "leak",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 1834,
+        "documentWidth": 1920,
+        "stageRight": 1550
+      }
+    },
+    {
+      "experiment": "drop",
+      "pass": true,
+      "svgFit": true,
+      "bounds": {
+        "asideRight": 1834,
+        "documentWidth": 1920,
+        "stageRight": 1550
+      }
+    }
+  ]
+}

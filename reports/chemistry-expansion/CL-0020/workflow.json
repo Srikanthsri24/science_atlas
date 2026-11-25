@@ -1,0 +1,15 @@
+{
+  "trials": 9,
+  "notes": [
+    "No-contact control retains two drops and the initial area.",
+    "Initial equal-drop state: combined volume 2 µL.",
+    "After live manual playback, one ideal hemisphere remains; area is smaller.",
+    "At 10 s the half-spheroid is still relaxing; represented volume remains 2 µL.",
+    "Unequal drops 0.4 + 2 µL give 2.4 µL after joining.",
+    "Minimum drops join to 0.4 µL.",
+    "Maximum initial drops and 2 mm air gap fit on the magnified plane.",
+    "Maximum drops join to 4 µL without volume loss.",
+    "At 6 s the controlled approach has not yet reached contact."
+  ],
+  "table": "Conserved volume and changing liquid–air area\nTrial\tA µL\tB µL\tInitial gap mm\tProtocol\tTime s\tDrops\tTotal µL\tArea mm²\tMy observation\n1\t1\t1\t1\tKeep separated\t20.000\t2\t2.000000\t7.676633\t\n2\t1\t1\t1\tApproach\t0.000\t2\t2.000000\t7.676633\t\n3\t1\t1\t1\tApproach\t20.000\t1\t2.000000\t6.092948\t\n4\t1\t1\t1\tApproach\t10.000\t1\t2.000000\t6.206323\t\n5\t0.4\t2\t1\tApproach\t20.000\t1\t2.400000\t6.880420\t\n6\t0.2\t0.2\t0.2\tApproach\t20.000\t1\t0.400000\t2.083759\t\n7\t2\t2\t2\tApproach\t0.000\t2\t4.000000\t12.185896\t\n8\t2\t2\t2\tApproach\t20.000\t1\t4.000000\t9.671952\t\n9\t2\t2\t2\tApproach\t6.000\t2\t4.000000\t12.185896\t"
+}

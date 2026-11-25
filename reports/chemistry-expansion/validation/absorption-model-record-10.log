@@ -1,0 +1,18 @@
+✔ absorption record rejects corrupt parameters and limits saved text and rows (3.479794ms)
+✔ absorption calculation substitutes capacity, rate, density and percentage (0.767809ms)
+✔ absorption report escapes student entries and includes every recorded condition (1.914082ms)
+✔ balance reading is withheld while immersed or moving and movement is bounded (3.422523ms)
+✔ retained-water model conserves water and wet mass across full control bounds (16.99239ms)
+✔ initial, empty-bath and chosen plastic boundaries have no retained water (0.509795ms)
+✔ mass gain and percentage uptake match independently substituted examples (0.380498ms)
+✔ retained-water model rejects invalid input and cannot divide by zero dry mass (1.653732ms)
+✔ absorption guide has 110 seconds of dry weighing, controlled soaking and comparison (5.710756ms)
+✔ absorption workflow weighs after soaking and draining, never while immersed (1.218194ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1104.061032

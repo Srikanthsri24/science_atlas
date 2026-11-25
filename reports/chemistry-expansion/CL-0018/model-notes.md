@@ -1,0 +1,11 @@
+# CL-0018 — coloured-water mixing and dilution
+
+Internally reviewed 2026-11-25. Begins after coloured source addition; there is no simulated pouring step.
+
+M = source volume × source concentration. V = clear + coloured nominal volume. Two equal imaginary sampling zones have mean C = M/V and concentrations C(1 ± exp(−kt)), with chosen k = 0.005 + 0.095 × stirring s⁻¹. Each zone mass is concentration × V/2; their sum is exactly M. Equivalent exchange q = kV/4. More clear water changes mean concentration without changing dye mass. Stirring affects redistribution, not mean concentration. Background exchange remains at stirring 0.
+
+No tracer means uniformity is not observable. Nearly uniform requires tracer and contrast below 1%; finite-time values are not forced to equality. The zones are sampling averages, not immiscible layers, walls or a resolved flow field. Additive volumes are nominal; solvent density changes, adsorption, evaporation and reactions are excluded. Colour is an explanatory cue, not calibrated photometry. This is a conservative teaching exchange model, not calibrated diffusion or CFD.
+
+Seven model/record tests passed; full application regression 1837 passed. Final 110-second guide completed live after fixing shader invalidation at zero stirring. A 120-model-second manual experiment completed live at 6×. Pause/resume, replay, seek, record lock, sampling guide visibility, orbit, zoom, Escape and dark theme checked. Eleven GUI-recorded trials cover initial/final/partial mixing, same-mass dilution, zero concentration, zero source, and volume/concentration boundaries. Downloaded HTML includes all eleven worked substitutions and escaped student notes. Reload preserved prediction, conclusion and notes. Both viewers checked at 390×844, 820×1180, 1280×960 and 1920×1080; no document overflow or stage/content size mismatch. Fresh 3D load and stationary time updates produced no runtime warnings/errors.
+
+Development captures retain earlier contrast and initial playback for traceability. Final responsive captures, stationary-render-check.json and playback.json reflect corrected shader invalidation and contrast. Internal engineering/model-consistency review only; no independent expert, official board or physical-device certification.

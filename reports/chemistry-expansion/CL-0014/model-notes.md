@@ -1,0 +1,13 @@
+# CL-0014 — Recover visible solids by handpicking
+
+This original discrete sorting investigation uses 18 model grains of 0.4 g each and 6 model stones of 1.2 g each. Both species therefore begin with 7.2 g; the starting total is 14.4 g. These are chosen specimen masses, not real rice calibration data.
+
+Each object retains its ID, species and mass. A completed transfer changes only its tray. Shared source/destination coordinates drive both visualizations; a smooth controlled lift carries the selected object to its destination over 3.5 seconds. In-flight mass remains assigned to its source until placement completes. Recording is disabled during any in-flight transfer, even when paused. Returning to manual control adopts completed guide transfers.
+
+Grain recovery is actual grain mass in the grain tray divided by starting grain mass. Grain-tray purity is actual grain mass in that tray divided by all mass in that tray. Empty-tray purity is undefined, not 100%. One recovered grain has 100% purity but only 5.555556% recovery. Adding one stone produces 25% purity without changing recovery. Both measures reach 100% only after the appropriate full separation; completion additionally checks every object's correct tray.
+
+The guide lasts 110 seconds: inspection for 10 seconds, 24 controlled transfers at 3.5 seconds each, then a final comparison. Stones are removed first, followed by grains. The manual investigation allows deliberate contamination, correction, reverse transfer to the mixture, pause/resume and mixture reset without deleting recorded trials.
+
+The 3D scene uses procedural grain shapes, angular stones, rimmed trays and a picking tool. The 2D view uses the same object identities and transfer positions in schematic projection. No contact, collision or granular dynamics solver is claimed. These visible specimens illustrate when handpicking is useful; the method cannot remove dissolved material or reliably separate visually indistinguishable fine particles. No food-safety claim is implied.
+
+Internal review evidence includes eight meaningful model/record tests, a live full guide, manual grain and stone transfers, contamination and correction, reverse transfers, record locking, direct 2D/3D selection, six saved observation states, escaped HTML report export with audit trails, reload persistence, camera orbit, playback controls, a clean-load console check, dark mode and both views at four emulated viewports. A landscape tool/title overlap was corrected and all four 2D sizes rechecked. Independent expert, official board and physical-device certification remain outside these internal checks.

@@ -1,0 +1,14 @@
+✔ three samples preserve 64 equal-radius particles with correct chosen number density (713.344812ms)
+✔ elastic particle samples preserve kinetic energy and stay in separated reflecting regions (84.175072ms)
+✔ solid particles vibrate around fixed anchors with conserved oscillator energy (5.088064ms)
+✔ dense liquid particles actually exchange close neighbours over time (25.98021ms)
+✔ selection, displacement and replay are deterministic without mutable cache exposure (4.433262ms)
+✔ all stored collision frames remain inside the region without significant sphere penetration (1188.842035ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2940.397357

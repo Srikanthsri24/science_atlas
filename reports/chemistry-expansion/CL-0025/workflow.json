@@ -1,0 +1,9 @@
+{
+  "table": "64 representative particles in every sample · all distances in arbitrary model units u\nTrial\tSample\tPresentation s\tModel τ\tTracked particle\tCount\tMean nearest u\tNet displacement u\tClose now\tInitial lost\tMy observation\n1\tgas\t30.000\t30.000000\t1\t64\t1.791051\t7.320994\t0\t0\t\n2\tliquid\t0.000\t0.000000\t1\t64\t0.936675\t0.000000\t5\t0\t\n3\tliquid\t30.000\t30.000000\t1\t64\t0.951493\t2.054686\t5\t4\t\n4\tliquid\t10.398\t10.383333\t1\t64\t0.943962\t0.975747\t6\t1\t\n5\tliquid\t30.000\t30.000000\t1\t64\t0.951493\t2.054686\t5\t4\t\n6\tsolid\t0.000\t0.000000\t1\t64\t1.063769\t0.000000\t3\t0\t\n7\tsolid\t30.000\t30.000000\t1\t64\t1.063005\t0.033194\t3\t0\t\n8\tgas\t0.000\t0.000000\t1\t64\t1.774660\t0.000000\t0\t0\t\n9\tgas\t30.000\t30.000000\t64\t64\t1.791051\t7.599072\t0\t1\t\n10\tsolid\t30.000\t30.000000\t64\t64\t1.063005\t0.026982\t3\t0\t",
+  "notes": {
+    "conclusion": "All three samples kept 64 equal-radius representative particles. The crystalline example vibrated around fixed sites. The dense liquid analogy changed close neighbours, while the dilute gas explored its larger region. Net displacement differs from path length. These are prescribed model samples in arbitrary units; selecting a state did not simulate heating or liquid cohesion.",
+    "first": "Gas at 30 presentation seconds: 64 particles remain, mean nearest spacing 1.791051 u and tracked net displacement 7.320994 u.",
+    "prediction": "I expect fixed-site vibration in the solid example, close particles changing neighbours in the liquid analogy, and freer motion with wider gaps in the gas model."
+  },
+  "logs": []
+}

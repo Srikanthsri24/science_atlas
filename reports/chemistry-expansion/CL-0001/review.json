@@ -1,0 +1,57 @@
+{
+  "labId": "CL-0001",
+  "title": "Sort objects by their material",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "class": 1,
+  "animationSeconds": 100,
+  "checks": {
+    "classificationModel": "passed \u2014 known sample identities, unique-object count, wrong/correct placements and record validation",
+    "twoD": "passed \u2014 selected states, accessible SVG controls and keyboard sorting",
+    "threeD": "passed \u2014 procedural samples and trays, camera controls, selected states and portrait rearrangement",
+    "responsive": "passed \u2014 viewport checks at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; both viewer modes",
+    "practicalRecord": "passed \u2014 eight recorded trials retained through browser storage, prediction/result/conclusion, formula-free classification reasoning and report export",
+    "fullscreen": "working theatre fallback verified; native fullscreen was declined by the embedded browser",
+    "playback": "live playback advanced from 0.1118 s to 30.9025 s; seek to 100 s and final state verified; pure model states sampled across the full timeline"
+  },
+  "evidence": [
+    "responsive.json",
+    "class-navigation.json",
+    "persistence.json",
+    "playback.json",
+    "fullscreen.json",
+    "tested-practical-report.html",
+    "phone-2d.png",
+    "phone-3d.png",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "laptop-2d.png",
+    "laptop-3d.png",
+    "tv-2d.png",
+    "tv-3d.png",
+    "completed-demonstration.png",
+    "camera-orbit.png"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent scientific certification.",
+    "Viewport emulation, not a physical-device test programme.",
+    "Selected visual states reviewed; no claim that every video frame was watched.",
+    "Specified main materials are given for representative virtual samples. No composition, hardness or reactivity is measured.",
+    "Animation movement is staged classification, not a force calculation.",
+    "Glass appearance is an efficient visual approximation, not an optical-refraction simulation.",
+    "Official board mappings remain pending.",
+    "The supplied video reference was not successfully viewable; matching it is not claimed."
+  ],
+  "validation": {
+    "baselineRegressionTests": 1707,
+    "newChemistryTests": 13,
+    "typescript": "passed",
+    "productionBuild": "passed before CL-0002 preview; preview build tracked separately"
+  },
+  "sourceHashes": {
+    "src/lib/chemistry/materialSorting.ts": "d1f741a39470d49396da50824360016b2572bc3bf62291be2adcb6085cdaeec1",
+    "src/components/chemistry/MaterialSortingLab.tsx": "a949c631c0cfbef0c629d33673d50d47fc21ad3a33ee98063ef9853f738c998b",
+    "src/components/chemistry/SortingScene.tsx": "8aaac20cb3923260c283e9bfaafdd404ac14a9ac0c155ea5a0e8650c3f09d7f6",
+    "src/components/chemistry/SortingDiagram.tsx": "5f92d70c49b9a3c51b9996334684604a46f0c1f5789821c94de241fb107558d0"
+  }
+}

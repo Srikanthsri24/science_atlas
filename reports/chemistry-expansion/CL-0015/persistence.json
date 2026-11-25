@@ -1,0 +1,6 @@
+{
+  "conclusion": "At 12 s and shaking 1, openings of 3, 5 and 8 mm collect 5, 15 and 30 specimens. At 5 mm and shaking 0.25, only 40% of passable mass has been recovered after 12 s. All trials preserve 30 specimens and 5.124723016 g. This ideal model excludes real grain shape and clogging.",
+  "observation": "At 1.2 s, three pieces are moving; count their 0.129590697 g separately.",
+  "prediction": "Only pieces smaller than an opening should pass. A larger opening should collect more size groups.",
+  "rows": 8
+}

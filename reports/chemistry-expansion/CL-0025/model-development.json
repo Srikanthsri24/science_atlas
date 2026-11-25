@@ -1,0 +1,36 @@
+{
+  "labId": "CL-0025",
+  "status": "completed_internal_functional_review",
+  "implemented": [
+    "64 equal-radius representative particles per separate sample",
+    "crystalline harmonic solid with kinetic plus tether energy",
+    "dense and dilute equal-mass hard-sphere samples with elastic pair impacts and reflecting prescribed boundaries",
+    "deterministic precomputed 60-frame-per-second trajectories and 110-second matched concept guide",
+    "selected-particle displacement, close-neighbour exchange, count/volume/number-density and kinetic-energy measurements"
+  ],
+  "targetedTests": {
+    "passed": 10,
+    "failed": 0,
+    "scope": "Model, records and layout including every collision frame"
+  },
+  "typescript": "passed \u2014 strict standalone model compile",
+  "remaining": [],
+  "limitations": [
+    "Reduced arbitrary teaching units, not real molecular sizes or times",
+    "Separate prescribed samples, not a phase-transition/temperature solver",
+    "Dense liquid region stands in for cohesion; attractive forces, evaporation and surface-tension dynamics are not solved",
+    "Crystalline solid example does not imply every solid has a regular lattice"
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/particleArrangement.ts": "5c3a5fcadf21cabae456038160c038d4febce7cfe10820a1e25b87d0bc0c2c52",
+    "src/lib/chemistry/particleArrangementRecord.ts": "53326b4944bdbe175f8ecb1f8df707ba1d62635e6bbf8f15fd47d34055a6fc03",
+    "src/lib/chemistry/particleArrangementLayout.ts": "f1d909514d9f4c64655caaf9938b256d1819f76c55fa26ba8d6dbc175a036f44",
+    "src/components/chemistry/ArrangementLab.tsx": "de8e802bab3974e8c094d59bba8f573e9b78c51a24b0af91ad70ded226543e0d",
+    "src/components/chemistry/ArrangementDiagram.tsx": "f5caf813165ff3f536771531a5348c5d7f93d471f83d8b343a8ed987c12bb0e8",
+    "src/components/chemistry/ArrangementScene.tsx": "51e3043c0a904a6f564c811b273f610caa2e7a89fc12664034f7b272a3d988dc",
+    "src/components/chemistry/ArrangementMotionTrace.tsx": "ec303f270c02ea6e10eb03cf8422f2510e670de2b38767e9130db945c0739dd1",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  },
+  "reviewEvidence": "review.json"
+}

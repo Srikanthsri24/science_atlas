@@ -1,0 +1,55 @@
+{
+  "labId": "CL-0008",
+  "reviewedOn": "2026-11-25",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 110,
+  "checks": {
+    "model": "passed \u2014 partial-sphere volume, weight/buoyancy substitutions, equal-volume comparison, tank bounds, contact support and independent half-step trajectory convergence; eight model/record tests",
+    "twoD": "passed \u2014 calculated sphere motion and immersion, tank graduations, force indicators and numerical readings; fixed SVG presentation cropping",
+    "threeD": "passed \u2014 water tank, textured wood and distinct sphere materials, model-linked position and clear schematic force arrows; fixed texture carryover and orbit checked",
+    "responsive": "passed \u2014 both modes at 390\u00d7844, 820\u00d71180, 1280\u00d7960 and 1920\u00d71080; no document overflow; explicit SVG fit on phone/TV; dark mode checked",
+    "practicalRecord": "passed \u2014 six trials including unloaded/early transient and four late-time material results; observations/prediction/conclusion persisted; downloaded six worked substitutions",
+    "playback": "uninterrupted 110-second guide reached final comparison; live 12-second wood trial, fullscreen pause/resume, guide pause/resume/replay, timeline and Escape checked",
+    "recordingGate": "passed \u2014 recording disabled during live motion and enabled at paused/completed states"
+  },
+  "evidence": [
+    "workflow.json",
+    "responsive.json",
+    "phone-3d.png",
+    "controls.json",
+    "tablet-2d.png",
+    "tablet-3d.png",
+    "phone-2d.png",
+    "tv-3d.png",
+    "review-contact-sheet.png",
+    "tv-2d.png",
+    "camera-orbit.png",
+    "playback.json",
+    "dark-laptop.png",
+    "tested-practical-report.html",
+    "laptop-3d.png",
+    "svg-fit.json",
+    "model-notes.md",
+    "glass-material.png",
+    "laptop-2d.png",
+    "persistence.json"
+  ],
+  "limitations": [
+    "Internal engineering review, not independent expert certification.",
+    "Viewport emulation, not physical-device certification.",
+    "Chosen densities and drag coefficient, not measured household specimens.",
+    "Simplified one-body vertical numerical model with prescribed water level; no waves, capillarity, added mass, air drag, rotation or rebound.",
+    "Floating spheres still bob slightly at 12 s; transient values are distinguished from static equilibrium.",
+    "Force arrows are schematic.",
+    "Official board mappings remain pending."
+  ],
+  "sourceHashes": {
+    "src/lib/chemistry/floatingObjects.ts": "f91d489edd13855ecb8f4f8fbd7f99fd2b1bd7d81666e899d4121f23c38fe7cc",
+    "src/lib/chemistry/floatingRecord.ts": "358f16a7e385e2839303f968087854c6425a14b127c2ca062d25f4bda5840542",
+    "src/components/chemistry/FloatingLab.tsx": "8169e9ea927c0667be52d11b09c06d34978cfa74a98f30192e033be5e864f09f",
+    "src/components/chemistry/FloatingDiagram.tsx": "bdde7e542b9f1c3909ce68f7dcb3266838b92d952b1f2896df639e4119de4c2d",
+    "src/components/chemistry/FloatingScene.tsx": "0b21f0fae277cc21e41c2e6bd02d642ce21c9dd1725d15c12df5f5c9d120e7db",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  }
+}
