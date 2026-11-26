@@ -1,0 +1,24 @@
+{
+  "url": "https://srikanthsri24.github.io/science_atlas/data/chemistry-labs.json?v=db7bb58",
+  "total": 270,
+  "ready": 75,
+  "CL0075": {
+    "id": "CL-0075",
+    "sequence": 75,
+    "grade": 6,
+    "title": "Model diffusion in gases and liquids",
+    "strand": "Matter and mixtures",
+    "status": "ready",
+    "curriculumStatus": "editorial_class_path_pending_board_mapping",
+    "aim": "Model diffusion in gases and liquids. Record the observations and explain the evidence.",
+    "minimumAnimationSeconds": 60,
+    "review": {
+      "model": "passed",
+      "twoD": "passed",
+      "threeD": "passed",
+      "responsive": "passed",
+      "practicalRecord": "passed"
+    },
+    "reviewEvidence": "reports/chemistry-expansion/CL-0075/review.json"
+  }
+}

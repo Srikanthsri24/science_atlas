@@ -2,7 +2,7 @@
   "worktree": "/var/folders/zb/8z0kjrgx1rndmsrj24twvwb00000gn/T/atlas-chemistry-0075-wpi4g5oh",
   "baseCommit": "37647d14be377d1f39204ee1c3ac46f7375d020c",
   "copiedFiles": 5189,
-  "status": "isolated-validation-passed",
+  "status": "deployed-and-live-verified",
   "scope": "Chemistry catalogue,chemistry components/models/tests/scripts and chemistry-expansion evidence only; original146 staged blobs untouched",
   "checks": {
     "isolatedTests": 2849,
@@ -12,5 +12,10 @@
     "preExistingStagedBlobs": 146,
     "pagesBuild": "passed",
     "conceptReviews": 408
-  }
+  },
+  "codeCommit": "db7bb581b6823db95602275ddb303a45750240bd",
+  "committedFiles": 1141,
+  "workflowRun": 45870778437,
+  "deployment": "success",
+  "liveBrowserVerification": "CL0075 opens;equal10s gas/liquid readings match reviewed values;WebGL models visible after orbitright;consoleerrors/warningsnone;live-deployed-preview.png saved"
 }
