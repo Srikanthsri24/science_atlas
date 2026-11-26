@@ -1,0 +1,12 @@
+{
+  "persistedRows": 38,
+  "plan": "Compare equal preparations at equal clocks, then reset for matched Dt/L².",
+  "console": [],
+  "tableKeyboardScroll": {
+    "before": 0,
+    "after": 40,
+    "clientWidth": 314,
+    "scrollWidth": 2550
+  },
+  "darkMobileOverflow": false
+}

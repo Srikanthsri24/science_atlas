@@ -1,0 +1,11 @@
+{
+ "labId":"CL-0068",
+ "verifiedOn":"2026-11-26",
+ "status":"primary_source_indexed_definition_and_equation_read",
+ "publicLinksRendered":false,
+ "sources":[
+  {"title":"IUPAC Gold Book: Beer–Lambert law","url":"https://goldbook.iupac.org/terms/view/B00626","supports":"Indexed primary definition: absorbance proportional to concentration and absorption path in a homogeneous medium, with monochromatic-band qualification.","access":"Primary search excerpt read; direct plain/PDF fetches returned403 and old host502. Do not describe full document as read."},
+  {"title":"IUPAC Gold Book: absorbance assay","url":"https://goldbook.iupac.org/terms/view/14104/plain","supports":"Indexed primary equation A=epsilon*c*l=lg(P0/P), with concentration and path definitions.","access":"Primary indexed equation read; direct fetch403."}
+ ],
+ "doesNotVerify":"Hypothetical chosen coefficient20000L/(mol·cm), apparatus dimensions, ideal instantaneous mixing/transfer, displayed RGB tint or real instrument/dye performance. No species-specific spectral data claimed."
+}

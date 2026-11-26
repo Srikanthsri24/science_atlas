@@ -1,0 +1,51 @@
+{
+  "before": {
+    "camera": "apparatus",
+    "canvasHeight": 502.15625,
+    "format": "landscape",
+    "guide": "57.02309999999353",
+    "height": 960,
+    "inputs": {
+      "acidMmol": 40,
+      "bicarbonateG": 2,
+      "cuts": 3,
+      "iceMassG": 50,
+      "motionTime": 57.02309999999353,
+      "paperMassG": 2,
+      "progress": 0.8139437499995958,
+      "sample": "paper"
+    },
+    "inventory": "Procedure progress 0.814 / 2 · Physical change2 completed cuts · 3 pieces · gap 0.651 cmMass accounted 2.000 g · Restoration test not complete",
+    "notesInsideStage": true,
+    "pageWidth": 1920,
+    "readoutsInsideStage": true,
+    "recordEnabled": true,
+    "theatre": false,
+    "width": 1920
+  },
+  "after": {
+    "camera": "detail",
+    "canvasHeight": 502.15625,
+    "format": "landscape",
+    "guide": "57.02309999999353",
+    "height": 960,
+    "inputs": {
+      "acidMmol": 40,
+      "bicarbonateG": 2,
+      "cuts": 3,
+      "iceMassG": 50,
+      "motionTime": 57.02309999999353,
+      "paperMassG": 2,
+      "progress": 0.8139437499995958,
+      "sample": "paper"
+    },
+    "inventory": "Procedure progress 0.814 / 2 · Physical change2 completed cuts · 3 pieces · gap 0.651 cmMass accounted 2.000 g · Restoration test not complete",
+    "notesInsideStage": true,
+    "pageWidth": 1920,
+    "readoutsInsideStage": true,
+    "recordEnabled": true,
+    "theatre": false,
+    "width": 1920
+  },
+  "recordDisabledWhilePlaying": true
+}

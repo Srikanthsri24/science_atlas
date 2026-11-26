@@ -1,0 +1,10 @@
+{
+  "darkCheck": {
+    "scroll": 390,
+    "steps": 26,
+    "tableScroll": 2800,
+    "tableWidth": 314,
+    "width": 390
+  },
+  "tableOffset": 40
+}

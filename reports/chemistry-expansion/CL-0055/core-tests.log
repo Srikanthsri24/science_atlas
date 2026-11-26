@@ -1,0 +1,21 @@
+✔ ice phase-change cycle adds andremoves equal latentenergy whilepreserving water mass (4.053634ms)
+✔ all partial ice phases follow latentenergy fraction andseparate density volumes (3.206544ms)
+✔ straight cuts increase completed pieces withoutmanufacturing additional paper mass (0.418041ms)
+✔ bringing paper fragments back together restores alignment butnotoriginal material connections (0.386916ms)
+✔ cut-edge area follows declared paper dimensions,thickness andcutlength (0.497352ms)
+✔ reaction stoichiometry uses a balanced mass-consistent set ofrounded molar masses (0.574145ms)
+✔ limiting reagent switches correctly andpreventsnegative reactant inventories (0.616436ms)
+✔ closed reactionmass includes initial solvent,formed water,dissolved product andcollector gas atallcorners (3.389984ms)
+✔ collector ideal drygas equivalent followsnRT/P withdeclaredSIunits,notballoonelasticity (0.92457ms)
+✔ returning the reactiontool never silently reverses completed reactionextent orproducts (0.779807ms)
+✔ restoration result ispending untilthe complete specified classroom returntest (0.908092ms)
+✔ 120-second guide visits three experiments with40-second forward/return demonstrations (4.155745ms)
+✔ invalid,coerced ornonfinite conditions cannotbecome material-change evidence (2.903741ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1041.444204

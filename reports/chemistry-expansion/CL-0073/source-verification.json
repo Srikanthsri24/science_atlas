@@ -1,0 +1,74 @@
+{
+  "labId": "CL-0073",
+  "sources": [
+    {
+      "url": "https://www.chem.purdue.edu/gchelp/atoms/elements",
+      "status": "full_page_read",
+      "supports": "Chemical elements as monatomic or same-element molecules; compound fixed bonded atomic ratios; distinct substances physically intermixed; gas-phase particle examples",
+      "limitations": "Not a calibrated unknown-sample analytical instrument, full thermodynamic dataset or official Indian curriculum mapping"
+    },
+    {
+      "url": "https://goldbook.iupac.org/terms/view/C01022.html",
+      "status": "official_search_excerpt_only_direct403",
+      "supports": "Chemical-element identity by atomic number",
+      "limitations": "Full page not read"
+    },
+    {
+      "url": "https://goldbook.iupac.org/terms/view/M03949",
+      "status": "official_search_excerpt_only_direct403",
+      "supports": "Mixture terminology",
+      "limitations": "Full page not read"
+    },
+    {
+      "url": "https://goldbook.iupac.org/terms/view/C01039",
+      "status": "official_search_result_only_direct403",
+      "supports": "Chemical-substance terminology source identified",
+      "limitations": "Definition not read from direct page"
+    },
+    {
+      "url": "https://cccbdb.nist.gov/diatomicexpbondx.asp",
+      "status": "table_headers_and_HH_NN_OO_rows_read",
+      "supports": "Rounded bond lengths0.741,1.098,1.208angstrom",
+      "limitations": "Fixed reference geometry, no vibration/isotope distribution"
+    },
+    {
+      "url": "https://cccbdb.nist.gov/expgeom2x.asp?casno=10028156&charge=0",
+      "status": "geometry_section_read",
+      "supports": "Ozone1.278angstrom and116.8degrees",
+      "limitations": "Equivalent1.5-order rendering is an explanatory resonance hybrid, not dynamics"
+    },
+    {
+      "url": "https://cccbdb.nist.gov/bondlengthmodel2x.asp?basis=3&method=11",
+      "status": "experimental_column_water_methane_rows_read",
+      "supports": "Water0.958angstrom and methane1.087angstrom experimental bond references",
+      "limitations": "Uses experimental column; calculated comparison column not used"
+    },
+    {
+      "url": "https://cfour.uni-mainz.de/cfour/index.php?n=Main.InputFileZMAT",
+      "status": "example_geometry_read",
+      "supports": "Water104.5degree rounded reference angle with0.958angstrom bond",
+      "limitations": "Rounded pedagogical equilibrium reference"
+    },
+    {
+      "url": "https://cccbdb.nist.gov/expgeom2x.asp?casno=74828&charge=0",
+      "status": "official_search_geometry_excerpt_read",
+      "supports": "Methane tetrahedral109.471degrees,1.087angstrom",
+      "limitations": "Full page not separately opened; exact tetrahedral angle constructed geometrically"
+    },
+    {
+      "url": "https://cccbdb.nist.gov/expgeom2x.asp?casno=124389&charge=0",
+      "status": "geometry_section_read",
+      "supports": "Carbon dioxide1.162angstrom rounded internal coordinate and180degrees",
+      "limitations": "Rounded internal coordinate selected rather than1.1621angstrom cartesian rounding"
+    },
+    {
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7732185&Mask=4&Type=ANTOINE&Plot=on",
+      "status": "equation_units_and_parameter_ranges_read",
+      "supports": "Minimum280K saturated water pressure~990Pa; revised entire reference box range worst440Pa is lower",
+      "limitations": "Only phase-consistency bound tested, not a dynamic condensation solver"
+    }
+  ],
+  "modelAssumptions": "Defined dilute gas samples,80\u2013200nm cube/12\u201348entities/280\u2013340K. Rounded molecular geometry with chosen ball glyph radii;1\u201340x display-only magnification,1nm=10angstrom.10nm reflecting-centre margin. Ideal gas equation, deterministic equal-RMS-speed directions, illustrative rotations; no collision or chemical reaction solver.",
+  "officialCurriculumMapping": "unverified",
+  "independentExpertReview": "not claimed"
+}

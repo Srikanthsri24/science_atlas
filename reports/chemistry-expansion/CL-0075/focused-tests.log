@@ -1,0 +1,23 @@
+✔ sealed initial half preparation and units (1.915478ms)
+✔ all preparation corners conserve mass and nonnegative concentration (100.62608ms)
+✔ matching dimensionless progress has same profile but different clocks (1.269953ms)
+✔ equal physical clocks demonstrate faster gas transfer (0.530495ms)
+✔ central finite-volume flux equals independent mass derivative (0.737162ms)
+✔ uniform criterion and length squared scaling (0.304475ms)
+✔ 120-second guide explicitly resets before switching clock modes (0.491376ms)
+✔ continuum half-mass comparison converges away from initial discontinuity (0.699696ms)
+✔ lengthened channel slows diffusion at equal physical time (0.335308ms)
+✔ representative tracers stay inside sealed channel and closed partition (40.620356ms)
+✔ Brownian ensemble variance follows elapsed dimensionless time (39.568298ms)
+✔ Brownian covariance and independent-axis checks (59.430318ms)
+✔ HTML exam report retains tables, substitutions and safely escaped student writing (1.653528ms)
+✔ finite tracer ensemble approximately follows independent continuum half mass (116.050846ms)
+✔ truncated Brownian path is continuous at dyadic joins (0.520548ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 944.96214

@@ -1,0 +1,31 @@
+✔ cup andwetbed bulkheights include declaredvoids withoutcounting voids asecondtime inliquid displacement (3.894915ms)
+✔ finite transitclusters stay between cup andreceiving surface andsum tothe actual in-flight mass (3.693169ms)
+✔ enlarged dissolved-ion markers formequal Na/Cl counts andremain inside the reference liquid region (0.902713ms)
+✔ salt-history samples include finite-dose andcapacity corners andevery stacked ordinate closes toinitialsalt (2.555199ms)
+✔ all apparatus andbalance fitpoints project within phone,tablet,laptop andTV camera frusta (59.388155ms)
+✔ closed-system record aligns20 columns and25 complete formula/substitution/result steps (2.485217ms)
+✔ report workings distinguish capacity excess,finite-time residue andnonzero tiny lag (0.513573ms)
+✔ savedrecords filter invalid values,limit tolatest60 andretain bounded writing only (1.244504ms)
+✔ exam report escapes writing,contains3 printtables and25 worked blocks without external references (1.26736ms)
+✔ sealed initial cup andwater bothbelong tothe balance beforethe internalgate opens (2.184282ms)
+✔ cup,undissolved anddissolved salt independently close the mass budget acrossall controlcorners (2.124037ms)
+✔ finite uniformdose stops at10s withoutadding externalmass ornegative remainingcup salt (0.95865ms)
+✔ analytic ramp andpost-ramp solution satisfy the chosen differential law (2.388039ms)
+✔ capacity-limited run retains excess salt instead ofsilently dissolving beyond9g in25g water (0.402653ms)
+✔ faster chosen relaxation changesdissolved fractions butnotclosedmass orscale indication (0.290783ms)
+✔ smalltime series preserves nonnegative dissolution withoutcatastrophic cancellation (0.256204ms)
+✔ finite-time undersaturationlag remains positive evenwhenrounded dissolvedmass reachesits displaylimit (0.24549ms)
+✔ staticgross-minus-tare gives contentsmass regardlessof materialcompartment (0.337758ms)
+✔ chosen solution-volume contractionnever changesmass orbecomes an implicit density measurement (0.778396ms)
+✔ ramp-to-capacity anddoseend transitions arecontinuous inphysicaltime (0.962415ms)
+✔ 120-second guide observes180physicalseconds withoutclaiming allsalt alreadydissolved (4.325578ms)
+✔ invalid,coerced ornonfinite inputs cannotbecome aclosed-system mass result (1.220308ms)
+✔ finite transportdelay conserves in-flight salt between cup release andarrival (0.352529ms)
+ℹ tests 23
+ℹ suites 0
+ℹ pass 23
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 799.988637

@@ -1,0 +1,4097 @@
+[
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "3.2948799999984026"
+      }
+    ],
+    "points": [
+      {
+        "cx": "812.753833333315",
+        "cy": "307.86706302908345",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "812.753833333315",
+        "cy": "339.3353151454172",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 1.705 g",
+        "remaining": "48.145 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "21.247498318957234",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "368.75250168104276"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 8.526 g",
+        "remaining": "41.324 g left",
+        "water": {
+          "data-air-water": "moving",
+          "fill": "url(#air-water)",
+          "height": "18.237491594786178",
+          "width": "175.53460337663037",
+          "x": "422.2326983116848",
+          "y": "371.7625084052138"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 3.295 hours. Still air remaining 48.145 grams;moving air 41.324 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 375.1875,
+      "width": 667,
+      "x": 289,
+      "y": 162.2421875
+    },
+    "texts": [
+      {
+        "height": 7.5,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 107.84378051757812,
+        "x": 343.7892761230469,
+        "y": 173.39361572265625
+      },
+      {
+        "height": 20,
+        "text": "Moving air. Follow the water.",
+        "width": 223.15628051757812,
+        "x": 343.7892761230469,
+        "y": 183.2609405517578
+      },
+      {
+        "height": 9,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 164.88284301757812,
+        "x": 343.7892761230469,
+        "y": 211.0203094482422
+      },
+      {
+        "height": 9.000015258789062,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 121.17190551757812,
+        "x": 343.7892761230469,
+        "y": 226.5637969970703
+      },
+      {
+        "height": 15,
+        "text": "Still air",
+        "width": 40.8125,
+        "x": 414.5,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.640625,
+        "x": 407.0859375,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.9375,
+        "x": 411.4375,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "48.145 g left",
+        "width": 61.671875,
+        "x": 404.0703125,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 1.705 g",
+        "width": 41.7421875,
+        "x": 414.03515625,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 15,
+        "text": "Moving air",
+        "width": 62.04681396484375,
+        "x": 570.0372924804688,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.64056396484375,
+        "x": 573.2404174804688,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.93743896484375,
+        "x": 577.5919799804688,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "41.324 g left",
+        "width": 61.28125,
+        "x": 570.4201049804688,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 8.526 g",
+        "width": 43.41412353515625,
+        "x": 579.3536376953125,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 9.5,
+        "text": "Physical time 3.295 h · water budget conserved",
+        "width": 174.21878051757812,
+        "x": 343.7892761230469,
+        "y": 446.35247802734375
+      },
+      {
+        "height": 9,
+        "text": "Magnified reference films · not room-scale layers",
+        "width": 169.01565551757812,
+        "x": 351.8290100097656,
+        "y": 467.2197570800781
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Still · 10 mm",
+        "width": 41.9296875,
+        "x": 438.06060791015625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Moving · 2 mm",
+        "width": 50.8125,
+        "x": 599.773681640625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 14,
+        "text": "Remaining water / g",
+        "width": 107.8671875,
+        "x": 743.095947265625,
+        "y": 271.3381652832031
+      },
+      {
+        "height": 9,
+        "text": "Still mint · moving gold",
+        "width": 78.546875,
+        "x": 743.095947265625,
+        "y": 293.02557373046875
+      },
+      {
+        "height": 7.499969482421875,
+        "text": "0.0",
+        "width": 9.5078125,
+        "x": 728.2283935546875,
+        "y": 442.9926452636719
+      },
+      {
+        "height": 7.5,
+        "text": "24.9",
+        "width": 13.4609375,
+        "x": 724.2752685546875,
+        "y": 381.3546752929687
+      },
+      {
+        "height": 7.5,
+        "text": "49.9",
+        "width": 13.73443603515625,
+        "x": 724.0017700195312,
+        "y": 319.71673583984375
+      },
+      {
+        "height": 7.5,
+        "text": "0",
+        "width": 4.0546875,
+        "x": 741.068603515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "12",
+        "width": 6.86712646484375,
+        "x": 813.3599853515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "24",
+        "width": 7.9296875,
+        "x": 886.5262451171875,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 9,
+        "text": "Physical time / hours",
+        "width": 71.25,
+        "x": 781.1685180664062,
+        "y": 467.7557373046875
+      },
+      {
+        "height": 7.49993896484375,
+        "text": "Vapour is invisible. Arrows illustrate air,not water flow.",
+        "width": 162.71878051757812,
+        "x": 343.7892761230469,
+        "y": 518.566162109375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L812.753833333315,307.86706302908345",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L812.753833333315,339.3353151454172",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "10.157493333331878"
+      }
+    ],
+    "points": [
+      {
+        "cx": "891.3879444444278",
+        "cy": "324.2526708926746",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "891.3879444444278",
+        "cy": "421.2633544633728",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 5.257 g",
+        "remaining": "44.593 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "19.680179305918088",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "370.3198206940819"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 26.283 g",
+        "remaining": "23.567 g left",
+        "water": {
+          "data-air-water": "moving",
+          "fill": "url(#air-water)",
+          "height": "10.40089652959043",
+          "width": "175.53460337663037",
+          "x": "422.2326983116848",
+          "y": "379.59910347040955"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 10.157 hours. Still air remaining 44.593 grams;moving air 23.567 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 375.1875,
+      "width": 667,
+      "x": 289,
+      "y": 162.2421875
+    },
+    "texts": [
+      {
+        "height": 7.5,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 107.84378051757812,
+        "x": 343.7892761230469,
+        "y": 173.39361572265625
+      },
+      {
+        "height": 20,
+        "text": "Moving air. Follow the water.",
+        "width": 223.15628051757812,
+        "x": 343.7892761230469,
+        "y": 183.2609405517578
+      },
+      {
+        "height": 9,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 164.88284301757812,
+        "x": 343.7892761230469,
+        "y": 211.0203094482422
+      },
+      {
+        "height": 9.000015258789062,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 121.17190551757812,
+        "x": 343.7892761230469,
+        "y": 226.5637969970703
+      },
+      {
+        "height": 15,
+        "text": "Still air",
+        "width": 40.8125,
+        "x": 414.5,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.640625,
+        "x": 407.0859375,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.9375,
+        "x": 411.4375,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "44.593 g left",
+        "width": 63.765625,
+        "x": 403.0234375,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 5.257 g",
+        "width": 42.84375,
+        "x": 413.484375,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 15,
+        "text": "Moving air",
+        "width": 62.04681396484375,
+        "x": 570.0372924804688,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.64056396484375,
+        "x": 573.2404174804688,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.93743896484375,
+        "x": 577.5919799804688,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "23.567 g left",
+        "width": 62.5,
+        "x": 569.8107299804688,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 26.283 g",
+        "width": 48.015625,
+        "x": 577.0529174804688,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 9.5,
+        "text": "Physical time 10.157 h · water budget conserved",
+        "width": 176.06253051757812,
+        "x": 343.7892761230469,
+        "y": 446.35247802734375
+      },
+      {
+        "height": 9,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 110.48440551757812,
+        "x": 351.8290100097656,
+        "y": 467.2197570800781
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Still · 10 mm",
+        "width": 41.9296875,
+        "x": 438.06060791015625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Moving · 2 mm",
+        "width": 50.8125,
+        "x": 599.773681640625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 14,
+        "text": "Remaining water / g",
+        "width": 107.8671875,
+        "x": 743.095947265625,
+        "y": 271.3381652832031
+      },
+      {
+        "height": 9,
+        "text": "Still mint · moving gold",
+        "width": 78.546875,
+        "x": 743.095947265625,
+        "y": 293.02557373046875
+      },
+      {
+        "height": 7.499969482421875,
+        "text": "0.0",
+        "width": 9.5078125,
+        "x": 728.2283935546875,
+        "y": 442.9926452636719
+      },
+      {
+        "height": 7.5,
+        "text": "24.9",
+        "width": 13.4609375,
+        "x": 724.2752685546875,
+        "y": 381.3546752929687
+      },
+      {
+        "height": 7.5,
+        "text": "49.9",
+        "width": 13.73443603515625,
+        "x": 724.0017700195312,
+        "y": 319.71673583984375
+      },
+      {
+        "height": 7.5,
+        "text": "0",
+        "width": 4.0546875,
+        "x": 741.068603515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "12",
+        "width": 6.86712646484375,
+        "x": 813.3599853515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "24",
+        "width": 7.9296875,
+        "x": 886.5262451171875,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 9,
+        "text": "Physical time / hours",
+        "width": 71.25,
+        "x": 781.1685180664062,
+        "y": 467.7557373046875
+      },
+      {
+        "height": 7.49993896484375,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 156.63284301757812,
+        "x": 343.7892761230469,
+        "y": 518.566162109375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L891.3879444444278,324.2526708926746",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L891.3879444444278,421.2633544633728",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.008053333331933"
+      }
+    ],
+    "points": [
+      {
+        "cx": "992.8006111110951",
+        "cy": "345.3848254363056",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "992.8006111110951",
+        "cy": "526.9241271815279",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 9.837 g",
+        "remaining": "40.013 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.658842784353382",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "372.3411572156466"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 49.183 g",
+        "remaining": "0.667 g left",
+        "water": {
+          "data-air-water": "moving",
+          "fill": "url(#air-water)",
+          "height": "0.29421392176689615",
+          "width": "175.53460337663037",
+          "x": "422.2326983116848",
+          "y": "389.70578607823313"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.008 hours. Still air remaining 40.013 grams;moving air 0.667 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 260,
+      "width": 282,
+      "x": 19,
+      "y": 257.5390625
+    },
+    "texts": [
+      {
+        "height": 3.54052734375,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 51.578125,
+        "x": 26.690908432006836,
+        "y": 303.01544189453125
+      },
+      {
+        "height": 9.5,
+        "text": "Moving air. Follow the water.",
+        "width": 106.70313262939452,
+        "x": 26.690908432006836,
+        "y": 307.7572326660156
+      },
+      {
+        "height": 4.5,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 78.8203125,
+        "x": 26.690908432006836,
+        "y": 321.22998046875
+      },
+      {
+        "height": 4.5,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 57.921875,
+        "x": 26.690908432006836,
+        "y": 328.6645202636719
+      },
+      {
+        "height": 7.5,
+        "text": "Still air",
+        "width": 19.52344512939453,
+        "x": 60.511009216308594,
+        "y": 344.3663330078125
+      },
+      {
+        "height": 4.5,
+        "text": "50 cm² exposed",
+        "width": 26.59375,
+        "x": 56.975852966308594,
+        "y": 355.0699768066406
+      },
+      {
+        "height": 3,
+        "text": "25°C maintained",
+        "width": 22.453125,
+        "x": 59.046165466308594,
+        "y": 402.4718017578125
+      },
+      {
+        "height": 6,
+        "text": "40.013 g left",
+        "width": 29.47657012939453,
+        "x": 55.534446716308594,
+        "y": 410.226318359375
+      },
+      {
+        "height": 4.5,
+        "text": "Lost 9.837 g",
+        "width": 20.640625,
+        "x": 59.952415466308594,
+        "y": 419.9299926757813
+      },
+      {
+        "height": 7.5,
+        "text": "Moving air",
+        "width": 29.6796875,
+        "x": 134.90560913085938,
+        "y": 344.3663330078125
+      },
+      {
+        "height": 4.5,
+        "text": "50 cm² exposed",
+        "width": 26.59375,
+        "x": 136.44857788085938,
+        "y": 355.0699768066406
+      },
+      {
+        "height": 3,
+        "text": "25°C maintained",
+        "width": 22.453125,
+        "x": 138.51889038085938,
+        "y": 402.4718017578125
+      },
+      {
+        "height": 6,
+        "text": "0.667 g left",
+        "width": 26.8984375,
+        "x": 136.29623413085938,
+        "y": 410.226318359375
+      },
+      {
+        "height": 4.5,
+        "text": "Lost 49.183 g",
+        "width": 22.546890258789062,
+        "x": 138.47201538085938,
+        "y": 419.9299926757813
+      },
+      {
+        "height": 4.5,
+        "text": "Physical time 19.008 h · water budget conserved",
+        "width": 85.19532012939453,
+        "x": 26.690908432006836,
+        "y": 434.0299682617187
+      },
+      {
+        "height": 4.5,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 52.8203125,
+        "x": 30.53636360168457,
+        "y": 443.7717895507813
+      },
+      {
+        "height": 4.5,
+        "text": "Still · 10 mm",
+        "width": 20.04686737060547,
+        "x": 71.78565979003906,
+        "y": 464.0245361328125
+      },
+      {
+        "height": 4.5,
+        "text": "Moving · 2 mm",
+        "width": 24.296890258789062,
+        "x": 149.1333770751953,
+        "y": 464.0245361328125
+      },
+      {
+        "height": 6.54400634765625,
+        "text": "Remaining water / g",
+        "width": 51.6015625,
+        "x": 217.68182373046875,
+        "y": 349.99359130859375
+      },
+      {
+        "height": 4.5,
+        "text": "Still mint · moving gold",
+        "width": 37.546875,
+        "x": 217.68182373046875,
+        "y": 360.45361328125
+      },
+      {
+        "height": 3.5,
+        "text": "0.0",
+        "width": 4.546875,
+        "x": 210.57130432128903,
+        "y": 431.96630859375
+      },
+      {
+        "height": 3.500030517578125,
+        "text": "24.9",
+        "width": 6.4375,
+        "x": 208.68069458007812,
+        "y": 402.4844970703125
+      },
+      {
+        "height": 3.500030517578125,
+        "text": "49.9",
+        "width": 6.5703125,
+        "x": 208.54788208007812,
+        "y": 373.002685546875
+      },
+      {
+        "height": 3.5,
+        "text": "0",
+        "width": 1.9375,
+        "x": 216.71307373046875,
+        "y": 437.0935974121094
+      },
+      {
+        "height": 3.5,
+        "text": "12",
+        "width": 3.2890625,
+        "x": 251.2872772216797,
+        "y": 437.0935974121094
+      },
+      {
+        "height": 3.5,
+        "text": "24",
+        "width": 3.796875,
+        "x": 286.2834167480469,
+        "y": 437.0935974121094
+      },
+      {
+        "height": 4.500030517578125,
+        "text": "Physical time / hours",
+        "width": 34.05470275878906,
+        "x": 235.9044647216797,
+        "y": 444.0281372070313
+      },
+      {
+        "height": 3.570556640625,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 74.90625,
+        "x": 26.690908432006836,
+        "y": 468.1136169433594
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L992.8006111110951,345.3848254363056",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L992.8006111110951,526.9241271815279",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "90",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "85",
+        "y": "680"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "18",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "355",
+        "y": "752"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.114719999998595"
+      }
+    ],
+    "points": [
+      {
+        "cx": "436.36546666663975",
+        "cy": "933.733550491472",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "436.36546666663975",
+        "cy": "1068.6677524573597",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "150",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "62.232698311684814",
+          "x2": "237.76730168831517",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 9.892 g",
+        "remaining": "39.958 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.63448170110363",
+          "width": "175.53460337663037",
+          "x": "62.232698311684814",
+          "y": "402.36551829889635"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "450",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "362.2326983116848",
+          "x2": "537.7673016883152",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 49.459 g",
+        "remaining": "0.391 g left",
+        "water": {
+          "data-air-water": "moving",
+          "fill": "url(#air-water)",
+          "height": "0.17240850551815473",
+          "width": "175.53460337663037",
+          "x": "362.2326983116848",
+          "y": "419.82759149448185"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.115 hours. Still air remaining 39.958 grams;moving air 0.391 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "420",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1200"
+    },
+    "svgBox": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 257.5390625
+    },
+    "texts": [
+      {
+        "height": 6,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 84.0390625,
+        "x": 47.201171875,
+        "y": 265.9078063964844
+      },
+      {
+        "height": 13,
+        "text": "Moving air. Follow the water.",
+        "width": 141.515625,
+        "x": 47.201171875,
+        "y": 276.283203125
+      },
+      {
+        "height": 9,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 159.40625,
+        "x": 47.201171875,
+        "y": 293.9052734375
+      },
+      {
+        "height": 9,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 117.328125,
+        "x": 47.201171875,
+        "y": 306.02069091796875
+      },
+      {
+        "height": 12,
+        "text": "Still air",
+        "width": 33.1640625,
+        "x": 80.751953125,
+        "y": 341.12030029296875
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 54.0390625,
+        "x": 70.314453125,
+        "y": 356.98907470703125
+      },
+      {
+        "height": 6.500030517578125,
+        "text": "25°C maintained",
+        "width": 45.08594512939453,
+        "x": 74.791015625,
+        "y": 439.2015380859375
+      },
+      {
+        "height": 11.5,
+        "text": "39.958 g left",
+        "width": 56.5859375,
+        "x": 69.041015625,
+        "y": 451.9125061035156
+      },
+      {
+        "height": 9,
+        "text": "Lost 9.892 g",
+        "width": 42.1484375,
+        "x": 76.259765625,
+        "y": 467.28125
+      },
+      {
+        "height": 12,
+        "text": "Moving air",
+        "width": 50.4140625,
+        "x": 197.458984375,
+        "y": 341.12030029296875
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 54.03907775878906,
+        "x": 195.646484375,
+        "y": 356.98907470703125
+      },
+      {
+        "height": 6.500030517578125,
+        "text": "25°C maintained",
+        "width": 45.0859375,
+        "x": 200.123046875,
+        "y": 439.2015380859375
+      },
+      {
+        "height": 11.5,
+        "text": "0.391 g left",
+        "width": 48.7578125,
+        "x": 198.287109375,
+        "y": 451.9125061035156
+      },
+      {
+        "height": 9,
+        "text": "Lost 49.459 g",
+        "width": 46.96873474121094,
+        "x": 199.18165588378903,
+        "y": 467.28125
+      },
+      {
+        "height": 10,
+        "text": "Physical time 19.115 h · water budget conserved",
+        "width": 174.30470275878906,
+        "x": 47.201171875,
+        "y": 486.8343505859375
+      },
+      {
+        "height": 9,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 106.81251525878906,
+        "x": 53.4677734375,
+        "y": 510.31195068359375
+      },
+      {
+        "height": 9,
+        "text": "Still · 10 mm",
+        "width": 40.421875,
+        "x": 70.8564453125,
+        "y": 580.9156494140625
+      },
+      {
+        "height": 9,
+        "text": "Moving · 2 mm",
+        "width": 49.29685974121094,
+        "x": 179.21778869628906,
+        "y": 580.9156494140625
+      },
+      {
+        "height": 11.5,
+        "text": "Remaining water / g",
+        "width": 91.6171875,
+        "x": 63.912109375,
+        "y": 592.7021484375
+      },
+      {
+        "height": 9,
+        "text": "Still mint · moving gold",
+        "width": 75.734375,
+        "x": 63.912109375,
+        "y": 608.4886474609375
+      },
+      {
+        "height": 8.00006103515625,
+        "text": "0.0",
+        "width": 9.4921875,
+        "x": 50.2421875,
+        "y": 700.1455078125
+      },
+      {
+        "height": 8,
+        "text": "24.9",
+        "width": 13.4609375,
+        "x": 46.2734375,
+        "y": 664.634765625
+      },
+      {
+        "height": 8,
+        "text": "49.9",
+        "width": 13.75,
+        "x": 45.984375,
+        "y": 629.1240234375
+      },
+      {
+        "height": 8.00006103515625,
+        "text": "0",
+        "width": 4.078125,
+        "x": 61.873046875,
+        "y": 708.5009765625
+      },
+      {
+        "height": 8.00006103515625,
+        "text": "12",
+        "width": 6.875,
+        "x": 156.5625,
+        "y": 708.5009765625
+      },
+      {
+        "height": 8.00006103515625,
+        "text": "24",
+        "width": 7.9765625,
+        "x": 252.099609375,
+        "y": 708.5009765625
+      },
+      {
+        "height": 8.99993896484375,
+        "text": "Physical time / hours",
+        "width": 68.8359375,
+        "x": 125.58203125,
+        "y": 719.616455078125
+      },
+      {
+        "height": 8,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 155.8046875,
+        "x": 47.201171875,
+        "y": 742.340576171875
+      }
+    ],
+    "traces": [
+      {
+        "d": "M70,900 L436.36546666663975,933.733550491472",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M70,900 L436.36546666663975,1068.6677524573597",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": [
+      "Ambient RH 50% · prescribed films",
+      "Moving air"
+    ]
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.295946666665277"
+      }
+    ],
+    "points": [
+      {
+        "cx": "996.0993888888729",
+        "cy": "346.0722176930759",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "996.0993888888729",
+        "cy": "530",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 9.986 g",
+        "remaining": "39.864 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.593092220662303",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "372.4069077793377"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.296 hours. Still air remaining 39.864 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 260,
+      "width": 352,
+      "x": 19,
+      "y": 218.390625
+    },
+    "texts": [
+      {
+        "height": 4.5,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 64.40625,
+        "x": 28.599998474121097,
+        "y": 243.1306304931641
+      },
+      {
+        "height": 12,
+        "text": "Moving air. Follow the water.",
+        "width": 133.25,
+        "x": 28.599998474121097,
+        "y": 248.7906188964844
+      },
+      {
+        "height": 5.5,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 98.4921875,
+        "x": 28.599998474121097,
+        "y": 265.4906311035156
+      },
+      {
+        "height": 5.5,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 72.3828125,
+        "x": 28.599998474121097,
+        "y": 274.7706298828125
+      },
+      {
+        "height": 9,
+        "text": "Still air",
+        "width": 24.375,
+        "x": 70.8125,
+        "y": 294.4906311035156
+      },
+      {
+        "height": 5.5,
+        "text": "50 cm² exposed",
+        "width": 33.2421875,
+        "x": 66.37890625,
+        "y": 307.7306213378906
+      },
+      {
+        "height": 4,
+        "text": "25°C maintained",
+        "width": 28.03125,
+        "x": 68.984375,
+        "y": 366.650634765625
+      },
+      {
+        "height": 8,
+        "text": "39.864 g left",
+        "width": 38.1015625,
+        "x": 63.94921875,
+        "y": 376.45062255859375
+      },
+      {
+        "height": 5.5,
+        "text": "Lost 9.986 g",
+        "width": 26.1171875,
+        "x": 69.94140625,
+        "y": 388.6906127929687
+      },
+      {
+        "height": 9,
+        "text": "Moving air",
+        "width": 37.0546875,
+        "x": 163.6726531982422,
+        "y": 294.4906311035156
+      },
+      {
+        "height": 5.5,
+        "text": "50 cm² exposed",
+        "width": 33.2421875,
+        "x": 165.5789031982422,
+        "y": 307.7306213378906
+      },
+      {
+        "height": 4,
+        "text": "25°C maintained",
+        "width": 28.03125,
+        "x": 168.1843719482422,
+        "y": 366.650634765625
+      },
+      {
+        "height": 8,
+        "text": "0.000 g left",
+        "width": 33.890625,
+        "x": 165.2546844482422,
+        "y": 376.45062255859375
+      },
+      {
+        "height": 5.5,
+        "text": "Lost 49.850 g",
+        "width": 28.859375,
+        "x": 167.7703094482422,
+        "y": 388.6906127929687
+      },
+      {
+        "height": 6.5595703125,
+        "text": "Dry · rate 0",
+        "width": 28.5625,
+        "x": 167.9187469482422,
+        "y": 347.69061279296875
+      },
+      {
+        "height": 5.5,
+        "text": "Physical time 19.296 h · water budget conserved",
+        "width": 106.23438262939452,
+        "x": 28.599998474121097,
+        "y": 406.2906188964844
+      },
+      {
+        "height": 5.5,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 66,
+        "x": 33.400001525878906,
+        "y": 418.45062255859375
+      },
+      {
+        "height": 5.5,
+        "text": "Still · 10 mm",
+        "width": 25.046875,
+        "x": 84.8765640258789,
+        "y": 443.7306213378906
+      },
+      {
+        "height": 5.5,
+        "text": "Moving · 2 mm",
+        "width": 30.351577758789062,
+        "x": 181.42420959472656,
+        "y": 443.7306213378906
+      },
+      {
+        "height": 8.5,
+        "text": "Remaining water / g",
+        "width": 64.40625,
+        "x": 267,
+        "y": 301.390625
+      },
+      {
+        "height": 5.5,
+        "text": "Still mint · moving gold",
+        "width": 46.921875,
+        "x": 267,
+        "y": 314.45062255859375
+      },
+      {
+        "height": 4.5,
+        "text": "0.0",
+        "width": 5.6796875,
+        "x": 258.12030029296875,
+        "y": 404.0906372070313
+      },
+      {
+        "height": 4.5,
+        "text": "24.9",
+        "width": 8.0390625,
+        "x": 255.76092529296875,
+        "y": 367.2906188964844
+      },
+      {
+        "height": 4.5,
+        "text": "49.9",
+        "width": 8.203125,
+        "x": 255.59686279296875,
+        "y": 330.4906311035156
+      },
+      {
+        "height": 4.5,
+        "text": "0",
+        "width": 2.421875,
+        "x": 265.7890625,
+        "y": 410.4906311035156
+      },
+      {
+        "height": 4.5,
+        "text": "12",
+        "width": 4.1015625,
+        "x": 308.94921875,
+        "y": 410.4906311035156
+      },
+      {
+        "height": 4.5,
+        "text": "24",
+        "width": 4.734375,
+        "x": 352.6328125,
+        "y": 410.4906311035156
+      },
+      {
+        "height": 5.5,
+        "text": "Physical time / hours",
+        "width": 42.5625,
+        "x": 289.71875,
+        "y": 418.7705993652344
+      },
+      {
+        "height": 4.5,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 93.5390625,
+        "x": 28.599998474121097,
+        "y": 449.2106323242187
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L995.7528180354268,346 L996.0993888888729,346.0722176930759",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L995.7528180354268,530 L996.0993888888729,530",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "90",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "85",
+        "y": "680"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "18",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "355",
+        "y": "752"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.37594666666527"
+      }
+    ],
+    "points": [
+      {
+        "cx": "441.37231111108434",
+        "cy": "934.1945618455342",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "441.37231111108434",
+        "cy": "1070",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "150",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "62.232698311684814",
+          "x2": "237.76730168831517",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 10.027 g",
+        "remaining": "39.823 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.57482140822499",
+          "width": "175.53460337663037",
+          "x": "62.232698311684814",
+          "y": "402.425178591775"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "450",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "362.2326983116848",
+          "x2": "537.7673016883152",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.376 hours. Still air remaining 39.823 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "420",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1200"
+    },
+    "svgBox": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 218.390625
+    },
+    "texts": [
+      {
+        "height": 7.5,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 104.9140625,
+        "x": 54.20097732543945,
+        "y": 229.07791137695312
+      },
+      {
+        "height": 16,
+        "text": "Moving air. Follow the water.",
+        "width": 176.6328125,
+        "x": 54.20097732543945,
+        "y": 241.89407348632812
+      },
+      {
+        "height": 11,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 199.078125,
+        "x": 54.20097732543945,
+        "y": 264.14581298828125
+      },
+      {
+        "height": 11,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 146.5234375,
+        "x": 54.20097732543945,
+        "y": 279.2686462402344
+      },
+      {
+        "height": 15,
+        "text": "Still air",
+        "width": 41.40625,
+        "x": 96.0751953125,
+        "y": 322.70166015625
+      },
+      {
+        "height": 11,
+        "text": "50 cm² exposed",
+        "width": 67.4765625,
+        "x": 83.0400390625,
+        "y": 342.8889465332031
+      },
+      {
+        "height": 8.5,
+        "text": "25°C maintained",
+        "width": 56.3046875,
+        "x": 88.6259765625,
+        "y": 445.0126953125
+      },
+      {
+        "height": 14.5,
+        "text": "39.823 g left",
+        "width": 70.03125,
+        "x": 81.7626953125,
+        "y": 460.871826171875
+      },
+      {
+        "height": 10.999969482421877,
+        "text": "Lost 10.027 g",
+        "width": 55.9375,
+        "x": 88.8095703125,
+        "y": 480.5591125488281
+      },
+      {
+        "height": 15,
+        "text": "Moving air",
+        "width": 62.94529724121094,
+        "x": 241.74900817871097,
+        "y": 322.70166015625
+      },
+      {
+        "height": 11,
+        "text": "50 cm² exposed",
+        "width": 67.47653198242188,
+        "x": 239.4833984375,
+        "y": 342.8889465332031
+      },
+      {
+        "height": 8.5,
+        "text": "25°C maintained",
+        "width": 56.30467224121094,
+        "x": 245.06932067871097,
+        "y": 445.0126953125
+      },
+      {
+        "height": 14.5,
+        "text": "0.000 g left",
+        "width": 63.0625,
+        "x": 241.6904296875,
+        "y": 460.871826171875
+      },
+      {
+        "height": 10.999969482421877,
+        "text": "Lost 49.850 g",
+        "width": 58.5078125,
+        "x": 243.9677734375,
+        "y": 480.5591125488281
+      },
+      {
+        "height": 11,
+        "text": "Dry · rate 0",
+        "width": 46.53126525878906,
+        "x": 249.95603942871097,
+        "y": 415.3743896484375
+      },
+      {
+        "height": 12.000030517578123,
+        "text": "Physical time 19.376 h · water budget conserved",
+        "width": 220.41407775878903,
+        "x": 54.20097732543945,
+        "y": 504.5900573730469
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 133.390625,
+        "x": 62.02314376831055,
+        "y": 534.2713623046875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "Still · 10 mm",
+        "width": 50.47655487060547,
+        "x": 83.7178726196289,
+        "y": 622.401123046875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "Moving · 2 mm",
+        "width": 61.5546875,
+        "x": 218.97784423828125,
+        "y": 622.401123046875
+      },
+      {
+        "height": 14.5,
+        "text": "Remaining water / g",
+        "width": 114.37498474121094,
+        "x": 75.06008911132812,
+        "y": 636.60986328125
+      },
+      {
+        "height": 11,
+        "text": "Still mint · moving gold",
+        "width": 94.578125,
+        "x": 75.06008911132812,
+        "y": 656.818603515625
+      },
+      {
+        "height": 10,
+        "text": "0.0",
+        "width": 11.84375,
+        "x": 58.001564025878906,
+        "y": 770.9793701171875
+      },
+      {
+        "height": 10.00006103515625,
+        "text": "24.9",
+        "width": 16.8046875,
+        "x": 53.040626525878906,
+        "y": 726.6536865234375
+      },
+      {
+        "height": 10,
+        "text": "49.9",
+        "width": 17.1640625,
+        "x": 52.681251525878906,
+        "y": 682.3280639648438
+      },
+      {
+        "height": 10,
+        "text": "0",
+        "width": 5.09375,
+        "x": 72.51321411132812,
+        "y": 781.4088745117188
+      },
+      {
+        "height": 10,
+        "text": "12",
+        "width": 8.578125,
+        "x": 190.7109375,
+        "y": 781.4088745117188
+      },
+      {
+        "height": 10,
+        "text": "24",
+        "width": 9.953094482421877,
+        "x": 309.9633483886719,
+        "y": 781.4088745117188
+      },
+      {
+        "height": 11,
+        "text": "Physical time / hours",
+        "width": 85.96092224121094,
+        "x": 152.01953125,
+        "y": 795.53173828125
+      },
+      {
+        "height": 10,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 194.5234375,
+        "x": 54.20097732543945,
+        "y": 823.6485595703125
+      }
+    ],
+    "traces": [
+      {
+        "d": "M70,900 L439.25925925925924,934 L441.37231111108434,934.1945618455342",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M70,900 L439.25925925925924,1070 L441.37231111108434,1070",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.48234666666527"
+      }
+    ],
+    "points": [
+      {
+        "cx": "998.2352222222062",
+        "cy": "346.51727807421935",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "998.2352222222062",
+        "cy": "530",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 10.082 g",
+        "remaining": "39.768 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.55052122768337",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "372.44947877231664"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.482 hours. Still air remaining 39.768 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 312.75,
+      "width": 556,
+      "x": 237,
+      "y": 150.84375
+    },
+    "texts": [
+      {
+        "height": 6,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 89.89846801757812,
+        "x": 282.6714172363281,
+        "y": 160.14089965820312
+      },
+      {
+        "height": 17,
+        "text": "Moving air. Follow the water.",
+        "width": 186.00784301757812,
+        "x": 282.6714172363281,
+        "y": 168.11874389648438
+      },
+      {
+        "height": 7.5,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 137.51565551757812,
+        "x": 282.6714172363281,
+        "y": 191.7562561035156
+      },
+      {
+        "height": 7.5,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 101.06253051757812,
+        "x": 282.6714172363281,
+        "y": 204.71304321289065
+      },
+      {
+        "height": 13.000015258789062,
+        "text": "Still air",
+        "width": 34.0234375,
+        "x": 341.61328125,
+        "y": 231.934814453125
+      },
+      {
+        "height": 7.5,
+        "text": "50 cm² exposed",
+        "width": 46.40625,
+        "x": 335.421875,
+        "y": 250.73196411132812
+      },
+      {
+        "height": 5.5,
+        "text": "25°C maintained",
+        "width": 39.09375,
+        "x": 339.078125,
+        "y": 333.1001892089844
+      },
+      {
+        "height": 11,
+        "text": "39.768 g left",
+        "width": 52.3125,
+        "x": 332.46875,
+        "y": 346.47161865234375
+      },
+      {
+        "height": 7.499969482421875,
+        "text": "Lost 10.082 g",
+        "width": 39,
+        "x": 339.125,
+        "y": 363.7687683105469
+      },
+      {
+        "height": 13.000015258789062,
+        "text": "Moving air",
+        "width": 51.72650146484375,
+        "x": 471.2653198242187,
+        "y": 231.934814453125
+      },
+      {
+        "height": 7.5,
+        "text": "50 cm² exposed",
+        "width": 46.406219482421875,
+        "x": 473.9254455566406,
+        "y": 250.73196411132812
+      },
+      {
+        "height": 5.5,
+        "text": "25°C maintained",
+        "width": 39.09368896484375,
+        "x": 477.5817260742187,
+        "y": 333.1001892089844
+      },
+      {
+        "height": 11,
+        "text": "0.000 g left",
+        "width": 47.30462646484375,
+        "x": 473.4762573242187,
+        "y": 346.47161865234375
+      },
+      {
+        "height": 7.499969482421875,
+        "text": "Lost 49.850 g",
+        "width": 40.28900146484375,
+        "x": 476.9840698242187,
+        "y": 363.7687683105469
+      },
+      {
+        "height": 9.5,
+        "text": "Dry · rate 0",
+        "width": 39.8671875,
+        "x": 477.1950073242187,
+        "y": 305.9205322265625
+      },
+      {
+        "height": 8,
+        "text": "Physical time 19.482 h · water budget conserved",
+        "width": 148.421875,
+        "x": 282.6714172363281,
+        "y": 387.8419799804687
+      },
+      {
+        "height": 7.5,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 92.15625,
+        "x": 289.37322998046875,
+        "y": 405.31982421875
+      },
+      {
+        "height": 7.5,
+        "text": "Still · 10 mm",
+        "width": 34.968719482421875,
+        "x": 361.2460021972656,
+        "y": 440.6159057617187
+      },
+      {
+        "height": 7.5,
+        "text": "Moving · 2 mm",
+        "width": 42.37493896484375,
+        "x": 496.04644775390625,
+        "y": 440.6159057617187
+      },
+      {
+        "height": 11.5,
+        "text": "Remaining water / g",
+        "width": 89.89056396484375,
+        "x": 615.52685546875,
+        "y": 241.87054443359375
+      },
+      {
+        "height": 7.5,
+        "text": "Still mint · moving gold",
+        "width": 65.50775146484375,
+        "x": 615.52685546875,
+        "y": 260.1144714355469
+      },
+      {
+        "height": 6,
+        "text": "0.0",
+        "width": 7.9296875,
+        "x": 603.1292724609375,
+        "y": 384.8741149902344
+      },
+      {
+        "height": 6,
+        "text": "24.9",
+        "width": 11.21875,
+        "x": 599.8402099609375,
+        "y": 333.4937744140625
+      },
+      {
+        "height": 6,
+        "text": "49.9",
+        "width": 11.453125,
+        "x": 599.6058349609375,
+        "y": 282.1134033203125
+      },
+      {
+        "height": 6,
+        "text": "0",
+        "width": 3.3828125,
+        "x": 613.83544921875,
+        "y": 393.809814453125
+      },
+      {
+        "height": 6,
+        "text": "12",
+        "width": 5.7265625,
+        "x": 674.0965576171875,
+        "y": 393.809814453125
+      },
+      {
+        "height": 6,
+        "text": "24",
+        "width": 6.609375,
+        "x": 735.088134765625,
+        "y": 393.809814453125
+      },
+      {
+        "height": 7.5,
+        "text": "Physical time / hours",
+        "width": 59.421875,
+        "x": 647.2489013671875,
+        "y": 405.7666015625
+      },
+      {
+        "height": 6,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 130.57034301757812,
+        "x": 282.6714172363281,
+        "y": 447.8709106445313
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L995.7528180354268,346 L998.2352222222062,346.51727807421935",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L995.7528180354268,530 L998.2352222222062,530",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "90",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "85",
+        "y": "680"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "18",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "355",
+        "y": "752"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.562346666665267"
+      }
+    ],
+    "points": [
+      {
+        "cx": "444.9449777777509",
+        "cy": "934.5235195185531",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "444.9449777777509",
+        "cy": "1070",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "150",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "62.232698311684814",
+          "x2": "237.76730168831517",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 10.124 g",
+        "remaining": "39.726 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.532250415246057",
+          "width": "175.53460337663037",
+          "x": "62.232698311684814",
+          "y": "402.46774958475396"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "450",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "362.2326983116848",
+          "x2": "537.7673016883152",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.562 hours. Still air remaining 39.726 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "420",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1200"
+    },
+    "svgBox": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 150.84375
+    },
+    "texts": [
+      {
+        "height": 9,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 134.171875,
+        "x": 335,
+        "y": 164.6770782470703
+      },
+      {
+        "height": 20.5,
+        "text": "Moving air. Follow the water.",
+        "width": 225.8203125,
+        "x": 335,
+        "y": 180.5104217529297
+      },
+      {
+        "height": 14,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 254.546875,
+        "x": 335,
+        "y": 209.34375
+      },
+      {
+        "height": 14,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 187.3515625,
+        "x": 335,
+        "y": 228.67709350585935
+      },
+      {
+        "height": 19.5,
+        "text": "Still air",
+        "width": 52.9375,
+        "x": 388.53125,
+        "y": 284.1770935058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 371.859375,
+        "y": 310.01043701171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 379.015625,
+        "y": 440.5104370117187
+      },
+      {
+        "height": 19,
+        "text": "39.726 g left",
+        "width": 88.609375,
+        "x": 370.6953125,
+        "y": 460.6770935058594
+      },
+      {
+        "height": 13.999969482421877,
+        "text": "Lost 10.124 g",
+        "width": 70.328125,
+        "x": 379.8359375,
+        "y": 486.0104370117187
+      },
+      {
+        "height": 19.5,
+        "text": "Moving air",
+        "width": 80.4765625,
+        "x": 574.76171875,
+        "y": 284.1770935058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 571.859375,
+        "y": 310.01043701171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 579.015625,
+        "y": 440.5104370117187
+      },
+      {
+        "height": 19,
+        "text": "0.000 g left",
+        "width": 80.625,
+        "x": 574.6875,
+        "y": 460.6770935058594
+      },
+      {
+        "height": 13.999969482421877,
+        "text": "Lost 49.850 g",
+        "width": 74.8125,
+        "x": 577.59375,
+        "y": 486.0104370117187
+      },
+      {
+        "height": 14.000030517578123,
+        "text": "Dry · rate 0",
+        "width": 59.4921875,
+        "x": 585.25390625,
+        "y": 402.6770629882813
+      },
+      {
+        "height": 16,
+        "text": "Physical time 19.562 h · water budget conserved",
+        "width": 282.328125,
+        "x": 335,
+        "y": 516.5103759765625
+      },
+      {
+        "height": 14,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 170.5546875,
+        "x": 345,
+        "y": 554.6771240234375
+      },
+      {
+        "height": 14,
+        "text": "Still · 10 mm",
+        "width": 64.53125,
+        "x": 372.734375,
+        "y": 667.34375
+      },
+      {
+        "height": 14,
+        "text": "Moving · 2 mm",
+        "width": 78.6953125,
+        "x": 545.65234375,
+        "y": 667.34375
+      },
+      {
+        "height": 19,
+        "text": "Remaining water / g",
+        "width": 146.21878051757812,
+        "x": 361.6666564941406,
+        "y": 685.34375
+      },
+      {
+        "height": 14,
+        "text": "Still mint · moving gold",
+        "width": 120.92971801757812,
+        "x": 361.6666564941406,
+        "y": 711.34375
+      },
+      {
+        "height": 12.5,
+        "text": "0.0",
+        "width": 15.1484375,
+        "x": 339.8515625,
+        "y": 857.0104370117188
+      },
+      {
+        "height": 12.5,
+        "text": "24.9",
+        "width": 21.4921875,
+        "x": 333.5078125,
+        "y": 800.34375
+      },
+      {
+        "height": 12.5,
+        "text": "49.9",
+        "width": 21.9453125,
+        "x": 333.0546875,
+        "y": 743.6771240234375
+      },
+      {
+        "height": 12.5,
+        "text": "0",
+        "width": 6.515625,
+        "x": 358.4088439941406,
+        "y": 870.34375
+      },
+      {
+        "height": 12.5,
+        "text": "12",
+        "width": 10.96875,
+        "x": 509.515625,
+        "y": 870.34375
+      },
+      {
+        "height": 12.5,
+        "text": "24",
+        "width": 12.734375,
+        "x": 661.9661865234375,
+        "y": 870.34375
+      },
+      {
+        "height": 14,
+        "text": "Physical time / hours",
+        "width": 109.9140625,
+        "x": 460.04296875,
+        "y": 888.6770629882812
+      },
+      {
+        "height": 12.5,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 248.75,
+        "x": 335,
+        "y": 924.34375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M70,900 L439.25925925925924,934 L444.9449777777509,934.5235195185531",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M70,900 L439.25925925925924,1070 L444.9449777777509,1070",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.64234666666526"
+      }
+    ],
+    "points": [
+      {
+        "cx": "1000.0685555555394",
+        "cy": "346.89930415245396",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "1000.0685555555394",
+        "cy": "530",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 10.165 g",
+        "remaining": "39.685 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.51397960280875",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "372.4860203971912"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.642 hours. Still air remaining 39.685 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 375.1875,
+      "width": 667,
+      "x": 289,
+      "y": 162.2421875
+    },
+    "texts": [
+      {
+        "height": 7.5,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 107.84378051757812,
+        "x": 343.7892761230469,
+        "y": 173.39361572265625
+      },
+      {
+        "height": 20,
+        "text": "Moving air. Follow the water.",
+        "width": 223.15628051757812,
+        "x": 343.7892761230469,
+        "y": 183.2609405517578
+      },
+      {
+        "height": 9,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 164.88284301757812,
+        "x": 343.7892761230469,
+        "y": 211.0203094482422
+      },
+      {
+        "height": 9.000015258789062,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 121.17190551757812,
+        "x": 343.7892761230469,
+        "y": 226.5637969970703
+      },
+      {
+        "height": 15,
+        "text": "Still air",
+        "width": 40.8125,
+        "x": 414.5,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.640625,
+        "x": 407.0859375,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.9375,
+        "x": 411.4375,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "39.685 g left",
+        "width": 63.5078125,
+        "x": 403.15234375,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 10.165 g",
+        "width": 45.6796875,
+        "x": 412.06640625,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 15,
+        "text": "Moving air",
+        "width": 62.04681396484375,
+        "x": 570.0372924804688,
+        "y": 259.6185302734375
+      },
+      {
+        "height": 9,
+        "text": "50 cm² exposed",
+        "width": 55.64056396484375,
+        "x": 573.2404174804688,
+        "y": 281.76995849609375
+      },
+      {
+        "height": 6.5,
+        "text": "25°C maintained",
+        "width": 46.93743896484375,
+        "x": 577.5919799804688,
+        "y": 380.78271484375
+      },
+      {
+        "height": 13.5,
+        "text": "0.000 g left",
+        "width": 56.7578125,
+        "x": 572.6818237304688,
+        "y": 396.7220153808594
+      },
+      {
+        "height": 9,
+        "text": "Lost 49.850 g",
+        "width": 48.3046875,
+        "x": 576.9083862304688,
+        "y": 417.3734436035156
+      },
+      {
+        "height": 11.5,
+        "text": "Dry · rate 0",
+        "width": 47.82025146484375,
+        "x": 577.1505737304688,
+        "y": 348.37567138671875
+      },
+      {
+        "height": 9.5,
+        "text": "Physical time 19.642 h · water budget conserved",
+        "width": 177.90628051757812,
+        "x": 343.7892761230469,
+        "y": 446.35247802734375
+      },
+      {
+        "height": 9,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 110.48440551757812,
+        "x": 351.8290100097656,
+        "y": 467.2197570800781
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Still · 10 mm",
+        "width": 41.9296875,
+        "x": 438.06060791015625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Moving · 2 mm",
+        "width": 50.8125,
+        "x": 599.773681640625,
+        "y": 509.5623474121094
+      },
+      {
+        "height": 14,
+        "text": "Remaining water / g",
+        "width": 107.8671875,
+        "x": 743.095947265625,
+        "y": 271.3381652832031
+      },
+      {
+        "height": 9,
+        "text": "Still mint · moving gold",
+        "width": 78.546875,
+        "x": 743.095947265625,
+        "y": 293.02557373046875
+      },
+      {
+        "height": 7.499969482421875,
+        "text": "0.0",
+        "width": 9.5078125,
+        "x": 728.2283935546875,
+        "y": 442.9926452636719
+      },
+      {
+        "height": 7.5,
+        "text": "24.9",
+        "width": 13.4609375,
+        "x": 724.2752685546875,
+        "y": 381.3546752929687
+      },
+      {
+        "height": 7.5,
+        "text": "49.9",
+        "width": 13.73443603515625,
+        "x": 724.0017700195312,
+        "y": 319.71673583984375
+      },
+      {
+        "height": 7.5,
+        "text": "0",
+        "width": 4.0546875,
+        "x": 741.068603515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "12",
+        "width": 6.86712646484375,
+        "x": 813.3599853515625,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 7.5,
+        "text": "24",
+        "width": 7.9296875,
+        "x": 886.5262451171875,
+        "y": 453.7122802734375
+      },
+      {
+        "height": 9,
+        "text": "Physical time / hours",
+        "width": 71.25,
+        "x": 781.1685180664062,
+        "y": 467.7557373046875
+      },
+      {
+        "height": 7.49993896484375,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 156.63284301757812,
+        "x": 343.7892761230469,
+        "y": 518.566162109375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L995.7528180354268,346 L1000.0685555555394,346.89930415245396",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L995.7528180354268,530 L1000.0685555555394,530",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "90",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "85",
+        "y": "680"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "18",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "355",
+        "y": "752"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.69567999999859"
+      }
+    ],
+    "points": [
+      {
+        "cx": "447.5005333333063",
+        "cy": "934.7588254363064",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "447.5005333333063",
+        "cy": "1070",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "150",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "62.232698311684814",
+          "x2": "237.76730168831517",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 10.193 g",
+        "remaining": "39.657 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.501799061183874",
+          "width": "175.53460337663037",
+          "x": "62.232698311684814",
+          "y": "402.4982009388161"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "450",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "362.2326983116848",
+          "x2": "537.7673016883152",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.696 hours. Still air remaining 39.657 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "420",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1200"
+    },
+    "svgBox": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 162.2421875
+    },
+    "texts": [
+      {
+        "height": 9,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 134.171875,
+        "x": 442.5,
+        "y": 176.0755157470703
+      },
+      {
+        "height": 20.5,
+        "text": "Moving air. Follow the water.",
+        "width": 225.8203125,
+        "x": 442.5,
+        "y": 191.9088592529297
+      },
+      {
+        "height": 14,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 254.546875,
+        "x": 442.5,
+        "y": 220.7421875
+      },
+      {
+        "height": 14,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 187.3515625,
+        "x": 442.5,
+        "y": 240.07553100585935
+      },
+      {
+        "height": 19.5,
+        "text": "Still air",
+        "width": 52.9375,
+        "x": 496.03125,
+        "y": 295.5755310058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 479.359375,
+        "y": 321.40887451171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 486.515625,
+        "y": 451.9088745117187
+      },
+      {
+        "height": 19,
+        "text": "39.657 g left",
+        "width": 89.2734375,
+        "x": 477.86328125,
+        "y": 472.0755310058594
+      },
+      {
+        "height": 13.999969482421877,
+        "text": "Lost 10.193 g",
+        "width": 70.71875,
+        "x": 487.140625,
+        "y": 497.4088745117187
+      },
+      {
+        "height": 19.5,
+        "text": "Moving air",
+        "width": 80.4765625,
+        "x": 682.26171875,
+        "y": 295.5755310058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 679.359375,
+        "y": 321.40887451171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 686.515625,
+        "y": 451.9088745117187
+      },
+      {
+        "height": 19,
+        "text": "0.000 g left",
+        "width": 80.625,
+        "x": 682.1875,
+        "y": 472.0755310058594
+      },
+      {
+        "height": 13.999969482421877,
+        "text": "Lost 49.850 g",
+        "width": 74.8125,
+        "x": 685.09375,
+        "y": 497.4088745117187
+      },
+      {
+        "height": 14.000030517578123,
+        "text": "Dry · rate 0",
+        "width": 59.4921875,
+        "x": 692.75390625,
+        "y": 414.0755004882813
+      },
+      {
+        "height": 16,
+        "text": "Physical time 19.696 h · water budget conserved",
+        "width": 283.015625,
+        "x": 442.5,
+        "y": 527.9088134765625
+      },
+      {
+        "height": 14,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 170.5546875,
+        "x": 452.5,
+        "y": 566.0755615234375
+      },
+      {
+        "height": 14,
+        "text": "Still · 10 mm",
+        "width": 64.53125,
+        "x": 480.234375,
+        "y": 678.7421875
+      },
+      {
+        "height": 14,
+        "text": "Moving · 2 mm",
+        "width": 78.6953125,
+        "x": 653.15234375,
+        "y": 678.7421875
+      },
+      {
+        "height": 19,
+        "text": "Remaining water / g",
+        "width": 146.21878051757812,
+        "x": 469.1666564941406,
+        "y": 696.7421875
+      },
+      {
+        "height": 14,
+        "text": "Still mint · moving gold",
+        "width": 120.92971801757812,
+        "x": 469.1666564941406,
+        "y": 722.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "0.0",
+        "width": 15.1484375,
+        "x": 447.3515625,
+        "y": 868.4088745117188
+      },
+      {
+        "height": 12.5,
+        "text": "24.9",
+        "width": 21.4921875,
+        "x": 441.0078125,
+        "y": 811.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "49.9",
+        "width": 21.9453125,
+        "x": 440.5546875,
+        "y": 755.0755615234375
+      },
+      {
+        "height": 12.5,
+        "text": "0",
+        "width": 6.515625,
+        "x": 465.9088439941406,
+        "y": 881.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "12",
+        "width": 10.96875,
+        "x": 617.015625,
+        "y": 881.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "24",
+        "width": 12.734375,
+        "x": 769.4661865234375,
+        "y": 881.7421875
+      },
+      {
+        "height": 14,
+        "text": "Physical time / hours",
+        "width": 109.9140625,
+        "x": 567.54296875,
+        "y": 900.0755004882812
+      },
+      {
+        "height": 12.5,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 248.75,
+        "x": 442.5,
+        "y": 935.7421875
+      }
+    ],
+    "traces": [
+      {
+        "d": "M70,900 L439.25925925925924,934 L447.5005333333063,934.7588254363064",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M70,900 L439.25925925925924,1070 L447.5005333333063,1070",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "50",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "170",
+        "y": "590"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "10",
+        "stroke": "#6ca7ba",
+        "width": "150",
+        "x": "480",
+        "y": "630"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.749013333331924"
+      }
+    ],
+    "points": [
+      {
+        "cx": "1001.2907777777616",
+        "cy": "347.1539882046104",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "1001.2907777777616",
+        "cy": "530",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "200",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "112.23269831168481",
+          "x2": "287.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 10.220 g",
+        "remaining": "39.630 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.489618519559",
+          "width": "175.53460337663037",
+          "x": "112.23269831168481",
+          "y": "372.510381480441"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "510",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "422.2326983116848",
+          "x2": "597.7673016883152",
+          "y1": "368",
+          "y2": "368"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.749 hours. Still air remaining 39.630 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "390",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 1100 700"
+    },
+    "svgBox": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 178.2421875
+    },
+    "texts": [
+      {
+        "height": 14,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 196.47659301757812,
+        "x": 434.8035583496094,
+        "y": 197.98504638671875
+      },
+      {
+        "height": 36.5,
+        "text": "Moving air. Follow the water.",
+        "width": 406.4999694824219,
+        "x": 434.8035583496094,
+        "y": 216.5859375
+      },
+      {
+        "height": 16,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 300.4218444824219,
+        "x": 434.8035583496094,
+        "y": 267.7578125
+      },
+      {
+        "height": 16,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 220.76565551757812,
+        "x": 434.8035583496094,
+        "y": 296.0716552734375
+      },
+      {
+        "height": 27.5,
+        "text": "Still air",
+        "width": 74.3515625,
+        "x": 563.60546875,
+        "y": 355.8917236328125
+      },
+      {
+        "height": 16,
+        "text": "50 cm² exposed",
+        "width": 101.3671875,
+        "x": 550.09765625,
+        "y": 396.6345825195313
+      },
+      {
+        "height": 12.99993896484375,
+        "text": "25°C maintained",
+        "width": 85.4765625,
+        "x": 558.04296875,
+        "y": 575.85205078125
+      },
+      {
+        "height": 24.5,
+        "text": "39.630 g left",
+        "width": 115.796875,
+        "x": 542.8828125,
+        "y": 605.405517578125
+      },
+      {
+        "height": 16,
+        "text": "Lost 10.220 g",
+        "width": 84.9765625,
+        "x": 558.29296875,
+        "y": 643.6484375
+      },
+      {
+        "height": 27.5,
+        "text": "Moving air",
+        "width": 113.046875,
+        "x": 846.9229736328125,
+        "y": 355.8917236328125
+      },
+      {
+        "height": 16,
+        "text": "50 cm² exposed",
+        "width": 101.3671875,
+        "x": 852.7628173828125,
+        "y": 396.6345825195313
+      },
+      {
+        "height": 12.99993896484375,
+        "text": "25°C maintained",
+        "width": 85.4765625,
+        "x": 860.7081298828125,
+        "y": 575.85205078125
+      },
+      {
+        "height": 24.5,
+        "text": "0.000 g left",
+        "width": 103.375,
+        "x": 851.7589111328125,
+        "y": 605.405517578125
+      },
+      {
+        "height": 16,
+        "text": "Lost 49.850 g",
+        "width": 88,
+        "x": 859.4464111328125,
+        "y": 643.6484375
+      },
+      {
+        "height": 20.5,
+        "text": "Dry · rate 0",
+        "width": 87.109375,
+        "x": 859.8917236328125,
+        "y": 517.60595703125
+      },
+      {
+        "height": 17,
+        "text": "Physical time 19.749 h · water budget conserved",
+        "width": 322.9530944824219,
+        "x": 434.8035583496094,
+        "y": 696.3471069335938
+      },
+      {
+        "height": 16,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 201.29681396484375,
+        "x": 449.44866943359375,
+        "y": 734.447998046875
+      },
+      {
+        "height": 16,
+        "text": "Still · 10 mm",
+        "width": 76.375,
+        "x": 606.529052734375,
+        "y": 811.5787963867188
+      },
+      {
+        "height": 16,
+        "text": "Moving · 2 mm",
+        "width": 92.546875,
+        "x": 901.1082153320312,
+        "y": 811.5787963867188
+      },
+      {
+        "height": 25.5,
+        "text": "Remaining water / g",
+        "width": 196.46875,
+        "x": 1162.17626953125,
+        "y": 376.91851806640625
+      },
+      {
+        "height": 15.999969482421877,
+        "text": "Still mint · moving gold",
+        "width": 143.109375,
+        "x": 1162.17626953125,
+        "y": 417.1377258300781
+      },
+      {
+        "height": 14.00006103515625,
+        "text": "0.0",
+        "width": 17.328125,
+        "x": 1135.084716796875,
+        "y": 689.0836181640625
+      },
+      {
+        "height": 14,
+        "text": "24.9",
+        "width": 24.5234375,
+        "x": 1127.889404296875,
+        "y": 576.8046875
+      },
+      {
+        "height": 14,
+        "text": "49.9",
+        "width": 25.0234375,
+        "x": 1127.389404296875,
+        "y": 464.525634765625
+      },
+      {
+        "height": 14.00006103515625,
+        "text": "0",
+        "width": 7.3828125,
+        "x": 1158.48486328125,
+        "y": 708.6104125976562
+      },
+      {
+        "height": 14.00006103515625,
+        "text": "12",
+        "width": 12.5078125,
+        "x": 1290.1689453125,
+        "y": 708.6104125976562
+      },
+      {
+        "height": 14.00006103515625,
+        "text": "24",
+        "width": 14.4453125,
+        "x": 1423.447021484375,
+        "y": 708.6104125976562
+      },
+      {
+        "height": 16,
+        "text": "Physical time / hours",
+        "width": 129.8046875,
+        "x": 1231.5206298828125,
+        "y": 735.42431640625
+      },
+      {
+        "height": 14,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 285.3672180175781,
+        "x": 434.8035583496094,
+        "y": 826.74755859375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M775,300 L995.7528180354268,346 L1001.2907777777616,347.1539882046104",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M775,300 L995.7528180354268,530 L1001.2907777777616,530",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "films": [
+      {
+        "data-air-film": "still",
+        "fill": "url(#air-film)",
+        "height": "90",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "85",
+        "y": "680"
+      },
+      {
+        "data-air-film": "moving",
+        "fill": "url(#air-film)",
+        "height": "18",
+        "stroke": "#6ca7ba",
+        "width": "100",
+        "x": "355",
+        "y": "752"
+      }
+    ],
+    "parameters": [
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "50"
+      },
+      {
+        "value": "2"
+      },
+      {
+        "value": "19.775679999998587"
+      }
+    ],
+    "points": [
+      {
+        "cx": "449.0338666666396",
+        "cy": "934.9000089869584",
+        "data-air-point": "still",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "449.0338666666396",
+        "cy": "1070",
+        "data-air-point": "moving",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-air-origin": "150",
+          "data-air-sample": "still"
+        },
+        "initial": {
+          "data-air-initial": "still",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "62.232698311684814",
+          "x2": "237.76730168831517",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 10.234 g",
+        "remaining": "39.616 g left",
+        "water": {
+          "data-air-water": "still",
+          "fill": "url(#air-water)",
+          "height": "17.48352824874656",
+          "width": "175.53460337663037",
+          "x": "62.232698311684814",
+          "y": "402.51647175125345"
+        }
+      },
+      {
+        "attrs": {
+          "data-air-origin": "450",
+          "data-air-sample": "moving"
+        },
+        "initial": {
+          "data-air-initial": "moving",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "362.2326983116848",
+          "x2": "537.7673016883152",
+          "y1": "398",
+          "y2": "398"
+        },
+        "loss": "Lost 49.850 g",
+        "remaining": "0.000 g left",
+        "water": null
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 19.776 hours. Still air remaining 39.616 grams;moving air 0.000 grams. Equal areas 50 square centimetres;25°C and 50%RH. Prescribed diffusion films,not a fan-speed forecast.",
+      "data-air-base": "420",
+      "data-air-horizon": "24",
+      "data-air-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1200"
+    },
+    "svgBox": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 178.2421875
+    },
+    "texts": [
+      {
+        "height": 9,
+        "text": "SCIENCE ATLAS / AIRFLOW",
+        "width": 134.171875,
+        "x": 762.5,
+        "y": 192.0755157470703
+      },
+      {
+        "height": 20.5,
+        "text": "Moving air. Follow the water.",
+        "width": 225.8203125,
+        "x": 762.5,
+        "y": 207.9088592529297
+      },
+      {
+        "height": 14,
+        "text": "Equal starting water and area · 25°C maintained",
+        "width": 254.546875,
+        "x": 762.5,
+        "y": 236.7421875
+      },
+      {
+        "height": 14,
+        "text": "Ambient RH 50% · prescribed films",
+        "width": 187.3515625,
+        "x": 762.5,
+        "y": 256.0755310058594
+      },
+      {
+        "height": 19.5,
+        "text": "Still air",
+        "width": 52.9375,
+        "x": 816.03125,
+        "y": 311.5755310058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 799.359375,
+        "y": 337.40887451171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 806.515625,
+        "y": 467.9088745117187
+      },
+      {
+        "height": 19,
+        "text": "39.616 g left",
+        "width": 88.09375,
+        "x": 798.453125,
+        "y": 488.0755310058594
+      },
+      {
+        "height": 13.99993896484375,
+        "text": "Lost 10.234 g",
+        "width": 72.5859375,
+        "x": 806.20703125,
+        "y": 513.4088745117188
+      },
+      {
+        "height": 19.5,
+        "text": "Moving air",
+        "width": 80.4765625,
+        "x": 1002.26171875,
+        "y": 311.5755310058594
+      },
+      {
+        "height": 14,
+        "text": "50 cm² exposed",
+        "width": 86.28125,
+        "x": 999.359375,
+        "y": 337.40887451171875
+      },
+      {
+        "height": 11,
+        "text": "25°C maintained",
+        "width": 71.96875,
+        "x": 1006.515625,
+        "y": 467.9088745117187
+      },
+      {
+        "height": 19,
+        "text": "0.000 g left",
+        "width": 80.625,
+        "x": 1002.1875,
+        "y": 488.0755310058594
+      },
+      {
+        "height": 13.99993896484375,
+        "text": "Lost 49.850 g",
+        "width": 74.8125,
+        "x": 1005.09375,
+        "y": 513.4088745117188
+      },
+      {
+        "height": 14.000030517578123,
+        "text": "Dry · rate 0",
+        "width": 59.4921875,
+        "x": 1012.75390625,
+        "y": 430.0755004882813
+      },
+      {
+        "height": 16,
+        "text": "Physical time 19.776 h · water budget conserved",
+        "width": 281.171875,
+        "x": 762.5,
+        "y": 543.9088134765625
+      },
+      {
+        "height": 14,
+        "text": "Reference films · 23 → 11.5 g/m³",
+        "width": 170.5546875,
+        "x": 772.5,
+        "y": 582.0755615234375
+      },
+      {
+        "height": 14,
+        "text": "Still · 10 mm",
+        "width": 64.53125,
+        "x": 800.234375,
+        "y": 694.7421875
+      },
+      {
+        "height": 14,
+        "text": "Moving · 2 mm",
+        "width": 78.6953125,
+        "x": 973.15234375,
+        "y": 694.7421875
+      },
+      {
+        "height": 19,
+        "text": "Remaining water / g",
+        "width": 146.21875,
+        "x": 789.1666870117188,
+        "y": 712.7421875
+      },
+      {
+        "height": 14,
+        "text": "Still mint · moving gold",
+        "width": 120.9296875,
+        "x": 789.1666870117188,
+        "y": 738.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "0.0",
+        "width": 15.1484375,
+        "x": 767.3515625,
+        "y": 884.4088745117188
+      },
+      {
+        "height": 12.5,
+        "text": "24.9",
+        "width": 21.4921875,
+        "x": 761.0078125,
+        "y": 827.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "49.9",
+        "width": 21.9453125,
+        "x": 760.5546875,
+        "y": 771.0755615234375
+      },
+      {
+        "height": 12.5,
+        "text": "0",
+        "width": 6.515625,
+        "x": 785.9088745117188,
+        "y": 897.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "12",
+        "width": 10.96875,
+        "x": 937.015625,
+        "y": 897.7421875
+      },
+      {
+        "height": 12.5,
+        "text": "24",
+        "width": 12.734375,
+        "x": 1089.4661865234375,
+        "y": 897.7421875
+      },
+      {
+        "height": 14,
+        "text": "Physical time / hours",
+        "width": 109.9140625,
+        "x": 887.54296875,
+        "y": 916.0755004882812
+      },
+      {
+        "height": 12.5,
+        "text": "Vapour is invisible. Films magnified;arrows show air.",
+        "width": 248.75,
+        "x": 762.5,
+        "y": 951.7421875
+      }
+    ],
+    "traces": [
+      {
+        "d": "M70,900 L439.25925925925924,934 L449.0338666666396,934.9000089869584",
+        "data-air-trace": "still",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M70,900 L439.25925925925924,1070 L449.0338666666396,1070",
+        "data-air-trace": "moving",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  }
+]

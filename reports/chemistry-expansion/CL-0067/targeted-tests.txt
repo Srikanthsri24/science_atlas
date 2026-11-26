@@ -1,0 +1,38 @@
+✔ closed annulus has correct outward material volume for real polygonal cross sections (14.793095ms)
+✔ all annular caps join inner and outer rings without disk triangles covering the cavity (4.963962ms)
+✔ every geometric edge is paired with opposite direction, including the periodic seam (3.38001ms)
+✔ zero-volume phases are empty and invalid dimensions cannot become geometry (2.149824ms)
+✔ gas and inside-water triangle volumes equal their separate cup inventories (23.38613ms)
+✔ actual outside-water layers plus inside water conserve the finite basin material (145.148369ms)
+✔ glass walls and roof occupy their exact volume without filling the open cavity (2.305928ms)
+✔ a flooded cup contains no gas mesh and return restores empty interior water without clearing contact history (1.257357ms)
+✔ all phase boundaries share surfaces in correct order with floor and dry vent clearance (0.410144ms)
+✔ record validation retains preparation while rejecting invalid controls and derived forgeries (1.650488ms)
+✔ latest sixty valid trials and bounded writing survive malformed stored suffixes (2.650028ms)
+✔ twenty-eight columns distinguish flooded pressure from zero gas amount and retain contact history (2.044515ms)
+✔ worked calculations remain finite and recomputed across all stages and preparation corners (15.545007ms)
+✔ flooded worked steps label pressure and PV not applicable while retaining water-pressure calculations (0.966359ms)
+✔ exam report recomputes every recorded result, splits printable tables and escapes company-only writing (4.443951ms)
+✔ both cups begin at the original free surface without invented water intrusion or displacement (3.662015ms)
+✔ a vertical trapped cup compresses isothermal air rather than excluding every drop of water (1.324091ms)
+✔ a partially immersed atmospheric vent matches inside and outside water levels while changing air amount (1.071976ms)
+✔ a flooded vented cavity has no fictitious gas-pressure reading (0.765636ms)
+✔ fully submerged vented displacement is only the submerged glass, not a nonexistent gas pocket (1.680137ms)
+✔ an independent air-intrusion root reproduces the coupled finite-basin sealed equilibrium (1.062854ms)
+✔ water, displaced volume, gas and hydrostatic balances close across all preparation corners (22.495035ms)
+✔ vented flooding transition is continuous even though gas presence and pressure applicability change (0.428654ms)
+✔ gas leaving and reentering the vent is retained as a proper open-system inventory (0.747906ms)
+✔ contact history does not make a previously reached marker instantly dry on withdrawal (0.623002ms)
+✔ the quasistatic vertical cycle has continuous positions and no insertion for the stationary control (0.973809ms)
+✔ vent flow agrees with the derivative of retained air during partial immersion and withdrawal (1.513981ms)
+✔ elapsed history exposes no future displacement or air/contact history (3.786937ms)
+✔ 120second guide includes62.5seconds of actual cup motion and synchronized hold/return stages (7.825318ms)
+✔ invalid, nonfinite and coerced preparations cannot become model observations (0.943124ms)
+ℹ tests 30
+ℹ suites 0
+ℹ pass 30
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 930.833561

@@ -1,0 +1,35 @@
+{
+  "verifiedOn": "2026-11-26",
+  "status": "qualitative_primary_source_read",
+  "sources": [
+    {
+      "url": "https://www.acs.org/education/activities/red-cabbage-indicator.html",
+      "reviewedSections": [
+        "Chemistry concepts",
+        "Make red cabbage indicator",
+        "Test various household solutions",
+        "How does it work?"
+      ],
+      "supports": [
+        "Anthocyanin is an acid-base indicator",
+        "Acidic solutions give red/pink",
+        "Basic solutions give green/yellow",
+        "Neutral solutions may be purple/blue",
+        "Record colour and acid/base/neutral classification"
+      ],
+      "doesNotVerify": [
+        "Exact hue-to-pH values",
+        "Chosen RGB palette/opacity",
+        "Pigment mass calibration",
+        "Ideal referencebuffer assumption",
+        "Chosen drop timing/flightheight"
+      ]
+    },
+    {
+      "url": "https://science.anu.edu.au/engagement/science-lab-experiments-home-school/diy-red-cabbage-ph-test",
+      "status": "retrieved_but_relevant_content_not_fully_audited_not_used_as_verified_support"
+    }
+  ],
+  "studentInterface": "Company-only,noexternalreferencepanels",
+  "officialCurriculumMapping": "pending"
+}

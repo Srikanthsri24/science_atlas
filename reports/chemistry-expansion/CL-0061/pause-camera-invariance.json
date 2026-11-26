@@ -1,0 +1,27 @@
+{
+  "before": {
+    "guide": "60",
+    "inputs": {
+      "acidMl": 20,
+      "acidMolL": 0.2,
+      "carbonateG": 0.3,
+      "pressureKPa": 101.325,
+      "rateSInv": 0.015,
+      "temperatureC": 25,
+      "timeS": 150
+    }
+  },
+  "after": {
+    "guide": "60",
+    "inputs": {
+      "acidMl": 20,
+      "acidMolL": 0.2,
+      "carbonateG": 0.3,
+      "pressureKPa": 101.325,
+      "rateSInv": 0.015,
+      "temperatureC": 25,
+      "timeS": 150
+    }
+  },
+  "exact": true
+}

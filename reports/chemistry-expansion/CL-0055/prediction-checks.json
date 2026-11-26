@@ -1,0 +1,27 @@
+[
+  {
+    "sample": "ice",
+    "text": [
+      "Your prediction matches the evidence. Equal latent-energy removal restores water to the solid phase under this reference test. This is a classroom restoration test, not a universal thermodynamic claim."
+    ],
+    "blockedBeforeReturn": true
+  },
+  {
+    "sample": "paper-wrong",
+    "text": [
+      "Compare your prediction with the observations. The aligned pieces still have cut seams. The material is still paper, but the original connections were not restored. This is a classroom restoration test, not a universal thermodynamic claim."
+    ]
+  },
+  {
+    "sample": "paper",
+    "text": [
+      "Your prediction matches the evidence. The aligned pieces still have cut seams. The material is still paper, but the original connections were not restored. This is a classroom restoration test, not a universal thermodynamic claim."
+    ]
+  },
+  {
+    "sample": "reaction",
+    "text": [
+      "Your prediction matches the evidence. Products and collector gas remain after stirring stops. Returning the tool does not regenerate reactants. This is a classroom restoration test, not a universal thermodynamic claim."
+    ]
+  }
+]

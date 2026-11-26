@@ -1,0 +1,68 @@
+[
+  {
+    "camera": "selected",
+    "canvas": 1516.703125,
+    "doc": 1080,
+    "format": "portrait",
+    "h": 1920,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1080
+  },
+  {
+    "camera": "comparison",
+    "canvas": 1516.703125,
+    "doc": 1080,
+    "format": "portrait",
+    "h": 1920,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1080
+  },
+  {
+    "camera": "boundary",
+    "canvas": 1516.703125,
+    "doc": 1080,
+    "format": "portrait",
+    "h": 1920,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1080
+  },
+  {
+    "camera": "selected",
+    "canvas": 599.5703125,
+    "doc": 1792,
+    "format": "landscape",
+    "h": 998,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1792
+  },
+  {
+    "camera": "comparison",
+    "canvas": 599.5703125,
+    "doc": 1792,
+    "format": "landscape",
+    "h": 998,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1792
+  },
+  {
+    "camera": "boundary",
+    "canvas": 599.5703125,
+    "doc": 1792,
+    "format": "landscape",
+    "h": 998,
+    "pressure": "101.325",
+    "time": "60",
+    "volume": "55.816146531208055",
+    "w": 1792
+  }
+]

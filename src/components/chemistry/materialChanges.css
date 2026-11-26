@@ -1,0 +1,21 @@
+.chem-changes p,.chem-changes small,.chem-changes label,.chem-changes button{overflow-wrap:anywhere}
+.chem-changes .chem-procedure-buttons button{white-space:normal;max-width:100%}
+.changes-samples{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:24px 0}
+.changes-samples button{display:flex;align-items:center;gap:14px;min-width:0;border:1px solid var(--border);border-radius:15px;background:var(--card);color:var(--text);text-align:left;padding:18px}
+.changes-samples button[aria-pressed=true]{border-color:#9181df;background:linear-gradient(120deg,var(--card),#8070f515);box-shadow:0 4px 20px #5b4bd80c}
+.changes-samples b{color:#9b85e6;font-size:23px}.changes-samples small{display:block;color:var(--muted);font-size:11px;margin-top:5px}
+.changes-camera{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;padding:10px 14px;background:#152b40;color:#dfedf8;flex:none}
+.changes-camera label,.changes-camera [role=group]{display:flex;align-items:center;flex-wrap:wrap;gap:8px;min-width:0}
+.changes-camera select,.changes-camera button{max-width:100%;min-width:0;background:#203c55;color:#e5eff8;border:1px solid #57748c;border-radius:8px;padding:8px;font:inherit}
+.changes-camera button:disabled{opacity:.45}.changes-scene{height:100%;min-height:180px;display:flex;flex-direction:column;background:#102235;overflow:hidden}
+.changes-scene>div:has(>canvas){flex:1!important;height:0!important;min-height:70px}
+.changes-inventory{display:flex;flex-direction:column;gap:4px;padding:10px 14px;background:#142c3d;color:#c5e8e6;font-size:clamp(10px,1.1vw,14px);flex:none;line-height:1.4}
+.changes-notes{background:#162e44;color:#bfd3e2;padding:8px 14px;font-size:12px;flex:none;max-height:40%;overflow:auto}.changes-notes summary{cursor:pointer}.changes-notes p{line-height:1.6}
+.changes-diagram-wrap{height:100%;display:flex;flex-direction:column;min-height:0;background:#102235}.changes-pan{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain}.changes-pan svg{display:block;max-width:none}
+.chem-changes .chem-bench-stage:has(.changes-diagram-wrap){min-height:340px}.chem-changes .chem-bench-viewer.theatre .chem-bench-stage:has(.changes-diagram-wrap){min-height:150px}
+.changes-prediction{padding:24px;margin-top:24px}.changes-prediction-fields{display:grid;grid-template-columns:1fr 1fr auto;gap:16px;align-items:end;margin-top:18px}.changes-prediction label{display:flex;flex-direction:column;gap:8px;font-size:13px;min-width:0}.changes-prediction select{width:100%;min-width:0;border:1px solid var(--border);border-radius:10px;padding:12px;color:var(--text);background:var(--bg)}.changes-prediction button{min-height:44px}.changes-prediction [role=status]{margin-top:16px;line-height:1.7}
+.changes-table-section h3{font-size:17px;margin-top:24px}
+@media(max-width:900px){.changes-prediction-fields{grid-template-columns:1fr 1fr}.changes-prediction-fields button{grid-column:1/-1}}
+@media(max-width:600px){.changes-samples{grid-template-columns:1fr}.changes-samples button{padding:12px}.changes-prediction-fields{grid-template-columns:1fr}.changes-prediction{padding:18px}.changes-camera{padding:8px;font-size:12px}.changes-inventory{padding:8px;font-size:10px}}
+@media(max-height:500px) and (orientation:landscape){.chem-changes .chem-bench-viewer.theatre .chem-bench-caption{min-height:0;max-height:70px;overflow:auto;padding:8px 12px}}
+.chem-changes .chem-record table{min-width:1400px}.chem-changes [aria-label='Bicarbonate and acetic acid observation table'] table{min-width:1900px}

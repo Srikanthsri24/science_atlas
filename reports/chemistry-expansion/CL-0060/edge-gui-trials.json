@@ -1,0 +1,92 @@
+[
+  {
+    "edge": "Home",
+    "time": 0,
+    "inputs": {
+      "waterG": 50,
+      "saltG": 40,
+      "fastCoolingS": 60,
+      "slowMultiplier": 2,
+      "growthFluxGcm2s": 0.005,
+      "nucleationPerS": 0.2,
+      "threshold": 0.02,
+      "timeS": 0
+    },
+    "rows": 6
+  },
+  {
+    "edge": "Home",
+    "time": 1200,
+    "inputs": {
+      "waterG": 50,
+      "saltG": 40,
+      "fastCoolingS": 60,
+      "slowMultiplier": 2,
+      "growthFluxGcm2s": 0.005,
+      "nucleationPerS": 0.2,
+      "threshold": 0.02,
+      "timeS": 1200
+    },
+    "rows": 8
+  },
+  {
+    "edge": "Home",
+    "time": 2400,
+    "inputs": {
+      "waterG": 50,
+      "saltG": 40,
+      "fastCoolingS": 60,
+      "slowMultiplier": 2,
+      "growthFluxGcm2s": 0.005,
+      "nucleationPerS": 0.2,
+      "threshold": 0.02,
+      "timeS": 2400
+    },
+    "rows": 10
+  },
+  {
+    "edge": "End",
+    "time": 0,
+    "inputs": {
+      "waterG": 100,
+      "saltG": 80,
+      "fastCoolingS": 240,
+      "slowMultiplier": 5,
+      "growthFluxGcm2s": 0.05,
+      "nucleationPerS": 5,
+      "threshold": 0.2,
+      "timeS": 0
+    },
+    "rows": 12
+  },
+  {
+    "edge": "End",
+    "time": 1200,
+    "inputs": {
+      "waterG": 100,
+      "saltG": 80,
+      "fastCoolingS": 240,
+      "slowMultiplier": 5,
+      "growthFluxGcm2s": 0.05,
+      "nucleationPerS": 5,
+      "threshold": 0.2,
+      "timeS": 1200
+    },
+    "rows": 14
+  },
+  {
+    "edge": "End",
+    "time": 2400,
+    "inputs": {
+      "waterG": 100,
+      "saltG": 80,
+      "fastCoolingS": 240,
+      "slowMultiplier": 5,
+      "growthFluxGcm2s": 0.05,
+      "nucleationPerS": 5,
+      "threshold": 0.2,
+      "timeS": 2400
+    },
+    "rows": 16
+  }
+]

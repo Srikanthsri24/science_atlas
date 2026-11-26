@@ -1,0 +1,30 @@
+✔ actual water and gas triangle volumes equal separately prescribed phase volumes at all vessel corners (43.344944ms)
+✔ real chamber annulus and caps surround the interior without replacing its water/headspace cavity (3.986438ms)
+✔ thermostatted jacket mesh is a genuine outside annulus and stays below the sealed roof (9.280468ms)
+✔ partition changes never create an invented oxygen bubble volume or moving water interface (2.615954ms)
+✔ all diagnostic thermometer, pressure needles and dissolved-index displays stay inside declared scales (3.540889ms)
+✔ stored controls validate and derived oxygen readings cannot be forged (2.665863ms)
+✔ latest60 valid preparations and bounded student writing survive storage validation (1.060223ms)
+✔ all29 columns keep partial pressure, total dry pressure and signed release distinct (0.555286ms)
+✔ 34 worked substitutions remain finite across all preparation corners and programme stages (27.065318ms)
+✔ worked cooling shows negative net gas release while the reference has zero temperature and transfer rate (0.434936ms)
+✔ original exam report prints three observation tables and all substitutions while escaping writing (1.513595ms)
+✔ chosen oxygen Henry coefficient reproduces its298.15K reference and decreases with warming (1.796491ms)
+✔ both matched initial chambers recover the specified oxygen partial pressure and Henry equilibrium (0.546659ms)
+✔ warming reduces dissolved oxygen while recalculating finite-headspace partial and total pressure (0.242929ms)
+✔ cooling reverses the equilibrium redistribution without negative inventories (0.266016ms)
+✔ oxygen and mass inventories, Henry equilibrium and ideal gases close at every preparation corner (4.46815ms)
+✔ unchanged-temperature reference and equal-target controls remain stationary at all times (0.303502ms)
+✔ analytic signed release rate agrees with central finite differences for warming and cooling (0.370599ms)
+✔ larger headspace reduces redistribution pressure above the sealed thermal-only gas reference (0.272377ms)
+✔ prescribed smooth programme reaches endpoints with zero endpoint rate and no overshoot (1.293084ms)
+✔ history and120second guide expose only elapsed equilibrium states and terminal hold (1.112489ms)
+✔ malformed and out-of-range preparations reject invented conditions (0.859791ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 697.063913

@@ -1,0 +1,34 @@
+{
+  "phone": {
+    "details": [
+      {
+        "scrollWidth": 352,
+        "width": 352
+      },
+      {
+        "scrollWidth": 316,
+        "width": 316
+      }
+    ],
+    "doc": 390,
+    "steps": 42,
+    "table": {
+      "left": 80,
+      "scrollWidth": 2863,
+      "width": 314
+    },
+    "w": 390
+  },
+  "pan": {
+    "left": 40,
+    "scrollWidth": 1056,
+    "top": 40,
+    "width": 352
+  },
+  "fit": {
+    "left": 0,
+    "scrollWidth": 352,
+    "top": 0,
+    "width": 352
+  }
+}

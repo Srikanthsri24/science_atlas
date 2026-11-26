@@ -1,0 +1,34 @@
+✔ physical100mL squarecell is explicitly rescaled todisplay ratherthan inventing volume (2.964393ms)
+✔ direct detector is inline andside detectorperpendicular atbeamheight (0.657819ms)
+✔ bedgrain solidvolume andpacking matchretained mass andstaybelow beam (0.930141ms)
+✔ representative markerweightssum toanalytic compartments,positionsstayincell andmotionpauseswithtime (8.804549ms)
+✔ lightmarkersrun alongdistinct opticalaxes andcolouronlyhasnoparticle-sidemarkers (1.326399ms)
+✔ history isordered,elapsedonly andendsatcurrentcomputedstate includingtimezero (4.377295ms)
+✔ camera plans coverusefulmatched/singleviewbounds (1.346727ms)
+✔ zero chosen settling keeps representative particle positions fixed (0.657786ms)
+✔ savednotebook preservesexactvalidinputs/writing andexcludesinvalidtrials (7.494104ms)
+✔ 22columnobservation keepsmatched preparation,particlebudget andopticalreadouts separate (0.746781ms)
+✔ 22workedsteps includeactualsubstitution andcorrect units withcolour/dilution (1.817472ms)
+✔ downloadedexamreport hasthreeprinttables,escapedwriting andallpertrialcalculations (2.673419ms)
+✔ blank separates source,water attenuation and normalized transmission (2.901215ms)
+✔ dilution prepares a fixed100mL cell from aliquot plus blank,not disappearing mass (0.591795ms)
+✔ suspended and settled particle mass closes across allparameter corners (2.269744ms)
+✔ small settling time retains positive bed mass without cancellation (0.466902ms)
+✔ constant chosen settling coefficient satisfies the compartment ODE (0.430945ms)
+✔ Beer Lambert direct attenuation uses metres and separates absorptionfrom scattering (0.405301ms)
+✔ dissolved colour can attenuate direct light without particle side signal (0.362763ms)
+✔ 90degree collection uses its two half-path attenuations and chosen collection fraction (0.612412ms)
+✔ side signal is not universally monotonic at high opticaldepth (0.760245ms)
+✔ signals stay within source energy and computed fractionsremainphysical (1.155851ms)
+✔ source intensity scales absolute signals,not normalized comparisons (0.660945ms)
+✔ matched pair shares initial cloudiness but separates settlinghistory (0.459882ms)
+✔ 120second guide has setup,continuous settling and truthful observationhold (3.454528ms)
+✔ invalid,missing,coerced ornonfinite inputs cannotbecome measurements (1.42875ms)
+ℹ tests 26
+ℹ suites 0
+ℹ pass 26
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1061.508394

@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0070",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "23 focused core/geometry/record tests and 2767 full regressions pass; standalone TypeScript and production build pass after final source changes. Stokes relative drag, dilute zero-volume-flux correction, two-front bed capture, original water/dry-solid/volume/mass closure, Reynolds and object-envelope concentration bounds, no-aggregation/viscosity/radius controls and completion continuity verified.",
+    "twoD": "51 actual format/view/viewport cases, including 28 apparatus states, 979 marker coordinates, 10 uniform-scale central bed crops, 15 microscopic cases and 1464 independent curve points passed independent rendered validation. True thin bed, descending cloud and representative packet motion; no fake dry sediment. 300 percent zoom, keyboard pan40/40 and Fit0/0 verified.",
+    "threeD": "40 actual camera/format/viewport cases independently reconstruct readings. Actual-volume cylindrical phase envelopes and true glass annulus; connected nonoverlapping microscopic cores and explicit chosen envelope. Central bed crop uniformly scales all axes. Native orbit mean28.33054/reset0; cutaway9.26357/restored0; markers.12343/restored0; section orbit60.38003/reset0; micro orbit14.48061/reset0.",
+    "responsive": "320/390/820/1280/1920 widths and both aspect formats, no page overflow; minimum positive SVG330.5px/canvas326.5px. Theatre390x844 canvas366.5px and844x390 canvas170px contained. Dark390px mobile has47 worked steps without page overflow; observation table314px viewport/3201px internal content, keyboard scroll40px. Default viewport/light restored.",
+    "practicalRecord": "52 actual GUI trials,28 columns. 2444 downloaded worked results and3360 numeric checks independently validated; three print tables, escaped writing and company-only report. Default7 times/completion, all four presets, N36 and parameter boundaries tested. Exact reload preserves52 rows and writing; Class5 backlink/return retains52. Manual playing disables recording; pause enables it.",
+    "playback": "Both actual120second guides completed at2400 physical seconds. 10setup+75presentation seconds to default floc completion+25to2400+10hold, explicit accelerated segments; real cloud/packet descent and growing wet bed. Microscopic structure inspector is not falsely presented as aggregation kinetics.",
+    "sources": "Relevant CDC flocculation/sedimentation sections and Reading PPLATO Stokes terminal force/speed sections read. Chosen Df2/envelope drag/bed packing and batch-front closure are original assumptions, not claimed calibrated floc measurements. External references remain private engineering evidence.",
+    "navigation": "CL0070 lazy route, Class5 backlink/return and saved record verified. Frontend only; no API key/backend. Original408 retained."
+  },
+  "reviewScope": "Internal engineering, model-consistency and browser-viewport review; not independent expert certification, official board alignment, physical-device/FPS/printer or real water-treatment validation. Already prepared ideal primary/floc references; no coagulant dose or aggregation kinetics. Equivalent impermeable spherical Stokes envelope with chosen Df2, uniform dilute suspension and fixed bed packing. No calibrated permeability, irregular-shape drag, turbulence, collisions, fragmentation, diffusion, dissolution or chemical treatment. Clear appearance does not establish purity. Microscopic cores/representative packets are explanatory structures, not measured morphology or literal particle inventory. Editorial class placement with numerical teacher extensions.",
+  "sourceHashes": {
+    "src/lib/chemistry/flocculationSettling.ts": "b89abd145a0be1ed7386962da981653296340b11362b3a90a607bb036431de45",
+    "src/lib/chemistry/flocculationSettlingGeometry.ts": "3f14377040bcfdc1f5060127df5cee33e2efd57ce24247c5f452e2f9da0d8df2",
+    "src/lib/chemistry/flocculationSettlingRecord.ts": "c2876d25cba360391983f2b30e5d45a30a9f4996154d7f2f0a5f32e78b04eb14",
+    "src/components/chemistry/FlocculationSettlingLab.tsx": "083a7d1c3693c1480945d92cd9b8bb6be1d86d70c08e8c38905ea40e5a7355fa",
+    "src/components/chemistry/FlocculationSettlingDiagram.tsx": "d36095948edbbca4c7dea90793fc3b05615a9e1feef25c5a92590cbcd0b43368",
+    "src/components/chemistry/FlocculationSettlingScene.tsx": "72ba6fbb2e084160a2522228173dd44bcf584b585d96358641e083d6a359f89c",
+    "src/components/chemistry/flocculationSettling.css": "4c57fa37538b775b009aaa542962c4cbb6872445df2a7c134a35e5e6a2bdfadf",
+    "tests/chemistry-flocculation-settling-geometry.test.mjs": "07e2a90ba10150b6031aa53836e42cbf2620b3c6189547fba633f25d423dc45f",
+    "tests/chemistry-flocculation-settling.test.mjs": "0730baf574a43f2827c00645762c03be0a4844a2fafef90f0de535a47455076d",
+    "tests/chemistry-flocculation-settling-record.test.mjs": "25e6c41c3400efc888adf24c384274523dde4053c0838d73aa4ee4a54e802320",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "labId": "CL-0067",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "26 own focused model/geometry/record tests plus4 annulus checks pass;2700 full regression checks, standalone TypeScript and final production build pass. Coupled finite-basin water conservation, hydrostatic/isothermal equilibrium, stable trapped-air root, flooded vent pressure/PV N/A, conserved air inventory during withdrawal, contact history and actual128-polygon glass/gas/water volumes tested across preparation corners.",
+    "twoD": "Original matched finite basins with moving vertical cups, gas/water interfaces, outside surface changes, schematic dry vent and contact marker. Uniform-scale rim closeup, elapsed-only air/water/pressure plots with flooded pressure gaps,300percent zoom and keyboard pan40/40, Fit. Full120second2D guide completed at160physicalseconds with recording reenabled.18 final view/format/viewport cases plus6 larger/phone view checks; corrected compressed stage height before acceptance.",
+    "threeD": "Original actual-volume closed gas, inner water, nonoverlapping outside water bands, real glass annulus and roof. Four cameras: both basins, selected basin, cup-follow and rim-follow; air/water labels, optional explanatory gas tint, genuine diagnostic clipping. Native orbit mean33.1492pixel change; reset0; cutaway off mean22.3084 and restoration0. Full120second3D guide completed at160physicalseconds and recording reenabled. Camera follow is a viewing reference, not physical tilt.",
+    "responsive": "24 final3D camera/format/viewport cases at320/820/1280 widths; positive contained canvas minimum266.5px and no document overflow.2D18 final cases minimum270.5px SVG height and no overflow; extra390/1920 views checked.390x844/844x390 theatre positive325/181.156px canvases contained in viewport. Defaultviewport/light theme restored.",
+    "practicalRecord": "30 actual browser trials,28columns; independent Python nested-root reconstruction validates1620 numeric results including1200 downloaded worked calculations, water/air inventory, N/A pressure and marker history. Three printable A4landscape tables, escaped prediction and company-only report. Exactreload retainsall30rows; class5backlink and workingpreview return verified.39vented/41trapped steps; setup controls reset preparation, inspection preserves time. Malformed storage and forged derived readings rejected.",
+    "playback": "Both actual120second guides completed.10setup+100evolution through160physicalseconds+10hold;62.5presentationseconds of actual lowering/raising; physicalhold andreturnedobservations. Recording disabled while playing and reenabled afterward. No invented paper-drying, submerged-vent bubbles or measured kinetics.",
+    "sources": "Private ACS inverted-cup demonstration and OpenStax hydrostatic/ideal-gas source audits support principles; chosen geometry/idealvent/contactproxy are model assumptions. Original prose and assets; no external studentUI/report links.",
+    "navigation": "Lazy frontend-only CL0067route, class5backlink/return and30retainedrecords verified. Original408concepts and146pre-existingstagedblobs preserved. No backend/APIkey."
+  },
+  "reviewScope": "Internal engineering, model consistency and browser viewport review; not independent expert, official curriculum mapping, physical device/FPS, printed-paper or measured apparatus certification. Vertical quasistatic motion; flat interfaces; incompressible water; uniform isothermal dry ideal air. No waves/inertia/capillarity/meniscus/leaks/dissolution/vapour/thermaltransients/gashead/finiteventresistance. Dry atmospheric vent has zero dead volume/displacement; marker is zero-volume contact history, not paper absorption/drying. Real air is clear, tint explanatory. Editorial classplacement; quantitative derivations teacher extensions.",
+  "sourceHashes": {
+    "src/lib/chemistry/invertedCup.ts": "e9b10ce0f16213e1ab4404cdaf14fa122f9163b5839fd40ef88c1e909c7ba14c",
+    "src/lib/chemistry/invertedCupGeometry.ts": "2eb6d55776532dd5735db30d8f683f937244288cb248ccec2343adf8934a10e3",
+    "src/lib/chemistry/invertedCupRecord.ts": "a4790fc4f69bc6deb4314f36a752a3c911f093c5ac8c798619cab96cdea6fcfe",
+    "src/components/chemistry/InvertedCupLab.tsx": "cf370f6196d9ffbc32a47d3b385574145ad8c2a2a115b3815c715a7baa55136f",
+    "src/components/chemistry/InvertedCupDiagram.tsx": "eda18ab91732cfdbe1d6c0bdc3794d310f2436781d42b3c8ac0a3544b0d767f7",
+    "src/components/chemistry/InvertedCupScene.tsx": "1e03d544851f1fce89e8bcb433768b5e52a2d39844b0b55231223b714ff00d2a",
+    "src/components/chemistry/invertedCup.css": "1c17bed8a71f2ddee0f773d810fe4ad73b37df53b801ca4dac008f529ffea3d6",
+    "tests/chemistry-inverted-cup.test.mjs": "8cfbabe1cddd1fc07653a0d1e8a469f8a388dd095625fabf6b3c286fbbd76769",
+    "tests/chemistry-inverted-cup-geometry.test.mjs": "3fdd8903e0b16dc2c23c41644b52ab0c6a69e558f7ca4b2a1c5d1d04122f737c",
+    "tests/chemistry-inverted-cup-record.test.mjs": "330c03e344bd605ddd980e125927115b60c5156205d8ebb90e4e61ebfcb2cbe3",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44",
+    "tests/chemistry-closed-annulus.test.mjs": "eaf8307414dfef9db5a282cd1d44e15e39640e61f9c2f9580bd0517f6a48c208"
+  }
+}

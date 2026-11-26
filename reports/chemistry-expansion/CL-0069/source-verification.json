@@ -1,0 +1,15 @@
+{
+  "labId": "CL-0069",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_relevant_sections_read",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "NIST Chemistry WebBook SRD69: Oxygen",
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7782447&Mask=1F",
+      "sections": "Molecularmass line8;Henry formula/units/table lines762\u2013782 read.",
+      "supports": "Chosen table row kH298=0.0013mol/(kgbar),temperatureconstant1500K,approximate exponentialreference;oxygen molarmass31.9988g/mol.",
+      "doesNotVerify": "Chosen finiteheadspace/watergeometry, nonabsorbing carrier, constantwaterdensity, temperatureprogramme or actual apparatus/kinetics; other tablerows differ andreferences areN/A."
+    }
+  ]
+}

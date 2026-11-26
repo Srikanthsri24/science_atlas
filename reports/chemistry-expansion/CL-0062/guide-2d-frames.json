@@ -1,0 +1,182 @@
+[
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0",
+        "surfaceY": "2.592188769304384",
+        "time": "0",
+        "vesselMl": "20"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0",
+        "surfaceY": "2.592188769304384",
+        "time": "0",
+        "vesselMl": "20"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0",
+        "surfaceY": "2.592188769304384",
+        "time": "0",
+        "vesselMl": "20"
+      }
+    ],
+    "timeline": "0.6",
+    "wall": 1795686248428
+  },
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.049999999999999996",
+        "surfaceY": "2.600149713150906",
+        "time": "7.761130000000208",
+        "vesselMl": "20.1"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.049999999999999996",
+        "surfaceY": "2.600149713150906",
+        "time": "7.761130000000208",
+        "vesselMl": "20.1"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.049999999999999996",
+        "surfaceY": "2.600149713150906",
+        "time": "7.761130000000208",
+        "vesselMl": "20.1"
+      }
+    ],
+    "timeline": "21.9",
+    "wall": 1795686270673
+  },
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.15",
+        "surfaceY": "2.6160716008439495",
+        "time": "23.057710000000036",
+        "vesselMl": "20.3"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.15",
+        "surfaceY": "2.6160716008439495",
+        "time": "23.057710000000036",
+        "vesselMl": "20.3"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.15",
+        "surfaceY": "2.6160716008439495",
+        "time": "23.057710000000036",
+        "vesselMl": "20.3"
+      }
+    ],
+    "timeline": "45.5",
+    "wall": 1795686294212
+  },
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.22499999999999998",
+        "surfaceY": "2.6280130166137328",
+        "time": "36.730069999999856",
+        "vesselMl": "20.45"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.22499999999999998",
+        "surfaceY": "2.6280130166137328",
+        "time": "36.730069999999856",
+        "vesselMl": "20.45"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.22499999999999998",
+        "surfaceY": "2.6280130166137328",
+        "time": "36.730069999999856",
+        "vesselMl": "20.45"
+      }
+    ],
+    "timeline": "66.5",
+    "wall": 1795686315282
+  },
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      }
+    ],
+    "timeline": "116.5",
+    "wall": 1795686365245
+  },
+  {
+    "samples": [
+      {
+        "cabbageSample": "acid",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      },
+      {
+        "cabbageSample": "neutral",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      },
+      {
+        "cabbageSample": "base",
+        "dropMl": "0.049999999999999996",
+        "pigmentMg": "0.3",
+        "surfaceY": "2.6399544323835156",
+        "time": "65",
+        "vesselMl": "20.6"
+      }
+    ],
+    "timeline": "120",
+    "wall": 1795686377963
+  }
+]

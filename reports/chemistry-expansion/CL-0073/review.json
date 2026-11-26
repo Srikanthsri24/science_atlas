@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0073",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "27 focused core/geometry/record tests and2848 full regressions pass; final TypeScript/build pass. Mixture-first identity classification handles molecular elements,O2/O3 with one element,unreactedH2/O2 and zero-count endpoints. Atom/number/mass fractions close; motion conserves species and atoms. Independent water saturation bound corrected initial draft density:80\u2013200nm cube,default57.17Pa,worst440Pa below minimum280K saturation~990Pa.",
+    "twoD": "Front/top/side projections,isolated rigid molecule and inventory view.651 actual rendered water-reference atom positions independently reconstructed including Euler rotations/reflections/magnification. Actual120s guide completed.300percent zoom, keyboard pan40/40,Fit0/0.",
+    "threeD": "Rigid mass-centred gas reference geometries with exact tested rounded lengths,bent/linear/tetrahedral angles,chosen sphere glyphs and explanatory connectivity. Eight species screenshots retain visible model content. Actual initial and final-camera-source120s guides completed. Orbit/tilt initially went blank; nonzero image differences rejected. Stable memoized camera options now retain >3500 molecule pixels for orbit/tilt/zoom; right.69417/up.65725/in1.17602 differences,reset0. Native gestures unverified while Maclocked.",
+    "responsive": "29 actual captured layout/rendered cases, widths320/390/820/1280/1920,bothformats and allfive diagram views at320.36 actual3D readout quantities independently checked. No page overflow,positivecontainedcanvas. Open camera controls184.5px canvas390x844theatre/120px844x390. Dark390px fits24 water worked steps;32-step complexmixture light390fits. Table314/3130px internally scrolls40px. Defaultviewport/light/normal restored.",
+    "practicalRecord": "26 actualGUItrials31columns cover all12 samples,six mixture pure/interior endpoints and min/max preparations. Independent546 observation quantities/636 actual downloaded worked results. Three print tables,escapedwriting/company-only. Reload/Class6 backlink-return retain26trials and writing. Manual/guide disable record whileplaying and enable paused/complete.",
+    "sources": "Purdue original teachingpage read; private NIST/CCCBDB geometricreferences and water Antoine equation/units/parameter ranges read. Official IUPAC direct403,search-only scope explicitly recorded. Rounded atomic masses/rigid reference geometry/ideal gas/collision-free reflected trajectories and illustrative rotations documented.",
+    "navigation": "Lazy Class6 CL0073 route/backlink/return working. Original408 concepts and146 pre-existing stagedblobs preserved; all871 earlier frozen hash checks pass. Frontend-only,no API/backend."
+  },
+  "reviewScope": "Internal engineering/model-consistency/browser-viewport review, not independent expert certification, official curriculum mapping, physical-device/FPS/printer or analytical unknown-sample validation. Defined low-pressure gases only; no real preparation/reaction/isotope/vibration/Maxwell-distributed velocity/intermolecular-collision/real-gas solver. Number fractions and mass fractions are distinct. Molecular geometry uses rounded gas references, chosen ball glyphs and optional1\u201340x magnification; centre scale and inventories unchanged. Ozone connections are explanatory equivalent resonance hybrid, not alternating chemical bonds. Molecular amount/mass/ideal pressure are teacher extensions, not macroscopic measurements. Native gestures unverified; accessible buttons tested. Historical initial density/camera mistakes corrected and earlier unsuccessful evidence retained with failure explanations.",
+  "nativeGestureVerification": "unverified_mac_locked; accessible_camera_controls_passed",
+  "sourceHashes": {
+    "src/lib/chemistry/materialClassification.ts": "ebb78b5e75d051120d479fec0344597dad02d3b632cbb6bae09b3d7bd3a14400",
+    "src/lib/chemistry/materialClassificationGeometry.ts": "9dbca983db4255a2dbe6d02c891deb3166090c429c1546e87746c5c74611d302",
+    "src/lib/chemistry/materialClassificationRecord.ts": "835f7051011778fd120687bed5c8a355384f63294fb7cbfc371b1c732bfa18ec",
+    "src/components/chemistry/MaterialClassificationLab.tsx": "1683ab21dadb8ab426eba440d62e47d6cb0fdbee87157501b49f8439594fb144",
+    "src/components/chemistry/MaterialClassificationDiagram.tsx": "556b43c3a318ba3e4a1a20371ec2573d74d0ff7a888282ffa66c8da8a52d4d04",
+    "src/components/chemistry/MaterialClassificationScene.tsx": "e4a2338a33d67333ed22e7934c7d47e31828f9cf47334fd5a62e36edfdfeef20",
+    "src/components/chemistry/materialClassification.css": "014d6bfbf6be558dcd20f4824ec434856ec679bf332abad790d87a9511746739",
+    "tests/chemistry-material-classification-geometry.test.mjs": "97aa7998cc4f2c315f2d94dc6320c758ba82812943fa027d55dbadcc9a135fd4",
+    "tests/chemistry-material-classification-record.test.mjs": "f64eaf69684865ab863d052bd29e67800257b8faf1a0343d53b383712aeead93",
+    "tests/chemistry-material-classification.test.mjs": "7bb91549b6d46763f1b2dcae92a065946ed5f78bc70de50f958c8211f4cd9548",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44"
+  }
+}

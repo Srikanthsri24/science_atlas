@@ -1,0 +1,23 @@
+{
+  "labId": "CL-0067",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_relevant_sections_read",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "AmericanChemicalSociety: Air\u2014It\u2019sReallyThere",
+      "url": "https://www.acs.org/content/dam/acsorg/education/resources/k-8/science-activities/solidsliquidsgases/air/air-science-for-kids.pdf",
+      "sections": "PDFpage0 instructions and explanation lines0\u201321 read",
+      "supports": "Qualitative trapped-air/inverted-cup and dry-paper investigation.",
+      "doesNotVerify": "Chosen finite-basin geometry, venttube, contactproxy or numerical equilibrium."
+    },
+    {
+      "title": "OpenStaxCollegePhysics2e11.4:PressurewithDepth",
+      "url": "https://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid",
+      "sections": "Hydrostatic derivation and atmospheric pressure lines30\u201367,105\u2013106 read",
+      "supports": "Incompressible fluid pressure incrementrho*g*depth added to atmosphere.",
+      "doesNotVerify": "Specific physical apparatus, dynamic water motion or real paper behavior."
+    }
+  ],
+  "additionalPrinciples": "Ideal-gas/isothermal relationship also uses the privateCL0066 OpenStaxgaslaw source audit. Original analytic/bisection implementation; no copied text or assets."
+}

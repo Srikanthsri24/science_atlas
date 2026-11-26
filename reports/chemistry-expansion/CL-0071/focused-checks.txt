@@ -1,0 +1,32 @@
+✔ porous envelopes partition actual solid, liquid and air without adding them twice (4.208031ms)
+✔ actual closed cylindrical meshes reproduce every phase envelope at process milestones (43.787061ms)
+✔ container capacities and separated consecutive layers contain all supported preparations (26.313631ms)
+✔ dry products have air-filled intergranular space rather than fictitious remaining water (0.919696ms)
+✔ transfer cues follow the actual scheduled operation and idle stages have no false flow (1.882692ms)
+✔ 30-column observations distinguish dissolved salt, crystalline product and retained contamination (2.328584ms)
+✔ worked substitutions expose washing recurrence, actual progress, dry recovery and all conservation checks (1.420062ms)
+✔ stored forged derived readings are ignored and malformed preparations cannot contaminate a record (2.202825ms)
+✔ bounded local record retains the latest60 trials and at most4000 characters per writing field (1.648223ms)
+✔ exam report escapes writing and has complete formula/result, procedure, limits and three printable tables (2.014386ms)
+✔ finished wash comparisons correctly distinguish ideal purity from rounded display or high percentage (0.878349ms)
+✔ initial mixture and reserved wash water belong to one declared mass boundary (2.822656ms)
+✔ all allowed preparations have enough initial water to dissolve all reference salt (0.839043ms)
+✔ partial filtration carries sand to the filter but partitions mother liquor with its salt concentration (0.73492ms)
+✔ a wash first mixes fresh water and then drains a solution of constant post-mix concentration (0.78484ms)
+✔ salt, sand, water and total mass close through every stage at all preparation corners (31.178669ms)
+✔ repeated washes obey an independently derived geometric mother-liquor dilution (0.854033ms)
+✔ drying retains all salts separately and cannot turn residual mother liquor into pure sand (0.520507ms)
+✔ zero mother-liquor retention is explicitly an ideal complete-separation limit (0.379782ms)
+✔ additional washing improves salt recovery and residue purity without inventing sand or extra salt (0.483081ms)
+✔ crystals emerge only when solution capacity falls, and salt never evaporates (0.595264ms)
+✔ all scheduled interfaces remain continuous, including no-wash and all three washes (1.691161ms)
+✔ 120second guide gives100seconds of continuous sequential apparatus change; history contains no future state (3.195885ms)
+✔ malformed preparations, noninteger wash count and unsupported time are rejected (0.767736ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1313.261763

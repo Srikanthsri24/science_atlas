@@ -1,0 +1,218 @@
+{
+  "before": {
+    "apparatus": null,
+    "canvas": {
+      "bottom": 532.5,
+      "h": 335,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "controls": [
+      {
+        "label": "Neutralization Initial acid volume",
+        "value": "20"
+      },
+      {
+        "label": "Neutralization Acid concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Base concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Planned base charge",
+        "value": "40"
+      },
+      {
+        "label": "Neutralization Metered aliquots",
+        "value": "400"
+      },
+      {
+        "label": "Neutralization Release interval",
+        "value": "0.2"
+      },
+      {
+        "label": "Neutralization physical time seconds",
+        "value": "60.916563"
+      },
+      {
+        "label": "Neutralization physical time slider",
+        "value": "60.92"
+      }
+    ],
+    "drops": [],
+    "readouts": "Calculated pH 11.2831 · basic · 25 °CBurette 39.500 mL · released 29.500 mL · arrived 29.500 mLIn flight 0.000 mL · vessel 49.500 mL · elapsed 60.917 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "reservoir": null,
+    "scene": {
+      "neutralization-3dPh": "11.28311840753437",
+      "neutralization-3dTime": "60.916562500000346"
+    },
+    "svg": null,
+    "tableScroll": 2558,
+    "tableWidth": 314,
+    "texts": [],
+    "vessel": null,
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 674,
+      "h": 577,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 97
+    },
+    "label": "phone-before-orbit",
+    "format": "portrait"
+  },
+  "after": {
+    "apparatus": null,
+    "canvas": {
+      "bottom": 532.5,
+      "h": 335,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "controls": [
+      {
+        "label": "Neutralization Initial acid volume",
+        "value": "20"
+      },
+      {
+        "label": "Neutralization Acid concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Base concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Planned base charge",
+        "value": "40"
+      },
+      {
+        "label": "Neutralization Metered aliquots",
+        "value": "400"
+      },
+      {
+        "label": "Neutralization Release interval",
+        "value": "0.2"
+      },
+      {
+        "label": "Neutralization physical time seconds",
+        "value": "60.916563"
+      },
+      {
+        "label": "Neutralization physical time slider",
+        "value": "60.92"
+      }
+    ],
+    "drops": [],
+    "readouts": "Calculated pH 11.2831 · basic · 25 °CBurette 39.500 mL · released 29.500 mL · arrived 29.500 mLIn flight 0.000 mL · vessel 49.500 mL · elapsed 60.917 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "reservoir": null,
+    "scene": {
+      "neutralization-3dPh": "11.28311840753437",
+      "neutralization-3dTime": "60.916562500000346"
+    },
+    "svg": null,
+    "tableScroll": 2558,
+    "tableWidth": 314,
+    "texts": [],
+    "vessel": null,
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 674,
+      "h": 577,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 97
+    },
+    "label": "phone-after-orbit",
+    "format": "portrait"
+  },
+  "reset": {
+    "apparatus": null,
+    "canvas": {
+      "bottom": 532.5,
+      "h": 335,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "controls": [
+      {
+        "label": "Neutralization Initial acid volume",
+        "value": "20"
+      },
+      {
+        "label": "Neutralization Acid concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Base concentration",
+        "value": "0.01"
+      },
+      {
+        "label": "Neutralization Planned base charge",
+        "value": "40"
+      },
+      {
+        "label": "Neutralization Metered aliquots",
+        "value": "400"
+      },
+      {
+        "label": "Neutralization Release interval",
+        "value": "0.2"
+      },
+      {
+        "label": "Neutralization physical time seconds",
+        "value": "60.916563"
+      },
+      {
+        "label": "Neutralization physical time slider",
+        "value": "60.92"
+      }
+    ],
+    "drops": [],
+    "readouts": "Calculated pH 11.2831 · basic · 25 °CBurette 39.500 mL · released 29.500 mL · arrived 29.500 mLIn flight 0.000 mL · vessel 49.500 mL · elapsed 60.917 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "reservoir": null,
+    "scene": {
+      "neutralization-3dPh": "11.28311840753437",
+      "neutralization-3dTime": "60.916562500000346"
+    },
+    "svg": null,
+    "tableScroll": 2558,
+    "tableWidth": 314,
+    "texts": [],
+    "vessel": null,
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 674,
+      "h": 577,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 97
+    },
+    "label": "phone-reset-orbit",
+    "format": "portrait"
+  }
+}

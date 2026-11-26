@@ -1,0 +1,27 @@
+{
+  "verifiedOn": "2026-11-26",
+  "status": "relevant_primary_sections_read",
+  "sources": [
+    {
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson9.html",
+      "sectionsRead": "Key concepts, summary/objective, engage preparation/procedure and observation-record description",
+      "supports": "Qualitative neutralization and overshoot; record matched dose observations. Their reagents differ from this model."
+    },
+    {
+      "url": "https://openstax.org/books/chemistry/pages/14-7-acid-base-titrations",
+      "sectionsRead": "Example14.21, strongacid/strongbase solution calculations including water autoionization at equivalence",
+      "supports": "Complete dissociation, moles/concentration/total-volume arithmetic and finite neutral equivalence in ideal strongacid/base model."
+    },
+    {
+      "url": "https://chemistry.ucdavis.edu/sites/g/files/dgvnsk196/files/inline-files/2020W%202B%20SLM.pdf",
+      "sectionsRead": "PDFpage50/printed39 introduction, burette and pH recording excerptslines1682\u20131714",
+      "supports": "HCl/NaOH and net ionic reactions, pH-vs-volume curve, endpoint differs from equivalence and successive volume/pH records."
+    }
+  ],
+  "notVerified": [
+    "Official class5 board mapping",
+    "Measured kinetics, dosing calibration or apparatus dimensions",
+    "Activity-corrected pH, heat balance or actual pH-meter response"
+  ],
+  "studentFacingExternalLinks": false
+}

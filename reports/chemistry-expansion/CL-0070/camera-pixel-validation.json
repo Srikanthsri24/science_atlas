@@ -1,0 +1,18 @@
+{
+  "camera": {
+    "orbit": 28.330543447293447,
+    "reset": 0.0,
+    "cutawayOff": 9.263570512820513,
+    "cutawayRestored": 0.0,
+    "markersOff": 0.12342877492877492,
+    "markersRestored": 0.0
+  },
+  "section": {
+    "orbit": 60.38003062678063,
+    "reset": 0.0
+  },
+  "micro": {
+    "orbit": 14.480606837606837,
+    "reset": 0.0
+  }
+}

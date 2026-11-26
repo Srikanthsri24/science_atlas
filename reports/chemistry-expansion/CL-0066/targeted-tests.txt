@@ -1,0 +1,35 @@
+✔ closed gas triangle volume equals the calculated volume for both boundaries (33.819483ms)
+✔ piston face follows gas height with a separate non-overlapping solid volume (2.205699ms)
+✔ gas stays inside the ninety-millilitre barrel and jacket stays below every possible piston (1.435348ms)
+✔ annular jacket has correct signed material volume and a distinct gas-barrel cavity (1.547211ms)
+✔ gauge and thermometer ranges contain every allowed pressure and temperature (0.420353ms)
+✔ heat-progress reference stops for stationary control and grows through signed cooling (0.272029ms)
+✔ records preserve preparation and reject malformed controls, boundaries and derived forgeries (1.532096ms)
+✔ latest sixty valid observations and bounded student writing survive bad stored suffixes (1.428101ms)
+✔ twenty-six observation columns distinguish boundary, gas/jacket temperature and signed energy (1.054981ms)
+✔ worked calculations remain finite for both boundaries, cooling, stationary and switch controls (3.461467ms)
+✔ return programme records positive heating and negative cooling as separate signed intervals (0.429345ms)
+✔ exam report recomputes every trial, splits printable tables and escapes company-only writing (3.753223ms)
+✔ both closed references start with matched amount, pressure, volume and temperature (1.946273ms)
+✔ fixed-pressure warming expands and fixed-volume warming increases pressure using kelvin (0.659582ms)
+✔ same jacket conductance gives different Cp/Cv time constants rather than identical fabricated temperatures (0.468401ms)
+✔ gas temperature lags the jacket and approaches the selected constant target (0.69314ms)
+✔ a colder jacket contracts the piston and lowers rigid pressure with negative heat and work (0.563819ms)
+✔ equal initial and target temperatures produce a stationary control throughout both programs (0.622284ms)
+✔ jacket return changes heat-flow direction without an instantaneous gas-state jump (0.36889ms)
+✔ finite return cooling retains a small residual rather than snapping exactly to the start (0.332116ms)
+✔ ideal-gas closure, mass and signed first-law inventories hold across all control corners (7.236125ms)
+✔ energy-rate and volume/pressure derivatives agree with finite differences away from jacket switches (0.63345ms)
+✔ boundary work equals imposed pressure times signed volume change with correct kPa/mL conversion (1.340691ms)
+✔ rms speed is a molecular temperature reference, not the visible piston speed (0.197287ms)
+✔ elapsed histories stop at observed time and preserve amount through heating and cooling (0.378539ms)
+✔ 120second explanation includes100seconds of continuous heating and cooling (0.596298ms)
+✔ malformed, nonfinite and unsupported preparations are rejected (0.618644ms)
+ℹ tests 27
+ℹ suites 0
+ℹ pass 27
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 680.236628

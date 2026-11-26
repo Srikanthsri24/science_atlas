@@ -1,0 +1,14 @@
+{
+  "labId": "CL-0051",
+  "observation": "Actual browser tool read just before switching to3D:guide clock120 and recordEnabled true;Record air evaporation evidence clicked successfully. Earlier2d-guide-end.json is the119.27-second pre-finish snapshot and is preserved as such.",
+  "clock": 120,
+  "recordEnabled": true,
+  "firstGuideTrialRecorded": true,
+  "parameters": [
+    50,
+    50,
+    50,
+    2,
+    24
+  ]
+}

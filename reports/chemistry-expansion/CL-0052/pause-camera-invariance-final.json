@@ -1,0 +1,48 @@
+{
+  "before": {
+    "camera": "column",
+    "canvasHeight": 206.1875,
+    "format": "landscape",
+    "guide": "58.97450000000104",
+    "height": 960,
+    "inventory": "Receiver: 187.625 mL / labelled 100.000 mL · Label in bed: 0.000 mL · Total water: 370.000 mL",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "29.31633333333403"
+    ],
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 29.316 s · flow running",
+    "width": 1280
+  },
+  "after": {
+    "camera": "all",
+    "canvasHeight": 206.1875,
+    "format": "landscape",
+    "guide": "58.97450000000104",
+    "height": 960,
+    "inventory": "Receiver: 187.625 mL / labelled 100.000 mL · Label in bed: 0.000 mL · Total water: 370.000 mL",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "29.31633333333403"
+    ],
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 29.316 s · flow running",
+    "width": 1280
+  },
+  "recordDisabledWhilePlaying": true,
+  "recordEnabled": true
+}

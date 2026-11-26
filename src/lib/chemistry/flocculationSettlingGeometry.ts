@@ -1,0 +1,20 @@
+import {flocState,flocReference as c,type FlocInputs,type FlocSample} from './flocculationSettling';import {rustCylinderTriangles} from './rustConditionsGeometry';import {annulusTriangles} from './closedAnnulus';
+const unitArea=64*Math.sin(2*Math.PI/128);
+export const flocApparatus={sides:128,radiusCm:Math.sqrt(c.columnAreaCm2/unitArea),bottomY:.5,wallCm:.12,baseCm:.15,freeboardCm:1.2};
+export function flocGeometry(q:FlocInputs,sample:FlocSample){const s=flocState(q,sample),a=flocApparatus;return {...s,bedTopY:a.bottomY+s.bedHeightCm,cloudTopY:a.bottomY+s.cloudTopCm,mixtureTopY:a.bottomY+s.initialHeightCm,vesselTopY:a.bottomY+s.initialHeightCm+a.freeboardCm,
+ geometryNote:'Closed128-polygon phase envelopes: wet bed, dilute cloud and clear water. Bed/cloud envelopes contain both solid and water, not pure dry solid. Their separately accounted compositions conserve all original water and mineral. Actual bed is thin; a cropped bottom closeup must preserve physical scale. Whole-jar markers may be enlarged representative height packets, never an extra material inventory. Microscope primary cores are illustrative connected nonoverlapping spheres inside a chosen effective drag envelope, not a measured real-floc shape/permeability calibration.'}}
+export function flocBedTriangles(q:FlocInputs,sample:FlocSample){const s=flocGeometry(q,sample),a=flocApparatus;return rustCylinderTriangles(a.radiusCm,s.bedHeightCm,a.bottomY+s.bedHeightCm/2)}
+export function flocCloudTriangles(q:FlocInputs,sample:FlocSample){const s=flocGeometry(q,sample),a=flocApparatus;return rustCylinderTriangles(a.radiusCm,s.cloudHeightCm,(s.bedTopY+s.cloudTopY)/2)}
+export function flocClearTriangles(q:FlocInputs,sample:FlocSample){const s=flocGeometry(q,sample),a=flocApparatus;return rustCylinderTriangles(a.radiusCm,s.clearHeightCm,(s.cloudTopY+s.mixtureTopY)/2)}
+export function flocWallTriangles(q:FlocInputs,sample:FlocSample){const s=flocGeometry(q,sample),a=flocApparatus;return annulusTriangles(a.radiusCm+a.wallCm,a.radiusCm,s.vesselTopY-a.bottomY,(a.bottomY+s.vesselTopY)/2)}
+export function flocBaseTriangles(q:FlocInputs,sample:FlocSample){flocState(q,sample);const a=flocApparatus;return rustCylinderTriangles(a.radiusCm+a.wallCm,a.baseCm,a.bottomY-a.baseCm/2)}
+/** Connected lattice cores for a labelled structural illustration, coordinates in µm.
+ * Effective radius is prescribed by the chosen Df2 reference, not inferred drag.
+ */
+export function flocCoreSites(q:FlocInputs,sample:FlocSample){const s=flocState(q,sample),N=s.primariesPerObject,r=q.primaryRadiusUm,R=s.radiusUm,sites:Array<[number,number,number]>=[[0,0,0]],used=new Set(['0,0,0']),frontier=new Map<string,[number,number,number]>(),directions=[[1,0,0],[-1,0,0],[0,1,0],[0,-1,0],[0,0,1],[0,0,-1]];
+ const add=(p:[number,number,number])=>{for(const d of directions){const v:[number,number,number]=[p[0]+d[0],p[1]+d[1],p[2]+d[2]],key=v.join(',');if(!used.has(key)&&2*r*Math.hypot(...v)+r<=R+1e-10)frontier.set(key,v)}};
+ add([0,0,0]);while(sites.length<N){let best:string|undefined,score=Infinity;for(const [key,v] of frontier){const h=Math.sin(v[0]*12.9898+v[1]*78.233+v[2]*37.719)*43758.5453,x=h-Math.floor(h)-.04*Math.hypot(...v);if(x<score){score=x;best=key}}if(best===undefined)throw new Error('Insufficient connected core sites within effective envelope');const v=frontier.get(best)!;frontier.delete(best);used.add(best);sites.push(v);add(v)}
+ return sites.map((p,i)=>({id:i,positionUm:p.map(v=>v*2*r) as [number,number,number],radiusUm:r,effectiveRadiusUm:R}));
+}
+/** Uniform-scale central crop; dimensions are a physical subregion, not extra material. */
+export function flocSectionGeometry(q:FlocInputs,sample:FlocSample){const s=flocGeometry(q,sample),heightCm=s.maximumBedHeightCm*1.5,widthCm=heightCm*1.2,depthCm=heightCm*.12,bedHeightCm=s.bedHeightCm,cloudTopCm=Math.min(heightCm,s.cloudTopCm);return {heightCm,widthCm,depthCm,bedHeightCm,cloudHeightCm:Math.max(0,cloudTopCm-bedHeightCm),clearHeightCm:heightCm-cloudTopCm,cloudTopCm,uniformDisplayScale:5/heightCm}}

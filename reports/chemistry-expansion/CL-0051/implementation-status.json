@@ -1,0 +1,41 @@
+{
+  "labId": "CL-0051",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/evaporationAirGeometry.ts": "0495a447c85685232126e6529c2c2d6e31a2e871e7a8b2bec228281eb75b01e5",
+    "src/lib/chemistry/evaporationAirRecord.ts": "a15f6c700b6aaecb509753cd2af7e13c62161298606fcdd0aefe0b331755c0ac",
+    "src/lib/chemistry/evaporationAir.ts": "f100a768f190172381cbeca25fff47bfa7c3d1a00951cb045cd340917eb3ffaf",
+    "src/components/chemistry/EvaporationAirDiagram.tsx": "2045b98314e7b7e27057acd51bf9c2ca3fbfdead75a0e7f4b2b2fbf8184ac15f",
+    "src/components/chemistry/EvaporationAirDiagramPanel.tsx": "4099178112c2e135bd3b15f7efc8c8ae0a3746fbfcbcdb0e16e233f325143fa5",
+    "src/components/chemistry/EvaporationAirLab.tsx": "71193b7bc872b9fb029d4cbbfbbcacf026afc7b6add7a7e278e4c02a596cea3b",
+    "src/components/chemistry/EvaporationAirScene.tsx": "1c7cea6cb327d43cb2c625524cfbab006c2156ae82cf73398aeb2ef179b3e007",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "tests/chemistry-evaporation-air-geometry.test.mjs": "b1dc46194840257002b1834f737d3b108be962d9d1fec397350c3a90f509ffee",
+    "tests/chemistry-evaporation-air-record.test.mjs": "b57c30b098c3d8c81f974675c4df2225f0cf8a4d57d035911069ce634b7a2a48",
+    "tests/chemistry-evaporation-air.test.mjs": "b181fca71ff67c5660f81c61ddbf89786fd24616fd63c4df17c0fc7aaab6c4c5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "targetedTests": {
+    "passed": 17,
+    "failed": 0
+  },
+  "geometryAndReportCoreImplemented": true,
+  "fullRegression": {
+    "passed": 2316,
+    "failed": 0
+  },
+  "productionBuild": "passed",
+  "browserReview": "passed_internal_functional_review",
+  "typescript": "passed",
+  "animationSeconds": 120
+}

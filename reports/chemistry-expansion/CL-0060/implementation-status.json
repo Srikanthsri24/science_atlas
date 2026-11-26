@@ -1,0 +1,15 @@
+{
+  "labId": "CL-0060",
+  "status": "ready",
+  "uiImplemented": true,
+  "targetedTests": 24,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "regressionTests": 2523,
+  "actualGuiTrials": 50,
+  "typeScript": "passed",
+  "productionBuild": "passed",
+  "downloadedWorkedResultsVerified": 88,
+  "reloadPersistence": "exact four Chrome rows plus writing",
+  "animationSeconds": 120
+}

@@ -65,37 +65,37 @@ This is the complete development list, not a claim that all labs are finished. C
 - **CL-0048** — Compare equal-volume samples by density · ready
 - **CL-0049** — Observe melting and freezing of a chosen material · ready
 - **CL-0050** — Investigate how surface area changes evaporation · ready
-- **CL-0051** — Compare evaporation in moving and still air · planned
-- **CL-0052** — Follow the path of water through a simple filter bed · planned
-- **CL-0053** — Compare sieving and filtration · planned
-- **CL-0054** — Plan a separation sequence for a three-component mixture · planned
+- **CL-0051** — Compare evaporation in moving and still air · ready
+- **CL-0052** — Follow the path of water through a simple filter bed · ready
+- **CL-0053** — Compare sieving and filtration · ready
+- **CL-0054** — Plan a separation sequence for a three-component mixture · ready
 
 ## Class 5 — Changes and water investigations
 
-- **CL-0055** — Distinguish reversible and irreversible material changes · planned
-- **CL-0056** — Observe a dissolving mass balance in a closed container · planned
-- **CL-0057** — Compare water samples using a turbidity model · planned
-- **CL-0058** — Investigate simple distillation of coloured water · planned
-- **CL-0059** — Grow crystals from a supersaturated solution · planned
-- **CL-0060** — Compare crystal growth during fast and slow cooling · planned
-- **CL-0061** — Observe carbon dioxide production from an acid and carbonate · planned
-- **CL-0062** — Compare an acid and a base using a cabbage-indicator model · planned
-- **CL-0063** — Investigate neutralizing an acidic solution · planned
-- **CL-0064** — Observe rust formation with different water and oxygen conditions · planned
-- **CL-0065** — Compare corrosion protection by coatings · planned
-- **CL-0066** — Compare expansion of air on warming · planned
-- **CL-0067** — Investigate gas occupying space in an inverted cup · planned
-- **CL-0068** — Compare solution concentration by colour intensity · planned
-- **CL-0069** — Investigate the effect of temperature on gas solubility · planned
-- **CL-0070** — Compare sedimentation before and after flocculation · planned
-- **CL-0071** — Separate a salt-and-sand mixture completely · planned
-- **CL-0072** — Design a water-recovery experiment · planned
+- **CL-0055** — Distinguish reversible and irreversible material changes · ready
+- **CL-0056** — Observe a dissolving mass balance in a closed container · ready
+- **CL-0057** — Compare water samples using a turbidity model · ready
+- **CL-0058** — Investigate simple distillation of coloured water · ready
+- **CL-0059** — Grow crystals from a supersaturated solution · ready
+- **CL-0060** — Compare crystal growth during fast and slow cooling · ready
+- **CL-0061** — Observe carbon dioxide production from an acid and carbonate · ready
+- **CL-0062** — Compare an acid and a base using a cabbage-indicator model · ready
+- **CL-0063** — Investigate neutralizing an acidic solution · ready
+- **CL-0064** — Observe rust formation with different water and oxygen conditions · ready
+- **CL-0065** — Compare corrosion protection by coatings · ready
+- **CL-0066** — Compare expansion of air on warming · ready
+- **CL-0067** — Investigate gas occupying space in an inverted cup · ready
+- **CL-0068** — Compare solution concentration by colour intensity · ready
+- **CL-0069** — Investigate the effect of temperature on gas solubility · ready
+- **CL-0070** — Compare sedimentation before and after flocculation · ready
+- **CL-0071** — Separate a salt-and-sand mixture completely · ready
+- **CL-0072** — Design a water-recovery experiment · ready
 
 ## Class 6 — Matter and mixtures
 
-- **CL-0073** — Classify a material as element, compound or mixture · planned
-- **CL-0074** — Compare homogeneous and heterogeneous mixtures · planned
-- **CL-0075** — Model diffusion in gases and liquids · planned
+- **CL-0073** — Classify a material as element, compound or mixture · ready
+- **CL-0074** — Compare homogeneous and heterogeneous mixtures · ready
+- **CL-0075** — Model diffusion in gases and liquids · ready
 - **CL-0076** — Compare physical and chemical changes using particle evidence · planned
 - **CL-0077** — Measure density from mass and displaced volume · planned
 - **CL-0078** — Prepare a solution with a stated mass concentration · planned

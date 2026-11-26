@@ -1,0 +1,20 @@
+{
+  "labId": "CL-0072",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "recordEngineImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 30,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "typeScript": "passed",
+  "fullRegressionTests": 2821,
+  "cameraButtons": "Actual canvas pixel changes verified: orbit4.9913, tilt6.0712, zoom13.8398; reset0. Native gestures unverified.",
+  "productionBuild": "passed",
+  "twoDGuide": "actual120s completed",
+  "threeDGuide": "actual120s completed",
+  "actualGuiTrials": 35,
+  "independentObservationChecks": 805,
+  "downloadedWorkedResults": 1785
+}

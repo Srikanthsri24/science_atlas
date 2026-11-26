@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "guiRows": 30,
+  "columns": 28,
+  "independentNumericChecks": 1620,
+  "workedResults": 1200,
+  "printTables": 3
+}

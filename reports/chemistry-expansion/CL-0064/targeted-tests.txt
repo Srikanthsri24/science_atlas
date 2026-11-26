@@ -1,0 +1,26 @@
+✔ closed cylinder winding and actual triangle volumes match polygonal reference volumes (13.73866ms)
+✔ metal core and hollow attached-product triangles retain separate material volumes (21.127096ms)
+✔ sediment and water meshes meet at one surface without overlapping their modeled volumes (11.711248ms)
+✔ all phase volumes fit the rigid cell, keep the coupon above the pool and recover the modeled gas space (2.321017ms)
+✔ ideal excluded controls contain neither an invented shell nor a sediment layer (0.330765ms)
+✔ reference phase has a balanced elemental and molar-mass equation (2.178061ms)
+✔ all four reference cells start at the same pressure with no invented product (1.447113ms)
+✔ both available water and oxygen are required for this selected modeled pathway (0.611081ms)
+✔ a chosen residual oxygen reference can produce a small nonzero product without claiming perfect deoxygenation (0.32598ms)
+✔ the default capacity follows a finite oxygen inventory and chosen exponential law (0.348211ms)
+✔ iron and water limited preparations do not silently use an oxygen-only capacity (0.22316ms)
+✔ whole mass and Fe/O/H atom inventories close across the control corners (9.851716ms)
+✔ changing attached fraction redistributes product without changing chemistry or gas pressure (0.203656ms)
+✔ pressure uses the current gas space after all solid and liquid displacements (0.201948ms)
+✔ limiting-reagent tails remain positive and state rates agree with an independent finite difference (0.418565ms)
+✔ elapsed histories stop at the observed day and grow only the appropriate material phases (0.80011ms)
+✔ 120second guide has setup, fourteen-day compressed evolution and a final comparison hold (1.206246ms)
+✔ nonfinite, coerced or out-of-bounds controls cannot become observations (0.61625ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 617.351632

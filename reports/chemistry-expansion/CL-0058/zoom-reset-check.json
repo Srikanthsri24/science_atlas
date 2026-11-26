@@ -1,0 +1,824 @@
+{
+  "before": {
+    "base": 485,
+    "box": {
+      "height": 624.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 507.7421875
+    },
+    "centre": 525.625,
+    "guide": "0",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "markers": [
+      {
+        "cx": "481.14747061488066",
+        "cy": "271.2896764805802",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "280.7386045973229",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "313.9803723036673",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "494.2873590125013",
+        "cy": "322.5",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "393.4169172975156",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "353.5422932437975",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "650.6714523422716",
+        "cy": "334.86116962835183",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "608.2904569104209",
+        "cy": "318.96829634140784",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "565.9094614785761",
+        "cy": "303.07542305446606",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "523.5284660467254",
+        "cy": "287.182549767522",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      }
+    ],
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 624,
+      "scrollWidth": 1215,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "pot": {
+      "clip-path": "url(#stillPotClip)",
+      "data-still-pot-liquid": "",
+      "fill": "#a379cb",
+      "fill-opacity": "0.4200812136557264",
+      "height": "49.048354542475025",
+      "width": "146.25",
+      "x": "273.75",
+      "y": "411.576645457525"
+    },
+    "receiver": {
+      "data-still-receiver-liquid": "",
+      "fill": "#80d8c2",
+      "fill-opacity": ".4",
+      "height": "57.472618338739984",
+      "width": "97.5",
+      "x": "736.875",
+      "y": "419.40238166126"
+    },
+    "recordEnabled": true,
+    "scale": 16.25,
+    "series": [],
+    "texts": [
+      {
+        "height": 12,
+        "text": "SCIENCE ATLAS / DISTILLATION STUDIO",
+        "width": 247.8671875,
+        "x": 532.712890625,
+        "y": 524.28076171875
+      },
+      {
+        "height": 29.5,
+        "text": "Heat. Separate. Account for every part.",
+        "width": 447.1796875,
+        "x": 532.712890625,
+        "y": 542.283203125
+      },
+      {
+        "height": 13,
+        "text": "Physical time 4000.00 s · cutoff complete",
+        "width": 209.703125,
+        "x": 532.712890625,
+        "y": 581.541259765625
+      },
+      {
+        "height": 11,
+        "text": "Pot",
+        "width": 14.75,
+        "x": 545.20166015625,
+        "y": 604.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Vapour",
+        "width": 31.3046875,
+        "x": 658.3809814453125,
+        "y": 604.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Drain",
+        "width": 23.3203125,
+        "x": 771.5602416992188,
+        "y": 604.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Receiver",
+        "width": 38.04693603515625,
+        "x": 884.739501953125,
+        "y": 604.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Vent",
+        "width": 20.0703125,
+        "x": 997.9188232421876,
+        "y": 604.1160278320312
+      },
+      {
+        "height": 10.5,
+        "text": "HEATER OFF",
+        "width": 52.09375,
+        "x": 757.904541015625,
+        "y": 871.7191772460938
+      },
+      {
+        "height": 11,
+        "text": "Head position only",
+        "width": 82.125,
+        "x": 742.888916015625,
+        "y": 636.3135986328125
+      },
+      {
+        "height": 11,
+        "text": "Separate cooling jacket",
+        "width": 103.37493896484376,
+        "x": 922.5222778320312,
+        "y": 636.3135986328125
+      },
+      {
+        "height": 11,
+        "text": "Upper outlet",
+        "width": 55.4140625,
+        "x": 857.7154541015625,
+        "y": 674.365234375
+      },
+      {
+        "height": 11,
+        "text": "Lower inlet",
+        "width": 47.9609375,
+        "x": 988.2808837890624,
+        "y": 835.4505615234375
+      },
+      {
+        "height": 12,
+        "text": "Pot 100.0 °C",
+        "width": 59.1171875,
+        "x": 754.392822265625,
+        "y": 734.2478637695312
+      },
+      {
+        "height": 11,
+        "text": "Open / vented",
+        "width": 62.0234375,
+        "x": 1108.0885009765625,
+        "y": 720.0272216796875
+      },
+      {
+        "height": 11,
+        "text": "100.000 g collected",
+        "width": 87.4921875,
+        "x": 1082.670166015625,
+        "y": 889.9913330078125
+      },
+      {
+        "height": 11,
+        "text": "Representative transport · water vapour is invisible · coolant never mixes with product",
+        "width": 377.56243896484375,
+        "x": 753.7188110351562,
+        "y": 931.9456787109376
+      },
+      {
+        "height": 14,
+        "text": "Pot water 100.000 g · dye 10.0 mg",
+        "width": 181.640625,
+        "x": 536.6156005859375,
+        "y": 1012.1837158203124
+      },
+      {
+        "height": 14,
+        "text": "Vapour 0.0000 g · drain 0.0000 g",
+        "width": 177.453125,
+        "x": 536.6156005859375,
+        "y": 1035.60009765625
+      },
+      {
+        "height": 14,
+        "text": "Collected 100.000 g · vented 0.000 g",
+        "width": 198.1171875,
+        "x": 536.6156005859375,
+        "y": 1059.016357421875
+      },
+      {
+        "height": 14,
+        "text": "Water budget 200.000 g · recovery 50.00%",
+        "width": 231.9765625,
+        "x": 536.6156005859375,
+        "y": 1082.432861328125
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 1000
+  },
+  "max": {
+    "base": 485,
+    "box": {
+      "height": 1873.3125,
+      "width": 3645,
+      "x": 335,
+      "y": 509.7421875
+    },
+    "centre": 525.625,
+    "guide": "0",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "markers": [
+      {
+        "cx": "481.14747061488066",
+        "cy": "271.2896764805802",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "280.7386045973229",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "313.9803723036673",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "494.2873590125013",
+        "cy": "322.5",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "393.4169172975156",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "353.5422932437975",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "650.6714523422716",
+        "cy": "334.86116962835183",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "608.2904569104209",
+        "cy": "318.96829634140784",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "565.9094614785761",
+        "cy": "303.07542305446606",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "523.5284660467254",
+        "cy": "287.182549767522",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      }
+    ],
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 1873,
+      "scrollWidth": 3645,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "pot": {
+      "clip-path": "url(#stillPotClip)",
+      "data-still-pot-liquid": "",
+      "fill": "#a379cb",
+      "fill-opacity": "0.4200812136557264",
+      "height": "49.048354542475025",
+      "width": "146.25",
+      "x": "273.75",
+      "y": "411.576645457525"
+    },
+    "receiver": {
+      "data-still-receiver-liquid": "",
+      "fill": "#80d8c2",
+      "fill-opacity": ".4",
+      "height": "57.472618338739984",
+      "width": "97.5",
+      "x": "736.875",
+      "y": "419.40238166126"
+    },
+    "recordEnabled": true,
+    "scale": 16.25,
+    "series": [],
+    "texts": [
+      {
+        "height": 36,
+        "text": "SCIENCE ATLAS / DISTILLATION STUDIO",
+        "width": 743.6875,
+        "x": 928.138671875,
+        "y": 559.8579711914062
+      },
+      {
+        "height": 88.5,
+        "text": "Heat. Separate. Account for every part.",
+        "width": 1341.625,
+        "x": 928.138671875,
+        "y": 612.865234375
+      },
+      {
+        "height": 38.5,
+        "text": "Physical time 4000.00 s · cutoff complete",
+        "width": 629.1953125,
+        "x": 928.138671875,
+        "y": 731.139404296875
+      },
+      {
+        "height": 33,
+        "text": "Pot",
+        "width": 44.2421875,
+        "x": 965.6049194335938,
+        "y": 798.8636474609375
+      },
+      {
+        "height": 33,
+        "text": "Vapour",
+        "width": 93.90625,
+        "x": 1305.142822265625,
+        "y": 798.8636474609375
+      },
+      {
+        "height": 33,
+        "text": "Drain",
+        "width": 69.953125,
+        "x": 1644.6806640625,
+        "y": 798.8636474609375
+      },
+      {
+        "height": 33,
+        "text": "Receiver",
+        "width": 114.1407470703125,
+        "x": 1984.2186279296875,
+        "y": 798.8636474609375
+      },
+      {
+        "height": 33,
+        "text": "Vent",
+        "width": 60.2109375,
+        "x": 2323.75634765625,
+        "y": 798.8636474609375
+      },
+      {
+        "height": 30.5,
+        "text": "HEATER OFF",
+        "width": 156.265625,
+        "x": 1603.721435546875,
+        "y": 1602.1732177734375
+      },
+      {
+        "height": 33,
+        "text": "Head position only",
+        "width": 246.359375,
+        "x": 1558.674560546875,
+        "y": 895.456298828125
+      },
+      {
+        "height": 33,
+        "text": "Separate cooling jacket",
+        "width": 310.117431640625,
+        "x": 2097.5703125,
+        "y": 895.456298828125
+      },
+      {
+        "height": 33,
+        "text": "Upper outlet",
+        "width": 166.2265625,
+        "x": 1903.154296875,
+        "y": 1009.611328125
+      },
+      {
+        "height": 33,
+        "text": "Lower inlet",
+        "width": 143.8828125,
+        "x": 2294.8427734375,
+        "y": 1492.867431640625
+      },
+      {
+        "height": 36,
+        "text": "Pot 100.0 °C",
+        "width": 177.3671875,
+        "x": 1593.170654296875,
+        "y": 1189.75927734375
+      },
+      {
+        "height": 33,
+        "text": "Open / vented",
+        "width": 186.0625,
+        "x": 2654.26953125,
+        "y": 1146.597412109375
+      },
+      {
+        "height": 33,
+        "text": "100.000 g collected",
+        "width": 262.4765625,
+        "x": 2578.010986328125,
+        "y": 1656.4896240234375
+      },
+      {
+        "height": 33.0001220703125,
+        "text": "Representative transport · water vapour is invisible · coolant never mixes with product",
+        "width": 1132.6796875,
+        "x": 1591.16015625,
+        "y": 1782.352783203125
+      },
+      {
+        "height": 41.5,
+        "text": "Pot water 100.000 g · dye 10.0 mg",
+        "width": 544.9608764648438,
+        "x": 939.8468627929688,
+        "y": 2023.566650390625
+      },
+      {
+        "height": 41.5,
+        "text": "Vapour 0.0000 g · drain 0.0000 g",
+        "width": 532.4140014648438,
+        "x": 939.8468627929688,
+        "y": 2093.81591796875
+      },
+      {
+        "height": 41.499755859375,
+        "text": "Collected 100.000 g · vented 0.000 g",
+        "width": 594.3983764648438,
+        "x": 939.8468627929688,
+        "y": 2164.065185546875
+      },
+      {
+        "height": 41.5,
+        "text": "Water budget 200.000 g · recovery 50.00%",
+        "width": 696.0233764648438,
+        "x": 939.8468627929688,
+        "y": 2234.314453125
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 1000
+  },
+  "reset": {
+    "base": 485,
+    "box": {
+      "height": 624.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 509.7421875
+    },
+    "centre": 525.625,
+    "guide": "0",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "markers": [
+      {
+        "cx": "481.14747061488066",
+        "cy": "271.2896764805802",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "280.7386045973229",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "460.625",
+        "cy": "313.9803723036673",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "494.2873590125013",
+        "cy": "322.5",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "393.4169172975156",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "688.125",
+        "cy": "353.5422932437975",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "650.6714523422716",
+        "cy": "334.86116962835183",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "608.2904569104209",
+        "cy": "318.96829634140784",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "565.9094614785761",
+        "cy": "303.07542305446606",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      },
+      {
+        "cx": "523.5284660467254",
+        "cy": "287.182549767522",
+        "data-still-marker": "coolant",
+        "fill": "#66d4e5",
+        "r": "2.5"
+      }
+    ],
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 624,
+      "scrollWidth": 1215,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "pot": {
+      "clip-path": "url(#stillPotClip)",
+      "data-still-pot-liquid": "",
+      "fill": "#a379cb",
+      "fill-opacity": "0.4200812136557264",
+      "height": "49.048354542475025",
+      "width": "146.25",
+      "x": "273.75",
+      "y": "411.576645457525"
+    },
+    "receiver": {
+      "data-still-receiver-liquid": "",
+      "fill": "#80d8c2",
+      "fill-opacity": ".4",
+      "height": "57.472618338739984",
+      "width": "97.5",
+      "x": "736.875",
+      "y": "419.40238166126"
+    },
+    "recordEnabled": true,
+    "scale": 16.25,
+    "series": [],
+    "texts": [
+      {
+        "height": 12,
+        "text": "SCIENCE ATLAS / DISTILLATION STUDIO",
+        "width": 247.8671875,
+        "x": 532.712890625,
+        "y": 526.28076171875
+      },
+      {
+        "height": 29.5,
+        "text": "Heat. Separate. Account for every part.",
+        "width": 447.1796875,
+        "x": 532.712890625,
+        "y": 544.283203125
+      },
+      {
+        "height": 13,
+        "text": "Physical time 4000.00 s · cutoff complete",
+        "width": 209.703125,
+        "x": 532.712890625,
+        "y": 583.541259765625
+      },
+      {
+        "height": 11,
+        "text": "Pot",
+        "width": 14.75,
+        "x": 545.20166015625,
+        "y": 606.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Vapour",
+        "width": 31.3046875,
+        "x": 658.3809814453125,
+        "y": 606.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Drain",
+        "width": 23.3203125,
+        "x": 771.5602416992188,
+        "y": 606.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Receiver",
+        "width": 38.04693603515625,
+        "x": 884.739501953125,
+        "y": 606.1160278320312
+      },
+      {
+        "height": 11,
+        "text": "Vent",
+        "width": 20.0703125,
+        "x": 997.9188232421876,
+        "y": 606.1160278320312
+      },
+      {
+        "height": 10.5,
+        "text": "HEATER OFF",
+        "width": 52.09375,
+        "x": 757.904541015625,
+        "y": 873.7191772460938
+      },
+      {
+        "height": 11,
+        "text": "Head position only",
+        "width": 82.125,
+        "x": 742.888916015625,
+        "y": 638.3135986328125
+      },
+      {
+        "height": 11,
+        "text": "Separate cooling jacket",
+        "width": 103.37493896484376,
+        "x": 922.5222778320312,
+        "y": 638.3135986328125
+      },
+      {
+        "height": 11,
+        "text": "Upper outlet",
+        "width": 55.4140625,
+        "x": 857.7154541015625,
+        "y": 676.365234375
+      },
+      {
+        "height": 11,
+        "text": "Lower inlet",
+        "width": 47.9609375,
+        "x": 988.2808837890624,
+        "y": 837.4505615234375
+      },
+      {
+        "height": 12,
+        "text": "Pot 100.0 °C",
+        "width": 59.1171875,
+        "x": 754.392822265625,
+        "y": 736.2478637695312
+      },
+      {
+        "height": 11,
+        "text": "Open / vented",
+        "width": 62.0234375,
+        "x": 1108.0885009765625,
+        "y": 722.0272216796875
+      },
+      {
+        "height": 11,
+        "text": "100.000 g collected",
+        "width": 87.4921875,
+        "x": 1082.670166015625,
+        "y": 891.9913330078125
+      },
+      {
+        "height": 11,
+        "text": "Representative transport · water vapour is invisible · coolant never mixes with product",
+        "width": 377.56243896484375,
+        "x": 753.7188110351562,
+        "y": 933.9456787109376
+      },
+      {
+        "height": 14,
+        "text": "Pot water 100.000 g · dye 10.0 mg",
+        "width": 181.640625,
+        "x": 536.6156005859375,
+        "y": 1014.1837158203124
+      },
+      {
+        "height": 14,
+        "text": "Vapour 0.0000 g · drain 0.0000 g",
+        "width": 177.453125,
+        "x": 536.6156005859375,
+        "y": 1037.60009765625
+      },
+      {
+        "height": 14,
+        "text": "Collected 100.000 g · vented 0.000 g",
+        "width": 198.1171875,
+        "x": 536.6156005859375,
+        "y": 1061.016357421875
+      },
+      {
+        "height": 14,
+        "text": "Water budget 200.000 g · recovery 50.00%",
+        "width": 231.9765625,
+        "x": 536.6156005859375,
+        "y": 1084.432861328125
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 1000
+  }
+}

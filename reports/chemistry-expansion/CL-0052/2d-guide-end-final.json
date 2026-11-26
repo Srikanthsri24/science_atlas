@@ -1,0 +1,11 @@
+{
+  "clock": "120",
+  "parameters": [
+    "28",
+    "10",
+    "100",
+    "200",
+    "60"
+  ],
+  "recordEnabled": true
+}

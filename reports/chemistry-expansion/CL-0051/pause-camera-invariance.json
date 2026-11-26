@@ -1,0 +1,47 @@
+{
+  "before": {
+    "camera": "both",
+    "canvasHeight": 222.6875,
+    "format": "landscape",
+    "guide": "44.85079599998736",
+    "height": 960,
+    "inventory": "Still: 45.731 g left / 4.119 g lost · Moving: 29.253 g left / 20.597 g lost",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": [
+      "50",
+      "50",
+      "50",
+      "2",
+      "7.960212266663297"
+    ],
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 7.960 h · both 25°C · RH 50%",
+    "width": 1280
+  },
+  "after": {
+    "camera": "airflow",
+    "canvasHeight": 222.6875,
+    "format": "landscape",
+    "guide": "44.85079599998736",
+    "height": 960,
+    "inventory": "Still: 45.731 g left / 4.119 g lost · Moving: 29.253 g left / 20.597 g lost",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": [
+      "50",
+      "50",
+      "50",
+      "2",
+      "7.960212266663297"
+    ],
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 7.960 h · both 25°C · RH 50%",
+    "width": 1280
+  },
+  "recordEnabled": true
+}

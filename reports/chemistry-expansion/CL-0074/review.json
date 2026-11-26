@@ -1,0 +1,41 @@
+{
+  "labId": "CL-0074",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "26 focused core/geometry/record checks and2874 full regressions pass; final TypeScript/build pass. Four generic phase references,conservative sharp-front settling/creaming,wet sediment pore-carrier balance and exact finite-band overlap. Known phase classification distinguished from matching bulk samples. All preparation corners conserve A/B mass and full vessel volume.",
+    "twoD": "Four-column,selected,microscope and finite-band mass views. Actual120s guide completed. Original volume-based profiles and scan bands;30 captured layout/rendered cases include allfourdiagramviews320px.424actual DOM numeric quantities independently reconstructed across2Dregions/bands and3Dreadings.300percentzoom/keyboardpan40/40/Fit0/0.",
+    "threeD": "True annular glass/separate base and exact12cm\u00b2 polygon-area envelope meshes. Porous wet bed distinguished from pure solid;cream layer and droplet markers follow model. Initial120s and final-continuous-render-source120s guides completed. Earlier blankcamera captures rejected,including retained-buffer demand zoom-out. Final activeviewer continuous rendering,retained buffer and owned pre-render camera fitting preserve >114000brightmodelpixels in allsixactions. Pixel changes left5.5769,right10.6068,up9.0017,down7.9950,in21.0407,out14.7444;reset0;cutaway8.2293,markers.08578. Nativegestures unverified while Maclocked.",
+    "responsive": "30actualcapturedcases,320/390/820/1280/1920,bothformats,allfour2Dviews320 and final3Dselectedreferences320portrait. No pageoverflow/collapsedviewer. Finalcamera opencontrols194pxcanvas390x844theatre/120px844x390. Dark390 fits33stableworkedsteps;table314/4520px internallyscrolls40px. Defaultviewport/light/normal restored.",
+    "practicalRecord": "52 actualGUItrials34columns: allfourreferences0/300/1000s and threebands,wide.25bands acrossinterfaces,predictedcompletion and min/maxpreparations (including beyond-runfront predictions). Independent1144observationquantities/1945actualdownloadedworkedresults. Threeprinttables,escapedwriting/company-only. Exactreload/Class6backlink-return retain52rows/plan/conclusion. Manual/guide recorddisabledwhileplaying and enabledpaused/completed.",
+    "sources": "Original OpenStaxclassificationsection/phaseexamples read. OfficialNCERT/IITKsearch excerpts supporting qualitative distinctions recorded with directPDFtimeouts/403scope; no fullPDF or verified2026\u201327mapping claim. All quantitative densities/frontspeed/packing/stability/scans original assumptions,not source-calibrated physicaldata.",
+    "navigation": "LazyClass6CL0074route/backlink/return working. Original408inventory and146pre-existingstagedblobs preserved; all892earlierfrozenhashchecks pass. Frontend-only,no API/backend."
+  },
+  "reviewScope": "Internal engineering/model-consistency/browser-viewport review,not independentexperts,officialcurriculum mapping,physical-device/FPS/printer or calibrated assay validation. Prepared genericreferences,chosen fixeddensities and constant sharp-frontvelocities,wetbedsolidfraction.6,idealstabilizeddensity-matcheddroplets. No Stokes-radius/viscosity/hydrodynamic prediction,coalescence/realstability lifetime,specificchemicalrecipe,temperature/reaction/dissolution/partialmolarvolume/opticalscattering/assay-noise solver. Prepared solutiondensity/concentration specified; no separate solutephasevolume assigned. Exactnonwithdrawal virtualscans,notpipetting; realwithdrawalrequireschangedbalance. Three-bandmean/SD notwhole-vessel average orconfidenceinterval. Microscopeglyphs and markers schematic,notextraquantitativeinventory. Localbandphasecount distinguishedfromwhole-vesselphases. Nativegesturesunverified; testedaccessiblecontrols available. Historicalfailedblankframes retained and rejected,notcountedaspasses. Finalviewer renderscontinuously; no hardwareFPS or batteryclaim. Detailedfinite-volume calculations teacherextensions.",
+  "nativeGestureVerification": "unverified_mac_locked; accessible_camera_controls_passed",
+  "sourceHashes": {
+    "src/lib/chemistry/mixtureComparison.ts": "a509e0f6ff2b0cc20157fda147b00f5617fa69bd5ec36e7c0cb7483eb6b2bef1",
+    "src/lib/chemistry/mixtureComparisonGeometry.ts": "fb2f2bef58aef760d98aa403d250618d0f4d89e321da7d550b2c644a7325e2cc",
+    "src/lib/chemistry/mixtureComparisonRecord.ts": "4bf93aee418ca0bf3b8fd69b4a4966c380341a1cd24b1ac00a8be098e9fb9ebb",
+    "src/components/chemistry/MixtureComparisonLab.tsx": "8deea347284b274fb8abd86a8c6e6a5a0a9f61719400adbeeb82cbba8c131e7c",
+    "src/components/chemistry/MixtureComparisonDiagram.tsx": "654d29894b729c9abdb17ae096ebfd8ca519d05ea434a4638f421ad017eced14",
+    "src/components/chemistry/MixtureComparisonScene.tsx": "f1dbae79021e9cf2635a049d50ec140a6abdd9a22ea37bf2a8ee0fe702f03461",
+    "src/components/chemistry/mixtureComparison.css": "9773d1afa5f8e888c4dccac339ce8d6f0a52ca8e0d7bc201d46fbb82d2830ba8",
+    "tests/chemistry-mixture-comparison-geometry.test.mjs": "c4998b1f1c6878ec4195ce72581591d8c81132185d524f943050ef0f08dcce9e",
+    "tests/chemistry-mixture-comparison-record.test.mjs": "c1199f96045b70f5f9100becff39f5691590d1d513e7af2e3dfddfb2b6d09cef",
+    "tests/chemistry-mixture-comparison.test.mjs": "73668d58e5522da7d920c64a51cbe0075bee5f5689446fd663af47fd02d8d1f5",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44",
+    "src/components/chemistry/MixtureComparisonCamera.tsx": "a1f8a053efbcbf598d168a4fc0ac2d6fecd469281cb9e246bd0c0f961b9a2a66"
+  }
+}

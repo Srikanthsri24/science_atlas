@@ -1,0 +1,1949 @@
+[
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": null,
+    "window": 0,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 208,
+      "scrollHeight": 208,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": null,
+    "window": 0,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 249,
+      "scrollHeight": 249,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": null,
+    "window": 0,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 234,
+      "scrollHeight": 234,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": null,
+    "window": 0,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 269,
+      "scrollHeight": 269,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": null,
+    "window": 0,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 624,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": null,
+    "window": 0,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 369,
+      "scrollHeight": 369,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": null,
+    "window": 0,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 535,
+      "scrollHeight": 535,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": null,
+    "window": 0,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 694,
+      "scrollHeight": 694,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": null,
+    "window": 0,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 694,
+      "scrollHeight": 694,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": null,
+    "window": 0,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 694,
+      "scrollHeight": 694,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 600,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 600,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 600,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 600,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 600,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "dissolved",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "solid",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "solid",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 106,
+      "scrollHeight": 106,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 198,
+      "scrollHeight": 198,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 183,
+      "scrollHeight": 183,
+      "scrollWidth": 556,
+      "width": 556
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 261,
+      "scrollHeight": 261,
+      "scrollWidth": 667,
+      "width": 667
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "landscape",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 620,
+      "scrollHeight": 620,
+      "scrollWidth": 1215,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 320,
+    "pageWidth": 320,
+    "pan": {
+      "height": 267,
+      "scrollHeight": 267,
+      "scrollWidth": 282,
+      "width": 282
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 390,
+    "pageWidth": 390,
+    "pan": {
+      "height": 484,
+      "scrollHeight": 484,
+      "scrollWidth": 352,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 820,
+    "pageWidth": 820,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 1280,
+    "pageWidth": 1280,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "2D",
+    "format": "portrait",
+    "metric": "ratio",
+    "window": 1200,
+    "width": 1920,
+    "pageWidth": 1920,
+    "pan": {
+      "height": 643,
+      "scrollHeight": 643,
+      "scrollWidth": 480,
+      "width": 480
+    }
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 188.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 188.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 188.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 188.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "facets",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 548.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 320,
+    "height": 740,
+    "format": "portrait",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 247,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "110.6",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 473,
+      "width": 320,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 247,
+    "wrapper": {
+      "height": 247,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "111",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 351,
+    "wrapper": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 820,
+    "height": 960,
+    "format": "landscape",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "111.4",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 553.5,
+    "wrapper": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "111.9",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 838.140625,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 661.0546875,
+    "wrapper": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 95.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "112.3",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 95.5,
+    "wrapper": {
+      "height": 95.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 82,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 82,
+    "wrapper": {
+      "height": 82,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 320,
+    "height": 740,
+    "format": "portrait",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 473,
+      "width": 320,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 128.5,
+    "wrapper": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 232.5,
+    "wrapper": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 820,
+    "height": 960,
+    "format": "landscape",
+    "camera": "sampleA",
+    "canvas": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 40,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 20,
+        "timeS": 600,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 600.00 s · 20.0 °C heldSample A · dissolved 31.6208 g + solid 8.5792 g · total 40.2000 g · new solid 8.3792 gSample B · dissolved 31.6691 g + solid 8.3309 g · total 40.0000 g · new solid 8.3309 g",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 438.328125,
+    "wrapper": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "pageWidth": 390,
+    "pan": {
+      "height": 435,
+      "scrollHeight": 435,
+      "scrollWidth": 390,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "pageWidth": 844,
+    "pan": {
+      "height": 138,
+      "scrollHeight": 138,
+      "scrollWidth": 844,
+      "width": 844
+    }
+  }
+]

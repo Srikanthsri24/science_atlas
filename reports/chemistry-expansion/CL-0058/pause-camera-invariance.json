@@ -1,0 +1,82 @@
+{
+  "before": {
+    "camera": "receiver",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "77.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 674.5409399997454,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 674.54 s · distilling · pot 100.00 °C referencePot 69.0465 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 30.6876 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 458.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    }
+  },
+  "after": {
+    "camera": "condenser",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 509.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "77.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 674.5409399997454,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 674.54 s · distilling · pot 100.00 °C referencePot 69.0465 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 30.6876 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 399.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 509.7421875
+    }
+  }
+}

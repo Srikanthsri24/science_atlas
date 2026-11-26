@@ -1,0 +1,13 @@
+{
+  "clock": "120",
+  "inventory": "Receiver: 300.000 mL / labelled 100.000 mL · Label in bed: 0.000 mL · Total water: 370.000 mL",
+  "parameters": [
+    "28",
+    "10",
+    "100",
+    "200",
+    "60"
+  ],
+  "recordEnabled": true,
+  "time": "Physical time: 60.000 s · isolation valves closed"
+}

@@ -1,0 +1,9 @@
+{
+  "duration": 120,
+  "actualContinuousRun": true,
+  "initialRecordEnabled": false,
+  "finalRecordEnabled": true,
+  "timeline": "120",
+  "finalPhysicalSeconds": "1000",
+  "rendering": "continuous active viewer,retained buffer,owned pre-render camera"
+}

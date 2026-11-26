@@ -1,0 +1,13 @@
+{
+ "labId":"CL-0074",
+ "sources":[
+  {"url":"https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter","status":"classification_section_and_phase_examples_read","supports":"Uniform solution versus spatially varying mixtures; distinct immiscible droplets/layers and physical separation; original educational qualitative framework","limitations":"No source validation of chosen densities/front speeds/sampling geometry or official Indian board mapping"},
+  {"url":"https://www.ncert.nic.in/textbook/pdf/iesc102.pdf","status":"official_search_excerpt_read_direct_fetch_timeout","supports":"Qualitative solution/suspension/colloid distinctions identified in official search excerpt","limitations":"Full PDF not read; not a verified2026–27 curriculum mapping"},
+  {"url":"https://www.ncert.gov.in/pdf/school-kit/Manual_Sci_KitClass%20IX%20%26%20X.pdf","status":"official_activity_excerpt_read_direct_fetch_timeout","supports":"Prepared solution versus suspension/colloidal reference qualitative observation activity","limitations":"Full manual not read; virtual nonwithdrawal scanner is original,not this manual's apparatus"},
+  {"url":"https://sathee.iitk.ac.in/gu/sathee-ssc/student-corner/ncert-books/class-09/nb-science-09/sci-09-chapter-2-is-matter-around-us-pure/","status":"official_search_excerpt_only_direct403","supports":"Colloids may appear homogeneous while retaining dispersed phase domains","limitations":"Full page not read"},
+  {"url":"https://goldbook.iupac.org/terms/view/C01174/plain","status":"direct403_definition_not_read","supports":"Terminology source identified only","limitations":"No definition or full-page-read claim"}
+ ],
+ "modelAssumptions":"Original conservative sharp-front model,chosen constant densities/speed/bedpacking and ideal stable density-matched dispersion. Exact finite-band integration,not a calibrated assay. Nonwithdrawal scans conserve vessel inventory. Microscopic glyphs are schematic,not extra counted mass.",
+ "officialCurriculumMapping":"unverified_editorial_class6",
+ "independentExpertReview":"not claimed"
+}

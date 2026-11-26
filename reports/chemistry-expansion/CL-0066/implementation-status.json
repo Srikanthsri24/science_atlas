@@ -1,0 +1,19 @@
+{
+  "labId": "CL-0066",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "recordEngineImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 28,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "typecheck": "passed",
+  "regressionTests": 2694,
+  "actualUiTrials": 60,
+  "downloadedWorkedResultsVerified": 1976,
+  "animationSeconds": 120,
+  "build": "passed",
+  "annularCapFocusedTests": 32,
+  "annularCapAmendment": "passed_internal_review"
+}

@@ -1,0 +1,34 @@
+✔ corrected96-sided vessel mesh matches the12cm² model area and every region volume (25.326413ms)
+✔ true annular walls and separate base contain all layer vertices at every preparation corner (16.289274ms)
+✔ porous bed region is not mislabelled as dry solid and separated oil volume remains exact (0.917332ms)
+✔ scan bands use true finite bounds inside the liquid and do not introduce sample inventory (2.668237ms)
+✔ moving representative markers stay inside the correct vessel and phase envelope (6.452149ms)
+✔ microscope preserves phase-evidence distinction even with identical bulk scan concentration (0.691183ms)
+✔ camera bounds contain each entire vessel and four-column bench in actual centimetres (2.196557ms)
+✔ layer geometry rejects invalid dimensions and empty regions have no phantom triangles (1.36402ms)
+✔ 34-column record distinguishes finite band quantities,whole-vessel mass and phase evidence (4.640455ms)
+✔ matching stable-dispersion scans remain heterogeneous and prediction feedback uses phases (0.765542ms)
+✔ worked steps cover finite overlap,conservation and distinction between sample mean/global mean (4.656207ms)
+✔ saved data validates preparation/kind/band,ignores forged derived mass and bounds writing/history (2.570979ms)
+✔ company-only exam report includes all34columns,every worked step and escaped original writing (1.41707ms)
+✔ known phases classify independently from apparent bulk sample uniformity (2.994087ms)
+✔ every preparation corner conserves carrier and component-B mass and phase volume over the full sequence (4.063515ms)
+✔ suspension front and porous wet-bed height obey independent flux balance (0.221867ms)
+✔ creaming produces pure top liquid while conserving initial dispersed volume (0.166126ms)
+✔ completion fronts coincide continuously,never cross or grow beyond available phase inventory (1.383259ms)
+✔ single-phase solution uses prepared concentration and total solution mass,not displaced solute volume (0.203956ms)
+✔ finite sampling band crossing a phase boundary integrates exact overlap instead of point-reading (0.214768ms)
+✔ band overlap partitions sample volume at every preparation/band/time corner (1.751031ms)
+✔ late bands reveal heterogeneity in settling/creaming but stable bulk readings cannot certify homogeneity (0.299094ms)
+✔ nonwithdrawal virtual scans do not alter whole-vessel inventory or conflate sample means with global composition (0.406027ms)
+✔ representative markers move in the correct direction and add no phase inventory (0.703172ms)
+✔ invalid preparations,reference kinds and scan bands reject nonfinite/outside values (0.652339ms)
+✔ guide has120s with continuous1000s physical sequence,three scan bands and explicit timing limits (0.286632ms)
+ℹ tests 26
+ℹ suites 0
+ℹ pass 26
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 661.492897

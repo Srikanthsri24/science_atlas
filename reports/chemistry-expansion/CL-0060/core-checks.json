@@ -1,0 +1,19 @@
+{
+  "status": "passed_core_only",
+  "focusedTests": 24,
+  "failedTests": 0,
+  "typeScript": "passed",
+  "geometry": [
+    "Independent signed triangle volumes for solid and liquid",
+    "Continuous inventory sweep: separation, vessel containment, submersion and no overflow",
+    "Exact elapsed history endpoints including fractional time"
+  ],
+  "finiteStepRefinement": {
+    "productionStepS": 0.05,
+    "referenceStepS": 0.025,
+    "cornerCombinations": 64,
+    "maximumRelativeDifference": 0.004814327610735711
+  },
+  "browserReviewed": false,
+  "ready": false
+}

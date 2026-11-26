@@ -1,0 +1,941 @@
+[
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 235.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "comparison",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 235.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleA",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 235.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "sampleB",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "landscape",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "landscape",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 174,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "landscape",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 235.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "landscape",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 222.9140625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "landscape",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 506.3515625,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "portrait",
+    "width": 320,
+    "pageWidth": 320,
+    "visibleHeight": 275.328125,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "portrait",
+    "width": 390,
+    "pageWidth": 390,
+    "visibleHeight": 399.7734375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "portrait",
+    "width": 820,
+    "pageWidth": 820,
+    "visibleHeight": 588.5,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "portrait",
+    "width": 1280,
+    "pageWidth": 1280,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "camera": "optical",
+    "format": "portrait",
+    "width": 1920,
+    "pageWidth": 1920,
+    "visibleHeight": 539.5234375,
+    "canvasMatchesWrapper": true,
+    "readoutsInside": true,
+    "notesInside": true
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 320,
+    "height": 740,
+    "format": "portrait",
+    "camera": "optical",
+    "canvas": {
+      "height": 216,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 442,
+      "width": 320,
+      "x": 0,
+      "y": 128
+    },
+    "visibleHeight": 216,
+    "wrapper": {
+      "height": 216,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "camera": "optical",
+    "canvas": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 351,
+    "wrapper": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 820,
+    "height": 960,
+    "format": "landscape",
+    "camera": "optical",
+    "canvas": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 553.5,
+    "wrapper": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "camera": "optical",
+    "canvas": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 838.140625,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 661.0546875,
+    "wrapper": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "camera": "optical",
+    "canvas": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 83.5,
+    "wrapper": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "camera": "optical",
+    "canvas": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 70,
+    "wrapper": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 320,
+    "height": 740,
+    "format": "portrait",
+    "camera": "optical",
+    "canvas": {
+      "height": 125.5,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 442,
+      "width": 320,
+      "x": 0,
+      "y": 128
+    },
+    "visibleHeight": 125.5,
+    "wrapper": {
+      "height": 125.5,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "camera": "optical",
+    "canvas": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 232.5,
+    "wrapper": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "expandedNotes": true,
+    "width": 820,
+    "height": 960,
+    "format": "landscape",
+    "camera": "optical",
+    "canvas": {
+      "height": 457.5234375,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 457.5234375,
+    "wrapper": {
+      "height": 457.5234375,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  }
+]

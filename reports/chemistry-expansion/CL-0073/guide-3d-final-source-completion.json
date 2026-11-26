@@ -1,0 +1,8 @@
+{
+  "duration": 120,
+  "actualContinuousRun": true,
+  "initialRecordEnabled": false,
+  "finalRecordEnabled": true,
+  "cameraSource": "stable memoized options",
+  "finalTimePs": "100"
+}

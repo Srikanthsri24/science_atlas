@@ -1,0 +1,490 @@
+{
+  "before": {
+    "bed": null,
+    "box": {
+      "height": 620.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 507.2421875
+    },
+    "cup": null,
+    "guide": "120",
+    "height": 960,
+    "inputs": {
+      "motionTime": 0.036,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 0.09,
+      "waterG": 50
+    },
+    "liquid": null,
+    "pageWidth": 1920,
+    "recordEnabled": true,
+    "series": [
+      {
+        "data-closed-series": "cup",
+        "data-history-times": "[0,0.09]",
+        "fill": "#b8a0e5",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,198.195 70.297,550 70,550"
+      },
+      {
+        "data-closed-series": "transit",
+        "data-history-times": "[0,0.09]",
+        "fill": "#efa6b9",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,198.195 70,195"
+      },
+      {
+        "data-closed-series": "undissolved",
+        "data-history-times": "[0,0.09]",
+        "fill": "#d9c294",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,195 70,195"
+      },
+      {
+        "data-closed-series": "dissolved",
+        "data-history-times": "[0,0.09]",
+        "fill": "#73d1b1",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,195 70,195"
+      }
+    ],
+    "svg": {
+      "aria-label": "Closed dissolution,physical time 0.090 seconds. Cup 14.865 grams,in flight 0.135,undissolved 0.000,dissolved 0.000. Whole contents 65.000 grams.",
+      "data-closed-base": "454.5238095238095",
+      "data-closed-centre": "550",
+      "data-closed-inputs": "{\"waterG\":50,\"saltG\":15,\"rateSInv\":0.01,\"timeS\":0.09,\"motionTime\":0.036,\"reading\":\"gross\"}",
+      "data-closed-pane": "chart",
+      "data-closed-scale": "18.095238095238095",
+      "data-closed-window": "300",
+      "role": "img",
+      "style": "width: 100%; min-width: 100%; height: 100%; min-height: 100%;",
+      "viewBox": "0 0 1100 800"
+    },
+    "texts": [
+      {
+        "height": 11.5,
+        "text": "SCIENCE ATLAS / CLOSED MASS LEDGER",
+        "width": 250.09375,
+        "x": 535.337890625,
+        "y": 524.1107788085938
+      },
+      {
+        "height": 29,
+        "text": "Elapsed salt history · model",
+        "width": 314.6171875,
+        "x": 535.337890625,
+        "y": 541.408203125
+      },
+      {
+        "height": 13.5,
+        "text": "Keep the lid closed. Follow every part of the salt.",
+        "width": 257.3984375,
+        "x": 535.337890625,
+        "y": 580.001220703125
+      },
+      {
+        "height": 11.5,
+        "text": "Cup",
+        "width": 19.078125,
+        "x": 547.7466430664062,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "In flight",
+        "width": 35.3046875,
+        "x": 679.589599609375,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "Undissolved",
+        "width": 57.52337646484375,
+        "x": 811.4326171875,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "Dissolved",
+        "width": 45.4609375,
+        "x": 943.2755737304688,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 13,
+        "text": "Salt inventory / g · total 15.0 g",
+        "width": 148.21875,
+        "x": 570.2374877929688,
+        "y": 634.78955078125
+      },
+      {
+        "height": 11.5,
+        "text": "0.0",
+        "width": 14.7265625,
+        "x": 546.204345703125,
+        "y": 927.3951416015624
+      },
+      {
+        "height": 11.5,
+        "text": "7.5",
+        "width": 13.3828125,
+        "x": 547.548095703125,
+        "y": 789.735595703125
+      },
+      {
+        "height": 11.5,
+        "text": "15.0",
+        "width": 19.28125,
+        "x": 541.649658203125,
+        "y": 652.0759887695312
+      },
+      {
+        "height": 11.5,
+        "text": "0",
+        "width": 6.296875,
+        "x": 567.0890502929688,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "50",
+        "width": 12.46875,
+        "x": 691.9683837890625,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "100",
+        "width": 17.203125,
+        "x": 817.56640625,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "150",
+        "width": 17.0859375,
+        "x": 945.5902099609376,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "200",
+        "width": 18.609375,
+        "x": 1072.793701171875,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "250",
+        "width": 18.4921875,
+        "x": 1200.817626953125,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "300",
+        "width": 18.84375,
+        "x": 1328.6070556640625,
+        "y": 943.681640625
+      },
+      {
+        "height": 13,
+        "text": "Physical time / seconds",
+        "width": 117.09375,
+        "x": 883.953125,
+        "y": 962.8458862304688
+      },
+      {
+        "height": 11.5,
+        "text": "Now 0.09 s",
+        "width": 52.7344970703125,
+        "x": 1285.29443359375,
+        "y": 635.78955078125
+      },
+      {
+        "height": 16.5,
+        "text": "Cup 14.865 g · in flight 0.135 g",
+        "width": 189.625,
+        "x": 535.337890625,
+        "y": 995.52099609375
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Undissolved 0.000 g · dissolved 0.000 g",
+        "width": 249.203125,
+        "x": 535.337890625,
+        "y": 1018.0119018554688
+      },
+      {
+        "height": 16.5,
+        "text": "Contents 65.000 g · gross 215.000 g",
+        "width": 227.7578125,
+        "x": 535.337890625,
+        "y": 1040.502685546875
+      },
+      {
+        "height": 11.5,
+        "text": "Reference geometry · enlarged markers · 25 °C model",
+        "width": 252.3984375,
+        "x": 535.337890625,
+        "y": 1070.095703125
+      },
+      {
+        "height": 11,
+        "text": "Physical time 0.090 s · outer boundary closed",
+        "width": 200.203125,
+        "x": 535.337890625,
+        "y": 1092.31103515625
+      }
+    ],
+    "transit": [],
+    "width": 1920
+  },
+  "after": {
+    "bed": null,
+    "box": {
+      "height": 620.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 507.2421875
+    },
+    "cup": null,
+    "guide": "120",
+    "height": 960,
+    "inputs": {
+      "motionTime": 0.036,
+      "rateSInv": 0.01,
+      "reading": "net",
+      "saltG": 15,
+      "timeS": 0.09,
+      "waterG": 50
+    },
+    "liquid": null,
+    "pageWidth": 1920,
+    "recordEnabled": true,
+    "series": [
+      {
+        "data-closed-series": "cup",
+        "data-history-times": "[0,0.09]",
+        "fill": "#b8a0e5",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,198.195 70.297,550 70,550"
+      },
+      {
+        "data-closed-series": "transit",
+        "data-history-times": "[0,0.09]",
+        "fill": "#efa6b9",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,198.195 70,195"
+      },
+      {
+        "data-closed-series": "undissolved",
+        "data-history-times": "[0,0.09]",
+        "fill": "#d9c294",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,195 70,195"
+      },
+      {
+        "data-closed-series": "dissolved",
+        "data-history-times": "[0,0.09]",
+        "fill": "#73d1b1",
+        "fill-opacity": ".7",
+        "points": "70,195 70.297,195 70.297,195 70,195"
+      }
+    ],
+    "svg": {
+      "aria-label": "Closed dissolution,physical time 0.090 seconds. Cup 14.865 grams,in flight 0.135,undissolved 0.000,dissolved 0.000. Whole contents 65.000 grams.",
+      "data-closed-base": "454.5238095238095",
+      "data-closed-centre": "550",
+      "data-closed-inputs": "{\"waterG\":50,\"saltG\":15,\"rateSInv\":0.01,\"timeS\":0.09,\"motionTime\":0.036,\"reading\":\"net\"}",
+      "data-closed-pane": "chart",
+      "data-closed-scale": "18.095238095238095",
+      "data-closed-window": "300",
+      "role": "img",
+      "style": "width: 100%; min-width: 100%; height: 100%; min-height: 100%;",
+      "viewBox": "0 0 1100 800"
+    },
+    "texts": [
+      {
+        "height": 11.5,
+        "text": "SCIENCE ATLAS / CLOSED MASS LEDGER",
+        "width": 250.09375,
+        "x": 535.337890625,
+        "y": 524.1107788085938
+      },
+      {
+        "height": 29,
+        "text": "Elapsed salt history · model",
+        "width": 314.6171875,
+        "x": 535.337890625,
+        "y": 541.408203125
+      },
+      {
+        "height": 13.5,
+        "text": "Keep the lid closed. Follow every part of the salt.",
+        "width": 257.3984375,
+        "x": 535.337890625,
+        "y": 580.001220703125
+      },
+      {
+        "height": 11.5,
+        "text": "Cup",
+        "width": 19.078125,
+        "x": 547.7466430664062,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "In flight",
+        "width": 35.3046875,
+        "x": 679.589599609375,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "Undissolved",
+        "width": 57.52337646484375,
+        "x": 811.4326171875,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 11.5,
+        "text": "Dissolved",
+        "width": 45.4609375,
+        "x": 943.2755737304688,
+        "y": 602.4410400390625
+      },
+      {
+        "height": 13,
+        "text": "Salt inventory / g · total 15.0 g",
+        "width": 148.21875,
+        "x": 570.2374877929688,
+        "y": 634.78955078125
+      },
+      {
+        "height": 11.5,
+        "text": "0.0",
+        "width": 14.7265625,
+        "x": 546.204345703125,
+        "y": 927.3951416015624
+      },
+      {
+        "height": 11.5,
+        "text": "7.5",
+        "width": 13.3828125,
+        "x": 547.548095703125,
+        "y": 789.735595703125
+      },
+      {
+        "height": 11.5,
+        "text": "15.0",
+        "width": 19.28125,
+        "x": 541.649658203125,
+        "y": 652.0759887695312
+      },
+      {
+        "height": 11.5,
+        "text": "0",
+        "width": 6.296875,
+        "x": 567.0890502929688,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "50",
+        "width": 12.46875,
+        "x": 691.9683837890625,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "100",
+        "width": 17.203125,
+        "x": 817.56640625,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "150",
+        "width": 17.0859375,
+        "x": 945.5902099609376,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "200",
+        "width": 18.609375,
+        "x": 1072.793701171875,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "250",
+        "width": 18.4921875,
+        "x": 1200.817626953125,
+        "y": 943.681640625
+      },
+      {
+        "height": 11.5,
+        "text": "300",
+        "width": 18.84375,
+        "x": 1328.6070556640625,
+        "y": 943.681640625
+      },
+      {
+        "height": 13,
+        "text": "Physical time / seconds",
+        "width": 117.09375,
+        "x": 883.953125,
+        "y": 962.8458862304688
+      },
+      {
+        "height": 11.5,
+        "text": "Now 0.09 s",
+        "width": 52.7344970703125,
+        "x": 1285.29443359375,
+        "y": 635.78955078125
+      },
+      {
+        "height": 16.5,
+        "text": "Cup 14.865 g · in flight 0.135 g",
+        "width": 189.625,
+        "x": 535.337890625,
+        "y": 995.52099609375
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Undissolved 0.000 g · dissolved 0.000 g",
+        "width": 249.203125,
+        "x": 535.337890625,
+        "y": 1018.0119018554688
+      },
+      {
+        "height": 16.5,
+        "text": "Contents 65.000 g · net 65.000 g",
+        "width": 207.7265625,
+        "x": 535.337890625,
+        "y": 1040.502685546875
+      },
+      {
+        "height": 11.5,
+        "text": "Reference geometry · enlarged markers · 25 °C model",
+        "width": 252.3984375,
+        "x": 535.337890625,
+        "y": 1070.095703125
+      },
+      {
+        "height": 11,
+        "text": "Physical time 0.090 s · outer boundary closed",
+        "width": 200.203125,
+        "x": 535.337890625,
+        "y": 1092.31103515625
+      }
+    ],
+    "transit": [],
+    "width": 1920
+  }
+}

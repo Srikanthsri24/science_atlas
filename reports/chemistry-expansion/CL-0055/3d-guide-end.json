@@ -1,0 +1,24 @@
+{
+  "camera": "apparatus",
+  "canvasHeight": 502.15625,
+  "format": "landscape",
+  "guide": "120",
+  "height": 960,
+  "inputs": {
+    "acidMmol": 40,
+    "bicarbonateG": 2,
+    "cuts": 3,
+    "iceMassG": 50,
+    "motionTime": 120,
+    "paperMassG": 2,
+    "progress": 2,
+    "sample": "reaction"
+  },
+  "inventory": "Procedure progress 2.000 / 2 · Chemical changeCO₂ 1.048 g · ideal dry gas 0.582468 L · condensed 100.952 gMass accounted 102.000 g · Not restored by this classroom operation",
+  "notesInsideStage": true,
+  "pageWidth": 1920,
+  "readoutsInsideStage": true,
+  "recordEnabled": true,
+  "theatre": false,
+  "width": 1920
+}

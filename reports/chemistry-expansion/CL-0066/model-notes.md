@@ -1,0 +1,29 @@
+# CL-0066 — compare expansion of air on warming
+
+Core, geometry, practical records and original2D/3D viewers passed internal functional review.27 focused tests,2669 regressions,TypeScript andproductionbuild pass.66/270 reviewed. Nextpush75. Preserve original408 and146pre-existingstagedblobs; no previous frozen source changed this turn.
+
+## Scientific reference
+
+Two closed, matched idealized dry-air samples: free-piston imposed absolute pressure versus rigid fixed volume. InitialV20–60mL,P80–120kPa,T15–35C; chosen jacket target5–85C, conductance0.0005–0.005W/K, elapsed0–300s. Defaults50mL,101.325kPa,25C→65C,G0.002W/K. Programconstant holds jacket target; programreturn restores jacket to initial temperature at120physicalseconds. Initialn=P0(V0/1000)/(RT0) usingT0°C+273.15. R8.314462618J/mol/K, numericallykPaL/mol/K. Idealizeddiatomicreference Cv2.5R,Cp3.5R, chosenmeanmolarmass0.02897kg/mol. Not exacttemperaturedependent air composition or measured apparatus calibration.
+
+Each gas has uniform temperature. Jacketisexternallythermostatted,infinite prescribedreservoir; heatflowG(Tbath−Tgas). Quasistaticfreepiston needsnCp dT/dt=G(Tbath−T); rigidgas needsnCv dT/dt. Thus the sameG gives different thermal time constants τ=nC/G; do not force identical gastemperatures at equal elapsedtime. Within a jacket segment, ΔT=(Tbath−Tstart)*(−expm1(−dt/τ)); returnsegment retains positive/negative exponential residual rather than snapping exactly to initial state. Jacket changes discontinuously at120s, gasstate remainscontinuous, heatflowdirection changes. No assumption that gastemperatureequalsjackettemperature before equilibration.
+
+FreepistonV=V0(1+ΔT/T0),P=P0; rigidV=V0,P=P0(1+ΔT/T0). Usekelvin,notCelsius ratios. Closedn/massunchanged. PistonboundaryworkW=nRΔT=P0ΔV withkPa*mL/1000→J; rigidW0. Internalchange=nCvΔT,heat=nCpΔTorpureCvforrigid. Signedcoolingheat/worknegative; cumulativeheatandsegmentheatdistinct. FirstlawQ−W=ΔU. DensitymassG/volumeL. Optionalrmsmolecularspeed sqrt(3RT/M) is a statistical molecular reference, notpistonspeed or bulkflow. No measuredtrajectory/collision solver.
+
+Pistonfriction/inertia/leaks,realcompressibility,humidity/evaporation,temperaturedependentheatcapacity,radiation,spatialconduction,glass/hardwarethermalstorageandfluidmotionnotmodeled. Imposedpressureincludesconstant external load; no variablehydrostatichead on piston. Lumpedconductance ischosen independently ofgeometry, notcomputedfromjacketarea. This is a virtualreference, not pressure-vessel or syringe certification. Classplacementeditorial; quantitativeworkteacherextension.
+
+## Apparatus geometry
+
+Reuse unchanged frozenCL0064 closed128polygoncylinderbuilder. Gasinnerbarrelradius1.25cm,outerradius1.32cm,baseY2cm,barrelcapacity90mL. Gasheight=volume/actual128polygonarea; signedclosedgastrianglesrecovermodeledmL. Pistonbottomsharesgastop,solidface0.35cmthickabovegas;rodextends4cmaboveface,neverintrudesintogas. Rigidcapstaysatfixedinitialgasheight. All permittedwarm/coolcornersfit90mLcapacitywithpistonclearance. Absolute pressuregauge60–160kPa andthermometer0–90C containall modeledstates; pointersmaplinearlywithoutclampingfabricatedvalues.
+
+Thermostattedannularjacketinnerradius1.36cm,outer2cm,Y1.6–4.4cm. Annularwaterhasactualinner/outerringcapswithoutoverlappingdisktriangles,staysoutsideglass. Gasbaseradius1.34cmalsofitsinside1.36cmjacketcavity. Jacket remains BELOW everypossiblepistonface: no submergence-inducedvariableload. This avoidsanotherwiseinconsistentconstant-P model. Onlylowerbarrelthermalcontactillustrated; Gchosenlumped. Jacket/hardwarematerialexcludedfromclosedgasinventory; no hidden gasdisplacementbyprobes/rods. Anyvisiblegascolourmustbeexplicitillustrativeoverlaybecauseairisclear. Anyheatmotionmustfollow signedheatflow/progress,notdecorativemoleculecounts.
+
+## Explanation and implemented experience
+
+120secondguide10setup+100evolution0–240physicalseconds+10hold. Programreturn: warmjacket0–120physicalseconds, initialjacket120–240. Thus presentation60s marksbathswitch; finiteendcoolingneednotreachinitialstateexactly. Defaultmodelsbothcontinuouswarmingandcooling. Equalinitial/targetcontrolmuststaystationary. Original2Dmatchedapparatus/elapsedvolume-pressureplotsand3Dcompletecomparison/selected/boundarycloseupareimplemented. Scaledgasvolume,piston/rigidboundary,needles,thermometersandoptionaloverlayfollowmodelvalues.26columnrecords,segmentheat/workformulasandexamreportimplemented;60GUItrials/1976downloadedworkedresults,fullguides,exactreload/classnavigation,independentrenderedstates,responsivekeyboard/theatre/nativeorbit/reset,regression/TS/buildpassedinternalreview. Sourcefreezeinreview.json.
+
+## Tests
+
+15coretestscheckinitialmatching,kelvinlaws,distinctCp/Cvtimeconstants,jacketlag,cooling/stationarycontrols,continuousswitch,finiteresidual,gas/mass/firstlawclosureacrosscorners,signedworkconversion,central-finite-differencerates,rmsrelation,elapsedhistory,120sguideandinvalidcontrols.6geometrytestscheckactualsignedgas/piston/annulusvolumes,nonoverlap/containment/jacketclearance,gaugerangesandheatprogress. Initialforwarddifference derivativecheckhadtruncationerror;centraldifferencecorrectlytestsinstantaneousrateswithoutlooseningtolerance. OriginalUI/browserreview nowpassed.60actualGUItrials,26columns,1976downloadedworkedresults/52thermalintervals independentlyverified; exactreload/class5roundtrip. Bothactual120sguidescompleted.30SVG/30canvasviewportcases; independent24apparatusstates/2684curvepoints/36threeDstates. Darklight,theatre,keyboardtable/panfit,manualrecordgatesandnativeorbit/reset/overlaycontrolsverified. Sourcefreezeinreview.json.
+
+PrimaryOpenStaxrelevantgaslaw/firstlaw/heatcapacitysectionsreadprivately;notcopiedtext/assets. Sources supportscientificprinciples,notselectedG,dimensionsorreal-devicevalidity. No publicexternalreferencesinplannedstudentUI/report.

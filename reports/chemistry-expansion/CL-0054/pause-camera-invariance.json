@@ -1,0 +1,44 @@
+{
+  "before": {
+    "camera": "auto",
+    "canvasHeight": 502.15625,
+    "format": "landscape",
+    "guide": "54.571600000005965",
+    "height": 960,
+    "inventory": "Dissolve salt · procedure progress 1.783 / 4Iron 5.000 g · filter sand 0.000 g / salt 0.000 g · crystals 0.000 gDish water 0.000 g · water to air 0.000 g · whole mass 70.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 1920,
+    "readoutsInsideStage": true,
+    "recordEnabled": true,
+    "theatre": false,
+    "values": {
+      "Sequence iron grams": "5",
+      "Sequence procedure progress": "1.7828640000002387",
+      "Sequence reserved water grams": "50",
+      "Sequence salt grams": "5",
+      "Sequence sand grams": "10"
+    },
+    "width": 1920
+  },
+  "after": {
+    "camera": "dissolve",
+    "canvasHeight": 502.15625,
+    "format": "landscape",
+    "guide": "54.571600000005965",
+    "height": 960,
+    "inventory": "Dissolve salt · procedure progress 1.783 / 4Iron 5.000 g · filter sand 0.000 g / salt 0.000 g · crystals 0.000 gDish water 0.000 g · water to air 0.000 g · whole mass 70.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 1920,
+    "readoutsInsideStage": true,
+    "recordEnabled": true,
+    "theatre": false,
+    "values": {
+      "Sequence iron grams": "5",
+      "Sequence procedure progress": "1.7828640000002387",
+      "Sequence reserved water grams": "50",
+      "Sequence salt grams": "5",
+      "Sequence sand grams": "10"
+    },
+    "width": 1920
+  }
+}

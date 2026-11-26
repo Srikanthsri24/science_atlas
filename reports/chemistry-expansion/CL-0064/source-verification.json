@@ -1,0 +1,45 @@
+{
+  "verifiedOn": "2026-11-26",
+  "status": "preliminary_primary_source_audit",
+  "sources": [
+    {
+      "url": "https://publications.gc.ca/collections/collection_2021/pch/CH57-4-21-2017-eng.pdf",
+      "access": "Full relevant primary text retrieved",
+      "sectionsRead": "Background; water/coupon activity; science behind flash rusting, PDFpages17\u201320",
+      "supports": "Wet iron corrosion, iron oxyhydroxide products, electrochemical steps, retained precipitate versus metal surface, and moisture/oxygen/rate qualifications. Real rust is not a single universal solid or a necessarily protective uniform coating."
+    },
+    {
+      "url": "https://edu.rsc.org/experiments/what-causes-iron-to-rust/434.article",
+      "access": "Search excerpt only; fullpage open returned405",
+      "supports": "Qualitative water/oxygen comparison only; not claimed as full-read support."
+    },
+    {
+      "url": "https://edu.rsc.org/download?ac=14854",
+      "access": "Search excerpt only; fullPDF open returned405",
+      "supports": "Classroom exclusion of oxygen can be imperfect. Not full-read or quantitative calibration support."
+    },
+    {
+      "url": "https://edu.rsc.org/experiments/how-much-oxygen-is-used-when-iron-wool-rusts/453.article",
+      "access": "Relevant search result text; fullpage open returned405",
+      "supports": "Oxygen is consumed in rusting. Its inverted-water-tube experiment is a different apparatus from a proposed sealed cell."
+    },
+    {
+      "url": "https://www.oregon.gov/odot/Programs/ResearchDocuments/CathodicProInterimRpt.pdf",
+      "access": "Reportfrontmatter retrieved; relevant molar-volume table available in search extract, but full table retrieval timed out",
+      "supports": "Potential rounded volume references require further verification before being represented as audited material constants."
+    },
+    {
+      "url": "https://handbookofmineralogy.org/pdfs/goethite.pdf",
+      "access": "Full one-page relevant primary mineral-data sheet retrieved",
+      "sectionsRead": "Formula and Physical Properties",
+      "supports": "Goethite FeO(OH), reported calculated density4.18 and measured4.28. Model chooses rounded4.2g/mL drawing reference; not actual rust-mixture calibration."
+    }
+  ],
+  "notVerified": [
+    "Official Class5 board mapping",
+    "Any chosen corrosion rate or specimen calibration",
+    "Pure FeOOH as all real rust",
+    "Sealed-cell dry-gas pressure is an ideal reference, not measured physical pressure; phase partition and uniform sediment morphology are chosen assumptions."
+  ],
+  "studentFacingExternalLinks": false
+}

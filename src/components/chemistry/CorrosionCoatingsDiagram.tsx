@@ -1,0 +1,31 @@
+import {useState} from 'react';
+import {coatingCases,coatingNames,coatingHistory,coatingReference as c,type CoatingInputs,type CoatingCase} from '../../lib/chemistry/corrosionCoatings';
+import {coatingGeometry} from '../../lib/chemistry/corrosionCoatingsGeometry';
+const colors=['#e6ac75','#80c1db','#b5a2ed','#8cd3b2'];
+export default function CorrosionCoatingsDiagram({q,kind,portrait}:{q:CoatingInputs;kind:CoatingCase;portrait:boolean}){
+ const [view,setView]=useState('comparison'),[zoom,setZoom]=useState(100),w=portrait?600:1000,h=portrait?900:650,s=coatingGeometry(q,kind),samples=coatingCases.map(k=>coatingGeometry(q,k));
+ const maxMg=Math.max(.001,...samples.map(a=>Math.min(a.initialOxygenMol/.75,a.initialWaterMol/.5,a.initialIronMol)*c.productMolarG*1000))*1.1;
+ const left=portrait?85:90,top=110,pw=w-left-70,ph=portrait?530:320;
+ return <div className='coat-diagram'><div className='coat-tools'><label>Inspect <select aria-label='Coating diagram view' value={view} onChange={e=>{setView(e.target.value);setZoom(100)}}><option value='comparison'>Four equal-scale layer sections</option><option value='section'>Selected layer cross-section</option><option value='history'>Elapsed product-mass histories</option></select></label><label>Zoom <input aria-label='Coating diagram zoom' type='range' min='100' max='300' step='25' value={zoom} onChange={e=>setZoom(+e.target.value)}/>{zoom}%</label><button onClick={()=>setZoom(100)}>Fit coating view</button></div>
+ <div className='coat-pan' role='region' aria-label='Coating diagram pan area' tabIndex={0}><svg role='img' aria-label={view==='history'?'Elapsed-only corrosion product comparison':'Volume-based metal, product and inert coating layer sections'} viewBox={`0 0 ${w} ${h}`} style={{width:`${zoom}%`,minWidth:`${zoom}%`,height:`${zoom}%`,minHeight:`${zoom}%`}}>
+ <defs><linearGradient id='coat-metal'><stop stopColor='#71899c'/><stop offset='.5' stopColor='#d1dde6'/><stop offset='1' stopColor='#91a5b7'/></linearGradient><pattern id='coat-grain' width='8' height='8' patternUnits='userSpaceOnUse'><rect width='8' height='8' fill='#92542e'/><circle cx='2' cy='2' r='1' fill='#bd8053'/><circle cx='6' cy='5' r='.8' fill='#62351c'/></pattern></defs><rect width='100%' height='100%' fill='#102235'/><text x='24' y='32' fill='#dcebf6' fontSize={portrait?20:18}>{view==='history'?'ELAPSED PRODUCT MASS · CHOSEN ACCESS MODEL':(portrait?'LAYER SECTIONS · MATCHED SCALE':'LAYER SECTIONS · SAME PHYSICAL SCALE WITHIN EACH VIEW')}</text>
+ {view==='history'?<g>
+  {[0,.25,.5,.75,1].map(f=><g key={f}><line x1={left} x2={left+pw} y1={top+(1-f)*ph} y2={top+(1-f)*ph} stroke='#29445a'/><text x={left-12} y={top+(1-f)*ph+5} textAnchor='end' fill='#d1e2ee' fontSize={portrait?21:17}>{(maxMg*f).toFixed(2)}</text></g>)}
+  {[0,7.5,15,22.5,30].map(t=><text key={t} x={left+t/30*pw} y={top+ph+27} textAnchor='middle' fill='#d1e2ee' fontSize={portrait?22:17}>{t}</text>)}<text x={left} y={top-28} fill='#d5e7f4' fontSize={portrait?22:19}>FeOOH-equivalent product / mg</text><text x={left+pw/2} y={top+ph+65} textAnchor='middle' fill='#d5e7f4' fontSize={portrait?22:19}>Elapsed reference days</text>
+  {coatingCases.map((k,i)=><polyline key={k} data-coating-curve={k} points={coatingHistory(q,k).map(v=>`${left+v.timeDays/30*pw},${top+ph-v.productG*1000/maxMg*ph}`).join(' ')} fill='none' stroke={colors[i]} strokeWidth={3-i*.35} strokeDasharray={i?`${9-i*2} ${3+i}`:undefined}/>)}
+  {samples.map((v,i)=><text key={v.kind} x={left} y={top+ph+105+i*29} fill={colors[i]} fontSize={portrait?20:17}>{coatingNames[v.kind]} · {(v.productG*1000).toFixed(4)} mg</text>)}
+ </g>:<>
+  <text x='24' y='70' fill='#cddfe9' fontSize={portrait?21:18}>{portrait?'Grey: iron · brown: product · blue: film':'Grey: iron · brown: reference product · blue: inert film'}</text>
+  {(view==='section'?[s]:samples).map((v,i)=>{
+   const single=view==='section',scale=single?(portrait?900:1000):(portrait?420:360),x=single?(portrait?300:330):portrait?150+(i%2)*300:140+i*240,base=single?(portrait?650:550):portrait?340+Math.floor(i/2)*410:390;
+   const y=(n:number)=>base-(n-2)*scale;
+   return <g key={v.kind} data-coating-section={v.kind} data-time={q.timeDays} data-scale={scale} data-base-y={base}>
+    {v.zones.map((z,j)=><g key={j} data-coating-zone={j}><rect data-coating-metal='true' x={x+z.x0*scale} y={y(z.metalTopY)} width={(z.x1-z.x0)*scale} height={z.metalHeightCm*scale} fill='url(#coat-metal)'/><rect data-coating-product='true' x={x+z.x0*scale} y={y(z.productTopY)} width={(z.x1-z.x0)*scale} height={z.productHeightCm*scale} fill='url(#coat-grain)'/><rect data-coating-film='true' x={x+z.x0*scale} y={y(z.filmTopY)} width={(z.x1-z.x0)*scale} height={z.filmHeightCm*scale} fill='#69bddd'/></g>)}
+    <line x1={x-.28*scale} x2={x+.28*scale} y1={base+3} y2={base+3} stroke='#57718a' strokeWidth='4'/>
+    <text x={x} y={base+38} textAnchor='middle' fill={colors[coatingCases.indexOf(v.kind)]} fontSize={single?22:portrait?19:17}>{coatingNames[v.kind]}</text><text x={x} y={base+68} textAnchor='middle' fill='#d1e4f1' fontSize={single?21:portrait?18:16}>{(v.productG*1000).toFixed(4)} mg product</text>
+    {single?<g transform={`translate(${portrait?35:650},${portrait?760:160})`} fill='#d0e4ef' fontSize={portrait?22:19}><text>Day {q.timeDays.toFixed(3)}</text><text y='34'>Exposed face: {(v.exposed*100).toFixed(1)}%</text><text y='68'>Exposed iron: {(v.zones[0].ironLeftG*1000).toFixed(4)} mg</text><text y='102'>Covered iron: {(v.zones[1].ironLeftG*1000).toFixed(4)} mg</text></g>:<text x={x} y={base+96} textAnchor='middle' fill='#a9c4d7' fontSize={portrait?17:15}>Day {q.timeDays.toFixed(2)} · {(v.exposed*100).toFixed(0)}% exposed</text>}
+   </g>;
+  })}
+ </>}
+ </svg></div><div className='coat-readouts' role='region' aria-label='Coating live readings' tabIndex={0}><strong>{coatingNames[kind]} · day {q.timeDays.toFixed(3)}</strong><span>Exposed iron {(s.zones[0].ironLeftG*1000).toFixed(4)} mg · covered iron {(s.zones[1].ironLeftG*1000).toFixed(4)} mg · product {(s.productG*1000).toFixed(4)} mg</span><span>Specimen {s.specimenG.toFixed(6)} g · whole cell {s.totalG.toFixed(6)} g · dry-gas reference {s.pressureKPa.toFixed(3)} kPa</span><span>Uniform retained layers are a material-volume reference, not real pitting or mechanical coating failure.</span></div></div>;
+}

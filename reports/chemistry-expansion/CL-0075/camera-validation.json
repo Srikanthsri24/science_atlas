@@ -1,0 +1,29 @@
+{
+  "results": {
+    "orbit-left": {
+      "meanPixelDifference": 9.094611728620018,
+      "visibleModelPixels": 153324
+    },
+    "orbit-right": {
+      "meanPixelDifference": 10.212464316083576,
+      "visibleModelPixels": 160412
+    },
+    "tilt-up": {
+      "meanPixelDifference": 2.178491962261095,
+      "visibleModelPixels": 93642
+    },
+    "tilt-down": {
+      "meanPixelDifference": 1.9584545574182053,
+      "visibleModelPixels": 62405
+    },
+    "zoom-in": {
+      "meanPixelDifference": 5.600942966472303,
+      "visibleModelPixels": 101693
+    },
+    "zoom-out": {
+      "meanPixelDifference": 4.254019122529964,
+      "visibleModelPixels": 58560
+    }
+  },
+  "scope": "Static time-zero closed-partition screenshots, visually inspected contact sheet plus pixel checks; native gestures not verified"
+}

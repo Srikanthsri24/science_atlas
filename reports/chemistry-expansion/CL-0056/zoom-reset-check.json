@@ -1,0 +1,77 @@
+{
+  "before": {
+    "client": [
+      1215,
+      620
+    ],
+    "inputs": {
+      "motionTime": 72,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "page": 1920,
+    "scroll": [
+      1215,
+      620
+    ],
+    "stirrer": "<line data-closed-stirrer=\"\" x1=\"564.00210375406\" x2=\"535.99789624594\" y1=\"434.25714285714287\" y2=\"434.25714285714287\" stroke=\"#ccdae8\" stroke-width=\"3\"></line>",
+    "svg": [
+      1215,
+      620.4375
+    ],
+    "width": 1920
+  },
+  "max": {
+    "client": [
+      1215,
+      620
+    ],
+    "inputs": {
+      "motionTime": 72,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "page": 1920,
+    "scroll": [
+      3645,
+      1861
+    ],
+    "stirrer": "<line data-closed-stirrer=\"\" x1=\"564.00210375406\" x2=\"535.99789624594\" y1=\"434.25714285714287\" y2=\"434.25714285714287\" stroke=\"#ccdae8\" stroke-width=\"3\"></line>",
+    "svg": [
+      3645,
+      1861.3125
+    ],
+    "width": 1920
+  },
+  "reset": {
+    "client": [
+      1215,
+      620
+    ],
+    "inputs": {
+      "motionTime": 72,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "page": 1920,
+    "scroll": [
+      1215,
+      620
+    ],
+    "stirrer": "<line data-closed-stirrer=\"\" x1=\"564.00210375406\" x2=\"535.99789624594\" y1=\"434.25714285714287\" y2=\"434.25714285714287\" stroke=\"#ccdae8\" stroke-width=\"3\"></line>",
+    "svg": [
+      1215,
+      620.4375
+    ],
+    "width": 1920
+  }
+}

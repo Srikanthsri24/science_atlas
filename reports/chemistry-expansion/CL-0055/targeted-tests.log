@@ -1,0 +1,31 @@
+✔ partially melted supported orfloating ice displaces exactly its immersed volume (17.600085ms)
+✔ paper fragments preserve total width andmass,remain disjoint andretain seams afteralignment (5.316166ms)
+✔ partial paper cut follows the remaining connected piece ratherthancreating an extra fragment (0.441813ms)
+✔ gas-piston rise exactly represents drygas equivalent andstays inside declared reference collector (5.779392ms)
+✔ reference camera bounds project within allsample frusta forphone,tablet,laptop andTV (85.753146ms)
+✔ energy andreaction markers stopduringsetup/endholds andreturning the tool doesnotmake reaction bubbles (0.733202ms)
+✔ allthree experiments havecase-specific observation columns andcomplete workedsteps (5.107031ms)
+✔ workedsubstitutions distinguish frozen water,unrejoined paper andunreversed reactionproducts (2.233903ms)
+✔ savedrecords reject invalid inputs,preserve latest60 trials anddrop untrusted extra fields (2.43125ms)
+✔ examreport groups observations,escapes writing andincludes40 workedsteps forthree sampletrials (3.22559ms)
+✔ ice phase-change cycle adds andremoves equal latentenergy whilepreserving water mass (3.362734ms)
+✔ all partial ice phases follow latentenergy fraction andseparate density volumes (4.962965ms)
+✔ straight cuts increase completed pieces withoutmanufacturing additional paper mass (1.005179ms)
+✔ bringing paper fragments back together restores alignment butnotoriginal material connections (1.047771ms)
+✔ cut-edge area follows declared paper dimensions,thickness andcutlength (0.84443ms)
+✔ reaction stoichiometry uses a balanced mass-consistent set ofrounded molar masses (0.645559ms)
+✔ limiting reagent switches correctly andpreventsnegative reactant inventories (0.822734ms)
+✔ closed reactionmass includes initial solvent,formed water,dissolved product andcollector gas atallcorners (3.00088ms)
+✔ collector ideal drygas equivalent followsnRT/P withdeclaredSIunits,notballoonelasticity (0.487858ms)
+✔ returning the reactiontool never silently reverses completed reactionextent orproducts (0.644071ms)
+✔ restoration result ispending untilthe complete specified classroom returntest (0.485791ms)
+✔ 120-second guide visits three experiments with40-second forward/return demonstrations (3.474705ms)
+✔ invalid,coerced ornonfinite conditions cannotbecome material-change evidence (2.44151ms)
+ℹ tests 23
+ℹ suites 0
+ℹ pass 23
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1124.612405

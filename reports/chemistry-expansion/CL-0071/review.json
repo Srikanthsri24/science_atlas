@@ -1,0 +1,41 @@
+{
+  "labId": "CL-0071",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "24 focused core/geometry/record checks and2791 full regression tests pass. Final TypeScript and production build pass. All preparation corners conserve salt, sand, original/reserved wash water and whole-system mass through dissolution, filtration, partial washing and prescribed drying. Geometric mother-liquor recurrence independently agrees with looped process states. No solution yields null concentration, not division by zero.",
+    "twoD": "48 actual diagram/view/format/viewport cases. 78 apparatus states and2867 curve points independently reconstructed, including porous wet/dry band heights, exact compartment inventories and elapsed-only histories. All vessel close-ups checked at320px in both formats.300percent zoom/keyboard pan40/40/Fit0/0 verified. Full actual120s guide completed.",
+    "threeD": "Actual-volume porous phase envelopes with true annular walls and separate bases; supported filter cup and wider filtrate bowl. Follow-operation camera moves from mixing beaker to retained residue to drying collector, with vessel-specific framing. Final-source120s portrait guide reaches1200sequence seconds and re-enables recording. Accessible left/right orbit, up/down tilt, in/out zoom and reset visibly work: mean pixel changes3.7354/1.9674 orbit,2.9789/2.3132 tilt,9.9342/6.9511 zoom. Reset0; inverse actions within.00137. Cutaway3.4797/cue.0990 pixel change and restoration0. Native drag is unverified because Mac was locked; no native-orbit pass is claimed.",
+    "responsive": "Five viewport widths320/390/820/1280/1920 and both formats. 73 captured3D readout/containment states independently checked, including36 camera/vessel matrix cases and20 final closed-toolbar layout cases.48 positive2D cases minimum421.5px SVG, no page overflow. Final open camera controls fit390x844 theatre227px canvas and844x390 theatre143.15625px canvas. Dark390px document fits32 current worked steps;314px table viewport holds3249px internally scrolling content, keyboard scroll40px. Default viewport, light theme and normal view restored.",
+    "practicalRecord": "35 actual GUI trials30 columns: default14 milestones, no-wash/three-wash/ideal limit3 each, single-wash endpoints/partial fill/drain6 and minimum/maximum preparations6. Independent closed-form reconstruction passes700 observation checks and1111 downloaded worked results. Three A4 landscape print tables, escaped prediction and row note, company-only export. Exact reload and Class5 backlink/return preserve35 rows and all writing. Manual playback disables recording; pause enables it.",
+    "playback": "120s presentation:10setup+100continuous prescribed process0\u20131200sequence seconds+10hold. Explicit12x instructional schedule, not measured dissolution/flow/heat/drying kinetics. Both2D and final-source3D guides actually completed, not timeline seeks. One additional final playback attempt was observed reset to0; a separately confirmed running retry completed120 with recording reenabled. No false complete evidence accepted.",
+    "sources": "RSC search-indexed experiment procedure/equipment/teaching text reviewed; direct article returned405 and older official PDF redirected to JavaScript verification, so no full-page/PDF read is claimed. Supports dissolve/filter/evaporate separation. Washing recurrence, retention, packing, apparent volume and schedules are explicitly original reference assumptions, independently tested. External references stay private.",
+    "navigation": "Lazy CL0071 route, Class5 backlink/return, saved35-trial report and all class paths retained. Frontend only; no API key/backend. Original408 inventory and146 pre-existing staged blobs preserved."
+  },
+  "reviewScope": "Internal engineering, model-consistency and browser-viewport review; not independent expert certification, official curriculum mapping, physical-device/FPS/printer or calibrated laboratory validation. Native drag remains unverified while Mac locked; verified accessible camera buttons provide working orbit/tilt/zoom. Ideal sand retention, no spills, fixed post-drain mother-water hold-up, perfectly mixed fresh washes, nonvolatile reference salt and prescribed transfers/dry endpoints. No adsorption, salt co-evaporation, measured filter resistance, heat transfer, dissolution/drying kinetics or real purity guarantee. Zero retention is an ideal limit; positive hold-up with finite washing leaves salt with dry sand. Rounded capacity.36g/g, apparent dissolved volume.3mL/g and packing.6 are reference assumptions; porous bands include solid, liquid and air, not pure solid volume. Editorial class placement; quantitative recovery is a teacher extension.",
+  "nativeGestureVerification": "unverified_mac_locked; accessible_camera_controls_passed",
+  "sourceHashes": {
+    "src/lib/chemistry/completeSeparation.ts": "2e1e322176acecc50f254af0f0c7f860096c788e509b55c68115b5920e03f2ea",
+    "src/lib/chemistry/completeSeparationGeometry.ts": "f7eb5d9cf95b93f001177743151755904364f608d8a005a31d494289bf56857b",
+    "src/lib/chemistry/completeSeparationRecord.ts": "51f6ada1b3c32c6c51f80d43628cf7df74c369f1fd779120f6387bb3b76a3af0",
+    "src/components/chemistry/CompleteSeparationLab.tsx": "54801ee133de0a9206eca94b393de9c3095206460388e20f214031ccbd4142a5",
+    "src/components/chemistry/CompleteSeparationDiagram.tsx": "698134523d3efd279f8a0a80bda47ffb718d547ba1a86195b8575fd820b59c68",
+    "src/components/chemistry/CompleteSeparationScene.tsx": "2e4f07738fa8bda8206291b3e858137844b667d866e318bbe2946abaaf9538ca",
+    "src/components/chemistry/completeSeparation.css": "70ac721a435c2b5e6a06e2c92ba43c0be6d41bf0c204ff836227473f15fd5cf2",
+    "tests/chemistry-complete-separation-geometry.test.mjs": "032df36f59ea0beb9426a713b96a5a51ae332ab8659643865d9fa205892414dd",
+    "tests/chemistry-complete-separation-record.test.mjs": "656980fee1ce89fe21d7621ce47915b01cc0c2ca89bfdb9b8eb75ef41aa5e3ef",
+    "tests/chemistry-complete-separation.test.mjs": "509877a724d2b0303ec3f52d2e1a9c12fb3130ffc6610cd11cd3718685071287",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "camera": "openings",
+  "canvasHeight": 206.1875,
+  "format": "landscape",
+  "guide": "120",
+  "height": 960,
+  "inventory": "Dry retained · sieve 15.000 g / filter 25.000 g · Liquid each 100.000 mL · Salt each 1.000 g",
+  "legendInsideStage": true,
+  "mode": "3D",
+  "pageWidth": 1280,
+  "parameters": {
+    "filterUm": "20",
+    "particle": "sand",
+    "profile": "reference",
+    "sieveUm": "500",
+    "solutionMl": "100",
+    "timeS": "60"
+  },
+  "readoutsInsideStage": true,
+  "theatre": false,
+  "time": "Physical time: 60.000 s · transfer complete",
+  "width": 1280
+}

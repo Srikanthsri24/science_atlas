@@ -1,0 +1,1247 @@
+{
+  "before": {
+    "box": {
+      "height": 624.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 507.7421875
+    },
+    "cells": [
+      {
+        "bottom": 261,
+        "forms": [
+          {
+            "d": "M156 261L156.1229230504022 260.9661961611394V260.8647846445576L156 260.830980805697L155.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M205.5 261L205.6229230504022 260.9661961611394V260.8647846445576L205.5 260.830980805697L205.3770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M255 261L255.1229230504022 260.9661961611394V260.8647846445576L255 260.830980805697L254.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M304.5 261L304.62292305040216 260.9661961611394V260.8647846445576L304.5 260.830980805697L304.37707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M354 261L354.12292305040216 260.9661961611394V260.8647846445576L354 260.830980805697L353.87707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          }
+        ],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.634092159022224",
+          "mask": "url(#growthLiquid0)",
+          "width": "270",
+          "x": "120",
+          "y": "209.36590784097777"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0.00000614421235332821,
+          "crystalVolumeCm3": 0.00000291332970759991,
+          "departureFromCapacityG": -42.900006144212355,
+          "depthCm": 0.008194870026812353,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20.999993855787647,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 21,
+          "growthRateGS": -6.14421235332821e-8,
+          "heightCm": 0.005633973143433493,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": -1,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.721136405300741,
+          "liquidTopHeightCm": 1.7211364053007407,
+          "newSolidG": -0.9999938557876468,
+          "nucleationDelayS": 120,
+          "perMassG": 2.925815406346767e-7,
+          "perVolumeCm3": 1.387299860761862e-7,
+          "phase": "seed dissolution",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": -0.00000614421235332821,
+          "saltAccountedG": 21,
+          "saturationRatio": 0.32863840149902424,
+          "saturationState": "undersaturated",
+          "scale": 0.00512179376675772,
+          "seedG": 1,
+          "solidTopY": 1.0056339731434334,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120.99999385578764,
+          "solutionVolumeCm3": 109.44999723510443,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 21,
+          "waterG": 100,
+          "wholeMassG": 121,
+          "widthCm": 0.008194870026812353
+        },
+        "transfer": [
+          {
+            "d": "M153 259.330980805697l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M202.5 255.29222472530378l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M252 251.2534686449104l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M301.5 247.21471256451719l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M351 243.175956484124l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          }
+        ]
+      },
+      {
+        "bottom": 261,
+        "forms": [],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.421800253089735",
+          "mask": "url(#growthLiquid1)",
+          "width": "270",
+          "x": "120",
+          "y": "209.57819974691026"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0,
+          "crystalVolumeCm3": 0,
+          "departureFromCapacityG": -43.9,
+          "depthCm": 0,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 20,
+          "growthRateGS": 0,
+          "heightCm": 0,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": 0,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.7140600084363244,
+          "liquidTopHeightCm": 1.7140600084363244,
+          "newSolidG": 0,
+          "nucleationDelayS": 120,
+          "perMassG": 0,
+          "perVolumeCm3": 0,
+          "phase": "no crystal driving force",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": 0,
+          "saltAccountedG": 20,
+          "saturationRatio": 0.3129890453834116,
+          "saturationState": "undersaturated",
+          "scale": 0,
+          "seedG": 0,
+          "solidTopY": 1,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120,
+          "solutionVolumeCm3": 109,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 20,
+          "waterG": 100,
+          "wholeMassG": 120,
+          "widthCm": 0
+        },
+        "transfer": []
+      }
+    ],
+    "guide": "0",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 1,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "metric": "ratio",
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 624,
+      "scrollWidth": 1215,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "recordEnabled": true,
+    "series": [],
+    "texts": [
+      {
+        "height": 12,
+        "text": "SCIENCE ATLAS / CRYSTAL GROWTH",
+        "width": 224.7578125,
+        "x": 532.712890625,
+        "y": 524.28076171875
+      },
+      {
+        "height": 29.5,
+        "text": "A surface to grow. A mass to follow.",
+        "width": 406.578125,
+        "x": 532.712890625,
+        "y": 542.283203125
+      },
+      {
+        "height": 13,
+        "text": "Physical time 1200.00 s · 40.0 °C held",
+        "width": 190.5703125,
+        "x": 532.712890625,
+        "y": 581.541259765625
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Sample A · initial seed 1.00 g",
+        "width": 178.11712646484375,
+        "x": 546.7627563476562,
+        "y": 628.4962768554688
+      },
+      {
+        "height": 12,
+        "text": "Total salt 21.000 g · water 100.0 g",
+        "width": 158.77337646484375,
+        "x": 546.7627563476562,
+        "y": 650.7293701171875
+      },
+      {
+        "height": 11,
+        "text": "seed dissolution",
+        "width": 71.85150146484375,
+        "x": 546.7627563476562,
+        "y": 669.6819458007812
+      },
+      {
+        "height": 10.5,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 216.140625,
+        "x": 623.6820068359375,
+        "y": 838.7800903320312
+      },
+      {
+        "height": 13,
+        "text": "Dissolved 21.0000 g · capacity 63.900 g",
+        "width": 202.53900146484375,
+        "x": 546.7627563476562,
+        "y": 875.8074340820312
+      },
+      {
+        "height": 13,
+        "text": "Solid 0.0000 g · new -1.0000 g",
+        "width": 155.24993896484375,
+        "x": 546.7627563476562,
+        "y": 901.5654296875
+      },
+      {
+        "height": 12,
+        "text": "Ratio 0.32864 · undersaturated",
+        "width": 148.12493896484375,
+        "x": 546.7627563476562,
+        "y": 927.823486328125
+      },
+      {
+        "height": 11,
+        "text": "Salt budget 21.0000 g",
+        "width": 97.73431396484376,
+        "x": 546.7627563476562,
+        "y": 954.58154296875
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "Contents 121.0000 g · no water loss",
+        "width": 157.63275146484375,
+        "x": 546.7627563476562,
+        "y": 978.7785034179688
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Sample B · initial seed 0.00 g",
+        "width": 180.0234375,
+        "x": 968.258056640625,
+        "y": 628.4962768554688
+      },
+      {
+        "height": 12,
+        "text": "Total salt 20.000 g · water 100.0 g",
+        "width": 160.3046875,
+        "x": 968.258056640625,
+        "y": 650.7293701171875
+      },
+      {
+        "height": 11,
+        "text": "no crystal driving force",
+        "width": 101.4296875,
+        "x": 968.258056640625,
+        "y": 669.6819458007812
+      },
+      {
+        "height": 10.5,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 216.1405029296875,
+        "x": 1045.1773681640625,
+        "y": 838.7800903320312
+      },
+      {
+        "height": 13,
+        "text": "Dissolved 20.0000 g · capacity 63.900 g",
+        "width": 204.1875,
+        "x": 968.258056640625,
+        "y": 875.8074340820312
+      },
+      {
+        "height": 13,
+        "text": "Solid 0.0000 g · new 0.0000 g",
+        "width": 151.8671875,
+        "x": 968.258056640625,
+        "y": 901.5654296875
+      },
+      {
+        "height": 12,
+        "text": "Ratio 0.31299 · undersaturated",
+        "width": 146.28125,
+        "x": 968.258056640625,
+        "y": 927.823486328125
+      },
+      {
+        "height": 11,
+        "text": "Salt budget 20.0000 g",
+        "width": 99.1484375,
+        "x": 968.258056640625,
+        "y": 954.58154296875
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "Contents 120.0000 g · no water loss",
+        "width": 159.046875,
+        "x": 968.258056640625,
+        "y": 978.7785034179688
+      },
+      {
+        "height": 12,
+        "text": "Seed mass counts. B has the same dissolved charge, not the same total salt.",
+        "width": 361.11712646484375,
+        "x": 761.9414672851562,
+        "y": 1090.957763671875
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 600
+  },
+  "max": {
+    "box": {
+      "height": 1873.3125,
+      "width": 3645,
+      "x": 335,
+      "y": 509.7421875
+    },
+    "cells": [
+      {
+        "bottom": 261,
+        "forms": [
+          {
+            "d": "M156 261L156.1229230504022 260.9661961611394V260.8647846445576L156 260.830980805697L155.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M205.5 261L205.6229230504022 260.9661961611394V260.8647846445576L205.5 260.830980805697L205.3770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M255 261L255.1229230504022 260.9661961611394V260.8647846445576L255 260.830980805697L254.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M304.5 261L304.62292305040216 260.9661961611394V260.8647846445576L304.5 260.830980805697L304.37707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M354 261L354.12292305040216 260.9661961611394V260.8647846445576L354 260.830980805697L353.87707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          }
+        ],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.634092159022224",
+          "mask": "url(#growthLiquid0)",
+          "width": "270",
+          "x": "120",
+          "y": "209.36590784097777"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0.00000614421235332821,
+          "crystalVolumeCm3": 0.00000291332970759991,
+          "departureFromCapacityG": -42.900006144212355,
+          "depthCm": 0.008194870026812353,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20.999993855787647,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 21,
+          "growthRateGS": -6.14421235332821e-8,
+          "heightCm": 0.005633973143433493,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": -1,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.721136405300741,
+          "liquidTopHeightCm": 1.7211364053007407,
+          "newSolidG": -0.9999938557876468,
+          "nucleationDelayS": 120,
+          "perMassG": 2.925815406346767e-7,
+          "perVolumeCm3": 1.387299860761862e-7,
+          "phase": "seed dissolution",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": -0.00000614421235332821,
+          "saltAccountedG": 21,
+          "saturationRatio": 0.32863840149902424,
+          "saturationState": "undersaturated",
+          "scale": 0.00512179376675772,
+          "seedG": 1,
+          "solidTopY": 1.0056339731434334,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120.99999385578764,
+          "solutionVolumeCm3": 109.44999723510443,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 21,
+          "waterG": 100,
+          "wholeMassG": 121,
+          "widthCm": 0.008194870026812353
+        },
+        "transfer": [
+          {
+            "d": "M153 259.330980805697l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M202.5 255.29222472530378l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M252 251.2534686449104l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M301.5 247.21471256451719l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M351 243.175956484124l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          }
+        ]
+      },
+      {
+        "bottom": 261,
+        "forms": [],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.421800253089735",
+          "mask": "url(#growthLiquid1)",
+          "width": "270",
+          "x": "120",
+          "y": "209.57819974691026"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0,
+          "crystalVolumeCm3": 0,
+          "departureFromCapacityG": -43.9,
+          "depthCm": 0,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 20,
+          "growthRateGS": 0,
+          "heightCm": 0,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": 0,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.7140600084363244,
+          "liquidTopHeightCm": 1.7140600084363244,
+          "newSolidG": 0,
+          "nucleationDelayS": 120,
+          "perMassG": 0,
+          "perVolumeCm3": 0,
+          "phase": "no crystal driving force",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": 0,
+          "saltAccountedG": 20,
+          "saturationRatio": 0.3129890453834116,
+          "saturationState": "undersaturated",
+          "scale": 0,
+          "seedG": 0,
+          "solidTopY": 1,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120,
+          "solutionVolumeCm3": 109,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 20,
+          "waterG": 100,
+          "wholeMassG": 120,
+          "widthCm": 0
+        },
+        "transfer": []
+      }
+    ],
+    "guide": "0",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 1,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "metric": "ratio",
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 1873,
+      "scrollWidth": 3645,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "recordEnabled": true,
+    "series": [],
+    "texts": [
+      {
+        "height": 36,
+        "text": "SCIENCE ATLAS / CRYSTAL GROWTH",
+        "width": 674.359375,
+        "x": 928.138671875,
+        "y": 559.8579711914062
+      },
+      {
+        "height": 88.5,
+        "text": "A surface to grow. A mass to follow.",
+        "width": 1219.8125,
+        "x": 928.138671875,
+        "y": 612.865234375
+      },
+      {
+        "height": 38.5,
+        "text": "Physical time 1200.00 s · 40.0 °C held",
+        "width": 571.765625,
+        "x": 928.138671875,
+        "y": 731.139404296875
+      },
+      {
+        "height": 49.5,
+        "text": "Sample A · initial seed 1.00 g",
+        "width": 534.4765625,
+        "x": 970.2882080078124,
+        "y": 872.00439453125
+      },
+      {
+        "height": 36,
+        "text": "Total salt 21.000 g · water 100.0 g",
+        "width": 476.34375,
+        "x": 970.2882080078124,
+        "y": 939.2037353515624
+      },
+      {
+        "height": 33,
+        "text": "seed dissolution",
+        "width": 214.3671875,
+        "x": 970.2882080078124,
+        "y": 995.5615234375
+      },
+      {
+        "height": 30.4998779296875,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 648.40625,
+        "x": 1201.053955078125,
+        "y": 1503.35595703125
+      },
+      {
+        "height": 38.5,
+        "text": "Dissolved 21.0000 g · capacity 63.900 g",
+        "width": 607.65625,
+        "x": 970.2882080078124,
+        "y": 1613.93798828125
+      },
+      {
+        "height": 38.5,
+        "text": "Solid 0.0000 g · new -1.0000 g",
+        "width": 465.78125,
+        "x": 970.2882080078124,
+        "y": 1691.2120361328125
+      },
+      {
+        "height": 36.000244140625,
+        "text": "Ratio 0.32864 · undersaturated",
+        "width": 444.390625,
+        "x": 970.2882080078124,
+        "y": 1770.486083984375
+      },
+      {
+        "height": 33,
+        "text": "Salt budget 21.0000 g",
+        "width": 291.796875,
+        "x": 970.2882080078124,
+        "y": 1850.26025390625
+      },
+      {
+        "height": 33.0001220703125,
+        "text": "Contents 121.0000 g · no water loss",
+        "width": 470.3984375,
+        "x": 970.2882080078124,
+        "y": 1922.85107421875
+      },
+      {
+        "height": 49.5,
+        "text": "Sample B · initial seed 0.00 g",
+        "width": 540.171875,
+        "x": 2234.774169921875,
+        "y": 872.00439453125
+      },
+      {
+        "height": 36,
+        "text": "Total salt 20.000 g · water 100.0 g",
+        "width": 480.953125,
+        "x": 2234.774169921875,
+        "y": 939.2037353515624
+      },
+      {
+        "height": 33,
+        "text": "no crystal driving force",
+        "width": 302.375,
+        "x": 2234.774169921875,
+        "y": 995.5615234375
+      },
+      {
+        "height": 30.4998779296875,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 648.406005859375,
+        "x": 2465.5400390625,
+        "y": 1503.35595703125
+      },
+      {
+        "height": 38.5,
+        "text": "Dissolved 20.0000 g · capacity 63.900 g",
+        "width": 612.625,
+        "x": 2234.774169921875,
+        "y": 1613.93798828125
+      },
+      {
+        "height": 38.5,
+        "text": "Solid 0.0000 g · new 0.0000 g",
+        "width": 455.6328125,
+        "x": 2234.774169921875,
+        "y": 1691.2120361328125
+      },
+      {
+        "height": 36.000244140625,
+        "text": "Ratio 0.31299 · undersaturated",
+        "width": 438.8671875,
+        "x": 2234.774169921875,
+        "y": 1770.486083984375
+      },
+      {
+        "height": 33,
+        "text": "Salt budget 20.0000 g",
+        "width": 296.0703125,
+        "x": 2234.774169921875,
+        "y": 1850.26025390625
+      },
+      {
+        "height": 33.0001220703125,
+        "text": "Contents 120.0000 g · no water loss",
+        "width": 474.6796875,
+        "x": 2234.774169921875,
+        "y": 1922.85107421875
+      },
+      {
+        "height": 36,
+        "text": "Seed mass counts. B has the same dissolved charge, not the same total salt.",
+        "width": 1083.5234375,
+        "x": 1615.73828125,
+        "y": 2259.88916015625
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 600
+  },
+  "reset": {
+    "box": {
+      "height": 624.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 509.7421875
+    },
+    "cells": [
+      {
+        "bottom": 261,
+        "forms": [
+          {
+            "d": "M156 261L156.1229230504022 260.9661961611394V260.8647846445576L156 260.830980805697L155.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M205.5 261L205.6229230504022 260.9661961611394V260.8647846445576L205.5 260.830980805697L205.3770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M255 261L255.1229230504022 260.9661961611394V260.8647846445576L255 260.830980805697L254.8770769495978 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M304.5 261L304.62292305040216 260.9661961611394V260.8647846445576L304.5 260.830980805697L304.37707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          },
+          {
+            "d": "M354 261L354.12292305040216 260.9661961611394V260.8647846445576L354 260.830980805697L353.87707694959784 260.8647846445576V260.9661961611394Z",
+            "data-form-mass-g": "2.9258154063467667e-7",
+            "data-growth-crystal": "",
+            "fill": "#d5e5e8",
+            "fill-opacity": ".85",
+            "stroke": "#f2f8f8",
+            "stroke-width": "1"
+          }
+        ],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.634092159022224",
+          "mask": "url(#growthLiquid0)",
+          "width": "270",
+          "x": "120",
+          "y": "209.36590784097777"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0.00000614421235332821,
+          "crystalVolumeCm3": 0.00000291332970759991,
+          "departureFromCapacityG": -42.900006144212355,
+          "depthCm": 0.008194870026812353,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20.999993855787647,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 21,
+          "growthRateGS": -6.14421235332821e-8,
+          "heightCm": 0.005633973143433493,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": -1,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.721136405300741,
+          "liquidTopHeightCm": 1.7211364053007407,
+          "newSolidG": -0.9999938557876468,
+          "nucleationDelayS": 120,
+          "perMassG": 2.925815406346767e-7,
+          "perVolumeCm3": 1.387299860761862e-7,
+          "phase": "seed dissolution",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": -0.00000614421235332821,
+          "saltAccountedG": 21,
+          "saturationRatio": 0.32863840149902424,
+          "saturationState": "undersaturated",
+          "scale": 0.00512179376675772,
+          "seedG": 1,
+          "solidTopY": 1.0056339731434334,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120.99999385578764,
+          "solutionVolumeCm3": 109.44999723510443,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 21,
+          "waterG": 100,
+          "wholeMassG": 121,
+          "widthCm": 0.008194870026812353
+        },
+        "transfer": [
+          {
+            "d": "M153 259.330980805697l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M202.5 255.29222472530378l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M252 251.2534686449104l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M301.5 247.21471256451719l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          },
+          {
+            "d": "M351 243.175956484124l3 -5 3 5",
+            "data-growth-transfer": "to solution",
+            "data-rate-weight-gs": "5.120176961106841e-9",
+            "fill": "none",
+            "stroke": "#85e1cd",
+            "stroke-width": "1.8"
+          }
+        ]
+      },
+      {
+        "bottom": 261,
+        "forms": [],
+        "liquid": {
+          "data-growth-liquid": "",
+          "fill": "#73bdd8",
+          "fill-opacity": ".26",
+          "height": "51.421800253089735",
+          "mask": "url(#growthLiquid1)",
+          "width": "270",
+          "x": "120",
+          "y": "209.57819974691026"
+        },
+        "mid": 255,
+        "scale": 30,
+        "state": {
+          "activeTimeS": 1200,
+          "areaCm2": 63.591705928333745,
+          "capacityG": 63.9,
+          "chargeFitsHotPreparation": true,
+          "crystalG": 0,
+          "crystalVolumeCm3": 0,
+          "departureFromCapacityG": -43.9,
+          "depthCm": 0,
+          "dissolvedChargeG": 20,
+          "dissolvedG": 20,
+          "equilibriumCrystalG": 0,
+          "equilibriumDissolvedG": 20,
+          "growthRateGS": 0,
+          "heightCm": 0,
+          "hotCapacityG": 169,
+          "inductionS": 0,
+          "initialDepartureG": 0,
+          "interpretation": "Prepared cooled solution;isothermal chosen growth/induction model, not measured kinetics. Seed contributes to total salt and may dissolve in an undersaturated sample.",
+          "liquidSurfaceY": 2.7140600084363244,
+          "liquidTopHeightCm": 1.7140600084363244,
+          "newSolidG": 0,
+          "nucleationDelayS": 120,
+          "perMassG": 0,
+          "perVolumeCm3": 0,
+          "phase": "no crystal driving force",
+          "rateSInv": 0.01,
+          "referenceNote": "128-sided vessel;water1g/cm³ andchosen dissolved partialvolume0.45cm³/g. No thermal expansion ormeasured solution-volume calibration.",
+          "relaxationFraction": 0.9999938557876468,
+          "remainingDepartureG": 0,
+          "saltAccountedG": 20,
+          "saturationRatio": 0.3129890453834116,
+          "saturationState": "undersaturated",
+          "scale": 0,
+          "seedG": 0,
+          "solidTopY": 1,
+          "solubilityGPer100WaterG": 63.9,
+          "solutionMassG": 120,
+          "solutionVolumeCm3": 109,
+          "temperatureC": 40,
+          "timeS": 1200,
+          "totalSaltG": 20,
+          "waterG": 100,
+          "wholeMassG": 120,
+          "widthCm": 0
+        },
+        "transfer": []
+      }
+    ],
+    "guide": "0",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 1,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 40,
+        "timeS": 1200,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "metric": "ratio",
+    "pageWidth": 1920,
+    "pan": {
+      "height": 624,
+      "scrollHeight": 624,
+      "scrollWidth": 1215,
+      "width": 1215
+    },
+    "pane": "apparatus",
+    "recordEnabled": true,
+    "series": [],
+    "texts": [
+      {
+        "height": 12,
+        "text": "SCIENCE ATLAS / CRYSTAL GROWTH",
+        "width": 224.7578125,
+        "x": 532.712890625,
+        "y": 526.28076171875
+      },
+      {
+        "height": 29.5,
+        "text": "A surface to grow. A mass to follow.",
+        "width": 406.578125,
+        "x": 532.712890625,
+        "y": 544.283203125
+      },
+      {
+        "height": 13,
+        "text": "Physical time 1200.00 s · 40.0 °C held",
+        "width": 190.5703125,
+        "x": 532.712890625,
+        "y": 583.541259765625
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Sample A · initial seed 1.00 g",
+        "width": 178.11712646484375,
+        "x": 546.7627563476562,
+        "y": 630.4962768554688
+      },
+      {
+        "height": 12,
+        "text": "Total salt 21.000 g · water 100.0 g",
+        "width": 158.77337646484375,
+        "x": 546.7627563476562,
+        "y": 652.7293701171875
+      },
+      {
+        "height": 11,
+        "text": "seed dissolution",
+        "width": 71.85150146484375,
+        "x": 546.7627563476562,
+        "y": 671.6819458007812
+      },
+      {
+        "height": 10.5,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 216.140625,
+        "x": 623.6820068359375,
+        "y": 840.7800903320312
+      },
+      {
+        "height": 13,
+        "text": "Dissolved 21.0000 g · capacity 63.900 g",
+        "width": 202.53900146484375,
+        "x": 546.7627563476562,
+        "y": 877.8074340820312
+      },
+      {
+        "height": 13,
+        "text": "Solid 0.0000 g · new -1.0000 g",
+        "width": 155.24993896484375,
+        "x": 546.7627563476562,
+        "y": 903.5654296875
+      },
+      {
+        "height": 12,
+        "text": "Ratio 0.32864 · undersaturated",
+        "width": 148.12493896484375,
+        "x": 546.7627563476562,
+        "y": 929.823486328125
+      },
+      {
+        "height": 11,
+        "text": "Salt budget 21.0000 g",
+        "width": 97.73431396484376,
+        "x": 546.7627563476562,
+        "y": 956.58154296875
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "Contents 121.0000 g · no water loss",
+        "width": 157.63275146484375,
+        "x": 546.7627563476562,
+        "y": 980.7785034179688
+      },
+      {
+        "height": 16.49993896484375,
+        "text": "Sample B · initial seed 0.00 g",
+        "width": 180.0234375,
+        "x": 968.258056640625,
+        "y": 630.4962768554688
+      },
+      {
+        "height": 12,
+        "text": "Total salt 20.000 g · water 100.0 g",
+        "width": 160.3046875,
+        "x": 968.258056640625,
+        "y": 652.7293701171875
+      },
+      {
+        "height": 11,
+        "text": "no crystal driving force",
+        "width": 101.4296875,
+        "x": 968.258056640625,
+        "y": 671.6819458007812
+      },
+      {
+        "height": 10.5,
+        "text": "Central section:5 of 21 equal-weight reference forms",
+        "width": 216.1405029296875,
+        "x": 1045.1773681640625,
+        "y": 840.7800903320312
+      },
+      {
+        "height": 13,
+        "text": "Dissolved 20.0000 g · capacity 63.900 g",
+        "width": 204.1875,
+        "x": 968.258056640625,
+        "y": 877.8074340820312
+      },
+      {
+        "height": 13,
+        "text": "Solid 0.0000 g · new 0.0000 g",
+        "width": 151.8671875,
+        "x": 968.258056640625,
+        "y": 903.5654296875
+      },
+      {
+        "height": 12,
+        "text": "Ratio 0.31299 · undersaturated",
+        "width": 146.28125,
+        "x": 968.258056640625,
+        "y": 929.823486328125
+      },
+      {
+        "height": 11,
+        "text": "Salt budget 20.0000 g",
+        "width": 99.1484375,
+        "x": 968.258056640625,
+        "y": 956.58154296875
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "Contents 120.0000 g · no water loss",
+        "width": 159.046875,
+        "x": 968.258056640625,
+        "y": 980.7785034179688
+      },
+      {
+        "height": 12,
+        "text": "Seed mass counts. B has the same dissolved charge, not the same total salt.",
+        "width": 361.11712646484375,
+        "x": 761.9414672851562,
+        "y": 1092.957763671875
+      }
+    ],
+    "viewBox": "0 0 1100 800",
+    "width": 1920,
+    "window": 600
+  }
+}

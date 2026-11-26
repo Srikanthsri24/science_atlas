@@ -1,0 +1,9 @@
+{
+  "caption": "Matched Dt/L² gives identical concentration profiles. Read both physical clocks: this is not an equal-time comparison.",
+  "measurements": [
+    "Gas · live measurementsPhysical time: 16 s · Dt/L²: 0.4Left mass: 0.5078217 µg · right mass: 0.4921783 µgGrid-face flux: 0.00001929875 µg/(mm²·s)Net transfer: 0.001929875 µg/s · total: 1 µgMaximum relative concentration deviation: 2.457114% · Within 5% criterionPredicted 5% time: 13.12056 s",
+    "Liquid · live measurementsPhysical time: 160000 s · Dt/L²: 0.4Left mass: 0.5078217 µg · right mass: 0.4921783 µgGrid-face flux: 1.929875e-9 µg/(mm²·s)Net transfer: 1.929875e-7 µg/s · total: 1 µgMaximum relative concentration deviation: 2.457114% · Within 5% criterionPredicted 5% time: 131205.6 s"
+  ],
+  "recordEnabled": true,
+  "timeline": "Guide timeline120.0 / 120 s"
+}

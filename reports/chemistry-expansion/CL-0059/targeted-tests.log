@@ -1,0 +1,32 @@
+✔ faceted meshes integrate toactual crystalvolume andliquid excludes thesolid inventory (76.378652ms)
+✔ distributed referenceforms fitvessel andremain separateatmaximumsolidinventory (0.791615ms)
+✔ transfermarkers distinguishgrowthfromdissolutionandstopbeforeunseededactivation (1.922967ms)
+✔ elapsed history includesinduction andneverextendsbeyondcurrenttime (2.996856ms)
+✔ camera plans covercomparison/single/facetviewsandinvalidgeometryisrejected (1.813672ms)
+✔ validnotebook preservesinputs/writingandfiltersinvalidtrials (7.24408ms)
+✔ 20columnobservationsdistinguishinitialseed,newsolidandwholemass (1.24328ms)
+✔ 25workedstepshandleinduction,dissolutionandmassbasiswithoutnonfinitevalues (2.351539ms)
+✔ examreporthasthreeprinttables,25stepspertrialandescapedwriting (2.108011ms)
+✔ initialseedisincludedinclosedmassanddoesnotappearsaltfree (2.112109ms)
+✔ massbasisreferenceinterpolatesgper100gwaterwithoutconfusingwithsolutionmass (0.745972ms)
+✔ allinitialdissolvedchargesfitdeclaredhotpreparationreference (0.58564ms)
+✔ seededgrowthstartsimmediatelyandconserveswaterandsaltacrosscorners (1.526098ms)
+✔ unseededsupersaturationcanpersistuntilchoseninductionwithoutinventingearlycrystals (0.39706ms)
+✔ seedbypassesdelaybutisnotclaimedtochangeequilibriumsolubility (0.294648ms)
+✔ undersaturatedsolutiondissolvesseedinsteadofgrowingit (0.474294ms)
+✔ unseededundersaturationhasnosolidordelaydrivencrystallization (0.709143ms)
+✔ chosenmassrelaxationmatchesanalyticalderivativeafteractivation (1.050441ms)
+✔ slowandfastrateschangefinitegrowthnotmassorequilibriumcapacity (0.973236ms)
+✔ tinypositiveseedresidueisretainedwithoutcancellationwhenundersaturated (0.474948ms)
+✔ inductionboundaryiscontinuousinmassandfinite-timegrowthstartsfromzeronewsolid (0.270346ms)
+✔ 120secondguidehaspreparedandfinalholdswithoutclaimingexactequilibrium (0.962254ms)
+✔ invalidandcoercedinputscannotbecomecrystal-growthresults (0.9785ms)
+✔ prepared undersaturated seeds preserve exact initial mass and zero new solid (0.266771ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 994.445845

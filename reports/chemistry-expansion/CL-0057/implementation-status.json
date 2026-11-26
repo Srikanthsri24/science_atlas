@@ -1,0 +1,12 @@
+{
+  "labId": "CL-0057",
+  "status": "ready",
+  "uiImplemented": true,
+  "targetedTests": 26,
+  "regressionTests": 2449,
+  "actualGuiTrials": 31,
+  "exportedWorkedBlocks": 682,
+  "responsiveCases": 91,
+  "animationSeconds": 120,
+  "remaining": []
+}

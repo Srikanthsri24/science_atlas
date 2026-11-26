@@ -1,0 +1,22 @@
+✔ initialcolouredwater isallinpot withoutpre-existing product orvapour (4.079296ms)
+✔ sensibleheatingprecedesboiling andaccountsforactualgramsandkelvindifference (0.561326ms)
+✔ latentenergyproduceswateronlyafterboilingonset andtemperatureplateaus (0.486523ms)
+✔ finitevapouranddraintransitretainswateratfirstandlastarrival (0.734744ms)
+✔ waterandtrace-dyebudgetsclose acrossheatercoolingandtimecorners (2.701305ms)
+✔ halfwatercutoffstopsenergyinputandneverboilstoflaskdryness (0.573199ms)
+✔ nocoolingmeansnocondensationandopenventwaterstillcounts (0.4139ms)
+✔ flowcapacityandUAindependentlylimitcondenserwithoutinventingcooling (0.515539ms)
+✔ completecondenserrecoversallboiledwaterafterlastdropwhilekeepingdyeinpot (0.448188ms)
+✔ condenserremovedlatentenergymatchescondensedmassanddoesnotincludeescapedvapour (0.631469ms)
+✔ transportbudgetsandtemperaturearecontinuousatallstageboundaries (0.930857ms)
+✔ changingdyeaffectsconcentrationbutnotchosenwaterenergyortransportlaw (0.366295ms)
+✔ 120secondguidesetupandobservationholdsretaincompletewateranddyebudgets (4.356548ms)
+✔ invalidorcoercedinputscannotbecomeadistillationresult (2.037814ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1152.260498

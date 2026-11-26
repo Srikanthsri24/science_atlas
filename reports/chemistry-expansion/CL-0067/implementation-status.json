@@ -1,0 +1,13 @@
+{
+  "labId": "CL-0067",
+  "status": "ready",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "uiImplemented": true,
+  "recordEngineImplemented": true,
+  "targetedTestsIncludingAnnulus": 30,
+  "animationSeconds": 120,
+  "guiTrials": 30,
+  "workedResults": 1200,
+  "remaining": []
+}

@@ -1,0 +1,38 @@
+✔ round-bottom liquid and graduated collector meshes reproduce exact model volumes throughout the process (54.730904ms)
+✔ vessels and the raised collector outlet contain all supported feed/thermal/capture corners (4.745888ms)
+✔ curved flask volume remains close to an independent ideal spherical-cap reference rather than becoming a cylindrical fake (0.666769ms)
+✔ source glass and heater are closed hollow shells with true neck/top openings and correct signed volumes (262.93905ms)
+✔ mantle has genuine clearance around the curved flask instead of intersecting its glass (1.093649ms)
+✔ condenser tube, jacket and end seals preserve their bores rather than covering the vapour path with disks (14.159102ms)
+✔ transfer cues exist only for their actual modelled stream; zero cooling and full capture controls remove the right arrows (0.933827ms)
+✔ path interpolation uses physical path length and clamps endpoints, and frozen model time freezes cue positions (0.627126ms)
+✔ 33-column observations keep feed, cooling throughput and sensible/latent energy terms separate (2.30222ms)
+✔ no-boiling and no-cooling observations express meaningful missing readings without Infinity or division by zero (0.768082ms)
+✔ future targets beyond the selected run are not incorrectly treated as impossible or currently achieved (0.599725ms)
+✔ worked calculations include the complete heat account, target branches, actual rates and separate coolant demand (4.595129ms)
+✔ stored trial inputs are validated and forged derived results are never trusted (1.70214ms)
+✔ bounded browser records retain the latest60 valid inputs and4000-character writing (0.797895ms)
+✔ exam-style HTML includes all observations/substitutions, prints in three tables and safely escapes writing (1.479284ms)
+✔ initial feed, source and energy boundary exclude external cooling water (3.235727ms)
+✔ warm-up follows an independent first-order heat balance and reaches100C continuously (0.968333ms)
+✔ insulated heating reduces to Q=CdeltaT and never invents source heat losses (0.629296ms)
+✔ insufficient delivered power and the exact asymptotic boundary cannot achieve finite-time boiling (0.46526ms)
+✔ latent-heat supply controls vapour production while the coolant capacity controls capture (0.475987ms)
+✔ zero cooling sends generated vapour to escape rather than falsely recovering water (0.242585ms)
+✔ excess condenser capacity captures all vapour without overcooling or exceeding its declared outlet limit (0.27887ms)
+✔ feed water and the complete reference heat budget close at all input corners and operating phases (6.940711ms)
+✔ automatic heater cutoff retains10g and post-cutoff cooling reconciles source sensible heat with ambient loss (0.436895ms)
+✔ phase changes and cutoff are continuous in all accumulated water and heat terms (0.446611ms)
+✔ a target is predicted only if the capture-limited maximum permits it, and is measured by actual recovered mass (1.644947ms)
+✔ cooling-water throughput is a separate stream, and weak cooling makes more heater power an incomplete design improvement (0.255295ms)
+✔ temperature-dependent reference volumes keep hot condensate distinct from cold feed volumes (0.289492ms)
+✔ 120second guide contains over60seconds of default boiling/collection motion, with no future history states (1.292149ms)
+✔ invalid and nonfinite controls are rejected before numerical modelling (1.252512ms)
+ℹ tests 30
+ℹ suites 0
+ℹ pass 30
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1185.300168

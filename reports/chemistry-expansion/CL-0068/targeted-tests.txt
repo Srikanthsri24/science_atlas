@@ -1,0 +1,30 @@
+✔ actual rectangular sample and128polygon reservoir meshes close the whole comparison liquid inventory (24.357771ms)
+✔ glass encloses a real open cell without occupying the liquid cavity (0.60665ms)
+✔ every preparation leaves freeboard and keeps the whole diagnostic beam inside liquid (0.374496ms)
+✔ beam attenuation samples end at the calculated transmitted power and do not invent a concentration gradient (0.605558ms)
+✔ empty reservoir has no hidden water mesh and a zero-addition control leaves the plunger unchanged (0.772187ms)
+✔ stored records validate controls and ignore forged derived concentration and transmission (2.662757ms)
+✔ retained writing is bounded and latest60 valid preparations remain ordered (0.990589ms)
+✔ all25 observation columns identify preparation, actual path and common liquid inventory correctly (0.338861ms)
+✔ 26 worked steps remain finite with explicit units for clear, stationary, transfer and terminal controls (7.174868ms)
+✔ worked dilution and doubled-path example preserves equal absorbance at unequal concentration (0.416077ms)
+✔ original exam report prints three observation tables and every trial substitution while escaping student writing (1.437205ms)
+✔ matched default starting preparations have equal concentration, optical path and monochromatic attenuation (2.183863ms)
+✔ complete dilution doubles default volume, halves concentration and absorbance, without destroying solute (0.23632ms)
+✔ finite transfer and power inventories close across every preparation corner and observed time (2.456257ms)
+✔ equal absorbance can conceal different concentrations when the optical path is doubled (0.240509ms)
+✔ a clear-solvent control gives full transmission and no absorbed power at all allowed paths (0.266594ms)
+✔ zero-addition preparation stays stationary without inventing dilution motion (0.196944ms)
+✔ current volume and optical attenuation stay continuous at the prescribed transfer end (0.22644ms)
+✔ finite differences reproduce conservation-driven concentration and Beer–Lambert sensitivity during transfer (0.237332ms)
+✔ elapsed history contains only the observed interval and never future dilution (0.562152ms)
+✔ 120second guide provides80seconds of actual default water transfer and an honest terminal hold (0.560632ms)
+✔ malformed and out-of-bound controls are rejected rather than silently changing the scientific preparation (0.799382ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 705.820576

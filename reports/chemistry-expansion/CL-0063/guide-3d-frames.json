@@ -1,0 +1,50 @@
+[
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 2.0000 · acidic · 25 °CBurette 10.000 mL · released 0.000 mL · arrived 0.000 mLIn flight 0.000 mL · vessel 20.000 mL · elapsed 0.000 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "recordEnabled": false,
+    "scene": {
+      "neutralization-3dPh": "1.9999999999565705",
+      "neutralization-3dTime": "0"
+    },
+    "time": "0",
+    "timeline": "0.2",
+    "wall": 1795688019089
+  },
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 11.3338 · basic · 25 °CBurette 41.100 mL · released 31.100 mL · arrived 31.000 mLIn flight 0.100 mL · vessel 51.000 mL · elapsed 64.031 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "recordEnabled": false,
+    "scene": {
+      "neutralization-3dPh": "11.333822509993842",
+      "neutralization-3dTime": "64.03113779999975"
+    },
+    "time": "64.031138",
+    "timeline": "71",
+    "wall": 1795688089855
+  },
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 11.5229 · basic · 25 °CBurette 50.000 mL · released 40.000 mL · arrived 40.000 mLIn flight 0.000 mL · vessel 60.000 mL · elapsed 99.539 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "recordEnabled": false,
+    "scene": {
+      "neutralization-3dPh": "11.522878745671203",
+      "neutralization-3dTime": "99.5387778000004"
+    },
+    "time": "99.538778",
+    "timeline": "104.8",
+    "wall": 1795688123691
+  },
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 11.5229 · basic · 25 °CBurette 50.000 mL · released 40.000 mL · arrived 40.000 mLIn flight 0.000 mL · vessel 60.000 mL · elapsed 105.000 sBoth solutions are clear. Rotate / zoom / pan with pointer controls.",
+    "recordEnabled": true,
+    "scene": {
+      "neutralization-3dPh": "11.522878745671203",
+      "neutralization-3dTime": "105"
+    },
+    "time": "105",
+    "timeline": "120",
+    "wall": 1795688162847
+  }
+]

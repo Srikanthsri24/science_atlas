@@ -1,0 +1,21 @@
+{
+  "camera": "auto",
+  "canvasHeight": 502.15625,
+  "format": "landscape",
+  "guide": "120",
+  "height": 960,
+  "inventory": "Complete route · procedure progress 4.000 / 4Iron 5.000 g · filter sand 10.000 g / salt 0.000 g · crystals 5.000 gDish water 0.000 g · water to air 50.000 g · whole mass 70.000 g",
+  "notesInsideStage": true,
+  "pageWidth": 1920,
+  "readoutsInsideStage": true,
+  "recordEnabled": true,
+  "theatre": false,
+  "values": {
+    "Sequence iron grams": "5",
+    "Sequence procedure progress": "4",
+    "Sequence reserved water grams": "50",
+    "Sequence salt grams": "5",
+    "Sequence sand grams": "10"
+  },
+  "width": 1920
+}

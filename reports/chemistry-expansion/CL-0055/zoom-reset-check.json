@@ -1,0 +1,16 @@
+{
+  "before": {
+    "height": 624,
+    "inputs": "{\"sample\":\"reaction\",\"iceMassG\":50,\"paperMassG\":2,\"cuts\":3,\"bicarbonateG\":2,\"acidMmol\":40,\"progress\":0,\"motionTime\":0}",
+    "scrollHeight": 1873,
+    "scrollWidth": 3645,
+    "width": 1215
+  },
+  "after": {
+    "height": 624,
+    "inputs": "{\"sample\":\"reaction\",\"iceMassG\":50,\"paperMassG\":2,\"cuts\":3,\"bicarbonateG\":2,\"acidMmol\":40,\"progress\":0,\"motionTime\":0}",
+    "scrollHeight": 624,
+    "scrollWidth": 1215,
+    "width": 1215
+  }
+}

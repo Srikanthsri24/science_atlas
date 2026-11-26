@@ -1,0 +1,23 @@
+{
+  "labId": "CL-0072",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_relevant_sections_read",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "NISTIR5078 Table1 Saturation (Temperature)",
+      "url": "https://www.nist.gov/system/files/documents/srd/NISTIR5078-Tab1.pdf",
+      "sections": "Header columns and20\u00b0C row (line33),100\u00b0C row (line124) read. IAPWS95 table description on NIST report landing page also read.",
+      "supports": "100\u00b0C saturation pressure0.10142MPa; liquid density958.35kg/m\u00b3; latent enthalpy2256.4kJ/kg.20\u00b0C saturated-liquid density998.16kg/m\u00b3.",
+      "doesNotVerify": "Constant cp, linear interpolation of reference liquid density at a fixed pressure, source heat loss, vessel thermal capacity, condenser conductance, ideal insulated receiver, pump interlock, real recovery performance or purity."
+    },
+    {
+      "title": "UCLA Physics5B: Specific Heat and Phase Changes",
+      "url": "https://dbauer.physics.ucla.edu/5b/02-specific-heat-and-phase-changes/",
+      "sections": "Specific heat/heat balance lines55\u201379 read.",
+      "supports": "Q=mc\u0394T and a representative liquid-water cp4.18J/(g\u00b0C).",
+      "doesNotVerify": "Treating cp as constant over the whole reference temperature range, or chosen thermal/flow apparatus parameters."
+    }
+  ],
+  "originalDerivation": "Analytical first-order source heat balance, constant-temperature evaporation, latent-only quasi-steady capture limit and post-cutoff cooling derived in model-notes.md. No copied educational prose or assets."
+}

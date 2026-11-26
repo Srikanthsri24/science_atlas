@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "actualGuiTrials": 35,
+  "independentObservationChecks": 805,
+  "downloadedWorkedResults": 1785,
+  "printTables": 3,
+  "companyOnly": true,
+  "escapedWriting": true
+}

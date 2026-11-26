@@ -1,0 +1,63 @@
+{
+  "status": "primary_products_apparatus_and_constant_reviewed_with_explicit_model_assumptions",
+  "verifiedOn": "2026-11-26",
+  "sources": [
+    {
+      "url": "https://bam.files.bbci.co.uk/bam/live/content/zyxp239/transcript",
+      "status": "complete_two_page_transcript_read",
+      "supports": [
+        "Calcium carbonate and hydrochloric acid produce calcium chloride,water andcarbon dioxide",
+        "Gas syringe,deliverytube,bung,conicalflask,clampandstand",
+        "Record elapsedtime andgasvolume"
+      ],
+      "doesNotVerify": [
+        "Chosen rate law",
+        "Model parameter values",
+        "Ideal dry gas/deadspace assumptions"
+      ]
+    },
+    {
+      "url": "https://edu.rsc.org/states-of-matter/particles-in-motion-classic-chemistry-experiments-11-14-years/421.article",
+      "status": "search_excerpt_only_fullpage405"
+    },
+    {
+      "url": "https://ccea.org.uk/downloads/docs/Support/Fact%20Files/2022/GCSE%20Chemistry%20U2.3%20Rates%20of%20Reaction.pdf",
+      "status": "search_excerpt_only_fullretrieval_restricted"
+    },
+    {
+      "url": "https://physics.nist.gov/cuu/Constants/Table/allascii.txt",
+      "status": "2022_CODATA_plaintext_listing_read_molar_gas_constant_line201",
+      "supports": [
+        "R=8.314462618...J mol^-1 K^-1;modeltruncatesdigits",
+        "1kPa L=1J unit conversion gives same numericalR"
+      ],
+      "doesNotVerify": [
+        "Chosen kinetics",
+        "Drawing density/volume references",
+        "Official class placement"
+      ]
+    }
+  ],
+  "remaining": [
+    "No curriculum mapping verified",
+    "No calibrated kinetics or measured drawingvolume certification"
+  ],
+  "balancedEquationAudit": {
+    "equation": "CaCO3+2HCl -> CaCl2+CO2+H2O",
+    "reactantAtoms": {
+      "Ca": 1,
+      "C": 1,
+      "O": 3,
+      "H": 2,
+      "Cl": 2
+    },
+    "productAtoms": {
+      "Ca": 1,
+      "C": 1,
+      "O": 3,
+      "H": 2,
+      "Cl": 2
+    },
+    "method": "Independent atom count; products supported byBBC original transcript. Internallyconsistent roundedmolar masses conserve reactingmass."
+  }
+}

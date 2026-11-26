@@ -1,0 +1,162 @@
+[
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "108.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 984.7469399995682,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 984.75 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 70,
+    "width": 844,
+    "wrapper": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "109.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 991.076939999568,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 991.08 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 473,
+      "width": 320,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 128.5,
+    "width": 320,
+    "wrapper": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 246.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "109.7",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 997.0809399995672,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 997.08 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 246.5,
+    "width": 390,
+    "wrapper": {
+      "height": 246.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "110.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 1000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 438.328125,
+    "width": 820,
+    "wrapper": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "twoDCases": 51,
+  "apparatusStates": 28,
+  "actualMarkerPositions": 979,
+  "uniformBedSections": 10,
+  "microscopicCases": 15,
+  "independentCurvePoints": 1464,
+  "threeDStates": 40,
+  "minimumSvgHeight": 330.5
+}

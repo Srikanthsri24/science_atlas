@@ -1,0 +1,11 @@
+{
+ "labId":"CL-0070",
+ "verifiedOn":"2026-11-26",
+ "status":"primary_relevant_sections_read",
+ "publicLinksRendered":false,
+ "sources":[
+  {"title":"CDC: How Water Treatment Works","url":"https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html","sections":"Coagulation/flocculation/sedimentation/filtration/disinfection lines43–69 read.","supports":"Gentle mixing forms larger flocs; sedimentation separates settled solids and is only one treatment step.","doesNotVerify":"Chosen aggregate size, Df2, mineral density, velocities, bed packing, coagulant dose or actual water safety."},
+  {"title":"University of Reading PPLATO/FLAP: Mechanical properties of matter","url":"https://www.met.reading.ac.uk/pplato2/h-flap/phys7_6.html","sections":"Stokes/terminal-force balance lines571–583 and terminal-velocity expression lines1095–1104 read.","supports":"Low-relative-speed sphere drag6πµrv and gravity/buoyancy terminal-speed reference.","doesNotVerify":"Real-floc permeability/shape, chosen Df2 or the batch-front/counterflow/constant-bed closure. Those are explicitly documented model assumptions with independent conservation/derivative tests."}
+ ],
+ "originalDerivation":"Two-front batch mass balance and dilute zero-volume-flux correction derived in model-notes.md. No copied textbook prose/assets; outside references stay in private engineering evidence."
+}

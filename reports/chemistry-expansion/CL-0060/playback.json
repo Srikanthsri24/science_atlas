@@ -1,0 +1,13 @@
+{
+  "threeD": {
+    "observedCompletedTimelineS": 120,
+    "physicalEndpointS": 1200,
+    "recordEnabled": true
+  },
+  "twoD": {
+    "firstRunInterrupted": true,
+    "fullRunCompletedTimelineS": 120,
+    "physicalEndpointS": 1200,
+    "recordEnabled": true
+  }
+}

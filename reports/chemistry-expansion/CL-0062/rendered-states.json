@@ -1,0 +1,7058 @@
+[
+  {
+    "canvas": {
+      "bottom": 56.671875,
+      "h": 158,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -101.328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "51.884235"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "51.88"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: red / pink reference · 0.3000 mg in 20.600 mLneutral: purple-blue neutral reference · 0.3000 mg in 20.600 mLbase: green reference · 0.3000 mg in 20.600 mLElapsed 51.88 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": false,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 3227.890625,
+      "h": 136.8984375,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3090.9921875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "89.8",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 198.171875,
+      "h": 400,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -201.828125
+    },
+    "label": "390-3d-guide"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0.3",
+          "surfaceY": "2.6399544323835156",
+          "time": "65",
+          "vesselMl": "20.6"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "57.39840513342305",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "57.39840513342305",
+            "opacity": "0.44151318679545853",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "186.2965892077455"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "249.2965892077455"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1111.9453125,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 614.671875
+    },
+    "table": {
+      "bottom": 4123.6640625,
+      "h": 136.8984375,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3986.765625
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 635.2227172851562,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": 622.7227172851562
+      },
+      {
+        "bottom": 1010.640380859375,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": 993.640380859375
+      },
+      {
+        "bottom": 1025.85107421875,
+        "h": 17,
+        "right": 260.8828125,
+        "text": "12/12 drops · 20.60 mL",
+        "w": 131.765625,
+        "x": 129.1171875,
+        "y": 1008.85107421875
+      },
+      {
+        "bottom": 1039.3917236328125,
+        "h": 15,
+        "right": 248.35546875,
+        "text": "red / pink reference",
+        "w": 106.7109375,
+        "x": 141.64453125,
+        "y": 1024.3917236328125
+      },
+      {
+        "bottom": 1085.1939697265625,
+        "h": 10.5,
+        "right": 295.68359375,
+        "text": "Elapsed 65.00 s · colour is qualitative, not a pH meter",
+        "w": 201.3671875,
+        "x": 94.31640625,
+        "y": 1074.6939697265625
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-acid"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 1689.265625,
+      "h": 291.6953125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 259.609375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 129.21875,
+        "x": 130.390625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 265.53125,
+        "text": "No visible indicator colour",
+        "w": 141.0625,
+        "x": 124.46875,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 293.3320007324219,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 196.66403198242188,
+        "x": 96.66796875,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-t0"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "2.05"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "2.05"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "2.05",
+          "vesselMl": "20"
+        },
+        "drops": [
+          {
+            "cy": "314.1646402449305",
+            "data": {
+              "bottomClearance": "6.773750000000009",
+              "dropIndex": "0"
+            },
+            "radius": "8.027502829415738"
+          }
+        ],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "20.264220700237605",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "230.70416671527755"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 1891.4609375,
+      "h": 493.890625,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 259.609375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 129.21875,
+        "x": 130.390625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 265.53125,
+        "text": "No visible indicator colour",
+        "w": 141.0625,
+        "x": 124.46875,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 292.74999237060547,
+        "text": "Elapsed 2.05 s · colour is qualitative, not a pH meter",
+        "w": 195.5,
+        "x": 97.24999237060548,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-t2.05"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0.049999999999999996",
+          "surfaceY": "2.600149713150906",
+          "time": "10",
+          "vesselMl": "20.1"
+        },
+        "drops": [
+          {
+            "cy": "270.96725721030253",
+            "data": {
+              "bottomClearance": "8",
+              "dropIndex": "2"
+            },
+            "radius": "8.027502829415738"
+          }
+        ],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "56.005239960281706",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "558.9947600397182"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "56.005239960281706",
+            "opacity": "0.09471230209374051",
+            "width": "140",
+            "x": "230",
+            "y": "558.9947600397182"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.68975438088682"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "16.579816936558043",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "234.1099374443288"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 2093.65625,
+      "h": 696.0859375,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 256.88671875,
+        "text": "2/12 drops · 20.10 mL",
+        "w": 123.7734375,
+        "x": 133.11328125,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 248.35546875,
+        "text": "red / pink reference",
+        "w": 106.7109375,
+        "x": 141.64453125,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 294.60936737060547,
+        "text": "Elapsed 10.00 s · colour is qualitative, not a pH meter",
+        "w": 199.21875,
+        "x": 95.39061737060548,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-t10"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0.175",
+          "surfaceY": "2.6200520727672107",
+          "time": "30",
+          "vesselMl": "20.35"
+        },
+        "drops": [
+          {
+            "cy": "270.2706746237319",
+            "data": {
+              "bottomClearance": "8",
+              "dropIndex": "7"
+            },
+            "radius": "8.027502829415738"
+          }
+        ],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "56.70182254685238",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "558.2981774531477"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "56.70182254685238",
+            "opacity": "0.2910571370925933",
+            "width": "140",
+            "x": "230",
+            "y": "558.2981774531477"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "186.99317179431614"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "7.368807527359129",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "242.62436426695706"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 2295.8515625,
+      "h": 898.28125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 257.5234375,
+        "text": "7/12 drops · 20.35 mL",
+        "w": 125.046875,
+        "x": 132.4765625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 248.35546875,
+        "text": "red / pink reference",
+        "w": 106.7109375,
+        "x": 141.64453125,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 295.75390625,
+        "text": "Elapsed 30.00 s · colour is qualitative, not a pH meter",
+        "w": 201.5078125,
+        "x": 94.24609375,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-t30"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0.3",
+          "surfaceY": "2.6399544323835156",
+          "time": "65",
+          "vesselMl": "20.6"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "57.39840513342305",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "57.39840513342305",
+            "opacity": "0.44151318679545853",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "186.2965892077455"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "249.2965892077455"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 2498.046875,
+      "h": 1100.4765625,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 260.8828125,
+        "text": "12/12 drops · 20.60 mL",
+        "w": 131.765625,
+        "x": 129.1171875,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 248.35546875,
+        "text": "red / pink reference",
+        "w": 106.7109375,
+        "x": 141.64453125,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 295.68359375,
+        "text": "Elapsed 65.00 s · colour is qualitative, not a pH meter",
+        "w": 201.3671875,
+        "x": 94.31640625,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-portrait-t65"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "65",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "204.02339307434653"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "267.0233930743466"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 2700.2421875,
+      "h": 1302.671875,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 259.609375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 129.21875,
+        "x": 130.390625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 265.53125,
+        "text": "No visible indicator colour",
+        "w": 141.0625,
+        "x": 124.46875,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 295.68359375,
+        "text": "Elapsed 65.00 s · colour is qualitative, not a pH meter",
+        "w": 201.3671875,
+        "x": 94.31640625,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "No-dose control-390"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.6399544323835156",
+          "time": "65",
+          "vesselMl": "20.6"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "57.39840513342305",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "57.39840513342305",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "557.601594866577"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "186.2965892077455"
+          },
+          {
+            "fill": "#a8d4e0",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "249.2965892077455"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 2902.4375,
+      "h": 1504.8671875,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.1875,
+        "text": "ACID · pH 3",
+        "w": 66.375,
+        "x": 161.8125,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 260.8828125,
+        "text": "12/12 drops · 20.60 mL",
+        "w": 131.765625,
+        "x": 129.1171875,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 265.53125,
+        "text": "No visible indicator colour",
+        "w": 141.0625,
+        "x": 124.46875,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 295.68359375,
+        "text": "Elapsed 65.00 s · colour is qualitative, not a pH meter",
+        "w": 201.3671875,
+        "x": 94.31640625,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "Pigment-free control-390"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "6"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "1.2"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "5"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "1"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "57.05"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "57.05"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.09999999999999999",
+          "pigmentMg": "1.0999999999999999",
+          "surfaceY": "3.475853536268317",
+          "time": "57.05",
+          "vesselMl": "31.1"
+        },
+        "drops": [
+          {
+            "cy": "281.1498564377325",
+            "data": {
+              "bottomClearance": "6.773750000000139",
+              "dropIndex": "11"
+            },
+            "radius": "10.114019792871542"
+          }
+        ],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "86.6548737693911",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "528.3451262306089"
+          },
+          {
+            "fill": "#905bb1",
+            "height": "86.6548737693911",
+            "opacity": "0.7570236090107856",
+            "width": "140",
+            "x": "230",
+            "y": "528.3451262306089"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "152.86708664486576"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "215.86708664486582"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 3104.6328125,
+      "h": 1707.0625,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.42578125,
+        "text": "ACID · pH 6",
+        "w": 66.8515625,
+        "x": 161.57421875,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 255.109375,
+        "text": "11/12 drops · 31.10 mL",
+        "w": 120.21875,
+        "x": 134.890625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 254.53904724121097,
+        "text": "pink-purple reference",
+        "w": 119.07810974121094,
+        "x": 135.4609375,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 294.76171875,
+        "text": "Elapsed 57.05 s · colour is qualitative, not a pH meter",
+        "w": 199.5234375,
+        "x": 95.23828125,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "max-settings-portrait-57.05"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "6"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "1.2"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "5"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "1"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "65"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.09999999999999999",
+          "pigmentMg": "1.2",
+          "surfaceY": "3.4838144801148387",
+          "time": "65",
+          "vesselMl": "31.2"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "86.93350680401936",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "528.0664931959807"
+          },
+          {
+            "fill": "#905bb1",
+            "height": "86.93350680401936",
+            "opacity": "0.7852888276583028",
+            "width": "140",
+            "x": "230",
+            "y": "528.0664931959807"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "152.58845361023754"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "215.58845361023754"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 3306.828125,
+      "h": 1909.2578125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.42578125,
+        "text": "ACID · pH 6",
+        "w": 66.8515625,
+        "x": 161.57421875,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 258.58984375,
+        "text": "12/12 drops · 31.20 mL",
+        "w": 127.1796875,
+        "x": 131.41015625,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 254.53904724121097,
+        "text": "pink-purple reference",
+        "w": 119.07810974121094,
+        "x": 135.4609375,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 295.68359375,
+        "text": "Elapsed 65.00 s · colour is qualitative, not a pH meter",
+        "w": 201.3671875,
+        "x": 94.31640625,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "max-settings-portrait-65"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "2"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "8"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.1"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "6"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "2"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "1"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "12.13"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "12.13"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "base"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.016666666666666666",
+          "pigmentMg": "0.1",
+          "surfaceY": "1.804055328498714",
+          "time": "12.13",
+          "vesselMl": "10.1"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "28.141936497454985",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "586.8580635025451"
+          },
+          {
+            "fill": "#db345b",
+            "height": "28.141936497454985",
+            "opacity": "0.3270199572653561",
+            "width": "140",
+            "x": "230",
+            "y": "586.8580635025451"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "220.47614431923097"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "0",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "283.47614431923097"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": -1452.0546875,
+      "h": 497.2734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": -1949.328125
+    },
+    "table": {
+      "bottom": 3509.0234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 1397.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": -1928.77734375,
+        "h": 12.5,
+        "right": 268.6574058532715,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 235.12501525878903,
+        "x": 33.53239059448242,
+        "y": -1941.27734375
+      },
+      {
+        "bottom": -1553.359619140625,
+        "h": 17,
+        "right": 228.08984375,
+        "text": "ACID · pH 2",
+        "w": 66.1796875,
+        "x": 161.91015625,
+        "y": -1570.359619140625
+      },
+      {
+        "bottom": -1538.14892578125,
+        "h": 17,
+        "right": 253.4765625,
+        "text": "6/6 drops · 10.10 mL",
+        "w": 116.953125,
+        "x": 136.5234375,
+        "y": -1555.14892578125
+      },
+      {
+        "bottom": -1524.6082763671875,
+        "h": 15,
+        "right": 248.35546875,
+        "text": "red / pink reference",
+        "w": 106.7109375,
+        "x": 141.64453125,
+        "y": -1539.6082763671875
+      },
+      {
+        "bottom": -1478.8060302734375,
+        "h": 10.5,
+        "right": 292.49609375,
+        "text": "Elapsed 12.13 s · colour is qualitative, not a pH meter",
+        "w": 194.9921875,
+        "x": 97.50390625,
+        "y": -1489.3060302734375
+      }
+    ],
+    "timeline": "120",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "min-settings-portrait"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "167.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "167.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "neutral",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#6c58b7",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "487.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "487.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "base",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#3b9e7e",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "807.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "807.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 805.0625,
+      "h": 211.5,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 593.5625
+    },
+    "table": {
+      "bottom": 6086.921875,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 3975.46875
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 624.6724853515625,
+        "h": 6,
+        "right": 139.06488227844238,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 113.29688262939452,
+        "x": 25.76799964904785,
+        "y": 618.6724853515625
+      },
+      {
+        "bottom": 750.1624755859375,
+        "h": 7,
+        "right": 83.57640838623047,
+        "text": "ACID · pH 3",
+        "w": 27.6328125,
+        "x": 55.94359588623047,
+        "y": 743.1624755859375
+      },
+      {
+        "bottom": 757.4945068359375,
+        "h": 6,
+        "right": 92.41233825683594,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 45.30467987060547,
+        "x": 47.10765838623047,
+        "y": 751.4945068359375
+      },
+      {
+        "bottom": 763.7625122070312,
+        "h": 5,
+        "right": 93.54125213623048,
+        "text": "No visible indicator colour",
+        "w": 47.5625,
+        "x": 45.97875213623047,
+        "y": 758.7625122070312
+      },
+      {
+        "bottom": 750.1624755859375,
+        "h": 7,
+        "right": 179.00001525878906,
+        "text": "NEUTRAL · pH 7",
+        "w": 38.00001525878906,
+        "x": 141,
+        "y": 743.1624755859375
+      },
+      {
+        "bottom": 757.4945068359375,
+        "h": 6,
+        "right": 182.65232849121097,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 45.30467224121094,
+        "x": 137.34765625,
+        "y": 751.4945068359375
+      },
+      {
+        "bottom": 763.7625122070312,
+        "h": 5,
+        "right": 183.78125,
+        "text": "No visible indicator colour",
+        "w": 47.5625,
+        "x": 136.21875,
+        "y": 758.7625122070312
+      },
+      {
+        "bottom": 750.1624755859375,
+        "h": 7,
+        "right": 265.505615234375,
+        "text": "BASE · pH 10",
+        "w": 30.531219482421875,
+        "x": 234.97439575195312,
+        "y": 743.1624755859375
+      },
+      {
+        "bottom": 757.4945068359375,
+        "h": 6,
+        "right": 272.892333984375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 45.304656982421875,
+        "x": 227.58767700195312,
+        "y": 751.4945068359375
+      },
+      {
+        "bottom": 763.7625122070312,
+        "h": 5,
+        "right": 274.021240234375,
+        "text": "No visible indicator colour",
+        "w": 47.56248474121094,
+        "x": 226.4587554931641,
+        "y": 758.7625122070312
+      },
+      {
+        "bottom": 777.8624877929688,
+        "h": 5,
+        "right": 207.3671875,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 94.734375,
+        "x": 112.6328125,
+        "y": 772.8624877929688
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": null,
+    "label": "320-2d-landscape"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 966.390625,
+      "h": 372.828125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 593.5625
+    },
+    "table": {
+      "bottom": 6248.25,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 4136.796875
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 608.7211303710938,
+        "h": 9,
+        "right": 215.15926361083984,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 176.21875,
+        "x": 38.94051361083984,
+        "y": 599.7211303710938
+      },
+      {
+        "bottom": 890.4388427734375,
+        "h": 12.50006103515625,
+        "right": 184.875,
+        "text": "ACID · pH 3",
+        "w": 49.75,
+        "x": 135.125,
+        "y": 877.9387817382812
+      },
+      {
+        "bottom": 901.8428955078124,
+        "h": 12.5,
+        "right": 208.421875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 96.84375,
+        "x": 111.578125,
+        "y": 889.3428955078125
+      },
+      {
+        "bottom": 911.869873046875,
+        "h": 11,
+        "right": 212.8671875,
+        "text": "No visible indicator colour",
+        "w": 105.734375,
+        "x": 107.1328125,
+        "y": 900.869873046875
+      },
+      {
+        "bottom": 946.4595947265624,
+        "h": 8,
+        "right": 233.72265625,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 147.4453125,
+        "x": 86.27734375,
+        "y": 938.4595947265624
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": null,
+    "label": "320-2d-portrait"
+  },
+  {
+    "canvas": {
+      "bottom": 824.890625,
+      "h": 259.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 565.5625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6266.25,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 4154.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": {
+      "bottom": 966.390625,
+      "h": 501.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 465.0625
+    },
+    "label": "320-3d-portrait-all"
+  },
+  {
+    "canvas": {
+      "bottom": 824.890625,
+      "h": 259.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 565.5625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6266.25,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 4154.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": {
+      "bottom": 966.390625,
+      "h": 501.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 465.0625
+    },
+    "label": "320-3d-portrait-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 824.890625,
+      "h": 259.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 565.5625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6266.25,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 4154.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": {
+      "bottom": 966.390625,
+      "h": 501.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 465.0625
+    },
+    "label": "320-3d-portrait-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 824.890625,
+      "h": 259.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 565.5625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6266.25,
+      "h": 2111.453125,
+      "right": 283,
+      "w": 246,
+      "x": 37,
+      "y": 4154.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 740,
+      "scroll": 320,
+      "w": 320
+    },
+    "wrapper": {
+      "bottom": 966.390625,
+      "h": 501.328125,
+      "right": 301,
+      "w": 282,
+      "x": 19,
+      "y": 465.0625
+    },
+    "label": "320-3d-portrait-base"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "167.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "167.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "neutral",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#6c58b7",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "487.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "487.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "base",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#3b9e7e",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "807.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "807.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 837.9296875,
+      "h": 230,
+      "right": 793,
+      "w": 556,
+      "x": 237,
+      "y": 607.9296875
+    },
+    "table": {
+      "bottom": 5234.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3123.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 621.4296875,
+        "h": 8,
+        "right": 486.5255126953125,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 153.9921875,
+        "x": 332.5333251953125,
+        "y": 613.4296875
+      },
+      {
+        "bottom": 792.5130615234375,
+        "h": 9.50006103515625,
+        "right": 411.1106567382813,
+        "text": "ACID · pH 3",
+        "w": 37.5546875,
+        "x": 373.5559692382813,
+        "y": 783.0130004882812
+      },
+      {
+        "bottom": 801.9796752929688,
+        "h": 8,
+        "right": 423.1145935058594,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 61.5625,
+        "x": 361.5520935058594,
+        "y": 793.9796752929688
+      },
+      {
+        "bottom": 810.6796875,
+        "h": 7,
+        "right": 424.6770629882813,
+        "text": "No visible indicator colour",
+        "w": 64.68746948242188,
+        "x": 359.9895935058594,
+        "y": 803.6796875
+      },
+      {
+        "bottom": 792.5130615234375,
+        "h": 9.50006103515625,
+        "right": 540.828125,
+        "text": "NEUTRAL · pH 7",
+        "w": 51.65625,
+        "x": 489.171875,
+        "y": 783.0130004882812
+      },
+      {
+        "bottom": 801.9796752929688,
+        "h": 8,
+        "right": 545.78125,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 61.5625,
+        "x": 484.21875,
+        "y": 793.9796752929688
+      },
+      {
+        "bottom": 810.6796875,
+        "h": 7,
+        "right": 547.34375,
+        "text": "No visible indicator colour",
+        "w": 64.6875,
+        "x": 482.65625,
+        "y": 803.6796875
+      },
+      {
+        "bottom": 792.5130615234375,
+        "h": 9.50006103515625,
+        "right": 658.4205322265625,
+        "text": "BASE · pH 10",
+        "w": 41.5078125,
+        "x": 616.9127197265625,
+        "y": 783.0130004882812
+      },
+      {
+        "bottom": 801.9796752929688,
+        "h": 8,
+        "right": 668.4478759765625,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 61.5625,
+        "x": 606.8853759765625,
+        "y": 793.9796752929688
+      },
+      {
+        "bottom": 810.6796875,
+        "h": 7,
+        "right": 670.0103759765625,
+        "text": "No visible indicator colour",
+        "w": 64.6875,
+        "x": 605.3228759765625,
+        "y": 803.6796875
+      },
+      {
+        "bottom": 829.8463134765625,
+        "h": 7,
+        "right": 579.41796875,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 128.8359375,
+        "x": 450.58203125,
+        "y": 822.8463134765625
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": null,
+    "label": "820-2d-landscape"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1297.9296875,
+      "h": 690,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 607.9296875
+    },
+    "table": {
+      "bottom": 5694.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3583.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 640.9296875,
+        "h": 16.5,
+        "right": 615.7390747070312,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 321.5390625,
+        "x": 294.20001220703125,
+        "y": 624.4296875
+      },
+      {
+        "bottom": 1154.4296875,
+        "h": 23,
+        "right": 560.390625,
+        "text": "ACID · pH 3",
+        "w": 90.78125,
+        "x": 469.609375,
+        "y": 1131.4296875
+      },
+      {
+        "bottom": 1175.229736328125,
+        "h": 23,
+        "right": 603.35546875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 176.7109375,
+        "x": 426.64453125,
+        "y": 1152.229736328125
+      },
+      {
+        "bottom": 1193.9296875,
+        "h": 21,
+        "right": 611.44921875,
+        "text": "No visible indicator colour",
+        "w": 192.8984375,
+        "x": 418.55078125,
+        "y": 1172.9296875
+      },
+      {
+        "bottom": 1256.4296875,
+        "h": 14.5,
+        "right": 649.47265625,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 268.9453125,
+        "x": 380.52734375,
+        "y": 1241.9296875
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": null,
+    "label": "820-2d-portrait"
+  },
+  {
+    "canvas": {
+      "bottom": 1156.4296875,
+      "h": 595.5,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 560.9296875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5694.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3583.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": {
+      "bottom": 1297.9296875,
+      "h": 800,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 497.9296875
+    },
+    "label": "820-3d-portrait-all"
+  },
+  {
+    "canvas": {
+      "bottom": 1156.4296875,
+      "h": 595.5,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 560.9296875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5694.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3583.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": {
+      "bottom": 1297.9296875,
+      "h": 800,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 497.9296875
+    },
+    "label": "820-3d-portrait-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 1156.4296875,
+      "h": 595.5,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 560.9296875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5694.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3583.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": {
+      "bottom": 1297.9296875,
+      "h": 800,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 497.9296875
+    },
+    "label": "820-3d-portrait-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 1156.4296875,
+      "h": 595.5,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 560.9296875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5694.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3583.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": {
+      "bottom": 1297.9296875,
+      "h": 800,
+      "right": 755,
+      "w": 480,
+      "x": 275,
+      "y": 497.9296875
+    },
+    "label": "820-3d-portrait-base"
+  },
+  {
+    "canvas": {
+      "bottom": 756.4296875,
+      "h": 195.5,
+      "right": 793,
+      "w": 556,
+      "x": 237,
+      "y": 560.9296875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5294.8359375,
+      "h": 2111.453125,
+      "right": 772,
+      "w": 514,
+      "x": 258,
+      "y": 3183.3828125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1180,
+      "scroll": 820,
+      "w": 820
+    },
+    "wrapper": {
+      "bottom": 897.9296875,
+      "h": 400,
+      "right": 793,
+      "w": 556,
+      "x": 237,
+      "y": 497.9296875
+    },
+    "label": "820-3d-landscape-base"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "167.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "167.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "neutral",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#6c58b7",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "487.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "487.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "base",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#3b9e7e",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "807.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "807.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 811.3203125,
+      "h": 265.1875,
+      "right": 956,
+      "w": 667,
+      "x": 289,
+      "y": 546.1328125
+    },
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 561.3922119140625,
+        "h": 9,
+        "right": 589.719482421875,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 177.6015625,
+        "x": 412.117919921875,
+        "y": 552.3922119140625
+      },
+      {
+        "bottom": 758.5729370117188,
+        "h": 11,
+        "right": 502.718994140625,
+        "text": "ACID · pH 3",
+        "w": 43.3046875,
+        "x": 459.414306640625,
+        "y": 747.5729370117188
+      },
+      {
+        "bottom": 769.5643920898438,
+        "h": 9,
+        "right": 516.558837890625,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 70.98434448242188,
+        "x": 445.5744934082031,
+        "y": 760.5643920898438
+      },
+      {
+        "bottom": 780.171875,
+        "h": 8,
+        "right": 518.351806640625,
+        "text": "No visible indicator colour",
+        "w": 74.57028198242188,
+        "x": 443.7815246582031,
+        "y": 772.171875
+      },
+      {
+        "bottom": 758.5729370117188,
+        "h": 11,
+        "right": 652.28125,
+        "text": "NEUTRAL · pH 7",
+        "w": 59.5625,
+        "x": 592.71875,
+        "y": 747.5729370117188
+      },
+      {
+        "bottom": 769.5643920898438,
+        "h": 9,
+        "right": 657.9921875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 70.984375,
+        "x": 587.0078125,
+        "y": 760.5643920898438
+      },
+      {
+        "bottom": 780.171875,
+        "h": 8,
+        "right": 659.78515625,
+        "text": "No visible indicator colour",
+        "w": 74.5703125,
+        "x": 585.21484375,
+        "y": 772.171875
+      },
+      {
+        "bottom": 758.5729370117188,
+        "h": 11,
+        "right": 787.859130859375,
+        "text": "BASE · pH 10",
+        "w": 47.8515625,
+        "x": 740.007568359375,
+        "y": 747.5729370117188
+      },
+      {
+        "bottom": 769.5643920898438,
+        "h": 9,
+        "right": 799.425537109375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 70.984375,
+        "x": 728.441162109375,
+        "y": 760.5643920898438
+      },
+      {
+        "bottom": 780.171875,
+        "h": 8,
+        "right": 801.2184448242188,
+        "text": "No visible indicator colour",
+        "w": 74.57025146484375,
+        "x": 726.648193359375,
+        "y": 772.171875
+      },
+      {
+        "bottom": 802.2708129882812,
+        "h": 8,
+        "right": 696.76171875,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 148.5234375,
+        "x": 548.23828125,
+        "y": 794.2708129882812
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": null,
+    "label": "1280-2d-landscape"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1236.1328125,
+      "h": 690,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 546.1328125
+    },
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 579.1328125,
+        "h": 16.5,
+        "right": 723.2390747070312,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 321.5390625,
+        "x": 401.7000122070313,
+        "y": 562.6328125
+      },
+      {
+        "bottom": 1092.6328125,
+        "h": 23,
+        "right": 667.890625,
+        "text": "ACID · pH 3",
+        "w": 90.78125,
+        "x": 577.109375,
+        "y": 1069.6328125
+      },
+      {
+        "bottom": 1113.432861328125,
+        "h": 23,
+        "right": 710.85546875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 176.7109375,
+        "x": 534.14453125,
+        "y": 1090.432861328125
+      },
+      {
+        "bottom": 1132.1328125,
+        "h": 21,
+        "right": 718.94921875,
+        "text": "No visible indicator colour",
+        "w": 192.8984375,
+        "x": 526.05078125,
+        "y": 1111.1328125
+      },
+      {
+        "bottom": 1194.6328125,
+        "h": 14.5,
+        "right": 756.97265625,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 268.9453125,
+        "x": 488.02734375,
+        "y": 1180.1328125
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": null,
+    "label": "1280-2d-portrait"
+  },
+  {
+    "canvas": {
+      "bottom": 1094.6328125,
+      "h": 595.5,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 499.1328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": {
+      "bottom": 1236.1328125,
+      "h": 800,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 436.1328125
+    },
+    "label": "1280-3d-portrait-all"
+  },
+  {
+    "canvas": {
+      "bottom": 1094.6328125,
+      "h": 595.5,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 499.1328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": {
+      "bottom": 1236.1328125,
+      "h": 800,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 436.1328125
+    },
+    "label": "1280-3d-portrait-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 1094.6328125,
+      "h": 595.5,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 499.1328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": {
+      "bottom": 1236.1328125,
+      "h": 800,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 436.1328125
+    },
+    "label": "1280-3d-portrait-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 1094.6328125,
+      "h": 595.5,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 499.1328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": {
+      "bottom": 1236.1328125,
+      "h": 800,
+      "right": 862.5,
+      "w": 480,
+      "x": 382.5,
+      "y": 436.1328125
+    },
+    "label": "1280-3d-portrait-base"
+  },
+  {
+    "canvas": {
+      "bottom": 694.6328125,
+      "h": 195.5,
+      "right": 956,
+      "w": 667,
+      "x": 289,
+      "y": 499.1328125
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4711.2109375,
+      "h": 2111.453125,
+      "right": 1214,
+      "w": 900,
+      "x": 314,
+      "y": 2599.7578125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 800,
+      "scroll": 1280,
+      "w": 1280
+    },
+    "wrapper": {
+      "bottom": 836.1328125,
+      "h": 400,
+      "right": 956,
+      "w": 667,
+      "x": 289,
+      "y": 436.1328125
+    },
+    "label": "1280-3d-landscape-base"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "167.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "167.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "neutral",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#6c58b7",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "487.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "487.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "base",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#3b9e7e",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "807.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "807.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1121.375,
+      "h": 620.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": 500.9375
+    },
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 536.9593505859375,
+        "h": 21.5,
+        "right": 865.9034423828125,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 415.6171875,
+        "x": 450.2862548828125,
+        "y": 515.4593505859375
+      },
+      {
+        "bottom": 998.1171875,
+        "h": 25.5,
+        "right": 662.2640380859375,
+        "text": "ACID · pH 3",
+        "w": 101.328125,
+        "x": 560.9359130859375,
+        "y": 972.6171875
+      },
+      {
+        "bottom": 1024.0028076171875,
+        "h": 21.5,
+        "right": 694.6624755859375,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 166.125,
+        "x": 528.5374755859375,
+        "y": 1002.5028076171876
+      },
+      {
+        "bottom": 1048.3203125,
+        "h": 19,
+        "right": 698.8577880859375,
+        "text": "No visible indicator colour",
+        "w": 174.515625,
+        "x": 524.3421630859375,
+        "y": 1029.3203125
+      },
+      {
+        "bottom": 998.1171875,
+        "h": 25.5,
+        "right": 1012.1875,
+        "text": "NEUTRAL · pH 7",
+        "w": 139.375,
+        "x": 872.8125,
+        "y": 972.6171875
+      },
+      {
+        "bottom": 1024.0028076171875,
+        "h": 21.5,
+        "right": 1025.5625,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 166.125,
+        "x": 859.4375,
+        "y": 1002.5028076171876
+      },
+      {
+        "bottom": 1048.3203125,
+        "h": 19,
+        "right": 1029.7578125,
+        "text": "No visible indicator colour",
+        "w": 174.515625,
+        "x": 855.2421875,
+        "y": 1029.3203125
+      },
+      {
+        "bottom": 998.1171875,
+        "h": 25.5,
+        "right": 1329.3843994140625,
+        "text": "BASE · pH 10",
+        "w": 111.96875,
+        "x": 1217.4156494140625,
+        "y": 972.6171875
+      },
+      {
+        "bottom": 1024.0028076171875,
+        "h": 21.5,
+        "right": 1356.4625244140625,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 166.125,
+        "x": 1190.3375244140625,
+        "y": 1002.5028076171876
+      },
+      {
+        "bottom": 1048.3203125,
+        "h": 19,
+        "right": 1360.6578369140625,
+        "text": "No visible indicator colour",
+        "w": 174.515625,
+        "x": 1186.1422119140625,
+        "y": 1029.3203125
+      },
+      {
+        "bottom": 1100.0234375,
+        "h": 19,
+        "right": 1116.29296875,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 347.5859375,
+        "x": 768.70703125,
+        "y": 1081.0234375
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": null,
+    "label": "1920-2d-landscape"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1237.9375,
+      "h": 690,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 547.9375
+    },
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 580.9375,
+        "h": 16.5,
+        "right": 1043.239013671875,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 321.53900146484375,
+        "x": 721.7000122070312,
+        "y": 564.4375
+      },
+      {
+        "bottom": 1094.4375,
+        "h": 23,
+        "right": 987.890625,
+        "text": "ACID · pH 3",
+        "w": 90.78125,
+        "x": 897.109375,
+        "y": 1071.4375
+      },
+      {
+        "bottom": 1115.237548828125,
+        "h": 23,
+        "right": 1030.85546875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 176.7109375,
+        "x": 854.14453125,
+        "y": 1092.237548828125
+      },
+      {
+        "bottom": 1133.9375,
+        "h": 21,
+        "right": 1038.94921875,
+        "text": "No visible indicator colour",
+        "w": 192.8984375,
+        "x": 846.05078125,
+        "y": 1112.9375
+      },
+      {
+        "bottom": 1196.4375,
+        "h": 14.5,
+        "right": 1076.97265625,
+        "text": "Elapsed 0.00 s · colour is qualitative, not a pH meter",
+        "w": 268.9453125,
+        "x": 808.02734375,
+        "y": 1181.9375
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": null,
+    "label": "1920-2d-portrait"
+  },
+  {
+    "canvas": {
+      "bottom": 1096.4375,
+      "h": 595.5,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 500.9375
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": 1237.9375,
+      "h": 800,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 437.9375
+    },
+    "label": "1920-3d-portrait-all"
+  },
+  {
+    "canvas": {
+      "bottom": 1096.4375,
+      "h": 595.5,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 500.9375
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": 1237.9375,
+      "h": 800,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 437.9375
+    },
+    "label": "1920-3d-portrait-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 1096.4375,
+      "h": 595.5,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 500.9375
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": 1237.9375,
+      "h": 800,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 437.9375
+    },
+    "label": "1920-3d-portrait-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 1096.4375,
+      "h": 595.5,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 500.9375
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": 1237.9375,
+      "h": 800,
+      "right": 1182.5,
+      "w": 480,
+      "x": 702.5,
+      "y": 437.9375
+    },
+    "label": "1920-3d-portrait-base"
+  },
+  {
+    "canvas": {
+      "bottom": 979.875,
+      "h": 478.9375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": 500.9375
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4671.015625,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 2559.5625
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": 1121.375,
+      "h": 683.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": 437.9375
+    },
+    "label": "1920-3d-landscape-base"
+  },
+  {
+    "canvas": {
+      "bottom": 532.5,
+      "h": 376.5,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 156
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5144.6640625,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3033.2109375
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 674,
+      "h": 577,
+      "right": 390,
+      "w": 390,
+      "x": 0,
+      "y": 97
+    },
+    "label": "390-3d-portrait-theatre"
+  },
+  {
+    "canvas": {
+      "bottom": 217,
+      "h": 82,
+      "right": 844,
+      "w": 844,
+      "x": 0,
+      "y": 135
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4389.4453125,
+      "h": 2111.453125,
+      "right": 796,
+      "w": 538,
+      "x": 258,
+      "y": 2277.9921875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 390,
+      "scroll": 844,
+      "w": 844
+    },
+    "wrapper": {
+      "bottom": 320,
+      "h": 248,
+      "right": 844,
+      "w": 844,
+      "x": 0,
+      "y": 72
+    },
+    "label": "844x390-3d-theatre-expanded-notes"
+  },
+  {
+    "canvas": {
+      "bottom": 240.15625,
+      "h": 136.15625,
+      "right": 844,
+      "w": 844,
+      "x": 0,
+      "y": 104
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 4389.4453125,
+      "h": 2111.453125,
+      "right": 796,
+      "w": 538,
+      "x": 258,
+      "y": 2277.9921875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 390,
+      "scroll": 844,
+      "w": 844
+    },
+    "wrapper": {
+      "bottom": 343.15625,
+      "h": 290.15625,
+      "right": 844,
+      "w": 844,
+      "x": 0,
+      "y": 53
+    },
+    "label": "844x390-3d-theatre-compact-controls"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0.5512541666668149",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "134",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "167.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "167.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "neutral",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0.5512541666668149",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#6c58b7",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "454",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "487.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "487.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      },
+      {
+        "data": {
+          "cabbageSample": "base",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0.5512541666668149",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "36.62034169400083",
+            "opacity": ".25",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "#3b9e7e",
+            "height": "36.62034169400083",
+            "opacity": "0",
+            "width": "92",
+            "x": "774",
+            "y": "395.37965830599916"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "41.4",
+            "opacity": null,
+            "width": "25.3",
+            "x": "807.35",
+            "y": "151.37922601590992"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "14.527077696793713",
+            "opacity": ".8",
+            "width": "25.3",
+            "x": "807.35",
+            "y": "178.2521483191162"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 343.15625,
+      "h": 239.15625,
+      "right": 844,
+      "w": 844,
+      "x": 0,
+      "y": 104
+    },
+    "table": {
+      "bottom": 4389.4453125,
+      "h": 2111.453125,
+      "right": 796,
+      "w": 538,
+      "x": 258,
+      "y": 2277.9921875
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 117.9578094482422,
+        "h": 8.5,
+        "right": 392.4100036621094,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 160.140625,
+        "x": 232.26937866210935,
+        "y": 109.4578094482422
+      },
+      {
+        "bottom": 295.83203125,
+        "h": 10,
+        "right": 313.97344970703125,
+        "text": "ACID · pH 3",
+        "w": 39.046905517578125,
+        "x": 274.9265441894531,
+        "y": 285.83203125
+      },
+      {
+        "bottom": 305.6954650878906,
+        "h": 8.5,
+        "right": 326.46173095703125,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 64.02346801757812,
+        "x": 262.4382629394531,
+        "y": 297.1954650878906
+      },
+      {
+        "bottom": 314.76171875,
+        "h": 7,
+        "right": 328.0867004394531,
+        "text": "No visible indicator colour",
+        "w": 67.27340698242188,
+        "x": 260.81329345703125,
+        "y": 307.76171875
+      },
+      {
+        "bottom": 295.83203125,
+        "h": 10,
+        "right": 448.85546875,
+        "text": "NEUTRAL · pH 7",
+        "w": 53.7109375,
+        "x": 395.14453125,
+        "y": 285.83203125
+      },
+      {
+        "bottom": 305.6954650878906,
+        "h": 8.5,
+        "right": 454.01171875,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 64.0234375,
+        "x": 389.98828125,
+        "y": 297.1954650878906
+      },
+      {
+        "bottom": 314.76171875,
+        "h": 7,
+        "right": 455.6366882324219,
+        "text": "No visible indicator colour",
+        "w": 67.27340698242188,
+        "x": 388.36328125,
+        "y": 307.76171875
+      },
+      {
+        "bottom": 295.83203125,
+        "h": 10,
+        "right": 571.1281127929688,
+        "text": "BASE · pH 10",
+        "w": 43.15625,
+        "x": 527.9718627929688,
+        "y": 285.83203125
+      },
+      {
+        "bottom": 305.6954650878906,
+        "h": 8.5,
+        "right": 581.5617065429688,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 64.0234375,
+        "x": 517.5382690429688,
+        "y": 297.1954650878906
+      },
+      {
+        "bottom": 314.76171875,
+        "h": 7,
+        "right": 583.1867065429688,
+        "text": "No visible indicator colour",
+        "w": 67.2734375,
+        "x": 515.9132690429688,
+        "y": 307.76171875
+      },
+      {
+        "bottom": 334.69140625,
+        "h": 7,
+        "right": 488.6953125,
+        "text": "Elapsed 0.55 s · colour is qualitative, not a pH meter",
+        "w": 133.390625,
+        "x": 355.3046875,
+        "y": 327.69140625
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 390,
+      "scroll": 844,
+      "w": 844
+    },
+    "wrapper": null,
+    "label": "844x390-2d-theatre"
+  },
+  {
+    "canvas": null,
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "recordEnabled": true,
+    "samples": [
+      {
+        "data": {
+          "cabbageSample": "acid",
+          "dropMl": "0.049999999999999996",
+          "pigmentMg": "0",
+          "surfaceY": "2.592188769304384",
+          "time": "0.5512541666668149",
+          "vesselMl": "20"
+        },
+        "drops": [],
+        "rects": [
+          {
+            "fill": "#acd9e5",
+            "height": "55.726606925653435",
+            "opacity": ".25",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "#d5407b",
+            "height": "55.726606925653435",
+            "opacity": "0",
+            "width": "140",
+            "x": "230",
+            "y": "559.2733930743466"
+          },
+          {
+            "fill": "url(#cabbage-glass)",
+            "height": "63",
+            "opacity": null,
+            "width": "38.5",
+            "x": "280.75",
+            "y": "187.9683874155151"
+          },
+          {
+            "fill": "#955bb5",
+            "height": "22.10642258207739",
+            "opacity": ".8",
+            "width": "38.5",
+            "x": "280.75",
+            "y": "228.8619648334377"
+          }
+        ]
+      }
+    ],
+    "svg": {
+      "bottom": 1624.9921875,
+      "h": 1491.8203125,
+      "right": 1035,
+      "w": 1056,
+      "x": -21,
+      "y": 133.171875
+    },
+    "table": {
+      "bottom": 5631.5234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3520.0703125
+    },
+    "tableScroll": 2500,
+    "texts": [
+      {
+        "bottom": 194.32435607910156,
+        "h": 36.5,
+        "right": 727.9721717834473,
+        "text": "MATCHED DOSE · KNOWN REFERENCE BUFFERS · 25 °C",
+        "w": 705.375,
+        "x": 22.597171783447266,
+        "y": 157.82435607910156
+      },
+      {
+        "bottom": 1321.0772705078125,
+        "h": 50.5,
+        "right": 606.5586547851562,
+        "text": "ACID · pH 3",
+        "w": 199.11721801757812,
+        "x": 407.4414367675781,
+        "y": 1270.5772705078125
+      },
+      {
+        "bottom": 1366.70947265625,
+        "h": 50.5,
+        "right": 700.8125610351562,
+        "text": "0/12 drops · 20.00 mL",
+        "w": 387.6250305175781,
+        "x": 313.1875305175781,
+        "y": 1316.20947265625
+      },
+      {
+        "bottom": 1407.8314208984375,
+        "h": 46,
+        "right": 718.5859375,
+        "text": "No visible indicator colour",
+        "w": 423.1718444824219,
+        "x": 295.4140930175781,
+        "y": 1361.8314208984375
+      },
+      {
+        "bottom": 1544.7381591796875,
+        "h": 32,
+        "right": 800.6641540527344,
+        "text": "Elapsed 0.55 s · colour is qualitative, not a pH meter",
+        "w": 587.3282470703125,
+        "x": 213.33590698242188,
+        "y": 1512.7381591796875
+      }
+    ],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": null,
+    "label": "390-2d-zoom"
+  },
+  {
+    "canvas": {
+      "bottom": 744.671875,
+      "h": 158,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5865.25,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3753.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 886.171875,
+      "h": 400,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-landscape-all"
+  },
+  {
+    "canvas": {
+      "bottom": 744.671875,
+      "h": 158,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5865.25,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3753.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 886.171875,
+      "h": 400,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-landscape-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 744.671875,
+      "h": 158,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5865.25,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3753.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 886.171875,
+      "h": 400,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-landscape-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 744.671875,
+      "h": 158,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 5865.25,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3753.796875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 886.171875,
+      "h": 400,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-landscape-base"
+  },
+  {
+    "canvas": {
+      "bottom": 970.4453125,
+      "h": 383.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6091.0234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3979.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 1111.9453125,
+      "h": 625.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-portrait-all"
+  },
+  {
+    "canvas": {
+      "bottom": 970.4453125,
+      "h": 383.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6091.0234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3979.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 1111.9453125,
+      "h": 625.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-portrait-acid"
+  },
+  {
+    "canvas": {
+      "bottom": 970.4453125,
+      "h": 383.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6091.0234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3979.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 1111.9453125,
+      "h": 625.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-portrait-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": 970.4453125,
+      "h": 383.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 586.671875
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "0.551254"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "0.55"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: No visible indicator colour · 0.0000 mg in 20.000 mLneutral: No visible indicator colour · 0.0000 mg in 20.000 mLbase: No visible indicator colour · 0.0000 mg in 20.000 mLElapsed 0.55 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 6091.0234375,
+      "h": 2111.453125,
+      "right": 353,
+      "w": 316,
+      "x": 37,
+      "y": 3979.5703125
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "0",
+    "viewport": {
+      "h": 844,
+      "scroll": 390,
+      "w": 390
+    },
+    "wrapper": {
+      "bottom": 1111.9453125,
+      "h": 625.7734375,
+      "right": 371,
+      "w": 352,
+      "x": 19,
+      "y": 486.171875
+    },
+    "label": "390-final-3d-portrait-base"
+  },
+  {
+    "canvas": {
+      "bottom": -1256.125,
+      "h": 478.9375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1735.0625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: red / pink reference · 0.1750 mg in 20.350 mLneutral: purple-blue neutral reference · 0.1750 mg in 20.350 mLbase: green reference · 0.1750 mg in 20.350 mLElapsed 30.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 2407.8203125,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 296.3671875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "1.6",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": -1114.625,
+      "h": 683.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1798.0625
+    },
+    "label": "1920-final-isolated-all"
+  },
+  {
+    "canvas": {
+      "bottom": -1256.125,
+      "h": 478.9375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1735.0625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: red / pink reference · 0.1750 mg in 20.350 mLneutral: purple-blue neutral reference · 0.1750 mg in 20.350 mLbase: green reference · 0.1750 mg in 20.350 mLElapsed 30.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 2407.8203125,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 296.3671875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "1.6",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": -1114.625,
+      "h": 683.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1798.0625
+    },
+    "label": "1920-final-isolated-acid"
+  },
+  {
+    "canvas": {
+      "bottom": -1256.125,
+      "h": 478.9375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1735.0625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: red / pink reference · 0.1750 mg in 20.350 mLneutral: purple-blue neutral reference · 0.1750 mg in 20.350 mLbase: green reference · 0.1750 mg in 20.350 mLElapsed 30.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 2407.8203125,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 296.3671875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "1.6",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": -1114.625,
+      "h": 683.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1798.0625
+    },
+    "label": "1920-final-isolated-neutral"
+  },
+  {
+    "canvas": {
+      "bottom": -1256.125,
+      "h": 478.9375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1735.0625
+    },
+    "controls": [
+      {
+        "label": "Cabbage Acid reference pH",
+        "value": "3"
+      },
+      {
+        "label": "Cabbage Base reference pH",
+        "value": "10"
+      },
+      {
+        "label": "Cabbage Initial sample volume",
+        "value": "20"
+      },
+      {
+        "label": "Cabbage Planned indicator dose",
+        "value": "0.6"
+      },
+      {
+        "label": "Cabbage Programmed drops",
+        "value": "12"
+      },
+      {
+        "label": "Cabbage Release interval",
+        "value": "4"
+      },
+      {
+        "label": "Cabbage Chosen stock pigment",
+        "value": "0.5"
+      },
+      {
+        "label": "Cabbage physical time seconds",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage physical time slider",
+        "value": "30"
+      },
+      {
+        "label": "Cabbage record sample",
+        "value": "acid"
+      }
+    ],
+    "readouts": "acid: red / pink reference · 0.1750 mg in 20.350 mLneutral: purple-blue neutral reference · 0.1750 mg in 20.350 mLbase: green reference · 0.1750 mg in 20.350 mLElapsed 30.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "samples": [],
+    "svg": null,
+    "table": {
+      "bottom": 2407.8203125,
+      "h": 2111.453125,
+      "right": 1808,
+      "w": 1448,
+      "x": 360,
+      "y": 296.3671875
+    },
+    "tableScroll": 2500,
+    "texts": [],
+    "timeline": "1.6",
+    "viewport": {
+      "h": 1080,
+      "scroll": 1920,
+      "w": 1920
+    },
+    "wrapper": {
+      "bottom": -1114.625,
+      "h": 683.4375,
+      "right": 1550,
+      "w": 1215,
+      "x": 335,
+      "y": -1798.0625
+    },
+    "label": "1920-final-isolated-base"
+  }
+]

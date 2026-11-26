@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "meanPixelDifferences": {
+    "orbit": 3.7354126247228385,
+    "reset": 0.0,
+    "tilt": 2.978924727457502,
+    "zoom": 9.934233531966001,
+    "final-reset": 0.0,
+    "left": 1.967360148743533,
+    "down": 2.3131726949371765,
+    "out": 6.9511369410569115,
+    "inverses-restored": 0.0013673318551367332,
+    "cut-off": 3.4797371581670364,
+    "cue-off": 0.09900741407982261,
+    "toggles-restored": 0.0
+  },
+  "nativeDragStatus": "unverified: Mac locked; no native orbit pass claimed",
+  "nativeWheelZoom": "one real focused wheel action produced a large change; use accessible buttons as the verified camera controls"
+}

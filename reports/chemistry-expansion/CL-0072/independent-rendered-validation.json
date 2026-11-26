@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "actualCases": 52,
+  "independentVesselVolumeChecks": 19,
+  "independent3DReadings": 120,
+  "independentHistoryPoints": 671,
+  "pageOverflow": false,
+  "positiveContainedViewers": true
+}

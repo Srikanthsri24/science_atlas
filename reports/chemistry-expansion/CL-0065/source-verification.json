@@ -1,0 +1,23 @@
+{
+  "labId": "CL-0065",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_relevant_sections_read",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "Canadian Conservation Institute Notes9/6: Care and Cleaning of Iron",
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-iron.html",
+      "sections": "Introduction/examination and finishes; web lines28\u201342,59\u201365 read",
+      "supports": "Moisture/oxygen access, corrosion-product separation, coatings reducing transmission and maintenance limitations.",
+      "doesNotVerify": "Chosen kinetics, relative transmission, geometry, density or coating durability."
+    },
+    {
+      "title": "Canadian Conservation Institute: Caring for metal objects",
+      "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects.html",
+      "sections": "Coatings, web lines814\u2013830 read",
+      "supports": "Organic barriers need not be perfectly impermeable; defects and deterioration can allow corrosion.",
+      "doesNotVerify": "Any real paint ranking or specific permeability, scratch-flow law, protection factor or galvanic mechanism."
+    }
+  ],
+  "modelReference": "FeOOH-equivalent chemistry and drawing references inherited unchanged from internally reviewedCL0064; rounded material values, not measured coating-specific calibration."
+}

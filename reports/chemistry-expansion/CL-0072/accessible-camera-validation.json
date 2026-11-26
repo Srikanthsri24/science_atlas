@@ -1,0 +1,10 @@
+{
+  "pixelMeanAbsoluteDifference": {
+    "right": 4.991257487618049,
+    "reset2": 0.0,
+    "up": 6.071171254357341,
+    "in": 13.839827350115028
+  },
+  "nativeGestures": "not tested",
+  "note": "Actual canvas screenshots at fixed 800 physical seconds. Command application acknowledgement triggers scene refresh; reset returns the reference image."
+}

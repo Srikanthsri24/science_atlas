@@ -1,0 +1,14 @@
+{
+  "actualTrials": 30,
+  "columnsPerTrial": 25,
+  "downloadedWorkedResultsVerified": 870,
+  "printTables": 4,
+  "exactReload": true,
+  "escapedWriting": true,
+  "companyOnlyReport": true,
+  "skippedEquivalenceVolumesMl": [
+    4.96,
+    5.12
+  ],
+  "sourceDownloadedFilename": "CL-0063-neutralization-practical (1).html"
+}

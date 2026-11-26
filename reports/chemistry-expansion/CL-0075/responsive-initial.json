@@ -1,0 +1,388 @@
+{
+  "landscape2D": [
+    {
+      "guide": "Guide timeline11.2 / 120 s",
+      "scroll": 320,
+      "stage": {
+        "bottom": 128.3671875,
+        "height": 260,
+        "left": 19,
+        "right": 301,
+        "top": -131.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -131.6328125
+      },
+      "svg": {
+        "bottom": 128.3671875,
+        "height": 260,
+        "left": 19,
+        "right": 301,
+        "top": -131.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -131.6328125
+      },
+      "width": 320
+    },
+    {
+      "guide": "Guide timeline11.4 / 120 s",
+      "scroll": 390,
+      "stage": {
+        "bottom": 112.171875,
+        "height": 260,
+        "left": 19,
+        "right": 371,
+        "top": -147.828125,
+        "width": 352,
+        "x": 19,
+        "y": -147.828125
+      },
+      "svg": {
+        "bottom": 112.171875,
+        "height": 260,
+        "left": 19,
+        "right": 371,
+        "top": -147.828125,
+        "width": 352,
+        "x": 19,
+        "y": -147.828125
+      },
+      "width": 390
+    },
+    {
+      "guide": "Guide timeline11.6 / 120 s",
+      "scroll": 820,
+      "stage": {
+        "bottom": 70.1796875,
+        "height": 312.75,
+        "left": 237,
+        "right": 793,
+        "top": -242.5703125,
+        "width": 556,
+        "x": 237,
+        "y": -242.5703125
+      },
+      "svg": {
+        "bottom": 70.1796875,
+        "height": 312.75,
+        "left": 237,
+        "right": 793,
+        "top": -242.5703125,
+        "width": 556,
+        "x": 237,
+        "y": -242.5703125
+      },
+      "width": 820
+    },
+    {
+      "guide": "Guide timeline11.8 / 120 s",
+      "scroll": 1280,
+      "stage": {
+        "bottom": 116.8203125,
+        "height": 375.1875,
+        "left": 289,
+        "right": 956,
+        "top": -258.3671875,
+        "width": 667,
+        "x": 289,
+        "y": -258.3671875
+      },
+      "svg": {
+        "bottom": 116.8203125,
+        "height": 375.1875,
+        "left": 289,
+        "right": 956,
+        "top": -258.3671875,
+        "width": 667,
+        "x": 289,
+        "y": -258.3671875
+      },
+      "width": 1280
+    },
+    {
+      "guide": "Guide timeline11.9 / 120 s",
+      "scroll": 1920,
+      "stage": {
+        "bottom": 413.875,
+        "height": 683.4375,
+        "left": 335,
+        "right": 1550,
+        "top": -269.5625,
+        "width": 1215,
+        "x": 335,
+        "y": -269.5625
+      },
+      "svg": {
+        "bottom": 413.875,
+        "height": 683.4375,
+        "left": 335,
+        "right": 1550,
+        "top": -269.5625,
+        "width": 1215,
+        "x": 335,
+        "y": -269.5625
+      },
+      "width": 1920
+    }
+  ],
+  "portrait2D": [
+    {
+      "caption": "Reset for a second trial. Next, compare matching diffusion progress using different physical clocks.",
+      "guide": "Guide timeline56.3 / 120 s",
+      "scroll": 320,
+      "stage": {
+        "bottom": 380.6953125,
+        "height": 501.328125,
+        "left": 19,
+        "right": 301,
+        "top": -120.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -120.6328125
+      },
+      "width": 320
+    },
+    {
+      "caption": "Reset for a second trial. Next, compare matching diffusion progress using different physical clocks.",
+      "guide": "Guide timeline56.5 / 120 s",
+      "scroll": 390,
+      "stage": {
+        "bottom": 386.4453125,
+        "height": 625.7734375,
+        "left": 19,
+        "right": 371,
+        "top": -239.328125,
+        "width": 352,
+        "x": 19,
+        "y": -239.328125
+      },
+      "width": 390
+    },
+    {
+      "caption": "Reset for a second trial. Next, compare matching diffusion progress using different physical clocks.",
+      "guide": "Guide timeline56.6 / 120 s",
+      "scroll": 820,
+      "stage": {
+        "bottom": 465.9296875,
+        "height": 800,
+        "left": 275,
+        "right": 755,
+        "top": -334.0703125,
+        "width": 480,
+        "x": 275,
+        "y": -334.0703125
+      },
+      "width": 820
+    },
+    {
+      "caption": "Reset for a second trial. Next, compare matching diffusion progress using different physical clocks.",
+      "guide": "Guide timeline56.8 / 120 s",
+      "scroll": 1280,
+      "stage": {
+        "bottom": 450.1328125,
+        "height": 800,
+        "left": 382.5,
+        "right": 862.5,
+        "top": -349.8671875,
+        "width": 480,
+        "x": 382.5,
+        "y": -349.8671875
+      },
+      "width": 1280
+    },
+    {
+      "caption": "Reset for a second trial. Next, compare matching diffusion progress using different physical clocks.",
+      "guide": "Guide timeline56.9 / 120 s",
+      "scroll": 1920,
+      "stage": {
+        "bottom": 438.9375,
+        "height": 800,
+        "left": 702.5,
+        "right": 1182.5,
+        "top": -361.0625,
+        "width": 480,
+        "x": 702.5,
+        "y": -361.0625
+      },
+      "width": 1920
+    }
+  ],
+  "landscape3D": [
+    {
+      "canvas": {
+        "bottom": 64.3671875,
+        "height": 150,
+        "left": 19,
+        "right": 301,
+        "top": -85.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -85.6328125
+      },
+      "scroll": 320,
+      "stage": {
+        "bottom": 110.3671875,
+        "height": 260,
+        "left": 19,
+        "right": 301,
+        "top": -149.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -149.6328125
+      },
+      "timeline": "Guide timeline7.8 / 120 s",
+      "toolbar": {
+        "bottom": -85.6328125,
+        "height": 64,
+        "left": 19,
+        "right": 301,
+        "top": -149.6328125,
+        "width": 282,
+        "x": 19,
+        "y": -149.6328125
+      },
+      "width": 320
+    },
+    {
+      "canvas": {
+        "bottom": 64.671875,
+        "height": 150,
+        "left": 19,
+        "right": 371,
+        "top": -85.328125,
+        "width": 352,
+        "x": 19,
+        "y": -85.328125
+      },
+      "scroll": 390,
+      "stage": {
+        "bottom": 110.671875,
+        "height": 260,
+        "left": 19,
+        "right": 371,
+        "top": -149.328125,
+        "width": 352,
+        "x": 19,
+        "y": -149.328125
+      },
+      "timeline": "Guide timeline8.0 / 120 s",
+      "toolbar": {
+        "bottom": -85.328125,
+        "height": 64,
+        "left": 19,
+        "right": 371,
+        "top": -149.328125,
+        "width": 352,
+        "x": 19,
+        "y": -149.328125
+      },
+      "width": 390
+    },
+    {
+      "canvas": {
+        "bottom": 39.6796875,
+        "height": 212.75,
+        "left": 237,
+        "right": 793,
+        "top": -173.0703125,
+        "width": 556,
+        "x": 237,
+        "y": -173.0703125
+      },
+      "scroll": 820,
+      "stage": {
+        "bottom": 68.6796875,
+        "height": 312.75,
+        "left": 237,
+        "right": 793,
+        "top": -244.0703125,
+        "width": 556,
+        "x": 237,
+        "y": -244.0703125
+      },
+      "timeline": "Guide timeline8.4 / 120 s",
+      "toolbar": {
+        "bottom": -173.0703125,
+        "height": 71,
+        "left": 237,
+        "right": 793,
+        "top": -244.0703125,
+        "width": 556,
+        "x": 237,
+        "y": -244.0703125
+      },
+      "width": 820
+    },
+    {
+      "canvas": {
+        "bottom": -6.6171875,
+        "height": 212.75,
+        "left": 289,
+        "right": 845,
+        "top": -219.3671875,
+        "width": 556,
+        "x": 289,
+        "y": -219.3671875
+      },
+      "scroll": 1280,
+      "stage": {
+        "bottom": 115.3203125,
+        "height": 375.1875,
+        "left": 289,
+        "right": 956,
+        "top": -259.8671875,
+        "width": 667,
+        "x": 289,
+        "y": -259.8671875
+      },
+      "timeline": "Guide timeline8.4 / 120 s",
+      "toolbar": {
+        "bottom": -219.3671875,
+        "height": 40.5,
+        "left": 289,
+        "right": 956,
+        "top": -259.8671875,
+        "width": 667,
+        "x": 289,
+        "y": -259.8671875
+      },
+      "width": 1280
+    },
+    {
+      "canvas": {
+        "bottom": -17.8125,
+        "height": 212.75,
+        "left": 335,
+        "right": 891,
+        "top": -230.5625,
+        "width": 556,
+        "x": 335,
+        "y": -230.5625
+      },
+      "scroll": 1920,
+      "stage": {
+        "bottom": 412.375,
+        "height": 683.4375,
+        "left": 335,
+        "right": 1550,
+        "top": -271.0625,
+        "width": 1215,
+        "x": 335,
+        "y": -271.0625
+      },
+      "timeline": "Guide timeline8.4 / 120 s",
+      "toolbar": {
+        "bottom": -230.5625,
+        "height": 40.5,
+        "left": 335,
+        "right": 1550,
+        "top": -271.0625,
+        "width": 1215,
+        "x": 335,
+        "y": -271.0625
+      },
+      "width": 1920
+    }
+  ]
+}

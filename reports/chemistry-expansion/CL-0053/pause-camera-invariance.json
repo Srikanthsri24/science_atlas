@@ -1,0 +1,50 @@
+{
+  "before": {
+    "camera": "openings",
+    "canvasHeight": 206.1875,
+    "format": "landscape",
+    "guide": "60.57219999998808",
+    "height": 960,
+    "inventory": "Dry retained · sieve 7.595 g / filter 12.659 g · Liquid each 50.636 mL · Salt each 0.506 g",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": {
+      "filterUm": "20",
+      "particle": "sand",
+      "profile": "reference",
+      "sieveUm": "500",
+      "solutionMl": "100",
+      "timeS": "30.38146666665872"
+    },
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 30.381 s · matched feeds",
+    "width": 1280
+  },
+  "after": {
+    "camera": "filter",
+    "canvasHeight": 206.1875,
+    "format": "landscape",
+    "guide": "60.57219999998808",
+    "height": 960,
+    "inventory": "Dry retained · sieve 7.595 g / filter 12.659 g · Liquid each 50.636 mL · Salt each 0.506 g",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "parameters": {
+      "filterUm": "20",
+      "particle": "sand",
+      "profile": "reference",
+      "sieveUm": "500",
+      "solutionMl": "100",
+      "timeS": "30.38146666665872"
+    },
+    "readoutsInsideStage": true,
+    "theatre": false,
+    "time": "Physical time: 30.381 s · matched feeds",
+    "width": 1280
+  },
+  "recordDisabledWhilePlaying": true,
+  "recordEnabled": true
+}

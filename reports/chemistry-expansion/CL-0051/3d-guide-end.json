@@ -1,0 +1,13 @@
+{
+  "clock": "120",
+  "inventory": "Still: 37.430 g left / 12.420 g lost · Moving: 0.000 g left / 49.850 g lost",
+  "parameters": [
+    "50",
+    "50",
+    "50",
+    "2",
+    "24"
+  ],
+  "recordEnabled": true,
+  "time": "Physical time: 24.000 h · both 25°C · RH 50%"
+}

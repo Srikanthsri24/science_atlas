@@ -1,0 +1,164 @@
+[
+  {
+    "format": "landscape",
+    "panHeight": 322,
+    "scroll": 320,
+    "svgHeight": 321.5,
+    "time": "50",
+    "view": "experiment",
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "panHeight": 322,
+    "scroll": 320,
+    "svgHeight": 321.5,
+    "time": "50",
+    "view": "entry",
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "panHeight": 271,
+    "scroll": 320,
+    "svgHeight": 270.5,
+    "time": "50",
+    "view": "history",
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "panHeight": 322,
+    "scroll": 320,
+    "svgHeight": 321.5,
+    "time": "50",
+    "view": "experiment",
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "panHeight": 322,
+    "scroll": 320,
+    "svgHeight": 321.5,
+    "time": "50",
+    "view": "entry",
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "panHeight": 271,
+    "scroll": 320,
+    "svgHeight": 270.5,
+    "time": "50",
+    "view": "history",
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "panHeight": 340,
+    "scroll": 820,
+    "svgHeight": 340,
+    "time": "50",
+    "view": "experiment",
+    "width": 820
+  },
+  {
+    "format": "landscape",
+    "panHeight": 340,
+    "scroll": 820,
+    "svgHeight": 340,
+    "time": "50",
+    "view": "entry",
+    "width": 820
+  },
+  {
+    "format": "landscape",
+    "panHeight": 289,
+    "scroll": 820,
+    "svgHeight": 289,
+    "time": "50",
+    "view": "history",
+    "width": 820
+  },
+  {
+    "format": "portrait",
+    "panHeight": 580,
+    "scroll": 820,
+    "svgHeight": 580,
+    "time": "50",
+    "view": "experiment",
+    "width": 820
+  },
+  {
+    "format": "portrait",
+    "panHeight": 580,
+    "scroll": 820,
+    "svgHeight": 580,
+    "time": "50",
+    "view": "entry",
+    "width": 820
+  },
+  {
+    "format": "portrait",
+    "panHeight": 529,
+    "scroll": 820,
+    "svgHeight": 529,
+    "time": "50",
+    "view": "history",
+    "width": 820
+  },
+  {
+    "format": "landscape",
+    "panHeight": 340,
+    "scroll": 1280,
+    "svgHeight": 340,
+    "time": "50",
+    "view": "experiment",
+    "width": 1280
+  },
+  {
+    "format": "landscape",
+    "panHeight": 340,
+    "scroll": 1280,
+    "svgHeight": 340,
+    "time": "50",
+    "view": "entry",
+    "width": 1280
+  },
+  {
+    "format": "landscape",
+    "panHeight": 340,
+    "scroll": 1280,
+    "svgHeight": 340,
+    "time": "50",
+    "view": "history",
+    "width": 1280
+  },
+  {
+    "format": "portrait",
+    "panHeight": 580,
+    "scroll": 1280,
+    "svgHeight": 580,
+    "time": "50",
+    "view": "experiment",
+    "width": 1280
+  },
+  {
+    "format": "portrait",
+    "panHeight": 580,
+    "scroll": 1280,
+    "svgHeight": 580,
+    "time": "50",
+    "view": "entry",
+    "width": 1280
+  },
+  {
+    "format": "portrait",
+    "panHeight": 529,
+    "scroll": 1280,
+    "svgHeight": 529,
+    "time": "50",
+    "view": "history",
+    "width": 1280
+  }
+]

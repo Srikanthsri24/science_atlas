@@ -1,0 +1,34 @@
+✔ round-bottom liquid cap andreceiver volumesmatchwater inventories acrosscorners (7.827918ms)
+✔ finite vapouranddrain markerweightsmatchretainedinventories includingstartandlastdrops (6.561985ms)
+✔ cooling arrowsfollowlower-to-upper separatejacketandstopwhenflowzero (5.170948ms)
+✔ ventmarkersrequirecurrentuncapturedvapourandneverrunbeforeboilingoraftertransfer (0.965219ms)
+✔ pathinterpolationislengthweightedandboundedwithzero-lengthsubsegments (1.71953ms)
+✔ elapsedhistoryincludesthefinite-stageboundariesandneverfuturedata (7.66696ms)
+✔ four apparatuscameras providefiniteframingandinvalidcontrolsarerejected (0.971198ms)
+✔ coolant model passage stays in annulus outside the inner vapour tube (0.329439ms)
+✔ validnotebook preservesinputs/writingandexcludesinvalidstates (5.848594ms)
+✔ 23columnobservationsretainallwateranddyepartsandseparatepotfromcoolanttemperature (1.393635ms)
+✔ 30workedstepshaveactualsubstitutionsandzeroflowavoidsdivisionbyzero (2.517183ms)
+✔ examreporthasthreeprinttablesand30calculationblockspertrialwithoutunescapedwriting (7.867189ms)
+✔ initialcolouredwater isallinpot withoutpre-existing product orvapour (5.277498ms)
+✔ sensibleheatingprecedesboiling andaccountsforactualgramsandkelvindifference (1.248967ms)
+✔ latentenergyproduceswateronlyafterboilingonset andtemperatureplateaus (0.894966ms)
+✔ finitevapouranddraintransitretainswateratfirstandlastarrival (0.944169ms)
+✔ waterandtrace-dyebudgetsclose acrossheatercoolingandtimecorners (4.922951ms)
+✔ halfwatercutoffstopsenergyinputandneverboilstoflaskdryness (0.665282ms)
+✔ nocoolingmeansnocondensationandopenventwaterstillcounts (0.451668ms)
+✔ flowcapacityandUAindependentlylimitcondenserwithoutinventingcooling (0.540999ms)
+✔ completecondenserrecoversallboiledwaterafterlastdropwhilekeepingdyeinpot (2.05502ms)
+✔ condenserremovedlatentenergymatchescondensedmassanddoesnotincludeescapedvapour (2.271288ms)
+✔ transportbudgetsandtemperaturearecontinuousatallstageboundaries (1.642956ms)
+✔ changingdyeaffectsconcentrationbutnotchosenwaterenergyortransportlaw (0.545149ms)
+✔ 120secondguidesetupandobservationholdsretaincompletewateranddyebudgets (7.114041ms)
+✔ invalidorcoercedinputscannotbecomeadistillationresult (1.904195ms)
+ℹ tests 26
+ℹ suites 0
+ℹ pass 26
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1589.679687

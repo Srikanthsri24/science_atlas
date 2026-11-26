@@ -1,0 +1,150 @@
+{
+  "box": {
+    "height": 624.4375,
+    "width": 1215,
+    "x": 335,
+    "y": 221.2421875
+  },
+  "gas": {
+    "data-change-gas": "",
+    "fill": "#7fb8d5",
+    "fill-opacity": ".18",
+    "height": "56.71399015193946",
+    "width": "310.7550394705897",
+    "x": "491.9909013173367",
+    "y": "380.91758879542897"
+  },
+  "guide": "120",
+  "height": 960,
+  "ice": null,
+  "inputs": {
+    "acidMmol": 40,
+    "bicarbonateG": 2,
+    "cuts": 3,
+    "iceMassG": 50,
+    "motionTime": 120,
+    "paperMassG": 2,
+    "progress": 2,
+    "sample": "reaction"
+  },
+  "liquid": {
+    "data-change-reaction-liquid": "",
+    "fill": "#9dcdd9",
+    "fill-opacity": ".4",
+    "height": "76.34609986188421",
+    "width": "109.86849784877359",
+    "x": "300.32890897035",
+    "y": "400.2328475065368"
+  },
+  "pageWidth": 1920,
+  "partial": null,
+  "pieces": [],
+  "piston": {
+    "data-change-piston": "",
+    "fill": "#9cacc1",
+    "height": "3.8947368421052633",
+    "width": "310.7550394705897",
+    "x": "491.9909013173367",
+    "y": "377.02285195332365"
+  },
+  "recordEnabled": true,
+  "svg": {
+    "aria-label": "Bicarbonate and acetic acid. Procedure progress 2.000. CO₂ 1.048 g · dry equivalent 0.582468 L. Condensed 100.952 g. Whole mass 102.000 g · gas remains accounted. Not restored by this classroom operation",
+    "data-change-base": "476.57894736842104",
+    "data-change-centre": "530.5263157894736",
+    "data-change-inputs": "{\"sample\":\"reaction\",\"iceMassG\":50,\"paperMassG\":2,\"cuts\":3,\"bicarbonateG\":2,\"acidMmol\":40,\"progress\":2,\"motionTime\":120}",
+    "data-change-sample": "reaction",
+    "data-change-scale": "19.473684210526315",
+    "role": "img",
+    "style": "width: 100%; min-width: 100%; height: 100%; min-height: 100%;",
+    "viewBox": "0 0 1100 800"
+  },
+  "texts": [
+    {
+      "height": 12,
+      "text": "SCIENCE ATLAS / MATERIAL CHANGES",
+      "width": 235.875,
+      "x": 532.712890625,
+      "y": 237.78077697753903
+    },
+    {
+      "height": 29.5,
+      "text": "Bicarbonate and acetic acid",
+      "width": 322.3125,
+      "x": 532.712890625,
+      "y": 255.783203125
+    },
+    {
+      "height": 14,
+      "text": "Change it. Attempt restoration. Explain the evidence.",
+      "width": 281.140625,
+      "x": 532.712890625,
+      "y": 294.041259765625
+    },
+    {
+      "height": 16.5,
+      "text": "Reaction vessel",
+      "width": 97.5703125,
+      "x": 741.713623046875,
+      "y": 421.6531066894531
+    },
+    {
+      "height": 16.5,
+      "text": "Reference contents density",
+      "width": 171.296875,
+      "x": 704.850341796875,
+      "y": 602.5345458984375
+    },
+    {
+      "height": 16.5,
+      "text": "Ideal dry CO₂ · 25 °C",
+      "width": 128.6875,
+      "x": 954.1568603515624,
+      "y": 362.37261962890625
+    },
+    {
+      "height": 16.5,
+      "text": "Constant-pressure collector",
+      "width": 175.5859375,
+      "x": 930.7076416015624,
+      "y": 602.5345458984375
+    },
+    {
+      "height": 16.5,
+      "text": "CO₂ 1.048 g · dry equivalent 0.582468 L",
+      "width": 250.6328125,
+      "x": 532.712890625,
+      "y": 703.389404296875
+    },
+    {
+      "height": 16.50006103515625,
+      "text": "Condensed 100.952 g",
+      "width": 138.1484375,
+      "x": 532.712890625,
+      "y": 726.0252685546875
+    },
+    {
+      "height": 16.5,
+      "text": "Whole mass 102.000 g · gas remains accounted",
+      "width": 299.390625,
+      "x": 532.712890625,
+      "y": 748.6611328125
+    },
+    {
+      "height": 14,
+      "text": "Not restored by this classroom operation",
+      "width": 217.7265625,
+      "x": 532.712890625,
+      "y": 776.419189453125
+    },
+    {
+      "height": 11,
+      "text": "Reference geometry · prescribed progress · teacher extensions",
+      "width": 278,
+      "x": 532.712890625,
+      "y": 804.67724609375
+    }
+  ],
+  "water": null,
+  "width": 1920
+}

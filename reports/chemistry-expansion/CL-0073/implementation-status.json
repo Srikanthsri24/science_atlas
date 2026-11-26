@@ -1,0 +1,19 @@
+{
+  "labId": "CL-0073",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "recordEngineImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 27,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "typeScript": "passed",
+  "fullRegressionTests": 2848,
+  "productionBuild": "passed",
+  "threeDGuide": "actual final camera-source120s completed",
+  "actualGuiTrials": 26,
+  "independentObservationChecks": 546,
+  "downloadedWorkedResults": 636,
+  "twoDGuide": "actual120s completed"
+}

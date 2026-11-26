@@ -1,0 +1,26 @@
+{
+  "before": {
+    "height": 760,
+    "parameters": [
+      "0",
+      "100",
+      "500",
+      "20",
+      "0"
+    ],
+    "scrollHeight": 2280,
+    "scrollWidth": 1440,
+    "width": 480,
+    "zoom": "ApparatusOpenings−300%+Reset"
+  },
+  "after": {
+    "parameters": [
+      "0",
+      "100",
+      "500",
+      "20",
+      "0"
+    ],
+    "zoom": "ApparatusOpenings−100%+Reset"
+  }
+}

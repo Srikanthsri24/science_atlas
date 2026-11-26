@@ -1,0 +1,6 @@
+{
+  "rejectsUnarranged": true,
+  "acceptedReordered": true,
+  "recordDisabledWhilePlaying": true,
+  "recordEnabledPaused": true
+}

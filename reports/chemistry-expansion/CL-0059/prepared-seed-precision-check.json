@@ -1,0 +1,52 @@
+{
+  "camera": "comparison",
+  "canvas": {
+    "height": 506.3515625,
+    "width": 1215,
+    "x": 335,
+    "y": -1337.7578125
+  },
+  "canvasMatchesWrapper": true,
+  "format": "landscape",
+  "guide": "120",
+  "inputs": {
+    "a": {
+      "dissolvedChargeG": 20,
+      "nucleationDelayS": 120,
+      "rateSInv": 0.01,
+      "seedG": 0.2,
+      "temperatureC": 40,
+      "timeS": 0,
+      "waterG": 100
+    },
+    "b": {
+      "dissolvedChargeG": 20,
+      "nucleationDelayS": 120,
+      "rateSInv": 0.01,
+      "seedG": 0,
+      "temperatureC": 40,
+      "timeS": 0,
+      "waterG": 100
+    },
+    "paired": true
+  },
+  "notesInside": true,
+  "pageWidth": 1920,
+  "readout": "Physical time 0.00 s · 40.0 °C heldSample A · dissolved 20.0000 g + solid 0.2000 g · total 20.2000 g · new solid 0.0000 gSample B · dissolved 20.0000 g + solid 0.0000 g · total 20.0000 g · new solid 0.0000 g",
+  "readoutsInside": true,
+  "recordEnabled": true,
+  "stage": {
+    "height": 683.4375,
+    "width": 1215,
+    "x": 335,
+    "y": -1400.7578125
+  },
+  "visibleHeight": 506.3515625,
+  "width": 1920,
+  "wrapper": {
+    "height": 506.3515625,
+    "width": 1215,
+    "x": 335,
+    "y": -1337.7578125
+  }
+}

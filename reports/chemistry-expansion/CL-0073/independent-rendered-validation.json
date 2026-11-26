@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "actualCases": 29,
+  "independent3DReadings": 36,
+  "independentRenderedAtoms": 651,
+  "noPageOverflow": true,
+  "positiveContainedViewers": true
+}

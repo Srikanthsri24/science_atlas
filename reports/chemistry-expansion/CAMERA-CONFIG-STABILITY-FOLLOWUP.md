@@ -1,0 +1,7 @@
+# Final catalogue camera audit
+
+CL-0073 actual orbit and tilt screenshots initially went blank. A nonzero pixel difference alone falsely looked like movement. The visual inspection rejected that evidence. Stable memoized Canvas camera options corrected this local scene; retest images must retain actual molecule pixels and show orientation changes, with reset returning to baseline. This is evidence for CL0073 only, not proof that another scene has the same fault.
+
+Before the final270-lab completion audit, revisit camera-control screenshots for older scenes. Check visible model content after each action, including close-up models with small physical units and controlled plan changes. Do not mass-edit frozen sources; reopen affected reviews and retest any actual faulty scenes. Native gesture and physical-device performance claims still require separate evidence.
+
+CL0074: blank captured frames persisted in some demand-mode camera actions after pre-render fitting alone. Pre-render fitting plus preserveDrawingBuffer:true alone still left an intermittent blank zoom-out capture. Final continuous active-view rendering,retained buffer and local controller pass allsixactualcamera actions with visible model content; historicalfailedimagesremain. Audit future/older screenshot controls for both actual framing and retained frame content. This is not proof that every existing scene needs the same renderer flags; do not mass-edit frozen scenes without reopening and retesting their reviews.

@@ -1,0 +1,34 @@
+[
+  {
+    "canvas": {
+      "bottom": 564,
+      "height": 325,
+      "width": 390,
+      "x": 0,
+      "y": 239
+    },
+    "height": 844,
+    "scrollWidth": 390,
+    "viewer": {
+      "bottom": 844,
+      "height": 844
+    },
+    "width": 390
+  },
+  {
+    "canvas": {
+      "bottom": 285.15625,
+      "height": 181.15625,
+      "width": 844,
+      "x": 0,
+      "y": 104
+    },
+    "height": 390,
+    "scrollWidth": 844,
+    "viewer": {
+      "bottom": 390,
+      "height": 390
+    },
+    "width": 844
+  }
+]

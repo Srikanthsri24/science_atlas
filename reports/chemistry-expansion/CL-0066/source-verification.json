@@ -1,0 +1,30 @@
+{
+  "labId": "CL-0066",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_relevant_sections_read",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "OpenStax Chemistry2e9.2: Pressure, Volume, Amount and Temperature",
+      "url": "https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "sections": "Pressure-temperature lines34\u201347; Charles law77\u201394 and ideal gas204\u2013211 read",
+      "supports": "Fixed-amount ideal gas relationships, kelvin temperature ratios and absolute pressure.",
+      "doesNotVerify": "Chosen jacket geometry/conductance or actual apparatus calibration."
+    },
+    {
+      "title": "OpenStax UniversityPhysicsVol2 3.3: First Law",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-3-first-law-of-thermodynamics",
+      "sections": "First-law/sign conventions lines29\u201369 read",
+      "supports": "Heat into system positive; boundary work by gas positive; internal change equals heat minus work.",
+      "doesNotVerify": "Chosen lumped heat-transfer kinetics."
+    },
+    {
+      "title": "OpenStax UniversityPhysicsVol2 3.5: Heat Capacities of Ideal Gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "sections": "Fixed/free piston comparison and constant-volume/pressure heat-capacity derivation lines31\u201350 read",
+      "supports": "Different process heat capacities and quasi-static moving-boundary work.",
+      "doesNotVerify": "Exact real-air composition, measured time constants or friction/inertia."
+    }
+  ],
+  "modelReferences": "Idealized five-degree-of-freedom diatomic-air reference Cv=2.5R,Cp=3.5R; chosen molar mass0.02897kg/mol and lumped conductance are not measured calibration."
+}

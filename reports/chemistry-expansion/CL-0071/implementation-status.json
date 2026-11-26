@@ -1,0 +1,20 @@
+{
+  "labId": "CL-0071",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "recordEngineImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 24,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "regressionTests": 2791,
+  "typeScript": "passed",
+  "productionBuild": "passed",
+  "threeDGuide": "final-source120s portrait follow guide completed",
+  "twoDGuide": "completed full120s at1200sequence seconds; recording reenabled",
+  "actualGuiTrials": 35,
+  "independentObservationChecks": 700,
+  "downloadedWorkedResults": 1111,
+  "nativeDrag": "unverified: Mac locked; accessible orbit/tilt/zoom buttons passed"
+}

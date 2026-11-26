@@ -1,0 +1,3486 @@
+[
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 174,
+    "width": 390,
+    "wrapper": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 470.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 435.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 399.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 470.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 435.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1280,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    }
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 451.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1920,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 174,
+    "width": 390,
+    "wrapper": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 470.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 435.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 399.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 470.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 435.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1280,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    }
+  },
+  {
+    "camera": "sampleA",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 451.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1920,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 174,
+    "width": 390,
+    "wrapper": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 470.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 435.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 399.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 470.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 435.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1280,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    }
+  },
+  {
+    "camera": "sampleB",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 451.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1920,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 174,
+    "width": 390,
+    "wrapper": {
+      "height": 174,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 470.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 533.34375
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 435.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 498.7421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 643.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 744.390625
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 570.7421875
+    },
+    "visibleHeight": 399.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 399.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 671.2421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 470.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 580.34375
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 435.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1280,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 382.5,
+      "y": 545.7421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 5.5814 mg + bed 2.4186 mg · T 75.649% · side 0.010545 mWSample B · suspended 0.5376 mg + bed 7.4624 mg · T 97.348% · side 0.001307 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 451.7421875
+    },
+    "visibleHeight": 539.5234375,
+    "width": 1920,
+    "wrapper": {
+      "height": 539.5234375,
+      "width": 480,
+      "x": 702.5,
+      "y": 561.7421875
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 0
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 0
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · relative optical evidenceSample A · suspended 8.0000 mg + bed 0.0000 mg · T 67.032% · side 0.013393 mWSample B · suspended 8.0000 mg + bed 0.0000 mg · T 67.032% · side 0.013393 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 30
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 30
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 30.00 s · relative optical evidenceSample A · suspended 7.5341 mg + bed 0.4659 mg · T 68.612% · side 0.012910 mWSample B · suspended 5.1010 mg + bed 2.8990 mg · T 77.488% · side 0.009872 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 60
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 60
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 60.00 s · relative optical evidenceSample A · suspended 7.0954 mg + bed 0.9046 mg · T 70.134% · side 0.012428 mWSample B · suspended 3.2526 mg + bed 4.7474 mg · T 84.991% · side 0.006904 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 5,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 4.3905 mg + bed 3.6095 mg · T 80.290% · side 0.008804 mWSample B · suspended 0.0889 mg + bed 7.9111 mg · T 99.557% · side 0.000221 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0,
+        "sourceMw": 5,
+        "timeS": 0
+      },
+      "b": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 0
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · relative optical evidenceSample A · suspended 0.0000 mg + bed 0.0000 mg · T 77.880% · side 0.000000 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 0.0000 mg + bed 0.0000 mg · T 77.880% · side 0.000000 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0,
+        "sourceMw": 5,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 300
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0000 mg + bed 0.0000 mg · T 77.880% · side 0.000000 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "b": {
+        "colourAbsorptionMInv": 5,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 0,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 5,
+        "timeS": 180
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 180.00 s · relative optical evidenceSample A · suspended 0.0000 mg + bed 0.0000 mg · T 97.531% · side 0.000000 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · relative optical evidenceSample A · suspended 20.0000 mg + bed 0.0000 mg · T 13.534% · side 0.027013 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 100,
+        "pathCm": 10,
+        "settlingRateSInv": 0,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 100,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · relative optical evidenceSample A · suspended 10.0000 mg + bed 0.0000 mg · T 36.788% · side 0.036714 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 1,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 1,
+        "timeS": 300
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000018 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 200,
+        "pathCm": 1,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 200,
+        "pathCm": 1,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0050 mg + bed 1.9950 mg · T 99.995% · side 0.000005 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0.5,
+        "dilutionFactor": 1.5,
+        "initialSuspendedMgL": 1,
+        "pathCm": 1.5,
+        "settlingRateSInv": 0.001,
+        "sourceMw": 1.5,
+        "timeS": 0.01
+      },
+      "b": {
+        "colourAbsorptionMInv": 0.5,
+        "dilutionFactor": 1.5,
+        "initialSuspendedMgL": 1,
+        "pathCm": 1.5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 1.5,
+        "timeS": 0.01
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.01 s · relative optical evidenceSample A · suspended 0.0667 mg + bed 0.0000 mg · T 99.402% · side 0.000015 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 80,
+        "pathCm": 10,
+        "settlingRateSInv": 0,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 10,
+        "initialSuspendedMgL": 80,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.8000 mg + bed 0.0000 mg · T 83.527% · side 0.006669 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 1,
+        "timeS": 60
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 1,
+        "timeS": 60
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 60.00 s · relative optical evidenceSample A · suspended 7.0954 mg + bed 0.9046 mg · T 70.134% · side 0.002486 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.002,
+        "sourceMw": 10,
+        "timeS": 60
+      },
+      "b": {
+        "colourAbsorptionMInv": 0,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 80,
+        "pathCm": 5,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 60
+      },
+      "paired": false
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 60.00 s · relative optical evidenceSample A · suspended 7.0954 mg + bed 0.9046 mg · T 70.134% · side 0.024856 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 528.546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 528.546875,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 0
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · relative optical evidenceSample A · suspended 20.0000 mg + bed 0.0000 mg · T 4.979% · side 0.009938 mWSample B · suspended 20.0000 mg + bed 0.0000 mg · T 4.979% · side 0.009938 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1234.2578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1171.2578125
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 216,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 442,
+      "width": 320,
+      "x": 0,
+      "y": 128
+    },
+    "visibleHeight": 216,
+    "width": 320,
+    "wrapper": {
+      "height": 216,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 351,
+    "width": 390,
+    "wrapper": {
+      "height": 351,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 553.5,
+    "width": 820,
+    "wrapper": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 838.140625,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 661.0546875,
+    "width": 1920,
+    "wrapper": {
+      "height": 661.0546875,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 83.5,
+    "width": 844,
+    "wrapper": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 70,
+    "width": 844,
+    "wrapper": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 125.5,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 442,
+      "width": 320,
+      "x": 0,
+      "y": 128
+    },
+    "visibleHeight": 125.5,
+    "width": 320,
+    "wrapper": {
+      "height": 125.5,
+      "width": 320,
+      "x": 0,
+      "y": 228.5
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 232.5,
+    "width": 390,
+    "wrapper": {
+      "height": 232.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "optical",
+    "canvas": {
+      "height": 457.5234375,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.02,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "b": {
+        "colourAbsorptionMInv": 10,
+        "dilutionFactor": 1,
+        "initialSuspendedMgL": 200,
+        "pathCm": 10,
+        "settlingRateSInv": 0.015,
+        "sourceMw": 10,
+        "timeS": 300
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 300.00 s · relative optical evidenceSample A · suspended 0.0496 mg + bed 19.9504 mg · T 36.606% · side 0.000181 mWSample B · suspended 0.2222 mg + bed 19.7778 mg · T 35.980% · side 0.000798 mW",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 457.5234375,
+    "width": 820,
+    "wrapper": {
+      "height": 457.5234375,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  }
+]

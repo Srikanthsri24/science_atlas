@@ -1,0 +1,36 @@
+✔ reference rectangular phase triangles are closed and outward with exact volume (4.809757ms)
+✔ every actual metal, product and inert film triangle volume matches the material inventory (11.94484ms)
+✔ separate stacked phases share surfaces without occupying the same interior (0.564831ms)
+✔ water volume, coupon clearance and whole-cell gas space remain consistent at preparation corners (76.003168ms)
+✔ local iron exhaustion removes only that metal mesh while retaining product and covered film (0.372344ms)
+✔ record validation retains preparation and rejects invalid or forged derived observations (2.582304ms)
+✔ latest sixty valid trials and bounded writing survive malformed stored suffixes (1.58493ms)
+✔ twenty-five columns distinguish local phases, film and whole-cell mass (1.254572ms)
+✔ worked substitutions cover initial inventories, exact intervals and final masses without NaN or numeric infinity (6.549866ms)
+✔ local exhaustion intervals are included separately rather than applying an invalid single exponent across them (0.494016ms)
+✔ exam report contains all recorded calculations, three printable tables and escaped company-only writing (2.244252ms)
+✔ four cases start with equal iron, zero product and correctly displaced finite gas (2.279454ms)
+✔ ideal blocking, zero oxygen and dry preparations do not acquire decorative product (0.731263ms)
+✔ bare reference follows the independent oxygen-decay solution (0.364584ms)
+✔ fully open and fully covered scratched references match the appropriate comparison (0.36091ms)
+✔ unit relative transmission gives the bare normalized oxygen decay without inventing equal gas volumes (0.230406ms)
+✔ a zero-transmission barrier stops at the finite exposed-zone iron capacity (0.214472ms)
+✔ after exposed iron exhaustion only the covered channel continues (0.217306ms)
+✔ local exhaustion events are continuous and never overconsume local iron (0.299323ms)
+✔ shared water exhaustion stops both channels while retaining unused oxygen (0.366911ms)
+✔ whole mass and Fe/O/H inventories close across preparation corners (29.702307ms)
+✔ dry-gas pressure includes coating and every current material displacement (0.229052ms)
+✔ more access increases corrosion within the chosen common preparations (0.228736ms)
+✔ current oxygen rate agrees with a finite difference away from local events (0.169827ms)
+✔ piecewise analytic consumption agrees with a separate small-step inventory integrator (57.75962ms)
+✔ elapsed histories never expose future observations (0.540029ms)
+✔ guide supplies one hundred seconds of evolution plus setup and final hold (1.896505ms)
+✔ invalid, nonfinite and coerced controls cannot become model observations (0.863745ms)
+ℹ tests 28
+ℹ suites 0
+ℹ pass 28
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 702.728193

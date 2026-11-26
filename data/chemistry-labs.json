@@ -1033,17 +1033,20 @@
       "grade": 4,
       "title": "Compare evaporation in moving and still air",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare evaporation in moving and still air. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0051/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0052",
@@ -1051,17 +1054,20 @@
       "grade": 4,
       "title": "Follow the path of water through a simple filter bed",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Follow the path of water through a simple filter bed. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0052/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0053",
@@ -1069,17 +1075,20 @@
       "grade": 4,
       "title": "Compare sieving and filtration",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare sieving and filtration. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0053/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0054",
@@ -1087,17 +1096,20 @@
       "grade": 4,
       "title": "Plan a separation sequence for a three-component mixture",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Plan a separation sequence for a three-component mixture. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0054/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0055",
@@ -1105,17 +1117,20 @@
       "grade": 5,
       "title": "Distinguish reversible and irreversible material changes",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Distinguish reversible and irreversible material changes. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0055/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0056",
@@ -1123,17 +1138,18 @@
       "grade": 5,
       "title": "Observe a dissolving mass balance in a closed container",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe a dissolving mass balance in a closed container. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0056/review.json"
     },
     {
       "id": "CL-0057",
@@ -1141,17 +1157,18 @@
       "grade": 5,
       "title": "Compare water samples using a turbidity model",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare water samples using a turbidity model. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0057/review.json"
     },
     {
       "id": "CL-0058",
@@ -1159,17 +1176,18 @@
       "grade": 5,
       "title": "Investigate simple distillation of coloured water",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate simple distillation of coloured water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0058/review.json"
     },
     {
       "id": "CL-0059",
@@ -1177,17 +1195,18 @@
       "grade": 5,
       "title": "Grow crystals from a supersaturated solution",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Grow crystals from a supersaturated solution. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0059/review.json"
     },
     {
       "id": "CL-0060",
@@ -1195,17 +1214,18 @@
       "grade": 5,
       "title": "Compare crystal growth during fast and slow cooling",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare crystal growth during fast and slow cooling. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0060/review.json"
     },
     {
       "id": "CL-0061",
@@ -1213,17 +1233,18 @@
       "grade": 5,
       "title": "Observe carbon dioxide production from an acid and carbonate",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe carbon dioxide production from an acid and carbonate. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0061/review.json"
     },
     {
       "id": "CL-0062",
@@ -1231,17 +1252,18 @@
       "grade": 5,
       "title": "Compare an acid and a base using a cabbage-indicator model",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare an acid and a base using a cabbage-indicator model. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0062/review.json"
     },
     {
       "id": "CL-0063",
@@ -1249,17 +1271,18 @@
       "grade": 5,
       "title": "Investigate neutralizing an acidic solution",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate neutralizing an acidic solution. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0063/review.json"
     },
     {
       "id": "CL-0064",
@@ -1267,17 +1290,18 @@
       "grade": 5,
       "title": "Observe rust formation with different water and oxygen conditions",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe rust formation with different water and oxygen conditions. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0064/review.json"
     },
     {
       "id": "CL-0065",
@@ -1285,17 +1309,18 @@
       "grade": 5,
       "title": "Compare corrosion protection by coatings",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare corrosion protection by coatings. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0065/review.json"
     },
     {
       "id": "CL-0066",
@@ -1303,17 +1328,18 @@
       "grade": 5,
       "title": "Compare expansion of air on warming",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare expansion of air on warming. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0066/review.json"
     },
     {
       "id": "CL-0067",
@@ -1321,17 +1347,20 @@
       "grade": 5,
       "title": "Investigate gas occupying space in an inverted cup",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate gas occupying space in an inverted cup. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0067/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0068",
@@ -1339,17 +1368,20 @@
       "grade": 5,
       "title": "Compare solution concentration by colour intensity",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare solution concentration by colour intensity. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0068/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0069",
@@ -1357,17 +1389,20 @@
       "grade": 5,
       "title": "Investigate the effect of temperature on gas solubility",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate the effect of temperature on gas solubility. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0069/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0070",
@@ -1375,17 +1410,20 @@
       "grade": 5,
       "title": "Compare sedimentation before and after flocculation",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare sedimentation before and after flocculation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0070/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0071",
@@ -1393,17 +1431,20 @@
       "grade": 5,
       "title": "Separate a salt-and-sand mixture completely",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Separate a salt-and-sand mixture completely. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0071/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0072",
@@ -1411,17 +1452,20 @@
       "grade": 5,
       "title": "Design a water-recovery experiment",
       "strand": "Changes and water investigations",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Design a water-recovery experiment. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0072/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0073",
@@ -1429,17 +1473,20 @@
       "grade": 6,
       "title": "Classify a material as element, compound or mixture",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Classify a material as element, compound or mixture. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0073/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0074",
@@ -1447,17 +1494,20 @@
       "grade": 6,
       "title": "Compare homogeneous and heterogeneous mixtures",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare homogeneous and heterogeneous mixtures. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0074/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0075",
@@ -1465,17 +1515,18 @@
       "grade": 6,
       "title": "Model diffusion in gases and liquids",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Model diffusion in gases and liquids. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0075/review.json"
     },
     {
       "id": "CL-0076",

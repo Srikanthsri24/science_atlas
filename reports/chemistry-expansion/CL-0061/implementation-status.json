@@ -1,0 +1,18 @@
+{
+  "labId": "CL-0061",
+  "status": "ready",
+  "uiImplemented": true,
+  "targetedTests": 23,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "typeScript": "passed_after_scale_change",
+  "actualGuideSeconds2D": 120,
+  "actualGuideSeconds3D": 120,
+  "capturedSvgStates": 27,
+  "captured3DStates": 55,
+  "regressionTests": 2546,
+  "productionBuild": "passed",
+  "actualGuiTrials": 26,
+  "downloadedWorkedResultsVerified": 780,
+  "animationSeconds": 120
+}

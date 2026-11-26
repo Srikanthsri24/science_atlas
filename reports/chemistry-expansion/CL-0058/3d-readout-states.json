@@ -1,0 +1,3362 @@
+[
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "34.3",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 243.3359399997535,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 243.34 s · distilling · pot 100.00 °C referencePot 97.7170 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 2.0170 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "34.7",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 247.16993999975497,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 247.17 s · distilling · pot 100.00 °C referencePot 97.4621 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 2.2719 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 188,
+    "width": 390,
+    "wrapper": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "35.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 254.00793999975548,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 254.01 s · distilling · pot 100.00 °C referencePot 97.0075 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 2.7266 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 523.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "36",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 260.3629399997555,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 260.36 s · distilling · pot 100.00 °C referencePot 96.5849 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 3.1491 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 442.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "36.6",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 265.5219399997546,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 265.52 s · distilling · pot 100.00 °C referencePot 96.2419 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 3.4922 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 458.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "37.3",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 272.5189399997565,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 272.52 s · distilling · pot 100.00 °C referencePot 95.7767 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 3.9574 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "37.8",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 277.5119399997569,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 277.51 s · distilling · pot 100.00 °C referencePot 95.4447 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 4.2894 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 413.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "38.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 285.35093999975606,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 285.35 s · distilling · pot 100.00 °C referencePot 94.9235 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 4.8106 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 523.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "39.2",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 292.3469399997547,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 292.35 s · distilling · pot 100.00 °C referencePot 94.4583 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 5.2757 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 442.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1280,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "39.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 298.8689399997543,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 298.87 s · distilling · pot 100.00 °C referencePot 94.0247 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 5.7094 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 458.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "44.2",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 342.173939999754,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 342.17 s · distilling · pot 100.00 °C referencePot 91.1453 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 8.5887 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "44.8",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 348.00593999975126,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 348.01 s · distilling · pot 100.00 °C referencePot 90.7576 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 8.9765 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 188,
+    "width": 390,
+    "wrapper": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "45.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 353.6709399997512,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 353.67 s · distilling · pot 100.00 °C referencePot 90.3809 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 9.3531 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 523.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "45.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 359.3319399997499,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 359.33 s · distilling · pot 100.00 °C referencePot 90.0045 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 9.7295 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 442.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "46.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 365.3409399997489,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 365.34 s · distilling · pot 100.00 °C referencePot 89.6050 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 10.1291 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 458.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "47.2",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 372.1679399997462,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 372.17 s · distilling · pot 100.00 °C referencePot 89.1511 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 10.5830 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "47.7",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 377.33693999974525,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 377.34 s · distilling · pot 100.00 °C referencePot 88.8074 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 10.9267 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 413.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "48.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 383.8209399997444,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 383.82 s · distilling · pot 100.00 °C referencePot 88.3763 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 11.3578 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 523.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "48.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 389.1539399997448,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 389.15 s · distilling · pot 100.00 °C referencePot 88.0217 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 11.7124 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 442.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1280,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    }
+  },
+  {
+    "camera": "boiler",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "49.6",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 395.98393999974473,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 395.98 s · distilling · pot 100.00 °C referencePot 87.5676 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 12.1665 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 458.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "57.3",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 473.2959399997462,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 473.30 s · distilling · pot 100.00 °C referencePot 82.4271 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 17.3069 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "57.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 479.303939999749,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 479.30 s · distilling · pot 100.00 °C referencePot 82.0277 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 17.7064 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 188,
+    "width": 390,
+    "wrapper": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "58.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 484.952939999748,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 484.95 s · distilling · pot 100.00 °C referencePot 81.6521 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 18.0820 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 523.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "59",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 490.2799399997475,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 490.28 s · distilling · pot 100.00 °C referencePot 81.2979 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 18.4362 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 442.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "59.6",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 496.43993999974754,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 496.44 s · distilling · pot 100.00 °C referencePot 80.8883 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 18.8457 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 458.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "60.3",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 502.9349399997476,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 502.93 s · distilling · pot 100.00 °C referencePot 80.4565 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 19.2776 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "60.8",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 508.26093999974626,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 508.26 s · distilling · pot 100.00 °C referencePot 80.1023 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 19.6317 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 413.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "61.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 514.2449399997453,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 514.24 s · distilling · pot 100.00 °C referencePot 79.7045 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 20.0296 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 523.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "62",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 520.4159399997461,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 520.42 s · distilling · pot 100.00 °C referencePot 79.2942 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 20.4399 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 442.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1280,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "62.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 525.2499399997452,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 525.25 s · distilling · pot 100.00 °C referencePot 78.9727 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 20.7613 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 458.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "72.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 621.3969399997447,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 621.40 s · distilling · pot 100.00 °C referencePot 72.5800 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 27.1541 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 174,
+    "width": 320,
+    "wrapper": {
+      "height": 174,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "72.6",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 626.0689399997465,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 626.07 s · distilling · pot 100.00 °C referencePot 72.2694 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 27.4647 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 188,
+    "width": 390,
+    "wrapper": {
+      "height": 188,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "73.2",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 632.2429399997453,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 632.24 s · distilling · pot 100.00 °C referencePot 71.8588 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 27.8752 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 556,
+      "x": 237,
+      "y": 523.34375
+    },
+    "visibleHeight": 235.5,
+    "width": 820,
+    "wrapper": {
+      "height": 235.5,
+      "width": 556,
+      "x": 237,
+      "y": 586.34375
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "73.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 638.7329399997452,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 638.73 s · distilling · pot 100.00 °C referencePot 71.4273 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 28.3067 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 400,
+      "width": 667,
+      "x": 289,
+      "y": 442.7421875
+    },
+    "visibleHeight": 222.9140625,
+    "width": 1280,
+    "wrapper": {
+      "height": 222.9140625,
+      "width": 667,
+      "x": 289,
+      "y": 505.7421875
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "74.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 643.7259399997481,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 643.73 s · distilling · pot 100.00 °C referencePot 71.0953 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 28.6387 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 458.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 521.7421875
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "75.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 651.0539399997485,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 651.05 s · distilling · pot 100.00 °C referencePot 70.6081 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 29.1259 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 501.328125,
+      "width": 282,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 275.328125,
+    "width": 320,
+    "wrapper": {
+      "height": 275.328125,
+      "width": 282,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "75.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 655.4059399997479,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 655.41 s · distilling · pot 100.00 °C referencePot 70.3188 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 29.4153 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 776.890625
+    },
+    "visibleHeight": 413.7734375,
+    "width": 390,
+    "wrapper": {
+      "height": 413.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 877.390625
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "76.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 660.9029399997472,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 660.90 s · distilling · pot 100.00 °C referencePot 69.9533 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 29.7808 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 275,
+      "y": 523.34375
+    },
+    "visibleHeight": 588.5,
+    "width": 820,
+    "wrapper": {
+      "height": 588.5,
+      "width": 480,
+      "x": 275,
+      "y": 633.34375
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "76.7",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 666.5449399997466,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1280,
+    "readout": "Physical time 666.54 s · distilling · pot 100.00 °C referencePot 69.5781 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 30.1559 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 382.5,
+      "y": 442.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1280,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 382.5,
+      "y": 552.7421875
+    }
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "77.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 671.2089399997458,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 671.21 s · distilling · pot 100.00 °C referencePot 69.2680 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 30.4660 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 800,
+      "width": 480,
+      "x": 702.5,
+      "y": 458.7421875
+    },
+    "visibleHeight": 557.71875,
+    "width": 1920,
+    "wrapper": {
+      "height": 557.71875,
+      "width": 480,
+      "x": 702.5,
+      "y": 568.7421875
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 261,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "92.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 824.5629399995646,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 824.56 s · distilling · pot 100.00 °C referencePot 59.0716 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 40.6624 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 473,
+      "width": 320,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 261,
+    "width": 320,
+    "wrapper": {
+      "height": 261,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 365,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "93",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 830.2429399995647,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 830.24 s · distilling · pot 100.00 °C referencePot 58.6940 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 41.0401 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 365,
+    "width": 390,
+    "wrapper": {
+      "height": 365,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "93.6",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 835.9079399995649,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 835.91 s · distilling · pot 100.00 °C referencePot 58.3173 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 41.4168 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 553.5,
+    "width": 820,
+    "wrapper": {
+      "height": 553.5,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 687.984375,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "94.2",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 842.0739399995658,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 842.07 s · distilling · pot 100.00 °C referencePot 57.9073 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 41.8267 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 865.0703125,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 687.984375,
+    "width": 1920,
+    "wrapper": {
+      "height": 687.984375,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "94.9",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 848.9169399995661,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 848.92 s · distilling · pot 100.00 °C referencePot 57.4523 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 42.2817 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 83.5,
+    "width": 844,
+    "wrapper": {
+      "height": 83.5,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "108.5",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 984.7469399995682,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 844,
+    "readout": "Physical time 984.75 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 248,
+      "width": 844,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 70,
+    "width": 844,
+    "wrapper": {
+      "height": 70,
+      "width": 844,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "109.1",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 991.076939999568,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 320,
+    "readout": "Physical time 991.08 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 473,
+      "width": 320,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 128.5,
+    "width": 320,
+    "wrapper": {
+      "height": 128.5,
+      "width": 320,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 246.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    },
+    "canvasMatchesWrapper": true,
+    "format": "portrait",
+    "guide": "109.7",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 997.0809399995672,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 390,
+    "readout": "Physical time 997.08 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 577,
+      "width": 390,
+      "x": 0,
+      "y": 97
+    },
+    "visibleHeight": 246.5,
+    "width": 390,
+    "wrapper": {
+      "height": 246.5,
+      "width": 390,
+      "x": 0,
+      "y": 197.5
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "110.4",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 1000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 820,
+    "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 718,
+      "width": 820,
+      "x": 0,
+      "y": 72
+    },
+    "visibleHeight": 438.328125,
+    "width": 820,
+    "wrapper": {
+      "height": 438.328125,
+      "width": 820,
+      "x": 0,
+      "y": 135
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 0,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 0.00 s · warming · pot 25.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 100,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 100.00 s · warming · pot 60.89 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 209,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 209.00 s · distilling · pot 100.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 209.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 209.50 s · distilling · pot 100.00 °C referencePot 99.9668 g · vapour transit 0.0332 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 210,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 210.00 s · distilling · pot 100.00 °C referencePot 99.9335 g · vapour transit 0.0665 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 212,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 212.00 s · distilling · pot 100.00 °C referencePot 99.8005 g · vapour transit 0.1995 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 212.49999999999997,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 212.50 s · distilling · pot 100.00 °C referencePot 99.7673 g · vapour transit 0.1995 g · drain 0.0332 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 213,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 213.00 s · distilling · pot 100.00 °C referencePot 99.7340 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "condenser",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 213.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 213.50 s · distilling · pot 100.00 °C referencePot 99.7008 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 0.0332 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 500,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 500.00 s · distilling · pot 100.00 °C referencePot 80.6516 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 19.0824 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 961,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 961.00 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 49.7340 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 961.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 961.50 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.1662 g · drain 0.0665 gReceiver 49.7673 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 963,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 963.00 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0665 g · drain 0.0665 gReceiver 49.8670 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 963.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 963.50 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0332 g · drain 0.0665 gReceiver 49.9003 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 964,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 964.00 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0665 gReceiver 49.9335 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 964.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 964.50 s · draining · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0332 gReceiver 49.9668 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 965,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 965.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 1000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 4000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 0,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 80,
+      "timeS": 4000,
+      "waterG": 50
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 25.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 25.0000 g · water budget 50.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 0,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 300,
+      "timeS": 4000,
+      "waterG": 50
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 25.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 25.0000 g · water budget 50.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 0,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 80,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 100.0000 g · water budget 200.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 0,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 300,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 100.0000 g · water budget 200.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 80,
+      "timeS": 4000,
+      "waterG": 50
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 25.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 25.0000 g · vented 0.0000 g · water budget 50.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 300,
+      "timeS": 4000,
+      "waterG": 50
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 25.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 12.7152 g · vented 12.2848 g · water budget 50.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 80,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 100.0000 g · vented 0.0000 g · water budget 200.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 300,
+      "timeS": 4000,
+      "waterG": 200
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.8610 g · vented 49.1390 g · water budget 200.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 25,
+      "coolantInletC": 40,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 400,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 400.00 s · distilling · pot 100.00 °C referencePot 87.3005 g · vapour transit 0.1995 g · drain 0.0154 gReceiver 2.8873 g · vented 9.5972 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 5,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 1000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 5.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 50,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 1000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 50.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 50,
+      "initialTemperatureC": 15,
+      "netPowerW": 150,
+      "timeS": 100,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 100.00 s · warming · pot 50.89 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 50.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 20,
+      "dyeMg": 50,
+      "initialTemperatureC": 40,
+      "netPowerW": 150,
+      "timeS": 100,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 100.00 s · warming · pot 75.89 °C referencePot 100.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 50.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 0,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 213.5,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 213.50 s · distilling · pot 100.00 °C referencePot 99.7008 g · vapour transit 0.1995 g · drain 0.0000 gReceiver 0.0000 g · vented 0.0997 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 25,
+      "coolantInletC": 20,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 4000,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 4000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 11.6111 g · vented 38.3889 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  },
+  {
+    "camera": "apparatus",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "coolantFlowMlMin": 300,
+      "coolantInletC": 10,
+      "dyeMg": 10,
+      "initialTemperatureC": 25,
+      "netPowerW": 150,
+      "timeS": 500,
+      "waterG": 100
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 500.00 s · distilling · pot 100.00 °C referencePot 80.6516 g · vapour transit 0.1995 g · drain 0.0665 gReceiver 19.0824 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": -1165.7578125
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": -1102.7578125
+    }
+  }
+]

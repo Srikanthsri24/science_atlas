@@ -1,0 +1,15 @@
+{
+  "labId": "CL-0062",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "targetedTests": 22,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "regressionTestsPassed": 2568,
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "animationSeconds": 120,
+  "renderedStates": 56,
+  "actualGuiTrials": 30,
+  "downloadedWorkedResultsVerified": 420
+}

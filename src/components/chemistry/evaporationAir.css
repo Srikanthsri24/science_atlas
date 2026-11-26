@@ -1,0 +1,3 @@
+.chem-air .area-diagram-panel{display:flex;flex-direction:column}
+.chem-air .area-diagram-scroll{position:relative;flex:1;min-height:0;order:1}
+.chem-air .area-diagram-tools{position:static;align-self:flex-end;order:0;margin:4px;flex-shrink:0}

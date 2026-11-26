@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0072",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "30 focused core/geometry/record checks and2821 full regressions pass. Final TypeScript/build pass. Lumped heating, finite boiling limit, latent-only condenser and complete sensible/latent/ambient heat account. All preparation corners conserve primary feed and heat; separate external cooling stream.",
+    "twoD": "Actual curved flask and graduated collector levels independently integrated against19 rendered vessel states.671 actual history points independently reconstructed. Continuous120s guide completed; zoom300percent, keyboard pan40/40, Fit0/0.",
+    "threeD": "Original volume-based flask, hollow separate condenser jacket/bore, descending collection path and open collector. Actual120s guide completed.120 rendered numeric readings independently reconstructed. Accessible orbit4.9913/tilt6.0712/zoom13.8398 pixel changes, reset0; cutaway3.1693 and flow cues.05793. Native gestures remain unverified while Mac locked.",
+    "responsive": "52 actual captured layout/rendered cases, widths320/390/820/1280/1920 and bothformats, allfour apparatus cameras at320. No page overflow or collapsed viewer. Open camera controls fit390x844 theatre217px canvas and844x390 theatre132px. Dark390px fits51 worked steps; table314px viewport/4776px internally scrolling, keyboard40px. Defaultviewport/light/normal restored.",
+    "practicalRecord": "35 actual GUI trials33columns; independent805 observation checks and1785 downloaded worked results. Default milestones, allfive design presets, min/max preparations and finite target beyond2400s run. Three print tables, escaped writing, company-only export. Reload retains35rows; class5 backlink/return preserves writing and initial33rows. Manual/guide playback disable recording and pause/completion enable it.",
+    "sources": "Private NIST IAPWS saturation-table20/100C headers/rows and UCLA heat-capacity equation reviewed. Fixed reference pressure, constant cp/vesselcapacity/sourceUA/outletlimit/densityinterpolation and ideal hot collector explicitly original assumptions.",
+    "navigation": "Class5 route/backlink working; all270 catalogue entries retained. Frontend-only. All850 earlier frozen source checks and146 pre-existing staged blobs preserved."
+  },
+  "reviewScope": "Internal engineering/model-consistency/browser-viewport review only. No independent expert certification, official board mapping, native gesture, calibrated apparatus, physical-device/FPS or printer certification. Pure reference water, fixed100C at101.42kPa; no contaminant/potability prediction. Delivered thermal power is not electricity consumption. Condenser removes latent heat only; collector remains ideal insulated hot100C when liquid exists. Cooling interlocked with boiling; no exchanger hold-up/subcooling/collector cooling/ongoing evaporation or pressure solver. Flow arrows show direction and add no inventory. Reference volumes use linear saturated-density interpolation, not full EOS. Detailed equations are teacher extensions. GUI exact milestone times print6decimals; independent validator reconstructs known +1microsecond button offsets before evaluating near-zero ratios.",
+  "nativeGestureVerification": "unverified_mac_locked; accessible_camera_controls_passed",
+  "sourceHashes": {
+    "src/lib/chemistry/waterRecoveryDesign.ts": "b63d689c5cd4f3045e3e339e31571ff731ed42d13cdf7427c52aa9d400a1ce2d",
+    "src/lib/chemistry/waterRecoveryDesignGeometry.ts": "45e0dfdb598a12febd165be6f4627fc68846272b44474afdff335a514cc657f4",
+    "src/lib/chemistry/waterRecoveryDesignRecord.ts": "06e0a0bbdc42f7329e7574949502168edca9a013d2ef47815d612cf7b3fa8485",
+    "src/components/chemistry/WaterRecoveryDesignLab.tsx": "58261ec514e4524f21af9fbad90f849af15a243fc77f3610d1d1d51f52379601",
+    "src/components/chemistry/WaterRecoveryDesignDiagram.tsx": "bcb669476c0d6f08bf6d177ccfad3a56b470809b3221b1025b501c336af27cb3",
+    "src/components/chemistry/WaterRecoveryDesignScene.tsx": "f0bfde464e79a2ef7fdd628ed5e958372fd2dfdfe31d34956c514c6bc649c6dc",
+    "src/components/chemistry/waterRecoveryDesign.css": "67047f2a48d543b81af2a81c6e32ab9a15a6613ac73e655f0c2935f7b58ffe59",
+    "tests/chemistry-water-recovery-design-geometry.test.mjs": "9b655e4223c89392d509b56233111d97b6a00c0eb2f4fb72d65828b05b56de84",
+    "tests/chemistry-water-recovery-design-record.test.mjs": "cc24a3c7f58fe2cd586b19e68f141d84e0a5e3701d294c5e8871f79a2c6b342d",
+    "tests/chemistry-water-recovery-design.test.mjs": "d0ce6135d6b64eb0b47ce62af2608642858f2a5b29d715d49f54aaa69678f687",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44"
+  }
+}

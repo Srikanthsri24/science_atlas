@@ -1,0 +1,30 @@
+✔ actual triangular drop meshes represent the specified metered volume (5.817166ms)
+✔ polygonal vessel and reservoir heights retain their exact reference volumes (1.807047ms)
+✔ the whole falling mesh stays above liquid until its declared contact event (0.75432ms)
+✔ height controlled dispensers follow volume changes while retaining the same fall clearance (0.417325ms)
+✔ elapsed histories include release/arrival discontinuities without future evidence (5.102026ms)
+✔ negative or nonfinite drop volumes cannot become geometry (0.740538ms)
+✔ three reference samples keep their known pH and start without visible indicator (2.299041ms)
+✔ release and arrival are separate material events with a real falling interval (0.56277ms)
+✔ every drop carries the specified liquid volume and pigment mass (0.308906ms)
+✔ liquid and pigment close across all dosing corners and times (5.51818ms)
+✔ all permitted pulse programs finish before the declared observation endpoint (0.330014ms)
+✔ no-dose and pigment-free controls do not invent visible indicator colour (0.289549ms)
+✔ ideal reference pH implies matching hydrogen/hydroxide concentrations at25C (0.276477ms)
+✔ dose changes pigment concentration and drawing strength without pretending to infer pH (0.356499ms)
+✔ qualitative colour interpolation stays valid and distinct for the three default references (0.706026ms)
+✔ 120second guide has setup/evolution/endpoint holds and all material accounted for (5.006722ms)
+✔ invalid, nonfinite or coerced dosing controls cannot become observations (1.035093ms)
+✔ saved records retain controls and writing while rejecting forged derived values (2.096177ms)
+✔ latest sixty valid trials survive invalid suffixes and writing is bounded (1.773391ms)
+✔ twenty observation columns independently match arrived drops, dilution and ideal ions (0.467312ms)
+✔ fourteen worked steps remain finite through controls, flight and endpoint for every reference (1.796013ms)
+✔ report escapes writing, splits three print tables and recomputes every trial (1.477923ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 640.93287

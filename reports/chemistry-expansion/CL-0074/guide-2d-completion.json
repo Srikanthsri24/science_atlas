@@ -1,0 +1,7 @@
+{
+  "duration": 120,
+  "actualContinuousRun": true,
+  "initialRecordEnabled": false,
+  "finalRecordEnabled": true,
+  "finalPhysicalSeconds": 1000
+}

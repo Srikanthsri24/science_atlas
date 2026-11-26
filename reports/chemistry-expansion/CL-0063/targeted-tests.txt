@@ -1,0 +1,30 @@
+✔ outward closed drop triangles retain their metered volumes across all aliquot sizes (23.759093ms)
+✔ polygonal burette and beaker geometry close actual liquid volumes without overflowing (12.137948ms)
+✔ the burette scale increases downward and meniscus reading excludes a still-falling aliquot (0.838774ms)
+✔ all mesh bottoms stay above the unchanged pre-contact surface until arrival (22.790796ms)
+✔ saved observations retain physical controls and writing, never forged pH (2.817684ms)
+✔ latest sixty valid observations survive malformed suffixes and bounded writing (1.462486ms)
+✔ twenty-five columns distinguish released and arrived volume during flight (2.696255ms)
+✔ twenty-nine formula blocks stay finite through equivalence, overshoot and controls (9.974014ms)
+✔ equivalence result keeps water ions rather than log-zero or invented blank concentrations (0.933251ms)
+✔ small equivalent amounts retain enough digits for displayed subtraction to reproduce the excess (0.452025ms)
+✔ download splits four print tables, recomputes every trial and escapes all writing (3.659964ms)
+✔ initial acid, equivalence and base overshoot follow stoichiometry without singular pH (2.997523ms)
+✔ water autoionization and charge balance hold throughout equivalence and dilute blanks (1.172212ms)
+✔ rationalized basic branch preserves tiny positive hydronium concentrations (0.254625ms)
+✔ zero base is dilution, while no acid and no base stay neutral (0.258116ms)
+✔ equivalence depends on amounts and need not be reachable in the charged burette (0.267686ms)
+✔ all allowed aliquots arrive before the next release and program ends before105s (12.975261ms)
+✔ release and contact are distinct events with a falling aliquot above pre-arrival liquid (1.814917ms)
+✔ liquid, sodium inventory and acid/base equivalents close at all controls and times (9.517265ms)
+✔ elapsed titration curve contains only arrived aliquots and all endpoint volumes are valid (7.028814ms)
+✔ 120second presentation holds setup and endpoint around actual titration development (17.753896ms)
+✔ invalid and coerced controls cannot become model observations (1.663647ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 667.156275

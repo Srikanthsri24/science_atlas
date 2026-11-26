@@ -1,0 +1,13 @@
+{
+  "scope": "Bright model pixels in central lower image region excluding toolbar; shape references separately unit-tested. Eight images saved; water/methane/hydrogen screenshots visually inspected.",
+  "pixels": {
+    "species-oxygen.png": 6353,
+    "species-water.png": 8930,
+    "species-ozone.png": 7120,
+    "species-hydrogen-oxygen.png": 4646,
+    "species-carbon-dioxide.png": 9232,
+    "species-helium.png": 4840,
+    "species-methane.png": 8989,
+    "species-nitrogen-oxygen.png": 9643
+  }
+}

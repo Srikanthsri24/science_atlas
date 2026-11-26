@@ -1,0 +1,31 @@
+✔ actual wet-bed, cloud and clear phase mesh volumes close the whole mixture at all preparation corners (122.531876ms)
+✔ vessel shell has true ring caps and never occupies the open interior (3.380895ms)
+✔ all phase boundaries are ordered with freeboard and no exaggerated sediment thickness (0.357115ms)
+✔ illustrative microscope cores preserve N, touch a connected neighbour and never overlap or escape the chosen envelope (16.135943ms)
+✔ fully settled state has no hidden cloud mesh, but retains the wet-bed pore water and clear layer (1.523327ms)
+✔ magnified central section crops the true phase boundaries with a single uniform physical scale (0.80377ms)
+✔ stored controls validate and derived settling observations cannot be forged (2.992083ms)
+✔ latest60 valid trials and bounded writing remain ordered without coercing student values (1.513823ms)
+✔ all28 columns distinguish prepared N, actual primary reference and nonexistent terminal cloud (0.727364ms)
+✔ 47 worked steps remain finite over complete, incomplete and no-aggregation reference states (25.023128ms)
+✔ completed wet-bed calculations retain pore water and give N/A rather than a divide-by-zero concentration (0.431719ms)
+✔ exam report contains all observations and substitutions while escaping student writing and stating reference limits (1.886568ms)
+✔ prepared references begin with the same water, dry solid and uniform column but no false sediment (2.196023ms)
+✔ chosen Df2 aggregates preserve dry particle mass while reducing the effective density contrast (0.408156ms)
+✔ all preparation corners remain dilute, low-Re and have space for a saturated porous bed (2.109151ms)
+✔ two moving fronts preserve every water, solid, mixture-volume and mass compartment (3.966458ms)
+✔ the growing-bed solid flux independently reproduces the interface speed (0.381608ms)
+✔ settling completion is continuous, leaves pore water and removes the nonexistent suspended-zone concentration (0.33415ms)
+✔ no-aggregation control matches the primary case exactly rather than inventing a flocculation benefit (0.325214ms)
+✔ viscosity and primary radius scale terminal-reference speeds with correct units (0.21818ms)
+✔ representative markers move through the cloud at the batch velocity and never become an extra bed inventory (1.786027ms)
+✔ 120second guide retains75seconds of actual default-floc motion before the terminal comparison (0.734688ms)
+✔ history never reveals a future interval and malformed preparations are rejected (1.463508ms)
+ℹ tests 23
+ℹ suites 0
+ℹ pass 23
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 841.947029

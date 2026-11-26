@@ -1,0 +1,14 @@
+{
+  "chips": 0,
+  "gasWidth": 0,
+  "inputs": {
+    "acidMl": 20,
+    "acidMolL": 0.2,
+    "carbonateG": 0,
+    "pressureKPa": 101.325,
+    "rateSInv": 0.015,
+    "temperatureC": 25,
+    "timeS": 600
+  },
+  "transfers": 0
+}

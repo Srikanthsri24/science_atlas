@@ -1,0 +1,19 @@
+{
+  "table": {
+    "left": 80,
+    "scrollWidth": 2500,
+    "width": 314
+  },
+  "pan": {
+    "left": 40,
+    "scrollW": 1056,
+    "top": 40,
+    "width": 352
+  },
+  "fit": {
+    "left": 0,
+    "scrollW": 352,
+    "top": 0,
+    "width": 352
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "clock": "120",
+  "parameters": {
+    "filterUm": "20",
+    "particle": "sand",
+    "profile": "reference",
+    "sieveUm": "500",
+    "solutionMl": "100",
+    "timeS": "60"
+  },
+  "recordEnabled": true
+}

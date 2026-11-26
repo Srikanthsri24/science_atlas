@@ -1,0 +1,18 @@
+{
+  "zoom": {
+    "clientHeight": 333,
+    "clientWidth": 667,
+    "pageWidth": 1280,
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "60"
+    ],
+    "scrollHeight": 998,
+    "scrollWidth": 2001,
+    "width": 1280
+  },
+  "reset": "100%"
+}

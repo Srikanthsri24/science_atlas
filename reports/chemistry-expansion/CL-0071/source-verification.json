@@ -1,0 +1,16 @@
+{
+  "labId": "CL-0071",
+  "verifiedOn": "2026-11-26",
+  "status": "primary_indexed_experiment_text_reviewed_full_page_fetch_unavailable",
+  "publicLinksRendered": false,
+  "sources": [
+    {
+      "title": "Royal Society of Chemistry: Separating sand and salt by filtering and evaporation",
+      "url": "https://edu.rsc.org/experiments/separating-sand-and-salt-by-filtering-and-evaporation/386.article",
+      "access": "Search-indexed procedure/equipment/teaching-note text reviewed. Direct page fetch returned405. Older official PDF URL redirects to a JavaScript verification page; full PDF was not read.",
+      "supports": "Physical separation using dissolution, filtration and evaporation; handling wet residue and final dry products as distinct states.",
+      "doesNotVerify": "Chosen smooth schedules, washing recurrence, exact mother-water retention, reference capacity/densities/apparent volumes/packing or real purity/recovery guarantees."
+    }
+  ],
+  "originalDerivation": "Sretained after filtration=S0*h/W0. Each perfectly mixed fresh wash retains fraction h/(h+w) after drainage. Compartment balances and prescribed dry endpoints are original explicitly idealized derivations, independently tested at all supported preparation corners. No copied passages/assets."
+}

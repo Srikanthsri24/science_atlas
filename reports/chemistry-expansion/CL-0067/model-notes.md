@@ -1,0 +1,33 @@
+# CL-0067 — investigate gas occupying space in an inverted cup
+
+Scientific core and volume-based geometry implemented.24focused tests pass (15core,5geometry,4newannulushelper). Stillin_progress;66/270reviewed. NoUI/practicalengineyet. Nextpush75. Preserveoriginal408and146pre-existingstagedblobs. NewclosedAnnulus helper nowhash-frozen by amendedCL0066review; do noteditwithoutreopening/retestingthatreview.
+
+## Matched references and controls
+
+Verticalinvertedcupscomparetrappedisothermalairagainstideal atmosphericvent. Cupinnerradius2–3cm,height6–12cm;basinradius7–10cm;plannedmaximum insertion0–30cm;atmosphere80–120kPaabsolute;temperature15–35C;physicaltime0–160s. Defaults2.5cm/10cm/8cm/25cm/101.325kPa/25C. Wallandclosedroofthickness0.15cm. Finitecylindricalbasininitialwaterdepth35cm,floorY−35,topY10aboveinitialsurface. RimpositionY−d;roofYH−d;outerroofplus0.15cm. VentoutletY16alwaysaboveactualwaterlevel. Atmospherictube is idealzero-dead-volume,not an underwaterholeimproperlyheldatPatm. No tiltcontrols:cameraorbitmustnotbeconfusedwithphysicalcuptilt.
+
+Prescribedquasistaticcycle:0–50slowdescenttorimdepthdmax,50–90hold,90–140raise,140–160returnedhold. Guide120s:10setup+100evolution0–160physicalseconds+10hold. Actualcupmotionlasts62.5presentationseconds (31.25down+31.25up);defaultguideexceedsone minuteofgenuineobjectmotion. Exactcaptionstages41.25/66.25/97.5s matchmotion,notroundedphaseboundaries. Zero-insertioncontrolstaysstationary.
+
+## Coupled finite-water and gas equilibrium
+
+Useactual128polygonareaAinner,outerAouter,Bbasin. LetSbeoutsidewaterlevelrise,dinsertionfrominitialsurface,D=d+Sactualrimdepth,xwaterheightinsidecup. CupgasV=A(H−x),initialV0=AH. k=rho*g/100000kPa/cm withchosenrho1000kg/m3,g9.81m/s2. Uniformisothermalidealairn0=Patm(V0/1000)/(RT),R8.314462618kPaL/mol/K,T=Celsius+273.15,chosenmeanmolarmass0.02897kg/mol.
+
+TrappedcasePgas=PatmH/(H−x)=Patm+k(D−x). Stable smallrootx=2kDH/[C+sqrt(Patm²+2Patm*k(D+H)+k²(D−H)²)],C=Patm+k(D+H). ThisavoidsH−gasheightcancellationnearzeroimmersion. Somewaterentersandcompressesair;donotclaimperfectzeroentry.
+
+VentedcasePgas=Patmwhilepocketexists,x=clamp(D,0,H). Ifx=H,retainedgasvolume/amountarezeroandgaspressure/PVreadingareNULL/notapplicable,notafictitiouszeroorPatmmeasurement. Wateratroofandrimremainseparatehydrostaticdiagnostics. Internal/externalwaterlevelsmatchwhileaventgasinterfaceexists. Thisisopenmassinventory,notconstantPVclosedBoylelaw.
+
+WaterconservationcouplesS: B*S=Aouter*clamp(d+S,0,H+capthickness)−A*x. Solveunique increasingresidualwith70bisectionsteps,bounded0..Aouter(H+cap)/B. Equivalentlydisplacement=submergedglasswall+roof+gas. Outsidewater+insidecupwater=initialB*35mL. Finitebasinrisesfromexcludedglass/gas,notassumedinfinitefixedsurface. Fullysubmergedventeddisplacementisglassonly. Testsincludeindependentsealed-intrusionrootwithfinitereservoirandanalyticpartiallyventedsurfaceformula.
+
+Airout/airin inventoriesrecordactualhistory: peakdepthalreadyreached,currentretainedn,notfuturemaximum beforedescentfinishes. Forventn_out=n0−n_peak,n_in=n_current−n_peak;initial+in−out=current. Withwithdrawalaircanreenternotthesamemoleculesbyidentity. Sealedcaseout/inzero. Ventflowduringpartialimmersionfollowstheanalyticdn/dd derivative timesprescribedverticalspeed;fullyfloodedcuphasnogasflowuntilpocketreappears. Nonintrusivecontactmarker0.5cmbelowroofreportscurrentandevercontact;withdrawaldoesnoterasepriorcontact. Markerisanidealzero-volumecontactproxy,notactualpaperabsorption/wicking/drying. No actualpaper-volume claim.
+
+## Geometry
+
+Separateclosed128polygonphases: cupglassannularwall,trueclosedroof,gasaboveinsideinterface,insidewaterbelowinterface. Outsidewateristhree non-overlappingbands:fullbasinbelowrim,annularbasinoutsidecupenvelopefromrimtomin(surface,outerroof),fullbasinaboveouterroofiffullysubmerged. Trueannularcapsjoininnerandouterringsanddonotfillthecavitywithoverlappingdisks. Actualsignedtrianglevolumesofoutside+insidewaterconserveinitialbasinwateracrosscorners. Gas/insidewatervolumessumtocavityvolume. Cupfloorclearanceatleast5cm;waterlevelfreeboard/dryventoutletchecked.
+
+NewgenericclosedAnnulus.ts hasvolume,capvertexhole,pairededge,seam/degenerate/invaliddimensiontests. ExistingCL0066jacketwasreopenedbecauseoldouter-minusinnerclosedcylindershadcoincidentdiskcapsdespitecorrectsignedvolume; switchedtothishelper. Alsochangedgasbaseradius1.34cmtofitinside1.36cmjacketcavity.32focused/2694regression/TS/buildpassed;6actualcameraformatstatespostfix. CL0066reviewamended/refrozen;oldreviewretained. Nootherfrozenfilesmodified.
+
+## Scientific boundary and remaining work
+
+Quasistaticverticalmotion,flatinterfaces,incompressiblewater,uniformisothermaldryidealair. No waves,sloshing,inertia,capillarity,meniscus,airtowaterdissolution,vapourinventory,thermaltransients,gasheadgradient,leaks,trappedmicrobubbles,realpaperwicking/dryingorfiniteventresistance/deadvolumesolver. No artificialbubblesinwaterforanatmosphericventaboveit. Anyair/flowoverlaymustbelabeledrepresentative,notactualcolouredairorcalibratedmoleculecounts. Sourcesqualitativeprinciplesonly,notmeasuredapparatuscalibration. Classpath editorial; quantitativeformulas teacherextensions. StudentUI/exportcompany-only;keepexternalauditprivate.
+
+Next: original28ishcolumnobservationengine andworkedcalculationswithgaspressureN/Awhenflooded,finite-basinroot/pressure/volume/air/waterinventory/contacthistory,escapedexamreport. Thenoriginal2Dmatchedfullapparatus/magnifiedwater-entry/elapsedcurvesand3Dtransparent/cutawaycup/waterbands/vent/marker/cameras.120sactualguides,GUItrials/export/reload,independentnumeric/geometrychecks,responsive/keyboard/theatre/orbit/reset,regressionTSbuildbeforemarkingready. Do notrouteanemptyplaceholderorcountitready.

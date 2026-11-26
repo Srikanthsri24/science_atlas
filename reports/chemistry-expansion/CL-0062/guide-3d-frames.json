@@ -1,0 +1,23 @@
+[
+  {
+    "readouts": "acid: red / pink reference · 0.2250 mg in 20.450 mLneutral: purple-blue neutral reference · 0.2250 mg in 20.450 mLbase: green reference · 0.2250 mg in 20.450 mLElapsed 37.94 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": false,
+    "time": "37.941475",
+    "timeline": "68.4",
+    "wall": 1795686449873
+  },
+  {
+    "readouts": "acid: red / pink reference · 0.3000 mg in 20.600 mLneutral: purple-blue neutral reference · 0.3000 mg in 20.600 mLbase: green reference · 0.3000 mg in 20.600 mLElapsed 65.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": false,
+    "time": "65",
+    "timeline": "119",
+    "wall": 1795686500517
+  },
+  {
+    "readouts": "acid: red / pink reference · 0.3000 mg in 20.600 mLneutral: purple-blue neutral reference · 0.3000 mg in 20.600 mLbase: green reference · 0.3000 mg in 20.600 mLElapsed 65.00 s · rotate / zoom / pan with pointer controls",
+    "recordEnabled": true,
+    "time": "65",
+    "timeline": "120",
+    "wall": 1795686526120
+  }
+]

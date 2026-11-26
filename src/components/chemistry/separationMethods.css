@@ -1,0 +1,4 @@
+.chem-methods .chem-record p{overflow-wrap:anywhere}
+.chem-methods .chem-procedure-buttons button{white-space:normal;overflow-wrap:anywhere;max-width:100%}
+.chem-methods .chem-sample-panel select{width:100%;min-width:0;max-width:100%}
+.chem-methods .area-diagram-tools{flex-wrap:wrap;max-width:calc(100% - 8px);justify-content:flex-end}

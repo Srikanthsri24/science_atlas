@@ -1,0 +1,3816 @@
+[
+  {
+    "bands": [],
+    "layerLabels": [
+      "0.000 mL labelled",
+      "0.000 mL labelled",
+      "0.000 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "0"
+    ],
+    "points": [
+      {
+        "cx": "760",
+        "cy": "480",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "760",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": null,
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "50",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "230"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 0.000 seconds. Receiver 0.000 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 0.000 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 332.6875,
+      "width": 667,
+      "x": 289,
+      "y": 129.2421875
+    },
+    "texts": [
+      {
+        "height": 6.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 110.1953125,
+        "x": 382.2257080078125,
+        "y": 138.52830505371094
+      },
+      {
+        "height": 17.5,
+        "text": "Follow the parcel. Account for water.",
+        "width": 248.2109375,
+        "x": 382.2257080078125,
+        "y": 148.0109405517578
+      },
+      {
+        "height": 8,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 141.6796875,
+        "x": 382.2257080078125,
+        "y": 172.6453094482422
+      },
+      {
+        "height": 10,
+        "text": "Labelled feed",
+        "width": 50.0625,
+        "x": 412.6423645019531,
+        "y": 192.86241149902344
+      },
+      {
+        "height": 10,
+        "text": "100.000 mL",
+        "width": 44.015625,
+        "x": 415.6658020019531,
+        "y": 227.51736450195312
+      },
+      {
+        "height": 10,
+        "text": "Clear chase",
+        "width": 43.6640625,
+        "x": 554.4613647460938,
+        "y": 192.86241149902344
+      },
+      {
+        "height": 10,
+        "text": "200.000 mL",
+        "width": 45.16400146484375,
+        "x": 553.71142578125,
+        "y": 227.51736450195312
+      },
+      {
+        "height": 8,
+        "text": "Inlet head 10 cm",
+        "width": 48.890625,
+        "x": 382.2257080078125,
+        "y": 271.5274353027344
+      },
+      {
+        "height": 8.5,
+        "text": "Gravel",
+        "width": 21.3515625,
+        "x": 537.017822265625,
+        "y": 287.1997375488281
+      },
+      {
+        "height": 7.5,
+        "text": "0.000 mL labelled",
+        "width": 49.9765625,
+        "x": 537.017822265625,
+        "y": 298.36517333984375
+      },
+      {
+        "height": 8.5,
+        "text": "Sand",
+        "width": 17.0625,
+        "x": 537.017822265625,
+        "y": 310.30303955078125
+      },
+      {
+        "height": 7.5,
+        "text": "0.000 mL labelled",
+        "width": 49.9765625,
+        "x": 537.017822265625,
+        "y": 321.468505859375
+      },
+      {
+        "height": 8.5,
+        "text": "Carbon granules",
+        "width": 55.296875,
+        "x": 537.017822265625,
+        "y": 333.40631103515625
+      },
+      {
+        "height": 7.5,
+        "text": "0.000 mL labelled",
+        "width": 49.9765625,
+        "x": 537.017822265625,
+        "y": 344.57177734375
+      },
+      {
+        "height": 10,
+        "text": "Receiver 0.000 mL",
+        "width": 69.42974853515625,
+        "x": 449.1653442382813,
+        "y": 430.8263854980469
+      },
+      {
+        "height": 12.5,
+        "text": "Collected water / mL",
+        "width": 101.05474853515624,
+        "x": 719.5338134765625,
+        "y": 210.2312469482422
+      },
+      {
+        "height": 8,
+        "text": "Total grey · labelled cyan",
+        "width": 73.8203125,
+        "x": 719.5338134765625,
+        "y": 229.01736450195312
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.4921875,
+        "x": 711.4210205078125,
+        "y": 347.84417724609375
+      },
+      {
+        "height": 6.5,
+        "text": "150",
+        "width": 9.484375,
+        "x": 705.4288330078125,
+        "y": 299.3272705078125
+      },
+      {
+        "height": 6.5,
+        "text": "300",
+        "width": 10.453125,
+        "x": 704.4600830078125,
+        "y": 250.81033325195312
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.49212646484375,
+        "x": 717.7877807617188,
+        "y": 357.08551025390625
+      },
+      {
+        "height": 6.5,
+        "text": "30",
+        "width": 6.96875,
+        "x": 783.049072265625,
+        "y": 357.08551025390625
+      },
+      {
+        "height": 6.5,
+        "text": "60",
+        "width": 7.0234375,
+        "x": 850.021240234375,
+        "y": 357.08551025390625
+      },
+      {
+        "height": 8,
+        "text": "Physical time / seconds",
+        "width": 69.74212646484375,
+        "x": 751.662353515625,
+        "y": 369.9474792480469
+      },
+      {
+        "height": 9,
+        "text": "Whole water: 370.000 mL",
+        "width": 90.39056396484376,
+        "x": 668.7066040039062,
+        "y": 380.49908447265625
+      },
+      {
+        "height": 8,
+        "text": "Label source / bed / receiver",
+        "width": 84.3515625,
+        "x": 668.7066040039062,
+        "y": 396.2852478027344
+      },
+      {
+        "height": 9,
+        "text": "100.000 / 0.000 / 0.000 mL",
+        "width": 95.09368896484376,
+        "x": 668.7066040039062,
+        "y": 409.147216796875
+      },
+      {
+        "height": 8,
+        "text": "Time 0.000 s · flow running",
+        "width": 80.9453125,
+        "x": 668.7066040039062,
+        "y": 425.3953857421875
+      },
+      {
+        "height": 6.527923583984375,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 159.8359375,
+        "x": 382.2257080078125,
+        "y": 445.340087890625
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "35.14448979605114",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "13.777 mL labelled",
+      "0.000 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "5.652600000008133"
+    ],
+    "points": [
+      {
+        "cx": "787.3209000000393",
+        "cy": "454.6763519999636",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "787.3209000000393",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "9.044160000013012",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "630.955839999987"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "31.911679999973973",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "248.08832000002602"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 5.653 seconds. Receiver 36.177 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 36.177 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 217.5,
+      "width": 282,
+      "x": 19,
+      "y": 300.0390625
+    },
+    "texts": [
+      {
+        "height": 3.54052734375,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 61.15625,
+        "x": 26.690908432006836,
+        "y": 321.7017822265625
+      },
+      {
+        "height": 9.5,
+        "text": "Follow the parcel. Account for water.",
+        "width": 137.66407775878906,
+        "x": 26.690908432006836,
+        "y": 326.9563293457031
+      },
+      {
+        "height": 4.5,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 78.56250762939453,
+        "x": 26.690908432006836,
+        "y": 340.6854248046875
+      },
+      {
+        "height": 5.5,
+        "text": "Labelled feed",
+        "width": 27.7578125,
+        "x": 43.57563781738281,
+        "y": 351.7345275878906
+      },
+      {
+        "height": 5.5,
+        "text": "63.823 mL",
+        "width": 22.3359375,
+        "x": 46.28657531738281,
+        "y": 370.9617919921875
+      },
+      {
+        "height": 5.5,
+        "text": "Clear chase",
+        "width": 24.21092987060547,
+        "x": 122.25817108154295,
+        "y": 351.7345275878906
+      },
+      {
+        "height": 5.5,
+        "text": "200.000 mL",
+        "width": 25.039077758789062,
+        "x": 121.84410095214844,
+        "y": 370.9617919921875
+      },
+      {
+        "height": 4.5,
+        "text": "Inlet head 10 cm",
+        "width": 27.1171932220459,
+        "x": 26.690908432006836,
+        "y": 395.5472412109375
+      },
+      {
+        "height": 5,
+        "text": "Gravel",
+        "width": 11.851554870605469,
+        "x": 112.5727310180664,
+        "y": 404.01995849609375
+      },
+      {
+        "height": 3.5,
+        "text": "22.400 mL labelled",
+        "width": 29.77342987060547,
+        "x": 112.5727310180664,
+        "y": 410.6599731445313
+      },
+      {
+        "height": 5,
+        "text": "Sand",
+        "width": 9.46875,
+        "x": 112.5727310180664,
+        "y": 416.838134765625
+      },
+      {
+        "height": 3.5,
+        "text": "13.777 mL labelled",
+        "width": 28.78905487060547,
+        "x": 112.5727310180664,
+        "y": 423.4781494140625
+      },
+      {
+        "height": 5,
+        "text": "Carbon granules",
+        "width": 30.67967987060547,
+        "x": 112.5727310180664,
+        "y": 429.6563415527344
+      },
+      {
+        "height": 3.5,
+        "text": "0.000 mL labelled",
+        "width": 27.71092987060547,
+        "x": 112.5727310180664,
+        "y": 436.29632568359375
+      },
+      {
+        "height": 5.5,
+        "text": "Receiver 36.177 mL",
+        "width": 40.117183685302734,
+        "x": 63.03231430053711,
+        "y": 483.76177978515625
+      },
+      {
+        "height": 6.521575927734375,
+        "text": "Collected water / mL",
+        "width": 56.07029724121094,
+        "x": 213.8363800048828,
+        "y": 361.7581481933594
+      },
+      {
+        "height": 4.5,
+        "text": "Total grey · labelled cyan",
+        "width": 40.9375,
+        "x": 213.8363800048828,
+        "y": 371.9617919921875
+      },
+      {
+        "height": 3.5,
+        "text": "0",
+        "width": 1.9374847412109375,
+        "x": 209.33523559570312,
+        "y": 437.83453369140625
+      },
+      {
+        "height": 3.500030517578125,
+        "text": "150",
+        "width": 5.265625,
+        "x": 206.0070953369141,
+        "y": 410.9163208007813
+      },
+      {
+        "height": 3.5,
+        "text": "300",
+        "width": 5.8046722412109375,
+        "x": 205.46804809570312,
+        "y": 383.9981689453125
+      },
+      {
+        "height": 3.5,
+        "text": "0",
+        "width": 1.9375,
+        "x": 212.8676300048828,
+        "y": 442.9617919921875
+      },
+      {
+        "height": 3.5,
+        "text": "30",
+        "width": 3.8671875,
+        "x": 249.0754852294922,
+        "y": 442.9617919921875
+      },
+      {
+        "height": 3.5,
+        "text": "60",
+        "width": 3.8984375,
+        "x": 286.23260498046875,
+        "y": 442.9617919921875
+      },
+      {
+        "height": 4.5,
+        "text": "Physical time / seconds",
+        "width": 38.671905517578125,
+        "x": 231.67312622070312,
+        "y": 450.1527099609375
+      },
+      {
+        "height": 5,
+        "text": "Whole water: 370.000 mL",
+        "width": 50.11717224121094,
+        "x": 185.63636779785156,
+        "y": 456.061767578125
+      },
+      {
+        "height": 4.5,
+        "text": "Label source / bed / receiver",
+        "width": 46.7734375,
+        "x": 185.63636779785156,
+        "y": 464.7654418945313
+      },
+      {
+        "height": 5,
+        "text": "63.823 / 36.177 / 0.000 mL",
+        "width": 52.32029724121094,
+        "x": 185.63636779785156,
+        "y": 471.9563293457031
+      },
+      {
+        "height": 4.500030517578125,
+        "text": "Time 5.653 s · flow running",
+        "width": 44.84375,
+        "x": 185.63636779785156,
+        "y": 480.9163208007813
+      },
+      {
+        "height": 3.570556640625,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 88.71875762939453,
+        "x": 26.690908432006836,
+        "y": 491.92724609375
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480 L776.9166666666666,464.32 L787.3209000000393,454.6763519999636",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480 L776.9166666666666,480 L787.3209000000393,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "40.377687074963234",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "15.828 mL labelled",
+      "0.000 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "5.973133333341498"
+    ],
+    "points": [
+      {
+        "cx": "119.79850000006124",
+        "cy": "1097.0631679999688",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "119.79850000006124",
+        "cy": "1120",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "9.557013333346397",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "630.4429866666536"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "30.885973333307206",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "249.11402666669278"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 5.973 seconds. Receiver 38.228 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 38.228 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 461.328125,
+      "width": 282,
+      "x": 19,
+      "y": 297.5390625
+    },
+    "texts": [
+      {
+        "height": 5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 84.6328125,
+        "x": 64.18569946289062,
+        "y": 304.89483642578125
+      },
+      {
+        "height": 11,
+        "text": "Follow the parcel. Account for water.",
+        "width": 155.078125,
+        "x": 64.18569946289062,
+        "y": 314.08953857421875
+      },
+      {
+        "height": 7.5,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 134.8359375,
+        "x": 64.18569946289062,
+        "y": 329.8647766113281
+      },
+      {
+        "height": 8.5,
+        "text": "Labelled feed",
+        "width": 41.8671875,
+        "x": 85.83624267578125,
+        "y": 345.5435791015625
+      },
+      {
+        "height": 8.5,
+        "text": "61.772 mL",
+        "width": 32.09374237060547,
+        "x": 90.72296142578124,
+        "y": 372.1586608886719
+      },
+      {
+        "height": 8.5,
+        "text": "Clear chase",
+        "width": 36.59375,
+        "x": 194.93328857421875,
+        "y": 345.5435791015625
+      },
+      {
+        "height": 8.5,
+        "text": "200.000 mL",
+        "width": 38.1875,
+        "x": 194.1364288330078,
+        "y": 372.1586608886719
+      },
+      {
+        "height": 7.5,
+        "text": "Inlet head 10 cm",
+        "width": 46.625,
+        "x": 64.18569946289062,
+        "y": 405.8064880371094
+      },
+      {
+        "height": 7.5,
+        "text": "Gravel",
+        "width": 17.2109375,
+        "x": 183.06642150878903,
+        "y": 418.2268676757813
+      },
+      {
+        "height": 6.5,
+        "text": "22.400 mL labelled",
+        "width": 49.34373474121094,
+        "x": 183.06642150878903,
+        "y": 426.5339660644531
+      },
+      {
+        "height": 7.500030517578125,
+        "text": "Sand",
+        "width": 13.78125,
+        "x": 183.06642150878903,
+        "y": 435.9702453613281
+      },
+      {
+        "height": 6.5,
+        "text": "15.828 mL labelled",
+        "width": 48.37498474121094,
+        "x": 183.06642150878903,
+        "y": 444.27734375
+      },
+      {
+        "height": 7.5,
+        "text": "Carbon granules",
+        "width": 44.59375,
+        "x": 183.06642150878903,
+        "y": 453.713623046875
+      },
+      {
+        "height": 6.5,
+        "text": "0.000 mL labelled",
+        "width": 45.9140625,
+        "x": 183.06642150878903,
+        "y": 462.020751953125
+      },
+      {
+        "height": 8.5,
+        "text": "Receiver 38.228 mL",
+        "width": 62.38282012939453,
+        "x": 111.0652084350586,
+        "y": 528.3004760742188
+      },
+      {
+        "height": 10,
+        "text": "Collected water / mL",
+        "width": 80.94532012939453,
+        "x": 80.15474700927734,
+        "y": 597.5643310546875
+      },
+      {
+        "height": 7.5,
+        "text": "Total grey · labelled cyan",
+        "width": 70.14844512939453,
+        "x": 80.15474700927734,
+        "y": 610.9201049804688
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.46875,
+        "x": 73.13732147216797,
+        "y": 691.265380859375
+      },
+      {
+        "height": 6.5,
+        "text": "150",
+        "width": 9.3828125,
+        "x": 67.22325897216797,
+        "y": 659.3272705078125
+      },
+      {
+        "height": 6.5,
+        "text": "300",
+        "width": 10.375,
+        "x": 66.23107147216797,
+        "y": 627.38916015625
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.46875,
+        "x": 78.42037200927734,
+        "y": 698.3626708984375
+      },
+      {
+        "height": 6.5,
+        "text": "30",
+        "width": 6.9140625,
+        "x": 156.54296875,
+        "y": 698.3626708984375
+      },
+      {
+        "height": 6.5,
+        "text": "60",
+        "width": 6.9687347412109375,
+        "x": 236.3608856201172,
+        "y": 698.3626708984375
+      },
+      {
+        "height": 7.50006103515625,
+        "text": "Physical time / seconds",
+        "width": 66.50000762939453,
+        "x": 126.75000762939452,
+        "y": 708.5086669921875
+      },
+      {
+        "height": 8.5,
+        "text": "Whole water: 370.000 mL",
+        "width": 80.1875,
+        "x": 64.18569946289062,
+        "y": 551.3668823242188
+      },
+      {
+        "height": 7.5,
+        "text": "Label source / bed / receiver",
+        "width": 80.2578125,
+        "x": 64.18569946289062,
+        "y": 563.72265625
+      },
+      {
+        "height": 8.5,
+        "text": "61.772 / 38.228 / 0.000 mL",
+        "width": 83.765625,
+        "x": 64.18569946289062,
+        "y": 573.36865234375
+      },
+      {
+        "height": 7.5,
+        "text": "Time 5.973 s · flow running",
+        "width": 76.5390625,
+        "x": 64.18569946289062,
+        "y": 586.079345703125
+      },
+      {
+        "height": 6.552978515625,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 156.859375,
+        "x": 64.18569946289062,
+        "y": 744.850341796875
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L119.79850000006124,1097.0631679999688",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L119.79850000006124,1120",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "47.08789115659591",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "18.458 mL labelled",
+      "0.000 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "6.3841333333415"
+    ],
+    "points": [
+      {
+        "cx": "790.8566444444839",
+        "cy": "451.3990826666301",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "790.8566444444839",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "10.2146133333464",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "629.7853866666536"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "29.570773333307198",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "250.4292266666928"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 6.384 seconds. Receiver 40.858 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 40.858 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 217.5,
+      "width": 352,
+      "x": 19,
+      "y": 300.0390625
+    },
+    "texts": [
+      {
+        "height": 4.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 72.09374237060547,
+        "x": 37.91666412353515,
+        "y": 306.2057189941406
+      },
+      {
+        "height": 11.5,
+        "text": "Follow the parcel. Account for water.",
+        "width": 162.2578125,
+        "x": 37.91666412353515,
+        "y": 312.2890625
+      },
+      {
+        "height": 5,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 92.59374237060548,
+        "x": 37.91666412353515,
+        "y": 328.6640625
+      },
+      {
+        "height": 6.5,
+        "text": "Labelled feed",
+        "width": 32.7265625,
+        "x": 57.80338287353515,
+        "y": 341.3619689941406
+      },
+      {
+        "height": 6.5,
+        "text": "59.142 mL",
+        "width": 25.4140625,
+        "x": 61.45963287353515,
+        "y": 364.0182189941406
+      },
+      {
+        "height": 6.5,
+        "text": "Clear chase",
+        "width": 28.5390625,
+        "x": 150.52212524414062,
+        "y": 341.3619689941406
+      },
+      {
+        "height": 6.5,
+        "text": "200.000 mL",
+        "width": 29.5234375,
+        "x": 150.02993774414062,
+        "y": 364.0182189941406
+      },
+      {
+        "height": 5,
+        "text": "Inlet head 10 cm",
+        "width": 31.94532012939453,
+        "x": 37.91666412353515,
+        "y": 393.3098754882813
+      },
+      {
+        "height": 5.5,
+        "text": "Gravel",
+        "width": 13.960922241210938,
+        "x": 139.11459350585938,
+        "y": 403.3828125
+      },
+      {
+        "height": 5,
+        "text": "22.400 mL labelled",
+        "width": 35.10154724121094,
+        "x": 139.11459350585938,
+        "y": 410.5286254882813
+      },
+      {
+        "height": 5.5,
+        "text": "Sand",
+        "width": 11.156234741210938,
+        "x": 139.11459350585938,
+        "y": 418.4869995117187
+      },
+      {
+        "height": 5,
+        "text": "18.458 mL labelled",
+        "width": 34.60154724121094,
+        "x": 139.11459350585938,
+        "y": 425.6328125
+      },
+      {
+        "height": 5.500030517578125,
+        "text": "Carbon granules",
+        "width": 36.140625,
+        "x": 139.11459350585938,
+        "y": 433.5911254882813
+      },
+      {
+        "height": 5,
+        "text": "0.000 mL labelled",
+        "width": 32.66404724121094,
+        "x": 139.11459350585938,
+        "y": 440.7369689941406
+      },
+      {
+        "height": 6.5,
+        "text": "Receiver 40.858 mL",
+        "width": 48.78125,
+        "x": 79.984375,
+        "y": 496.9348754882813
+      },
+      {
+        "height": 8,
+        "text": "Collected water / mL",
+        "width": 66.0546875,
+        "x": 258.4375,
+        "y": 353.3515625
+      },
+      {
+        "height": 5,
+        "text": "Total grey · labelled cyan",
+        "width": 48.2421875,
+        "x": 258.4375,
+        "y": 365.5182495117187
+      },
+      {
+        "height": 4.499969482421875,
+        "text": "0",
+        "width": 2.2890472412109375,
+        "x": 253.12759399414065,
+        "y": 443.0494995117187
+      },
+      {
+        "height": 4.5,
+        "text": "150",
+        "width": 6.2109527587890625,
+        "x": 249.20571899414065,
+        "y": 411.3307189941406
+      },
+      {
+        "height": 4.5,
+        "text": "300",
+        "width": 6.8437347412109375,
+        "x": 248.57290649414065,
+        "y": 379.6119689941406
+      },
+      {
+        "height": 4.5,
+        "text": "0",
+        "width": 2.2890625,
+        "x": 257.29296875,
+        "y": 449.0911560058594
+      },
+      {
+        "height": 4.5,
+        "text": "30",
+        "width": 4.5625,
+        "x": 299.9583435058594,
+        "y": 449.0911560058594
+      },
+      {
+        "height": 4.5,
+        "text": "60",
+        "width": 4.59375,
+        "x": 343.7447814941406,
+        "y": 449.0911560058594
+      },
+      {
+        "height": 5,
+        "text": "Physical time / seconds",
+        "width": 45.578125,
+        "x": 279.4505310058594,
+        "y": 457.6536254882813
+      },
+      {
+        "height": 6,
+        "text": "Whole water: 370.000 mL",
+        "width": 59.08592224121094,
+        "x": 225.2083282470703,
+        "y": 464.2057189941406
+      },
+      {
+        "height": 5,
+        "text": "Label source / bed / receiver",
+        "width": 55.12501525878906,
+        "x": 225.2083282470703,
+        "y": 474.8723754882813
+      },
+      {
+        "height": 6,
+        "text": "59.142 / 40.858 / 0.000 mL",
+        "width": 62.24220275878906,
+        "x": 225.2083282470703,
+        "y": 482.9349060058594
+      },
+      {
+        "height": 5,
+        "text": "Time 6.384 s · flow running",
+        "width": 53.07032775878906,
+        "x": 225.2083282470703,
+        "y": 493.9036254882813
+      },
+      {
+        "height": 4.5,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 104.58592987060548,
+        "x": 37.91666412353515,
+        "y": 506.7890625
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480 L776.9166666666666,464.32 L790.8566444444839,451.3990826666301",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480 L776.9166666666666,480 L790.8566444444839,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "1.7847619048555696",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "0.999 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "6.718666666674864"
+    ],
+    "points": [
+      {
+        "cx": "125.39000000006148",
+        "cy": "1094.2003199999685",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "125.39000000006148",
+        "cy": "1120",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "10.74986666667978",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "629.2501333333203"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "28.50026666664044",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "251.49973333335956"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 6.719 seconds. Receiver 42.999 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 42.999 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 585.7734375,
+      "width": 352,
+      "x": 19,
+      "y": 297.5390625
+    },
+    "texts": [
+      {
+        "height": 6,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 107.50000762939452,
+        "x": 73.33936309814453,
+        "y": 306.9580993652344
+      },
+      {
+        "height": 14,
+        "text": "Follow the parcel. Account for water.",
+        "width": 196.9375,
+        "x": 73.33936309814453,
+        "y": 318.4819030761719
+      },
+      {
+        "height": 9.5,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 171.2578125,
+        "x": 73.33936309814453,
+        "y": 338.20330810546875
+      },
+      {
+        "height": 10.5,
+        "text": "Labelled feed",
+        "width": 53.16407012939453,
+        "x": 100.82872772216795,
+        "y": 358.88128662109375
+      },
+      {
+        "height": 10.5,
+        "text": "57.001 mL",
+        "width": 40.53125762939453,
+        "x": 107.14513397216795,
+        "y": 392.6759033203125
+      },
+      {
+        "height": 10.5,
+        "text": "Clear chase",
+        "width": 46.46873474121094,
+        "x": 239.35487365722656,
+        "y": 358.88128662109375
+      },
+      {
+        "height": 10.5,
+        "text": "200.000 mL",
+        "width": 48.49220275878906,
+        "x": 238.34315490722656,
+        "y": 392.6759033203125
+      },
+      {
+        "height": 9.500030517578123,
+        "text": "Inlet head 10 cm",
+        "width": 59.21092987060547,
+        "x": 73.33936309814453,
+        "y": 434.6306457519531
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Gravel",
+        "width": 21.867202758789062,
+        "x": 224.28868103027344,
+        "y": 450.9014587402344
+      },
+      {
+        "height": 8.5,
+        "text": "22.400 mL labelled",
+        "width": 62.64842224121094,
+        "x": 224.28868103027344,
+        "y": 461.3145751953125
+      },
+      {
+        "height": 9,
+        "text": "Sand",
+        "width": 17.507827758789062,
+        "x": 224.28868103027344,
+        "y": 473.43121337890625
+      },
+      {
+        "height": 8.5,
+        "text": "19.600 mL labelled",
+        "width": 61.58592224121094,
+        "x": 224.28868103027344,
+        "y": 483.84429931640625
+      },
+      {
+        "height": 9.000030517578125,
+        "text": "Carbon granules",
+        "width": 56.64064025878906,
+        "x": 224.28868103027344,
+        "y": 495.9609375
+      },
+      {
+        "height": 8.5,
+        "text": "0.999 mL labelled",
+        "width": 58.43748474121094,
+        "x": 224.28868103027344,
+        "y": 506.37408447265625
+      },
+      {
+        "height": 10.5,
+        "text": "Receiver 42.999 mL",
+        "width": 79.7890625,
+        "x": 132.5757293701172,
+        "y": 590.9376831054688
+      },
+      {
+        "height": 13,
+        "text": "Collected water / mL",
+        "width": 102.7578125,
+        "x": 93.61613464355467,
+        "y": 678.155517578125
+      },
+      {
+        "height": 9.50299072265625,
+        "text": "Total grey · labelled cyan",
+        "width": 89.1015625,
+        "x": 93.61613464355467,
+        "y": 695.0745239257812
+      },
+      {
+        "height": 8.49993896484375,
+        "text": "0",
+        "width": 4.3984375,
+        "x": 84.71175384521484,
+        "y": 797.4584350585938
+      },
+      {
+        "height": 8.5,
+        "text": "150",
+        "width": 11.914070129394531,
+        "x": 77.19612121582031,
+        "y": 756.9048461914062
+      },
+      {
+        "height": 8.5,
+        "text": "300",
+        "width": 13.171875,
+        "x": 75.93830871582031,
+        "y": 716.351318359375
+      },
+      {
+        "height": 8.5,
+        "text": "0",
+        "width": 4.3984375,
+        "x": 91.41691589355467,
+        "y": 806.4702758789062
+      },
+      {
+        "height": 8.5,
+        "text": "30",
+        "width": 8.781265258789062,
+        "x": 190.609375,
+        "y": 806.4702758789062
+      },
+      {
+        "height": 8.5,
+        "text": "60",
+        "width": 8.8515625,
+        "x": 291.95806884765625,
+        "y": 806.4702758789062
+      },
+      {
+        "height": 9.5,
+        "text": "Physical time / seconds",
+        "width": 84.4609375,
+        "x": 152.76953125,
+        "y": 818.9881591796875
+      },
+      {
+        "height": 10.5,
+        "text": "Whole water: 370.000 mL",
+        "width": 101.81250762939452,
+        "x": 73.33936309814453,
+        "y": 620.226318359375
+      },
+      {
+        "height": 9.5,
+        "text": "Label source / bed / receiver",
+        "width": 101.94532012939452,
+        "x": 73.33936309814453,
+        "y": 635.1453857421875
+      },
+      {
+        "height": 10.5,
+        "text": "57.001 / 42.999 / 0.000 mL",
+        "width": 106.71094512939452,
+        "x": 73.33936309814453,
+        "y": 648.1632080078125
+      },
+      {
+        "height": 9.50299072265625,
+        "text": "Time 6.719 s · flow running",
+        "width": 96.34375762939452,
+        "x": 73.33936309814453,
+        "y": 663.5328979492188
+      },
+      {
+        "height": 8.49993896484375,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 199.1484375,
+        "x": 73.33936309814453,
+        "y": 865.498291015625
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L124.21875,1094.8 L125.39000000006148,1094.2003199999685",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L124.21875,1120 L125.39000000006148,1120",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "6.479619047712415",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "3.629 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "7.129466666674837"
+    ],
+    "points": [
+      {
+        "cx": "794.4590888889284",
+        "cy": "448.05998933329676",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "794.4590888889284",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "11.407146666679738",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "628.5928533333202"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "27.185706666640524",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "252.81429333335947"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 7.129 seconds. Receiver 45.629 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 45.629 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 270.25,
+      "width": 556,
+      "x": 237,
+      "y": 229.7890625
+    },
+    "texts": [
+      {
+        "height": 5.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 89.5078125,
+        "x": 319.8194580078125,
+        "y": 237.3001708984375
+      },
+      {
+        "height": 14,
+        "text": "Follow the parcel. Account for water.",
+        "width": 201.625,
+        "x": 319.8194580078125,
+        "y": 245.3140563964844
+      },
+      {
+        "height": 6,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 115.0546875,
+        "x": 319.8194580078125,
+        "y": 265.3265686035156
+      },
+      {
+        "height": 8,
+        "text": "Labelled feed",
+        "width": 40.671875,
+        "x": 344.5251770019531,
+        "y": 281.4678955078125
+      },
+      {
+        "height": 8,
+        "text": "54.371 mL",
+        "width": 31.34375,
+        "x": 349.1892395019531,
+        "y": 309.6189270019531
+      },
+      {
+        "height": 8,
+        "text": "Clear chase",
+        "width": 35.4765625,
+        "x": 459.72698974609375,
+        "y": 281.4678955078125
+      },
+      {
+        "height": 8,
+        "text": "200.000 mL",
+        "width": 36.6953125,
+        "x": 459.11761474609375,
+        "y": 309.6189270019531
+      },
+      {
+        "height": 6,
+        "text": "Inlet head 10 cm",
+        "width": 39.703125,
+        "x": 319.8194580078125,
+        "y": 345.65087890625
+      },
+      {
+        "height": 7.5,
+        "text": "Gravel",
+        "width": 17.3515625,
+        "x": 445.5607604980469,
+        "y": 357.78802490234375
+      },
+      {
+        "height": 5.5,
+        "text": "22.400 mL labelled",
+        "width": 43.5859375,
+        "x": 445.5607604980469,
+        "y": 367.545654296875
+      },
+      {
+        "height": 7.5,
+        "text": "Sand",
+        "width": 13.8671875,
+        "x": 445.5607604980469,
+        "y": 376.5553894042969
+      },
+      {
+        "height": 5.500030517578125,
+        "text": "19.600 mL labelled",
+        "width": 42.8671875,
+        "x": 445.5607604980469,
+        "y": 386.3130187988281
+      },
+      {
+        "height": 7.5,
+        "text": "Carbon granules",
+        "width": 44.9296875,
+        "x": 445.5607604980469,
+        "y": 395.32275390625
+      },
+      {
+        "height": 5.5,
+        "text": "3.629 mL labelled",
+        "width": 40.515655517578125,
+        "x": 445.5607604980469,
+        "y": 405.0803833007813
+      },
+      {
+        "height": 8,
+        "text": "Receiver 45.629 mL",
+        "width": 60.4375,
+        "x": 372.1770629882813,
+        "y": 474.7716979980469
+      },
+      {
+        "height": 10.5,
+        "text": "Collected water / mL",
+        "width": 82.07818603515625,
+        "x": 593.8228759765625,
+        "y": 295.6078186035156
+      },
+      {
+        "height": 6,
+        "text": "Total grey · labelled cyan",
+        "width": 59.9453125,
+        "x": 593.8228759765625,
+        "y": 311.1189270019531
+      },
+      {
+        "height": 5.500030517578125,
+        "text": "0",
+        "width": 2.8359375,
+        "x": 587.2335205078125,
+        "y": 407.33245849609375
+      },
+      {
+        "height": 5.5,
+        "text": "150",
+        "width": 7.7109375,
+        "x": 582.3585205078125,
+        "y": 367.9210205078125
+      },
+      {
+        "height": 5.5,
+        "text": "300",
+        "width": 8.4921875,
+        "x": 581.5772705078125,
+        "y": 328.5095520019531
+      },
+      {
+        "height": 5.5,
+        "text": "0",
+        "width": 2.8359375,
+        "x": 592.4049072265625,
+        "y": 414.83941650390625
+      },
+      {
+        "height": 5.5,
+        "text": "30",
+        "width": 5.65625,
+        "x": 645.420166015625,
+        "y": 414.83941650390625
+      },
+      {
+        "height": 5.5,
+        "text": "60",
+        "width": 5.70306396484375,
+        "x": 699.8220825195312,
+        "y": 414.83941650390625
+      },
+      {
+        "height": 5.999969482421875,
+        "text": "Physical time / seconds",
+        "width": 56.6328125,
+        "x": 619.931884765625,
+        "y": 425.599853515625
+      },
+      {
+        "height": 7.500030517578125,
+        "text": "Whole water: 370.000 mL",
+        "width": 73.4140625,
+        "x": 552.5347290039062,
+        "y": 433.9834899902344
+      },
+      {
+        "height": 6,
+        "text": "Label source / bed / receiver",
+        "width": 68.5,
+        "x": 552.5347290039062,
+        "y": 446.99462890625
+      },
+      {
+        "height": 7.5,
+        "text": "54.371 / 45.629 / 0.000 mL",
+        "width": 76.89068603515625,
+        "x": 552.5347290039062,
+        "y": 457.2550659179687
+      },
+      {
+        "height": 6,
+        "text": "Time 7.129 s · flow running",
+        "width": 64.140625,
+        "x": 552.5347290039062,
+        "y": 470.6414794921875
+      },
+      {
+        "height": 5.5,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 129.8359375,
+        "x": 319.8194580078125,
+        "y": 486.5307312011719
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480 L776.9166666666666,464.32 L791.71875,450.6 L794.4590888889284,448.05998933329676",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480 L776.9166666666666,480 L791.71875,480 L794.4590888889284,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "9.781714285806963",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "5.478 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "7.41840000000811"
+    ],
+    "points": [
+      {
+        "cx": "130.63800000006083",
+        "cy": "1091.5133439999688",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "130.63800000006083",
+        "cy": "1120",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "11.869440000012975",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "628.130559999987"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "26.26111999997405",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "253.73888000002594"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 7.418 seconds. Receiver 47.478 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 47.478 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 760,
+      "width": 480,
+      "x": 275,
+      "y": 227.2890625
+    },
+    "texts": [
+      {
+        "height": 8.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 139.5078125,
+        "x": 357.1538391113281,
+        "y": 238.9967498779297
+      },
+      {
+        "height": 17.500015258789062,
+        "text": "Follow the parcel. Account for water.",
+        "width": 255.52340698242188,
+        "x": 357.1538391113281,
+        "y": 254.88136291503903
+      },
+      {
+        "height": 12,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 222.14840698242188,
+        "x": 357.1538391113281,
+        "y": 280.4275207519531
+      },
+      {
+        "height": 14,
+        "text": "Labelled feed",
+        "width": 68.9765625,
+        "x": 392.81939697265625,
+        "y": 306.4044494628906
+      },
+      {
+        "height": 14,
+        "text": "52.522 mL",
+        "width": 55.2109375,
+        "x": 399.70220947265625,
+        "y": 350.2506103515625
+      },
+      {
+        "height": 14,
+        "text": "Clear chase",
+        "width": 60.2890625,
+        "x": 572.5477294921875,
+        "y": 306.4044494628906
+      },
+      {
+        "height": 14,
+        "text": "200.000 mL",
+        "width": 62.90618896484375,
+        "x": 571.2391967773438,
+        "y": 350.2506103515625
+      },
+      {
+        "height": 12,
+        "text": "Inlet head 10 cm",
+        "width": 76.8046875,
+        "x": 357.1538391113281,
+        "y": 405.53521728515625
+      },
+      {
+        "height": 11.5,
+        "text": "Gravel",
+        "width": 28.359375,
+        "x": 553,
+        "y": 426.4967651367187
+      },
+      {
+        "height": 11,
+        "text": "22.400 mL labelled",
+        "width": 81.2890625,
+        "x": 553,
+        "y": 439.8582763671875
+      },
+      {
+        "height": 11.5,
+        "text": "Sand",
+        "width": 22.703125,
+        "x": 553,
+        "y": 455.7275390625
+      },
+      {
+        "height": 11,
+        "text": "19.600 mL labelled",
+        "width": 79.9140625,
+        "x": 553,
+        "y": 469.0890502929687
+      },
+      {
+        "height": 11.5,
+        "text": "Carbon granules",
+        "width": 73.4609375,
+        "x": 553,
+        "y": 484.9582824707031
+      },
+      {
+        "height": 11,
+        "text": "5.478 mL labelled",
+        "width": 75.1640625,
+        "x": 553,
+        "y": 498.3198547363281
+      },
+      {
+        "height": 14,
+        "text": "Receiver 47.478 mL",
+        "width": 101.15625,
+        "x": 435.1911010742187,
+        "y": 607.4813232421875
+      },
+      {
+        "height": 16.5,
+        "text": "Collected water / mL",
+        "width": 133.3671875,
+        "x": 383.4615478515625,
+        "y": 721.2352294921875
+      },
+      {
+        "height": 12,
+        "text": "Total grey · labelled cyan",
+        "width": 115.578125,
+        "x": 383.4615478515625,
+        "y": 743.44287109375
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 371.9044494628906,
+        "y": 875.9813232421875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "150",
+        "width": 15.4609375,
+        "x": 362.1544494628906,
+        "y": 823.3660278320312
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "300",
+        "width": 17.09375,
+        "x": 360.5216369628906,
+        "y": 770.7505493164062
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 380.6060791015625,
+        "y": 887.6736450195312
+      },
+      {
+        "height": 11,
+        "text": "30",
+        "width": 11.390625,
+        "x": 509.3046875,
+        "y": 887.6736450195312
+      },
+      {
+        "height": 11,
+        "text": "60",
+        "width": 11.484375,
+        "x": 640.7962646484375,
+        "y": 887.6736450195312
+      },
+      {
+        "height": 12,
+        "text": "Physical time / seconds",
+        "width": 109.5625,
+        "x": 460.21875,
+        "y": 904.2120971679688
+      },
+      {
+        "height": 14,
+        "text": "Whole water: 370.000 mL",
+        "width": 132.09375,
+        "x": 357.1538391113281,
+        "y": 645.4813232421875
+      },
+      {
+        "height": 12,
+        "text": "Label source / bed / receiver",
+        "width": 132.234375,
+        "x": 357.1538391113281,
+        "y": 665.6890869140625
+      },
+      {
+        "height": 14,
+        "text": "52.522 / 47.478 / 0.000 mL",
+        "width": 138.7109375,
+        "x": 357.1538391113281,
+        "y": 681.7275390625
+      },
+      {
+        "height": 11.99993896484375,
+        "text": "Time 7.418 s · flow running",
+        "width": 124.234375,
+        "x": 357.1538391113281,
+        "y": 702.5198974609375
+      },
+      {
+        "height": 11,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 258.4374694824219,
+        "x": 357.1538391113281,
+        "y": 964.25830078125
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L124.21875,1094.8 L130.63800000006083,1091.5133439999688",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L124.21875,1120 L130.63800000006083,1120",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "14.344000000093038",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "8.033 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "7.817600000008141"
+    ],
+    "points": [
+      {
+        "cx": "797.785066666706",
+        "cy": "444.97715199996355",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "797.785066666706",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "12.508160000013024",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "627.491839999987"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "24.98367999997395",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "255.01632000002604"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 7.818 seconds. Receiver 50.033 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 50.033 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 332.6875,
+      "width": 667,
+      "x": 289,
+      "y": 204.7421875
+    },
+    "texts": [
+      {
+        "height": 6.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 110.1953125,
+        "x": 382.2257080078125,
+        "y": 214.02830505371097
+      },
+      {
+        "height": 17.5,
+        "text": "Follow the parcel. Account for water.",
+        "width": 248.2109375,
+        "x": 382.2257080078125,
+        "y": 223.5109405517578
+      },
+      {
+        "height": 8.000015258789062,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 141.6796875,
+        "x": 382.2257080078125,
+        "y": 248.1453094482422
+      },
+      {
+        "height": 10.000030517578123,
+        "text": "Labelled feed",
+        "width": 50.0625,
+        "x": 412.6423645019531,
+        "y": 268.3623962402344
+      },
+      {
+        "height": 10,
+        "text": "49.967 mL",
+        "width": 40.140625,
+        "x": 417.6033020019531,
+        "y": 303.0173645019531
+      },
+      {
+        "height": 10.000030517578123,
+        "text": "Clear chase",
+        "width": 43.6640625,
+        "x": 554.4613647460938,
+        "y": 268.3623962402344
+      },
+      {
+        "height": 10,
+        "text": "200.000 mL",
+        "width": 45.16400146484375,
+        "x": 553.71142578125,
+        "y": 303.0173645019531
+      },
+      {
+        "height": 8,
+        "text": "Inlet head 10 cm",
+        "width": 48.890625,
+        "x": 382.2257080078125,
+        "y": 347.0274353027344
+      },
+      {
+        "height": 8.5,
+        "text": "Gravel",
+        "width": 21.3515625,
+        "x": 537.017822265625,
+        "y": 362.6997375488281
+      },
+      {
+        "height": 7.5,
+        "text": "22.400 mL labelled",
+        "width": 53.6953125,
+        "x": 537.017822265625,
+        "y": 373.86517333984375
+      },
+      {
+        "height": 8.5,
+        "text": "Sand",
+        "width": 17.0625,
+        "x": 537.017822265625,
+        "y": 385.8030395507813
+      },
+      {
+        "height": 7.5,
+        "text": "19.600 mL labelled",
+        "width": 52.8046875,
+        "x": 537.017822265625,
+        "y": 396.968505859375
+      },
+      {
+        "height": 8.5,
+        "text": "Carbon granules",
+        "width": 55.296875,
+        "x": 537.017822265625,
+        "y": 408.90631103515625
+      },
+      {
+        "height": 7.5,
+        "text": "8.033 mL labelled",
+        "width": 50.0234375,
+        "x": 537.017822265625,
+        "y": 420.07177734375
+      },
+      {
+        "height": 10.000030517578123,
+        "text": "Receiver 50.033 mL",
+        "width": 74.296875,
+        "x": 446.7317504882813,
+        "y": 506.3263854980469
+      },
+      {
+        "height": 12.5,
+        "text": "Collected water / mL",
+        "width": 101.05474853515624,
+        "x": 719.5338134765625,
+        "y": 285.73126220703125
+      },
+      {
+        "height": 8,
+        "text": "Total grey · labelled cyan",
+        "width": 73.8203125,
+        "x": 719.5338134765625,
+        "y": 304.5173645019531
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.4921875,
+        "x": 711.4210205078125,
+        "y": 423.34417724609375
+      },
+      {
+        "height": 6.5,
+        "text": "150",
+        "width": 9.484375,
+        "x": 705.4288330078125,
+        "y": 374.8272705078125
+      },
+      {
+        "height": 6.5,
+        "text": "300",
+        "width": 10.453125,
+        "x": 704.4600830078125,
+        "y": 326.3103332519531
+      },
+      {
+        "height": 6.5,
+        "text": "0",
+        "width": 3.49212646484375,
+        "x": 717.7877807617188,
+        "y": 432.58551025390625
+      },
+      {
+        "height": 6.5,
+        "text": "30",
+        "width": 6.96875,
+        "x": 783.049072265625,
+        "y": 432.58551025390625
+      },
+      {
+        "height": 6.5,
+        "text": "60",
+        "width": 7.0234375,
+        "x": 850.021240234375,
+        "y": 432.58551025390625
+      },
+      {
+        "height": 8,
+        "text": "Physical time / seconds",
+        "width": 69.74212646484375,
+        "x": 751.662353515625,
+        "y": 445.4474792480469
+      },
+      {
+        "height": 9,
+        "text": "Whole water: 370.000 mL",
+        "width": 90.39056396484376,
+        "x": 668.7066040039062,
+        "y": 455.99908447265625
+      },
+      {
+        "height": 8,
+        "text": "Label source / bed / receiver",
+        "width": 84.3515625,
+        "x": 668.7066040039062,
+        "y": 471.7852478027344
+      },
+      {
+        "height": 9,
+        "text": "49.967 / 50.033 / 0.000 mL",
+        "width": 96.04681396484376,
+        "x": 668.7066040039062,
+        "y": 484.647216796875
+      },
+      {
+        "height": 8,
+        "text": "Time 7.818 s · flow running",
+        "width": 79.18743896484375,
+        "x": 668.7066040039062,
+        "y": 500.8953857421875
+      },
+      {
+        "height": 6.5279541015625,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 159.8359375,
+        "x": 382.2257080078125,
+        "y": 520.840087890625
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480 L776.9166666666666,464.32 L791.71875,450.6 L797.785066666706,444.97715199996355",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480 L776.9166666666666,480 L791.71875,480 L797.785066666706,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "17.886095238188492",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "10.016 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "8.127533333341495"
+    ],
+    "points": [
+      {
+        "cx": "135.95650000006123",
+        "cy": "1088.7902719999686",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "135.95650000006123",
+        "cy": "1120",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "13.004053333346388",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "626.9959466666536"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "23.99189333330722",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "256.00810666669275"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 8.128 seconds. Receiver 52.016 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 52.016 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 760,
+      "width": 480,
+      "x": 382.5,
+      "y": 202.2421875
+    },
+    "texts": [
+      {
+        "height": 8.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 139.50778198242188,
+        "x": 464.6538391113281,
+        "y": 213.9498748779297
+      },
+      {
+        "height": 17.500015258789062,
+        "text": "Follow the parcel. Account for water.",
+        "width": 255.52340698242188,
+        "x": 464.6538391113281,
+        "y": 229.83448791503903
+      },
+      {
+        "height": 12,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 222.14840698242188,
+        "x": 464.6538391113281,
+        "y": 255.38064575195312
+      },
+      {
+        "height": 14,
+        "text": "Labelled feed",
+        "width": 68.9765625,
+        "x": 500.31939697265625,
+        "y": 281.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "47.984 mL",
+        "width": 55.0859375,
+        "x": 507.26470947265625,
+        "y": 325.2037353515625
+      },
+      {
+        "height": 14,
+        "text": "Clear chase",
+        "width": 60.2890625,
+        "x": 680.0477294921875,
+        "y": 281.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "200.000 mL",
+        "width": 62.90618896484375,
+        "x": 678.7391967773438,
+        "y": 325.2037353515625
+      },
+      {
+        "height": 12,
+        "text": "Inlet head 10 cm",
+        "width": 76.80465698242188,
+        "x": 464.6538391113281,
+        "y": 380.48834228515625
+      },
+      {
+        "height": 11.5,
+        "text": "Gravel",
+        "width": 28.359375,
+        "x": 660.5,
+        "y": 401.4498901367187
+      },
+      {
+        "height": 11,
+        "text": "22.400 mL labelled",
+        "width": 81.2890625,
+        "x": 660.5,
+        "y": 414.8114013671875
+      },
+      {
+        "height": 11.5,
+        "text": "Sand",
+        "width": 22.703125,
+        "x": 660.5,
+        "y": 430.6806640625
+      },
+      {
+        "height": 11,
+        "text": "19.600 mL labelled",
+        "width": 79.9140625,
+        "x": 660.5,
+        "y": 444.0421752929687
+      },
+      {
+        "height": 11.5,
+        "text": "Carbon granules",
+        "width": 73.4609375,
+        "x": 660.5,
+        "y": 459.9114074707031
+      },
+      {
+        "height": 11,
+        "text": "10.016 mL labelled",
+        "width": 78.296875,
+        "x": 660.5,
+        "y": 473.2729797363281
+      },
+      {
+        "height": 14,
+        "text": "Receiver 52.016 mL",
+        "width": 101.0703125,
+        "x": 542.7340698242188,
+        "y": 582.4344482421875
+      },
+      {
+        "height": 16.5,
+        "text": "Collected water / mL",
+        "width": 133.3671875,
+        "x": 490.9615478515625,
+        "y": 696.1883544921875
+      },
+      {
+        "height": 12,
+        "text": "Total grey · labelled cyan",
+        "width": 115.578125,
+        "x": 490.9615478515625,
+        "y": 718.39599609375
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 479.4044494628906,
+        "y": 850.9344482421875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "150",
+        "width": 15.4609375,
+        "x": 469.6544494628906,
+        "y": 798.3191528320312
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "300",
+        "width": 17.09375,
+        "x": 468.0216369628906,
+        "y": 745.7036743164062
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 488.1060791015625,
+        "y": 862.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "30",
+        "width": 11.390625,
+        "x": 616.8046875,
+        "y": 862.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "60",
+        "width": 11.484375,
+        "x": 748.2962646484375,
+        "y": 862.6267700195312
+      },
+      {
+        "height": 12,
+        "text": "Physical time / seconds",
+        "width": 109.5625,
+        "x": 567.71875,
+        "y": 879.1652221679688
+      },
+      {
+        "height": 14,
+        "text": "Whole water: 370.000 mL",
+        "width": 132.09371948242188,
+        "x": 464.6538391113281,
+        "y": 620.4344482421875
+      },
+      {
+        "height": 12,
+        "text": "Label source / bed / receiver",
+        "width": 132.23434448242188,
+        "x": 464.6538391113281,
+        "y": 640.6422119140625
+      },
+      {
+        "height": 14,
+        "text": "47.984 / 52.016 / 0.000 mL",
+        "width": 138.50003051757812,
+        "x": 464.6538391113281,
+        "y": 656.6806640625
+      },
+      {
+        "height": 11.99993896484375,
+        "text": "Time 8.128 s · flow running",
+        "width": 125.38278198242188,
+        "x": 464.6538391113281,
+        "y": 677.4730224609375
+      },
+      {
+        "height": 11,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 258.4374694824219,
+        "x": 464.6538391113281,
+        "y": 939.21142578125
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L124.21875,1094.8 L135.95650000006123,1088.7902719999686",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L124.21875,1120 L135.95650000006123,1120",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "22.091809523902796",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "12.371 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "8.495533333341495"
+    ],
+    "points": [
+      {
+        "cx": "801.0617444444839",
+        "cy": "441.9400106666301",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "801.0617444444839",
+        "cy": "480",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "13.592853333346392",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "626.4071466666536"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "22.81429333330722",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "257.1857066666928"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 8.496 seconds. Receiver 54.371 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 54.371 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 1100 720"
+    },
+    "svgBox": {
+      "height": 640.9375,
+      "width": 1215,
+      "x": 335,
+      "y": 220.7421875
+    },
+    "texts": [
+      {
+        "height": 13,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 212.3984375,
+        "x": 479.6007080078125,
+        "y": 238.72830200195312
+      },
+      {
+        "height": 33.5,
+        "text": "Follow the parcel. Account for water.",
+        "width": 478.19525146484375,
+        "x": 479.6007080078125,
+        "y": 257.3359375
+      },
+      {
+        "height": 14.5,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 273.0546875,
+        "x": 479.6007080078125,
+        "y": 304.8828125
+      },
+      {
+        "height": 19.000030517578125,
+        "text": "Labelled feed",
+        "width": 96.4453125,
+        "x": 538.200927734375,
+        "y": 343.2217712402344
+      },
+      {
+        "height": 19,
+        "text": "45.629 mL",
+        "width": 77.640625,
+        "x": 547.603271484375,
+        "y": 409.986083984375
+      },
+      {
+        "height": 19.000030517578125,
+        "text": "Clear chase",
+        "width": 84.125,
+        "x": 811.4183959960938,
+        "y": 343.2217712402344
+      },
+      {
+        "height": 19,
+        "text": "200.000 mL",
+        "width": 87.0078125,
+        "x": 809.9769897460938,
+        "y": 409.986083984375
+      },
+      {
+        "height": 14.499969482421877,
+        "text": "Inlet head 10 cm",
+        "width": 94.2109375,
+        "x": 479.6007080078125,
+        "y": 495.3836669921875
+      },
+      {
+        "height": 16.99993896484375,
+        "text": "Gravel",
+        "width": 41.1484375,
+        "x": 777.814697265625,
+        "y": 524.5404052734375
+      },
+      {
+        "height": 13.5,
+        "text": "22.400 mL labelled",
+        "width": 103.43743896484376,
+        "x": 777.814697265625,
+        "y": 547.1245727539062
+      },
+      {
+        "height": 16.99993896484375,
+        "text": "Sand",
+        "width": 32.875,
+        "x": 777.814697265625,
+        "y": 569.0499267578125
+      },
+      {
+        "height": 13.5,
+        "text": "19.600 mL labelled",
+        "width": 101.73431396484376,
+        "x": 777.814697265625,
+        "y": 591.6340942382812
+      },
+      {
+        "height": 17,
+        "text": "Carbon granules",
+        "width": 106.546875,
+        "x": 777.814697265625,
+        "y": 613.5594482421875
+      },
+      {
+        "height": 13.49993896484375,
+        "text": "12.371 mL labelled",
+        "width": 99.00775146484376,
+        "x": 777.814697265625,
+        "y": 636.1436767578125
+      },
+      {
+        "height": 19,
+        "text": "Receiver 54.371 mL",
+        "width": 139.99212646484375,
+        "x": 605.4466552734375,
+        "y": 801.6701049804688
+      },
+      {
+        "height": 24.5,
+        "text": "Collected water / mL",
+        "width": 194.6875,
+        "x": 1129.4400634765625,
+        "y": 377
+      },
+      {
+        "height": 14.499969482421877,
+        "text": "Total grey · labelled cyan",
+        "width": 142.265625,
+        "x": 1129.4400634765625,
+        "y": 413.4861145019531
+      },
+      {
+        "height": 13,
+        "text": "0",
+        "width": 6.734375,
+        "x": 1113.8038330078125,
+        "y": 641.9848022460938
+      },
+      {
+        "height": 12.99993896484375,
+        "text": "150",
+        "width": 18.2890625,
+        "x": 1102.2491455078125,
+        "y": 548.5147705078125
+      },
+      {
+        "height": 13,
+        "text": "300",
+        "width": 20.1563720703125,
+        "x": 1100.3819580078125,
+        "y": 455.044677734375
+      },
+      {
+        "height": 13,
+        "text": "0",
+        "width": 6.734375,
+        "x": 1126.0728759765625,
+        "y": 659.7886352539062
+      },
+      {
+        "height": 13,
+        "text": "30",
+        "width": 13.4296875,
+        "x": 1251.802978515625,
+        "y": 659.7886352539062
+      },
+      {
+        "height": 13,
+        "text": "60",
+        "width": 13.53125,
+        "x": 1380.829833984375,
+        "y": 659.7886352539062
+      },
+      {
+        "height": 14.5,
+        "text": "Physical time / seconds",
+        "width": 134.40625,
+        "x": 1191.314697265625,
+        "y": 684.9943237304688
+      },
+      {
+        "height": 17.5,
+        "text": "Whole water: 370.000 mL",
+        "width": 174.09375,
+        "x": 1031.51904296875,
+        "y": 704.7490844726562
+      },
+      {
+        "height": 14.5,
+        "text": "Label source / bed / receiver",
+        "width": 162.5703125,
+        "x": 1031.51904296875,
+        "y": 735.7352294921875
+      },
+      {
+        "height": 17.5,
+        "text": "45.629 / 54.371 / 0.000 mL",
+        "width": 182.328125,
+        "x": 1031.51904296875,
+        "y": 759.9409790039062
+      },
+      {
+        "height": 14.5,
+        "text": "Time 8.496 s · flow running",
+        "width": 156.640625,
+        "x": 1031.51904296875,
+        "y": 791.8172607421875
+      },
+      {
+        "height": 12.99993896484375,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 308.1328125,
+        "x": 479.6007080078125,
+        "y": 829.8151245117188
+      }
+    ],
+    "traces": [
+      {
+        "d": "M760,480 L776.9166666666666,464.32 L791.71875,450.6 L801.0617444444839,441.9400106666301",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M760,480 L776.9166666666666,480 L791.71875,480 L801.0617444444839,480",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [
+      {
+        "data-bed-band": "gravel",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "340"
+      },
+      {
+        "data-bed-band": "sand",
+        "fill": "#38c9e7",
+        "height": "50",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "390"
+      },
+      {
+        "data-bed-band": "carbon",
+        "fill": "#38c9e7",
+        "height": "23.745904761997892",
+        "opacity": ".55",
+        "width": "149.27053303604617",
+        "x": "175.3647334819769",
+        "y": "440"
+      }
+    ],
+    "layerLabels": [
+      "22.400 mL labelled",
+      "19.600 mL labelled",
+      "13.298 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "8.640266666674815"
+    ],
+    "points": [
+      {
+        "cx": "139.80200000006113",
+        "cy": "1086.8213759999687",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "139.80200000006113",
+        "cy": "1120",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(200 65% 70%)",
+      "height": "13.824426666679704",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "626.1755733333202"
+    },
+    "source": [
+      {
+        "data-bed-source": "labelled",
+        "fill": "#36c4df",
+        "height": "22.35114666664059",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "50.264429899641826",
+        "y": "257.6488533333594"
+      },
+      {
+        "data-bed-source": "clear",
+        "fill": "#98bdc9",
+        "height": "100",
+        "opacity": ".4",
+        "width": "199.47114020071635",
+        "x": "350.2644298996418",
+        "y": "180"
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 8.640 seconds. Receiver 55.298 millilitres,including 0.000 labelled. Bed retains 70.000 millilitres of pore water,including 55.298 labelled. Flow running.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 760,
+      "width": 480,
+      "x": 702.5,
+      "y": 218.2421875
+    },
+    "texts": [
+      {
+        "height": 8.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 139.50775146484375,
+        "x": 784.6538696289062,
+        "y": 229.9498748779297
+      },
+      {
+        "height": 17.500015258789062,
+        "text": "Follow the parcel. Account for water.",
+        "width": 255.52337646484375,
+        "x": 784.6538696289062,
+        "y": 245.83448791503903
+      },
+      {
+        "height": 12,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 222.14837646484375,
+        "x": 784.6538696289062,
+        "y": 271.3806457519531
+      },
+      {
+        "height": 14,
+        "text": "Labelled feed",
+        "width": 68.9765625,
+        "x": 820.3193969726562,
+        "y": 297.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "44.702 mL",
+        "width": 55.265625,
+        "x": 827.1748657226562,
+        "y": 341.2037353515625
+      },
+      {
+        "height": 14,
+        "text": "Clear chase",
+        "width": 60.2890625,
+        "x": 1000.0477294921876,
+        "y": 297.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "200.000 mL",
+        "width": 62.90618896484375,
+        "x": 998.7391967773438,
+        "y": 341.2037353515625
+      },
+      {
+        "height": 12,
+        "text": "Inlet head 10 cm",
+        "width": 76.80462646484375,
+        "x": 784.6538696289062,
+        "y": 396.48834228515625
+      },
+      {
+        "height": 11.5,
+        "text": "Gravel",
+        "width": 28.359375,
+        "x": 980.5,
+        "y": 417.4498901367187
+      },
+      {
+        "height": 11,
+        "text": "22.400 mL labelled",
+        "width": 81.2890625,
+        "x": 980.5,
+        "y": 430.8114013671875
+      },
+      {
+        "height": 11.5,
+        "text": "Sand",
+        "width": 22.703125,
+        "x": 980.5,
+        "y": 446.6806640625
+      },
+      {
+        "height": 11,
+        "text": "19.600 mL labelled",
+        "width": 79.9140625,
+        "x": 980.5,
+        "y": 460.0421752929687
+      },
+      {
+        "height": 11.5,
+        "text": "Carbon granules",
+        "width": 73.4609375,
+        "x": 980.5,
+        "y": 475.9114074707031
+      },
+      {
+        "height": 11,
+        "text": "13.298 mL labelled",
+        "width": 79.8828125,
+        "x": 980.5,
+        "y": 489.2729797363281
+      },
+      {
+        "height": 14,
+        "text": "Receiver 55.298 mL",
+        "width": 102.921875,
+        "x": 861.8082885742188,
+        "y": 598.4344482421875
+      },
+      {
+        "height": 16.5,
+        "text": "Collected water / mL",
+        "width": 133.3671875,
+        "x": 810.9615478515625,
+        "y": 712.1883544921875
+      },
+      {
+        "height": 12,
+        "text": "Total grey · labelled cyan",
+        "width": 115.578125,
+        "x": 810.9615478515625,
+        "y": 734.39599609375
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 799.4044189453125,
+        "y": 866.9344482421875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "150",
+        "width": 15.4609375,
+        "x": 789.6544189453125,
+        "y": 814.3191528320312
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "300",
+        "width": 17.09375,
+        "x": 788.0216064453125,
+        "y": 761.7036743164062
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 808.1060791015625,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "30",
+        "width": 11.390625,
+        "x": 936.8046875,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "60",
+        "width": 11.484375,
+        "x": 1068.2962646484375,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 12,
+        "text": "Physical time / seconds",
+        "width": 109.5625,
+        "x": 887.71875,
+        "y": 895.1652221679688
+      },
+      {
+        "height": 14,
+        "text": "Whole water: 370.000 mL",
+        "width": 132.09368896484375,
+        "x": 784.6538696289062,
+        "y": 636.4344482421875
+      },
+      {
+        "height": 12,
+        "text": "Label source / bed / receiver",
+        "width": 132.23431396484375,
+        "x": 784.6538696289062,
+        "y": 656.6422119140625
+      },
+      {
+        "height": 14,
+        "text": "44.702 / 55.298 / 0.000 mL",
+        "width": 140.53118896484375,
+        "x": 784.6538696289062,
+        "y": 672.6806640625
+      },
+      {
+        "height": 11.99993896484375,
+        "text": "Time 8.640 s · flow running",
+        "width": 127.46087646484376,
+        "x": 784.6538696289062,
+        "y": 693.4730224609375
+      },
+      {
+        "height": 11,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 258.43743896484375,
+        "x": 784.6538696289062,
+        "y": 955.21142578125
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L124.21875,1094.8 L139.80200000006113,1086.8213759999687",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L124.21875,1120 L139.80200000006113,1120",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  },
+  {
+    "bands": [],
+    "layerLabels": [
+      "0.000 mL labelled",
+      "0.000 mL labelled",
+      "0.000 mL labelled"
+    ],
+    "parameters": [
+      "28",
+      "10",
+      "100",
+      "200",
+      "54.548066666675076"
+    ],
+    "points": [
+      {
+        "cx": "484.11050000006304",
+        "cy": "940",
+        "data-bed-point": "outletMl",
+        "fill": "#c9d6de",
+        "r": "4",
+        "stroke": "#c9d6de"
+      },
+      {
+        "cx": "484.11050000006304",
+        "cy": "1060",
+        "data-bed-point": "labelledOutletMl",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#4ad5e7"
+      }
+    ],
+    "receiver": {
+      "data-bed-receiver": "mixed",
+      "fill": "hsl(194 65% 63.333333333333336%)",
+      "height": "75",
+      "opacity": ".55",
+      "width": "282.0947917738781",
+      "x": "108.95260411306094",
+      "y": "565"
+    },
+    "source": [],
+    "svg": {
+      "aria-label": "Physical time 54.548 seconds. Receiver 300.000 millilitres,including 100.000 labelled. Bed retains 70.000 millilitres of pore water,including 0.000 labelled. Isolation valves closed.",
+      "data-bed-horizon": "60",
+      "data-bed-scale": "25",
+      "data-bed-top": "340",
+      "role": "img",
+      "viewBox": "0 0 600 1300"
+    },
+    "svgBox": {
+      "height": 760,
+      "width": 480,
+      "x": 702.5,
+      "y": 218.2421875
+    },
+    "texts": [
+      {
+        "height": 8.5,
+        "text": "SCIENCE ATLAS / WATER PATHS",
+        "width": 139.50775146484375,
+        "x": 784.6538696289062,
+        "y": 229.9498748779297
+      },
+      {
+        "height": 17.500015258789062,
+        "text": "Follow the parcel. Account for water.",
+        "width": 255.52337646484375,
+        "x": 784.6538696289062,
+        "y": 245.83448791503903
+      },
+      {
+        "height": 12,
+        "text": "Prewetted pores · colour tracks water,not purity",
+        "width": 222.14837646484375,
+        "x": 784.6538696289062,
+        "y": 271.3806457519531
+      },
+      {
+        "height": 14,
+        "text": "Labelled feed",
+        "width": 68.9765625,
+        "x": 820.3193969726562,
+        "y": 297.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "0.000 mL",
+        "width": 49.1796875,
+        "x": 830.2178344726562,
+        "y": 341.2037353515625
+      },
+      {
+        "height": 14,
+        "text": "Clear chase",
+        "width": 60.2890625,
+        "x": 1000.0477294921876,
+        "y": 297.3575744628906
+      },
+      {
+        "height": 14,
+        "text": "0.000 mL",
+        "width": 49.1798095703125,
+        "x": 1005.6024169921876,
+        "y": 341.2037353515625
+      },
+      {
+        "height": 12,
+        "text": "Inlet head 10 cm",
+        "width": 76.80462646484375,
+        "x": 784.6538696289062,
+        "y": 396.48834228515625
+      },
+      {
+        "height": 11.5,
+        "text": "Gravel",
+        "width": 28.359375,
+        "x": 980.5,
+        "y": 417.4498901367187
+      },
+      {
+        "height": 11,
+        "text": "0.000 mL labelled",
+        "width": 75.6328125,
+        "x": 980.5,
+        "y": 430.8114013671875
+      },
+      {
+        "height": 11.5,
+        "text": "Sand",
+        "width": 22.703125,
+        "x": 980.5,
+        "y": 446.6806640625
+      },
+      {
+        "height": 11,
+        "text": "0.000 mL labelled",
+        "width": 75.6328125,
+        "x": 980.5,
+        "y": 460.0421752929687
+      },
+      {
+        "height": 11.5,
+        "text": "Carbon granules",
+        "width": 73.4609375,
+        "x": 980.5,
+        "y": 475.9114074707031
+      },
+      {
+        "height": 11,
+        "text": "0.000 mL labelled",
+        "width": 75.6328125,
+        "x": 980.5,
+        "y": 489.2729797363281
+      },
+      {
+        "height": 14,
+        "text": "Receiver 300.000 mL",
+        "width": 110.1484375,
+        "x": 858.1950073242188,
+        "y": 598.4344482421875
+      },
+      {
+        "height": 16.5,
+        "text": "Collected water / mL",
+        "width": 133.3671875,
+        "x": 810.9615478515625,
+        "y": 712.1883544921875
+      },
+      {
+        "height": 12,
+        "text": "Total grey · labelled cyan",
+        "width": 115.578125,
+        "x": 810.9615478515625,
+        "y": 734.39599609375
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 799.4044189453125,
+        "y": 866.9344482421875
+      },
+      {
+        "height": 10.99993896484375,
+        "text": "150",
+        "width": 15.4609375,
+        "x": 789.6544189453125,
+        "y": 814.3191528320312
+      },
+      {
+        "height": 11.00006103515625,
+        "text": "300",
+        "width": 17.09375,
+        "x": 788.0216064453125,
+        "y": 761.7036743164062
+      },
+      {
+        "height": 11,
+        "text": "0",
+        "width": 5.7109375,
+        "x": 808.1060791015625,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "30",
+        "width": 11.390625,
+        "x": 936.8046875,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 11,
+        "text": "60",
+        "width": 11.484375,
+        "x": 1068.2962646484375,
+        "y": 878.6267700195312
+      },
+      {
+        "height": 12,
+        "text": "Physical time / seconds",
+        "width": 109.5625,
+        "x": 887.71875,
+        "y": 895.1652221679688
+      },
+      {
+        "height": 14,
+        "text": "Whole water: 370.000 mL",
+        "width": 132.09368896484375,
+        "x": 784.6538696289062,
+        "y": 636.4344482421875
+      },
+      {
+        "height": 12,
+        "text": "Label source / bed / receiver",
+        "width": 132.23431396484375,
+        "x": 784.6538696289062,
+        "y": 656.6422119140625
+      },
+      {
+        "height": 14,
+        "text": "0.000 / 0.000 / 100.000 mL",
+        "width": 139.80462646484375,
+        "x": 784.6538696289062,
+        "y": 672.6806640625
+      },
+      {
+        "height": 11.99993896484375,
+        "text": "Time 54.548 s · valves closed",
+        "width": 138.93743896484375,
+        "x": 784.6538696289062,
+        "y": 693.4730224609375
+      },
+      {
+        "height": 11,
+        "text": "Label bands mark pore intervals;grain meshes are illustrative.",
+        "width": 258.43743896484375,
+        "x": 784.6538696289062,
+        "y": 955.21142578125
+      }
+    ],
+    "traces": [
+      {
+        "d": "M75,1120 L101.25,1106.56 L124.21875,1094.8 L157.03125,1078 L192.1875,1060 L218.43750000000003,1046.56 L241.40625000000003,1034.8 L274.21875,1018 L426.56250000000006,940 L484.11050000006304,940",
+        "data-bed-trace": "outletMl",
+        "fill": "none",
+        "stroke": "#c9d6de",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M75,1120 L101.25,1120 L124.21875,1120 L157.03125,1120 L192.1875,1102 L218.43750000000003,1088.56 L241.40625000000003,1076.8 L274.21875,1060 L426.56250000000006,1060 L484.11050000006304,1060",
+        "data-bed-trace": "labelledOutletMl",
+        "fill": "none",
+        "stroke": "#4ad5e7",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ],
+    "zoomOverlayCollisions": []
+  }
+]

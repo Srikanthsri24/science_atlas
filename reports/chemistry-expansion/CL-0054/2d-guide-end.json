@@ -1,0 +1,169 @@
+{
+  "box": {
+    "height": 883.6328125,
+    "width": 1215,
+    "x": 335,
+    "y": 354.328125
+  },
+  "fills": [
+    {
+      "data-sequence-fill": "iron",
+      "fill": "#66778b",
+      "fill-opacity": "0.9",
+      "height": "1.8656340130291846",
+      "width": "84.57142857142857",
+      "x": "158.8571428571429",
+      "y": "506.4200802726851"
+    },
+    {
+      "d": "M628.2582808035484,397.1990636904523 H704.3131477678802 L672.6285714285714,430.0571428571428 H659.9428571428572 Z",
+      "data-sequence-fill": "filter-grains",
+      "fill": "#c8a36d"
+    },
+    {
+      "data-sequence-fill": "dish-crystals",
+      "fill": "#f0e8d5",
+      "fill-opacity": "0.9",
+      "height": "1.6276256461013967",
+      "width": "168.69559285546296",
+      "x": "814.5093464294114",
+      "y": "506.65808863961286"
+    }
+  ],
+  "guide": "120",
+  "height": 960,
+  "pageWidth": 1920,
+  "recordEnabled": true,
+  "svg": {
+    "aria-label": "Complete route. Procedure progress 4.000. Iron collected 5.000 grams, filter sand 10.000 grams and salt 0.000 grams. Dish crystals 5.000 grams.",
+    "data-sequence-base": "508.2857142857143",
+    "data-sequence-centre": "539.4285714285714",
+    "data-sequence-scale": "21.142857142857142",
+    "data-sequence-view": "overview",
+    "role": "img",
+    "style": "width: 100%; min-width: 100%; height: auto;",
+    "viewBox": "0 0 1100 800"
+  },
+  "texts": [
+    {
+      "height": 17,
+      "text": "SCIENCE ATLAS / SEPARATION ROUTE",
+      "width": 331.4453125,
+      "x": 362.615966796875,
+      "y": 377.8825073242187
+    },
+    {
+      "height": 41.5,
+      "text": "Complete route",
+      "width": 255.078125,
+      "x": 362.615966796875,
+      "y": 403.168701171875
+    },
+    {
+      "height": 20.5,
+      "text": "One batch · four methods · every component accounted",
+      "width": 447.3828125,
+      "x": 362.615966796875,
+      "y": 456.6185607910156
+    },
+    {
+      "height": 23,
+      "text": "Mixing vessel",
+      "width": 118.71875,
+      "x": 731.3450927734375,
+      "y": 663.218994140625
+    },
+    {
+      "height": 23,
+      "text": "Covered magnet",
+      "width": 146.7421875,
+      "x": 483.8018798828125,
+      "y": 639.8658447265625
+    },
+    {
+      "height": 23,
+      "text": "Iron collector",
+      "width": 115.9375,
+      "x": 499.2042236328125,
+      "y": 920.1036987304688
+    },
+    {
+      "height": 23,
+      "text": "Reserved water",
+      "width": 137.52337646484375,
+      "x": 675.2365112304688,
+      "y": 546.4532470703125
+    },
+    {
+      "height": 23,
+      "text": "Particle filter",
+      "width": 111.25006103515624,
+      "x": 1015.3173217773438,
+      "y": 639.8658447265625
+    },
+    {
+      "height": 23,
+      "text": "Filter residue",
+      "width": 114.47662353515624,
+      "x": 1013.7040405273438,
+      "y": 920.1036987304688
+    },
+    {
+      "height": 23,
+      "text": "Evaporation time-lapse",
+      "width": 204.90625,
+      "x": 1225.373779296875,
+      "y": 639.8658447265625
+    },
+    {
+      "height": 23,
+      "text": "Salt dish",
+      "width": 75.8828125,
+      "x": 1289.885498046875,
+      "y": 920.1036987304688
+    },
+    {
+      "height": 23,
+      "text": "Iron collected: 5.000 g",
+      "width": 198.96875,
+      "x": 362.615966796875,
+      "y": 1036.711669921875
+    },
+    {
+      "height": 23,
+      "text": "Filter: sand 10.000 g · salt 0.000 g",
+      "width": 300.25,
+      "x": 362.615966796875,
+      "y": 1069.847900390625
+    },
+    {
+      "height": 23,
+      "text": "Dish: water 0.000 g · crystals 5.000 g",
+      "width": 330.4375,
+      "x": 362.615966796875,
+      "y": 1102.984130859375
+    },
+    {
+      "height": 23,
+      "text": "Water to air 50.000 g · total 70.000 g",
+      "width": 326.328125,
+      "x": 362.615966796875,
+      "y": 1136.120361328125
+    },
+    {
+      "height": 17,
+      "text": "Reference geometry · representative grains / transfer markers",
+      "width": 411.296875,
+      "x": 362.615966796875,
+      "y": 1179.779296875
+    }
+  ],
+  "values": {
+    "Sequence iron grams": "5",
+    "Sequence procedure progress": "4",
+    "Sequence reserved water grams": "50",
+    "Sequence salt grams": "5",
+    "Sequence sand grams": "10"
+  },
+  "width": 1920
+}

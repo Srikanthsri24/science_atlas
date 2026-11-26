@@ -1,0 +1,17 @@
+{
+  "labId": "CL-0065",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 28,
+  "animationSecondsPlanned": 120,
+  "remaining": [],
+  "recordEngineImplemented": true,
+  "regressionTests": 2642,
+  "actualUiTrials": 56,
+  "downloadedWorkedResultsVerified": 2042,
+  "animationSeconds": 120,
+  "typecheck": "passed",
+  "build": "passed"
+}

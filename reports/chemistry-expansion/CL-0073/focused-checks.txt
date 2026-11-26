@@ -1,0 +1,35 @@
+✔ each molecular geometry exactly preserves its species stoichiometry and valid bond topology (3.081558ms)
+✔ all rigid molecules are centred on their mass centre, not a displaced atom (0.490724ms)
+✔ rounded diatomic,water,ozone,carbon dioxide and methane bond lengths match references (0.439595ms)
+✔ bent/linear/tetrahedral geometry is actually spatially correct and ozone bonds equivalent (0.452352ms)
+✔ Euler rotations preserve all bond lengths and molecular shapes (0.768952ms)
+✔ actual world atoms including maximal ball glyph radius stay inside reflecting box (34.836842ms)
+✔ magnification affects glyphs but preserves centre trajectories and underlying inventories (1.232616ms)
+✔ three projections preserve coordinates with explicit depth and cube has12 unique edges (0.556742ms)
+✔ 31 observation columns preserve distinct identities, atoms, prediction and tiny reference quantities (2.068256ms)
+✔ pure endpoints use actual component counts and zero fractions without NaN or phantom identities (1.321293ms)
+✔ prediction evaluation requires an actual student answer and never certifies an unknown physical sample (0.749651ms)
+✔ worked steps explicitly distinguish number,mass and atom fractions with proper mole/nanometre units (1.580279ms)
+✔ stored record validates inputs,reconstructs derived values and bounds all writing/history (2.2165ms)
+✔ company-only exam report prints all31columns and every worked step,escapes student markup (1.883426ms)
+✔ pure molecular elements remain elemental and compounds require one identity with multiple elements (2.793855ms)
+✔ one-element O2/O3 mixture is not misclassified as pure elemental substance (0.278497ms)
+✔ hydrogen and oxygen coexist without being silently converted into water (1.116142ms)
+✔ mixture endpoints classify the actual nonzero substance inventory (0.854543ms)
+✔ atom inventories and species number/mass fractions independently close at all count corners (1.808394ms)
+✔ water atom and mass ratios are different, fixed within each molecule (0.633459ms)
+✔ ideal-gas pressure and amount obey independent units, temperature and inverse-volume scaling (0.533049ms)
+✔ motion conserves identities, atom inventories and all mixture fractions over100ps (3.749952ms)
+✔ deterministic reflecting trajectories remain within geometry margin for every sample and count/box/temperature corner (27.624215ms)
+✔ same-species paths actually move while mass-related reference speeds obey inverse-square-root scaling (1.649579ms)
+✔ all preparation and timeline inputs reject malformed/nonfinite/outside values (1.144508ms)
+✔ guide is120 seconds of continuous slowed evidence, with no invented reaction (0.386238ms)
+✔ the entire gas-reference range stays below the minimum water saturation pressure (0.365036ms)
+ℹ tests 27
+ℹ suites 0
+ℹ pass 27
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 674.492716

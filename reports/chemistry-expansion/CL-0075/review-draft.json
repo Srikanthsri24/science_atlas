@@ -1,0 +1,34 @@
+{
+  "labId": "CL-0075",
+  "reviewedOn": "2026-11-26",
+  "status": "review_in_progress",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "15 focused numerical/model/report tests pass: conservative160-cell no-flux solver, continuum half-mass comparison, independent face flux derivative, Brownian variance/covariance/cross-axis/continuity and finite-ensemble distribution checks. Original generic coefficients and explicit limitations.",
+    "twoD": "Actual full120s guide completed and record-disabled/reenabled verified; paired concentration profiles and finite representative tracers. Landscape and portrait320/390/820/1280/1920 no page overflow.",
+    "threeD": "Actual full120s guide completed. Static orbit left/right,tilt up/down,zoom in/out retain models; visually inspected contact sheet plus bright-model-pixel checks. Continuous retained-buffer render; native gestures unverified.",
+    "responsive": "Settled 10-case3D two-format width matrix, positive contained canvases and no page overflow. Mobile theatre390x844 also captured. Dark390 worked calculations/no page overflow. Wide table314/2550px keyboard scroll0to40. Initial resize-lag observations retained but superseded by settled evidence.",
+    "practicalRecord": "19 paired actual trials38rows17cols, default equal/matched times, min/max preparations, closed-partition controls. Independent Python reconstructs304 derived quantities from actual downloaded HTML. Reload/Class6-return preserve38rows plus studentplan/conclusion. Print table and safely escaped student writing.",
+    "regression": "Final full run in progress; prior2887-pass run plus15 focused checks; TypeScript and Vite build passed before mutable catalogue description update."
+  },
+  "reviewScope": "Internal engineering/numerical/browser viewport review, not independent scientific certification, official board mapping, chemical calibration, physical device/FPS/native gesture or printer validation. Generic dilute passive tracer, no flow/reaction, constant D. Numerical initial step flux not continuum instantaneous measurement. Representative hashed finite Brownian expansion not molecular dynamics. Matched-progress media share normalized representative paths for comparison; finite marker counts not continuum masses. Detailed calculations teacher extensions.",
+  "nativeGestureVerification": "unverified_mac_locked; accessible camera controls inspected",
+  "sourceHashes": {
+    "src/lib/chemistry/gasLiquidDiffusion.ts": "5f3ad785806e8f6ca0f18c9e116eed3dbbad539f0c8ce8b5b9d89782e30293c3",
+    "src/lib/chemistry/gasLiquidDiffusionGeometry.ts": "6fc584bb4b201c5c42d908f4095a1e362ef1468530de560441d5dd1f0f756e7c",
+    "src/lib/chemistry/gasLiquidDiffusionRecord.ts": "5211b09111c3b90233a2919cbe2a755eab3fc96e5e74f170b05b8ebac9a87bbb",
+    "src/components/chemistry/GasLiquidDiffusionLab.tsx": "473f485e9037dcdcba563bda06c1dd7dc7a80984fbf720b019878c741b6e230b",
+    "src/components/chemistry/GasLiquidDiffusionDiagram.tsx": "43521317bbc53ee10958b20c2e3683cbf64fa94da4f9cc5001bcbd2a320a3865",
+    "src/components/chemistry/GasLiquidDiffusionScene.tsx": "deb3370605f00e8a6b5e4f381a9a972a170cb7802e6206bd9acc4efb6976cd08",
+    "src/components/chemistry/gasLiquidDiffusion.css": "8b50d41970b4d87b3217275c6429f13ffa51877afb3406b9eb1de1933a170641",
+    "tests/chemistry-gas-liquid-diffusion.test.mjs": "2a0e47dc8c1bf221807da082f238a92ecf60958bb2683ee33a8de03a6c869ba2",
+    "src/components/chemistry/MixtureComparisonCamera.tsx": "a1f8a053efbcbf598d168a4fc0ac2d6fecd469281cb9e246bd0c0f961b9a2a66",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  }
+}

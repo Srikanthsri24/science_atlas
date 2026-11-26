@@ -1,0 +1,20 @@
+{
+  "labId": "CL-0074",
+  "status": "passed_internal_functional_review",
+  "coreImplemented": true,
+  "geometryImplemented": true,
+  "recordEngineImplemented": true,
+  "uiImplemented": true,
+  "targetedTests": 26,
+  "animationSecondsPlanned": 120,
+  "typeScript": "passed",
+  "remaining": [],
+  "fullRegressionTests": 2874,
+  "productionBuild": "passed",
+  "threeDGuide": "actual final continuous-render source120s completed",
+  "cameraReview": "all six actual camera actions and toggles pass;reset0;nativegesturesunverified",
+  "actualGuiTrials": 52,
+  "independentObservationChecks": 1144,
+  "downloadedWorkedResults": 1945,
+  "twoDGuide": "actual120s completed"
+}

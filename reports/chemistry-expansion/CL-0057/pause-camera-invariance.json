@@ -1,0 +1,10 @@
+{
+  "before": {
+    "guide": "109.8",
+    "inputs": "{\"a\":{\"initialSuspendedMgL\":80,\"settlingRateSInv\":0.002,\"colourAbsorptionMInv\":0,\"dilutionFactor\":1,\"pathCm\":5,\"sourceMw\":5,\"timeS\":180},\"b\":{\"initialSuspendedMgL\":80,\"settlingRateSInv\":0.015,\"colourAbsorptionMInv\":0,\"dilutionFactor\":1,\"pathCm\":5,\"sourceMw\":5,\"timeS\":180},\"paired\":true}"
+  },
+  "after": {
+    "guide": "109.8",
+    "inputs": "{\"a\":{\"initialSuspendedMgL\":80,\"settlingRateSInv\":0.002,\"colourAbsorptionMInv\":0,\"dilutionFactor\":1,\"pathCm\":5,\"sourceMw\":5,\"timeS\":180},\"b\":{\"initialSuspendedMgL\":80,\"settlingRateSInv\":0.015,\"colourAbsorptionMInv\":0,\"dilutionFactor\":1,\"pathCm\":5,\"sourceMw\":5,\"timeS\":180},\"paired\":true}"
+  }
+}

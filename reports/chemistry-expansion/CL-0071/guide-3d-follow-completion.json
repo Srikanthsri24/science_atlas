@@ -1,0 +1,27 @@
+{
+  "timeline": "120",
+  "recordEnabled": true,
+  "state": {
+    "camera": "follow",
+    "canvas": {
+      "height": 710.0703125,
+      "width": 1920,
+      "x": 0,
+      "y": 135
+    },
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "residueSalt": 0.008333333333333331,
+    "salt": 4.991666666666667,
+    "scene": {
+      "height": 883.0703125,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "time": 1200,
+    "water": 80,
+    "width": 1920
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "labId": "CL-0052",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 12,
+    "failed": 0
+  },
+  "geometryTests": {
+    "passed": 5,
+    "failed": 0
+  },
+  "recordTests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "targetedTests": {
+    "passed": 21,
+    "failed": 0
+  },
+  "fullRegression": {
+    "passed": 2337,
+    "failed": 0
+  },
+  "typescript": "passed",
+  "productionBuild": "passed",
+  "animationSeconds": 120,
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/filterBedPath.ts": "cb5a1915ae6ac66256817c5759922ebe89f7ceb41ae122e0ca8885e2e3b83895",
+    "src/lib/chemistry/filterBedPathGeometry.ts": "296327b13d9a6bd58af3c1cdb8c4f8b25ed2d79ecfeae04a2337e32649d58826",
+    "src/lib/chemistry/filterBedPathRecord.ts": "23485c6fd0f84ad8ec0c080eee545c195e53d73a75c54104ae2a0877169e07e1",
+    "src/components/chemistry/FilterBedPathScene.tsx": "b52a00e65953ec7d93b27987aedf06aafbdbba23f94326a995a2c99fc12baa1a",
+    "src/components/chemistry/FilterBedPathDiagramPanel.tsx": "867fe9e72028d308074d3437d54ef782b5a9da9560f7a9f0e993536cece6b174",
+    "src/components/chemistry/FilterBedPathLab.tsx": "05382a373810a34d513389844677244fcbe81c398e0ecfa3aee3153be885ac63",
+    "src/components/chemistry/FilterBedPathDiagram.tsx": "8d6cb3ad188a8fc495ab213650fdcca8eccd0882d80532f89af6997dab8948d6",
+    "src/components/chemistry/filterBedPath.css": "bdf7a6d3744faff93ea555980e217467c03d6f3c8cb28b295b13b7437619f74a",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "tests/chemistry-filter-bed-path-geometry.test.mjs": "3e9c87bbdc9eceeffa9f0d3e8a5c165bd041a6341ee4e2b3c91d560cc87fa233",
+    "tests/chemistry-filter-bed-path-record.test.mjs": "9ecfb6ac03891cc42bdc67819a753e74c6dbff1978b3a6157b77e6befe8d14f4",
+    "tests/chemistry-filter-bed-path.test.mjs": "10dbfe2ab55cc2ee9c901edf9fdf01d156567a5edc66e8ab71d5ca24ce22f468",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  }
+}

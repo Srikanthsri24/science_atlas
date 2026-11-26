@@ -1,0 +1,112 @@
+[
+  {
+    "camera": "apparatus",
+    "canvasHeight": 518.859375,
+    "format": "portrait",
+    "guide": "118.49969999999354",
+    "height": 740,
+    "inputs": {
+      "motionTime": 118.49969999999354,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+    "notesInsideStage": false,
+    "pageWidth": 320,
+    "readoutsInsideStage": true,
+    "recordEnabled": false,
+    "theatre": true,
+    "width": 320
+  },
+  {
+    "camera": "apparatus",
+    "canvasHeight": 48.625,
+    "format": "portrait",
+    "guide": "118.76539999999349",
+    "height": 740,
+    "inputs": {
+      "motionTime": 118.76539999999348,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 390,
+    "readoutsInsideStage": true,
+    "recordEnabled": false,
+    "theatre": true,
+    "width": 390
+  },
+  {
+    "camera": "apparatus",
+    "canvasHeight": 492.3125,
+    "format": "landscape",
+    "guide": "119.0818999999935",
+    "height": 960,
+    "inputs": {
+      "motionTime": 119.0818999999935,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 820,
+    "readoutsInsideStage": true,
+    "recordEnabled": false,
+    "theatre": true,
+    "width": 820
+  },
+  {
+    "camera": "apparatus",
+    "canvasHeight": 638.859375,
+    "format": "landscape",
+    "guide": "119.38119999999353",
+    "height": 1080,
+    "inputs": {
+      "motionTime": 119.38119999999353,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 1920,
+    "readoutsInsideStage": true,
+    "recordEnabled": false,
+    "theatre": true,
+    "width": 1920
+  },
+  {
+    "camera": "apparatus",
+    "canvasHeight": 83.5,
+    "format": "landscape",
+    "guide": "119.76489999999346",
+    "height": 390,
+    "inputs": {
+      "motionTime": 119.76489999999346,
+      "rateSInv": 0.01,
+      "reading": "gross",
+      "saltG": 15,
+      "timeS": 180,
+      "waterG": 50
+    },
+    "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+    "notesInsideStage": true,
+    "pageWidth": 844,
+    "readoutsInsideStage": true,
+    "recordEnabled": false,
+    "theatre": true,
+    "width": 844
+  }
+]

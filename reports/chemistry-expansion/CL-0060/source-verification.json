@@ -1,0 +1,37 @@
+{
+  "verifiedOn": "2026-11-26",
+  "sourceUrl": "https://www.yara.dk/siteassets/yara-denmark/handtering-og-opbevaring/vejledning-for-oplagring-og-transport-af-fast-godning.pdf/",
+  "pdfSha256": "1c8b5804d578f24c56b54961576486a0a975a48c95ebc783244252a6f907be76",
+  "pdfPage": 20,
+  "printedPage": 18,
+  "table": "Table 8:Solubility of potassium nitrate",
+  "method": "Downloaded full84-page PDF;extracted relevant page withpypdf7.1.1,rendered withpdftoppm andvisually inspected complete relevant page.",
+  "basis": "g KNO3 per100g water",
+  "referencePoints": [
+    [
+      20,
+      31.6
+    ],
+    [
+      40,
+      63.9
+    ],
+    [
+      60,
+      110
+    ],
+    [
+      80,
+      169
+    ]
+  ],
+  "materialDensityKgM3At16C": 2109,
+  "modelDensityGcm3": 2.109,
+  "modelLimitations": [
+    "20\u201380\u00b0C piecewise linear interpolation is coarse, not measured intermediate-temperature data.",
+    "16\u00b0C density used as reference without thermal expansion.",
+    "Source does not calibrate chosen effective-site formation, growth flux, nucleus mass, size estimates or cooling duration."
+  ],
+  "copyrightHandling": "Factual numerical values andattribution retained here;full source PDF/page keptonlyinignored temporary files,not studentassets.",
+  "reusedAudit": "The same complete source page was already extracted, rendered and visually inspected during CL-0059. The 60\u00b0C / 110 value is visible in that audited Table 8."
+}

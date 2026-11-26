@@ -1,0 +1,28 @@
+{
+  "before": {
+    "height": 620,
+    "scrollHeight": 1861,
+    "scrollWidth": 3645,
+    "values": [
+      "5",
+      "10",
+      "15",
+      "5",
+      "4"
+    ],
+    "width": 1215
+  },
+  "after": {
+    "height": 620,
+    "scrollHeight": 620,
+    "scrollWidth": 1215,
+    "values": [
+      "5",
+      "10",
+      "15",
+      "5",
+      "4"
+    ],
+    "width": 1215
+  }
+}

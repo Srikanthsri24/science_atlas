@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "pixelDifference": {
+    "baseline": 0.0,
+    "right": 0.6941677575635516,
+    "up": 0.6572545342150018,
+    "in": 1.1760232053347655,
+    "reset": 0.0
+  },
+  "visibleMoleculePixels": {
+    "baseline": 4480,
+    "right": 4357,
+    "up": 3562,
+    "in": 6385,
+    "reset": 4480
+  },
+  "historicalFailure": "Earlier nonzero differences were blank images; rejected. Stable camera options retain model on orbit and tilt.",
+  "nativeGestures": "unverified_mac_locked"
+}

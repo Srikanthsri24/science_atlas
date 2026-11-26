@@ -1,0 +1,5 @@
+{
+  "sectionMeanPixelDifference": 2.9801733670936703,
+  "restoredMeanPixelDifference": 0.0,
+  "fix": "Set clippingPlanes to null rather than undefined so R3F clears the prior material property."
+}

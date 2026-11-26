@@ -1,0 +1,158 @@
+[
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "87.80289620139551",
+        "time": "63.47631999999834",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "63.47631999999834",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "landscape",
+    "scroll": 320,
+    "svg": {
+      "height": 101.5,
+      "viewBox": "0 0 1000 650",
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "117.07052826852735",
+        "time": "65.63775999999827",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "65.63775999999827",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "portrait",
+    "scroll": 320,
+    "svg": {
+      "height": 262.828125,
+      "viewBox": "0 0 600 900",
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "87.80289620139551",
+        "time": "68.11727999999826",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "68.11727999999826",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "landscape",
+    "scroll": 820,
+    "svg": {
+      "height": 120,
+      "viewBox": "0 0 1000 650",
+      "width": 556
+    },
+    "width": 820
+  },
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "117.07052826852735",
+        "time": "70.1171199999983",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "70.1171199999983",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "portrait",
+    "scroll": 820,
+    "svg": {
+      "height": 580,
+      "viewBox": "0 0 600 900",
+      "width": 480
+    },
+    "width": 820
+  },
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "87.80289620139551",
+        "time": "72.41023999999832",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "72.41023999999832",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "landscape",
+    "scroll": 1280,
+    "svg": {
+      "height": 155.1875,
+      "viewBox": "0 0 1000 650",
+      "width": 667
+    },
+    "width": 1280
+  },
+  {
+    "apparatus": [
+      {
+        "air": "191.47928514729617",
+        "condition": "trapped",
+        "gasHeight": "117.07052826852735",
+        "time": "74.49247999999827",
+        "water": "4.791412162375912"
+      },
+      {
+        "air": "0",
+        "condition": "vented",
+        "gasHeight": "0",
+        "time": "74.49247999999827",
+        "water": "196.27069730967207"
+      }
+    ],
+    "format": "portrait",
+    "scroll": 1280,
+    "svg": {
+      "height": 580,
+      "viewBox": "0 0 600 900",
+      "width": 480
+    },
+    "width": 1280
+  }
+]

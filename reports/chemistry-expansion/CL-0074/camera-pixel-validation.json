@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "differences": {
+    "baseline": 0.0,
+    "left": 5.576898626775272,
+    "right": 10.606811625417711,
+    "up": 9.00172827903091,
+    "down": 7.995037071846283,
+    "in": 21.040742481203008,
+    "out": 14.74442388523392,
+    "reset": 0.0,
+    "full-glass": 8.2292759894528,
+    "no-markers": 0.08578151106934001
+  },
+  "visibleModelPixels": {
+    "baseline": 163670,
+    "left": 161947,
+    "right": 148632,
+    "up": 153707,
+    "down": 165595,
+    "in": 234509,
+    "out": 114499,
+    "reset": 163670,
+    "full-glass": 213972,
+    "no-markers": 163824
+  },
+  "rendering": "continuous active viewer,retained buffer,owned pre-render camera fitting",
+  "historicalFailures": "Earlier blank demand-mode frames,including retained-buffer zoom-out,were rejected. No pass was counted from nonzero differences alone.",
+  "nativeGestures": "unverified_mac_locked"
+}

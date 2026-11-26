@@ -1,0 +1,22 @@
+{
+  "camera": "apparatus",
+  "canvasHeight": 8.5,
+  "format": "landscape",
+  "guide": "117.0624999999936",
+  "height": 740,
+  "inputs": {
+    "motionTime": 117.0624999999936,
+    "rateSInv": 0.01,
+    "reading": "gross",
+    "saltG": 15,
+    "timeS": 180,
+    "waterG": 50
+  },
+  "inventory": "Physical time 180.000 s · outer lid closedCup 0.000 g · flight 0.000 g · undissolved 2.610 g · dissolved 12.390 gContents 65.000 g · static gross 215.000 g · net 65.000 g",
+  "notesInsideStage": true,
+  "pageWidth": 320,
+  "readoutsInsideStage": true,
+  "recordEnabled": false,
+  "theatre": false,
+  "width": 320
+}

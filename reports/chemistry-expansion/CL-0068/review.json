@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0068",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "22 focused model/geometry/record checks and2722 fullregression tests pass. Standalone TypeScript and productionbuild pass. Conservedsolute, additive liquidvolume, finite8mLreservoir, controlled reference/dilution comparisons, explicit\u00b5mol/L\u2192mol/L conversion, BeerLambert concentration/path confound, powerclosure, clear/noadditioncontrols, endpoint continuity and finite-difference sensitivity checked. Actual rectangularliquid/openboxglass/128polygonreservoir meshvolumes conserve combinedliquid.",
+    "twoD": "Original optical top views with attenuating monochromaticbeam, independent liquid-level/syringe insets, actualplunger/water movement, concentration/absorbance/transmission histories; tint explicitly explanatory.20view-format-width cases plus2othermetric cases with no pageoverflow; minimum330.5pxSVG height. Independent20apparatusstates and1464curvepoints reconstructed.300percentzoom, keyboardpan40/40 andFit0/0 verified.",
+    "threeD": "Original actualvolume rectangularcells, glasswalls, supportedbase, source and detector diagnostics, finite cylindricalwater syringe and movingplunger/rod, actual liquidinterfaces and calculated beam attenuation. Three cameras: bothcomplete/selectedcomplete/opticalcloseup.30camera-format-width cases independently reconstruct concentration/A. Nativeorbitmean29.5752pixelchange/reset0; glasscutawayoff3.13515/restored0. Cameraactions preserve40physicalseconds.",
+    "responsive": "320/390/820/1280/1920 widths, bothformats;30positivecontained3D cases minimum400pxcanvas and20positive2D cases minimum330.5pxSVG/no pageoverflow.390x844portrait theatre366.5pxcanvas;844x390landscape181.156px, contained. Darkmobile26workedsteps and314pxobservationviewport/2800pxinternaltable withkeyboardscroll. Defaultviewport/light restored.",
+    "practicalRecord": "40actualGUItrials,25columns,1040downloadedworkedresults and1640independent numericchecks pass. Default7times;clear/noaddition/doublepathcontrols at0/40/100;min/maxpreparationat0/100. All26workedstepspertrial include formula/substitution/units/result. Three A4landscapeprinttables, escapedprediction and company-onlyexport. Exactreload/class5roundtrip retainall40rows andwriting; malformedstorage/forgedderivedreadings rejected.",
+    "playback": "Bothactual120second guides completed at100physicalseconds with recording reenabled.10setup+100evolution+10hold,80secondsofactualdefaultwatertransfer. Zeroaddition correctlystationary; referenceconstant. No false photonflighttime, mixingkinetics or measuredcolourcalibration.",
+    "sources": "Private IUPACprimaryindexeddefinition/equation excerpts read, supporting homogeneousmonochromatic BeerLambert principle. Directplain/PDF403 andoldhost502 recorded honestly; not describedasfulltextread. Chosen20000L/(molcm)coefficient/hypotheticalabsorber/geometry/instantmixing notverifiedreal-dyedataset. Originalcontent/assets;noexternalUI/exportlinks.",
+    "navigation": "FrontendlazyCL0068route, class5backlink/return and40retainedrecords verified. Original408concepts and146pre-existingstagedblobs preserved; no backend/APIkey."
+  },
+  "reviewScope": "Internal engineering/model-consistency/browserviewport review; not independentexpert, officialboardmapping, physicaldevice/FPS/printer or measuredapparatuscertification. Hypotheticalstablehomogeneoussinglebandabsorber with chosen20000L/(molcm)coefficient. Idealinstantmixing/transfer andadditivevolumes; no inflightinventory. Combinedinventory is liquidvolume, not separategenuinewatermass. No scattering/fluorescence/reaction/evaporation/reflection/straylight/finitebandwidth/temperaturedependence/realinstrumentcalibration. RGBtint andbeam renderingexplanatory, nothuman-colourprediction/photonflighttimes. Editorialclassplacement;quantitativeoptics teacherextensions.",
+  "sourceHashes": {
+    "src/lib/chemistry/colourConcentration.ts": "0ba4e6ca1cef1d976aa68c4174ecc592fbb93d224cdf35ec9a2eb7fb25f34be9",
+    "src/lib/chemistry/colourConcentrationGeometry.ts": "c78ac963d31443782a235743b23fda8da158fac0db896bf418483287087b4353",
+    "src/lib/chemistry/colourConcentrationRecord.ts": "7e061a2665d3307c03212d12e7b17e9609bc3b0c41b308b4574a6aa0e67c0572",
+    "src/components/chemistry/ColourConcentrationLab.tsx": "d94ad101368c1660c4bf8cd6c8d7b93d26e32728f3c386804e8b18ed0c6b12cc",
+    "src/components/chemistry/ColourConcentrationDiagram.tsx": "b66f72a9b9e895658d619729d5f54e92137d2565d264617298d14797d9f96609",
+    "src/components/chemistry/ColourConcentrationScene.tsx": "befe661af0ba66b823a708e5d3b3b7ab2478df4c095457c11d32b07d1ba7e6d5",
+    "src/components/chemistry/colourConcentration.css": "784d0a34ebff4a8b637046af9a04f1bebf1c7ab7c7da570d9b30920746251c0a",
+    "tests/chemistry-colour-concentration.test.mjs": "837252b46d17cfea8c7df76a07c3bae44598face44db8f50eb55b2e947490275",
+    "tests/chemistry-colour-concentration-geometry.test.mjs": "5be3956fd93cffbd05df1fc40b3209cc0ebf743189d0711c7d49cccea2f053f0",
+    "tests/chemistry-colour-concentration-record.test.mjs": "efeab3d7f3c9f9c7fd1b9e52be37b76f3b0080834aea190e87032e385edf6b60",
+    "src/lib/chemistry/corrosionCoatings.ts": "48459284214ba2b3bcd370c698de42ebb7ffa927868b1d96dae9269c0100b859",
+    "src/lib/chemistry/corrosionCoatingsGeometry.ts": "3a63d63e5cc1261bd508cb5d71876b8fdf712536de2d7c7b6a7708c5f1ef02f2",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/rustConditions.ts": "056f7d945f32e7fe954c5d1fb4123ed7103b59097024706422e6baa22e97d6c8",
+    "src/lib/chemistry/rustConditionsGeometry.ts": "36713630b5d10d5f831d48c68c9ea42ec706af90648a04fe82ed9b60064767c0",
+    "src/lib/chemistry/rustConditionsRecord.ts": "f194730bea39add4bfc4e50061e96c7214b034ede488db4b1f28f79c4d9b921c",
+    "src/lib/chemistry/closedAnnulus.ts": "1e5d358a9d8cc7f4d3b4e6e6c648af09459642bbcb0a6db8b100fbdcbdf88a44",
+    "tests/chemistry-closed-annulus.test.mjs": "eaf8307414dfef9db5a282cd1d44e15e39640e61f9c2f9580bd0517f6a48c208"
+  }
+}

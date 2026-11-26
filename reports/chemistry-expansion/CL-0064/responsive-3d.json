@@ -1,0 +1,452 @@
+[
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 259.328125,
+        "parentH": 259.328125,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "portrait",
+    "height": 844,
+    "time": "4.666018000000134",
+    "width": 320
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 259.328125,
+        "parentH": 259.328125,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "portrait",
+    "height": 844,
+    "time": "4.873596000000129",
+    "width": 320
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 259.328125,
+        "parentH": 259.328125,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "portrait",
+    "height": 844,
+    "time": "5.086186000000125",
+    "width": 320
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 383.7734375,
+        "parentH": 383.7734375,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "portrait",
+    "height": 844,
+    "time": "5.281948000000126",
+    "width": 390
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 383.7734375,
+        "parentH": 383.7734375,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "portrait",
+    "height": 844,
+    "time": "5.485228000000125",
+    "width": 390
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 383.7734375,
+        "parentH": 383.7734375,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "portrait",
+    "height": 844,
+    "time": "5.687948000000123",
+    "width": 390
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 820,
+    "format": "portrait",
+    "height": 1000,
+    "time": "5.912172000000119",
+    "width": 820
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 820,
+    "format": "portrait",
+    "height": 1000,
+    "time": "6.126610000000116",
+    "width": 820
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 820,
+    "format": "portrait",
+    "height": 1000,
+    "time": "6.345962000000112",
+    "width": 820
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1280,
+    "format": "portrait",
+    "height": 1000,
+    "time": "6.56320000000011",
+    "width": 1280
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1280,
+    "format": "portrait",
+    "height": 1000,
+    "time": "6.777596000000108",
+    "width": 1280
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1280,
+    "format": "portrait",
+    "height": 1000,
+    "time": "6.9969480000001045",
+    "width": 1280
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1920,
+    "format": "portrait",
+    "height": 1000,
+    "time": "7.241850000000098",
+    "width": 1920
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1920,
+    "format": "portrait",
+    "height": 1000,
+    "time": "7.459060000000096",
+    "width": 1920
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 548.5,
+        "parentH": 548.5,
+        "w": 480
+      }
+    ],
+    "docWidth": 1920,
+    "format": "portrait",
+    "height": 1000,
+    "time": "7.6758360000001",
+    "width": 1920
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "landscape",
+    "height": 844,
+    "time": "9.432892000000134",
+    "width": 320
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "landscape",
+    "height": 844,
+    "time": "9.643074000000132",
+    "width": 320
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 282
+      }
+    ],
+    "docWidth": 320,
+    "format": "landscape",
+    "height": 844,
+    "time": "9.843456000000128",
+    "width": 320
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "time": "10.046470000000136",
+    "width": 390
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "time": "10.247048000000136",
+    "width": 390
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 158,
+        "parentH": 158,
+        "w": 352
+      }
+    ],
+    "docWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "time": "10.452204000000135",
+    "width": 390
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 148.5,
+        "parentH": 148.5,
+        "w": 556
+      }
+    ],
+    "docWidth": 820,
+    "format": "landscape",
+    "height": 1000,
+    "time": "10.667090000000137",
+    "width": 820
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 148.5,
+        "parentH": 148.5,
+        "w": 556
+      }
+    ],
+    "docWidth": 820,
+    "format": "landscape",
+    "height": 1000,
+    "time": "10.867556000000144",
+    "width": 820
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 148.5,
+        "parentH": 148.5,
+        "w": 556
+      }
+    ],
+    "docWidth": 820,
+    "format": "landscape",
+    "height": 1000,
+    "time": "11.075218000000149",
+    "width": 820
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 148.5,
+        "parentH": 148.5,
+        "w": 667
+      }
+    ],
+    "docWidth": 1280,
+    "format": "landscape",
+    "height": 1000,
+    "time": "11.332132000000145",
+    "width": 1280
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 195.5,
+        "parentH": 195.5,
+        "w": 667
+      }
+    ],
+    "docWidth": 1280,
+    "format": "landscape",
+    "height": 1000,
+    "time": "11.537218000000149",
+    "width": 1280
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 195.5,
+        "parentH": 195.5,
+        "w": 667
+      }
+    ],
+    "docWidth": 1280,
+    "format": "landscape",
+    "height": 1000,
+    "time": "11.737922000000156",
+    "width": 1280
+  },
+  {
+    "camera": "coupon",
+    "canvas": [
+      {
+        "h": 478.9375,
+        "parentH": 478.9375,
+        "w": 1215
+      }
+    ],
+    "docWidth": 1920,
+    "format": "landscape",
+    "height": 1000,
+    "time": "11.938682000000156",
+    "width": 1920
+  },
+  {
+    "camera": "cell",
+    "canvas": [
+      {
+        "h": 478.9375,
+        "parentH": 478.9375,
+        "w": 1215
+      }
+    ],
+    "docWidth": 1920,
+    "format": "landscape",
+    "height": 1000,
+    "time": "12.146176000000157",
+    "width": 1920
+  },
+  {
+    "camera": "comparison",
+    "canvas": [
+      {
+        "h": 478.9375,
+        "parentH": 478.9375,
+        "w": 1215
+      }
+    ],
+    "docWidth": 1920,
+    "format": "landscape",
+    "height": 1000,
+    "time": "12.351374000000163",
+    "width": 1920
+  }
+]

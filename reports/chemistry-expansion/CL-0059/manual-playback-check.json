@@ -1,0 +1,106 @@
+{
+  "playing": {
+    "camera": "comparison",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 40,
+        "timeS": 17.965299999995622,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 40,
+        "timeS": 17.965299999995622,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 17.97 s · 40.0 °C heldSample A · dissolved 20.0329 g + solid 0.1671 g · total 20.2000 g · new solid -0.0329 gSample B · dissolved 20.0000 g + solid 0.0000 g · total 20.0000 g · new solid 0.0000 g",
+    "readoutsInside": true,
+    "recordEnabled": false,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  },
+  "paused": {
+    "camera": "comparison",
+    "canvas": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    },
+    "canvasMatchesWrapper": true,
+    "format": "landscape",
+    "guide": "120",
+    "inputs": {
+      "a": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0.2,
+        "temperatureC": 40,
+        "timeS": 22.12929999999469,
+        "waterG": 100
+      },
+      "b": {
+        "dissolvedChargeG": 20,
+        "nucleationDelayS": 120,
+        "rateSInv": 0.01,
+        "seedG": 0,
+        "temperatureC": 40,
+        "timeS": 22.12929999999469,
+        "waterG": 100
+      },
+      "paired": true
+    },
+    "notesInside": true,
+    "pageWidth": 1920,
+    "readout": "Physical time 22.13 s · 40.0 °C heldSample A · dissolved 20.0397 g + solid 0.1603 g · total 20.2000 g · new solid -0.0397 gSample B · dissolved 20.0000 g + solid 0.0000 g · total 20.0000 g · new solid 0.0000 g",
+    "readoutsInside": true,
+    "recordEnabled": true,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215,
+      "x": 335,
+      "y": 451.7421875
+    },
+    "visibleHeight": 506.3515625,
+    "width": 1920,
+    "wrapper": {
+      "height": 506.3515625,
+      "width": 1215,
+      "x": 335,
+      "y": 514.7421875
+    }
+  }
+}

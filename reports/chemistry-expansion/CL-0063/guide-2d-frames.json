@@ -1,0 +1,54 @@
+[
+  {
+    "apparatus": {
+      "baseY": "570",
+      "deliveredMl": "0",
+      "neutralizationTime": "0",
+      "ph": "1.9999999999565705",
+      "reservoirMl": "40",
+      "scale": "14",
+      "vesselMl": "20"
+    },
+    "readouts": "Calculated pH 2.0000 · acidic · 25 °CBurette 10.000 mL · released 0.000 mL · arrived 0.000 mL0.000 mL still falling · elapsed 0.000 sNo indicator colour is simulated. pH readout is a calculated ideal reference, not a calibrated sensor.",
+    "recordEnabled": false,
+    "scene": null,
+    "time": "0",
+    "timeline": "0.9",
+    "wall": 1795688176291
+  },
+  {
+    "apparatus": {
+      "baseY": "570",
+      "deliveredMl": "23",
+      "neutralizationTime": "47.90288999999958",
+      "ph": "10.843652808062414",
+      "reservoirMl": "17",
+      "scale": "14",
+      "vesselMl": "43"
+    },
+    "readouts": "Calculated pH 10.8437 · basic · 25 °CBurette 33.000 mL · released 23.000 mL · arrived 23.000 mL0.000 mL still falling · elapsed 47.903 sNo indicator colour is simulated. pH readout is a calculated ideal reference, not a calibrated sensor.",
+    "recordEnabled": false,
+    "scene": null,
+    "time": "47.90289",
+    "timeline": "55.6",
+    "wall": 1795688231059
+  },
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 11.1984 · basic · 25 °CBurette 37.600 mL · released 27.600 mL · arrived 27.500 mL0.100 mL still falling · elapsed 57.038 sLines connect arrived model states; dashed target is a calculation, not an observation.",
+    "recordEnabled": false,
+    "scene": null,
+    "time": "57.0381",
+    "timeline": "64.3",
+    "wall": 1795688239755
+  },
+  {
+    "apparatus": null,
+    "readouts": "Calculated pH 11.5229 · basic · 25 °CBurette 50.000 mL · released 40.000 mL · arrived 40.000 mL0.000 mL still falling · elapsed 105.000 sLines connect arrived model states; dashed target is a calculation, not an observation.",
+    "recordEnabled": true,
+    "scene": null,
+    "time": "105",
+    "timeline": "120",
+    "wall": 1795688301259
+  }
+]

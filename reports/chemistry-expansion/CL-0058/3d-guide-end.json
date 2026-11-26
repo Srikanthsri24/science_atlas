@@ -1,0 +1,40 @@
+{
+  "camera": "condenser",
+  "canvas": {
+    "height": 506.3515625,
+    "width": 1215,
+    "x": 335,
+    "y": 521.7421875
+  },
+  "canvasMatchesWrapper": true,
+  "format": "landscape",
+  "guide": "120",
+  "inputs": {
+    "coolantFlowMlMin": 300,
+    "coolantInletC": 20,
+    "dyeMg": 10,
+    "initialTemperatureC": 25,
+    "netPowerW": 150,
+    "timeS": 1000,
+    "waterG": 100
+  },
+  "notesInside": true,
+  "pageWidth": 1920,
+  "readout": "Physical time 1000.00 s · cutoff complete · pot 100.00 °C referencePot 50.0000 g · vapour transit 0.0000 g · drain 0.0000 gReceiver 50.0000 g · vented 0.0000 g · water budget 100.0000 g · pot dye 10.00 mg",
+  "readoutsInside": true,
+  "recordEnabled": true,
+  "stage": {
+    "height": 683.4375,
+    "width": 1215,
+    "x": 335,
+    "y": 458.7421875
+  },
+  "visibleHeight": 506.3515625,
+  "width": 1920,
+  "wrapper": {
+    "height": 506.3515625,
+    "width": 1215,
+    "x": 335,
+    "y": 521.7421875
+  }
+}

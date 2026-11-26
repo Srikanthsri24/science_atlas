@@ -1,0 +1,22 @@
+✔ blank separates source,water attenuation and normalized transmission (3.235879ms)
+✔ dilution prepares a fixed100mL cell from aliquot plus blank,not disappearing mass (1.005951ms)
+✔ suspended and settled particle mass closes across allparameter corners (3.645108ms)
+✔ small settling time retains positive bed mass without cancellation (0.524404ms)
+✔ constant chosen settling coefficient satisfies the compartment ODE (0.543485ms)
+✔ Beer Lambert direct attenuation uses metres and separates absorptionfrom scattering (0.403229ms)
+✔ dissolved colour can attenuate direct light without particle side signal (0.385816ms)
+✔ 90degree collection uses its two half-path attenuations and chosen collection fraction (0.379994ms)
+✔ side signal is not universally monotonic at high opticaldepth (0.633174ms)
+✔ signals stay within source energy and computed fractionsremainphysical (1.041939ms)
+✔ source intensity scales absolute signals,not normalized comparisons (0.403156ms)
+✔ matched pair shares initial cloudiness but separates settlinghistory (0.38719ms)
+✔ 120second guide has setup,continuous settling and truthful observationhold (2.934089ms)
+✔ invalid,missing,coerced ornonfinite inputs cannotbecome measurements (1.436529ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 979.961356

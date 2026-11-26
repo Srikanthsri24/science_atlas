@@ -1,0 +1,7 @@
+Ready to explore
+CL-0052 · CLASS 4
+Follow the path of water through a simple filter bed
+
+Track labelled water through prewetted gravel,sand and carbon-granule reference layers,account for resident pore water,and record a120-second practical with worked flow calculations.
+
+Open laboratory

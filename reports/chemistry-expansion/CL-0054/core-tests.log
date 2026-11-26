@@ -1,0 +1,27 @@
+✔ dry bulk piles include declared void space without inventing retained liquid (5.446988ms)
+✔ reference solution geometry anddry residue reconstruct independently whilemass remains unchanged (0.704354ms)
+✔ all source,dish,pile andwater-supply geometry stays finite,nonnegative andinside reference apparatus capacity (33.74953ms)
+✔ camera reference bounds cover all four stations andsingle-station views isolate their target (2.408558ms)
+✔ representative motion stops at setup/completed holds andtrajectories stay within labelled endpoints (2.487394ms)
+✔ sequence observations align23 headers and23 worked formula/substitution/result blocks (5.396036ms)
+✔ insufficientwater report explicitly includes salt in the filter and12% salt recovery (1.79116ms)
+✔ invalid saved states are excluded,latest60boundedtrials preserved andunexpectedfields dropped (3.048669ms)
+✔ exam report escapes studentwriting,contains observation/workedsections andcompanyidentity without external links (2.3883ms)
+✔ three-component reference endpoint recovers distinct dry products and accounts for evaporated water (4.078808ms)
+✔ every component andwhole-system mass is conserved over all input corners andprocedure stages (28.090918ms)
+✔ insufficient water leaves salt withsand in the filter instead of falsely reporting complete pure recovery (0.830946ms)
+✔ initialwater supply is included before addition without claiming liquid is already in the dry mixture (0.435471ms)
+✔ stage boundaries retain completed transfers anddo not move material through a later step prematurely (0.50225ms)
+✔ crystals appear only after reference capacity falls below filtrate salt andnever exceed saltinventory (0.427024ms)
+✔ dry reference tare subtraction excludes wetpaper anddishwater from dry product mass (0.429939ms)
+✔ 120-second guide uses explicit prescribed procedure progress withsetup andconclusion holds (1.434436ms)
+✔ planner accepts the dry-first course route andexplains alternative order mismatch without claiming universal impossibility (1.146829ms)
+✔ invalid nonfinite,coerced,out-of-range inputs andunknown progression cannot produce results (3.686846ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1435.74328

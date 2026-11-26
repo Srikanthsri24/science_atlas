@@ -1,0 +1,314 @@
+[
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "landscape",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "landscape",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "landscape",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "landscape",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "portrait",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "portrait",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "portrait",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 266.5,
+      "parentHeight": 266.5,
+      "parentWidth": 282,
+      "width": 282
+    },
+    "format": "portrait",
+    "scroll": 320,
+    "time": "50",
+    "width": 320
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 556,
+      "width": 556
+    },
+    "format": "landscape",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 556,
+      "width": 556
+    },
+    "format": "landscape",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 556,
+      "width": 556
+    },
+    "format": "landscape",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 556,
+      "width": 556
+    },
+    "format": "landscape",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 820,
+    "time": "50",
+    "width": 820
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 667,
+      "width": 667
+    },
+    "format": "landscape",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 667,
+      "width": 667
+    },
+    "format": "landscape",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 667,
+      "width": 667
+    },
+    "format": "landscape",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 340,
+      "parentHeight": 340,
+      "parentWidth": 667,
+      "width": 667
+    },
+    "format": "landscape",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "comparison",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "selected",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "cup",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  },
+  {
+    "camera": "entry",
+    "canvas": {
+      "height": 533,
+      "parentHeight": 533,
+      "parentWidth": 480,
+      "width": 480
+    },
+    "format": "portrait",
+    "scroll": 1280,
+    "time": "50",
+    "width": 1280
+  }
+]

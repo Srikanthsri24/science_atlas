@@ -1,0 +1,13 @@
+# CL-0062 — cabbage indicator comparison
+
+Scientific core, volume-calibrated geometry, original 2D/3D apparatus, observation records and worked report implemented. 22 focused tests pass. Actual playback and responsive/record browser review are in progress; not yet reviewed.
+
+Three prepared IDEAL REFERENCE BUFFERS:acidpH2–6,neutral7,base8–12. KnownpHheldat25°C. Indicator assumednon-perturbing andinstantlymixedafterarrival;noacid/base titration,unknownhouseholdpHmeasurement,finitebuffercapacity oranthocyaninspecieskinetics. H=10^-pH mol/L andOH=10^-14/H useidealactivity/25°Creference. Their values are input-derived,not inferredfromcolour. Quantitativeformulas areteacherextensions.
+
+Matched sample10–30mL,dose0–1.2mL,6–12integerdroplets,2–5sreleaseinterval,chosenpigment0–1mg/mL,time0–65s. Firstrelease2s. Fallclearance8cm,chosenidealgravity9.81m/s²,flight=sqrt(2h/g). Releaseandarrivalaredistinctevents. Atrelease aliquotmovesfromreservoirtoflight;atarrivalitentersthevessel. Reservoir+flight+vesselliquid andpigment closeforEVERYsample. Threeindependentdispensers/samples;donotpooloneinventoryacrossallthree. Dropvolume=dose/count,spherereferenceRfromactualvolume. FlightheightfieldshouldbeinterpretedasdropBOTTOMclearance:rendercentre=liquidSurface+dropRadius+clearance,sofirstcontactisarrivalwithoutprelandingliquidintersection. Dispenserisavirtualheightcontrolledreferencekeeping8cmclearanceabovethesamplesurfacebetweenreleases;thisisnotafixedheightapparatuscalibration. Instantcoalescenceoncontactisidealized.
+
+ChosenRGBanchorsatpH2,4,6,7,8,10,12illustratequalitativeprogression;notmeasuredextractcolourdata. Chosendrawingopacity=1−exp(−40*massConcentration),notacalibratedBeer–Lambertspectrum. DosagechangesdrawingstrengthbutdoesnotchangetheidealreferencepH. No-doseandpigment-freecarriercontrolsproduceNOVISIBLEINDICATORCOLOUR,evenwithknownreferencesamplepH. Avoidreversecolour-to-exactpHclaims. Realextractcomposition/preparation/lighting/bufferingcanchangeappearance.
+
+Guideplanned120s:10setup+100evolutionacross65physicalseconds+10hold. Default12releasesat2,6,...46s;lastarrival46.1277s. Allallowedprogramsfinishbefore65s(lastrelease57s). Showrealrelease/dropmotion,liquidlevelandpigmentdoseincrease,colouremergenceandthreecomparisonreadouts. Primitivecolouranimationaloneisnotsufficient. Manualduration120sover65physicalsecondsplanned.
+
+PrivateACSprimarypagefullrelevantsectionsreadsupportsqualitativeanthocyanin/colour/classificationandobservationrecording. NoexactRGB/pHcalibrationclaimed. ANUretrievedbutnotusedasfullverifiedsupport. NoexternalreferencesinstudentUI/export. Classplacementeditorial,officialmappingpending.
