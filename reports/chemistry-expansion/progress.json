@@ -74,13 +74,13 @@
   },
   "completionRule": "Every listed investigation requires implemented, tested 2D and 3D interactions, appropriate animation of at least 60 seconds, responsive review and a working practical record/report. Listing a title or reusing a decorative animation does not count as completion.",
   "lastPublishedBatch": {
-    "firstLab": "CL-0001",
-    "lastLab": "CL-0025",
-    "reviewedCount": 25,
-    "commit": "df6df612d606703a22f032898928108b3fb8a5a0",
+    "first": 26,
+    "last": 50,
+    "reviewedCount": 50,
+    "commit": "656262bec5de3dd0d332bdf28f53e4d80ab0f6d8",
     "branch": "main",
     "deployment": "success",
-    "workflowRun": 45614003468,
+    "workflowRun": 45744969755,
     "url": "https://srikanthsri24.github.io/science_atlas/#chemistry"
   }
 }

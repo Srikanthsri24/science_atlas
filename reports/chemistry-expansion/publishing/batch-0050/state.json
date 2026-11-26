@@ -11,7 +11,7 @@
     "tests/chemistry-*.test.mjs"
   ],
   "copiedFiles": 4052,
-  "status": "final50-reviewed-candidate",
+  "status": "deployed-and-live-verified",
   "prevalidationSourceHashes": {
     "src/components/chemistry/HouseholdDiagram.tsx": "9f3b75755fc27d68145dde5b3aa9f7267e23a41f8c8404cc1243c873e5f4df3c",
     "src/components/chemistry/SugarDiagram.tsx": "ae849500ae9af2a3d3915073cb57213e44dd2a9e71f660a6c9fb2577e192f8f6",
@@ -438,5 +438,21 @@
     "tests/chemistry-closed-water-cycle.test.mjs": "331cbb7e692d2d953446c6c12cfe2c5684db99b00db0c461762e5435c60cfa15",
     "tests/chemistry-volume-readings-geometry.test.mjs": "10ded2e88c0ad756fa7522a57d95fc1d5b4903539252ea5a1c5aff6809b8fac7",
     "tests/chemistry-melting-dissolving.test.mjs": "668e8759881d5bcf91fe73ebc0b598630559f5872319fff1f933521ff371a495"
-  }
+  },
+  "codeCommit": "656262bec5de3dd0d332bdf28f53e4d80ab0f6d8",
+  "workflowRun": 45744969755,
+  "checks": {
+    "workspaceTests": 2299,
+    "isolatedReleaseTests": 2259,
+    "typescript": "passed",
+    "conceptReviews": 408,
+    "practicalReviews": 408,
+    "inventory": "passed",
+    "conceptLedger": "passed",
+    "pagesBuild": "passed",
+    "reviewedChemistryLabs": 50,
+    "stagedBlobsPreserved": 146
+  },
+  "deployment": "success",
+  "liveBrowserVerification": "CL-0050 opens;24h preset returns38/2g remaining;3D canvas and camera changes work;live-deployed-preview.png captured"
 }
