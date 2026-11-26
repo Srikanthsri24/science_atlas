@@ -1,0 +1,492 @@
+[
+  {
+    "lab": "CL-0001",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "What is it made of?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0002",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Can light pass through?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0003",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Will the sheet keep water out?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0004",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "How much water stays inside?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0005",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Look closer. What makes a surface rough?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0006",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Which strip bends more?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0007",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Which materials feel a magnetic pull?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0008",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Will it float or sink?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0009",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Same water. A different shape.",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0010",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Why does damp sand hold together?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0011",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Where does the heat go as ice melts?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0012",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Which material would you choose for a cup?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0013",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare salt and sand in water",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0014",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Recover visible solids by handpicking",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0015",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Separate large and small grains with a sieve",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0016",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Observe oil and water forming layers",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0017",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare water and cooking oil pouring",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0018",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Mix coloured water and follow the colour",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0019",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Observe water drying from a shallow dish",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0020",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Make droplets join on a smooth surface",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0021",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare clay, paper and metal after wetting",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0022",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Investigate dissolving sugar crystals",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0023",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Observe water vapour condensing on a cool lid",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0024",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Identify a suitable container for a liquid",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0025",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare particle arrangements in solid, liquid and gas",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0026",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Measure a liquid volume in a graduated cylinder",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0027",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Use a balance to compare sample masses",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0028",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Find how stirring changes dissolving time",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0029",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare dissolving in warm and cool water",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0030",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Coarse and fine sugar: equal mass, different area",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0031",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "When does added salt stop dissolving?",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0032",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare a solution and a suspension",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0033",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Filter insoluble model powder from water",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0034",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Follow evaporation and condensation in a closed system",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  },
+  {
+    "lab": "CL-0035",
+    "calculations": [
+      {
+        "open": true,
+        "scroll": 246,
+        "width": 246
+      }
+    ],
+    "heading": "Compare melting and dissolving",
+    "scrollWidth": 320,
+    "width": 320,
+    "passed": true
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "bias": "0",
+  "camera": "all",
+  "canvas": {
+    "bottom": 288.8046875,
+    "h": 184.8046875,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 104
+  },
+  "convention": "tenths-of-division",
+  "footer": {
+    "bottom": 346.1015625,
+    "h": 25,
+    "right": 840,
+    "w": 836,
+    "x": 4,
+    "y": 321.1015625
+  },
+  "guide": "79.85239999999985",
+  "height": 390,
+  "legend": {
+    "bottom": 321.1015625,
+    "h": 32.296875,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 288.8046875
+  },
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 350.1015625,
+    "h": 297.1015625,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 53
+  },
+  "target": "63.4",
+  "texts": [],
+  "timeS": "64.85239999999985",
+  "width": 844,
+  "name": "3d-phone-landscape-theatre",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

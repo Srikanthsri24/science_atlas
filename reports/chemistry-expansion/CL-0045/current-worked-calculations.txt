@@ -1,0 +1,160 @@
+Physical elapsed time
+tmin=t/60
+
+Substitution: 80.000000 s /60 s/min
+
+Result: 1.333333 min
+
+The guide contains an introduction and observation hold; playback time and physical time are distinct.
+Volume in each receiver
+V=min(Vtarget,q t)
+
+Substitution: min(63.400000 mL,1 mL/s ×80.000000 s)
+
+Result: 63.400000 mL per vessel
+
+Two separate equal aliquots, not two copies of a single aliquot.
+Source remaining
+Vsource=2Vtarget−2V
+
+Substitution: 2×63.400000−2×63.400000 mL
+
+Result: 0 mL
+
+Lumped transfer neglects liquid temporarily in nozzles, jets and wall films.
+Complete liquid inventory
+Vsource+Vbeaker+Vcylinder=2Vtarget
+
+Substitution: 0+63.400000+63.400000 mL
+
+Result: 126.800000 mL
+
+No evaporation, splashing or retained droplets are included.
+Beaker cross-sectional area
+A=πR²
+
+Substitution: π×(2.500000 cm)²
+
+Result: 19.634954 cm²
+
+Ideal cylindrical interior;1cm³=1mL.
+Beaker mean liquid height
+hmean=V/A
+
+Substitution: 63.400000 cm³ /19.634954 cm²
+
+Result: 3.228935 cm
+
+The curved surface has this same cross-sectional average height.
+Beaker meniscus bottom
+a=min(a0,hmean); hbottom=hmean−a/2
+
+Substitution: a=0.080000 cm; 3.228935−0.080000/2 cm
+
+Result: 3.188935 cm
+
+Prescribed volume-compensated paraboloid, not a solved contact-angle or surface-tension law.
+Beaker ideal scale indication
+I=V+bias
+
+Substitution: 63.400000+(0)mL
+
+Result: 63.400000 mL
+
+A chosen common scale bias shifts both instruments. This computed indication is not a settled reading while flow continues.
+Beaker reporting increment and rounded reading
+R=δ round(I/δ); rounding-only bound=δ/2
+
+Substitution: δ=1.000000 mL; 1.000000×round(63.400000/1.000000)
+
+Result: 63.000000 mL; rounding-only bound ±0.500000 mL
+
+Nearest-mark or a tenth-of-division is an exercise reporting convention. Half-increment is not total uncertainty.
+Beaker rounding error
+eround=R−I
+
+Substitution: 63.000000−63.400000 mL
+
+Result: -0.400000 mL
+
+Quantisation contribution only; a finer increment reduces its bound.
+Beaker signed error against reference
+e=R−V=bias+eround
+
+Substitution: 63.000000−63.400000 mL
+
+Result: -0.400000 mL
+
+A small rounding error does not eliminate calibration bias.
+Beaker relative signed error
+e%=100(R−V)/V
+
+Substitution: 100×-0.400000/63.400000
+
+Result: -0.630915 %
+
+This comparison uses a known virtual reference, not an externally calibrated measurement.
+Cylinder cross-sectional area
+A=πR²
+
+Substitution: π×(1.300000 cm)²
+
+Result: 5.309292 cm²
+
+Ideal cylindrical interior;1cm³=1mL.
+Cylinder mean liquid height
+hmean=V/A
+
+Substitution: 63.400000 cm³ /5.309292 cm²
+
+Result: 11.941329 cm
+
+The curved surface has this same cross-sectional average height.
+Cylinder meniscus bottom
+a=min(a0,hmean); hbottom=hmean−a/2
+
+Substitution: a=0.120000 cm; 11.941329−0.120000/2 cm
+
+Result: 11.881329 cm
+
+Prescribed volume-compensated paraboloid, not a solved contact-angle or surface-tension law.
+Cylinder ideal scale indication
+I=V+bias
+
+Substitution: 63.400000+(0)mL
+
+Result: 63.400000 mL
+
+A chosen common scale bias shifts both instruments. This computed indication is not a settled reading while flow continues.
+Cylinder reporting increment and rounded reading
+R=δ round(I/δ); rounding-only bound=δ/2
+
+Substitution: δ=0.100000 mL; 0.100000×round(63.400000/0.100000)
+
+Result: 63.400000 mL; rounding-only bound ±0.050000 mL
+
+Nearest-mark or a tenth-of-division is an exercise reporting convention. Half-increment is not total uncertainty.
+Cylinder rounding error
+eround=R−I
+
+Substitution: 63.400000−63.400000 mL
+
+Result: 7.105427e-15 mL
+
+Quantisation contribution only; a finer increment reduces its bound.
+Cylinder signed error against reference
+e=R−V=bias+eround
+
+Substitution: 63.400000−63.400000 mL
+
+Result: 7.105427e-15 mL
+
+A small rounding error does not eliminate calibration bias.
+Cylinder relative signed error
+e%=100(R−V)/V
+
+Substitution: 100×7.105427e-15/63.400000
+
+Result: 1.120730e-14 %
+
+This comparison uses a known virtual reference, not an externally calibrated measurement.

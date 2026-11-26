@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 552.921875,
+    "h": 355.421875,
+    "right": 390,
+    "w": 390,
+    "x": 0,
+    "y": 197.5
+  },
+  "footer": {
+    "bottom": 637.609375,
+    "h": 33.5,
+    "right": 382,
+    "w": 374,
+    "x": 8,
+    "y": 604.109375
+  },
+  "guide": "53.85409999999362",
+  "height": 844,
+  "legend": {
+    "bottom": 604.109375,
+    "h": 51.1875,
+    "right": 390,
+    "w": 390,
+    "x": 0,
+    "y": 552.921875
+  },
+  "scrollWidth": 390,
+  "stage": {
+    "bottom": 645.609375,
+    "h": 548.609375,
+    "right": 390,
+    "w": 390,
+    "x": 0,
+    "y": 97
+  },
+  "texts": [],
+  "time": "0.08144332857141673",
+  "width": 390,
+  "name": "3d-gap-portrait-theatre-390",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,75 @@
+{
+  "compact": {
+    "eye": {
+      "bottom": 392,
+      "height": 310,
+      "left": 1580,
+      "right": 1910,
+      "top": 82,
+      "width": 330,
+      "x": 1580,
+      "y": 82
+    },
+    "eyeFits": true,
+    "main": {
+      "bottom": 955.0703125,
+      "height": 883.0703125,
+      "left": 0,
+      "right": 1920,
+      "top": 72,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    },
+    "overflow": false,
+    "stage": {
+      "bottom": 955.0703125,
+      "height": 883.0703125,
+      "left": 0,
+      "right": 1920,
+      "top": 72,
+      "width": 1920,
+      "x": 0,
+      "y": 72
+    }
+  },
+  "inspection": {
+    "fits": true,
+    "frame": {
+      "bottom": 632,
+      "height": 480,
+      "left": 1230,
+      "right": 1910,
+      "top": 152,
+      "width": 680,
+      "x": 1230,
+      "y": 152
+    },
+    "overflow": false
+  },
+  "normal": {
+    "inspection": {
+      "bottom": 914.7421875,
+      "height": 480,
+      "left": 860,
+      "right": 1540,
+      "top": 434.7421875,
+      "width": 680,
+      "x": 860,
+      "y": 434.7421875
+    },
+    "inspectionFits": true,
+    "overflow": false,
+    "stage": {
+      "bottom": 1038.1796875,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 354.7421875,
+      "width": 1215,
+      "x": 335,
+      "y": 354.7421875
+    },
+    "tableScroll": false
+  }
+}

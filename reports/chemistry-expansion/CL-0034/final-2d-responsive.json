@@ -1,0 +1,122 @@
+[
+  {
+    "label": "whole-2d-320",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-390",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-820",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-1280",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-1920",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-320",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-390",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-820",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-1280",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-1920",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-theatre-320",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-theatre-390",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-theatre-820",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-theatre-1280",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-2d-theatre-1920",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-theatre-320",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-theatre-390",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-theatre-820",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-theatre-1280",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-2d-theatre-1920",
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false
+  }
+]

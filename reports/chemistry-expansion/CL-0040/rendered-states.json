@@ -1,0 +1,3698 @@
+[
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 303.62921625188676)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.110104 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "0.522 g",
+      "Captured iron",
+      "10.461 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "87.17%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.1101036857142743,
+    "viewBox": "0 0 1100 619",
+    "case": "live-2d-guide"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "10.983 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "91.52%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "full-guide-2d"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.000000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0,
+    "viewBox": "0 0 1100 619",
+    "case": "reference-initial"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 346.94528082998926)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 346.4370250881764)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 346.2907856033585)"
+      },
+      {
+        "index": 3,
+        "phase": "rising",
+        "transform": "translate(537.25 335.6814386122194)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "rising",
+        "transform": "translate(588.25 341.9766819855186)"
+      },
+      {
+        "index": 6,
+        "phase": "rising",
+        "transform": "translate(613.75 342.07937527489713)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 348.1743497382463)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 347.7370818831377)"
+      },
+      {
+        "index": 9,
+        "phase": "rising",
+        "transform": "translate(486.25 337.13537964951774)"
+      },
+      {
+        "index": 10,
+        "phase": "rising",
+        "transform": "translate(511.75 337.4902751381332)"
+      },
+      {
+        "index": 11,
+        "phase": "rising",
+        "transform": "translate(537.25 343.7016259487018)"
+      },
+      {
+        "index": 12,
+        "phase": "rising",
+        "transform": "translate(562.75 343.4769393004353)"
+      },
+      {
+        "index": 13,
+        "phase": "rising",
+        "transform": "translate(588.25 343.58605826125853)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 349.3768741097899)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 348.9783525142488)"
+      },
+      {
+        "index": 16,
+        "phase": "rising",
+        "transform": "translate(460.75 338.84206440582864)"
+      },
+      {
+        "index": 17,
+        "phase": "rising",
+        "transform": "translate(486.25 339.2202636522153)"
+      },
+      {
+        "index": 18,
+        "phase": "rising",
+        "transform": "translate(511.75 345.0869212417753)"
+      },
+      {
+        "index": 19,
+        "phase": "rising",
+        "transform": "translate(537.25 344.91786581360327)"
+      },
+      {
+        "index": 20,
+        "phase": "rising",
+        "transform": "translate(562.75 333.80931283673453)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "rising",
+        "transform": "translate(613.75 340.4322260355332)"
+      },
+      {
+        "index": 23,
+        "phase": "rising",
+        "transform": "translate(639.25 340.49518466104666)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.030000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "10.983 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: rising · y=0.359 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.03,
+    "viewBox": "0 0 1100 619",
+    "case": "reference-early"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 294.69662938665556)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 278.7071921082015)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 270.17019283310657)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 318.13671917492235)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 307.3176630371621)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 339.58681884199973)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 331.8717331550823)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.080000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "3.209 g",
+      "Captured iron",
+      "7.774 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "64.78%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: rising · y=6.506 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.08,
+    "viewBox": "0 0 1100 619",
+    "case": "reference-mixed"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "10.983 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "91.52%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "reference-final"
+  },
+  {
+    "enabled": false,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field off · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.030000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.03,
+    "viewBox": "0 0 1100 619",
+    "case": "field-off-early"
+  },
+  {
+    "enabled": false,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field off · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "field-off-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 8,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=8.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.030000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "12.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "100.00%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.03,
+    "viewBox": "0 0 1100 619",
+    "case": "strong-field-early"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 8,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=8.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "12.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "100.00%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "strong-field-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 294.69662938665556)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 278.7071921082015)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 270.17019283310657)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 318.13671917492235)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 307.3176630371621)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 339.58681884199973)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 331.8717331550823)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": -1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=S",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.080000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "3.209 g",
+      "Captured iron",
+      "7.774 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "64.78%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: rising · y=6.506 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.08,
+    "viewBox": "0 0 1100 619",
+    "case": "reversed-pole-mixed"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": -1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=S",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "10.983 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "91.52%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "reversed-pole-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 20,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=20 mm · pole=N",
+      "Fixed pickup face",
+      "20 mm",
+      "Physical time 0.030000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.03,
+    "viewBox": "0 0 1100 619",
+    "case": "largest-gap-early"
+  },
+  {
+    "enabled": true,
+    "gapMm": 20,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=20 mm · pole=N",
+      "Fixed pickup face",
+      "20 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "largest-gap-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "rising",
+        "transform": "translate(562.75 346.57909701274997)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 2.5,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=2.5 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.080000 s · independent markers enlarged",
+      "Source iron",
+      "11.426 g",
+      "Rising iron",
+      "0.574 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.08,
+    "viewBox": "0 0 1100 619",
+    "case": "weak-field-mixed"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 2.5,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=2.5 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "11.426 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.574 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "4.78%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "weak-field-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 4,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 349.7128044473732)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 349.67747820619115)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 349.6422260893091)"
+      },
+      {
+        "index": 3,
+        "phase": "rising",
+        "transform": "translate(537.25 349.60673538216093)"
+      },
+      {
+        "index": 4,
+        "phase": "rising",
+        "transform": "translate(562.75 349.69270357579137)"
+      },
+      {
+        "index": 5,
+        "phase": "rising",
+        "transform": "translate(588.25 349.65725346809353)"
+      },
+      {
+        "index": 6,
+        "phase": "rising",
+        "transform": "translate(613.75 349.62196650857675)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 349.70776261066044)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 349.67246146459837)"
+      },
+      {
+        "index": 9,
+        "phase": "rising",
+        "transform": "translate(486.25 349.637031905575)"
+      },
+      {
+        "index": 10,
+        "phase": "rising",
+        "transform": "translate(511.75 349.6017160489898)"
+      },
+      {
+        "index": 11,
+        "phase": "rising",
+        "transform": "translate(537.25 349.6875495987426)"
+      },
+      {
+        "index": 12,
+        "phase": "rising",
+        "transform": "translate(562.75 349.6522257984656)"
+      },
+      {
+        "index": 13,
+        "phase": "rising",
+        "transform": "translate(588.25 349.6169871070392)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 349.70272875729785)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 349.66746499949403)"
+      },
+      {
+        "index": 16,
+        "phase": "rising",
+        "transform": "translate(460.75 349.6319954837873)"
+      },
+      {
+        "index": 17,
+        "phase": "rising",
+        "transform": "translate(486.25 349.59671777684747)"
+      },
+      {
+        "index": 18,
+        "phase": "rising",
+        "transform": "translate(511.75 349.6825092138773)"
+      },
+      {
+        "index": 19,
+        "phase": "rising",
+        "transform": "translate(537.25 349.64721447807256)"
+      },
+      {
+        "index": 20,
+        "phase": "rising",
+        "transform": "translate(562.75 349.6117692148665)"
+      },
+      {
+        "index": 21,
+        "phase": "rising",
+        "transform": "translate(588.25 349.697707261185)"
+      },
+      {
+        "index": 22,
+        "phase": "rising",
+        "transform": "translate(613.75 349.66229206060683)"
+      },
+      {
+        "index": 23,
+        "phase": "rising",
+        "transform": "translate(639.25 349.62697168995703)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 8,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=8.0 mT · gap=4 mm · pole=N",
+      "Fixed pickup face",
+      "4 mm",
+      "Physical time 0.001000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "12.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: rising · y=0.034 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.001,
+    "viewBox": "0 0 1100 619",
+    "case": "strongest-smallest-gap-first-rise"
+  },
+  {
+    "enabled": true,
+    "gapMm": 4,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 4,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 21,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 8,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=8.0 mT · gap=4 mm · pole=N",
+      "Fixed pickup face",
+      "4 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "12.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "100.00%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=4.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "strongest-smallest-gap-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 4,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 1,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 2,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 3,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 6,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 7,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 8,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 9,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 10,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 11,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 12,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 13,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 14,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 15,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      },
+      {
+        "index": 16,
+        "phase": "source",
+        "transform": "translate(460.75 350)"
+      },
+      {
+        "index": 17,
+        "phase": "source",
+        "transform": "translate(486.25 350)"
+      },
+      {
+        "index": 18,
+        "phase": "source",
+        "transform": "translate(511.75 350)"
+      },
+      {
+        "index": 19,
+        "phase": "source",
+        "transform": "translate(537.25 350)"
+      },
+      {
+        "index": 20,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "source",
+        "transform": "translate(613.75 350)"
+      },
+      {
+        "index": 23,
+        "phase": "source",
+        "transform": "translate(639.25 350)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 0,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=0.0 mT · gap=4 mm · pole=N",
+      "Fixed pickup face",
+      "4 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "12.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: source · y=0.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "zero-field-on-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 4,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 4,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 21,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=4 mm · pole=N",
+      "Fixed pickup face",
+      "4 mm",
+      "Physical time 0.030000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "12.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "100.00%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=4.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.03,
+    "viewBox": "0 0 1100 619",
+    "case": "smallest-gap-early"
+  },
+  {
+    "enabled": true,
+    "gapMm": 4,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 4,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 316)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 316)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 316)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 316)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 316)"
+      },
+      {
+        "index": 21,
+        "phase": "captured",
+        "transform": "translate(588.25 316)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 316)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 316)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=4 mm · pole=N",
+      "Fixed pickup face",
+      "4 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "0.000 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "12.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "100.00%",
+      "Product purity",
+      "100.00%",
+      "Marker 1: captured · y=4.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "smallest-gap-final"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 342.7750870669759)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 341.47433248785177)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 341.05349745902913)"
+      },
+      {
+        "index": 3,
+        "phase": "rising",
+        "transform": "translate(537.25 313.7509746032018)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "rising",
+        "transform": "translate(588.25 330.4176083024422)"
+      },
+      {
+        "index": 6,
+        "phase": "rising",
+        "transform": "translate(613.75 330.48734475016414)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 345.68898864490876)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 344.6038138368092)"
+      },
+      {
+        "index": 9,
+        "phase": "rising",
+        "transform": "translate(486.25 317.9459156342731)"
+      },
+      {
+        "index": 10,
+        "phase": "rising",
+        "transform": "translate(511.75 318.47004878565434)"
+      },
+      {
+        "index": 11,
+        "phase": "rising",
+        "transform": "translate(537.25 334.8555321908527)"
+      },
+      {
+        "index": 12,
+        "phase": "rising",
+        "transform": "translate(562.75 334.13262030507093)"
+      },
+      {
+        "index": 13,
+        "phase": "rising",
+        "transform": "translate(588.25 334.27966287512334)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 348.53205761268583)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 347.57308361569653)"
+      },
+      {
+        "index": 16,
+        "phase": "rising",
+        "transform": "translate(460.75 322.277222142475)"
+      },
+      {
+        "index": 17,
+        "phase": "rising",
+        "transform": "translate(486.25 322.97285454796815)"
+      },
+      {
+        "index": 18,
+        "phase": "rising",
+        "transform": "translate(511.75 338.21016061894926)"
+      },
+      {
+        "index": 19,
+        "phase": "rising",
+        "transform": "translate(537.25 337.68733762557105)"
+      },
+      {
+        "index": 20,
+        "phase": "rising",
+        "transform": "translate(562.75 308.8767338326535)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "rising",
+        "transform": "translate(613.75 326.59158860894854)"
+      },
+      {
+        "index": 23,
+        "phase": "rising",
+        "transform": "translate(639.25 326.4760156988101)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.042714 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "10.983 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: rising · y=0.850 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.04271428571428572,
+    "viewBox": "0 0 1100 619",
+    "case": "paused-guide-before-resume"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "rising",
+        "transform": "translate(460.75 341.7020015408329)"
+      },
+      {
+        "index": 1,
+        "phase": "rising",
+        "transform": "translate(486.25 340.18172676477315)"
+      },
+      {
+        "index": 2,
+        "phase": "rising",
+        "transform": "translate(511.75 339.6781631076369)"
+      },
+      {
+        "index": 3,
+        "phase": "rising",
+        "transform": "translate(537.25 307.62293660034953)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "rising",
+        "transform": "translate(588.25 327.3304511884271)"
+      },
+      {
+        "index": 6,
+        "phase": "rising",
+        "transform": "translate(613.75 327.35952879290676)"
+      },
+      {
+        "index": 7,
+        "phase": "rising",
+        "transform": "translate(639.25 345.05133510661057)"
+      },
+      {
+        "index": 8,
+        "phase": "rising",
+        "transform": "translate(460.75 343.79183540005266)"
+      },
+      {
+        "index": 9,
+        "phase": "rising",
+        "transform": "translate(486.25 312.68606274493675)"
+      },
+      {
+        "index": 10,
+        "phase": "rising",
+        "transform": "translate(511.75 313.1859071279103)"
+      },
+      {
+        "index": 11,
+        "phase": "rising",
+        "transform": "translate(537.25 332.5336348998242)"
+      },
+      {
+        "index": 12,
+        "phase": "rising",
+        "transform": "translate(562.75 331.649113271047)"
+      },
+      {
+        "index": 13,
+        "phase": "rising",
+        "transform": "translate(588.25 331.78622959909717)"
+      },
+      {
+        "index": 14,
+        "phase": "rising",
+        "transform": "translate(613.75 348.3161347559032)"
+      },
+      {
+        "index": 15,
+        "phase": "rising",
+        "transform": "translate(639.25 347.2109039456378)"
+      },
+      {
+        "index": 16,
+        "phase": "rising",
+        "transform": "translate(460.75 317.7548782445945)"
+      },
+      {
+        "index": 17,
+        "phase": "rising",
+        "transform": "translate(486.25 318.4904604596171)"
+      },
+      {
+        "index": 18,
+        "phase": "rising",
+        "transform": "translate(511.75 336.4111745840618)"
+      },
+      {
+        "index": 19,
+        "phase": "rising",
+        "transform": "translate(537.25 335.7766239809141)"
+      },
+      {
+        "index": 20,
+        "phase": "rising",
+        "transform": "translate(562.75 301.87955870435775)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "rising",
+        "transform": "translate(613.75 322.88146882817114)"
+      },
+      {
+        "index": 23,
+        "phase": "rising",
+        "transform": "translate(639.25 322.66908384032035)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.045014 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "10.983 g",
+      "Captured iron",
+      "0.000 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "0.00%",
+      "Product purity",
+      "Undefined",
+      "Marker 1: rising · y=0.976 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.04501435714286841,
+    "viewBox": "0 0 1100 619",
+    "case": "paused-guide-after-resume"
+  },
+  {
+    "enabled": true,
+    "gapMm": 10,
+    "kernels": [
+      {
+        "index": 0,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 1,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 2,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 3,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 4,
+        "phase": "source",
+        "transform": "translate(562.75 350)"
+      },
+      {
+        "index": 5,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 6,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 7,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 8,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 9,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 10,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 11,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 12,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 13,
+        "phase": "captured",
+        "transform": "translate(588.25 265)"
+      },
+      {
+        "index": 14,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 15,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      },
+      {
+        "index": 16,
+        "phase": "captured",
+        "transform": "translate(460.75 265)"
+      },
+      {
+        "index": 17,
+        "phase": "captured",
+        "transform": "translate(486.25 265)"
+      },
+      {
+        "index": 18,
+        "phase": "captured",
+        "transform": "translate(511.75 265)"
+      },
+      {
+        "index": 19,
+        "phase": "captured",
+        "transform": "translate(537.25 265)"
+      },
+      {
+        "index": 20,
+        "phase": "captured",
+        "transform": "translate(562.75 265)"
+      },
+      {
+        "index": 21,
+        "phase": "source",
+        "transform": "translate(588.25 350)"
+      },
+      {
+        "index": 22,
+        "phase": "captured",
+        "transform": "translate(613.75 265)"
+      },
+      {
+        "index": 23,
+        "phase": "captured",
+        "transform": "translate(639.25 265)"
+      }
+    ],
+    "pole": 1,
+    "surfaceMilliT": 3,
+    "texts": [
+      "SCIENCE ATLAS / MAGNETIC PICKUP",
+      "Attract iron. Account for every grain.",
+      "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+      "Fixed pickup face",
+      "10 mm",
+      "Physical time 0.300000 s · independent markers enlarged",
+      "Source iron",
+      "1.017 g",
+      "Rising iron",
+      "0.000 g",
+      "Captured iron",
+      "10.983 g",
+      "Source sand",
+      "36.000 g",
+      "Iron recovery",
+      "91.52%",
+      "Product purity",
+      "100.00%",
+      "Marker 8: captured · y=10.000 mm",
+      "Reference model · pure quartz response and entrainment neglected",
+      "Each iron marker represents1000 independent kernels, not a clump"
+    ],
+    "time": 0.3,
+    "viewBox": "0 0 1100 619",
+    "case": "manual-1x-completed"
+  }
+]

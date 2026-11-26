@@ -1,0 +1,4 @@
+.chem-solid-displacement .chem-sample-panel select{width:100%;min-width:0;margin-top:8px;padding:10px;border:1px solid var(--border);border-radius:8px;background:var(--bg);color:var(--text);font:inherit;font-size:12px}
+.displacement-live-measurements summary{cursor:pointer;min-height:24px;padding:3px 0;color:#dce9f3}
+@media(max-width:700px),(max-height:600px){.chem-solid-displacement .chem-bench-viewer.theatre .chem-bench-caption{max-height:30dvh;overflow-y:auto;overscroll-behavior:contain}}
+@media(max-height:600px){.chem-solid-displacement .chem-bench-viewer.theatre .chem-bench-caption{min-height:0;padding:8px 12px}.chem-solid-displacement .chem-bench-viewer.theatre .chem-bench-caption>span{margin-bottom:4px}.chem-solid-displacement .chem-bench-viewer.theatre .chem-bench-caption p{font-size:13px;line-height:1.4}.chem-solid-displacement .chem-bench-viewer.theatre .chem-bench-caption small{display:none}}

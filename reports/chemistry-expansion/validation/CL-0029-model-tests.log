@@ -1,0 +1,15 @@
+✔ reference solubility uses the stated per-100-mL basis and interpolates without extrapolation (2.504606ms)
+✔ chosen temperature sensitivity uses kelvin and recovers its reference coefficient (0.326887ms)
+✔ matched cells conserve mass at all tested temperatures and times, with exact initial conditions (1.103041ms)
+✔ equal temperature trajectories agree; exchanging temperatures exchanges the outcomes (1.782671ms)
+✔ twenty-degree trajectories agree with the unchanged reviewed base model (1.069412ms)
+✔ independent RK4 integration agrees with shrinking grains and target-time predictions (12.199516ms)
+✔ guide stays continuous through 180 model seconds and rejects unsupported inputs (3.748493ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 613.257722

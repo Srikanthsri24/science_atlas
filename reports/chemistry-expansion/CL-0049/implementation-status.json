@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0049",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "geometryTests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/meltingFreezing.ts": "db91d84d93209dbaf36cb451982cb02a8ada79412449bd914a188e58de3d4f1e",
+    "src/lib/chemistry/meltingFreezingGeometry.ts": "e66703bcdd4ea495d79d00ec52f3e468d53156d0de735708e58edb8f3b0c838c",
+    "src/lib/chemistry/meltingFreezingRecord.ts": "3516ac92c4345af551ff2faebd254ba76bded19595f38155cc3f46a6b21b2f0d",
+    "src/components/chemistry/MeltingFreezingLab.tsx": "6ca036fa40729dd6937a2e5cf3a18e0bc839feac0ccb40fe63b73170174c9c92",
+    "src/components/chemistry/MeltingFreezingDiagram.tsx": "1729f6a5091e0ceebd6f763fa8596b3b2e76a7e5bc731a756a0d3fe0ca069837",
+    "src/components/chemistry/MeltingFreezingScene.tsx": "cc136259eaaad7ccc466a2e56b81e84522ba3961e0f3d11dca52a363249b147d",
+    "src/components/chemistry/meltingFreezing.css": "cefca63dafd9c56098f35061e362384813de5c4da3f8e7f4ea8356a2a21423d1",
+    "tests/chemistry-melting-freezing.test.mjs": "9ee4cab3733b240d88e420def2defa77e22ca69b464649d84787d2f14b33c9ef",
+    "tests/chemistry-melting-freezing-geometry.test.mjs": "f876856af4e0c01b80a986f309f112a084eb1d0f0877ace5d35ac1e685229cfb",
+    "tests/chemistry-melting-freezing-record.test.mjs": "d9e01c760e8aac6b3eaeb85309248719bc2943559c57810a5fc454d79d5caa0a",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "regressionTests": {
+    "passed": 2279,
+    "failed": 0
+  },
+  "build": "passed",
+  "finalTypeScript": "passed",
+  "practicalRecordTests": {
+    "passed": 4,
+    "failed": 0
+  }
+}

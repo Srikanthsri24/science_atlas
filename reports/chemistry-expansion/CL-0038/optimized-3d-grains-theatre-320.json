@@ -1,0 +1,36 @@
+{
+  "canvas": {
+    "bottom": 467.5,
+    "h": 260.5,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 207
+  },
+  "footer": {
+    "bottom": 509,
+    "h": 33.5,
+    "right": 312,
+    "w": 304,
+    "x": 8,
+    "y": 475.5
+  },
+  "guide": "33.1",
+  "height": 740,
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 517,
+    "h": 420,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 97
+  },
+  "texts": [],
+  "time": "34.63",
+  "width": 320,
+  "name": "optimized-3d-grains-theatre-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

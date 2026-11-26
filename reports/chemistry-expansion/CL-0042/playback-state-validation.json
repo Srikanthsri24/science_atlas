@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "guidePauseExactState": true,
+  "manualTimeBefore": "0.23069999998807905",
+  "manualTimeAfter": "28.995999999976483",
+  "changedWaterGeometry": true,
+  "changedGlyphPositions": true,
+  "changedFlowGlyphs": true
+}

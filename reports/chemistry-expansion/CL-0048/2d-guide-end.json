@@ -1,0 +1,285 @@
+{
+  "guide": "120",
+  "state": {
+    "parameters": [
+      {
+        "label": "Density comparison target volume",
+        "value": "80"
+      },
+      {
+        "label": "Density comparison A reference density",
+        "value": "0.8"
+      },
+      {
+        "label": "Density comparison B reference density",
+        "value": "1.2"
+      },
+      {
+        "label": "Density comparison A tare",
+        "value": "35"
+      },
+      {
+        "label": "Density comparison B tare",
+        "value": "60"
+      },
+      {
+        "label": "Density comparison pour time",
+        "value": "100"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-density-origin": "150",
+          "data-density-sample": "A"
+        },
+        "gross": "99.000 g",
+        "liquid": {
+          "data-density-liquid": "A",
+          "fill": "url(#density-A)",
+          "height": "63.66197723675814",
+          "width": "40",
+          "x": "130",
+          "y": "504.33802276324184"
+        },
+        "net": "Net 64.000 g",
+        "source": {
+          "data-density-source": "A",
+          "fill": "url(#density-A)",
+          "height": "0",
+          "width": "32",
+          "x": "134",
+          "y": "440"
+        }
+      },
+      {
+        "attrs": {
+          "data-density-origin": "450",
+          "data-density-sample": "B"
+        },
+        "gross": "156.000 g",
+        "liquid": {
+          "data-density-liquid": "B",
+          "fill": "url(#density-B)",
+          "height": "63.66197723675814",
+          "width": "40",
+          "x": "430",
+          "y": "504.33802276324184"
+        },
+        "net": "Net 96.000 g",
+        "source": {
+          "data-density-source": "B",
+          "fill": "url(#density-B)",
+          "height": "0",
+          "width": "32",
+          "x": "434",
+          "y": "440"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Equal delivered volume 80.000 millilitres per sample. A gross 99.000 grams,tare 35.000 grams,net 64.000 grams. B gross 156.000 grams,tare 60.000 grams,net 96.000 grams.",
+      "data-density-base": "590",
+      "data-density-scale": "10",
+      "role": "img",
+      "viewBox": "0 0 600 1067"
+    },
+    "svgBox": {
+      "height": 625.96875,
+      "width": 351.9921875,
+      "x": 19,
+      "y": 394.890625
+    },
+    "texts": [
+      {
+        "height": 8.500030517578125,
+        "text": "SCIENCE ATLAS / EQUAL VOLUME",
+        "width": 147.5703125,
+        "x": 36.599609375,
+        "y": 406.6681823730469
+      },
+      {
+        "height": 20,
+        "text": "Same volume. Compare net mass.",
+        "width": 266.2265625,
+        "x": 36.599609375,
+        "y": 420.63433837890625
+      },
+      {
+        "height": 14,
+        "text": "Subtract each container’s own tare.",
+        "width": 181.5078125,
+        "x": 36.599609375,
+        "y": 445.58056640625
+      },
+      {
+        "height": 19.5,
+        "text": "Sample A",
+        "width": 72.8046875,
+        "x": 70.595703125,
+        "y": 484.492919921875
+      },
+      {
+        "height": 14.000030517578123,
+        "text": "Source 0.0 mL",
+        "width": 74.296875,
+        "x": 69.849609375,
+        "y": 510.1124572753906
+      },
+      {
+        "height": 12.00006103515625,
+        "text": "0",
+        "width": 6.3828125,
+        "x": 122.8376922607422,
+        "y": 721.6344604492188
+      },
+      {
+        "height": 12,
+        "text": "50",
+        "width": 12.6328125,
+        "x": 122.8376922607422,
+        "y": 698.292236328125
+      },
+      {
+        "height": 12,
+        "text": "100",
+        "width": 17.390625,
+        "x": 122.8376922607422,
+        "y": 674.9500732421875
+      },
+      {
+        "height": 17.5,
+        "text": "99.000 g",
+        "width": 62.4296875,
+        "x": 75.783203125,
+        "y": 739.4273681640625
+      },
+      {
+        "height": 14,
+        "text": "Tare 35.0 g",
+        "width": 57.546875,
+        "x": 78.224609375,
+        "y": 761.786865234375
+      },
+      {
+        "height": 16.5,
+        "text": "Net 64.000 g",
+        "width": 82.4453125,
+        "x": 65.775390625,
+        "y": 781.4930419921875
+      },
+      {
+        "height": 14.99993896484375,
+        "text": "0.800 g/mL",
+        "width": 65.2109375,
+        "x": 74.392578125,
+        "y": 804.1992797851562
+      },
+      {
+        "height": 19.5,
+        "text": "Sample B",
+        "width": 71.9375,
+        "x": 247.025390625,
+        "y": 484.492919921875
+      },
+      {
+        "height": 14.000030517578123,
+        "text": "Source 0.0 mL",
+        "width": 74.29690551757812,
+        "x": 245.845703125,
+        "y": 510.1124572753906
+      },
+      {
+        "height": 12.00006103515625,
+        "text": "0",
+        "width": 6.3828125,
+        "x": 298.83380126953125,
+        "y": 721.6344604492188
+      },
+      {
+        "height": 12,
+        "text": "50",
+        "width": 12.6328125,
+        "x": 298.83380126953125,
+        "y": 698.292236328125
+      },
+      {
+        "height": 12,
+        "text": "100",
+        "width": 17.390625,
+        "x": 298.83380126953125,
+        "y": 674.9500732421875
+      },
+      {
+        "height": 17.5,
+        "text": "156.000 g",
+        "width": 69.1484375,
+        "x": 248.419921875,
+        "y": 739.4273681640625
+      },
+      {
+        "height": 14,
+        "text": "Tare 60.0 g",
+        "width": 57.7734375,
+        "x": 254.107421875,
+        "y": 761.786865234375
+      },
+      {
+        "height": 16.5,
+        "text": "Net 96.000 g",
+        "width": 82.5703125,
+        "x": 241.708984375,
+        "y": 781.4930419921875
+      },
+      {
+        "height": 14.99993896484375,
+        "text": "1.200 g/mL",
+        "width": 62.78125,
+        "x": 251.603515625,
+        "y": 804.1992797851562
+      },
+      {
+        "height": 17,
+        "text": "Matched volume: 80.00 mL each",
+        "width": 222.828125,
+        "x": 36.599609375,
+        "y": 844.3516845703125
+      },
+      {
+        "height": 15,
+        "text": "Liquid depth: 6.366 cm in both",
+        "width": 171.63279724121094,
+        "x": 36.599609375,
+        "y": 872.2510986328125
+      },
+      {
+        "height": 15,
+        "text": "Density = (gross − tare) / delivered volume",
+        "width": 234.5390625,
+        "x": 36.599609375,
+        "y": 899.2371215820312
+      },
+      {
+        "height": 13.99993896484375,
+        "text": "An empty sample has no inferred density.",
+        "width": 211.0234375,
+        "x": 36.599609375,
+        "y": 927.2232666015624
+      },
+      {
+        "height": 14,
+        "text": "Colours identify samples,not their density.",
+        "width": 214.3984375,
+        "x": 36.599609375,
+        "y": 953.0359497070312
+      },
+      {
+        "height": 12,
+        "text": "Ideal balances · quasi-static transfer · chosen references",
+        "width": 265.71875,
+        "x": 36.599609375,
+        "y": 990.9085083007812
+      }
+    ]
+  }
+}

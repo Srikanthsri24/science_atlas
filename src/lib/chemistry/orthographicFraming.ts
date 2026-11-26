@@ -1,0 +1,2 @@
+/** Camera-space bounds; frustum centre stays in world units when zoom changes. */
+export function fitOrthographicBounds(width:number,height:number,x0:number,x1:number,y0:number,y1:number,padding=.88){if(![width,height,x0,x1,y0,y1,padding].every(Number.isFinite)||width<=0||height<=0||x1<=x0||y1<=y0||padding<=0||padding>1)throw new RangeError('Positive viewport, ordered finite bounds and padding0–1 required');return{zoom:Math.min(width/(x1-x0),height/(y1-y0))*padding,centreX:(x0+x1)/2,centreY:(y0+y1)/2}}

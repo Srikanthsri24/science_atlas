@@ -1,0 +1,14 @@
+✔ controlled grain comparisons conserve mass and impose exact initial states (1.94667ms)
+✔ rescaled evaluation agrees with the unchanged reviewed reference through its original window (0.641929ms)
+✔ equal-mass area and target-time ratios obey independently derived cube-root scaling (0.437367ms)
+✔ independent RK4 integration verifies the extended observation window (10.959573ms)
+✔ equal and exchanged counts agree without promising a larger late instantaneous rate (0.615896ms)
+✔ continuous guide covers 300 model seconds and rejects invalid inputs (3.228795ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 581.113954

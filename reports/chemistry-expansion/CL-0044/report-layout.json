@@ -1,0 +1,16 @@
+[
+  {
+    "numericNoWrap": true,
+    "pageOverflow": false,
+    "rows": 30,
+    "tableScroll": true,
+    "width": 1280
+  },
+  {
+    "numericNoWrap": true,
+    "pageOverflow": false,
+    "rows": 30,
+    "tableScroll": true,
+    "width": 320
+  }
+]

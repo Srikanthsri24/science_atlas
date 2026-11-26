@@ -1,0 +1,21 @@
+{
+  "lab": "CL-0041",
+  "status": "ready",
+  "uiImplemented": true,
+  "modelAndRecordTests": {
+    "passed": 20,
+    "failed": 0,
+    "scope": "11 bulk model,5 geometry/camera and4 notebook/report"
+  },
+  "reviewStatus": "passed_internal_functional_review",
+  "checkpointRegressionTests": {
+    "passed": 2120,
+    "failed": 0
+  },
+  "build": "passed",
+  "typescript": "passed",
+  "regressionTests": {
+    "passed": 2125,
+    "failed": 0
+  }
+}

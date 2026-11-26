@@ -1,0 +1,16 @@
+✔ all specimens conserve water and satisfy the displaced-volume identity through lowering and withdrawal (29.64633ms)
+✔ partial ellipsoid/cylinder volumes agree with independent cross-section quadrature (1.776271ms)
+✔ complete immersion without overflow gives the full solid volume and independently computed buoyancy (0.541875ms)
+✔ overflow is retained after lifting and corrects the misleading simple reading difference (0.502566ms)
+✔ equal volume does not imply equal weight, and specimen dimensions clear cylinder walls and base (0.655068ms)
+✔ same insertion position can have different levels after the overflow history (0.361447ms)
+✔ worked calculations distinguish partial volume, full volume and captured-overflow correction (1.160405ms)
+✔ unsupported specimens, dimensions, water inventories and times are rejected (1.138486ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1017.90278

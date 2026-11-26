@@ -1,0 +1,8 @@
+{
+  "trialCount": 16,
+  "workedCalculations": 16,
+  "massBalanceAndRateUnits": true,
+  "thresholdTransitions": true,
+  "studentNotes": true,
+  "safeHtmlAndCompanyOnly": true
+}

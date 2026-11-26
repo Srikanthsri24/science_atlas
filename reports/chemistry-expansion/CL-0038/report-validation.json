@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "actualDownloadedTrials": 76,
+  "formulaSections": 76,
+  "persistedRows": 76,
+  "modelComparedRows": 76,
+  "externalLinks": 0,
+  "guides": [
+    "2D110s",
+    "final3D110s"
+  ],
+  "scope": "Actual downloaded report, persisted table and notes; per-row source/flight/dissolved/residue/capacity compared against the tested model and independently summed mass budgets."
+}

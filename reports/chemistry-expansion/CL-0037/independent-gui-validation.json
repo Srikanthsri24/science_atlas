@@ -1,0 +1,198 @@
+{
+  "passed": 19,
+  "failed": 0,
+  "method": "Invert actual rendered tile opacity to column mass; integrate mass and spatial second moment independently. No application model imported.",
+  "manualResumeChangedField": true,
+  "states": [
+    {
+      "label": "reference-initial",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 0,
+      "reconstructedMassMicrogram": 0.020000000000000018,
+      "reconstructedRmsMM": 0.2802429486284887,
+      "displayedRmsMM": 0.280243,
+      "passed": true
+    },
+    {
+      "label": "reference-60",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 60,
+      "reconstructedMassMicrogram": 0.01999999999999996,
+      "reconstructedRmsMM": 0.4522949980094634,
+      "displayedRmsMM": 0.452295,
+      "passed": true
+    },
+    {
+      "label": "reference-600",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 600,
+      "reconstructedMassMicrogram": 0.020000000000000018,
+      "reconstructedRmsMM": 0.9297354626836005,
+      "displayedRmsMM": 0.929735,
+      "passed": true
+    },
+    {
+      "label": "reference-1800",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 1800,
+      "reconstructedMassMicrogram": 0.02000000000000001,
+      "reconstructedRmsMM": 0.998906306308886,
+      "displayedRmsMM": 0.998906,
+      "passed": true
+    },
+    {
+      "label": "reference-3600",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 3600,
+      "reconstructedMassMicrogram": 0.01999999999999999,
+      "reconstructedRmsMM": 0.9999977634448126,
+      "displayedRmsMM": 0.999998,
+      "passed": true
+    },
+    {
+      "label": "L1-r0.5-initial",
+      "sideMM": 1,
+      "radiusNM": 0.5,
+      "timeS": 0,
+      "reconstructedMassMicrogram": 0.02000000000216104,
+      "reconstructedRmsMM": 0.14012147430739266,
+      "displayedRmsMM": 0.140121,
+      "passed": true
+    },
+    {
+      "label": "L1-r0.5-t600",
+      "sideMM": 1,
+      "radiusNM": 0.5,
+      "timeS": 600,
+      "reconstructedMassMicrogram": 0.020000000000000007,
+      "reconstructedRmsMM": 0.49999744674544405,
+      "displayedRmsMM": 0.499997,
+      "passed": true
+    },
+    {
+      "label": "L1-r0.5-t3600",
+      "sideMM": 1,
+      "radiusNM": 0.5,
+      "timeS": 3600,
+      "reconstructedMassMicrogram": 0.019999999999999896,
+      "reconstructedRmsMM": 0.5000000000000018,
+      "displayedRmsMM": 0.5,
+      "passed": true
+    },
+    {
+      "label": "L1-r1.5-initial",
+      "sideMM": 1,
+      "radiusNM": 1.5,
+      "timeS": 0,
+      "reconstructedMassMicrogram": 0.02000000000216104,
+      "reconstructedRmsMM": 0.14012147430739266,
+      "displayedRmsMM": 0.140121,
+      "passed": true
+    },
+    {
+      "label": "L1-r1.5-t600",
+      "sideMM": 1,
+      "radiusNM": 1.5,
+      "timeS": 600,
+      "reconstructedMassMicrogram": 0.019999999999999983,
+      "reconstructedRmsMM": 0.4942985578119656,
+      "displayedRmsMM": 0.494299,
+      "passed": true
+    },
+    {
+      "label": "L1-r1.5-t3600",
+      "sideMM": 1,
+      "radiusNM": 1.5,
+      "timeS": 3600,
+      "reconstructedMassMicrogram": 0.019999999999999993,
+      "reconstructedRmsMM": 0.499999999975595,
+      "displayedRmsMM": 0.5,
+      "passed": true
+    },
+    {
+      "label": "L4-r0.5-initial",
+      "sideMM": 4,
+      "radiusNM": 0.5,
+      "timeS": 0,
+      "reconstructedMassMicrogram": 0.02000000000000002,
+      "reconstructedRmsMM": 0.5604858972569778,
+      "displayedRmsMM": 0.560486,
+      "passed": true
+    },
+    {
+      "label": "L4-r0.5-t600",
+      "sideMM": 4,
+      "radiusNM": 0.5,
+      "timeS": 600,
+      "reconstructedMassMicrogram": 0.02000000000000004,
+      "reconstructedRmsMM": 1.402358027000565,
+      "displayedRmsMM": 1.402358,
+      "passed": true
+    },
+    {
+      "label": "L4-r0.5-t3600",
+      "sideMM": 4,
+      "radiusNM": 0.5,
+      "timeS": 3600,
+      "reconstructedMassMicrogram": 0.020000000000000028,
+      "reconstructedRmsMM": 1.985941444329856,
+      "displayedRmsMM": 1.985941,
+      "passed": true
+    },
+    {
+      "label": "L4-r1.5-initial",
+      "sideMM": 4,
+      "radiusNM": 1.5,
+      "timeS": 0,
+      "reconstructedMassMicrogram": 0.02000000000000002,
+      "reconstructedRmsMM": 0.5604858972569778,
+      "displayedRmsMM": 0.560486,
+      "passed": true
+    },
+    {
+      "label": "L4-r1.5-t600",
+      "sideMM": 4,
+      "radiusNM": 1.5,
+      "timeS": 600,
+      "reconstructedMassMicrogram": 0.020000000000000028,
+      "reconstructedRmsMM": 0.9496039097461725,
+      "displayedRmsMM": 0.949604,
+      "passed": true
+    },
+    {
+      "label": "L4-r1.5-t3600",
+      "sideMM": 4,
+      "radiusNM": 1.5,
+      "timeS": 3600,
+      "reconstructedMassMicrogram": 0.020000000000000018,
+      "reconstructedRmsMM": 1.7305115292886362,
+      "displayedRmsMM": 1.730512,
+      "passed": true
+    },
+    {
+      "label": "manual-pause",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 0.5259,
+      "reconstructedMassMicrogram": 0.020000000000000046,
+      "reconstructedRmsMM": 0.2822094647826057,
+      "displayedRmsMM": 0.282209,
+      "passed": true
+    },
+    {
+      "label": "manual-resumed-pause",
+      "sideMM": 2,
+      "radiusNM": 0.7,
+      "timeS": 15.4059,
+      "reconstructedMassMicrogram": 0.02000000000000002,
+      "reconstructedRmsMM": 0.33307275110756823,
+      "displayedRmsMM": 0.333073,
+      "passed": true
+    }
+  ]
+}

@@ -524,17 +524,18 @@
       "grade": 3,
       "title": "Measure a liquid volume in a graduated cylinder",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Measure a liquid volume in a graduated cylinder. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0026/review.json"
     },
     {
       "id": "CL-0027",
@@ -542,17 +543,18 @@
       "grade": 3,
       "title": "Use a balance to compare sample masses",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Use a balance to compare sample masses. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0027/review.json"
     },
     {
       "id": "CL-0028",
@@ -560,17 +562,18 @@
       "grade": 3,
       "title": "Find how stirring changes dissolving time",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Find how stirring changes dissolving time. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0028/review.json"
     },
     {
       "id": "CL-0029",
@@ -578,17 +581,18 @@
       "grade": 3,
       "title": "Compare dissolving in warm and cool water",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare dissolving in warm and cool water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0029/review.json"
     },
     {
       "id": "CL-0030",
@@ -596,17 +600,18 @@
       "grade": 3,
       "title": "Compare fine and coarse sugar dissolving",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare fine and coarse sugar dissolving. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0030/review.json"
     },
     {
       "id": "CL-0031",
@@ -614,17 +619,18 @@
       "grade": 3,
       "title": "Find when added salt stops dissolving",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Find when added salt stops dissolving. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0031/review.json"
     },
     {
       "id": "CL-0032",
@@ -632,17 +638,18 @@
       "grade": 3,
       "title": "Compare a solution and a suspension",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare a solution and a suspension. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0032/review.json"
     },
     {
       "id": "CL-0033",
@@ -650,17 +657,18 @@
       "grade": 3,
       "title": "Filter chalk particles from water",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Filter chalk particles from water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0033/review.json"
     },
     {
       "id": "CL-0034",
@@ -668,17 +676,21 @@
       "grade": 3,
       "title": "Follow evaporation and condensation in a closed system",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Follow evaporation and condensation in a closed system. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0034/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Closed100g water, initially dry air, maintained bulk/pool and lid temperatures, fixed reference area/headspace, chosen transfer/drain laws; no CFD, complete heat field or physical drop detachment."
     },
     {
       "id": "CL-0035",
@@ -686,17 +698,21 @@
       "grade": 3,
       "title": "Compare melting and dissolving",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare melting and dissolving. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0035/review.json",
+      "reviewedOn": "2026-11-25",
+      "implementationVersion": 1,
+      "modelAssumptions": "Separate vessels; initially0°C ice and25°C salt solution; maintained bath/solution temperature, reference latent heat/capacity, chosen conductance and lumped dissolution rates. No resolved heat/fluid flow, solution enthalpy or solution volume."
     },
     {
       "id": "CL-0036",
@@ -704,17 +720,21 @@
       "grade": 3,
       "title": "Investigate volume displacement by an insoluble solid",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate volume displacement by an insoluble solid. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0036/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1,
+      "modelAssumptions": "Ideal graduated vessel and dense insoluble reference specimens; quasistatic prescribed motion, flat level, retained overflow and negligible suspension volume. Analytic displaced-volume/force ledger with approximate curved render mesh; no fluid transient, meniscus, bubble or wetting model."
     },
     {
       "id": "CL-0037",
@@ -722,17 +742,23 @@
       "grade": 3,
       "title": "Observe food colouring spreading through still water",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe food colouring spreading through still water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0037/review.json",
+      "modelAssumptions": [
+        "Closed magnified 1–4 mm water microcell; reflecting finite-volume diffusion, no stirring or buoyant convection.",
+        "Reference effective hydrodynamic radius and viscosity; not calibrated food-dye data.",
+        "Fixed trace dye mass; accelerated guide time explicitly distinguished from model seconds."
+      ]
     },
     {
       "id": "CL-0038",
@@ -740,17 +766,24 @@
       "grade": 3,
       "title": "Compare soluble and insoluble household solids",
       "strand": "States, solutions and measurement",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare soluble and insoluble household solids. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0038/review.json",
+      "modelAssumptions": [
+        "Separate matched sucrose, sodium chloride, sodium bicarbonate and quartz reference samples at25°C; household additives excluded.",
+        "Reference capacity preserves original solvent mass/volume units. Common bulk kinetics illustrate equilibration, not measured comparative dissolution rates.",
+        "Doser, prescribed dry-grain flight, dissolved and residue mass inventories close independently in each column.",
+        "Rounded representative aggregates and additive phase-volume layout; real solution-volume change, density, heat, flow, speciation and settling dynamics are not predicted."
+      ]
     },
     {
       "id": "CL-0039",
@@ -758,17 +791,24 @@
       "grade": 4,
       "title": "Separate rice and husk by winnowing",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Separate rice and husk by winnowing. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0039/review.json",
+      "modelAssumptions": [
+        "Independent reference kernels in prescribed uniform horizontal wind; quadratic vector drag and gravity with fixed illustrative mass, area and Cd.",
+        "Magnified markers weight1000 independent identical kernels, not clumps. Source, air, near/far mats and outside-floor inventories conserve both materials.",
+        "Ideal capture holds landed kernels. No turbulence, lift, rotation dynamics, collisions, shielding, buoyancy or resuspension; no empirical crop-yield prediction.",
+        "Already loose husk is separated; this is not a model for removing attached hulls."
+      ]
     },
     {
       "id": "CL-0040",
@@ -776,17 +816,18 @@
       "grade": 4,
       "title": "Separate iron filings from sand magnetically",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Separate iron filings from sand magnetically. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0040/review.json"
     },
     {
       "id": "CL-0041",
@@ -794,17 +835,18 @@
       "grade": 4,
       "title": "Recover sand by sedimentation and decantation",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Recover sand by sedimentation and decantation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0041/review.json"
     },
     {
       "id": "CL-0042",
@@ -812,17 +854,18 @@
       "grade": 4,
       "title": "Compare filter papers with different pore sizes",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare filter papers with different pore sizes. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0042/review.json"
     },
     {
       "id": "CL-0043",
@@ -830,17 +873,18 @@
       "grade": 4,
       "title": "Recover dissolved salt by evaporation",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Recover dissolved salt by evaporation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0043/review.json"
     },
     {
       "id": "CL-0044",
@@ -848,17 +892,20 @@
       "grade": 4,
       "title": "Separate a two-colour ink by paper chromatography",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Separate a two-colour ink by paper chromatography. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0044/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0045",
@@ -866,17 +913,20 @@
       "grade": 4,
       "title": "Compare beaker and measuring-cylinder readings",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare beaker and measuring-cylinder readings. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0045/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0046",
@@ -884,17 +934,20 @@
       "grade": 4,
       "title": "Read a meniscus at different eye heights",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Read a meniscus at different eye heights. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0046/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0047",
@@ -902,17 +955,18 @@
       "grade": 4,
       "title": "Investigate floating layers of immiscible liquids",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate floating layers of immiscible liquids. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0047/review.json"
     },
     {
       "id": "CL-0048",
@@ -920,17 +974,18 @@
       "grade": 4,
       "title": "Compare equal-volume samples by density",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare equal-volume samples by density. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0048/review.json"
     },
     {
       "id": "CL-0049",
@@ -938,17 +993,18 @@
       "grade": 4,
       "title": "Observe melting and freezing of a chosen material",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe melting and freezing of a chosen material. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0049/review.json"
     },
     {
       "id": "CL-0050",
@@ -956,17 +1012,20 @@
       "grade": 4,
       "title": "Investigate how surface area changes evaporation",
       "strand": "Separation and material properties",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate how surface area changes evaporation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0050/review.json",
+      "reviewedOn": "2026-11-26",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0051",

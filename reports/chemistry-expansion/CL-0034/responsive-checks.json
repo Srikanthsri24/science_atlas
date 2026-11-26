@@ -1,0 +1,335 @@
+[
+  {
+    "label": "whole-2d-320",
+    "canvasCount": 0,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "whole-2d-390",
+    "canvasCount": 0,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "whole-2d-820",
+    "canvasCount": 0,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "whole-2d-1280",
+    "canvasCount": 0,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "whole-2d-1920",
+    "canvasCount": 0,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "lid-2d-320",
+    "canvasCount": 0,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "lid-2d-390",
+    "canvasCount": 0,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "lid-2d-820",
+    "canvasCount": 0,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "lid-2d-1280",
+    "canvasCount": 0,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "lid-2d-1920",
+    "canvasCount": 0,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "lid-2d-theatre",
+    "canvasCount": 0,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "lid-2d-theatre-320",
+    "canvasCount": 0,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "lid-2d-theatre-390",
+    "canvasCount": 0,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "lid-2d-theatre-820",
+    "canvasCount": 0,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "lid-2d-theatre-1280",
+    "canvasCount": 0,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "lid-2d-theatre-1920",
+    "canvasCount": 0,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "dark-whole-2d",
+    "canvasCount": 0,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "whole-3d-320",
+    "canvasCount": 1,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "whole-3d-390",
+    "canvasCount": 1,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "whole-3d-820",
+    "canvasCount": 1,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "whole-3d-1280",
+    "canvasCount": 1,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "whole-3d-1920",
+    "canvasCount": 1,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "lid-3d-320",
+    "canvasCount": 1,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "lid-3d-390",
+    "canvasCount": 1,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "lid-3d-820",
+    "canvasCount": 1,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "lid-3d-1280",
+    "canvasCount": 1,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "lid-3d-1920",
+    "canvasCount": 1,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "lid-3d-theatre-320",
+    "canvasCount": 1,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "lid-3d-theatre-390",
+    "canvasCount": 1,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "lid-3d-theatre-820",
+    "canvasCount": 1,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "lid-3d-theatre-1280",
+    "canvasCount": 1,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "lid-3d-theatre-1920",
+    "canvasCount": 1,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  },
+  {
+    "label": "whole-3d-theatre-320",
+    "canvasCount": 1,
+    "height": 740,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 320
+  },
+  {
+    "label": "whole-3d-theatre-390",
+    "canvasCount": 1,
+    "height": 844,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 390
+  },
+  {
+    "label": "whole-3d-theatre-820",
+    "canvasCount": 1,
+    "height": 1180,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 820
+  },
+  {
+    "label": "whole-3d-theatre-1280",
+    "canvasCount": 1,
+    "height": 960,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1280
+  },
+  {
+    "label": "whole-3d-theatre-1920",
+    "canvasCount": 1,
+    "height": 1080,
+    "outside": [],
+    "overlaps": [],
+    "pageOverflow": false,
+    "width": 1920
+  }
+]

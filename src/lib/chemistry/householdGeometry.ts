@@ -1,0 +1,22 @@
+import{householdSolidState,householdSolids,householdReference,type HouseholdSolid}from'./householdSolids';
+export const householdVessel={areaCm2:8,radiusCm:Math.sqrt(8/Math.PI),heightCm:16.5,representatives:24,sphereSegments:24,sphereRings:16} as const;
+/** Rounded reference aggregates; counts are representative, never molecular counts.
+ * Ideal additive phase volumes are used solely to lay out the teaching apparatus.
+ * Solute partial volume is approximated by its solid reference specific volume.
+ * No measured solution contraction/expansion, density or settling dynamics is claimed.
+ */
+export function householdGeometry(material:HouseholdSolid='sugar',doseG=10,waterG=50,timeS=0){const s=householdSolidState(material,doseG,waterG,timeS),rho=householdSolids[material].densityGCm3,r=Math.cbrt(3*s.solidVolumeCm3/(4*Math.PI*24)),grainPositions=Array.from({length:24},(_,i)=>{const layer=Math.floor(i/7),j=i%7,theta=(j-1)*Math.PI/3;return{x:j?2*r*Math.cos(theta):0,y:(2*layer+1)*r,z:j?2*r*Math.sin(theta):0,radius:r}}),levelCm=(s.waterML+s.addedG/rho)/8,liquidReferenceVolumeCm3=s.waterML+s.dissolvedG/rho;
+ const first=Math.max(0,timeS-householdReference.flightSeconds),last=Math.min(8,timeS),dt=.03,flight=[] as {massG:number;ageS:number;yCm:number;radiusCm:number}[];
+ if(last>first)for(let i=Math.floor(first/dt);i<=Math.floor(last/dt);i++){const a=Math.max(first,i*dt),b=Math.min(last,(i+1)*dt);if(b<=a)continue;const ageS=timeS-(a+b)/2,massG=(doseG/8)*(b-a),heightCm=100*(s.fallHeightM-.5*householdReference.gravityMS2*ageS**2);flight.push({massG,ageS,yCm:levelCm+heightCm,radiusCm:Math.min(Math.cbrt(3*massG/(4*Math.PI*rho)),Math.max(0,heightCm))})}
+ return{...s,grainPositions,grainRadiusCm:r,levelCm,liquidReferenceVolumeCm3,doserOutletCm:levelCm+100*s.fallHeightM,flight};}
+const sphereCavity=(()=>{const v:number[]=[],P=householdVessel.sphereRings,Q=householdVessel.sphereSegments,point=(f:number,a:number)=>[Math.sin(f)*Math.cos(a),Math.cos(f),Math.sin(f)*Math.sin(a)];for(let j=0;j<P;j++)for(let i=0;i<Q;i++){const f=j*Math.PI/P,h=(j+1)*Math.PI/P,a=i*2*Math.PI/Q,b=(i+1)*2*Math.PI/Q,A=point(f,a),B=point(h,a),C=point(h,b),D=point(f,b);v.push(...A,...B,...C,...A,...C,...D)}return new Float32Array(v)})();
+/** Closed triangulated liquid boundary with a cavity for every immersed aggregate. */
+export function householdLiquidMesh(material:HouseholdSolid='sugar',doseG=10,waterG=50,timeS=0){const g=householdGeometry(material,doseG,waterG,timeS),R=householdVessel.radiusCm,N=72,out=new Float32Array(N*36+(g.grainRadiusCm>0?24*sphereCavity.length:0));let cursor=0;const tri=(a:number[],b:number[],c:number[])=>{out.set(a,cursor);out.set(b,cursor+3);out.set(c,cursor+6);cursor+=9};
+ for(let i=0;i<N;i++){const a=i*2*Math.PI/N,b=(i+1)*2*Math.PI/N,A=[R*Math.cos(a),0,R*Math.sin(a)],B=[A[0],g.levelCm,A[2]],D=[R*Math.cos(b),0,R*Math.sin(b)],C=[D[0],g.levelCm,D[2]];tri(A,B,C);tri(A,C,D);tri([0,g.levelCm,0],C,B);tri([0,0,0],A,D)}
+ if(g.grainRadiusCm>0)for(const p of g.grainPositions)for(let i=0;i<sphereCavity.length;i+=3){out[cursor++]=p.x+p.radius*sphereCavity[i];out[cursor++]=p.y+p.radius*sphereCavity[i+1];out[cursor++]=p.z+p.radius*sphereCavity[i+2]}
+ return out;}
+/** UI controls sit outside the canvas, so only an edge margin is reserved here. */
+export function householdCameraFit(width:number,height:number,minX:number,maxX:number,minY:number,maxY:number){if(![width,height,minX,maxX,minY,maxY].every(Number.isFinite)||width<=0||height<=0||maxX<=minX||maxY<=minY)throw new RangeError('Positive viewport and nonempty finite bounds required');return{zoom:.92*Math.min(Math.max(1,width-24)/(maxX-minX),Math.max(1,height-24)/(maxY-minY)),shiftX:(minX+maxX)/2,shiftY:(minY+maxY)/2}}
+const liquidNormalCache=new Map<boolean,Float32Array>();
+/** Translation and uniform grain shrinkage leave these analytic normals unchanged. */
+export function householdLiquidNormals(cavities:boolean){const prior=liquidNormalCache.get(cavities);if(prior)return prior;const N=72,out=new Float32Array(N*36+(cavities?24*sphereCavity.length:0));let k=0;const add=(...vectors:number[][])=>{for(const v of vectors){out.set(v,k);k+=3}};for(let i=0;i<N;i++){const a=i*2*Math.PI/N,b=(i+1)*2*Math.PI/N,A=[Math.cos(a),0,Math.sin(a)],B=[Math.cos(b),0,Math.sin(b)];add(A,A,B,A,B,B,[0,1,0],[0,1,0],[0,1,0],[0,-1,0],[0,-1,0],[0,-1,0])}if(cavities)for(let j=0;j<24;j++)for(let i=0;i<sphereCavity.length;i++)out[k++]=-sphereCavity[i];liquidNormalCache.set(cavities,out);return out;}

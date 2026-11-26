@@ -1,0 +1,146 @@
+Cylinder area
+A = πr²
+
+Substitution: π × (2.500000 cm)²
+
+Result: 19.634954 cm²
+
+Oil delivered
+Voil = min(Vtarget, Qt)
+
+Substitution: min(80.000000 mL, 1 mL/s × 80.000000 s)
+
+Result: 80.000000 mL
+
+Oil remaining in source
+Vsource = Vtarget − Voil
+
+Substitution: 80.000000 − 80.000000 mL
+
+Result: 0 mL
+
+Water depth
+hw = Vw/A
+
+Substitution: 150.000000 cm³ / 19.634954 cm²
+
+Result: 7.639437 cm
+
+Oil depth
+ho = Vo/A
+
+Substitution: 80.000000 cm³ / 19.634954 cm²
+
+Result: 4.074367 cm
+
+Free-surface height
+H = hw + ho
+
+Substitution: 7.639437 + 4.074367 cm
+
+Result: 11.713804 cm
+
+Water mass
+mw = ρwVw
+
+Substitution: 1 g/mL × 150.000000 mL
+
+Result: 150.000000 g
+
+Contained oil mass
+mo = ρoVo
+
+Substitution: 0.950000 g/mL × 80.000000 mL
+
+Result: 76.000000 g
+
+Remaining oil mass
+msource = ρoVsource
+
+Substitution: 0.950000 g/mL × 0 mL
+
+Result: 0 g
+
+Oil density in SI units
+ρSI = 1000ρg/mL
+
+Substitution: 1000 × 0.950000
+
+Result: 950.000000 kg/m³
+
+Water above probe
+dw = max(0, hw − z)
+
+Substitution: max(0, 7.639437 − 0) cm
+
+Result: 7.639437 cm = 0.076394 m
+
+Oil above probe
+do = max(0, H − max(z, hw))
+
+Substitution: max(0, 11.713804 − max(0, 7.639437)) cm
+
+Result: 4.074367 cm = 0.040744 m
+
+Water pressure contribution
+pw = ρw g dw
+
+Substitution: 1000 kg/m³ × 9.81 m/s² × 0.076394 m
+
+Result: 749.428796 Pa
+
+Oil pressure contribution
+po = ρo g do
+
+Substitution: 950.000000 kg/m³ × 9.81 m/s² × 0.040744 m
+
+Result: 379.710590 Pa
+
+Probe gauge pressure
+p = pw + po
+
+Substitution: 749.428796 + 379.710590 Pa
+
+Result: 1129.139386 Pa
+
+Base gauge pressure
+pbase = g(ρw hw + ρo ho)
+
+Substitution: 9.81 × (1000 × 0.076394 + 950.000000 × 0.040744)
+
+Result: 1129.139386 Pa
+
+Base area in SI units
+Am² = Acm² × 10⁻⁴
+
+Substitution: 19.634954 × 0.0001
+
+Result: 0.001963495 m²
+
+Base force
+F = pbase A
+
+Substitution: 1129.139386 Pa × 0.001963495 m²
+
+Result: 2.217060 N
+
+Contained weight cross-check
+W = (mw + mo)g/1000
+
+Substitution: (150.000000 + 76.000000) / 1000 kg × 9.81 m/s²
+
+Result: 2.217060 N
+
+Total mass balance
+minitial = mw + mo + msource
+
+Substitution: 150.000000 + 76.000000 + 0 g
+
+Result: 226.000000 g; initial 226.000000 g
+
+Total volume balance
+Vinitial = Vw + Vo + Vsource
+
+Substitution: 150.000000 + 80.000000 + 0 mL
+
+Result: 230.000000 mL; initial 230.000000 mL

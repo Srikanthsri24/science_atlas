@@ -1,0 +1,90 @@
+vite v7.3.6 building client environment for production...
+transforming...
+✓ 1894 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                   0.68 kB │ gzip:   0.43 kB
+dist/assets/ChemistryHub-B5Tu-FSy.css            16.74 kB │ gzip:   3.87 kB
+dist/assets/science-C-iIIbSt.css                 25.35 kB │ gzip:   5.67 kB
+dist/assets/index-BD_nQkc4.css                   48.67 kB │ gzip:  10.81 kB
+dist/assets/stirringCamera-DugiEwqD.js            0.36 kB │ gzip:   0.29 kB
+dist/assets/ViewerBoundary-Dg8REdvi.js            0.42 kB │ gzip:   0.30 kB
+dist/assets/useClock-B-G5TdIY.js                  0.73 kB │ gzip:   0.45 kB
+dist/assets/rotate-ccw-hKxqk-zl.js                0.86 kB │ gzip:   0.46 kB
+dist/assets/JoiningScene-SJKaEmTY.js              2.26 kB │ gzip:   1.17 kB
+dist/assets/LabPresentation-Bdi0eORn.js           2.28 kB │ gzip:   1.03 kB
+dist/assets/sugarCrystals-DnQLoc27.js             2.32 kB │ gzip:   1.29 kB
+dist/assets/DryingScene-DE1fIrOT.js               2.99 kB │ gzip:   1.38 kB
+dist/assets/DissolutionScene-CbKryAyq.js          3.22 kB │ gzip:   1.48 kB
+dist/assets/SugarScene-8n1RJa-M.js                3.96 kB │ gzip:   1.69 kB
+dist/assets/FloatingScene-L2IcRHJ5.js             3.97 kB │ gzip:   1.73 kB
+dist/assets/ArrangementScene-DB15olWs.js          4.02 kB │ gzip:   1.81 kB
+dist/assets/MagnetMaterialsScene-nR8Mmb1G.js      4.08 kB │ gzip:   1.75 kB
+dist/assets/MeltingScene-CCEDS3p4.js              4.25 kB │ gzip:   1.83 kB
+dist/assets/SandScene-Cm-eMwLY.js                 4.40 kB │ gzip:   1.76 kB
+dist/assets/CondensationScene-CdlbT4c7.js         4.40 kB │ gzip:   1.87 kB
+dist/assets/RoughnessScene-QgzSbv9s.js            4.64 kB │ gzip:   2.01 kB
+dist/assets/BalanceScene-C2h_58T2.js              4.68 kB │ gzip:   1.77 kB
+dist/assets/MixingScene-BVuhPBoa.js               4.73 kB │ gzip:   2.06 kB
+dist/assets/stirringGeometry-BzCPXwsU.js          4.85 kB │ gzip:   2.15 kB
+dist/assets/SievingScene-By5XINxv.js              4.89 kB │ gzip:   1.95 kB
+dist/assets/FlexibilityScene-CaIxWnk1.js          4.94 kB │ gzip:   2.12 kB
+dist/assets/PickingScene-o1vzHZ2P.js              4.97 kB │ gzip:   2.09 kB
+dist/assets/LiquidContainerScene-pMFx2I9P.js      4.97 kB │ gzip:   1.79 kB
+dist/assets/TransparencyScene-Br2r6BDf.js         5.01 kB │ gzip:   1.90 kB
+dist/assets/PouringScene-DaOORvFr.js              5.18 kB │ gzip:   2.09 kB
+dist/assets/WettingScene-CFfGaplj.js              5.31 kB │ gzip:   1.90 kB
+dist/assets/OilWaterScene-BqyIh9lt.js             5.43 kB │ gzip:   2.12 kB
+dist/assets/WaterproofScene-DPbLqFqK.js           5.91 kB │ gzip:   2.19 kB
+dist/assets/CupScene-Cz7H7iRH.js                  6.09 kB │ gzip:   2.44 kB
+dist/assets/AbsorptionScene-uCABfT5g.js           6.19 kB │ gzip:   2.42 kB
+dist/assets/SortingScene-DS1aoEIM.js              6.69 kB │ gzip:   2.52 kB
+dist/assets/ContainerScene-Dz2GNi-l.js            6.80 kB │ gzip:   1.99 kB
+dist/assets/StirringScene-CjNl4HIo.js             7.18 kB │ gzip:   2.64 kB
+dist/assets/CylinderScene-Cy5R4gIJ.js             8.56 kB │ gzip:   3.09 kB
+dist/assets/TemperatureScene-2tG-A4rj.js         10.03 kB │ gzip:   3.55 kB
+dist/assets/HowItWorks-BTG7tPWt.js               10.18 kB │ gzip:   3.84 kB
+dist/assets/ScienceViewer-qnOU6dvz.js            15.96 kB │ gzip:   5.80 kB
+dist/assets/ConceptStudio-CHbXIrlj.js            16.23 kB │ gzip:   6.26 kB
+dist/assets/FlexibilityLab-DL8bXUsR.js           16.39 kB │ gzip:   6.44 kB
+dist/assets/TransparencyLab-DiScigIf.js          17.73 kB │ gzip:   6.45 kB
+dist/assets/WaterproofLab-BhvCZHfp.js            18.53 kB │ gzip:   6.91 kB
+dist/assets/SandLab-0O_ajJbH.js                  18.87 kB │ gzip:   7.12 kB
+dist/assets/RoughnessLab-BmoHNvix.js             19.48 kB │ gzip:   7.50 kB
+dist/assets/StirringLab-4BiMxOaC.js              19.54 kB │ gzip:   7.04 kB
+dist/assets/MagnetMaterialsLab-BiFs14nj.js       19.95 kB │ gzip:   7.70 kB
+dist/assets/DissolutionLab-CbFisUCF.js           20.17 kB │ gzip:   7.48 kB
+dist/assets/ContainerLab-BOTX8Ul-.js             20.29 kB │ gzip:   7.35 kB
+dist/assets/BalanceLab-Bkm-_J33.js               20.48 kB │ gzip:   7.86 kB
+dist/assets/MaterialSortingLab-D7gHzQou.js       20.51 kB │ gzip:   7.73 kB
+dist/assets/FloatingLab-C5X3cytF.js              20.54 kB │ gzip:   7.52 kB
+dist/assets/MeltingLab-CM-FLwgS.js               20.73 kB │ gzip:   7.65 kB
+dist/assets/PickingLab-Byha3Tfv.js               20.96 kB │ gzip:   7.98 kB
+dist/assets/SugarCrystalLab-VfO2xDOz.js          20.97 kB │ gzip:   7.54 kB
+dist/assets/DropletJoiningLab-BkszzxW1.js        21.24 kB │ gzip:   7.76 kB
+dist/assets/AbsorptionLab-Cri2Y1ED.js            21.74 kB │ gzip:   8.14 kB
+dist/assets/ShallowDryingLab-CJa-L-eF.js         21.87 kB │ gzip:   7.86 kB
+dist/assets/OilWaterLab-DhoA9C3z.js              22.14 kB │ gzip:   8.01 kB
+dist/assets/PouringLab-CcVn9n19.js               22.27 kB │ gzip:   8.27 kB
+dist/assets/WettedMaterialsLab-BhO9FU99.js       22.66 kB │ gzip:   8.11 kB
+dist/assets/SievingLab-D00zaDnU.js               22.81 kB │ gzip:   8.33 kB
+dist/assets/ColouredMixingLab-Dormo6r_.js        24.12 kB │ gzip:   8.35 kB
+dist/assets/CondensationLab-wDxVH0mP.js          25.08 kB │ gzip:   8.83 kB
+dist/assets/CupLab-PosVPdGv.js                   25.40 kB │ gzip:   9.25 kB
+dist/assets/LiquidContainerLab-CaVSgAmN.js       26.15 kB │ gzip:  10.04 kB
+dist/assets/TemperatureLab-CabH51Rb.js           26.65 kB │ gzip:   9.68 kB
+dist/assets/CylinderLab-CM95_Haj.js              28.66 kB │ gzip:  10.34 kB
+dist/assets/ArrangementLab-UFQNb3HD.js           29.45 kB │ gzip:  10.84 kB
+dist/assets/Scene3D-6oHrUmai.js                  91.91 kB │ gzip:  27.48 kB
+dist/assets/UniverseControls-DHQQo36l.js        125.67 kB │ gzip:  46.28 kB
+dist/assets/ChemistryHub-Gd23k5Cp.js            157.85 kB │ gzip:  17.49 kB
+dist/assets/react-vendor-Dj_z5j-6.js            221.88 kB │ gzip:  69.05 kB
+dist/assets/science-CabFAAUo.js                 611.12 kB │ gzip: 154.24 kB
+dist/assets/science-3d-D48j3bPo.js              900.05 kB │ gzip: 241.78 kB
+dist/assets/index-D8qGVMwW.js                 3,765.23 kB │ gzip: 549.22 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 6.44s

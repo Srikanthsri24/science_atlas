@@ -1,0 +1,48 @@
+{
+  "camera": "meniscus",
+  "canvas": {
+    "bottom": 943.2890625,
+    "h": 529.546875,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": 413.7421875
+  },
+  "distance": "16",
+  "footer": {
+    "bottom": 1030.1796875,
+    "h": 33.5,
+    "right": 1542,
+    "w": 1199,
+    "x": 343,
+    "y": 996.6796875
+  },
+  "guide": "48.99199999999963",
+  "height": 1080,
+  "legend": {
+    "bottom": 996.6796875,
+    "h": 53.390625,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": 943.2890625
+  },
+  "offset": "1.8182009839949833",
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 1038.1796875,
+    "h": 683.4375,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": 354.7421875
+  },
+  "texts": [],
+  "timeS": "33.99199999999963",
+  "volume": "50",
+  "width": 1920,
+  "name": "3d-meniscus-normal-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,179 @@
+{
+  "checkedRows": [
+    {
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "trial": 4,
+      "passed": true
+    },
+    {
+      "trial": 5,
+      "passed": true
+    },
+    {
+      "trial": 6,
+      "passed": true
+    },
+    {
+      "trial": 7,
+      "passed": true
+    },
+    {
+      "trial": 8,
+      "passed": true
+    },
+    {
+      "trial": 9,
+      "passed": true
+    },
+    {
+      "trial": 10,
+      "passed": true
+    },
+    {
+      "trial": 11,
+      "passed": true
+    },
+    {
+      "trial": 12,
+      "passed": true
+    },
+    {
+      "trial": 13,
+      "passed": true
+    },
+    {
+      "trial": 14,
+      "passed": true
+    },
+    {
+      "trial": 15,
+      "passed": true
+    },
+    {
+      "trial": 16,
+      "passed": true
+    },
+    {
+      "trial": 17,
+      "passed": true
+    },
+    {
+      "trial": 18,
+      "passed": true
+    }
+  ],
+  "renderedGeometry": [
+    {
+      "case": "reference90",
+      "renderedIceG": 7.9760119940030005,
+      "renderedMeltedG": 2.0239880059970004,
+      "renderedSaltSolidG": 3.3959552564493904,
+      "passed": true
+    },
+    {
+      "case": "reference180",
+      "renderedIceG": 5.952023988005997,
+      "renderedMeltedG": 4.047976011994004,
+      "renderedSaltSolidG": 1.153251210380624,
+      "passed": true
+    },
+    {
+      "case": "reference360",
+      "renderedIceG": 1.9040479760119928,
+      "renderedMeltedG": 8.095952023988007,
+      "renderedSaltSolidG": 0.13299883542443777,
+      "passed": true
+    },
+    {
+      "case": "before-full-melt444.6",
+      "renderedIceG": 0.0014992503748132437,
+      "renderedMeltedG": 9.998500749625187,
+      "renderedSaltSolidG": 0.04818946226640188,
+      "passed": true
+    },
+    {
+      "case": "after-full-melt444.7",
+      "renderedIceG": 0,
+      "renderedMeltedG": 10,
+      "renderedSaltSolidG": 0.04813166959421977,
+      "passed": true
+    },
+    {
+      "case": "warm-liquid540",
+      "renderedIceG": 0,
+      "renderedMeltedG": 10,
+      "renderedSaltSolidG": 0.01533810679324432,
+      "passed": true
+    },
+    {
+      "case": "no-heat360",
+      "renderedIceG": 9.999999999999995,
+      "renderedMeltedG": 0,
+      "renderedSaltSolidG": 0.13299883542443777,
+      "passed": true
+    },
+    {
+      "case": "still360",
+      "renderedIceG": 1.9040479760119928,
+      "renderedMeltedG": 8.095952023988007,
+      "renderedSaltSolidG": 2.3692775868212173,
+      "passed": true
+    },
+    {
+      "case": "stirred360-repeat",
+      "renderedIceG": 1.9040479760119928,
+      "renderedMeltedG": 8.095952023988007,
+      "renderedSaltSolidG": 0.13299883542443777,
+      "passed": true
+    },
+    {
+      "case": "limited-solvent900",
+      "renderedIceG": 0,
+      "renderedMeltedG": 10,
+      "renderedSaltSolidG": 2.80014687642456,
+      "passed": true
+    },
+    {
+      "case": "mass20-water20-H0.1-900",
+      "renderedIceG": 13.25337331334334,
+      "renderedMeltedG": 6.746626686656669,
+      "renderedSaltSolidG": 12.800146876424568,
+      "passed": true
+    },
+    {
+      "case": "mass5-water150-H0.4-900",
+      "renderedIceG": 0,
+      "renderedMeltedG": 5,
+      "renderedSaltSolidG": 0.00010199751705552984,
+      "passed": true
+    },
+    {
+      "case": "before-live2d90",
+      "renderedIceG": 7.9760119940030005,
+      "renderedMeltedG": 2.0239880059970004,
+      "renderedSaltSolidG": 3.3959552564493904,
+      "passed": true
+    },
+    {
+      "case": "after-live2d-pause",
+      "renderedIceG": 7.634353823088461,
+      "renderedMeltedG": 2.3656461769115413,
+      "renderedSaltSolidG": 2.829998815189337,
+      "passed": true
+    }
+  ],
+  "reportTrials": 18,
+  "noExternalReportLinks": true,
+  "liveGrowthAndMassTransfer": true
+}

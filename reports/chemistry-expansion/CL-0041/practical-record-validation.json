@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "actualGuiRows": 30,
+  "exactReloadPersistence": true,
+  "comparedNumericReadings": 210,
+  "downloadedTrialSections": 30,
+  "workedCalculations": 420,
+  "renderedCurrentSubstitutions": 14,
+  "externalUrls": false,
+  "scope": "Actual browser record and downloaded HTML; screen layout tested separately, physical print not certified."
+}

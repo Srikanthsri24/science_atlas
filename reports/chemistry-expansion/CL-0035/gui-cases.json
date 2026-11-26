@@ -1,0 +1,847 @@
+[
+  {
+    "label": "reference90",
+    "geometry": {
+      "grain": {
+        "height": 8.019539241388667,
+        "width": 8.019539241388667,
+        "x": 755.2352303793057,
+        "y": 361.98046075861134
+      },
+      "ice": {
+        "height": 90.4881058472924,
+        "width": 90.4881058472924,
+        "x": 209.7559470763538,
+        "y": 279.5118941527076
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 7.565917608625229,
+        "width": 174,
+        "x": 168,
+        "y": 362.4340823913748
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "90"
+      }
+    ],
+    "lastRow": "4\t10\t100\t0.3\tstirred\t90.000000\t7.97601\t2.02399\t0.00000\t675.00000\t3.39596\t6.60404\t106.60404\t",
+    "values": [
+      "7.97601 / 2.02399 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "675.00000 / 0.00000 J",
+      "7.50000 W",
+      "3.39596 / 6.60404 g",
+      "36.00000 / 0.00000 g",
+      "106.60404 g",
+      "6.60404 g / 6.19493%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "reference180",
+    "geometry": {
+      "grain": {
+        "height": 5.595042674714509,
+        "width": 5.595042674714509,
+        "x": 756.4474786626428,
+        "y": 364.40495732528547
+      },
+      "ice": {
+        "height": 82.07630352777475,
+        "width": 82.07630352777475,
+        "x": 213.96184823611264,
+        "y": 287.92369647222523
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 14.225667503039451,
+        "width": 174,
+        "x": 168,
+        "y": 355.77433249696054
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "180"
+      }
+    ],
+    "lastRow": "5\t10\t100\t0.3\tstirred\t180.000000\t5.95202\t4.04798\t0.00000\t1350.00000\t1.15325\t8.84675\t108.84675\t",
+    "values": [
+      "5.95202 / 4.04798 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "1350.00000 / 0.00000 J",
+      "7.50000 W",
+      "1.15325 / 8.84675 g",
+      "36.00000 / 0.00000 g",
+      "108.84675 g",
+      "8.84675 g / 8.12771%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "reference360",
+    "geometry": {
+      "grain": {
+        "height": 2.7233996441096022,
+        "width": 2.7233996441096022,
+        "x": 757.8833001779452,
+        "y": 367.2766003558904
+      },
+      "ice": {
+        "height": 56.13350926664845,
+        "width": 56.13350926664845,
+        "x": 226.93324536667575,
+        "y": 313.86649073335155
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 24.785080145132984,
+        "width": 174,
+        "x": 168,
+        "y": 345.214919854867
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "360"
+      }
+    ],
+    "lastRow": "6\t10\t100\t0.3\tstirred\t360.000000\t1.90405\t8.09595\t0.00000\t2700.00000\t0.13300\t9.86700\t109.86700\t",
+    "values": [
+      "1.90405 / 8.09595 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "2700.00000 / 0.00000 J",
+      "7.50000 W",
+      "0.13300 / 9.86700 g",
+      "36.00000 / 0.00000 g",
+      "109.86700 g",
+      "9.86700 g / 8.98086%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "before-full-melt444.6",
+    "geometry": {
+      "grain": {
+        "height": 1.9415390222900897,
+        "width": 1.9415390222900897,
+        "x": 758.274230488855,
+        "y": 368.0584609777099
+      },
+      "ice": {
+        "height": 5.183474343850211,
+        "width": 5.183474343850211,
+        "x": 252.4082628280749,
+        "y": 342.06977162946043
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 27.5,
+        "width": 174,
+        "x": 168,
+        "y": 342.5
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "444.6"
+      }
+    ],
+    "lastRow": "7\t10\t100\t0.3\tstirred\t444.600000\t0.00150\t9.99850\t0.00000\t3334.50000\t0.04819\t9.95181\t109.95181\t",
+    "values": [
+      "0.00150 / 9.99850 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "3334.50000 / 0.00000 J",
+      "7.50000 W",
+      "0.04819 / 9.95181 g",
+      "36.00000 / 0.00000 g",
+      "109.95181 g",
+      "9.95181 g / 9.05107%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "after-full-melt444.7",
+    "geometry": {
+      "grain": {
+        "height": 1.9407625619835764,
+        "width": 1.9407625619835764,
+        "x": 758.2746187190082,
+        "y": 368.0592374380164
+      },
+      "ice": null,
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 27.5,
+        "width": 174,
+        "x": 168,
+        "y": 342.5
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "444.7"
+      }
+    ],
+    "lastRow": "8\t10\t100\t0.3\tstirred\t444.700000\t0.00000\t10.00000\t0.00598\t3335.24997\t0.04813\t9.95187\t109.95187\t",
+    "values": [
+      "0.00000 / 10.00000 g",
+      "0.00598 °C",
+      "444.66667 s",
+      "3335.00000 / 0.24997 J",
+      "7.49821 W",
+      "0.04813 / 9.95187 g",
+      "36.00000 / 0.00000 g",
+      "109.95187 g",
+      "9.95187 g / 9.05111%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "warm-liquid540",
+    "geometry": {
+      "grain": {
+        "height": 1.3256209206509233,
+        "width": 1.3256209206509233,
+        "x": 758.5821895396746,
+        "y": 368.6743790793491
+      },
+      "ice": null,
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 27.5,
+        "width": 174,
+        "x": 168,
+        "y": 342.5
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "540"
+      }
+    ],
+    "lastRow": "9\t10\t100\t0.3\tstirred\t540.000000\t0.00000\t10.00000\t12.38779\t3852.80967\t0.01534\t9.98466\t109.98466\t",
+    "values": [
+      "0.00000 / 10.00000 g",
+      "12.38779 °C",
+      "444.66667 s",
+      "3335.00000 / 517.80967 J",
+      "3.78366 W",
+      "0.01534 / 9.98466 g",
+      "36.00000 / 0.00000 g",
+      "109.98466 g",
+      "9.98466 g / 9.07823%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "no-heat360",
+    "geometry": {
+      "grain": {
+        "height": 2.7233996441096022,
+        "width": 2.7233996441096022,
+        "x": 757.8833001779452,
+        "y": 367.2766003558904
+      },
+      "ice": {
+        "height": 97.5729789914072,
+        "width": 97.5729789914072,
+        "x": 206.2135105042964,
+        "y": 272.42702100859276
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 0,
+        "width": 174,
+        "x": 168,
+        "y": 370
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "360"
+      }
+    ],
+    "lastRow": "10\t10\t100\t0\tstirred\t360.000000\t10.00000\t0.00000\t0.00000\t0.00000\t0.13300\t9.86700\t109.86700\t",
+    "values": [
+      "10.00000 / 0.00000 g",
+      "0.00000 °C",
+      "No finite melting time with H = 0",
+      "0.00000 / 0.00000 J",
+      "0.00000 W",
+      "0.13300 / 9.86700 g",
+      "36.00000 / 0.00000 g",
+      "109.86700 g",
+      "9.86700 g / 8.98086%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "still360",
+    "geometry": {
+      "grain": {
+        "height": 7.11269324624282,
+        "width": 7.11269324624282,
+        "x": 755.6886533768786,
+        "y": 362.8873067537572
+      },
+      "ice": {
+        "height": 56.13350926664845,
+        "width": 56.13350926664845,
+        "x": 226.93324536667575,
+        "y": 313.86649073335155
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 24.785080145132984,
+        "width": 174,
+        "x": 168,
+        "y": 345.214919854867
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "360"
+      }
+    ],
+    "lastRow": "11\t10\t100\t0.3\tstill\t360.000000\t1.90405\t8.09595\t0.00000\t2700.00000\t2.36928\t7.63072\t107.63072\t",
+    "values": [
+      "1.90405 / 8.09595 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "2700.00000 / 0.00000 J",
+      "7.50000 W",
+      "2.36928 / 7.63072 g",
+      "36.00000 / 0.00000 g",
+      "107.63072 g",
+      "7.63072 g / 7.08973%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "stirred360-repeat",
+    "geometry": {
+      "grain": {
+        "height": 2.7233996441096022,
+        "width": 2.7233996441096022,
+        "x": 757.8833001779452,
+        "y": 367.2766003558904
+      },
+      "ice": {
+        "height": 56.13350926664845,
+        "width": 56.13350926664845,
+        "x": 226.93324536667575,
+        "y": 313.86649073335155
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 24.785080145132984,
+        "width": 174,
+        "x": 168,
+        "y": 345.214919854867
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "360"
+      }
+    ],
+    "lastRow": "12\t10\t100\t0.3\tstirred\t360.000000\t1.90405\t8.09595\t0.00000\t2700.00000\t0.13300\t9.86700\t109.86700\t",
+    "values": [
+      "1.90405 / 8.09595 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "2700.00000 / 0.00000 J",
+      "7.50000 W",
+      "0.13300 / 9.86700 g",
+      "36.00000 / 0.00000 g",
+      "109.86700 g",
+      "9.86700 g / 8.98086%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "limited-solvent900",
+    "geometry": {
+      "grain": {
+        "height": 7.520078388589963,
+        "width": 7.520078388589963,
+        "x": 755.484960805705,
+        "y": 362.47992161141
+      },
+      "ice": null,
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 27.5,
+        "width": 174,
+        "x": 168,
+        "y": 342.5
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "20"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "900"
+      }
+    ],
+    "lastRow": "13\t10\t20\t0.3\tstirred\t900.000000\t0.00000\t10.00000\t24.04788\t4340.20149\t2.80015\t7.19985\t27.19985\t",
+    "values": [
+      "0.00000 / 10.00000 g",
+      "24.04788 °C",
+      "444.66667 s",
+      "3335.00000 / 1005.20149 J",
+      "0.28564 W",
+      "2.80015 / 7.19985 g",
+      "7.20000 / 2.80000 g",
+      "27.19985 g",
+      "35.99927 g / 26.47019%",
+      "10.00000 / 30.00000 g"
+    ]
+  },
+  {
+    "label": "mass20-water20-H0.1-900",
+    "geometry": {
+      "grain": {
+        "height": 12.480550674890512,
+        "width": 12.480550674890512,
+        "x": 753.0047246625547,
+        "y": 357.51944932510946
+      },
+      "ice": {
+        "height": 107.17785020499208,
+        "width": 107.17785020499208,
+        "x": 201.41107489750397,
+        "y": 262.82214979500793
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 29.48880640878154,
+        "width": 174,
+        "x": 168,
+        "y": 340.51119359121844
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "20"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "20"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.1"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "900"
+      }
+    ],
+    "lastRow": "14\t20\t20\t0.1\tstirred\t900.000000\t13.25337\t6.74663\t0.00000\t2250.00000\t12.80015\t7.19985\t27.19985\t",
+    "values": [
+      "13.25337 / 6.74663 g",
+      "0.00000 °C",
+      "2668.00000 s",
+      "2250.00000 / 0.00000 J",
+      "2.50000 W",
+      "12.80015 / 7.19985 g",
+      "7.20000 / 12.80000 g",
+      "27.19985 g",
+      "35.99927 g / 26.47019%",
+      "20.00000 / 40.00000 g"
+    ]
+  },
+  {
+    "label": "mass5-water150-H0.4-900",
+    "geometry": {
+      "grain": {
+        "height": 0.24928259879285605,
+        "width": 0.24928259879285605,
+        "x": 759.1203587006036,
+        "y": 369.7507174012072
+      },
+      "ice": null,
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 13.75,
+        "width": 174,
+        "x": 168,
+        "y": 356.25
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "5"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "150"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.4"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "900"
+      }
+    ],
+    "lastRow": "15\t5\t150\t0.4\tstirred\t900.000000\t0.00000\t5.00000\t24.99998\t2189.99958\t0.00010\t4.99990\t154.99990\t",
+    "values": [
+      "0.00000 / 5.00000 g",
+      "24.99998 °C",
+      "166.75000 s",
+      "1667.50000 / 522.49958 J",
+      "0.00001 W",
+      "0.00010 / 4.99990 g",
+      "54.00000 / 0.00000 g",
+      "154.99990 g",
+      "3.33327 g / 3.22574%",
+      "5.00000 / 155.00000 g"
+    ]
+  },
+  {
+    "label": "manual-3d-pause",
+    "geometry": null,
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "27"
+      }
+    ],
+    "lastRow": "16\t10\t100\t0.3\tstirred\t27.020500\t9.39234\t0.60766\t0.00000\t202.65375\t7.23072\t2.76928\t102.76928\t",
+    "values": [
+      "9.39234 / 0.60766 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "202.65375 / 0.00000 J",
+      "7.50000 W",
+      "7.23072 / 2.76928 g",
+      "36.00000 / 0.00000 g",
+      "102.76928 g",
+      "2.76928 g / 2.69465%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "before-live2d90",
+    "geometry": {
+      "grain": {
+        "height": 8.019539241388667,
+        "width": 8.019539241388667,
+        "x": 755.2352303793057,
+        "y": 361.98046075861134
+      },
+      "ice": {
+        "height": 90.4881058472924,
+        "width": 90.4881058472924,
+        "x": 209.7559470763538,
+        "y": 279.5118941527076
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 7.565917608625229,
+        "width": 174,
+        "x": 168,
+        "y": 362.4340823913748
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "90"
+      }
+    ],
+    "lastRow": "17\t10\t100\t0.3\tstirred\t90.000000\t7.97601\t2.02399\t0.00000\t675.00000\t3.39596\t6.60404\t106.60404\t",
+    "values": [
+      "7.97601 / 2.02399 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "675.00000 / 0.00000 J",
+      "7.50000 W",
+      "3.39596 / 6.60404 g",
+      "36.00000 / 0.00000 g",
+      "106.60404 g",
+      "6.60404 g / 6.19493%",
+      "10.00000 / 110.00000 g"
+    ]
+  },
+  {
+    "label": "after-live2d-pause",
+    "geometry": {
+      "grain": {
+        "height": 7.546707451701076,
+        "width": 7.546707451701076,
+        "x": 755.4716462741495,
+        "y": 362.4532925482989
+      },
+      "ice": {
+        "height": 89.17716449127198,
+        "width": 89.17716449127198,
+        "x": 210.411417754364,
+        "y": 280.822835508728
+      },
+      "viewBox": "0 0 1100 619",
+      "water": {
+        "height": 8.752613088448468,
+        "width": 174,
+        "x": 168,
+        "y": 361.24738691155153
+      }
+    },
+    "inputs": [
+      {
+        "name": "Melting and dissolving guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Comparison sample mass",
+        "value": "10"
+      },
+      {
+        "name": "Comparison solvent mass",
+        "value": "100"
+      },
+      {
+        "name": "Comparison heat conductance",
+        "value": "0.3"
+      },
+      {
+        "name": "Comparison elapsed time",
+        "value": "105.2"
+      }
+    ],
+    "lastRow": "18\t10\t100\t0.3\tstirred\t105.192400\t7.63435\t2.36565\t0.00000\t788.94300\t2.83000\t7.17000\t107.17000\t",
+    "values": [
+      "7.63435 / 2.36565 g",
+      "0.00000 °C",
+      "444.66667 s",
+      "788.94300 / 0.00000 J",
+      "7.50000 W",
+      "2.83000 / 7.17000 g",
+      "36.00000 / 0.00000 g",
+      "107.17000 g",
+      "7.17000 g / 6.69031%",
+      "10.00000 / 110.00000 g"
+    ]
+  }
+]

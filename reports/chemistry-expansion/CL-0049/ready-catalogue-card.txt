@@ -1,0 +1,7 @@
+Ready to explore
+CL-0049 · CLASS 4
+Observe melting and freezing of a chosen material
+
+Follow a complete reference-water melting/freezing cycle,compare temperature with phase mass,and calculate sensible/latent heat in a120-second guided practical.
+
+Open laboratory

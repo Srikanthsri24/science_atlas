@@ -1,0 +1,10 @@
+{
+  "afterReload": true,
+  "consoleWarningsOrErrors": [],
+  "retainedTrials": 15,
+  "themesTested": [
+    "light",
+    "dark"
+  ],
+  "escapeClosesTheatre": true
+}

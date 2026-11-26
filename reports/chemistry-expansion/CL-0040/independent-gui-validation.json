@@ -1,0 +1,247 @@
+{
+  "method": "No application model imported. Invert actual SVG transforms; classify source/rising/captured from physical height, independently weight declared cohorts and verify all displayed mass and percentage readings.",
+  "passed": 24,
+  "failed": 0,
+  "states": [
+    {
+      "case": "live-2d-guide",
+      "timeS": 0.1101036857142743,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 0.5217391304347826,
+        "captured": 10.46086956521739
+      },
+      "passed": true
+    },
+    {
+      "case": "full-guide-2d",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 0.0,
+        "captured": 10.982608695652173
+      },
+      "passed": true
+    },
+    {
+      "case": "reference-initial",
+      "timeS": 0,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "reference-early",
+      "timeS": 0.03,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 10.982608695652173,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "reference-mixed",
+      "timeS": 0.08,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 3.208695652173913,
+        "captured": 7.773913043478261
+      },
+      "passed": true
+    },
+    {
+      "case": "reference-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 0.0,
+        "captured": 10.982608695652173
+      },
+      "passed": true
+    },
+    {
+      "case": "field-off-early",
+      "timeS": 0.03,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "field-off-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "strong-field-early",
+      "timeS": 0.03,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 0.0,
+        "captured": 12.0
+      },
+      "passed": true
+    },
+    {
+      "case": "strong-field-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 0.0,
+        "captured": 12.0
+      },
+      "passed": true
+    },
+    {
+      "case": "reversed-pole-mixed",
+      "timeS": 0.08,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 3.208695652173913,
+        "captured": 7.773913043478261
+      },
+      "passed": true
+    },
+    {
+      "case": "reversed-pole-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 0.0,
+        "captured": 10.982608695652173
+      },
+      "passed": true
+    },
+    {
+      "case": "largest-gap-early",
+      "timeS": 0.03,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "largest-gap-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "weak-field-mixed",
+      "timeS": 0.08,
+      "reconstructedIronG": {
+        "source": 11.42608695652174,
+        "rising": 0.5739130434782609,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "weak-field-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 11.42608695652174,
+        "rising": 0.0,
+        "captured": 0.5739130434782609
+      },
+      "passed": true
+    },
+    {
+      "case": "strongest-smallest-gap-first-rise",
+      "timeS": 0.001,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 12.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "strongest-smallest-gap-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 0.0,
+        "captured": 12.0
+      },
+      "passed": true
+    },
+    {
+      "case": "zero-field-on-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 12.0,
+        "rising": 0.0,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "smallest-gap-early",
+      "timeS": 0.03,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 0.0,
+        "captured": 12.0
+      },
+      "passed": true
+    },
+    {
+      "case": "smallest-gap-final",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 0.0,
+        "rising": 0.0,
+        "captured": 12.0
+      },
+      "passed": true
+    },
+    {
+      "case": "paused-guide-before-resume",
+      "timeS": 0.04271428571428572,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 10.982608695652173,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "paused-guide-after-resume",
+      "timeS": 0.04501435714286841,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 10.982608695652173,
+        "captured": 0.0
+      },
+      "passed": true
+    },
+    {
+      "case": "manual-1x-completed",
+      "timeS": 0.3,
+      "reconstructedIronG": {
+        "source": 1.017391304347826,
+        "rising": 0.0,
+        "captured": 10.982608695652173
+      },
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "rows": 25,
+    "scrollWidth": 1280,
+    "tableContent": 1240,
+    "tableWidth": 1100,
+    "trialSections": 25,
+    "width": 1280,
+    "wrappedNumericCells": []
+  },
+  {
+    "scrollWidth": 320,
+    "tableContent": 1240,
+    "tableWidth": 272,
+    "width": 320
+  }
+]

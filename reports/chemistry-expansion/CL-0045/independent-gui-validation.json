@@ -1,0 +1,300 @@
+{
+  "passed": true,
+  "states": 42,
+  "checks": [
+    {
+      "name": "reference-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-moving",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-2d-end",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-paused",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-paused-stable",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-3d-end",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-80",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-nearest-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-nearest-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "reference-nearest-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "positive-bias-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "positive-bias-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "negative-bias-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "negative-bias-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-negative-nearest-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-negative-nearest-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-negative-nearest-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-positive-tenths-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-positive-tenths-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "low-positive-tenths-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-negative-tenths-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-negative-tenths-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-negative-tenths-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-positive-nearest-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-positive-nearest-half",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "high-positive-nearest-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "exact-mark-nearest-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "exact-mark-nearest-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "exact-mark-tenths-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "exact-mark-tenths-stop",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-initial",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-playing-first",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-playing-later",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-paused",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-paused-stable",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-resumed-later",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "manual-resumed-paused",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "guide-scrub-60",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 0,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "camera-before",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    },
+    {
+      "name": "camera-after",
+      "passed": true,
+      "sectionPoints": 162,
+      "insetPoints": 82,
+      "scope": "Actual full physical sections,volume-correct meniscus,biased tick heights,magnified curves and displayed paired readings; no app imports."
+    }
+  ]
+}

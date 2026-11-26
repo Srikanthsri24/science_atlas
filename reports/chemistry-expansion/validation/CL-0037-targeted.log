@@ -1,0 +1,20 @@
+✔ stored records reject invalid units and retain bounded observations (3.466189ms)
+✔ worked substitutions contain current values, correct unit conversion and boundary limitation (1.335557ms)
+✔ exam report escapes student input and retains each trial calculation without external links (3.033933ms)
+✔ closed microcell conserves positive mass with reflection symmetry (14.479212ms)
+✔ diffusion coefficient has correct SI scale and inverse-radius dependence (0.639592ms)
+✔ early spreading agrees with unbounded variance growth, later closed-cell variance saturates (0.539364ms)
+✔ dimensionless profiles obey square-length and radius time scaling (0.882805ms)
+✔ renderable voxel concentrations integrate to fixed dye mass (8.821214ms)
+✔ spectral solution agrees with independent explicit finite-volume stepping (27.116904ms)
+✔ guide lasts 110 seconds and distinguishes accelerated time and model limits (1.534072ms)
+✔ closed-cell variance derivative includes reflecting-wall correction (4.091778ms)
+✔ diffusion reduces peak and concentration variation while conserving the mean (3.611536ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1349.328435

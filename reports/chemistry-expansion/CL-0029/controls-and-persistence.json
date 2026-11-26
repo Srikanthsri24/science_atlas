@@ -1,0 +1,10 @@
+{
+  "replayAt": "0.10460000000009313",
+  "pauseAt": "0.9556999999999535",
+  "recordLockedDuringGuide": true,
+  "escapeClosedTheatre": true,
+  "conclusion": "QA result: the 50 °C sample crossed 9 g between 33.3 and 33.4 model s; the 10 °C sample crossed between 86.3 and 86.4 s. Predicted times are about 33.363 and 86.309 s, giving t_A/t_B ≈ 2.587. Equal temperatures produced matching masses, and exchanging temperatures exchanged the outcomes. Solid plus dissolved sugar remained 10 g per cell. T_K = T_C + 273.15 gives 283.15 and 323.15 K. These are simulated values from chosen transfer parameters and an approximate solubility table, with ideal thermostats and mixing; they are not calibrated physical measurements.",
+  "note16": "QA: the resumed 1× manual trial completed 180 model seconds with both 10/50 °C samples fully dissolved.",
+  "prediction": "QA trial: the matched 50 °C sample should reach 9 g dissolved before the 10 °C sample under the chosen temperature-sensitive model.",
+  "rows": 16
+}

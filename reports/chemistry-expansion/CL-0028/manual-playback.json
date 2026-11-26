@@ -1,0 +1,15 @@
+{
+  "start": "0.15580000001192093",
+  "paused": "0.8214000000120141",
+  "recordLockedDuringPlayback": true,
+  "end": {
+    "buttons": [
+      "2D view",
+      "3D view",
+      "Exit theatre",
+      "Start paired trial · 120 s"
+    ],
+    "caption": "YOUR INVESTIGATION\n\nAt 120.0 model s: A dissolved >9.999 g; B dissolved 10.000 g. Each cell still accounts for 10 g sugar. The shared 9 g target makes the time comparison fair.\n\nThe guide advances 1.5 model seconds per second during its 80-second experiment. Manual playback is 1× model time. Chosen kinetics are not calibrated real-world times. Starting-water levels are reference geometry; solution-volume changes are excluded. Drag to orbit; scroll to zoom.",
+    "time": "120"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 262.5,
+    "h": 143,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 119.5
+  },
+  "footer": {
+    "bottom": 304,
+    "h": 33.5,
+    "right": 836,
+    "w": 828,
+    "x": 8,
+    "y": 270.5
+  },
+  "guide": "51.6",
+  "height": 390,
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 312,
+    "h": 240,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 72
+  },
+  "svgTexts": [],
+  "time": "936",
+  "width": 844,
+  "name": "3d-phone-landscape-theatre-fixed",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

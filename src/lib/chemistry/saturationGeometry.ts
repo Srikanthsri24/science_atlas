@@ -1,0 +1,6 @@
+export const saturationBeakerX=2.5,saturationBaseY=1.2,saturationRadius=3.5,saturationSolidDensity=2.16;
+export function saturationSolidSide(solidG:number){if(!Number.isFinite(solidG)||solidG<0||solidG>24.1)throw new RangeError('Supported residual mass required');return Math.cbrt(solidG/(64*saturationSolidDensity))}
+export function saturationSolidPose(i:number,side:number){if(!Number.isInteger(i)||i<0||i>=64||!Number.isFinite(side)||side<0||side>.56)throw new RangeError('Valid residual block required');return{x:saturationBeakerX+(i%8-3.5)*.62,y:1.5+side/2,z:(Math.floor(i/8)-3.5)*.62}}
+export function saturationWaterHeight(waterMl:number){if(!Number.isFinite(waterMl)||waterMl<100||waterMl>250)throw new RangeError('Reference water 100–250 mL required');return waterMl/(Math.PI*saturationRadius**2)}
+export function saturationCupAngle(fraction:number){if(!Number.isFinite(fraction)||fraction<0||fraction>1)throw new RangeError('Transfer fraction 0–1 required');return fraction===0?0:-1.7*Math.sin(Math.PI*fraction/2)}
+export function saturationMassLabel(mass:number,places=3){if(!Number.isFinite(mass)||mass<0||mass>60||!Number.isInteger(places)||places<0||places>9)throw new RangeError('Salt mass 0–60 g and 0–9 decimal places required');const minimum=10**-places;return mass>0&&mass<minimum?`<${minimum.toFixed(places)}`:mass.toFixed(places)}

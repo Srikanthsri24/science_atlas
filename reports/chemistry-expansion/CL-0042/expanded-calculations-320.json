@@ -1,0 +1,48 @@
+{
+  "canvas": {
+    "bottom": -5289.9375,
+    "h": 272.0234375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -5561.9609375
+  },
+  "footer": {
+    "bottom": -5020.4609375,
+    "h": 160,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": -5180.4609375
+  },
+  "guide": "118.74430000001205",
+  "height": 740,
+  "left": "5",
+  "legend": {
+    "bottom": -5180.4609375,
+    "h": 109.4765625,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -5289.9375
+  },
+  "right": "25",
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": -5012.4609375,
+    "h": 650,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -5662.4609375
+  },
+  "texts": [],
+  "timeS": "300",
+  "width": 320,
+  "name": "expanded-calculations-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true,
+  "camera": null,
+  "cameraSelected": "all"
+}

@@ -1,0 +1,26 @@
+{
+  "clippedScaleLabels": [],
+  "outsideText": [],
+  "overflow": false,
+  "stage": {
+    "bottom": 476.8125,
+    "height": 379.8125,
+    "left": 0,
+    "right": 320,
+    "top": 97,
+    "width": 320,
+    "x": 0,
+    "y": 97
+  },
+  "viewer": {
+    "bottom": 476.8125,
+    "height": 379.8125,
+    "left": 0,
+    "right": 320,
+    "top": 97,
+    "width": 320,
+    "x": 0,
+    "y": 97
+  },
+  "normalOverflow": false
+}

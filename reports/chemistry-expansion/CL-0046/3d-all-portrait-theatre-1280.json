@@ -1,0 +1,48 @@
+{
+  "camera": "all",
+  "canvas": {
+    "bottom": 755.8515625,
+    "h": 624.8515625,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 131
+  },
+  "distance": "16",
+  "footer": {
+    "bottom": 824.046875,
+    "h": 33.5,
+    "right": 1272,
+    "w": 1264,
+    "x": 8,
+    "y": 790.546875
+  },
+  "guide": "89.00809999999976",
+  "height": 960,
+  "legend": {
+    "bottom": 790.546875,
+    "h": 34.6953125,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 755.8515625
+  },
+  "offset": "-1.8136942962011948",
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 832.046875,
+    "h": 760.046875,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "timeS": "74.00809999999976",
+  "volume": "50",
+  "width": 1280,
+  "name": "3d-all-portrait-theatre-1280",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

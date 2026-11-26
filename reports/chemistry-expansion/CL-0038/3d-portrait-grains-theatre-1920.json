@@ -1,0 +1,36 @@
+{
+  "canvas": {
+    "bottom": 860.640625,
+    "h": 729.640625,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 902.140625,
+    "h": 33.5,
+    "right": 1912,
+    "w": 1904,
+    "x": 8,
+    "y": 868.640625
+  },
+  "guide": "100.6",
+  "height": 1080,
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 910.140625,
+    "h": 838.140625,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "time": "120",
+  "width": 1920,
+  "name": "3d-portrait-grains-theatre-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "level": "error",
+    "message": "RangeError: Sugar mass 0–10 g required\n    at stirringMassLabel (http://localhost:5182/src/lib/chemistry/stirringComparison.ts?t=1795616151282:4:53)\n    at SaturationDiagram (http://localhost:5182/src/components/chemistry/SaturationDiagram.tsx:157:79)\n    at Object.react_stack_bottom_frame (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:19991:20)\n    at renderWithHooks (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:5650:24)\n    at updateFunctionComponent (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:7495:21)\n    at beginWork (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:8575:20)\n    at runWithFiberInDEV (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:865:72)\n    at performUnitOfWork (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:13330:98)\n    at workLoopSync (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:13193:43)\n    at renderRootSync (http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33:13177:13)",
+    "timestamp": "2026-11-25T16:05:33.989Z",
+    "url": "http://localhost:5182/src/lib/chemistry/stirringComparison.ts?t=1795616151282"
+  },
+  {
+    "level": "warn",
+    "message": "%s\n\n%s\n An error occurred in the <SaturationDiagram> component. Consider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.",
+    "timestamp": "2026-11-25T16:05:33.990Z",
+    "url": "http://localhost:5182/node_modules/.vite-science-atlas-360/deps/react-dom_client.js?v=42ca7d33"
+  }
+]

@@ -1,0 +1,317 @@
+{
+  "method": "No application model imported. Independently solve corrected sphere drag, reconstruct actual SVG bed/cloud/clear/receiver box volumes and masses, verify each visible marker height and phase, compare every displayed mass/percentage and verify pause/resume/frozen-transfer behaviour.",
+  "passed": 31,
+  "failed": 0,
+  "states": [
+    {
+      "case": "live-2d-guide",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 17.358400000032816,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "live-2d-transfer-after",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 80.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "reference-initial",
+      "passed": true,
+      "settledSandG": 0.0,
+      "sourceSuspendedSandG": 2.0000000000000004,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 144
+    },
+    {
+      "case": "reference-early-before-transfer",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 1.5995031302635392,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 115
+    },
+    {
+      "case": "reference-early-small-transfer",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 1.5995031302635392,
+      "receiverSandG": 0,
+      "receiverWaterMl": 16.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 115
+    },
+    {
+      "case": "reference-early-mid-transfer",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 1.2009925484427404,
+      "receiverSandG": 0.398510581820799,
+      "receiverWaterMl": 39.84961864836951,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 86
+    },
+    {
+      "case": "reference-early-final-transfer",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 0.4069850578060365,
+      "receiverSandG": 1.1925180724575029,
+      "receiverWaterMl": 79.54999318020472,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 29
+    },
+    {
+      "case": "reference-settled-before-transfer",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "reference-settled-final-transfer",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 80.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "no-wait-final-transfer",
+      "passed": true,
+      "settledSandG": 0.0,
+      "sourceSuspendedSandG": 0.41198501872659155,
+      "receiverSandG": 1.5880149812734086,
+      "receiverWaterMl": 79.40074906367042,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 30
+    },
+    {
+      "case": "smallest-radius-initial",
+      "passed": true,
+      "settledSandG": 0.0,
+      "sourceSuspendedSandG": 2.0000000000000004,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 144
+    },
+    {
+      "case": "smallest-radius-early-before",
+      "passed": true,
+      "settledSandG": 0.20809835993337425,
+      "sourceSuspendedSandG": 1.7919016400666257,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 129
+    },
+    {
+      "case": "smallest-radius-early-small-transfer",
+      "passed": true,
+      "settledSandG": 0.20809835993337425,
+      "sourceSuspendedSandG": 1.6797990217236778,
+      "receiverSandG": 0.11210261834294788,
+      "receiverWaterMl": 15.957697125153604,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 121
+    },
+    {
+      "case": "smallest-radius-early-final",
+      "passed": true,
+      "settledSandG": 0.20809835993337425,
+      "sourceSuspendedSandG": 0.4093870367049517,
+      "receiverSandG": 1.382514603361674,
+      "receiverWaterMl": 79.47829637608993,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 29
+    },
+    {
+      "case": "smallest-radius-six-seconds-before",
+      "passed": true,
+      "settledSandG": 0.6242950798001227,
+      "sourceSuspendedSandG": 1.375704920199877,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 99
+    },
+    {
+      "case": "smallest-radius-six-seconds-mid-transfer",
+      "passed": true,
+      "settledSandG": 0.6242950798001227,
+      "sourceSuspendedSandG": 1.1981985632983756,
+      "receiverSandG": 0.17750635690150185,
+      "receiverWaterMl": 39.93301646909377,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 86
+    },
+    {
+      "case": "smallest-radius-longest-wait-final",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 80.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "largest-radius-initial",
+      "passed": true,
+      "settledSandG": 0.0,
+      "sourceSuspendedSandG": 2.0000000000000004,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 144
+    },
+    {
+      "case": "largest-radius-early-before",
+      "passed": true,
+      "settledSandG": 0.7990127790738822,
+      "sourceSuspendedSandG": 1.2009872209261179,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 86
+    },
+    {
+      "case": "largest-radius-early-small-transfer",
+      "passed": true,
+      "settledSandG": 0.7990127790738822,
+      "sourceSuspendedSandG": 1.2009872209261179,
+      "receiverSandG": 0,
+      "receiverWaterMl": 16.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 86
+    },
+    {
+      "case": "largest-radius-early-final",
+      "passed": true,
+      "settledSandG": 0.7990127790738822,
+      "sourceSuspendedSandG": 0.40200982797660567,
+      "receiverSandG": 0.7989773929495122,
+      "receiverWaterMl": 79.69849909700018,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 28
+    },
+    {
+      "case": "largest-radius-settled-final",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 80.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "largest-radius-longest-wait-final",
+      "passed": true,
+      "settledSandG": 1.9999999999999998,
+      "sourceSuspendedSandG": 0.0,
+      "receiverSandG": 0,
+      "receiverWaterMl": 80.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 0
+    },
+    {
+      "case": "manual-settling-paused",
+      "passed": true,
+      "settledSandG": 0.30854278844260064,
+      "sourceSuspendedSandG": 1.6914572115573991,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 122
+    },
+    {
+      "case": "manual-settling-after-resume",
+      "passed": true,
+      "settledSandG": 0.47106441818400613,
+      "sourceSuspendedSandG": 1.528935581815994,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.0,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 110
+    },
+    {
+      "case": "manual-transfer-playing-before",
+      "passed": true,
+      "settledSandG": 0.47106441818400613,
+      "sourceSuspendedSandG": 1.528935581815994,
+      "receiverSandG": 0,
+      "receiverWaterMl": 0.7893333332700035,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 110
+    },
+    {
+      "case": "manual-transfer-playing-after",
+      "passed": true,
+      "settledSandG": 0.47106441818400613,
+      "sourceSuspendedSandG": 1.528935581815994,
+      "receiverSandG": 0,
+      "receiverWaterMl": 4.429866666602592,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 110
+    },
+    {
+      "case": "manual-transfer-paused",
+      "passed": true,
+      "settledSandG": 0.47106441818400613,
+      "sourceSuspendedSandG": 1.528935581815994,
+      "receiverSandG": 0,
+      "receiverWaterMl": 6.669866666603834,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 110
+    },
+    {
+      "case": "manual-transfer-completed",
+      "passed": true,
+      "settledSandG": 0.47106441818400613,
+      "sourceSuspendedSandG": 0.4061040646918351,
+      "receiverSandG": 1.1228315171241587,
+      "receiverWaterMl": 79.57628999353805,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 29
+    },
+    {
+      "case": "manual-3d-transfer-completed",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 0.4069850578060365,
+      "receiverSandG": 1.1925180724575029,
+      "receiverWaterMl": 79.54999318020472,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 29
+    },
+    {
+      "case": "guide-scrubbed-early-transfer",
+      "passed": true,
+      "settledSandG": 0.40049686973646054,
+      "sourceSuspendedSandG": 1.0421910503154,
+      "receiverSandG": 0.5573120799481395,
+      "receiverWaterMl": 47.78969355473655,
+      "totalG": 102.0,
+      "actualVisibleMarkers": 75
+    }
+  ]
+}

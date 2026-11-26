@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "actualBrowserRows": 24,
+  "persistenceExact": true,
+  "allDisplayedMassesAndPercentagesMatchTestedModel": true,
+  "actualRenderedStates": 24,
+  "allMarkerHeightsAndPhasesMatchTestedModel": true,
+  "manualCompletedAtPhysicalSeconds": 0.3,
+  "liveGuideResumeMovedIron": true,
+  "downloadedReportTrialSections": 24,
+  "actualAirborneFormulaSubstitutionsMatch": true,
+  "externalLinks": 0
+}

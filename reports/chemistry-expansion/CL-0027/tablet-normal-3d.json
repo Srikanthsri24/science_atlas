@@ -1,0 +1,18 @@
+{
+  "canvas": {
+    "height": 800,
+    "width": 480,
+    "x": 275,
+    "y": 327.34375
+  },
+  "guide": "110",
+  "height": 1180,
+  "overflow": false,
+  "stage": {
+    "height": 800,
+    "width": 480,
+    "x": 275,
+    "y": 327.34375
+  },
+  "width": 820
+}

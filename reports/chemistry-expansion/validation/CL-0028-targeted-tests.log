@@ -1,0 +1,21 @@
+✔ independent Three.js projections place every apparatus/reference corner clear of readouts (10.752784ms)
+✔ camera fitting rejects invalid dimensions and empty bounds (0.712801ms)
+✔ paired stirring changes only the selected stirring coefficient and conserves both samples (3.478934ms)
+✔ equal settings give identical trajectories and exchanging labels swaps outputs (0.633062ms)
+✔ threshold times reach exactly nine grams and independently obey inverse coefficient scaling (0.624247ms)
+✔ after fast completion instantaneous rate can be lower despite a faster threshold time (0.270004ms)
+✔ 110-second guide keeps one paired experiment continuous and reports actual threshold state (3.203432ms)
+✔ invalid settings, times and guide inputs are rejected (0.803701ms)
+✔ viewer mass labels preserve the distinction between tiny residue and complete dissolution (0.329844ms)
+✔ paired record validates inputs, caps history and preserves student notes (5.672804ms)
+✔ report contains actual observations, full units and worked substitutions with escaped notes (1.321663ms)
+✔ all grain corners fit inside the cell and clear the entire annular rod path (0.74922ms)
+✔ zero stirring rod stays still and every moving rod clears glass and supported grains (1.153843ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 719.004623

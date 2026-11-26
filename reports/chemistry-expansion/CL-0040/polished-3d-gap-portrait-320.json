@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 807.4921875,
+    "h": 236.453125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 571.0390625
+  },
+  "footer": {
+    "bottom": 927.3671875,
+    "h": 33.5,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 893.8671875
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": 893.8671875,
+    "h": 86.375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 807.4921875
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 935.3671875,
+    "h": 501.328125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 434.0390625
+  },
+  "texts": [],
+  "time": "0.3",
+  "width": 320,
+  "name": "polished-3d-gap-portrait-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,7 @@
+# CL-0044 implementation plan
+
+Original upright paper strip with a clearly marked pencil origin above a shallow constant-level solvent pool. Glass development chamber, paper support and marked solvent front. Reference dry mixed spot remains at origin until solvent arrives; then two coloured profiles travel and broaden. The paper must show no wet ink above the wet front. Phase colours/intensity are illustrative, not spectrophotometry.
+
+2D: calibrated strip, origin/front/peak rulers and linked concentration profile. Show distances from one origin and workedRf substitutions, undefined before front advances.3D: original chamber/paper/clip and visible changing solvent-front and ink patterns; complete apparatus, paper-face and band inspection cameras with tested world-space orthographic framing. Reference/equal-affinity/reversed-affinity presets; manual1x physical time plus a120s guide spanning600 physical seconds. Equal affinities must visibly overlap rather than claim successful separation.
+
+Observation table: physical time,front travel,each dye peak distance,Rf,band width,nominal resolution and2mg ink budget. Exam-style report includes aim,apparatus,prediction,method,observations,formula substitution,result andlimitations. Class4 core is seeing a mixture separate; partition ratios,Gaussian normalisation andresolution are teacher extensions. Both16:9 and9:16,normal/theatre and phone landscape require actual browser checks. Model tests alone do not count as a completed lab.

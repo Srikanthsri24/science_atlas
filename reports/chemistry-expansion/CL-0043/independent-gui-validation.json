@@ -1,0 +1,181 @@
+{
+  "passed": true,
+  "states": 35,
+  "checks": [
+    {
+      "name": "guide-live-portrait",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "guide-paused",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "guide-paused-final",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "guide-live-late",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "final-reference-7200",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "reference-initial",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "reference-before-onset",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "reference-onset",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "reference-3600",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "reference-7200",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-slow-initial",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-slow-before",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-slow-3600",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-slow-last-supported",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-fast-initial",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-fast-before",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-fast-onset",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt5-fast-7200",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-fast-initial",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-fast-before",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-fast-onset",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-fast-7200",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-slow-initial",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-slow-before",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-slow-onset",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "salt25-slow-7200",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "onset-label-verified",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-playing-first",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-playing-later",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-paused",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-paused-stable",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-resumed",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-resumed-later",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "manual-final-paused",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    },
+    {
+      "name": "guide-scrub-60",
+      "passed": true,
+      "scope": "Actual plan cube volumes,5-cube centre cut,liquid displacement inversion,solution water/salt/crystal masses,all six readings and conservation; no application model imports."
+    }
+  ]
+}

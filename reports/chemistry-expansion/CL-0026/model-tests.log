@@ -1,0 +1,14 @@
+✔ cylinder fills by delivered volume and conserves the finite water inventory (3.872374ms)
+✔ integrated concave meniscus contains the stated volume, including tiny initial fills (21.495989ms)
+✔ model graduations align with the lowest meniscus point and resolve one millilitre (0.772382ms)
+✔ independent ray interpolation verifies the front-scale parallax sign and distance scaling (0.796738ms)
+✔ empty, below-range and off-scale projections never invent a valid measured reading (0.929785ms)
+✔ 110-second guide holds the same filled water while moving only the observer and validates boundaries (2.930931ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1050.292878

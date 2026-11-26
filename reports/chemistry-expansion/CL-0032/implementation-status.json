@@ -1,0 +1,19 @@
+{
+  "lab": "CL-0032",
+  "status": "complete",
+  "reviewStatus": "passed_internal_functional_review",
+  "targetedTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "fullRegression": {
+    "passed": 1984,
+    "failed": 0
+  },
+  "chemistryTests": {
+    "passed": 294,
+    "failed": 0
+  },
+  "animationSeconds": 110,
+  "guiTrials": 13
+}

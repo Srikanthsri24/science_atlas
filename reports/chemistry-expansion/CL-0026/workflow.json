@@ -1,0 +1,14 @@
+{
+  "table": "Same water · compare front-scale readings at different eye positions\nTrial\tTarget mL\tFill s\tActual mL\tReservoir mL\tEye Δ cm\tDistance cm\tProjected mL\tReading mL\tError mL\tMy observation\n1\t50\t0.000000\t0.000000\t50.000000\t0.000000\t8\tNot readable\tNo valid reading\tNot applicable\t\n2\t50\t20.000000\t50.000000\t0.000000\t0.000000\t8\t50.000000\t50\t0.000000\t\n3\t50\t16.195300\t40.488250\t9.511750\t0.000000\t8\t40.488250\t40\t-0.488250\t\n4\t50\t20.000000\t50.000000\t0.000000\t0.000000\t8\t50.000000\t50\t0.000000\t\n5\t50\t20.000000\t50.000000\t0.000000\t2.000000\t8\t51.533981\t52\t2.000000\t\n6\t50\t20.000000\t50.000000\t0.000000\t-2.000000\t8\t48.466019\t48\t-2.000000\t\n7\t50\t20.000000\t50.000000\t0.000000\t0.000000\t8\t50.000000\t50\t0.000000\t\n8\t50\t20.000000\t50.000000\t0.000000\t2.000000\t6\t52.045308\t52\t2.000000\t\n9\t50\t20.000000\t50.000000\t0.000000\t2.000000\t12\t51.022654\t51\t1.000000\t\n10\t100\t20.000000\t100.000000\t0.000000\t2.000000\t6\t102.045308\tNo valid reading\tNot applicable\t\n11\t10\t20.000000\t10.000000\t0.000000\t-2.000000\t6\t7.954692\tNo valid reading\tNot applicable\t\n12\t10\t20.000000\t10.000000\t0.000000\t0.000000\t6\t10.000000\t10\t0.000000\t\n13\t50.5\t20.000000\t50.500000\t0.000000\t0.000000\t6\t50.500000\t51\t0.500000\t\n14\t50.5\t2.000000\t5.050000\t45.450000\t0.000000\t6\tNot readable\tNo valid reading\tNot applicable\t\n15\t100\t20.000000\t100.000000\t0.000000\t0.000000\t6\t100.000000\t100\t0.000000\t",
+  "readings": [
+    "100.000 / 0.000 mL",
+    "100 mL",
+    "100.000000 mL",
+    "+0.000 mL",
+    "+0.000 mL",
+    "+0.000 / 100.000 mL",
+    "100.000 = 100.000 mL",
+    "Read the lowest meniscus point against the front scale"
+  ],
+  "logs": []
+}

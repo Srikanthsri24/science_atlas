@@ -1,0 +1,204 @@
+{
+  "passed": true,
+  "states": 33,
+  "checks": [
+    {
+      "name": "guide-end-portrait",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "guide-paused",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "guide-paused-stable",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reference-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reference-before-wetting",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reference-arrival",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reference-60",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reference-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "equal-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "equal-60",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "equal-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reversed-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reversed-60",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "reversed-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-low-slow-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-low-slow-arrival",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-low-slow-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-high-fast-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-high-fast-arrival",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "low-high-fast-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-low-slow-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-low-slow-arrival",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-low-slow-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-high-fast-initial",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-high-fast-arrival",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "high-high-fast-600",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-playing-first",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-playing-later",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-paused",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-paused-stable",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-resumed-later",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "manual-resumed-paused",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    },
+    {
+      "name": "guide-scrub-60",
+      "passed": true,
+      "densitySamples": 962,
+      "scope": "Actual SVG ruler/origin/front and peak geometry,Rf readouts and every plotted density sample; colour image is illustrative,not a calibrated mass image. Independent normal CDF via math.erf; no app imports."
+    }
+  ]
+}

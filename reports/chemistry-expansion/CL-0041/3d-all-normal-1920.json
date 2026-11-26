@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": 418.984375,
+    "h": 548.2421875,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": -129.2578125
+  },
+  "footer": {
+    "bottom": 487.1796875,
+    "h": 33.5,
+    "right": 1542,
+    "w": 1199,
+    "x": 343,
+    "y": 453.6796875
+  },
+  "guide": "10.219899999987915",
+  "height": 1080,
+  "legend": {
+    "bottom": 453.6796875,
+    "h": 34.6953125,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": 418.984375
+  },
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 495.1796875,
+    "h": 683.4375,
+    "right": 1550,
+    "w": 1215,
+    "x": 335,
+    "y": -188.2578125
+  },
+  "texts": [],
+  "waitS": "0.017591999999033162",
+  "width": 1920,
+  "withdrawalMl": "0",
+  "name": "3d-all-normal-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

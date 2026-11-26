@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0047",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/layeredLiquids.ts": "97f21780986fe2d5f08052f1d5d7ef7d2dfe4f3f6149e7d7b2e88f2ac8e8ac18",
+    "src/lib/chemistry/layeredLiquidsGeometry.ts": "38790cc47644ce8800196902752bca8fe6e3f1aa9b4707914b07f5397a8317be",
+    "src/lib/chemistry/layeredLiquidsRecord.ts": "7503350c74a87dafd00641579e70853e7c1e32c71e0703bcff4c787868b9de2a",
+    "src/components/chemistry/LayeredLiquidsDiagram.tsx": "238f39769d90ed9b3e4a53073f6743d9e0ab004bb61813f883827ca45b13fd7b",
+    "src/components/chemistry/LayeredLiquidsScene.tsx": "58f46928cfcf6db35c61856277af1ff7015ec7a821dd333b70b4fe8fd310e709",
+    "src/components/chemistry/LayeredLiquidsLab.tsx": "ffac2a1353718ad13bcc6b78c066bb6debc9ecaff8b479b50a7af3e8855bb702",
+    "src/components/chemistry/layeredLiquids.css": "639e0a43eaa918f54f54edf2ffebf3214453d1fa66f5d6a097a5e203c94824a1",
+    "tests/chemistry-layered-liquids.test.mjs": "733f156c70ee7b12160781a1cade32ad35a9ffc3e6c8097683619c6ca01f2083",
+    "tests/chemistry-layered-liquids-geometry.test.mjs": "517a61d414bedebd973569762cc5d12f0533882ebf600f04d673f17763fd1f78",
+    "tests/chemistry-layered-liquids-record.test.mjs": "7470becbbee197ee54a169484ac8f42dbdc55c6001aef1934017c9825d96092a",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "regressionTests": {
+    "passed": 2240,
+    "failed": 0
+  },
+  "finalTypeScript": "passed",
+  "build": "passed",
+  "geometryTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "practicalRecordTests": {
+    "passed": 4,
+    "failed": 0
+  }
+}

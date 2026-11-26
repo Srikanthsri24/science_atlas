@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 978.109375,
+    "h": 847.109375,
+    "right": 820,
+    "w": 820,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 1045.203125,
+    "h": 33.5,
+    "right": 812,
+    "w": 804,
+    "x": 8,
+    "y": 1011.703125
+  },
+  "guide": "22.381899999993642",
+  "height": 1180,
+  "legend": {
+    "bottom": 1011.703125,
+    "h": 33.59375,
+    "right": 820,
+    "w": 820,
+    "x": 0,
+    "y": 978.109375
+  },
+  "scrollWidth": 820,
+  "stage": {
+    "bottom": 1053.203125,
+    "h": 981.203125,
+    "right": 820,
+    "w": 820,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "time": "0.022994957142845336",
+  "width": 820,
+  "name": "3d-gap-theatre-820",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

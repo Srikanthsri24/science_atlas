@@ -1,0 +1,30 @@
+{
+  "texts": [
+    "SCIENCE ATLAS / MAGNETIC PICKUP",
+    "Attract iron. Account for every grain.",
+    "Field on · B₀=3.0 mT · gap=10 mm · pole=N",
+    "Fixed pickup face",
+    "10 mm",
+    "Marker 1 · rising",
+    "F↑ 4.498e-6 N",
+    "W↓ 3.924e-6 N",
+    "Force arrows capped; numbers authoritative",
+    "Physical time 0.030000 s · independent markers enlarged",
+    "Source iron",
+    "1.017 g",
+    "Rising iron",
+    "10.983 g",
+    "Captured iron",
+    "0.000 g",
+    "Source sand",
+    "36.000 g",
+    "Iron recovery",
+    "0.00%",
+    "Product purity",
+    "Undefined",
+    "Marker 1: rising · y=0.359 mm",
+    "Reference model · pure quartz response and entrainment neglected",
+    "Each iron marker represents1000 independent kernels, not a clump"
+  ],
+  "time": "0.03"
+}

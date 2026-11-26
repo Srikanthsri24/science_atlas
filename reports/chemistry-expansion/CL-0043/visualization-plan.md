@@ -1,0 +1,7 @@
+# CL-0043 visualization plan
+
+Original shallow transparent-sided evaporation dish on a stable balance/inspection platform. Fixed25°C reference environment, without a boiling flame or white steam cloud. Clearly labelled illustrative invisible-vapour transfer glyphs move away from the surface only during playback. Quantities show water, dissolved salt, crystal salt, wet residue and complete mass accounting.
+
+2D: side cutaway and plan view at a consistent physical scale, actual cube and free-liquid volumes, saturation timeline marker and phase-mass bars. The diagram must explain that dissolved salt becomes crystalline as capacity falls, rather than disappearing with water.3D: shallow dish,25 actual volume-equivalent cubic growth sites, liquid level excluding immersed cubes, complete dish and angled crystal/mother-liquor close-ups. Any microscopic ion inset must be explicitly schematic, not an actual population count.
+
+Interactive controls: initial dissolved salt mass, chosen effective drying coefficient and matched physical time. Clear start/pause/resume, reference/onset/late presets, independent guide timeline and contextual quantitative readings.120s guide; both16:9 and9:16, theatre and narrow-landscape layouts. Observation rows and exam report must distinguish model crystal mass from wet-residue weighing. No ready status until record/report,2D/3D implementation and individual browser QA are complete.

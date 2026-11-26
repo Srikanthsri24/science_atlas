@@ -1,0 +1,9 @@
+{
+  "trials": 13,
+  "checks": {
+    "examSections": true,
+    "workedValues": true,
+    "notes": true
+  },
+  "externalUrls": false
+}

@@ -1,0 +1,12 @@
+{
+  "guide": "120",
+  "inventory": "Ice 50.000 g · Water 0.000 g · Heat in 24000.0 J / out 24000.0 J",
+  "parameters": [
+    "50",
+    "400",
+    "120"
+  ],
+  "protocol": "cycle",
+  "reading": "-10.000 °C · ice",
+  "recordEnabled": true
+}

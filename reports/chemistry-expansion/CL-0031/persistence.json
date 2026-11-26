@@ -1,0 +1,53 @@
+{
+  "table": "Measured additions · same prescribed hold · distinguish two kinds of residue\nTrial\tWater mL\tDose\tDose clock s\tAdded g\tDissolved g\tSolid g\tCapacity g\tEquilibrium excess g\tTransient residue g\tMy observation\n1\t100\t0\t0.000000\t0.000000\t0.000000\t0.000000\t36.000000\t0.000000\t0.000000\t\n2\t100\t8\t122.000000\t40.000000\t35.997708\t4.002292\t36.000000\t4.000000\t0.002292\t\n3\t100\t8\t122.000000\t40.000000\t35.997708\t4.002292\t36.000000\t4.000000\t0.002292\t\n4\t100\t7\t122.000000\t35.000000\t34.988179\t0.011821\t36.000000\t0.000000\t0.011821\t\n5\t100\t12\t122.000000\t60.000000\t36.000000\t24.000000\t36.000000\t24.000000\t<0.000001\t\n6\t200\t8\t122.000000\t40.000000\t39.988179\t0.011821\t72.000000\t0.000000\t0.011821\t\n7\t250\t12\t122.000000\t60.000000\t59.988179\t0.011821\t90.000000\t0.000000\t0.011821\t\n8\t100\t1\t0.374800\t0.937000\t0.008725\t0.928275\t36.000000\t0.000000\t0.928275\t\n9\t100\t1\t1.000000\t2.500000\t0.061471\t2.438529\t36.000000\t0.000000\t2.438529\t\n10\t100\t1\t122.000000\t5.000000\t4.988206\t0.011794\t36.000000\t0.000000\t0.011794\t",
+  "notes": [
+    {
+      "label": "Saturation prediction",
+      "value": "QA: in 100 mL water, 7 complete 5 g portions should remain below the 36 g approximate capacity; 8 portions should exceed it and leave at least 4 g at equilibrium."
+    },
+    {
+      "label": "Saturation observation 1",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 2",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 3",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 4",
+      "value": "QA: below capacity but still a positive finite-time residue. Do not call this equilibrium saturation."
+    },
+    {
+      "label": "Saturation observation 5",
+      "value": "QA: 24 g equilibrium excess; the additional transient residue is positive but smaller than 0.000001 g."
+    },
+    {
+      "label": "Saturation observation 6",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 7",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 8",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 9",
+      "value": ""
+    },
+    {
+      "label": "Saturation observation 10",
+      "value": ""
+    },
+    {
+      "label": "Saturation conclusion",
+      "value": "QA result: 7 complete portions (35 g) in 100 mL water left 0.011821 g transient solid with no equilibrium excess. Eight portions (40 g) left 4.002292 g solid: 4 g equilibrium excess plus 0.002292 g transient residue. C = 0.36 × 100 = 36 g; max(0,40−36) = 4 g. In fresh 200 mL water the capacity was 72 g, so 40 g had no equilibrium excess. Vessel, dose cup and supply salt summed to 60 g. Timings and rates are chosen simulation parameters; finite-time residue alone is not proof of saturation."
+    }
+  ]
+}

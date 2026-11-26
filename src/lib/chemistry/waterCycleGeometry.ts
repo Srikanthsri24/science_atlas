@@ -1,0 +1,5 @@
+import{closedWaterCycleState}from'./closedWaterCycle';
+export const cycleJarRadiusCm=Math.sqrt(100/Math.PI),cycleFloorY=.6,cycleSites=16;
+export function waterCycleGeometry(airLitres:number,poolC:number,lidC:number,drainSeconds:number,timeS:number){const s=closedWaterCycleState(airLitres,poolC,lidC,drainSeconds,timeS),lidY=cycleFloorY+1+airLitres*10,dropletRadiusCm=Math.cbrt(3*s.lidG/(cycleSites*2*Math.PI));return{lidY,poolDepthCm:s.poolG/100,dropletRadiusCm,dropletRadiusMm:dropletRadiusCm*10,evapPhase:(s.grossEvaporatedG/.01)%1,condPhase:(s.grossCondensedG/.01)%1,returnPhase:(s.returnedG/.01)%1}}
+export function cycleDropletSite(i:number){if(!Number.isInteger(i)||i<0||i>=16)throw new RangeError('Pinned site0–15 required');return{x:(i%4-1.5)*2.1,z:(Math.floor(i/4)-1.5)*2.1}}
+export function cycleNumber(value:number,places=6){if(!Number.isFinite(value)||value<0||!Number.isInteger(places)||places<0||places>12)throw new RangeError('Finite nonnegative quantity required');const min=10**-places;return value>0&&value<min?`<${min.toFixed(places)}`:value.toFixed(places)}

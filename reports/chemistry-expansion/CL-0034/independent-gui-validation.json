@@ -1,0 +1,79 @@
+{
+  "checkedRows": [
+    {
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "trial": 4,
+      "passed": true
+    },
+    {
+      "trial": 5,
+      "passed": true
+    },
+    {
+      "trial": 6,
+      "passed": true
+    },
+    {
+      "trial": 7,
+      "passed": true
+    },
+    {
+      "trial": 8,
+      "passed": true
+    },
+    {
+      "trial": 9,
+      "passed": true
+    },
+    {
+      "trial": 10,
+      "passed": true
+    },
+    {
+      "trial": 11,
+      "passed": true
+    },
+    {
+      "trial": 12,
+      "passed": true
+    },
+    {
+      "trial": 13,
+      "passed": true
+    },
+    {
+      "trial": 14,
+      "passed": true
+    },
+    {
+      "trial": 15,
+      "passed": true
+    },
+    {
+      "trial": 16,
+      "passed": true
+    },
+    {
+      "trial": 17,
+      "passed": true
+    }
+  ],
+  "reportTrials": 17,
+  "reportNoExternalLinks": true,
+  "renderedRadiiCm": [
+    0.06505118356704873,
+    0.07128930703843656
+  ],
+  "renderedMassFromHemisphereG": 0.012140924990023982
+}

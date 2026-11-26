@@ -1,0 +1,265 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "file": "2d-landscape-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-expanded-readings-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-gap-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-phone-landscape-normal.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "final-guide-3d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-2d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-2d-final-start.json",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

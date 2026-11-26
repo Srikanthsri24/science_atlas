@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "actualGuiTrials": 27,
+  "derivedNumericReadingsCompared": 189,
+  "exactReloadPersistence": true,
+  "downloadedTrialSections": 27,
+  "workedSteps": 540,
+  "currentSubstitutionsChecked": 20,
+  "manualAndGuidePauseExactState": true,
+  "cameraControlsPreserveExactState": true,
+  "manualTimeFirst": "0.20129999999399295",
+  "manualTimeLast": "74.22179999999999",
+  "observerFrontAndSightMoved": true,
+  "waterAndSurfaceStayedExactlyFixed": true,
+  "guideScrubPhysicalS": 45,
+  "readFirstGatingVerified": true,
+  "optimizedTableEditAndReloadVerified": true,
+  "externalUrls": false,
+  "scope": "Actual GUI rows,SVG states and downloaded HTML. Physical print/device and optical-refraction calibration not certified."
+}

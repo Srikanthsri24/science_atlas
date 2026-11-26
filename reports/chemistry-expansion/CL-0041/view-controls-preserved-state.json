@@ -1,0 +1,13 @@
+{
+  "before": {
+    "radius": "50",
+    "wait": "2",
+    "withdrawal": "4.507200000000497"
+  },
+  "after": {
+    "radius": "50",
+    "wait": "2",
+    "withdrawal": "4.507200000000497"
+  },
+  "passed": true
+}

@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 347.5,
+    "h": 179.5,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 168
+  },
+  "footer": {
+    "bottom": 469,
+    "h": 113.5,
+    "right": 312,
+    "w": 304,
+    "x": 8,
+    "y": 355.5
+  },
+  "guide": "31.9",
+  "height": 740,
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 477,
+    "h": 380,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 97
+  },
+  "svgTexts": [],
+  "time": "493",
+  "width": 320,
+  "name": "3d-expanded-theatre-fixed-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

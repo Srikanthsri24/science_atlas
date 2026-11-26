@@ -1,0 +1,4176 @@
+{
+  "passed": 49,
+  "failedRemaining": 0,
+  "supersededFailures": 2,
+  "checks": [
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "21.8",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 616.8125,
+        "h": 519.8125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 262.85626220703125,
+            "h": 5.5,
+            "right": 116.37302684783936,
+            "w": 103.60939025878906,
+            "x": 12.763636589050291,
+            "y": 257.35626220703125
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 274.70172119140625,
+            "h": 9,
+            "right": 103.72458934783936,
+            "w": 90.96095275878906,
+            "x": 12.763636589050291,
+            "y": 265.70172119140625
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 454.4562683105469,
+            "h": 7.500030517578125,
+            "right": 152.5152931213379,
+            "w": 88.75782775878906,
+            "x": 63.75746536254883,
+            "y": 446.9562377929687
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 301.0835266113281,
+            "h": 11,
+            "right": 283.4488525390625,
+            "w": 77.81248474121094,
+            "x": 205.63636779785156,
+            "y": 290.0835266113281
+          },
+          "text": "4.42 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 315.47442626953125,
+            "h": 7.5,
+            "right": 300.5582580566406,
+            "w": 94.92189025878906,
+            "x": 205.63636779785156,
+            "y": 307.97442626953125
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 328.2380676269531,
+            "h": 7.5,
+            "right": 268.3472900390625,
+            "w": 62.71092224121094,
+            "x": 205.63636779785156,
+            "y": 320.7380676269531
+          },
+          "text": "RMS spread: 0.7587 mm"
+        },
+        {
+          "rect": {
+            "bottom": 341.001708984375,
+            "h": 7.5,
+            "right": 287.6676330566406,
+            "w": 82.03126525878906,
+            "x": 205.63636779785156,
+            "y": 333.501708984375
+          },
+          "text": "Concentration variation: 0.9797"
+        },
+        {
+          "rect": {
+            "bottom": 353.7653503417969,
+            "h": 7.500030517578125,
+            "right": 289.3551330566406,
+            "w": 83.71876525878906,
+            "x": 205.63636779785156,
+            "y": 346.26531982421875
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 368.8653564453125,
+            "h": 6,
+            "right": 318.5113830566406,
+            "w": 112.87501525878906,
+            "x": 205.63636779785156,
+            "y": 362.8653564453125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 378.0835266113281,
+            "h": 6,
+            "right": 312.8785705566406,
+            "w": 107.24220275878906,
+            "x": 205.63636779785156,
+            "y": 372.0835266113281
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "265",
+      "width": 390,
+      "name": "2d-landscape-theatre-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "28.7",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 955.0703125,
+        "h": 883.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 108.1047821044922,
+            "h": 12.999992370605469,
+            "right": 983.5239868164062,
+            "w": 242.015625,
+            "x": 741.5083618164062,
+            "y": 95.10478973388672
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 136.588623046875,
+            "h": 21.5,
+            "right": 953.8286743164062,
+            "w": 212.3203125,
+            "x": 741.5083618164062,
+            "y": 115.088623046875
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 654.5062255859375,
+            "h": 17,
+            "right": 1063.62109375,
+            "w": 207.2421875,
+            "x": 856.37890625,
+            "y": 637.5062255859375
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 706.9910278320312,
+            "h": 25.5,
+            "right": 923.4959716796876,
+            "w": 174.53900146484375,
+            "x": 748.9569702148438,
+            "y": 681.4910278320312
+          },
+          "text": "7.01 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 739.7510986328125,
+            "h": 17,
+            "right": 970.6054077148438,
+            "w": 221.6484375,
+            "x": 748.9569702148438,
+            "y": 722.7510986328125
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 769.5453491210938,
+            "h": 17,
+            "right": 897.2538452148438,
+            "w": 148.296875,
+            "x": 748.9569702148438,
+            "y": 752.5453491210938
+          },
+          "text": "RMS spread: 0.8657 mm"
+        },
+        {
+          "rect": {
+            "bottom": 799.3396606445312,
+            "h": 17,
+            "right": 942.8944702148438,
+            "w": 193.9375,
+            "x": 748.9569702148438,
+            "y": 782.3396606445312
+          },
+          "text": "Concentration variation: 0.5295"
+        },
+        {
+          "rect": {
+            "bottom": 829.134033203125,
+            "h": 17.00006103515625,
+            "right": 944.4335327148438,
+            "w": 195.4765625,
+            "x": 748.9569702148438,
+            "y": 812.1339721679688
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 865.0492553710938,
+            "h": 14,
+            "right": 1012.5741577148438,
+            "w": 263.6171875,
+            "x": 748.9569702148438,
+            "y": 851.0492553710938
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 886.5673828125,
+            "h": 14,
+            "right": 999.4100341796876,
+            "w": 250.45306396484375,
+            "x": 748.9569702148438,
+            "y": 872.5673828125
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "421",
+      "width": 1920,
+      "name": "2d-portrait-theatre-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 974.90625,
+        "h": 855.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 1016.40625,
+        "h": 33.5,
+        "right": 812,
+        "w": 804,
+        "x": 8,
+        "y": 982.90625
+      },
+      "guide": "63.5",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 1024.40625,
+        "h": 952.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1203",
+      "width": 820,
+      "name": "3d-theatre-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "27.9",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 850.046875,
+        "h": 778.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 103.66764831542967,
+            "h": 11,
+            "right": 660.7513427734375,
+            "w": 213.25778198242188,
+            "x": 447.4935607910156,
+            "y": 92.66764831542967
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 129.0017547607422,
+            "h": 19,
+            "right": 634.5404052734375,
+            "w": 187.04684448242188,
+            "x": 447.4935607910156,
+            "y": 110.0017547607422
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 585.2046508789062,
+            "h": 15.00006103515625,
+            "right": 731.29296875,
+            "w": 182.5859375,
+            "x": 548.70703125,
+            "y": 570.20458984375
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 631.6852416992188,
+            "h": 23,
+            "right": 611.5797119140625,
+            "w": 157.5234375,
+            "x": 454.0562744140625,
+            "y": 608.6852416992188
+          },
+          "text": "6.72 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 660.3112182617188,
+            "h": 15,
+            "right": 649.3375244140625,
+            "w": 195.28125,
+            "x": 454.0562744140625,
+            "y": 645.3112182617188
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 686.5621337890625,
+            "h": 15,
+            "right": 584.8453369140625,
+            "w": 130.7890625,
+            "x": 454.0562744140625,
+            "y": 671.5621337890625
+          },
+          "text": "RMS spread: 0.8567 mm"
+        },
+        {
+          "rect": {
+            "bottom": 712.81298828125,
+            "h": 15,
+            "right": 624.3140869140625,
+            "w": 170.2578125,
+            "x": 454.0562744140625,
+            "y": 697.81298828125
+          },
+          "text": "Concentration variation: 0.5657"
+        },
+        {
+          "rect": {
+            "bottom": 739.0639038085938,
+            "h": 15,
+            "right": 626.2828369140625,
+            "w": 172.2265625,
+            "x": 454.0562744140625,
+            "y": 724.0639038085938
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 770.6483154296875,
+            "h": 12.5,
+            "right": 686.2984619140625,
+            "w": 232.2421875,
+            "x": 454.0562744140625,
+            "y": 758.1483154296875
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 789.6072387695312,
+            "h": 12.5,
+            "right": 674.7047119140625,
+            "w": 220.6484375,
+            "x": 454.0562744140625,
+            "y": 777.1072387695312
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "403",
+      "width": 1280,
+      "name": "2d-portrait-theatre-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "89.8",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": -824.6328125,
+        "h": 501.328125,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": -1325.9609375
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -1305.6669921875,
+            "h": 7,
+            "right": 173.31163024902344,
+            "w": 137.35157775878906,
+            "x": 35.960052490234375,
+            "y": -1312.6669921875
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -1289.1318359375,
+            "h": 12.5,
+            "right": 156.49130249023438,
+            "w": 120.53125,
+            "x": 35.960052490234375,
+            "y": -1301.6318359375
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": -995.0369873046876,
+            "h": 10,
+            "right": 218.81642150878903,
+            "w": 117.6328125,
+            "x": 101.18360900878906,
+            "y": -1005.0369873046876
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -965.376220703125,
+            "h": 14.5,
+            "right": 146.3527488708496,
+            "w": 106.1640625,
+            "x": 40.18868637084961,
+            "y": -979.876220703125
+          },
+          "text": "29.91 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -946.642578125,
+            "h": 10,
+            "right": 166.0011863708496,
+            "w": 125.8125,
+            "x": 40.18868637084961,
+            "y": -956.642578125
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -929.72802734375,
+            "h": 10,
+            "right": 124.9152488708496,
+            "w": 84.7265625,
+            "x": 40.18868637084961,
+            "y": -939.72802734375
+          },
+          "text": "RMS spread: 0.9989 mm"
+        },
+        {
+          "rect": {
+            "bottom": -912.8135375976562,
+            "h": 10,
+            "right": 151.3839988708496,
+            "w": 111.1953125,
+            "x": 40.18868637084961,
+            "y": -922.8135375976562
+          },
+          "text": "Concentration variation: 0.0045"
+        },
+        {
+          "rect": {
+            "bottom": -895.8989868164062,
+            "h": 10,
+            "right": 132.9933738708496,
+            "w": 92.8046875,
+            "x": 40.18868637084961,
+            "y": -905.8989868164062
+          },
+          "text": "Nearly uniform (CV \u2264 0.05)"
+        },
+        {
+          "rect": {
+            "bottom": -875.7257080078125,
+            "h": 8,
+            "right": 189.8293113708496,
+            "w": 149.640625,
+            "x": 40.18868637084961,
+            "y": -883.7257080078125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": -863.5096435546875,
+            "h": 8,
+            "right": 182.3605613708496,
+            "w": 142.171875,
+            "x": 40.18868637084961,
+            "y": -871.5096435546875
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "1795",
+      "width": 320,
+      "name": "2d-expanded-calculations-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "13",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 58.2421875,
+        "h": 260,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": -201.7578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -156.99781799316406,
+            "h": 5,
+            "right": 124.10593795776369,
+            "w": 93.5859375,
+            "x": 30.520000457763672,
+            "y": -161.99781799316406
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -145.7578125,
+            "h": 8.5,
+            "right": 112.56687545776369,
+            "w": 82.046875,
+            "x": 30.520000457763672,
+            "y": -154.2578125
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 15.982192993164062,
+            "h": 6.5,
+            "right": 156.67420959472656,
+            "w": 80.1484375,
+            "x": 76.52577209472656,
+            "y": 9.482192993164062
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -121.89781188964844,
+            "h": 10,
+            "right": 270.1546936035156,
+            "w": 65.5546875,
+            "x": 204.6000061035156,
+            "y": -131.89781188964844
+          },
+          "text": "1.12 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -109.4578094482422,
+            "h": 6.5,
+            "right": 290.3187561035156,
+            "w": 85.71875,
+            "x": 204.6000061035156,
+            "y": -115.9578094482422
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -97.93781280517578,
+            "h": 6.5,
+            "right": 262.2562561035156,
+            "w": 57.65625,
+            "x": 204.6000061035156,
+            "y": -104.43781280517578
+          },
+          "text": "RMS spread: 0.4692 mm"
+        },
+        {
+          "rect": {
+            "bottom": -86.41781616210938,
+            "h": 6.5,
+            "right": 279.2875061035156,
+            "w": 74.6875,
+            "x": 204.6000061035156,
+            "y": -92.91781616210938
+          },
+          "text": "Concentration variation: 2.8692"
+        },
+        {
+          "rect": {
+            "bottom": -74.89781188964844,
+            "h": 6.5,
+            "right": 280.1937561035156,
+            "w": 75.59375,
+            "x": 204.6000061035156,
+            "y": -81.39781188964844
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": -60.81781005859375,
+            "h": 5.5,
+            "right": 306.5687561035156,
+            "w": 101.96875,
+            "x": 204.6000061035156,
+            "y": -66.31781005859375
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": -52.49781799316406,
+            "h": 5.5,
+            "right": 301.4750061035156,
+            "w": 96.875,
+            "x": 204.6000061035156,
+            "y": -57.99781799316406
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "67",
+      "width": 390,
+      "name": "2d-landscape-normal-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "17.5",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 424.015625,
+        "h": 625.7734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": -201.7578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -176.29864501953125,
+            "h": 9,
+            "right": 211.6382064819336,
+            "w": 171.46875,
+            "x": 40.169456481933594,
+            "y": -185.29864501953125
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -156.0312957763672,
+            "h": 15,
+            "right": 190.5913314819336,
+            "w": 150.421875,
+            "x": 40.169456481933594,
+            "y": -171.0312957763672
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 211.19122314453125,
+            "h": 12.5,
+            "right": 268.41014862060547,
+            "w": 146.8203125,
+            "x": 121.58983612060548,
+            "y": 198.69122314453125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 248.46646118164065,
+            "h": 18.5,
+            "right": 173.5493507385254,
+            "w": 128.10157775878906,
+            "x": 45.44777297973633,
+            "y": 229.96646118164065
+          },
+          "text": "2.82 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 271.5986022949219,
+            "h": 12.5,
+            "right": 202.47902297973633,
+            "w": 157.03125,
+            "x": 45.44777297973633,
+            "y": 259.0986022949219
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 292.71185302734375,
+            "h": 12.5,
+            "right": 150.97121047973633,
+            "w": 105.5234375,
+            "x": 45.44777297973633,
+            "y": 280.21185302734375
+          },
+          "text": "RMS spread: 0.6492 mm"
+        },
+        {
+          "rect": {
+            "bottom": 313.82513427734375,
+            "h": 12.500030517578123,
+            "right": 179.1587257385254,
+            "w": 133.71095275878906,
+            "x": 45.44777297973633,
+            "y": 301.3251037597656
+          },
+          "text": "Concentration variation: 1.5232"
+        },
+        {
+          "rect": {
+            "bottom": 334.9383544921875,
+            "h": 12.5,
+            "right": 183.9399757385254,
+            "w": 138.49220275878906,
+            "x": 45.44777297973633,
+            "y": 322.4383544921875
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 360.24346923828125,
+            "h": 10,
+            "right": 232.2290382385254,
+            "w": 186.78126525878903,
+            "x": 45.44777297973633,
+            "y": 350.24346923828125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 375.491943359375,
+            "h": 10,
+            "right": 222.9009132385254,
+            "w": 177.45314025878906,
+            "x": 45.44777297973633,
+            "y": 365.491943359375
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "169",
+      "width": 390,
+      "name": "2d-portrait-normal-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 262.5,
+        "h": 143,
+        "right": 844,
+        "w": 844,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 304,
+        "h": 33.5,
+        "right": 836,
+        "w": 828,
+        "x": 8,
+        "y": 270.5
+      },
+      "guide": "51.6",
+      "height": 390,
+      "scrollWidth": 844,
+      "stage": {
+        "bottom": 312,
+        "h": 240,
+        "right": 844,
+        "w": 844,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "936",
+      "width": 844,
+      "name": "3d-phone-landscape-theatre-fixed",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 1105.2421875,
+        "h": 703,
+        "right": 1182.5,
+        "w": 480,
+        "x": 702.5,
+        "y": 402.2421875
+      },
+      "footer": {
+        "bottom": 1146.7421875,
+        "h": 33.5,
+        "right": 1174.5,
+        "w": 464,
+        "x": 710.5,
+        "y": 1113.2421875
+      },
+      "guide": "88.7",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 1154.7421875,
+        "h": 800,
+        "right": 1182.5,
+        "w": 480,
+        "x": 702.5,
+        "y": 354.7421875
+      },
+      "svgTexts": [],
+      "time": "1770",
+      "width": 1920,
+      "name": "3d-portrait-normal-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "25.5",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 484.015625,
+        "h": 387.015625,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 113.00855255126952,
+            "h": 6,
+            "right": 170.27479553222656,
+            "w": 106.03124237060548,
+            "x": 64.2435531616211,
+            "y": 107.00855255126952
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 125.11539459228516,
+            "h": 9,
+            "right": 157.25918579101562,
+            "w": 93.01563262939452,
+            "x": 64.2435531616211,
+            "y": 116.11539459228516
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 352.53692626953125,
+            "h": 8,
+            "right": 205.39453125,
+            "w": 90.78905487060548,
+            "x": 114.60547637939452,
+            "y": 344.53692626953125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 375.1624755859375,
+            "h": 11,
+            "right": 147.3126678466797,
+            "w": 79.8046875,
+            "x": 67.50798034667969,
+            "y": 364.1624755859375
+          },
+          "text": "5.83 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 389.8964538574219,
+            "h": 8,
+            "right": 164.6095428466797,
+            "w": 97.1015625,
+            "x": 67.50798034667969,
+            "y": 381.8964538574219
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 402.95416259765625,
+            "h": 8,
+            "right": 133.1642303466797,
+            "w": 65.65625,
+            "x": 67.50798034667969,
+            "y": 394.95416259765625
+          },
+          "text": "RMS spread: 0.8250 mm"
+        },
+        {
+          "rect": {
+            "bottom": 416.0118713378906,
+            "h": 8,
+            "right": 152.6173553466797,
+            "w": 85.109375,
+            "x": 67.50798034667969,
+            "y": 408.0118713378906
+          },
+          "text": "Concentration variation: 0.6945"
+        },
+        {
+          "rect": {
+            "bottom": 429.0695495605469,
+            "h": 8,
+            "right": 153.1407928466797,
+            "w": 85.6328125,
+            "x": 67.50798034667969,
+            "y": 421.0695495605469
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 444.5289611816406,
+            "h": 6,
+            "right": 183.0782928466797,
+            "w": 115.5703125,
+            "x": 67.50798034667969,
+            "y": 438.5289611816406
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 453.95953369140625,
+            "h": 6,
+            "right": 177.3126678466797,
+            "w": 109.8046875,
+            "x": 67.50798034667969,
+            "y": 447.95953369140625
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "350",
+      "width": 320,
+      "name": "2d-portrait-theatre-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 1089.2421875,
+        "h": 703,
+        "right": 862.5,
+        "w": 480,
+        "x": 382.5,
+        "y": 386.2421875
+      },
+      "footer": {
+        "bottom": 1130.7421875,
+        "h": 33.5,
+        "right": 854.5,
+        "w": 464,
+        "x": 390.5,
+        "y": 1097.2421875
+      },
+      "guide": "87.9",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 1138.7421875,
+        "h": 800,
+        "right": 862.5,
+        "w": 480,
+        "x": 382.5,
+        "y": 338.7421875
+      },
+      "svgTexts": [],
+      "time": "1754",
+      "width": 1280,
+      "name": "3d-portrait-normal-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "22.6",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 1024.40625,
+        "h": 952.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 350.3031311035156,
+            "h": 12,
+            "right": 244.84419441223145,
+            "w": 218.00782775878903,
+            "x": 26.836366653442383,
+            "y": 338.3031311035156
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 375.6576843261719,
+            "h": 19.5,
+            "right": 218.05513191223145,
+            "w": 191.21876525878903,
+            "x": 26.836366653442383,
+            "y": 356.1576843261719
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 752.6031494140625,
+            "h": 15.5,
+            "right": 320.6917419433594,
+            "w": 186.65625,
+            "x": 134.03549194335938,
+            "y": 737.1031494140625
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 431.0758666992187,
+            "h": 23,
+            "right": 593.6839599609375,
+            "w": 161.3203125,
+            "x": 432.3636474609375,
+            "y": 408.0758666992187
+          },
+          "text": "4.74 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 460.3849487304687,
+            "h": 15.5,
+            "right": 632.0042724609375,
+            "w": 199.640625,
+            "x": 432.3636474609375,
+            "y": 444.8849487304687
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 487.2213134765625,
+            "h": 15.5,
+            "right": 564.5589599609375,
+            "w": 132.1953125,
+            "x": 432.3636474609375,
+            "y": 471.7213134765625
+          },
+          "text": "RMS spread: 0.7758 mm"
+        },
+        {
+          "rect": {
+            "bottom": 514.0576782226562,
+            "h": 15.5,
+            "right": 609.1370849609375,
+            "w": 176.7734375,
+            "x": 432.3636474609375,
+            "y": 498.55767822265625
+          },
+          "text": "Concentration variation: 0.9040"
+        },
+        {
+          "rect": {
+            "bottom": 540.89404296875,
+            "h": 15.5,
+            "right": 608.4261474609375,
+            "w": 176.0625,
+            "x": 432.3636474609375,
+            "y": 525.39404296875
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 573.1940307617188,
+            "h": 12.5,
+            "right": 669.8792724609375,
+            "w": 237.515625,
+            "x": 432.3636474609375,
+            "y": 560.6940307617188
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 592.5758666992188,
+            "h": 12.5,
+            "right": 658.0198974609375,
+            "w": 225.65625,
+            "x": 432.3636474609375,
+            "y": 580.0758666992188
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "284",
+      "width": 820,
+      "name": "2d-landscape-theatre-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 800.546875,
+        "h": 681.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 842.046875,
+        "h": 33.5,
+        "right": 1272,
+        "w": 1264,
+        "x": 8,
+        "y": 808.546875
+      },
+      "guide": "74.8",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 850.046875,
+        "h": 778.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1458",
+      "width": 1280,
+      "name": "3d-portrait-theatre-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "20",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 538.7421875,
+        "h": 800,
+        "right": 1182.5,
+        "w": 480,
+        "x": 702.5,
+        "y": -261.2578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -228.2671813964844,
+            "h": 12,
+            "right": 963.7962646484376,
+            "w": 219.23443603515625,
+            "x": 744.5618286132812,
+            "y": -240.2671813964844
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -202.77468872070312,
+            "h": 19.5,
+            "right": 936.9368896484376,
+            "w": 192.37506103515625,
+            "x": 744.5618286132812,
+            "y": -222.27468872070312
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 266.32843017578125,
+            "h": 15.5,
+            "right": 1036.37890625,
+            "w": 187.7578125,
+            "x": 848.62109375,
+            "y": 250.82843017578125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 314.06414794921875,
+            "h": 23.5,
+            "right": 913.2472534179688,
+            "w": 161.9375,
+            "x": 751.3097534179688,
+            "y": 290.56414794921875
+          },
+          "text": "3.74 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 343.55426025390625,
+            "h": 15.5,
+            "right": 952.1222534179688,
+            "w": 200.8125,
+            "x": 751.3097534179688,
+            "y": 328.05426025390625
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 370.54583740234375,
+            "h": 15.5,
+            "right": 881.0206909179688,
+            "w": 129.7109375,
+            "x": 751.3097534179688,
+            "y": 355.04583740234375
+          },
+          "text": "RMS spread: 0.7176 mm"
+        },
+        {
+          "rect": {
+            "bottom": 397.5374145507813,
+            "h": 15.5,
+            "right": 919.4972534179688,
+            "w": 168.1875,
+            "x": 751.3097534179688,
+            "y": 382.0374145507813
+          },
+          "text": "Concentration variation: 1.1705"
+        },
+        {
+          "rect": {
+            "bottom": 424.5289916992187,
+            "h": 15.5,
+            "right": 928.4113159179688,
+            "w": 177.1015625,
+            "x": 751.3097534179688,
+            "y": 409.0289916992187
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 457.0186767578125,
+            "h": 12.5,
+            "right": 990.1769409179688,
+            "w": 238.8671875,
+            "x": 751.3097534179688,
+            "y": 444.5186767578125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 476.5125732421875,
+            "h": 12.5,
+            "right": 978.2472534179688,
+            "w": 226.9375,
+            "x": 751.3097534179688,
+            "y": 464.0125732421875
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "224",
+      "width": 1920,
+      "name": "2d-portrait-normal-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "19.2",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 522.7421875,
+        "h": 800,
+        "right": 862.5,
+        "w": 480,
+        "x": 382.5,
+        "y": -277.2578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -244.2671813964844,
+            "h": 12,
+            "right": 643.7962646484375,
+            "w": 219.23440551757812,
+            "x": 424.5618591308594,
+            "y": -256.2671813964844
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -218.77468872070312,
+            "h": 19.5,
+            "right": 616.9368896484375,
+            "w": 192.37503051757812,
+            "x": 424.5618591308594,
+            "y": -238.27468872070312
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 250.32843017578125,
+            "h": 15.5,
+            "right": 716.37890625,
+            "w": 187.7578125,
+            "x": 528.62109375,
+            "y": 234.82843017578125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 298.06414794921875,
+            "h": 23.5,
+            "right": 596.2160034179688,
+            "w": 164.90625,
+            "x": 431.3097534179687,
+            "y": 274.56414794921875
+          },
+          "text": "3.45 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 327.55426025390625,
+            "h": 15.5,
+            "right": 632.1222534179688,
+            "w": 200.8125,
+            "x": 431.3097534179687,
+            "y": 312.05426025390625
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 354.54583740234375,
+            "h": 15.5,
+            "right": 565.0910034179688,
+            "w": 133.78125,
+            "x": 431.3097534179687,
+            "y": 339.04583740234375
+          },
+          "text": "RMS spread: 0.6975 mm"
+        },
+        {
+          "rect": {
+            "bottom": 381.5374145507813,
+            "h": 15.5,
+            "right": 602.7160034179688,
+            "w": 171.40625,
+            "x": 431.3097534179687,
+            "y": 366.0374145507813
+          },
+          "text": "Concentration variation: 1.2692"
+        },
+        {
+          "rect": {
+            "bottom": 408.5289916992187,
+            "h": 15.5,
+            "right": 608.4113159179688,
+            "w": 177.1015625,
+            "x": 431.3097534179687,
+            "y": 393.0289916992187
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 441.0186767578125,
+            "h": 12.5,
+            "right": 670.1769409179688,
+            "w": 238.8671875,
+            "x": 431.3097534179687,
+            "y": 428.5186767578125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 460.5125732421875,
+            "h": 12.5,
+            "right": 658.2472534179688,
+            "w": 226.9375,
+            "x": 431.3097534179687,
+            "y": 448.0125732421875
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "207",
+      "width": 1280,
+      "name": "2d-portrait-normal-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 445.3125,
+        "h": 277.3125,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 168
+      },
+      "footer": {
+        "bottom": 486.8125,
+        "h": 33.5,
+        "right": 312,
+        "w": 304,
+        "x": 8,
+        "y": 453.3125
+      },
+      "guide": "71.7",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 494.8125,
+        "h": 397.8125,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [],
+      "time": "1388",
+      "width": 320,
+      "name": "3d-portrait-theatre-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 905.5703125,
+        "h": 786.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 947.0703125,
+        "h": 33.5,
+        "right": 1912,
+        "w": 1904,
+        "x": 8,
+        "y": 913.5703125
+      },
+      "guide": "75.8",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 955.0703125,
+        "h": 883.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1480",
+      "width": 1920,
+      "name": "3d-portrait-theatre-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 567.3125,
+        "h": 399.3125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 168
+      },
+      "footer": {
+        "bottom": 608.8125,
+        "h": 33.5,
+        "right": 382,
+        "w": 374,
+        "x": 8,
+        "y": 575.3125
+      },
+      "guide": "62.4",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 616.8125,
+        "h": 519.8125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [],
+      "time": "1180",
+      "width": 390,
+      "name": "3d-theatre-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 885.8671875,
+        "h": 380.828125,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 505.0390625
+      },
+      "footer": {
+        "bottom": 927.3671875,
+        "h": 33.5,
+        "right": 293,
+        "w": 266,
+        "x": 27,
+        "y": 893.8671875
+      },
+      "guide": "86.2",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 935.3671875,
+        "h": 501.328125,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 434.0390625
+      },
+      "svgTexts": [],
+      "time": "1715",
+      "width": 320,
+      "name": "3d-portrait-normal-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "18.4",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 547.7890625,
+        "h": 800,
+        "right": 755,
+        "w": 480,
+        "x": 275,
+        "y": -252.2109375
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -219.2203063964844,
+            "h": 12,
+            "right": 536.2962646484375,
+            "w": 219.23440551757812,
+            "x": 317.0618591308594,
+            "y": -231.2203063964844
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -193.72781372070312,
+            "h": 19.5,
+            "right": 509.4368591308594,
+            "w": 192.375,
+            "x": 317.0618591308594,
+            "y": -213.22781372070312
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 275.37530517578125,
+            "h": 15.5,
+            "right": 608.87890625,
+            "w": 187.7578125,
+            "x": 421.12109375,
+            "y": 259.87530517578125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 323.11102294921875,
+            "h": 23.5,
+            "right": 482.9894409179687,
+            "w": 159.1796875,
+            "x": 323.80975341796875,
+            "y": 299.61102294921875
+          },
+          "text": "3.15 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 352.60113525390625,
+            "h": 15.5,
+            "right": 524.6222534179688,
+            "w": 200.8125,
+            "x": 323.80975341796875,
+            "y": 337.10113525390625
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 379.59271240234375,
+            "h": 15.5,
+            "right": 456.4972534179687,
+            "w": 132.6875,
+            "x": 323.80975341796875,
+            "y": 364.09271240234375
+          },
+          "text": "RMS spread: 0.6757 mm"
+        },
+        {
+          "rect": {
+            "bottom": 406.5842895507813,
+            "h": 15.5,
+            "right": 496.6456909179687,
+            "w": 172.8359375,
+            "x": 323.80975341796875,
+            "y": 391.0842895507813
+          },
+          "text": "Concentration variation: 1.3804"
+        },
+        {
+          "rect": {
+            "bottom": 433.5758666992187,
+            "h": 15.5,
+            "right": 500.9113159179687,
+            "w": 177.1015625,
+            "x": 323.80975341796875,
+            "y": 418.0758666992187
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 466.0655517578125,
+            "h": 12.5,
+            "right": 562.6769409179688,
+            "w": 238.8671875,
+            "x": 323.80975341796875,
+            "y": 453.5655517578125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 485.5594482421875,
+            "h": 12.5,
+            "right": 550.7472534179688,
+            "w": 226.9375,
+            "x": 323.80975341796875,
+            "y": 473.0594482421875
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "189",
+      "width": 820,
+      "name": "2d-portrait-normal-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 905.5703125,
+        "h": 786.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 947.0703125,
+        "h": 33.5,
+        "right": 1912,
+        "w": 1904,
+        "x": 8,
+        "y": 913.5703125
+      },
+      "guide": "65.8",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 955.0703125,
+        "h": 883.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1255",
+      "width": 1920,
+      "name": "3d-theatre-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "13.9",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 60.5390625,
+        "h": 312.75,
+        "right": 793,
+        "w": 556,
+        "x": 237,
+        "y": -252.2109375
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -230.00091552734375,
+            "h": 8,
+            "right": 403.0122375488281,
+            "w": 147.7109375,
+            "x": 255.30130004882812,
+            "y": -238.00091552734375
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -212.8329162597656,
+            "h": 12.999984741210938,
+            "right": 384.9419250488281,
+            "w": 129.640625,
+            "x": 255.30130004882812,
+            "y": -225.83290100097656
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 42.82904052734375,
+            "h": 10.5,
+            "right": 454.447998046875,
+            "w": 126.46875,
+            "x": 327.979248046875,
+            "y": 32.32904052734375
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -174.9496307373047,
+            "h": 16,
+            "right": 637.923095703125,
+            "w": 107.765625,
+            "x": 530.157470703125,
+            "y": -190.9496307373047
+          },
+          "text": "1.45 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -155.22911071777344,
+            "h": 10.5,
+            "right": 665.423095703125,
+            "w": 135.265625,
+            "x": 530.157470703125,
+            "y": -165.72911071777344
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -137.04010009765625,
+            "h": 10.5,
+            "right": 619.6419067382812,
+            "w": 89.48443603515625,
+            "x": 530.157470703125,
+            "y": -147.54010009765625
+          },
+          "text": "RMS spread: 0.5105 mm"
+        },
+        {
+          "rect": {
+            "bottom": -118.85107421875,
+            "h": 10.5,
+            "right": 645.032470703125,
+            "w": 114.875,
+            "x": 530.157470703125,
+            "y": -129.35107421875
+          },
+          "text": "Concentration variation: 2.4751"
+        },
+        {
+          "rect": {
+            "bottom": -100.6620635986328,
+            "h": 10.5,
+            "right": 649.454345703125,
+            "w": 119.296875,
+            "x": 530.157470703125,
+            "y": -111.1620635986328
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": -78.93104553222656,
+            "h": 8.5,
+            "right": 691.0794067382812,
+            "w": 160.92193603515625,
+            "x": 530.157470703125,
+            "y": -87.43104553222656
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": -65.79454040527344,
+            "h": 8.5,
+            "right": 683.0403442382812,
+            "w": 152.88287353515625,
+            "x": 530.157470703125,
+            "y": -74.29454040527344
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "87",
+      "width": 820,
+      "name": "2d-landscape-normal-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 219.5,
+        "h": 100,
+        "right": 844,
+        "w": 844,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 261,
+        "h": 33.5,
+        "right": 836,
+        "w": 828,
+        "x": 8,
+        "y": 227.5
+      },
+      "guide": "30.8",
+      "height": 390,
+      "scrollWidth": 844,
+      "stage": {
+        "bottom": 252,
+        "h": 180,
+        "right": 844,
+        "w": 844,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "468",
+      "width": 844,
+      "name": "3d-phone-landscape-theatre",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": false,
+      "superseded": true,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 697.4296875,
+        "h": 278.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": 419.2421875
+      },
+      "footer": {
+        "bottom": 738.9296875,
+        "h": 33.5,
+        "right": 948,
+        "w": 651,
+        "x": 297,
+        "y": 705.4296875
+      },
+      "guide": "0",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 746.9296875,
+        "h": 375.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": 371.7421875
+      },
+      "svgTexts": [],
+      "time": "60",
+      "width": 1280,
+      "name": "verified-lab-preview",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 644.5390625,
+        "h": 139.5,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 505.0390625
+      },
+      "footer": {
+        "bottom": 686.0390625,
+        "h": 33.5,
+        "right": 293,
+        "w": 266,
+        "x": 27,
+        "y": 652.5390625
+      },
+      "guide": "89.2",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 694.0390625,
+        "h": 260,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 434.0390625
+      },
+      "svgTexts": [],
+      "time": "1782",
+      "width": 320,
+      "name": "3d-normal-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 367.0390625,
+        "h": 161.5,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 205.5390625
+      },
+      "footer": {
+        "bottom": 506.5390625,
+        "h": 131.5,
+        "right": 293,
+        "w": 266,
+        "x": 27,
+        "y": 375.0390625
+      },
+      "guide": "110",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 514.5390625,
+        "h": 380,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 134.5390625
+      },
+      "svgTexts": [],
+      "time": "1800",
+      "width": 320,
+      "name": "3d-expanded-readings-fixed-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 800.546875,
+        "h": 681.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 842.046875,
+        "h": 33.5,
+        "right": 1272,
+        "w": 1264,
+        "x": 8,
+        "y": 808.546875
+      },
+      "guide": "64.6",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 850.046875,
+        "h": 778.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1228",
+      "width": 1280,
+      "name": "3d-theatre-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "23.6",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 850.046875,
+        "h": 778.046875,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 151.92343139648438,
+            "h": 18.5,
+            "right": 382.14090728759766,
+            "w": 340.25,
+            "x": 41.890907287597656,
+            "y": 133.42343139648438
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 191.6597900390625,
+            "h": 30,
+            "right": 340.42215728759766,
+            "w": 298.53125,
+            "x": 41.890907287597656,
+            "y": 161.6597900390625
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 780.6234130859375,
+            "h": 24.5,
+            "right": 500.5927276611328,
+            "w": 291.3671875,
+            "x": 209.2255401611328,
+            "y": 756.1234130859375
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 278.1052551269531,
+            "h": 36,
+            "right": 932.9403686523438,
+            "w": 258.03125,
+            "x": 674.9091186523438,
+            "y": 242.10525512695312
+          },
+          "text": "5.09 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 324.47796630859375,
+            "h": 24.5,
+            "right": 986.5419311523438,
+            "w": 311.6328125,
+            "x": 674.9091186523438,
+            "y": 299.97796630859375
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 366.368896484375,
+            "h": 24.5,
+            "right": 882.0653686523438,
+            "w": 207.15625,
+            "x": 674.9091186523438,
+            "y": 341.868896484375
+          },
+          "text": "RMS spread: 0.7933 mm"
+        },
+        {
+          "rect": {
+            "bottom": 408.2597961425781,
+            "h": 24.5,
+            "right": 946.0888061523438,
+            "w": 271.1796875,
+            "x": 674.9091186523438,
+            "y": 383.7597961425781
+          },
+          "text": "Concentration variation: 0.8282"
+        },
+        {
+          "rect": {
+            "bottom": 450.1506958007813,
+            "h": 24.5,
+            "right": 949.7450561523438,
+            "w": 274.8359375,
+            "x": 674.9091186523438,
+            "y": 425.6506958007813
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 499.8507080078125,
+            "h": 19.5,
+            "right": 1045.6434326171875,
+            "w": 370.73431396484375,
+            "x": 674.9091186523438,
+            "y": 480.3507080078125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 530.105224609375,
+            "h": 19.5,
+            "right": 1027.1278076171875,
+            "w": 352.21868896484375,
+            "x": 674.9091186523438,
+            "y": 510.605224609375
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "305",
+      "width": 1280,
+      "name": "2d-landscape-theatre-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 305.5390625,
+        "h": 100,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 205.5390625
+      },
+      "footer": {
+        "bottom": 445.0390625,
+        "h": 131.5,
+        "right": 293,
+        "w": 266,
+        "x": 27,
+        "y": 313.5390625
+      },
+      "guide": "97",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 394.5390625,
+        "h": 260,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": 134.5390625
+      },
+      "svgTexts": [],
+      "time": "1800",
+      "width": 320,
+      "name": "3d-expanded-readings-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": false,
+      "superseded": true,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "21.3",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 484.015625,
+        "h": 387.015625,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 213.1078186035156,
+            "h": 4.5,
+            "right": 95.5352268218994,
+            "w": 85.0625,
+            "x": 10.472726821899414,
+            "y": 208.6078186035156
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 223.4169006347656,
+            "h": 8,
+            "right": 85.07428932189941,
+            "w": 74.6015625,
+            "x": 10.472726821899414,
+            "y": 215.4169006347656
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 370.4078063964844,
+            "h": 6,
+            "right": 125.1218147277832,
+            "w": 72.7890625,
+            "x": 52.3327522277832,
+            "y": 364.4078063964844
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 244.6532745361328,
+            "h": 9,
+            "right": 232.4772796630859,
+            "w": 63.75,
+            "x": 168.72727966308594,
+            "y": 235.6532745361328
+          },
+          "text": "4.23 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 256.3714599609375,
+            "h": 6.0000152587890625,
+            "right": 246.5788421630859,
+            "w": 77.8515625,
+            "x": 168.72727966308594,
+            "y": 250.37144470214844
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 266.84417724609375,
+            "h": 6,
+            "right": 220.8210296630859,
+            "w": 52.09375,
+            "x": 168.72727966308594,
+            "y": 260.84417724609375
+          },
+          "text": "RMS spread: 0.7480 mm"
+        },
+        {
+          "rect": {
+            "bottom": 277.31689453125,
+            "h": 6,
+            "right": 235.2819671630859,
+            "w": 66.5546875,
+            "x": 168.72727966308594,
+            "y": 271.31689453125
+          },
+          "text": "Concentration variation: 1.0283"
+        },
+        {
+          "rect": {
+            "bottom": 287.78961181640625,
+            "h": 6,
+            "right": 237.3835296630859,
+            "w": 68.65625,
+            "x": 168.72727966308594,
+            "y": 281.78961181640625
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 300.0896301269531,
+            "h": 4.5,
+            "right": 261.3835144042969,
+            "w": 92.65623474121094,
+            "x": 168.72727966308594,
+            "y": 295.5896301269531
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 307.65325927734375,
+            "h": 4.5,
+            "right": 256.7585144042969,
+            "w": 88.03123474121094,
+            "x": 168.72727966308594,
+            "y": 303.15325927734375
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "254",
+      "width": 320,
+      "name": "2d-landscape-theatre-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 974.90625,
+        "h": 855.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 119.5
+      },
+      "footer": {
+        "bottom": 1016.40625,
+        "h": 33.5,
+        "right": 812,
+        "w": 804,
+        "x": 8,
+        "y": 982.90625
+      },
+      "guide": "73.8",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 1024.40625,
+        "h": 952.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [],
+      "time": "1435",
+      "width": 820,
+      "name": "3d-portrait-theatre-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 1114.2890625,
+        "h": 703,
+        "right": 755,
+        "w": 480,
+        "x": 275,
+        "y": 411.2890625
+      },
+      "footer": {
+        "bottom": 1155.7890625,
+        "h": 33.5,
+        "right": 747,
+        "w": 464,
+        "x": 283,
+        "y": 1122.2890625
+      },
+      "guide": "87.4",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 1163.7890625,
+        "h": 800,
+        "right": 755,
+        "w": 480,
+        "x": 275,
+        "y": 363.7890625
+      },
+      "svgTexts": [],
+      "time": "1741",
+      "width": 820,
+      "name": "3d-portrait-normal-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "24.6",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 955.0703125,
+        "h": 883.0703125,
+        "right": 1920,
+        "w": 1920,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 134.56431579589844,
+            "h": 22.5,
+            "right": 643.8641510009766,
+            "w": 417.140625,
+            "x": 226.72352600097656,
+            "y": 112.06431579589844
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 183.71575927734375,
+            "h": 37.49998474121094,
+            "right": 592.7391510009766,
+            "w": 366.015625,
+            "x": 226.72352600097656,
+            "y": 146.2157745361328
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 905.0059814453124,
+            "h": 29.5,
+            "right": 789.1138916015625,
+            "w": 357.2656555175781,
+            "x": 431.8482360839844,
+            "y": 875.5059814453125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 289.358154296875,
+            "h": 44.5,
+            "right": 1317.1810302734375,
+            "w": 314.3828125,
+            "x": 1002.7982177734376,
+            "y": 244.858154296875
+          },
+          "text": "5.48 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 345.77569580078125,
+            "h": 29.5,
+            "right": 1384.9075927734375,
+            "w": 382.109375,
+            "x": 1002.7982177734376,
+            "y": 316.27569580078125
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 397.1335754394531,
+            "h": 29.5,
+            "right": 1253.0013427734375,
+            "w": 250.203125,
+            "x": 1002.7982177734376,
+            "y": 367.6335754394531
+          },
+          "text": "RMS spread: 0.8107 mm"
+        },
+        {
+          "rect": {
+            "bottom": 448.491455078125,
+            "h": 29.5,
+            "right": 1334.5169677734375,
+            "w": 331.71875,
+            "x": 1002.7982177734376,
+            "y": 418.991455078125
+          },
+          "text": "Concentration variation: 0.7543"
+        },
+        {
+          "rect": {
+            "bottom": 499.849365234375,
+            "h": 29.5,
+            "right": 1339.7904052734375,
+            "w": 336.9921875,
+            "x": 1002.7982177734376,
+            "y": 470.349365234375
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 561.1201171875,
+            "h": 24,
+            "right": 1457.3607177734375,
+            "w": 454.5625,
+            "x": 1002.7982177734376,
+            "y": 537.1201171875
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 598.2119140625,
+            "h": 24,
+            "right": 1434.6575927734375,
+            "w": 431.859375,
+            "x": 1002.7982177734376,
+            "y": 574.2119140625
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "329",
+      "width": 1920,
+      "name": "2d-landscape-theatre-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "16.9",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 319.3671875,
+        "h": 501.328125,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": -181.9609375
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -161.66700744628906,
+            "h": 7,
+            "right": 173.31163024902344,
+            "w": 137.35157775878906,
+            "x": 35.960052490234375,
+            "y": -168.66700744628906
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -145.13186645507812,
+            "h": 12.5,
+            "right": 156.49130249023438,
+            "w": 120.53125,
+            "x": 35.960052490234375,
+            "y": -157.63186645507812
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 148.9630126953125,
+            "h": 10,
+            "right": 218.81642150878903,
+            "w": 117.6328125,
+            "x": 101.18360900878906,
+            "y": 138.9630126953125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 178.62374877929688,
+            "h": 14.5,
+            "right": 144.1105613708496,
+            "w": 103.921875,
+            "x": 40.18868637084961,
+            "y": 164.12374877929688
+          },
+          "text": "2.60 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 197.35739135742188,
+            "h": 10,
+            "right": 166.0011863708496,
+            "w": 125.8125,
+            "x": 40.18868637084961,
+            "y": 187.35739135742188
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 214.27194213867188,
+            "h": 10,
+            "right": 125.3996238708496,
+            "w": 85.2109375,
+            "x": 40.18868637084961,
+            "y": 204.27194213867188
+          },
+          "text": "RMS spread: 0.6304 mm"
+        },
+        {
+          "rect": {
+            "bottom": 231.18646240234375,
+            "h": 10,
+            "right": 146.1808738708496,
+            "w": 105.9921875,
+            "x": 40.18868637084961,
+            "y": 221.18646240234375
+          },
+          "text": "Concentration variation: 1.6301"
+        },
+        {
+          "rect": {
+            "bottom": 248.10101318359375,
+            "h": 10,
+            "right": 151.1418113708496,
+            "w": 110.953125,
+            "x": 40.18868637084961,
+            "y": 238.10101318359375
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 268.2743225097656,
+            "h": 8,
+            "right": 189.8293113708496,
+            "w": 149.640625,
+            "x": 40.18868637084961,
+            "y": 260.2743225097656
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 280.4903869628906,
+            "h": 8,
+            "right": 182.3605613708496,
+            "w": 142.171875,
+            "x": 40.18868637084961,
+            "y": 272.4903869628906
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "156",
+      "width": 320,
+      "name": "2d-portrait-normal-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 640.5390625,
+        "h": 229.25,
+        "right": 817,
+        "w": 580,
+        "x": 237,
+        "y": 411.2890625
+      },
+      "footer": {
+        "bottom": 682.0390625,
+        "h": 33.5,
+        "right": 809,
+        "w": 564,
+        "x": 245,
+        "y": 648.5390625
+      },
+      "guide": "52.2",
+      "height": 390,
+      "scrollWidth": 844,
+      "stage": {
+        "bottom": 690.0390625,
+        "h": 326.25,
+        "right": 817,
+        "w": 580,
+        "x": 237,
+        "y": 363.7890625
+      },
+      "svgTexts": [],
+      "time": "950",
+      "width": 844,
+      "name": "3d-phone-landscape-normal",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 988.6796875,
+        "h": 586.4375,
+        "right": 1550,
+        "w": 1215,
+        "x": 335,
+        "y": 402.2421875
+      },
+      "footer": {
+        "bottom": 1030.1796875,
+        "h": 33.5,
+        "right": 1542,
+        "w": 1199,
+        "x": 343,
+        "y": 996.6796875
+      },
+      "guide": "91.7",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 1038.1796875,
+        "h": 683.4375,
+        "right": 1550,
+        "w": 1215,
+        "x": 335,
+        "y": 354.7421875
+      },
+      "svgTexts": [],
+      "time": "1800",
+      "width": 1920,
+      "name": "3d-normal-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "12.4",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 78.0390625,
+        "h": 260,
+        "right": 301,
+        "w": 282,
+        "x": 19,
+        "y": -181.9609375
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -120.05093383789062,
+            "h": 4,
+            "right": 103.18221664428712,
+            "w": 74.953125,
+            "x": 28.22909164428711,
+            "y": -124.05093383789062
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -111.34729766845705,
+            "h": 6.5,
+            "right": 93.97909164428712,
+            "w": 65.75,
+            "x": 28.22909164428711,
+            "y": -117.84729766845705
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 18.629058837890625,
+            "h": 5.5,
+            "right": 129.28466796875,
+            "w": 64.18751525878906,
+            "x": 65.09715270996094,
+            "y": 13.129058837890623
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -92.13275909423828,
+            "h": 8,
+            "right": 224.02685546875,
+            "w": 56.33595275878906,
+            "x": 167.69090270996094,
+            "y": -100.13275909423828
+          },
+          "text": "0.92 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -81.865478515625,
+            "h": 5.500007629394531,
+            "right": 236.33154296875,
+            "w": 68.64064025878906,
+            "x": 167.69090270996094,
+            "y": -87.36548614501953
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -72.63639068603516,
+            "h": 5.5,
+            "right": 214.29246520996097,
+            "w": 46.6015625,
+            "x": 167.69090270996094,
+            "y": -78.13639068603516
+          },
+          "text": "RMS spread: 0.4408 mm"
+        },
+        {
+          "rect": {
+            "bottom": -63.40730285644531,
+            "h": 5.5,
+            "right": 226.33935546875,
+            "w": 58.64845275878906,
+            "x": 167.69090270996094,
+            "y": -68.90730285644531
+          },
+          "text": "Concentration variation: 3.1895"
+        },
+        {
+          "rect": {
+            "bottom": -54.17820739746094,
+            "h": 5.5,
+            "right": 228.22998046875,
+            "w": 60.53907775878906,
+            "x": 167.69090270996094,
+            "y": -59.67820739746094
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": -43.39820861816406,
+            "h": 4.5,
+            "right": 249.31591796875,
+            "w": 81.62501525878906,
+            "x": 167.69090270996094,
+            "y": -47.89820861816406
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": -36.732757568359375,
+            "h": 4.5,
+            "right": 245.23779296875,
+            "w": 77.54689025878906,
+            "x": 167.69090270996094,
+            "y": -41.232757568359375
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "55",
+      "width": 320,
+      "name": "2d-landscape-normal-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 627.0390625,
+        "h": 215.75,
+        "right": 793,
+        "w": 556,
+        "x": 237,
+        "y": 411.2890625
+      },
+      "footer": {
+        "bottom": 668.5390625,
+        "h": 33.5,
+        "right": 785,
+        "w": 540,
+        "x": 245,
+        "y": 635.0390625
+      },
+      "guide": "90.4",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 676.5390625,
+        "h": 312.75,
+        "right": 793,
+        "w": 556,
+        "x": 237,
+        "y": 363.7890625
+      },
+      "svgTexts": [],
+      "time": "1800",
+      "width": 820,
+      "name": "3d-normal-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 664.4296875,
+        "h": 278.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": 386.2421875
+      },
+      "footer": {
+        "bottom": 705.9296875,
+        "h": 33.5,
+        "right": 948,
+        "w": 651,
+        "x": 297,
+        "y": 672.4296875
+      },
+      "guide": "90.9",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 713.9296875,
+        "h": 375.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": 338.7421875
+      },
+      "svgTexts": [],
+      "time": "1800",
+      "width": 1280,
+      "name": "3d-normal-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "26.2",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 616.8125,
+        "h": 519.8125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 118.48687744140624,
+            "h": 8,
+            "right": 208.84754943847656,
+            "w": 142.46095275878906,
+            "x": 66.3865966796875,
+            "y": 110.48687744140624
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 135.07638549804688,
+            "h": 12.5,
+            "right": 191.34754943847656,
+            "w": 124.96095275878906,
+            "x": 66.3865966796875,
+            "y": 122.57638549804688
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 440.033203125,
+            "h": 9.999969482421877,
+            "right": 255.96484375,
+            "w": 121.9296875,
+            "x": 134.03515625,
+            "y": 430.0332336425781
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 470.7507019042969,
+            "h": 15,
+            "right": 178.31021118164062,
+            "w": 107.5390625,
+            "x": 70.77114868164062,
+            "y": 455.7507019042969
+          },
+          "text": "6.08 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 490.2119140625,
+            "h": 10,
+            "right": 201.18521118164065,
+            "w": 130.4140625,
+            "x": 70.77114868164062,
+            "y": 480.2119140625
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 507.7501220703125,
+            "h": 10,
+            "right": 158.58364868164062,
+            "w": 87.8125,
+            "x": 70.77114868164062,
+            "y": 497.7501220703125
+          },
+          "text": "RMS spread: 0.8348 mm"
+        },
+        {
+          "rect": {
+            "bottom": 525.288330078125,
+            "h": 10,
+            "right": 184.79458618164065,
+            "w": 114.0234375,
+            "x": 70.77114868164062,
+            "y": 515.288330078125
+          },
+          "text": "Concentration variation: 0.6543"
+        },
+        {
+          "rect": {
+            "bottom": 542.8265380859375,
+            "h": 10,
+            "right": 185.78677368164065,
+            "w": 115.015625,
+            "x": 70.77114868164062,
+            "y": 532.8265380859375
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 563.7620849609375,
+            "h": 8.5,
+            "right": 225.9274139404297,
+            "w": 155.15626525878906,
+            "x": 70.77114868164062,
+            "y": 555.2620849609375
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 576.4285278320312,
+            "h": 8.5,
+            "right": 218.18521118164065,
+            "w": 147.4140625,
+            "x": 70.77114868164062,
+            "y": 567.9285278320312
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "365",
+      "width": 390,
+      "name": "2d-portrait-theatre-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 990.515625,
+        "h": 505.2734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 485.2421875
+      },
+      "footer": {
+        "bottom": 1032.015625,
+        "h": 33.5,
+        "right": 363,
+        "w": 336,
+        "x": 27,
+        "y": 998.515625
+      },
+      "guide": "0",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 1040.015625,
+        "h": 625.7734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 414.2421875
+      },
+      "svgTexts": [],
+      "time": "0",
+      "width": 390,
+      "name": "3d-dark-phone",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 347.5,
+        "h": 179.5,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 168
+      },
+      "footer": {
+        "bottom": 469,
+        "h": 113.5,
+        "right": 312,
+        "w": 304,
+        "x": 8,
+        "y": 355.5
+      },
+      "guide": "31.9",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 477,
+        "h": 380,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [],
+      "time": "493",
+      "width": 320,
+      "name": "3d-expanded-theatre-fixed-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 990.515625,
+        "h": 505.2734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 485.2421875
+      },
+      "footer": {
+        "bottom": 1032.015625,
+        "h": 33.5,
+        "right": 363,
+        "w": 336,
+        "x": 27,
+        "y": 998.515625
+      },
+      "guide": "86.7",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 1040.015625,
+        "h": 625.7734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 414.2421875
+      },
+      "svgTexts": [],
+      "time": "1727",
+      "width": 390,
+      "name": "3d-portrait-normal-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 445.3125,
+        "h": 277.3125,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 168
+      },
+      "footer": {
+        "bottom": 486.8125,
+        "h": 33.5,
+        "right": 312,
+        "w": 304,
+        "x": 8,
+        "y": 453.3125
+      },
+      "guide": "61.6",
+      "height": 740,
+      "scrollWidth": 320,
+      "stage": {
+        "bottom": 494.8125,
+        "h": 397.8125,
+        "right": 320,
+        "w": 320,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [],
+      "time": "1160",
+      "width": 320,
+      "name": "3d-theatre-320",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 567.3125,
+        "h": 399.3125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 168
+      },
+      "footer": {
+        "bottom": 608.8125,
+        "h": 33.5,
+        "right": 382,
+        "w": 374,
+        "x": 8,
+        "y": 575.3125
+      },
+      "guide": "72.7",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 616.8125,
+        "h": 519.8125,
+        "right": 390,
+        "w": 390,
+        "x": 0,
+        "y": 97
+      },
+      "svgTexts": [],
+      "time": "1410",
+      "width": 390,
+      "name": "3d-portrait-theatre-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "14.8",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 97.9296875,
+        "h": 375.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": -277.2578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -250.5130615234375,
+            "h": 9.5,
+            "right": 488.1580810546875,
+            "w": 177.203125,
+            "x": 310.9549560546875,
+            "y": -260.0130615234375
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -229.6172637939453,
+            "h": 16,
+            "right": 466.4471435546875,
+            "w": 155.4921875,
+            "x": 310.9549560546875,
+            "y": -245.6172637939453
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 76.68496704101562,
+            "h": 12.5,
+            "right": 549.8759155273438,
+            "w": 151.75,
+            "x": 398.12591552734375,
+            "y": 64.18496704101562
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -184.87060546875,
+            "h": 19,
+            "right": 771.04296875,
+            "w": 130.359375,
+            "x": 640.68359375,
+            "y": -203.87060546875
+          },
+          "text": "1.80 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -160.91360473632812,
+            "h": 12.5,
+            "right": 802.98828125,
+            "w": 162.3046875,
+            "x": 640.68359375,
+            "y": -173.41360473632812
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -139.0933380126953,
+            "h": 12.5,
+            "right": 750.91796875,
+            "w": 110.234375,
+            "x": 640.68359375,
+            "y": -151.5933380126953
+          },
+          "text": "RMS spread: 0.5508 mm"
+        },
+        {
+          "rect": {
+            "bottom": -117.27305603027344,
+            "h": 12.5,
+            "right": 776.26171875,
+            "w": 135.578125,
+            "x": 640.68359375,
+            "y": -129.77305603027344
+          },
+          "text": "Concentration variation: 2.1513"
+        },
+        {
+          "rect": {
+            "bottom": -95.45278930664062,
+            "h": 12.5,
+            "right": 783.82421875,
+            "w": 143.140625,
+            "x": 640.68359375,
+            "y": -107.95278930664062
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": -69.28355407714844,
+            "h": 10.5,
+            "right": 833.7147827148438,
+            "w": 193.03118896484375,
+            "x": 640.68359375,
+            "y": -79.78355407714844
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": -53.52447509765625,
+            "h": 10.5,
+            "right": 824.07421875,
+            "w": 183.390625,
+            "x": 640.68359375,
+            "y": -64.02447509765625
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "108",
+      "width": 1280,
+      "name": "2d-landscape-normal-1280",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "15.9",
+      "height": 1080,
+      "scrollWidth": 1920,
+      "stage": {
+        "bottom": 422.1796875,
+        "h": 683.4375,
+        "right": 1550,
+        "w": 1215,
+        "x": 335,
+        "y": -261.2578125
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": -213.0938415527344,
+            "h": 17,
+            "right": 697.821044921875,
+            "w": 322.828125,
+            "x": 374.992919921875,
+            "y": -230.0938415527344
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": -174.76266479492188,
+            "h": 29,
+            "right": 658.258544921875,
+            "w": 283.265625,
+            "x": 374.992919921875,
+            "y": -203.76266479492188
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 383.5158081054687,
+            "h": 23.00006103515625,
+            "right": 810.2456665039062,
+            "w": 276.5,
+            "x": 533.7456665039062,
+            "y": 360.5157470703125
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": -93.16340637207033,
+            "h": 34.5,
+            "right": 1209.373046875,
+            "w": 233.75006103515625,
+            "x": 975.6229858398438,
+            "y": -127.66340637207033
+          },
+          "text": "2.21 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": -49.291229248046875,
+            "h": 23,
+            "right": 1271.349609375,
+            "w": 295.72662353515625,
+            "x": 975.6229858398438,
+            "y": -72.29122924804688
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": -9.543655395507812,
+            "h": 23,
+            "right": 1174.685546875,
+            "w": 199.06256103515625,
+            "x": 975.6229858398438,
+            "y": -32.54365539550781
+          },
+          "text": "RMS spread: 0.5936 mm"
+        },
+        {
+          "rect": {
+            "bottom": 30.20391845703125,
+            "h": 23,
+            "right": 1229.138671875,
+            "w": 253.51568603515625,
+            "x": 975.6229858398438,
+            "y": 7.20391845703125
+          },
+          "text": "Concentration variation: 1.8548"
+        },
+        {
+          "rect": {
+            "bottom": 69.95150756835938,
+            "h": 23,
+            "right": 1236.435546875,
+            "w": 260.81256103515625,
+            "x": 975.6229858398438,
+            "y": 46.951507568359375
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 117.53189086914062,
+            "h": 18.5,
+            "right": 1327.357421875,
+            "w": 351.73443603515625,
+            "x": 975.6229858398438,
+            "y": 99.03189086914062
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 146.23846435546875,
+            "h": 18.5,
+            "right": 1309.794921875,
+            "w": 334.17193603515625,
+            "x": 975.6229858398438,
+            "y": 127.73846435546876
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "133",
+      "width": 1920,
+      "name": "2d-landscape-normal-1920",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "0",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 1040.015625,
+        "h": 625.7734375,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 414.2421875
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 439.7013549804687,
+            "h": 9,
+            "right": 211.6382064819336,
+            "w": 171.46875,
+            "x": 40.169456481933594,
+            "y": 430.7013549804687
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 459.96868896484375,
+            "h": 15,
+            "right": 190.5913314819336,
+            "w": 150.421875,
+            "x": 40.169456481933594,
+            "y": 444.96868896484375
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 827.1912231445312,
+            "h": 12.5,
+            "right": 268.41014862060547,
+            "w": 146.8203125,
+            "x": 121.58983612060548,
+            "y": 814.6912231445312
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 864.4664306640625,
+            "h": 18.5,
+            "right": 176.7759132385254,
+            "w": 131.32814025878906,
+            "x": 45.44777297973633,
+            "y": 845.9664306640625
+          },
+          "text": "0.00 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 887.5986328125,
+            "h": 12.5,
+            "right": 202.47902297973633,
+            "w": 157.03125,
+            "x": 45.44777297973633,
+            "y": 875.0986328125
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 908.7118530273438,
+            "h": 12.5,
+            "right": 151.2056007385254,
+            "w": 105.75782775878906,
+            "x": 45.44777297973633,
+            "y": 896.2118530273438
+          },
+          "text": "RMS spread: 0.2802 mm"
+        },
+        {
+          "rect": {
+            "bottom": 929.8251342773438,
+            "h": 12.50006103515625,
+            "right": 182.8696632385254,
+            "w": 137.42189025878906,
+            "x": 45.44777297973633,
+            "y": 917.3250732421876
+          },
+          "text": "Concentration variation: 6.5456"
+        },
+        {
+          "rect": {
+            "bottom": 950.9383544921876,
+            "h": 12.5,
+            "right": 183.9399757385254,
+            "w": 138.49220275878906,
+            "x": 45.44777297973633,
+            "y": 938.4383544921876
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 976.2434692382812,
+            "h": 10,
+            "right": 232.2290382385254,
+            "w": 186.78126525878903,
+            "x": 45.44777297973633,
+            "y": 966.2434692382812
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 991.491943359375,
+            "h": 10,
+            "right": 222.9009132385254,
+            "w": 177.45314025878906,
+            "x": 45.44777297973633,
+            "y": 981.491943359375
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "0",
+      "width": 390,
+      "name": "2d-dark-phone",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "0",
+      "height": 960,
+      "scrollWidth": 1280,
+      "stage": {
+        "bottom": 746.9296875,
+        "h": 375.1875,
+        "right": 956,
+        "w": 667,
+        "x": 289,
+        "y": 371.7421875
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 398.4869384765625,
+            "h": 9.5,
+            "right": 488.1580810546875,
+            "w": 177.203125,
+            "x": 310.9549560546875,
+            "y": 388.9869384765625
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 419.38275146484375,
+            "h": 16,
+            "right": 466.4471435546875,
+            "w": 155.4921875,
+            "x": 310.9549560546875,
+            "y": 403.38275146484375
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 725.6849365234375,
+            "h": 12.5,
+            "right": 549.8759155273438,
+            "w": 151.75,
+            "x": 398.12591552734375,
+            "y": 713.1849365234375
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 464.12939453125,
+            "h": 19,
+            "right": 771.56640625,
+            "w": 130.8828125,
+            "x": 640.68359375,
+            "y": 445.12939453125
+          },
+          "text": "1.00 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 488.0863952636719,
+            "h": 12.5,
+            "right": 802.98828125,
+            "w": 162.3046875,
+            "x": 640.68359375,
+            "y": 475.5863952636719
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 509.90667724609375,
+            "h": 12.5,
+            "right": 749.51171875,
+            "w": 108.828125,
+            "x": 640.68359375,
+            "y": 497.40667724609375
+          },
+          "text": "RMS spread: 0.4523 mm"
+        },
+        {
+          "rect": {
+            "bottom": 531.7269287109375,
+            "h": 12.5,
+            "right": 780.00390625,
+            "w": 139.3203125,
+            "x": 640.68359375,
+            "y": 519.2269287109375
+          },
+          "text": "Concentration variation: 3.0541"
+        },
+        {
+          "rect": {
+            "bottom": 553.5472412109375,
+            "h": 12.5,
+            "right": 783.82421875,
+            "w": 143.140625,
+            "x": 640.68359375,
+            "y": 541.0472412109375
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 579.7164306640625,
+            "h": 10.5,
+            "right": 833.7147827148438,
+            "w": 193.03118896484375,
+            "x": 640.68359375,
+            "y": 569.2164306640625
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 595.4755249023438,
+            "h": 10.5,
+            "right": 824.07421875,
+            "w": 183.390625,
+            "x": 640.68359375,
+            "y": 584.9755249023438
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "60",
+      "width": 1280,
+      "name": "verified-2d-preview",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": null,
+      "footer": null,
+      "guide": "27",
+      "height": 1180,
+      "scrollWidth": 820,
+      "stage": {
+        "bottom": 1024.40625,
+        "h": 952.40625,
+        "right": 820,
+        "w": 820,
+        "x": 0,
+        "y": 72
+      },
+      "svgTexts": [
+        {
+          "rect": {
+            "bottom": 111.20407104492188,
+            "h": 14,
+            "right": 435.3843078613281,
+            "w": 261.0312194824219,
+            "x": 174.35308837890625,
+            "y": 97.20407104492188
+          },
+          "text": "SCIENCE ATLAS / MAGNIFIED DIFFUSION"
+        },
+        {
+          "rect": {
+            "bottom": 141.767333984375,
+            "h": 23,
+            "right": 403.35308837890625,
+            "w": 229,
+            "x": 174.35308837890625,
+            "y": 118.767333984375
+          },
+          "text": "Still water \u00b7 closed microcell"
+        },
+        {
+          "rect": {
+            "bottom": 700.4287109375,
+            "h": 18.50006103515625,
+            "right": 521.76171875,
+            "w": 223.5234375,
+            "x": 298.23828125,
+            "y": 681.9286499023438
+          },
+          "text": "2.00 mm \u00b7 magnified, not a beaker"
+        },
+        {
+          "rect": {
+            "bottom": 756.87744140625,
+            "h": 27.5,
+            "right": 378.1052551269531,
+            "w": 195.71875,
+            "x": 182.38650512695312,
+            "y": 729.37744140625
+          },
+          "text": "6.39 model minutes"
+        },
+        {
+          "rect": {
+            "bottom": 792.3667602539062,
+            "h": 18.5,
+            "right": 421.4490051269531,
+            "w": 239.0625,
+            "x": 182.38650512695312,
+            "y": 773.8667602539062
+          },
+          "text": "Dye mass: 0.020000 \u03bcg \u00b7 conserved"
+        },
+        {
+          "rect": {
+            "bottom": 824.5004272460938,
+            "h": 18.5,
+            "right": 342.3161926269531,
+            "w": 159.9296875,
+            "x": 182.38650512695312,
+            "y": 806.0004272460938
+          },
+          "text": "RMS spread: 0.8457 mm"
+        },
+        {
+          "rect": {
+            "bottom": 856.6340942382812,
+            "h": 18.5,
+            "right": 393.5661926269531,
+            "w": 211.1796875,
+            "x": 182.38650512695312,
+            "y": 838.1340942382812
+          },
+          "text": "Concentration variation: 0.6099"
+        },
+        {
+          "rect": {
+            "bottom": 888.7677612304688,
+            "h": 18.5,
+            "right": 393.2224426269531,
+            "w": 210.8359375,
+            "x": 182.38650512695312,
+            "y": 870.2677612304688
+          },
+          "text": "Concentration gradients remain"
+        },
+        {
+          "rect": {
+            "bottom": 927.042236328125,
+            "h": 15,
+            "right": 466.7146301269531,
+            "w": 284.328125,
+            "x": 182.38650512695312,
+            "y": 912.042236328125
+          },
+          "text": "Projected concentration \u00b7 darker = more dye per area"
+        },
+        {
+          "rect": {
+            "bottom": 950.2498779296876,
+            "h": 15,
+            "right": 452.5193176269531,
+            "w": 270.1328125,
+            "x": 182.38650512695312,
+            "y": 935.2498779296876
+          },
+          "text": "Colour proxy; not measured food-dye absorbance"
+        }
+      ],
+      "time": "383",
+      "width": 820,
+      "name": "2d-portrait-theatre-820",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    },
+    {
+      "canvas": {
+        "bottom": 624.7421875,
+        "h": 139.5,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 485.2421875
+      },
+      "footer": {
+        "bottom": 666.2421875,
+        "h": 33.5,
+        "right": 363,
+        "w": 336,
+        "x": 27,
+        "y": 632.7421875
+      },
+      "guide": "89.7",
+      "height": 844,
+      "scrollWidth": 390,
+      "stage": {
+        "bottom": 674.2421875,
+        "h": 260,
+        "right": 371,
+        "w": 352,
+        "x": 19,
+        "y": 414.2421875
+      },
+      "svgTexts": [],
+      "time": "1793",
+      "width": 390,
+      "name": "3d-normal-390",
+      "noPageOverflow": true,
+      "noCanvasOverflow": true,
+      "noFooterClipping": true,
+      "superseded": false,
+      "svgTextContained": true
+    }
+  ]
+}

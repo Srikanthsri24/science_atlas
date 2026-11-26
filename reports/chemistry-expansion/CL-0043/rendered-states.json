@@ -1,0 +1,6783 @@
+[
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "30.172434431906936",
+      "width": "464",
+      "x": "68",
+      "y": "364.82756556809306"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "22.231 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "8.003 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "1.997 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "77.769 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "32.231 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "300",
+      "data-origin-y": "590",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "300",
+      "cy": "590",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "104",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "233.27240807794757",
+        "y": "523.2724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "264.4724080779476",
+        "y": "523.2724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "295.6724080779476",
+        "y": "523.2724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "326.87240807794757",
+        "y": "523.2724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "358.07240807794756",
+        "y": "523.2724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "233.27240807794757",
+        "y": "554.4724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "264.4724080779476",
+        "y": "554.4724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "295.6724080779476",
+        "y": "554.4724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "326.87240807794757",
+        "y": "554.4724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "358.07240807794756",
+        "y": "554.4724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "233.27240807794757",
+        "y": "585.6724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "264.4724080779476",
+        "y": "585.6724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "295.6724080779476",
+        "y": "585.6724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "326.87240807794757",
+        "y": "585.6724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "358.07240807794756",
+        "y": "585.6724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "233.27240807794757",
+        "y": "616.8724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "264.4724080779476",
+        "y": "616.8724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "295.6724080779476",
+        "y": "616.8724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "326.87240807794757",
+        "y": "616.8724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "358.07240807794756",
+        "y": "616.8724080779475"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "233.27240807794757",
+        "y": "648.0724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "264.4724080779476",
+        "y": "648.0724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "295.6724080779476",
+        "y": "648.0724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "326.87240807794757",
+        "y": "648.0724080779476"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#b6ccdf",
+        "height": "8.65518384410486",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "8.65518384410486",
+        "x": "358.07240807794756",
+        "y": "648.0724080779476"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "19.307717806080074",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "19.307717806080074",
+        "x": "151.14614109695995",
+        "y": "375.69228219391994"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "19.307717806080074",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "19.307717806080074",
+        "x": "220.74614109695997",
+        "y": "375.69228219391994"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "19.307717806080074",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "19.307717806080074",
+        "x": "290.34614109695997",
+        "y": "375.69228219391994"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "19.307717806080074",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "19.307717806080074",
+        "x": "359.94614109696",
+        "y": "375.69228219391994"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "19.307717806080074",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "19.307717806080074",
+        "x": "429.54614109695996",
+        "y": "375.69228219391994"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 3007.323 physical seconds. Water 22.231466 grams; dissolved salt 8.003328 grams; crystalline salt 1.996672 grams. Wet residue 32.231466 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "300",
+      "data-recovery-origin-y": "395",
+      "data-recovery-scale": "58",
+      "data-recovery-top-scale": "26",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 600 1067"
+    },
+    "timeS": "3007.3229999999985",
+    "vapour": [
+      {
+        "d": "M143.39999999999998 332.869163895426V317.869163895426m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M221.7 323.869163895426V308.869163895426m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M300 359.869163895426V344.869163895426m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M378.3 350.869163895426V335.869163895426m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M456.6 341.86916389542597V326.86916389542597m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "guide-live-portrait"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "20.48486697053955",
+      "width": "464",
+      "x": "68",
+      "y": "374.51513302946046"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "14.069 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.065 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "4.935 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "85.931 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "24.069 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "300",
+      "data-origin-y": "590",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "300",
+      "cy": "590",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "104",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "646.5488012626327"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "147.74732589356523",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "217.34732589356523",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "286.9473258935652",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "356.54732589356524",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "426.1473258935652",
+        "y": "368.89465178713044"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 3922.398 physical seconds. Water 14.068963 grams; dissolved salt 5.064827 grams; crystalline salt 4.935173 grams. Wet residue 24.068963 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "300",
+      "data-recovery-origin-y": "395",
+      "data-recovery-scale": "58",
+      "data-recovery-top-scale": "26",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 600 1067"
+    },
+    "timeS": "3922.397999999993",
+    "vapour": [],
+    "name": "guide-paused"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "20.48486697053955",
+      "width": "464",
+      "x": "68",
+      "y": "374.51513302946046"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "14.069 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.065 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "4.935 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "85.931 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "24.069 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "300",
+      "data-origin-y": "590",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "300",
+      "cy": "590",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "104",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "521.7488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "552.9488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "584.1488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "615.3488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "231.7488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "262.9488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "294.1488012626327",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "325.34880126263266",
+        "y": "646.5488012626327"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "11.702397474734626",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.702397474734626",
+        "x": "356.54880126263265",
+        "y": "646.5488012626327"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "147.74732589356523",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "217.34732589356523",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "286.9473258935652",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "356.54732589356524",
+        "y": "368.89465178713044"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "26.10534821286955",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "26.10534821286955",
+        "x": "426.1473258935652",
+        "y": "368.89465178713044"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 3922.398 physical seconds. Water 14.068963 grams; dissolved salt 5.064827 grams; crystalline salt 4.935173 grams. Wet residue 24.068963 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "300",
+      "data-recovery-origin-y": "395",
+      "data-recovery-scale": "58",
+      "data-recovery-top-scale": "26",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 600 1067"
+    },
+    "timeS": "3922.397999999993",
+    "vapour": [
+      {
+        "d": "M143.39999999999998 350.8254678268153V335.8254678268153m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M221.7 341.8254678268153V326.8254678268153m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M300 332.82546782681527V317.82546782681527m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M378.3 368.8254678268153V353.8254678268153m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M456.6 359.82546782681527V344.82546782681527m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "guide-paused-final"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "5.484925418021107",
+      "width": "520",
+      "x": "90",
+      "y": "338.51507458197887"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "3.182 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "1.145 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "8.855 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "96.818 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "13.182 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "798.1431445118303",
+        "y": "185.14314451183026"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "831.7431445118302",
+        "y": "185.14314451183026"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "865.3431445118302",
+        "y": "185.14314451183026"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "898.9431445118303",
+        "y": "185.14314451183026"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "932.5431445118303",
+        "y": "185.14314451183026"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "798.1431445118303",
+        "y": "218.74314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "831.7431445118302",
+        "y": "218.74314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "865.3431445118302",
+        "y": "218.74314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "898.9431445118303",
+        "y": "218.74314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "932.5431445118303",
+        "y": "218.74314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "798.1431445118303",
+        "y": "252.34314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "831.7431445118302",
+        "y": "252.34314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "865.3431445118302",
+        "y": "252.34314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "898.9431445118303",
+        "y": "252.34314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "932.5431445118303",
+        "y": "252.34314451183025"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "798.1431445118303",
+        "y": "285.94314451183027"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "831.7431445118302",
+        "y": "285.94314451183027"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "865.3431445118302",
+        "y": "285.94314451183027"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "898.9431445118303",
+        "y": "285.94314451183027"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "932.5431445118303",
+        "y": "285.94314451183027"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "798.1431445118303",
+        "y": "319.54314451183023"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "831.7431445118302",
+        "y": "319.54314451183023"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "865.3431445118302",
+        "y": "319.54314451183023"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "898.9431445118303",
+        "y": "319.54314451183023"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "15.313710976339499",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.313710976339499",
+        "x": "932.5431445118303",
+        "y": "319.54314451183023"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "35.54968619507384",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.54968619507384",
+        "x": "176.22515690246308",
+        "y": "308.45031380492617"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "35.54968619507384",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.54968619507384",
+        "x": "254.22515690246308",
+        "y": "308.45031380492617"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "35.54968619507384",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.54968619507384",
+        "x": "332.2251569024631",
+        "y": "308.45031380492617"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "35.54968619507384",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.54968619507384",
+        "x": "410.2251569024631",
+        "y": "308.45031380492617"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "35.54968619507384",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.54968619507384",
+        "x": "488.2251569024631",
+        "y": "308.45031380492617"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 6895.395 physical seconds. Water 3.181881 grams; dissolved salt 1.145477 grams; crystalline salt 8.854523 grams. Wet residue 13.181881 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "6895.395000000514",
+    "vapour": [
+      {
+        "d": "M174.5 310.8335412961081V295.8335412961081m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 301.83354129610814V286.83354129610814m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 337.8335412961081V322.8335412961081m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 328.8335412961081V313.8335412961081m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 319.833541296108V304.833541296108m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "guide-live-late"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "4.720082115092592",
+      "width": "520",
+      "x": "90",
+      "y": "339.27991788490743"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "2.732 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "0.984 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "9.016 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "97.268 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "12.732 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "319.49678081126933"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "176.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "254.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "332.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "410.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "488.11752688330387",
+        "y": "308.23505376660773"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 2.732372 grams; dissolved salt 0.983654 grams; crystalline salt 9.016346 grams. Wet residue 12.732372 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 309.57559298618906V294.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 300.5755929861891V285.5755929861891m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 336.57559298618906V321.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 327.5755929861891V312.5755929861891m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 318.57559298618906V303.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "final-reference-7200"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "133.16527951252732",
+      "width": "520",
+      "x": "90",
+      "y": "210.83472048747268"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "100.000 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "110.000 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.000 physical seconds. Water 100.000000 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 110.000000 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0",
+    "vapour": [],
+    "name": "reference-initial"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "72.42307286637931",
+      "width": "520",
+      "x": "90",
+      "y": "271.5769271336207"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "52.705 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "47.295 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "62.705 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 1280.934 physical seconds. Water 52.704628 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 62.704628 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "1280.9338454620643",
+    "vapour": [
+      {
+        "d": "M174.5 241.74775164624913V226.74775164624913m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 232.74775164624913V217.74775164624913m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 268.7477516462491V253.74775164624913m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 259.7477516462492V244.74775164624916m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 250.74775164624916V235.74775164624916m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "reference-before-onset"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "40.75972196293462",
+      "width": "520",
+      "x": "90",
+      "y": "303.24027803706537"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "27.778 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "72.222 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "37.778 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 2561.868 physical seconds. Water 27.777778 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 37.777778 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "2561.8676909241285",
+    "vapour": [
+      {
+        "d": "M174.5 296.2402780370653V281.2402780370653m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 287.2402780370653V272.2402780370653m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 278.2402780370653V263.2402780370653m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 269.2402780370653V254.24027803706534m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 305.2402780370653V290.2402780370653m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "reference-onset"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "26.604448488207712",
+      "width": "520",
+      "x": "90",
+      "y": "317.3955515117923"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "16.530 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.951 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "4.049 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "83.470 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "26.530 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "799.9008889353723",
+        "y": "186.90088893537234"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "833.5008889353724",
+        "y": "186.90088893537234"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "867.1008889353724",
+        "y": "186.90088893537234"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "900.7008889353723",
+        "y": "186.90088893537234"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "934.3008889353723",
+        "y": "186.90088893537234"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "799.9008889353723",
+        "y": "220.50088893537233"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "833.5008889353724",
+        "y": "220.50088893537233"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "867.1008889353724",
+        "y": "220.50088893537233"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "900.7008889353723",
+        "y": "220.50088893537233"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "934.3008889353723",
+        "y": "220.50088893537233"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "799.9008889353723",
+        "y": "254.10088893537232"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "833.5008889353724",
+        "y": "254.10088893537232"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "867.1008889353724",
+        "y": "254.10088893537232"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "900.7008889353723",
+        "y": "254.10088893537232"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "934.3008889353723",
+        "y": "254.10088893537232"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "799.9008889353723",
+        "y": "287.70088893537235"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "833.5008889353724",
+        "y": "287.70088893537235"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "867.1008889353724",
+        "y": "287.70088893537235"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "900.7008889353723",
+        "y": "287.70088893537235"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "934.3008889353723",
+        "y": "287.70088893537235"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "799.9008889353723",
+        "y": "321.3008889353723"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "833.5008889353724",
+        "y": "321.3008889353723"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "867.1008889353724",
+        "y": "321.3008889353723"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "900.7008889353723",
+        "y": "321.3008889353723"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "11.798222129255327",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "11.798222129255327",
+        "x": "934.3008889353723",
+        "y": "321.3008889353723"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "27.388729942914154",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "27.388729942914154",
+        "x": "180.30563502854292",
+        "y": "316.61127005708585"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "27.388729942914154",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "27.388729942914154",
+        "x": "258.30563502854295",
+        "y": "316.61127005708585"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "27.388729942914154",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "27.388729942914154",
+        "x": "336.30563502854295",
+        "y": "316.61127005708585"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "27.388729942914154",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "27.388729942914154",
+        "x": "414.30563502854295",
+        "y": "316.61127005708585"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "27.388729942914154",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "27.388729942914154",
+        "x": "492.30563502854295",
+        "y": "316.61127005708585"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 3600.000 physical seconds. Water 16.529889 grams; dissolved salt 5.950760 grams; crystalline salt 4.049240 grams. Wet residue 26.529889 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "3600",
+    "vapour": [
+      {
+        "d": "M174.5 304.78005121150625V289.78005121150625m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 295.78005121150625V280.78005121150625m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 286.78005121150625V271.78005121150625m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 277.78005121150625V262.78005121150625m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 313.7800512115062V298.7800512115062m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "reference-3600"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "4.720082115092592",
+      "width": "520",
+      "x": "90",
+      "y": "339.27991788490743"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "2.732 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "0.984 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "9.016 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "97.268 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "12.732 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "185.09678081126935"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "218.69678081126938"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "252.29678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "285.89678081126937"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "798.0967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "831.6967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "865.2967808112694",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "898.8967808112693",
+        "y": "319.49678081126933"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "15.406438377461283",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "15.406438377461283",
+        "x": "932.4967808112693",
+        "y": "319.49678081126933"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "176.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "254.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "332.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "410.11752688330387",
+        "y": "308.23505376660773"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "35.764946233392266",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "35.764946233392266",
+        "x": "488.11752688330387",
+        "y": "308.23505376660773"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 2.732372 grams; dissolved salt 0.983654 grams; crystalline salt 9.016346 grams. Wet residue 12.732372 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 309.57559298618906V294.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 300.5755929861891V285.5755929861891m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 336.57559298618906V321.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 327.5755929861891V312.5755929861891m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 318.57559298618906V303.57559298618906m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "reference-7200"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "131.09702424509135",
+      "width": "520",
+      "x": "90",
+      "y": "212.90297575490865"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "100.000 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "105.000 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.000 physical seconds. Water 100.000000 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 105.000000 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0",
+    "vapour": [],
+    "name": "salt5-slow-initial"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "50.203839496162246",
+      "width": "520",
+      "x": "90",
+      "y": "293.79616050383777"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "37.268 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "62.732 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "42.268 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 4935.203 physical seconds. Water 37.267800 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 42.267800 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "4935.202565055024",
+    "vapour": [
+      {
+        "d": "M174.5 284.501258816322V269.501258816322m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 275.5012588163219V260.5012588163219m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 266.5012588163219V251.50125881632192m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 257.501258816322V242.50125881632198m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 293.501258816322V278.501258816322m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-slow-before"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "64.87666969191787",
+      "width": "520",
+      "x": "90",
+      "y": "279.12333030808213"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "48.675 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "51.325 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "53.675 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 3600.000 physical seconds. Water 48.675226 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 53.675226 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "3600",
+    "vapour": [
+      {
+        "d": "M174.5 276.16184549006937V261.16184549006937m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 267.16184549006937V252.16184549006934m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 258.16184549006937V243.16184549006934m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 249.16184549006937V234.16184549006937m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 240.16184549006937V225.16184549006937m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-slow-3600"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "32.81486537130324",
+      "width": "520",
+      "x": "90",
+      "y": "311.18513462869674"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "23.693 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "76.307 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "28.693 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 23.692776 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 28.692776 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 285.8026260356515V270.8026260356515m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 276.80262603565143V261.80262603565143m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 312.80262603565143V297.80262603565143m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 303.8026260356515V288.8026260356515m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 294.80262603565143V279.80262603565143m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-slow-last-supported"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "131.09702424509135",
+      "width": "520",
+      "x": "90",
+      "y": "212.90297575490865"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "100.000 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "105.000 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.000 physical seconds. Water 100.000000 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 105.000000 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0",
+    "vapour": [],
+    "name": "salt5-fast-initial"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "50.203839496162246",
+      "width": "520",
+      "x": "90",
+      "y": "293.79616050383777"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "37.268 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "62.732 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "42.268 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 822.534 physical seconds. Water 37.267800 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 42.267800 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "822.5337608425041",
+    "vapour": [
+      {
+        "d": "M174.5 284.501258816322V269.501258816322m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 275.5012588163219V260.5012588163219m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 266.5012588163219V251.50125881632192m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 257.501258816322V242.50125881632198m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 293.501258816322V278.501258816322m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-fast-before"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "20.37986098146731",
+      "width": "520",
+      "x": "90",
+      "y": "323.6201390185327"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "13.889 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "5.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "86.111 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "18.889 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "5",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 1645.068 physical seconds. Water 13.888889 grams; dissolved salt 5.000000 grams; crystalline salt 0.000000 grams. Wet residue 18.888889 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "1645.0675216850082",
+    "vapour": [
+      {
+        "d": "M174.5 299.12013901853265V284.12013901853265m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 290.12013901853265V275.12013901853265m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 326.12013901853265V311.12013901853265m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 317.12013901853265V302.12013901853265m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 308.1201390185326V293.1201390185326m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-fast-onset"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "0.028889217332226564",
+      "width": "520",
+      "x": "90",
+      "y": "343.9711107826678"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "0.018 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "0.006 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "4.994 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "99.982 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "5.018 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "105.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "799.4739263166189",
+        "y": "186.47392631661882"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "833.0739263166188",
+        "y": "186.47392631661882"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "866.6739263166188",
+        "y": "186.47392631661882"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "900.2739263166188",
+        "y": "186.47392631661882"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "933.8739263166188",
+        "y": "186.47392631661882"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "799.4739263166189",
+        "y": "220.07392631661884"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "833.0739263166188",
+        "y": "220.07392631661884"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "866.6739263166188",
+        "y": "220.07392631661884"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "900.2739263166188",
+        "y": "220.07392631661884"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "933.8739263166188",
+        "y": "220.07392631661884"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "799.4739263166189",
+        "y": "253.67392631661883"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "833.0739263166188",
+        "y": "253.67392631661883"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "866.6739263166188",
+        "y": "253.67392631661883"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "900.2739263166188",
+        "y": "253.67392631661883"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "933.8739263166188",
+        "y": "253.67392631661883"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "799.4739263166189",
+        "y": "287.2739263166188"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "833.0739263166188",
+        "y": "287.2739263166188"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "866.6739263166188",
+        "y": "287.2739263166188"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "900.2739263166188",
+        "y": "287.2739263166188"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "933.8739263166188",
+        "y": "287.2739263166188"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "799.4739263166189",
+        "y": "320.87392631661885"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "833.0739263166188",
+        "y": "320.87392631661885"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "866.6739263166188",
+        "y": "320.87392631661885"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "900.2739263166188",
+        "y": "320.87392631661885"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "12.652147366762359",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.652147366762359",
+        "x": "933.8739263166188",
+        "y": "320.87392631661885"
+      }
+    ],
+    "rate": "0.0012",
+    "salt": "5",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "29.371056387126902",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.371056387126902",
+        "x": "179.31447180643656",
+        "y": "314.6289436128731"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "29.371056387126902",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.371056387126902",
+        "x": "257.3144718064366",
+        "y": "314.6289436128731"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "29.371056387126902",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.371056387126902",
+        "x": "335.31447180643653",
+        "y": "314.6289436128731"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "29.371056387126902",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.371056387126902",
+        "x": "413.31447180643653",
+        "y": "314.6289436128731"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "29.371056387126902",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.371056387126902",
+        "x": "491.3144718064366",
+        "y": "314.6289436128731"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 0.017689 grams; dissolved salt 0.006368 grams; crystalline salt 4.993632 grams. Wet residue 5.017689 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 302.0507098886769V287.0507098886769m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 338.050709888677V323.050709888677m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 329.0507098886769V314.0507098886769m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 320.050709888677V305.050709888677m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 311.0507098886769V296.0507098886769m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt5-fast-7200"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "140.55803398061408",
+      "width": "520",
+      "x": "90",
+      "y": "203.44196601938592"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "100.000 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "125.000 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.000 physical seconds. Water 100.000000 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 125.000000 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0",
+    "vapour": [],
+    "name": "salt25-fast-initial"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "119.42056351533267",
+      "width": "520",
+      "x": "90",
+      "y": "224.57943648466733"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "83.333 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "16.667 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.333 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 151.935 physical seconds. Water 83.333333 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.333333 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "151.93463066162886",
+    "vapour": [
+      {
+        "d": "M174.5 197.57943648466735V182.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 188.57943648466735V173.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 224.57943648466735V209.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 215.57943648466738V200.57943648466738m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 206.57943648466735V191.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-fast-before"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "101.89930490733654",
+      "width": "520",
+      "x": "90",
+      "y": "242.10069509266344"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "69.444 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "30.556 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "94.444 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0012",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 303.869 physical seconds. Water 69.444444 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 94.444444 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "303.8692613232577",
+    "vapour": [
+      {
+        "d": "M174.5 242.60069509266344V227.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 233.60069509266341V218.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 224.60069509266344V209.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 215.60069509266344V200.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 206.60069509266341V191.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-fast-onset"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "0.03692828651344684",
+      "width": "520",
+      "x": "90",
+      "y": "343.96307171348656"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "0.018 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "0.006 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "24.994 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "99.982 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "25.018 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "794.9788888820517",
+        "y": "181.9788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "828.5788888820517",
+        "y": "181.9788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "862.1788888820518",
+        "y": "181.9788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "895.7788888820518",
+        "y": "181.9788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "929.3788888820517",
+        "y": "181.9788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "794.9788888820517",
+        "y": "215.57888888205173"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "828.5788888820517",
+        "y": "215.57888888205173"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "862.1788888820518",
+        "y": "215.57888888205173"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "895.7788888820518",
+        "y": "215.57888888205173"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "929.3788888820517",
+        "y": "215.57888888205173"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "794.9788888820517",
+        "y": "249.17888888205172"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "828.5788888820517",
+        "y": "249.17888888205172"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "862.1788888820518",
+        "y": "249.17888888205172"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "895.7788888820518",
+        "y": "249.17888888205172"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "929.3788888820517",
+        "y": "249.17888888205172"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "794.9788888820517",
+        "y": "282.7788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "828.5788888820517",
+        "y": "282.7788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "862.1788888820518",
+        "y": "282.7788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "895.7788888820518",
+        "y": "282.7788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "929.3788888820517",
+        "y": "282.7788888820517"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "794.9788888820517",
+        "y": "316.37888888205174"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "828.5788888820517",
+        "y": "316.37888888205174"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "862.1788888820518",
+        "y": "316.37888888205174"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "895.7788888820518",
+        "y": "316.37888888205174"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "21.642222235896554",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "21.642222235896554",
+        "x": "929.3788888820517",
+        "y": "316.37888888205174"
+      }
+    ],
+    "rate": "0.0012",
+    "salt": "25",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "50.240873047617",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "50.240873047617",
+        "x": "168.8795634761915",
+        "y": "293.759126952383"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "50.240873047617",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "50.240873047617",
+        "x": "246.8795634761915",
+        "y": "293.759126952383"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "50.240873047617",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "50.240873047617",
+        "x": "324.8795634761915",
+        "y": "293.759126952383"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "50.240873047617",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "50.240873047617",
+        "x": "402.8795634761915",
+        "y": "293.759126952383"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "50.240873047617",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "50.240873047617",
+        "x": "480.8795634761915",
+        "y": "293.759126952383"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 0.017689 grams; dissolved salt 0.006368 grams; crystalline salt 24.993632 grams. Wet residue 25.017689 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 302.0426708194957V287.0426708194957m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 338.04267081949575V323.04267081949575m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 329.0426708194957V314.0426708194957m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 320.04267081949575V305.04267081949575m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 311.0426708194957V296.0426708194957m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-fast-7200"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "140.55803398061408",
+      "width": "520",
+      "x": "90",
+      "y": "203.44196601938592"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "100.000 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "125.000 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.000 physical seconds. Water 100.000000 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 125.000000 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0",
+    "vapour": [],
+    "name": "salt25-slow-initial"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "119.42056351533267",
+      "width": "520",
+      "x": "90",
+      "y": "224.57943648466733"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "83.333 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "16.667 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.333 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 911.608 physical seconds. Water 83.333333 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.333333 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "911.6077839697731",
+    "vapour": [
+      {
+        "d": "M174.5 197.57943648466735V182.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 188.57943648466735V173.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 224.57943648466735V209.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 215.57943648466738V200.57943648466738m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 206.57943648466735V191.57943648466735m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-slow-before"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "101.89930490733654",
+      "width": "520",
+      "x": "90",
+      "y": "242.10069509266344"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "69.444 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "30.556 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "94.444 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 1823.216 physical seconds. Water 69.444444 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 94.444444 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "1823.2155679395462",
+    "vapour": [
+      {
+        "d": "M174.5 242.60069509266344V227.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 233.60069509266341V218.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 224.60069509266344V209.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 215.60069509266344V200.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 206.60069509266341V191.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-slow-onset"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "44.603327617740035",
+      "width": "520",
+      "x": "90",
+      "y": "299.39667238225996"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "23.693 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "8.529 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "16.471 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "76.307 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "48.693 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "796.3833041074507",
+        "y": "183.38330410745073"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "829.9833041074507",
+        "y": "183.38330410745073"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "863.5833041074507",
+        "y": "183.38330410745073"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "897.1833041074507",
+        "y": "183.38330410745073"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "930.7833041074507",
+        "y": "183.38330410745073"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "796.3833041074507",
+        "y": "216.9833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "829.9833041074507",
+        "y": "216.9833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "863.5833041074507",
+        "y": "216.9833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "897.1833041074507",
+        "y": "216.9833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "930.7833041074507",
+        "y": "216.9833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "796.3833041074507",
+        "y": "250.58330410745072"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "829.9833041074507",
+        "y": "250.58330410745072"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "863.5833041074507",
+        "y": "250.58330410745072"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "897.1833041074507",
+        "y": "250.58330410745072"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "930.7833041074507",
+        "y": "250.58330410745072"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "796.3833041074507",
+        "y": "284.1833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "829.9833041074507",
+        "y": "284.1833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "863.5833041074507",
+        "y": "284.1833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "897.1833041074507",
+        "y": "284.1833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "930.7833041074507",
+        "y": "284.1833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "796.3833041074507",
+        "y": "317.7833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "829.9833041074507",
+        "y": "317.7833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "863.5833041074507",
+        "y": "317.7833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "897.1833041074507",
+        "y": "317.7833041074507"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#b6ccdf",
+        "height": "18.83339178509859",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "18.83339178509859",
+        "x": "930.7833041074507",
+        "y": "317.7833041074507"
+      }
+    ],
+    "rate": "0.0002",
+    "salt": "25",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "43.720373786836014",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "43.720373786836014",
+        "x": "172.139813106582",
+        "y": "300.27962621316397"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "43.720373786836014",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "43.720373786836014",
+        "x": "250.13981310658198",
+        "y": "300.27962621316397"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "43.720373786836014",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "43.720373786836014",
+        "x": "328.139813106582",
+        "y": "300.27962621316397"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "43.720373786836014",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "43.720373786836014",
+        "x": "406.139813106582",
+        "y": "300.27962621316397"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "43.720373786836014",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "43.720373786836014",
+        "x": "484.139813106582",
+        "y": "300.27962621316397"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 7200.000 physical seconds. Water 23.692776 grams; dissolved salt 8.529399 grams; crystalline salt 16.470601 grams. Wet residue 48.692776 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "7200",
+    "vapour": [
+      {
+        "d": "M174.5 274.0141637892147V259.0141637892147m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 265.01416378921465V250.01416378921468m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 301.01416378921465V286.01416378921465m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 292.0141637892147V277.0141637892147m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 283.01416378921465V268.01416378921465m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "salt25-slow-7200"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "101.89930490733654",
+      "width": "520",
+      "x": "90",
+      "y": "242.10069509266344"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "69.444 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "25.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "30.556 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "94.444 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "125.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0002",
+    "salt": "25",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 1823.216 physical seconds. Water 69.444444 grams; dissolved salt 25.000000 grams; crystalline salt 0.000000 grams. Wet residue 94.444444 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "1823.2155679395462",
+    "vapour": [
+      {
+        "d": "M174.5 242.60069509266344V227.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 233.60069509266341V218.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 224.60069509266344V209.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 215.60069509266344V200.60069509266344m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 206.60069509266341V191.60069509266341m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "onset-label-verified"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "133.15306469280094",
+      "width": "520",
+      "x": "90",
+      "y": "210.84693530719906"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "99.991 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "0.009 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "109.991 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 0.190 physical seconds. Water 99.990515 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 109.990515 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "0.18969999999413267",
+    "vapour": [
+      {
+        "d": "M174.5 213.804254831354V198.804254831354m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 204.804254831354V189.804254831354m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 195.804254831354V180.804254831354m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 186.804254831354V171.804254831354m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 177.804254831354V162.804254831354m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-playing-first"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "130.71497162233103",
+      "width": "520",
+      "x": "90",
+      "y": "213.28502837766897"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "98.097 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "1.903 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.097 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 38.421 physical seconds. Water 98.097260 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.097260 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "38.42149999999389",
+    "vapour": [
+      {
+        "d": "M174.5 207.72269859389502V192.72269859389502m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 198.722698593895V183.722698593895m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 189.72269859389502V174.72269859389502m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 180.72269859389502V165.72269859389502m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 171.72269859389502V156.72269859389502m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-playing-later"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "130.70127939992005",
+      "width": "520",
+      "x": "90",
+      "y": "213.29872060007995"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "98.087 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "1.913 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.087 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 38.638 physical seconds. Water 98.086627 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.086627 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "38.63829999999393",
+    "vapour": [
+      {
+        "d": "M174.5 207.68854156633074V192.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 198.68854156633074V183.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 189.68854156633074V174.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 180.68854156633074V165.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 171.68854156633074V156.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-paused"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "130.70127939992005",
+      "width": "520",
+      "x": "90",
+      "y": "213.29872060007995"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "98.087 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "1.913 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.087 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 38.638 physical seconds. Water 98.086627 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.086627 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "38.63829999999393",
+    "vapour": [
+      {
+        "d": "M174.5 207.68854156633074V192.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 198.68854156633074V183.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 189.68854156633074V174.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 180.68854156633074V165.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 171.68854156633074V156.68854156633074m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-paused-stable"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "130.68817592837863",
+      "width": "520",
+      "x": "90",
+      "y": "213.31182407162137"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "98.076 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "1.924 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "108.076 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 38.846 physical seconds. Water 98.076451 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 108.076451 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "38.84579999998788",
+    "vapour": [
+      {
+        "d": "M174.5 207.65585321943996V192.65585321943996m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 198.65585321943996V183.65585321943996m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 189.65585321943993V174.65585321943993m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 180.65585321943996V165.65585321943996m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 171.65585321943996V156.65585321943996m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-resumed"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "129.14323292464587",
+      "width": "520",
+      "x": "90",
+      "y": "214.85676707535413"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "96.877 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "3.123 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "106.877 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 63.464 physical seconds. Water 96.876618 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 106.876618 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "63.46399999998807",
+    "vapour": [
+      {
+        "d": "M174.5 203.80154655764642V188.80154655764642m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 194.80154655764642V179.80154655764642m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 185.80154655764642V170.80154655764642m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 176.80154655764642V161.80154655764642m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 212.80154655764642V197.80154655764642m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-resumed-later"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "129.13187001601761",
+      "width": "520",
+      "x": "90",
+      "y": "214.86812998398239"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "96.868 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "10.000 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "0.000 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "3.132 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "106.868 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [],
+    "svg": {
+      "aria-label": "Salt recovery at 63.646 physical seconds. Water 96.867793 grams; dissolved salt 10.000000 grams; crystalline salt 0.000000 grams. Wet residue 106.867793 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "63.64619999998803",
+    "vapour": [
+      {
+        "d": "M174.5 203.77319670580755V188.77319670580755m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 194.77319670580755V179.77319670580755m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 185.77319670580755V170.77319670580755m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 176.77319670580755V161.77319670580755m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 212.77319670580755V197.77319670580755m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "manual-final-paused"
+  },
+  {
+    "liquid": {
+      "data-recovery-liquid": "side",
+      "fill": "#5abbd1",
+      "fill-opacity": ".32",
+      "height": "21.639712746435926",
+      "width": "520",
+      "x": "90",
+      "y": "322.3602872535641"
+    },
+    "metrics": [
+      {
+        "name": "Water in dish",
+        "value": "13.199 g"
+      },
+      {
+        "name": "Salt dissolved",
+        "value": "4.752 g"
+      },
+      {
+        "name": "Salt crystals",
+        "value": "5.248 g"
+      },
+      {
+        "name": "Water to air",
+        "value": "86.801 g"
+      },
+      {
+        "name": "Wet dish contents",
+        "value": "23.199 g"
+      },
+      {
+        "name": "Complete balance",
+        "value": "110.000 g"
+      }
+    ],
+    "plan": {
+      "data-origin-x": "873",
+      "data-origin-y": "260",
+      "data-recovery-plan": "dish"
+    },
+    "planCircle": {
+      "cx": "873",
+      "cy": "260",
+      "fill": "#5abbd1",
+      "fill-opacity": ".22",
+      "r": "112",
+      "stroke": "#bad7e8",
+      "stroke-width": "2"
+    },
+    "planCubes": [
+      {
+        "data-recovery-plan-cube": "0",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "799.3681961904323",
+        "y": "186.36819619043234"
+      },
+      {
+        "data-recovery-plan-cube": "1",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "832.9681961904323",
+        "y": "186.36819619043234"
+      },
+      {
+        "data-recovery-plan-cube": "2",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "866.5681961904323",
+        "y": "186.36819619043234"
+      },
+      {
+        "data-recovery-plan-cube": "3",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "900.1681961904324",
+        "y": "186.36819619043234"
+      },
+      {
+        "data-recovery-plan-cube": "4",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "933.7681961904324",
+        "y": "186.36819619043234"
+      },
+      {
+        "data-recovery-plan-cube": "5",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "799.3681961904323",
+        "y": "219.9681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "6",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "832.9681961904323",
+        "y": "219.9681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "7",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "866.5681961904323",
+        "y": "219.9681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "8",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "900.1681961904324",
+        "y": "219.9681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "9",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "933.7681961904324",
+        "y": "219.9681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "10",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "799.3681961904323",
+        "y": "253.56819619043233"
+      },
+      {
+        "data-recovery-plan-cube": "11",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "832.9681961904323",
+        "y": "253.56819619043233"
+      },
+      {
+        "data-recovery-plan-cube": "12",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "866.5681961904323",
+        "y": "253.56819619043233"
+      },
+      {
+        "data-recovery-plan-cube": "13",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "900.1681961904324",
+        "y": "253.56819619043233"
+      },
+      {
+        "data-recovery-plan-cube": "14",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "933.7681961904324",
+        "y": "253.56819619043233"
+      },
+      {
+        "data-recovery-plan-cube": "15",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "799.3681961904323",
+        "y": "287.1681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "16",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "832.9681961904323",
+        "y": "287.1681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "17",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "866.5681961904323",
+        "y": "287.1681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "18",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "900.1681961904324",
+        "y": "287.1681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "19",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "933.7681961904324",
+        "y": "287.1681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "20",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "799.3681961904323",
+        "y": "320.7681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "21",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "832.9681961904323",
+        "y": "320.7681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "22",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "866.5681961904323",
+        "y": "320.7681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "23",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "900.1681961904324",
+        "y": "320.7681961904323"
+      },
+      {
+        "data-recovery-plan-cube": "24",
+        "fill": "#e3d7fc",
+        "height": "12.863607619135355",
+        "stroke": "#b49add",
+        "stroke-width": "0.8",
+        "width": "12.863607619135355",
+        "x": "933.7681961904324",
+        "y": "320.7681961904323"
+      }
+    ],
+    "rate": "0.0005",
+    "salt": "10",
+    "sectionCubes": [
+      {
+        "data-recovery-section-cube": "10",
+        "fill": "#ddd2f7",
+        "height": "29.861946258707075",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.861946258707075",
+        "x": "179.06902687064647",
+        "y": "314.13805374129294"
+      },
+      {
+        "data-recovery-section-cube": "11",
+        "fill": "#ddd2f7",
+        "height": "29.861946258707075",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.861946258707075",
+        "x": "257.06902687064644",
+        "y": "314.13805374129294"
+      },
+      {
+        "data-recovery-section-cube": "12",
+        "fill": "#ddd2f7",
+        "height": "29.861946258707075",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.861946258707075",
+        "x": "335.06902687064644",
+        "y": "314.13805374129294"
+      },
+      {
+        "data-recovery-section-cube": "13",
+        "fill": "#ddd2f7",
+        "height": "29.861946258707075",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.861946258707075",
+        "x": "413.06902687064644",
+        "y": "314.13805374129294"
+      },
+      {
+        "data-recovery-section-cube": "14",
+        "fill": "#ddd2f7",
+        "height": "29.861946258707075",
+        "stroke": "#a995d1",
+        "stroke-width": "1",
+        "width": "29.861946258707075",
+        "x": "491.06902687064644",
+        "y": "314.13805374129294"
+      }
+    ],
+    "svg": {
+      "aria-label": "Salt recovery at 4050.000 physical seconds. Water 13.199384 grams; dissolved salt 4.751778 grams; crystalline salt 5.248222 grams. Wet residue 23.199384 grams. Fixed reference25 degrees Celsius; evaporation, not boiling.",
+      "data-recovery-area-cm2": "50.26548245743669",
+      "data-recovery-origin-x": "350",
+      "data-recovery-origin-y": "344",
+      "data-recovery-scale": "65",
+      "data-recovery-top-scale": "28",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "img",
+      "viewBox": "0 0 1100 619"
+    },
+    "timeS": "4050",
+    "vapour": [
+      {
+        "d": "M174.5 294.7575166880876V279.7575166880876m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M262.25 285.75751668808766V270.75751668808766m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M350 321.7575166880876V306.7575166880876m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M437.75 312.7575166880876V297.7575166880876m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      },
+      {
+        "d": "M525.5 303.7575166880876V288.7575166880876m-4 5l4-5 4 5",
+        "fill": "none",
+        "opacity": "0.6",
+        "stroke": "#70dfda",
+        "stroke-width": "2"
+      }
+    ],
+    "name": "guide-scrub-60"
+  }
+]

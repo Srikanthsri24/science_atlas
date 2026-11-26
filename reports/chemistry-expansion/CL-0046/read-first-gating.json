@@ -1,0 +1,17 @@
+[
+  {
+    "estimate": "101",
+    "revealDisabled": true,
+    "recordDisabled": true
+  },
+  {
+    "estimate": "-1",
+    "revealDisabled": true,
+    "recordDisabled": true
+  },
+  {
+    "afterNewCase": true,
+    "estimate": "",
+    "recordDisabled": true
+  }
+]

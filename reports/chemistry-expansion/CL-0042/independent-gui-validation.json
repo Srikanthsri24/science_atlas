@@ -1,0 +1,186 @@
+{
+  "passed": true,
+  "states": 30,
+  "checks": [
+    {
+      "name": "guide-live-portrait",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "guide-live-before-pause",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "guide-paused",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "guide-paused-stable",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "reference-initial",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "reference-60",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "reference-300",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "reference-600",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equal-initial",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equal-60",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equal-300",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "swapped-initial",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "swapped-60",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "swapped-300",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "boundary-initial-3-35",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "boundary-60-3-35",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "boundary-600-3-35",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equality-4-12-particle-4",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equality-4-12-particle-12",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equality-4-12-particle-30",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "equality-12-30",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "all-pass-35-35-600",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "reverse-boundary-35-3-600",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "all-retain-3-3-600",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-playing-first",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-playing-later",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-paused",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-resumed",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-resumed-later",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    },
+    {
+      "name": "manual-final-paused",
+      "passed": true,
+      "modules": 2,
+      "scope": "Actual SVG phase volumes, mass and water balances, four displayed metrics, all visible glyph compartments/bounds and equal-scale ideal pore encounter."
+    }
+  ]
+}

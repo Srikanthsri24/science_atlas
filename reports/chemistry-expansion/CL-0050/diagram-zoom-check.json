@@ -1,0 +1,29 @@
+{
+  "before": {
+    "captionHeight": 105,
+    "scrollWidth": 844,
+    "svgHeight": 213,
+    "values": [
+      "50",
+      "25",
+      "100",
+      "24"
+    ],
+    "viewport": 844
+  },
+  "after": {
+    "captionHeight": 105,
+    "documentWidth": 844,
+    "scrollHeight": 639,
+    "scrollWidth": 2532,
+    "svgHeight": 639,
+    "values": [
+      "50",
+      "25",
+      "100",
+      "24"
+    ],
+    "viewport": 844
+  },
+  "zoomInDisabled": true
+}

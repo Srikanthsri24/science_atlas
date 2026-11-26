@@ -1,0 +1,10 @@
+{
+  "replayAt": "0.170500000011918",
+  "pauseAt": "0.6367000000119151",
+  "recordLockedDuringGuide": true,
+  "escapeClosedTheatre": true,
+  "conclusion": "QA result: B at setting 1 crossed 9 g between 13.2 and 13.3 model s; A at setting 0 crossed between 66.4 and 66.5 model s. Predicted times are about 13.287 and 66.434 s, so t_A/t_B = 5. Equal settings produced matching masses, and exchanging settings exchanged the results. Solid plus dissolved sugar remained 10 g in each cell. Stirring changed the chosen rate, while the reference solubility stayed fixed. These are simulated values from chosen transfer coefficients, not calibrated physical measurements; bulk mixing, temperature and cubic-grain assumptions limit the model.",
+  "note16": "QA: the resumed manual trial reached 120 s. A retains 0.000489 g solid, whereas B has no solid remaining.",
+  "prediction": "QA trial: with matched sugar, water, grains and temperature, cell B at setting 1 should reach 9 g dissolved before cell A at setting 0.",
+  "rows": 16
+}

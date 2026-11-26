@@ -1,0 +1,36 @@
+{
+  "canvas": {
+    "bottom": 905.5703125,
+    "h": 774.5703125,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 947.0703125,
+    "h": 33.5,
+    "right": 1912,
+    "w": 1904,
+    "x": 8,
+    "y": 913.5703125
+  },
+  "guide": "24.6",
+  "height": 1080,
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 955.0703125,
+    "h": 883.0703125,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "time": "21.91",
+  "width": 1920,
+  "name": "3d-rack-theatre-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,33 @@
+{
+  "mid": {
+    "blockWidths": [
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867",
+      "3.851286948289867"
+    ],
+    "doseClock": "77.97299999999373",
+    "image": "Dose 1, 5.000 grams added, 4.893 grams dissolved, 0.107 grams solid. Reference capacity 36.0 grams."
+  },
+  "end": {
+    "blockWidths": [
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352",
+      "1.8489613174531352"
+    ],
+    "doseClock": "122",
+    "image": "Dose 1, 5.000 grams added, 4.988 grams dissolved, 0.012 grams solid. Reference capacity 36.0 grams."
+  },
+  "playingRecordLocked": true,
+  "wallSeconds": 139.444,
+  "scope": "Paused live transfer, sought1s for controlled geometry evidence, resumed1× from1 to122s without subsequent seeks."
+}

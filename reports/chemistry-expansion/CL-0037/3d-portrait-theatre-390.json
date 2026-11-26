@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 567.3125,
+    "h": 399.3125,
+    "right": 390,
+    "w": 390,
+    "x": 0,
+    "y": 168
+  },
+  "footer": {
+    "bottom": 608.8125,
+    "h": 33.5,
+    "right": 382,
+    "w": 374,
+    "x": 8,
+    "y": 575.3125
+  },
+  "guide": "72.7",
+  "height": 844,
+  "scrollWidth": 390,
+  "stage": {
+    "bottom": 616.8125,
+    "h": 519.8125,
+    "right": 390,
+    "w": 390,
+    "x": 0,
+    "y": 97
+  },
+  "svgTexts": [],
+  "time": "1410",
+  "width": 390,
+  "name": "3d-portrait-theatre-390",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

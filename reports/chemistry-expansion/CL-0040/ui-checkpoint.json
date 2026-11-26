@@ -1,0 +1,29 @@
+{
+  "status": "passed_internal_functional_review",
+  "sourceHashes": {
+    "src/components/chemistry/MagneticSeparationLab.tsx": "255935fb231b6ca500a433995c741b16c78cffdb1e3de9d7d66d6c117e32b261",
+    "src/components/chemistry/MagneticSeparationDiagram.tsx": "f22abde0debb9bfa2a8fb51a53ff15cbb8860705c5a1485f88c94c3caa94a2be",
+    "src/components/chemistry/MagneticSeparationScene.tsx": "e051189aadc7e702fbc279912f39db948668543325d0bda1f9300ac46f7b98a4",
+    "src/components/chemistry/magneticSeparation.css": "7032b0fa662d925174e47d719bf0a21a0b9133e42c2643a5c3fd8965d6822fa4"
+  },
+  "lastVerifiedVersion": {
+    "fullGuide2DSeconds": 110,
+    "fullGuide3DSeconds": 110,
+    "observations": 24,
+    "recordPersistence": "passed",
+    "actualReportDownload": "passed",
+    "renderedStatesIndependentlyChecked": 24,
+    "regressionTestsPassed": 2105
+  },
+  "outstanding": [],
+  "finalVerifiedVersion": {
+    "fullGuide2DSeconds": 110,
+    "fullGuide3DSeconds": 110,
+    "finalResponsiveChecks": 62,
+    "actualObservations": 24,
+    "reloadPersistence": "passed",
+    "reportDownload": "passed",
+    "sourceHashReview": "review.json",
+    "regressionTestsPassed": 2120
+  }
+}

@@ -1,0 +1,15 @@
+# CL-0044 — Separate a two-colour ink by paper chromatography
+
+## Model-only checkpoint, not a completed or reviewed lab
+Original reference ink contains1mg each of blue and yellow virtual dyes. No commercial ink composition or solvent identification is claimed. Paper height12cm; solvent pool0.8cm; pencil origin2cm, so the sample starts1.2cm above the pool. Prescribed front y=0.8+sqrt(ct), with c=0.08–0.16cm²/s and0–600 physical seconds. This is a chosen early capillary-rise kinematic profile; gravity, evaporation, reservoir depletion, wetting hysteresis and full fluid transport are not solved.
+
+Front arrival at origin is t*=1.44/c. Before arrival, each1mg is dry at the origin; wet-domain profiles and measuredRf are undefined/absent. Mobilisation is instantaneous when the front reaches the origin. Two chosen distribution ratios Kblue and Kyellow each range0.25–4. Equal reference phase volumes give mobile fractionR=1/(1+K), stationary fraction1−R. The ideal peak displacement isR times solvent-front travel from the same origin. The displayedRf distance ratio is undefined before resolved positive front travel. In IUPAC planar terminology this is the retardation factor, not the distinct column retention factork.
+
+After mobilisation, each dye is a normalised longitudinal Gaussian profile clipped to the wetted paper interval[0.8cm,front]. Broadeningσ²=0.08²+2×0.00005×(t−t*)cm² is prescribed. Normalisation preserves1mg per dye even near front arrival; nothing extends into dry paper. The plotted peak/mode is the migration reference, not the truncated-profile centre of mass. This is a phenomenological band shape, not a solved moving-boundary PDE, adsorption kinetics or real-ink calibration. Equal affinities co-elute; reverse affinities reverse peak order. Nominal resolution uses Gaussian4σ base widths and is a model index, not a measured purity/certified chromatographic resolution near truncated boundaries. Total ink remains2mg. Solvent inventory is not included in the ink mass budget; the pool is an assumed constant boundary supply.
+
+## Private primary references located2026-11-26
+- https://goldbook.iupac.org/terms/view/R05353/html — planar retardation-factor terminology and distance ratio.
+- https://goldbook.iupac.org/terms/view/R05359.html — retention factork and equilibrium stationary/mobile amount relationship. Distinguish fromRf. Indexed definition was accessible; full-page open returned403.
+- https://edu.rsc.org/mixtures-and-separation/paper-chromatography-practical-videos-14-16-years/4018537.article — professional-society educational experiment and separate origin/front measurements. Search excerpts and linked supporting-resource descriptions were accessible; article open returned405. No claimed official Class4 mapping or copied method text.
+
+Reference values,capillary coefficient,broadening andvirtual dyes are original teaching assumptions. Student interface/report will contain original company content without external reference links. Official board mapping, independent expert review and measured ink/solvent calibration remain unverified.

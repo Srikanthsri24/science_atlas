@@ -1,0 +1,77 @@
+{
+  "table": "Track water and insoluble powder separately across three compartments\nTrial\tOpening µm\tCake g⁻¹\tTime s\tUpstream water mL\tCollected water mL\tUpstream powder g\tCaptured g\tReceiver powder g\tFlow mL/s\tMy observation\n1\t5\t1\t0.000000\t100.000000\t0.000000\t2.000000\t0.000000\t0.000000\t2.000000\t\n2\t5\t1\t60.000000\t47.115831\t52.884169\t0.942317\t1.057683\t0.000000\t0.457950\t\n3\t5\t1\t600.000000\t0.946307\t99.053693\t0.018926\t1.981074\t0.000000\t0.006349\t\n4\t5\t1\t120.000000\t27.759116\t72.240884\t0.555182\t1.444818\t0.000000\t0.227085\t\n5\t5\t1\t300.000000\t7.294599\t92.705401\t0.145892\t1.854108\t0.000000\t0.051116\t\n6\t50\t1\t60.000000\t30.119421\t69.880579\t0.602388\t0.000000\t1.397612\t0.602388\t\n7\t50\t1\t600.000000\t0.000614\t99.999386\t0.000012\t0.000000\t1.999988\t0.000012\t\n8\t50\t1\t6.000000\t88.692044\t11.307956\t1.773841\t0.000000\t0.226159\t1.773841\t\n9\t5\t0\t60.000000\t30.119421\t69.880579\t0.602388\t1.397612\t0.000000\t0.602388\t\n10\t5\t0\t600.000000\t0.000614\t99.999386\t0.000012\t1.999988\t0.000000\t0.000012\t\n11\t5\t2\t60.000000\t54.788292\t45.211708\t1.095766\t0.904234\t0.000000\t0.390165\t\n12\t5\t2\t300.000000\t15.295073\t84.704927\t0.305901\t1.694099\t0.000000\t0.069710\t\n13\t2\t2\t60.000000\t54.788292\t45.211708\t1.095766\t0.904234\t0.000000\t0.390165\t\n14\t20\t2\t60.000000\t30.119421\t69.880579\t0.602388\t0.000000\t1.397612\t0.602388\t\n15\t5\t1\t18.494500\t74.659363\t25.340637\t1.493187\t0.506813\t0.000000\t0.990957\t\n16\t5\t1\t49.059600\t52.550627\t47.449373\t1.051013\t0.948987\t0.000000\t0.539261\t",
+  "notes": [
+    {
+      "label": "Filtration prediction",
+      "value": "QA: a5µm ideal opening should retain20µm particles, while a50µm opening should pass them. With the same chosen clean conductance, captured material should increase cake resistance and reduce collection at the same time."
+    },
+    {
+      "label": "Filtration observation 1",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 2",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 3",
+      "value": "QA: positive finite-time upstream residue remains. Do not label the vessel exactly empty."
+    },
+    {
+      "label": "Filtration observation 4",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 5",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 6",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 7",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 8",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 9",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 10",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 11",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 12",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 13",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 14",
+      "value": "QA: the ideal equality boundary20µm passes20µm particles; this sharp cutoff is an assumption, not measured paper behaviour."
+    },
+    {
+      "label": "Filtration observation 15",
+      "value": ""
+    },
+    {
+      "label": "Filtration observation 16",
+      "value": ""
+    },
+    {
+      "label": "Filtration conclusion",
+      "value": "QA result: at60s, the5µm/β1 trial collected52.884169mL water and captured1.057683g powder, with no powder in the receiver. The50µm control collected69.880579mL and passed1.397612g powder. A fine no-cake trial collected the same69.880579mL but captured its powder, showing that collection rate and capture are different comparisons. Higher β2 collected only45.211708mL at60s. Mean fine-trial collection rate =52.884169/60≈0.881403mL/s; instantaneous flow was0.457950mL/s. At600s the default trial still had0.946307mL upstream water. Water summed to100mL, powder to2g and reference mass to102g. This is an ideal mixed/cutoff/resistance model, not measured paper efficiency."
+    }
+  ]
+}

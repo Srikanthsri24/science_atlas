@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 777.71875,
+    "h": 162.828125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 614.890625
+  },
+  "footer": {
+    "bottom": 888.21875,
+    "h": 33.5,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 854.71875
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": 846.71875,
+    "h": 69,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 777.71875
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 896.21875,
+    "h": 501.328125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 394.890625
+  },
+  "texts": [],
+  "time": "75",
+  "width": 320,
+  "name": "3d-follow-portrait-normal-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

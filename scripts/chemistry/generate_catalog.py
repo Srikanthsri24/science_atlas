@@ -311,7 +311,7 @@ for grade,(strand,_) in enumerate(groups,1):
     lines.append('')
 (out/'ALL-270-LABS.md').write_text('\n'.join(lines))
 with (out/'ALL-270-LABS.csv').open('w') as f:
-    writer=csv.writer(f)
+    writer=csv.writer(f,lineterminator="\n")
     writer.writerow(['ID','Class','Strand','Laboratory','Status'])
     writer.writerows([[r['id'],r['grade'],r['strand'],r['title'],r['status']] for r in rows])
 print('Created 270 unique investigations and class-wise Markdown/CSV lists.')

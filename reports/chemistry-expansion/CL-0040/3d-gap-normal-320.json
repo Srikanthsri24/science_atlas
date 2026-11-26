@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 280.7578125,
+    "h": 229.71875,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 51.0390625
+  },
+  "footer": {
+    "bottom": 383.0390625,
+    "h": 33.5,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 349.5390625
+  },
+  "guide": "1.5348999999938537",
+  "height": 740,
+  "legend": {
+    "bottom": 349.5390625,
+    "h": 68.78125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 280.7578125
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 391.0390625,
+    "h": 450,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -58.9609375
+  },
+  "texts": [],
+  "time": "0",
+  "width": 320,
+  "name": "3d-gap-normal-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,48 @@
+{
+  "camera": "all",
+  "canvas": {
+    "bottom": 807.5390625,
+    "h": 312.1484375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 495.390625
+  },
+  "distance": "16",
+  "footer": {
+    "bottom": 1036.890625,
+    "h": 119.875,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 917.015625
+  },
+  "guide": "120",
+  "height": 740,
+  "legend": {
+    "bottom": 917.015625,
+    "h": 109.4765625,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 807.5390625
+  },
+  "offset": "0",
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 1044.890625,
+    "h": 650,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 394.890625
+  },
+  "texts": [],
+  "timeS": "80",
+  "volume": "50",
+  "width": 320,
+  "name": "3d-expanded-readings-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

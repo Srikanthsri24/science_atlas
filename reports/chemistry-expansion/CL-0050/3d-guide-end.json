@@ -1,0 +1,12 @@
+{
+  "guide": "120",
+  "inventory": "A: 38.000 g left / 12.000 g lost · B: 2.000 g left / 48.000 g lost",
+  "parameters": [
+    "50",
+    "25",
+    "100",
+    "24"
+  ],
+  "recordEnabled": true,
+  "time": "Physical time: 24.000 h · both 37°C maintained"
+}

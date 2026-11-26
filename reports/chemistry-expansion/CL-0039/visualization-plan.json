@@ -1,0 +1,31 @@
+{
+  "status": "pending_implementation_and_browser_review",
+  "labId": "CL-0039",
+  "durationSeconds": 110,
+  "modelWindowSeconds": 75,
+  "formats": [
+    "16:9",
+    "9:16"
+  ],
+  "viewerRequirements": [
+    "Original woven feeding basket, separate rice kernels and curved loose-husk markers, prescribed-airflow cue and near/far capture mats.",
+    "Physical trajectory positions remain in metres. Marker shape/size must be explicitly labelled as magnified reference glyphs; never suggest1000 kernels form a drag-equivalent clump.",
+    "Show only the elapsed trajectory by default. Any full future path/landing preview must be labelled as a prediction and optional.",
+    "Source fill and every material count derive from the tested source/air/near/far/outside ledger. No material outside6m may disappear from the scene or mass budget.",
+    "World/camera bounds must include both collection mats and maximum reference landingX, including high-wind outside-floor arrivals. Provide a genuine close-inspection camera for detailed grain/husk demonstration.",
+    "Airflow arrows and any fan cue stop at zero wind and follow the prescribed wind direction; no claimed measured fan-RPM relationship.",
+    "No tumbling or air-flow solver should be implied: effective projected area/Cd and uniform wind are explicit approximations.",
+    "Near-mat purity remains undefined when empty. Recovery and any fraction before complete feed/capture are provisional.",
+    "Interactive controls: wind0\u20136m/s, drop height0.5\u20131.5m, near-mat boundary0.25\u20131.5m; changes prepare a fresh trial. Selecting an example kernel/camera preserves time.",
+    "Practical notebook must record whole-batch inventories, initial648g material, separate purity/recovery, notes and conclusion. Render the structured formula/substitution/result/unit steps with phase applicability.",
+    "Test still air, reference wind, strong wind, low/high height and divider extremes, first/last releases, airborne and settled states, full110s2D/3D guides, persistence/download, five viewport sizes and both aspect ratios."
+  ],
+  "notYetClaimed": [
+    "UI implemented",
+    "Watch guide rendered or played",
+    "2D/3D review passed",
+    "Responsive testing passed",
+    "Actual report download or browser persistence verified",
+    "Scientific/expert/official-board certification"
+  ]
+}

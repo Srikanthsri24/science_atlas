@@ -1,0 +1,10 @@
+{
+  "trials": 10,
+  "checks": {
+    "workedValues": true,
+    "studentNotes": true,
+    "examSections": true,
+    "tinyResidue": true
+  },
+  "externalUrls": false
+}

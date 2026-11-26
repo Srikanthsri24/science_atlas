@@ -1,0 +1,15 @@
+{
+  "start": "0.1434000000000233",
+  "paused": "1.0930000000000002",
+  "recordLockedDuringPlayback": true,
+  "end": {
+    "buttons": [
+      "2D view",
+      "3D view",
+      "Exit theatre",
+      "Start · 180 s"
+    ],
+    "caption": "YOUR INVESTIGATION\n\nAt 180.0 model s: A at 10 °C has dissolved 10.000 g; B at 50 °C has dissolved 10.000 g. Each cell still accounts for 10 g sugar.\n\nIdeal baths hold pre-equilibrated temperatures fixed. Jacket colours identify setpoints, not a solved thermal field. During the experiment the guide advances 2.25 model seconds per second; manual playback is 1×. Chosen rates are not calibrated physical times. Drag to orbit; scroll to zoom.",
+    "time": "180"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 295.0703125,
+    "h": 213.53125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 81.5390625
+  },
+  "footer": {
+    "bottom": 496.5390625,
+    "h": 115.09375,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 381.4453125
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": 381.4453125,
+    "h": 86.375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 295.0703125
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 504.5390625,
+    "h": 560,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -55.4609375
+  },
+  "texts": [],
+  "time": "0.03",
+  "width": 320,
+  "name": "polished-3d-expanded-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 680.84375,
+    "h": 253,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": 427.84375
+  },
+  "footer": {
+    "bottom": 759.34375,
+    "h": 33.5,
+    "right": 785,
+    "w": 540,
+    "x": 245,
+    "y": 725.84375
+  },
+  "guide": "110",
+  "height": 1180,
+  "legend": {
+    "bottom": 717.84375,
+    "h": 37,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": 680.84375
+  },
+  "scrollWidth": 820,
+  "stage": {
+    "bottom": 767.34375,
+    "h": 440,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": 327.34375
+  },
+  "texts": [],
+  "time": "75",
+  "width": 820,
+  "name": "3d-lane-normal-820",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

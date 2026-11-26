@@ -1,0 +1,51 @@
+{
+  "labId": "CL-0048",
+  "reviewedOn": "2026-11-26",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "Passed14 targeted tests:7 physical model,3 geometry/camera and4 record/report. Independent tare subtraction,density recovery,volume scaling,separate source mass budgets,zero-volume guard and gross-order reversal. Actual orthographic projections across five cameras and six device viewports. Full2254-test regression,standalone TypeScript and production build passed. Final edits only improve unit spacing.",
+    "twoD": "Full120-second guide completed.44 actual SVG states independently reconstruct both liquid depths,source inventories,gross and net readings. Text bounds and pairwise text separation passed at320/390/820/1280/1920px and both formats,including32 real parameter-corner trials.",
+    "threeD": "Full120-second guide completed with80seconds paired transfer. Original ideal balance bodies,pans,cylinders,moving plunger sources,transfer paths and illustrative tracers. Five working inspection cameras; receiver/source crops labelled. Fixed unit-height meshes scale without per-frame geometry recreation. Readouts use native text rather than dynamic canvas texture creation.",
+    "responsive": "64 saved layout checks:10 2D and50 3D normal cases across320/390/820/1280/1920px,both formats and five cameras;4 theatre cases including844x390. No page overflow,nonpositive canvas height or out-of-stage legend/readouts. Dark phone and expanded20-step calculations/37-row internally scrolling table checked at390px.",
+    "practicalRecord": "37 actual GUI trials:full guide,empty reference,partial20mL transfer,deliberate tare reversal,equal-density pair,and32 target/density/tare/time corner combinations.407 derived or explicitly undefined displayed readings independently checked. Exact37-row reload plus written prediction,conclusion and first note. Actual downloaded report has740 formula/substitution/result blocks,including partial delivered-volume denominator and undefined empty-sample density.",
+    "playback": "Both2D/3D120-second guides completed. Guide reaches100 physical seconds;reference transfer fills80mL over80seconds. Pause at73.083 guide seconds preserved all exact scientific parameters during camera changes/reset;resume works. Recording disabled while playing and enabled when paused/finished.",
+    "navigationAndCleanLoad": "Actual Class4 Ready to explore/Open laboratory link opens CL-0048 after fresh catalogue reload;all37 trials and written evidence survive reload/class navigation. All setup,empty/full and comparison presets tested. Frontend-only implementation. One transient presentation-button observation timeout recovered by reading the current toolbar and retrying the unchanged visible action;no server restart."
+  },
+  "reviewScope": "Internal engineering/model-consistency and browser viewport review,not independent expert,official-board,physical-device,manufacturer or calibration certification. Chosen densities and tares are reference model parameters. Ideal instantaneous balances,quasi-static incompressible separate liquids;no balance response lag,noise,splashing,evaporation,thermal expansion,jet inventory or calibration uncertainty. Colours identify samples,not density. Equal height implies equal volume only for the identical internal areas used. Undefined inferred density and ratio at zero sample volume. Native text readouts are outside the original balance meshes. Source/receiver inspection crops labelled. No measured FPS,physical printing or pointer-orbit certification.",
+  "developmentNote": "Added matched paired transfer and separate source budgets;each container can have its own tare. Deliberate heavier-A preset demonstrates why gross ordering can mislead. Worked calculations use actual delivered volume,not an incomplete target. Added null handling for empty samples and original exam-style report. Memoized saved observations and stable GPU geometry.",
+  "sourceHashes": {
+    "src/lib/chemistry/equalVolumeDensity.ts": "0d6882c34ef91cde991c4299bbcb2b8a8faa16d5be5910ce82da578b228e68fb",
+    "src/lib/chemistry/equalVolumeDensityGeometry.ts": "7d022836b5446aa98e239659472c5df69ef31c2633acdba390f54ac324ffaa35",
+    "src/lib/chemistry/equalVolumeDensityRecord.ts": "5a368eded72378b8a8941c3e080524bb7920c903da649b1bd2ed557156e70214",
+    "src/components/chemistry/EqualVolumeDensityLab.tsx": "b3cdb547da337333e2ba53e1e5c3091b6257ecba0640b0cdfb4824652d45d53d",
+    "src/components/chemistry/EqualVolumeDensityDiagram.tsx": "bfa10591cb722c0a753bd1f723d340ecd570392fa45f7a225e69fa0ecb5f8b3c",
+    "src/components/chemistry/EqualVolumeDensityScene.tsx": "1d8565738743ccf9f1a9764b294bcba93cc81d81536d900354f1b2d830999574",
+    "src/components/chemistry/equalVolumeDensity.css": "060fc1457261c23b76db5403a8ee372ea89a068b1ca208f90163bc905ca9d62b",
+    "tests/chemistry-equal-volume-density.test.mjs": "7198ac73c301a3b028f794207481d652697ccc012dafddf635ba23dc7831ed6d",
+    "tests/chemistry-equal-volume-density-geometry.test.mjs": "5f61746c31753111479b9a6ef2487f58752bdc4cf547aff4b49ecce7534a7bf0",
+    "tests/chemistry-equal-volume-density-record.test.mjs": "b23aed767aa10f95f481795f1cffe3db3376957f9517c1705935e933f25e4e92",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "evidence": [
+    "2d-guide-end.json",
+    "3d-guide-end.json",
+    "dark-phone.png",
+    "implementation-status.json",
+    "model-notes.md",
+    "pause-camera-invariance.json",
+    "rendered-svg-states.json",
+    "responsive.json",
+    "ui-exported-practical.html",
+    "ui-trials-after-reload.json",
+    "ui-trials-before-reload.json",
+    "ui-written-after-reload.json",
+    "ui-written-before-reload.json",
+    "validate-rendered.py",
+    "validate-ui-record.py",
+    "verified-ready-preview.png"
+  ]
+}

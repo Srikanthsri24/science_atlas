@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": 694.0625,
+    "h": 233.0234375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 461.0390625
+  },
+  "footer": {
+    "bottom": 852.5390625,
+    "h": 49,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 803.5390625
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": 803.5390625,
+    "h": 109.4765625,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 694.0625
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 860.5390625,
+    "h": 500,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 360.5390625
+  },
+  "texts": [],
+  "waitS": "2",
+  "width": 320,
+  "withdrawalMl": "80",
+  "name": "manual-3d-transfer-completed",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

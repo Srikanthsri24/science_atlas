@@ -1,0 +1,233 @@
+[
+  {
+    "name": "small-mobile",
+    "w": 320,
+    "h": 740,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "small-mobile",
+    "w": 320,
+    "h": 740,
+    "mode": "3D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "mobile",
+    "w": 390,
+    "h": 844,
+    "mode": "3D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tablet",
+    "w": 820,
+    "h": 1180,
+    "mode": "3D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "laptop",
+    "w": 1280,
+    "h": 960,
+    "mode": "3D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tv",
+    "w": 1920,
+    "h": 1080,
+    "mode": "3D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "small-mobile",
+    "w": 320,
+    "h": 740,
+    "mode": "3D",
+    "focus": true,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "mobile",
+    "w": 390,
+    "h": 844,
+    "mode": "3D",
+    "focus": true,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tablet",
+    "w": 820,
+    "h": 1180,
+    "mode": "3D",
+    "focus": true,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "laptop",
+    "w": 1280,
+    "h": 960,
+    "mode": "3D",
+    "focus": true,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tv",
+    "w": 1920,
+    "h": 1080,
+    "mode": "3D",
+    "focus": true,
+    "canvasContained": true,
+    "canvasCount": 2,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "small-mobile",
+    "w": 320,
+    "h": 740,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "mobile",
+    "w": 390,
+    "h": 844,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tablet",
+    "w": 820,
+    "h": 1180,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "laptop",
+    "w": 1280,
+    "h": 960,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tv",
+    "w": 1920,
+    "h": 1080,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "small-mobile-whole",
+    "w": 320,
+    "h": 740,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "mobile-whole",
+    "w": 390,
+    "h": 844,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tablet-whole",
+    "w": 820,
+    "h": 1180,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "laptop-whole",
+    "w": 1280,
+    "h": 960,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  },
+  {
+    "name": "tv-whole",
+    "w": 1920,
+    "h": 1080,
+    "mode": "2D",
+    "focus": false,
+    "canvasContained": true,
+    "canvasCount": 0,
+    "outsideSvg": [],
+    "pageOverflow": false
+  }
+]

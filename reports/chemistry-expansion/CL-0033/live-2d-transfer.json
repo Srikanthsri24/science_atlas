@@ -1,0 +1,31 @@
+{
+  "before": {
+    "receiverHeight": "0.5084435104410456",
+    "time": "0.19460000000591388",
+    "upperHeight": "170.2730270589127"
+  },
+  "after": {
+    "receiverHeight": "33.297171966385434",
+    "time": "18.494500000006056",
+    "upperHeight": "127.61857467514669"
+  },
+  "recordLockedWhilePlaying": true,
+  "passed": true,
+  "independentRenderedLevelChecks": [
+    {
+      "frame": "before",
+      "derivedUpstreamWaterMl": 99.61305174487231,
+      "derivedCollectedWaterMl": 0.38694825512766334,
+      "integratedValue": 0.0038920000001183286,
+      "timeTarget": 0.0038920000001182774
+    },
+    {
+      "frame": "after",
+      "derivedUpstreamWaterMl": 74.65936268534097,
+      "derivedCollectedWaterMl": 25.34063731465903,
+      "integratedValue": 0.36989000000012107,
+      "timeTarget": 0.3698900000001211
+    }
+  ],
+  "equationAndConservationPassed": true
+}

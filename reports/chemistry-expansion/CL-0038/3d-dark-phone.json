@@ -1,0 +1,36 @@
+{
+  "canvas": {
+    "bottom": 784.7421875,
+    "h": 260.5,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 524.2421875
+  },
+  "footer": {
+    "bottom": 826.2421875,
+    "h": 33.5,
+    "right": 363,
+    "w": 336,
+    "x": 27,
+    "y": 792.7421875
+  },
+  "guide": "77.7",
+  "height": 844,
+  "scrollWidth": 390,
+  "stage": {
+    "bottom": 834.2421875,
+    "h": 420,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 414.2421875
+  },
+  "texts": [],
+  "time": "101.58",
+  "width": 390,
+  "name": "3d-dark-phone",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

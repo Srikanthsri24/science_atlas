@@ -1,0 +1,13 @@
+{
+  "start": {
+    "angle": "Beam angle / angular speed\n0.857° / 0.1902 rad/s\nLeft / right gravitational torque\n0.299966 / 0.293967 N m\nComparison status\nMoving: wait or record motion evidence",
+    "recordDisabled": "Record balance evidence",
+    "time": "0.1"
+  },
+  "paused": {
+    "angle": "Beam angle / angular speed\n11.310° / -0.0000 rad/s\nLeft / right gravitational torque\n0.294174 / 0.288291 N m\nComparison status\nUnequal loads, tilted equilibrium",
+    "time": "14.3"
+  },
+  "resumeAndPause": "32.21669999998204",
+  "recordEnabled": true
+}

@@ -1,0 +1,160 @@
+Cylinder cross-sectional area
+A=πR²
+
+Substitution: π×(1.300000 cm)²
+
+Result: 5.309292 cm²
+
+Ideal cylindrical interior;1 cm³ = 1 mL.
+Mean liquid height
+hmean=V/A
+
+Substitution: 50.000000 cm³ /5.309292 cm²
+
+Result: 9.417452 cm
+
+The contained liquid stays fixed when the eye moves.
+Lowest central meniscus target
+b=hmean−a/2
+
+Substitution: 9.417452−0.120000/2 cm
+
+Result: 9.357452 cm
+
+Prescribed volume-compensated paraboloid, not a contact-angle solution.
+Absolute eye height
+yeye=b+e
+
+Substitution: 9.357452+(4.000000)cm
+
+Result: 13.357452 cm
+
+Eye offset e is measured from the central target, not the bench.
+Sight-line slope
+m=e/D
+
+Substitution: 4.000000 cm /16.000000 cm
+
+Result: 0.250000
+
+D is horizontal eye distance, not the slant line length.
+Front-plane height shift
+Δh=eR/D
+
+Substitution: 4.000000×1.300000/16.000000 cm
+
+Result: 0.325000 cm
+
+Straight geometric projection to the front scale; refraction is omitted.
+Front-scale intercept height
+hfront=b+Δh
+
+Substitution: 9.357452+(0.325000)cm
+
+Result: 9.682452 cm
+
+This is where the target sight line intersects the front scale plane.
+Extended back-reference height
+hback=b−Δh
+
+Substitution: 9.357452−(0.325000)cm
+
+Result: 9.032452 cm
+
+An extended reference construction, not a second transmitted optical ray.
+Front geometric indication
+Ifront=A(hfront+a/2)
+
+Substitution: 5.309292 cm² ×(9.682452+0.120000/2)cm
+
+Result: 51.725520 mL
+
+The ideal scale is calibrated to the lowest central meniscus point.
+Extended back-reference indication
+Iback=A(hback+a/2)
+
+Substitution: 5.309292 cm² ×(9.032452+0.120000/2)cm
+
+Result: 48.274480 mL
+
+The two geometric indications differ while the water volume remains one fixed value.
+Front/back reference split
+Ifront−Iback=2AeR/D
+
+Substitution: 51.725520−48.274480 mL
+
+Result: 3.451040 mL
+
+The split vanishes at exact eye-level alignment in this model.
+Geometric error against reference
+egeom=Ifront−V=AeR/D
+
+Substitution: 51.725520−50.000000 mL
+
+Result: 1.725520 mL
+
+A higher eye gives a positive front-plane error in this explicitly defined geometry.
+Rounded front reading
+R=δ round(Ifront/δ); δ=0.1 mL
+
+Substitution: 0.1×round(51.725520/0.1)mL
+
+Result: 51.700000 mL
+
+Tenth-of-division exercise convention;±0.05 mL is a rounding-only bound, not total uncertainty.
+Rounding error
+eround=R−Ifront
+
+Substitution: 51.700000−51.725520 mL
+
+Result: -0.025520 mL
+
+Rounding does not correct a geometric viewing error.
+Total signed error against reference
+etotal=R−V=egeom+eround
+
+Substitution: 51.700000−50.000000 mL
+
+Result: 1.700000 mL
+
+Only the chosen geometric and rounding contributions are included.
+Relative signed error
+e%=100(R−V)/V
+
+Substitution: 100×1.700000/50.000000
+
+Result: 3.400000 %
+
+The denominator is the known virtual reference volume.
+Sight-line angle
+θ=atan(e/D)×180/π
+
+Substitution: atan(4.000000/16.000000)×180/π
+
+Result: 14.036243 °
+
+Signed angle relative to the horizontal target line.
+Slant eye-to-target distance
+L=sqrt(D²+e²)
+
+Substitution: sqrt(16.000000²+4.000000²)cm
+
+Result: 16.492423 cm
+
+Do not substitute this slant distance for horizontal D in the front-intercept equation.
+My estimate compared with the rounded model
+Δestimate=Vestimate−R
+
+Substitution: 52.000000−51.700000 mL
+
+Result: 0.300000 mL
+
+An exercise comparison, not an independent calibration or a diagnostic student grade.
+Fixed contained volume check
+V=A(b+a/2)
+
+Substitution: 5.309292 cm² ×(9.357452+0.120000/2)cm
+
+Result: 50.000000 mL
+
+An apparent scale shift does not add or remove water.

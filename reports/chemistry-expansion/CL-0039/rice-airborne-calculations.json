@@ -1,0 +1,16 @@
+{
+  "steps": [
+    "Reference cohort mass\nM = m × N × 1000 g/kg\n\nSubstitution: 2.125000e-5 kg × 1000 kernels × 1000 g/kg\n\nResult: 21.250000 g\n\nThe marker represents 1000 independent identical kernels, not a physical clump.",
+    "Relative air speed\nVr = √[(u − vx)² + (−vy)²]\n\nSubstitution: √[(3 − 0.244832)² + (1.879293)²]\n\nResult: 3.335070 m/s\n\nDrag uses the full relative vector; vertical and horizontal squared speeds are not treated as separate drag laws.",
+    "Quadratic drag magnitude\nD = ½ρCdA Vr²\n\nSubstitution: 0.5 × 1.2 kg/m³ × 0.720000 × 6.800000e-6 m² × (3.335070 m/s)²\n\nResult: 3.267402e-5 N\n\nDrag components Fx=2.699266e-5 N, Fy=1.841162e-5 N. Direction opposes particle motion relative to air.",
+    "Current horizontal acceleration\nax = Fx / m\n\nSubstitution: 2.699266e-5 N / 2.125000e-5 kg\n\nResult: 1.270243 m/s²\n\nUniform prescribed wind supplies energy to the drifting kernel.",
+    "Current vertical acceleration\nay = Fy / m − g\n\nSubstitution: 1.841162e-5 N / 2.125000e-5 kg − 9.81 m/s²\n\nResult: -8.943571 m/s²\n\nPositive y is upward; gravity acts downward.",
+    "Kernel weight\nW = m g\n\nSubstitution: 2.125000e-5 kg × 9.81 m/s²\n\nResult: 0.000208 N\n\nThis is the weight of one reference kernel; cohort mass accounting is separate.",
+    "Limiting speed in still air\nvt = √[2mg / (ρCdA)]\n\nSubstitution: √[2 × 2.125000e-5 kg × 9.81 m/s² / (1.2 kg/m³ × 0.720000 × 6.800000e-6 m²)]\n\nResult: 8.423986 m/s\n\nA hypothetical constant-drag still-air limit, not necessarily reached within this drop height. It is not horizontal wind speed or measured crop data.",
+    "Predicted landing position\nIntegrate dx/dt=vx, dy/dt=vy, dv/dt=F/m until y=0\n\nSubstitution: RK4 at Δt=0.0025 s; u=3 m/s; release height=1.2 m\n\nResult: 0.370818 m\n\nPredicted flight duration 0.516149 s. A prediction may be shown before that cohort is released; it is not a recorded arrival.",
+    "Near-mat rice purity\nPurity = 100 × near rice / (near rice + near husk)\n\nSubstitution: 100 × 0.000000 g / (0.000000 g + 0.000000 g)\n\nResult: Undefined · empty collected fraction\n\nNo material is on the near mat: 0/0 is undefined, never 100% purity.",
+    "Overall rice recovery\nRecovery = 100 × near rice / initial rice\n\nSubstitution: 100 × 0.000000 g / 600.000000 g\n\nResult: 0.000000 %\n\nProvisional: the denominator includes the whole initial rice mass, including material still in the source or air.",
+    "Complete material balance\nM = source + airborne + near + far + outside\n\nSubstitution: 626.750000 g + 21.250000 g + 0.000000 g + 0.000000 g + 0.000000 g\n\nResult: 648.000000 g\n\nInitial material=600.000000 g rice + 48.000000 g husk. Outside-floor material is retained, not deleted."
+  ],
+  "time": "2.2"
+}

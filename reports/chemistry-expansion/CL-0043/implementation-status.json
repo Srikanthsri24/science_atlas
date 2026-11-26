@@ -1,0 +1,34 @@
+{
+  "labId": "CL-0043",
+  "status": "ready",
+  "uiImplemented": true,
+  "modelAndGeometryTests": {
+    "passed": 18,
+    "failed": 0,
+    "scope": "8 model,6 geometry/camera,4 record/report"
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/saltRecovery.ts": "040d6641d2422e04185660bab3bd3ed2e50b3d71d55bb6095041aa4efda2f94a",
+    "src/lib/chemistry/saltRecoveryGeometry.ts": "cf76c1b18bd81e4871f5c4d6f3412906f0e87763b69c228d696812a43d22b9cc",
+    "src/lib/chemistry/saltRecoveryRecord.ts": "34071066eb8d5817bf8cbe4e50dcd649e65fdee7786a5651ecda165ec273e58e",
+    "src/components/chemistry/SaltRecoveryLab.tsx": "b04eaf594a820df92ec5f2ceae1a7db631817871f1572b86b47665b77bc063c9",
+    "src/components/chemistry/SaltRecoveryDiagram.tsx": "b582bc1efc3dccc3cef3908cb8e1f9d957fb4d55c92f38bb005d695a1d924d5b",
+    "src/components/chemistry/SaltRecoveryScene.tsx": "a2b2f406bd930d4f82923d9a56a8351c13b20b569acacd13493096df1a7affb0",
+    "src/components/chemistry/saltRecovery.css": "9139f6ffc8f5d8fed78ae8541905f57c91b190b2ca80ceb2221cb2522ad1f874",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-salt-recovery.test.mjs": "1d2e008cdf4c1a33a3e669942dda02fe048fff6f52b0ba1b601e3f3ab743d8f0",
+    "tests/chemistry-salt-recovery-geometry.test.mjs": "cd2e2a3696404f2ad645d5ec1b75e02b0dc3b21a82ee5e79335be504b51f481b",
+    "tests/chemistry-salt-recovery-record.test.mjs": "2cbe65b1fea7649e21da26c1a0e731c55276a2414684b0aaa885ac301a8df37e"
+  },
+  "recordImplemented": true,
+  "regressionTests": {
+    "passed": 2159,
+    "failed": 0
+  },
+  "reviewStatus": "passed_internal_functional_review",
+  "typescript": "passed",
+  "build": "passed"
+}

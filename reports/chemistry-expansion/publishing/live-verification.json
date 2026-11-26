@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "url": "https://srikanthsri24.github.io/science_atlas/#chemistry",
+  "commit": "df6df612d606703a22f032898928108b3fb8a5a0",
+  "catalogueSha256": "c7443942ed9a2cd9398797270f88fe681f2c7f20bd6c77edbd5bc793548b98d0",
+  "catalogueMatchesCommit": true,
+  "totalLabs": 270,
+  "reviewedLabs": 25,
+  "classRange": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "workflowRun": 45614003468,
+  "deployment": "success"
+}

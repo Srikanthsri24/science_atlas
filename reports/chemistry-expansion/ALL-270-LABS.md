@@ -37,34 +37,34 @@ This is the complete development list, not a claim that all labs are finished. C
 ## Class 3 — States, solutions and measurement
 
 - **CL-0025** — Compare particle arrangements in solid, liquid and gas · ready
-- **CL-0026** — Measure a liquid volume in a graduated cylinder · planned
-- **CL-0027** — Use a balance to compare sample masses · planned
-- **CL-0028** — Find how stirring changes dissolving time · planned
-- **CL-0029** — Compare dissolving in warm and cool water · planned
-- **CL-0030** — Compare fine and coarse sugar dissolving · planned
-- **CL-0031** — Find when added salt stops dissolving · planned
-- **CL-0032** — Compare a solution and a suspension · planned
-- **CL-0033** — Filter chalk particles from water · planned
-- **CL-0034** — Follow evaporation and condensation in a closed system · planned
-- **CL-0035** — Compare melting and dissolving · planned
-- **CL-0036** — Investigate volume displacement by an insoluble solid · planned
-- **CL-0037** — Observe food colouring spreading through still water · planned
-- **CL-0038** — Compare soluble and insoluble household solids · planned
+- **CL-0026** — Measure a liquid volume in a graduated cylinder · ready
+- **CL-0027** — Use a balance to compare sample masses · ready
+- **CL-0028** — Find how stirring changes dissolving time · ready
+- **CL-0029** — Compare dissolving in warm and cool water · ready
+- **CL-0030** — Compare fine and coarse sugar dissolving · ready
+- **CL-0031** — Find when added salt stops dissolving · ready
+- **CL-0032** — Compare a solution and a suspension · ready
+- **CL-0033** — Filter chalk particles from water · ready
+- **CL-0034** — Follow evaporation and condensation in a closed system · ready
+- **CL-0035** — Compare melting and dissolving · ready
+- **CL-0036** — Investigate volume displacement by an insoluble solid · ready
+- **CL-0037** — Observe food colouring spreading through still water · ready
+- **CL-0038** — Compare soluble and insoluble household solids · ready
 
 ## Class 4 — Separation and material properties
 
-- **CL-0039** — Separate rice and husk by winnowing · planned
-- **CL-0040** — Separate iron filings from sand magnetically · planned
-- **CL-0041** — Recover sand by sedimentation and decantation · planned
-- **CL-0042** — Compare filter papers with different pore sizes · planned
-- **CL-0043** — Recover dissolved salt by evaporation · planned
-- **CL-0044** — Separate a two-colour ink by paper chromatography · planned
-- **CL-0045** — Compare beaker and measuring-cylinder readings · planned
-- **CL-0046** — Read a meniscus at different eye heights · planned
-- **CL-0047** — Investigate floating layers of immiscible liquids · planned
-- **CL-0048** — Compare equal-volume samples by density · planned
-- **CL-0049** — Observe melting and freezing of a chosen material · planned
-- **CL-0050** — Investigate how surface area changes evaporation · planned
+- **CL-0039** — Separate rice and husk by winnowing · ready
+- **CL-0040** — Separate iron filings from sand magnetically · ready
+- **CL-0041** — Recover sand by sedimentation and decantation · ready
+- **CL-0042** — Compare filter papers with different pore sizes · ready
+- **CL-0043** — Recover dissolved salt by evaporation · ready
+- **CL-0044** — Separate a two-colour ink by paper chromatography · ready
+- **CL-0045** — Compare beaker and measuring-cylinder readings · ready
+- **CL-0046** — Read a meniscus at different eye heights · ready
+- **CL-0047** — Investigate floating layers of immiscible liquids · ready
+- **CL-0048** — Compare equal-volume samples by density · ready
+- **CL-0049** — Observe melting and freezing of a chosen material · ready
+- **CL-0050** — Investigate how surface area changes evaporation · ready
 - **CL-0051** — Compare evaporation in moving and still air · planned
 - **CL-0052** — Follow the path of water through a simple filter bed · planned
 - **CL-0053** — Compare sieving and filtration · planned

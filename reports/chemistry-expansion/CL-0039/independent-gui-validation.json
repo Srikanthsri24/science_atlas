@@ -1,0 +1,516 @@
+{
+  "passed": 23,
+  "failed": 0,
+  "method": "No application model imported. Invert actual SVG marker transforms, classify by actual y and mat boundaries, weight declared reference cohorts by material/index, compare all displayed mass fractions/purity/recovery, and verify source release timing.",
+  "liveHuskMovedAndLanded": true,
+  "windGlyphSpeedMatchesPrescribedMS": true,
+  "predictionChangesNoPhysicalState": true,
+  "states": [
+    {
+      "case": "reference-initial",
+      "passed": true,
+      "releasedMarkers": 0,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 600.0,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 48.0,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "reference-first-husk",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "reference-midfeed",
+      "passed": true,
+      "releasedMarkers": 24,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 323.4782608695652,
+          "air": 0.0,
+          "near": 276.5217391304348,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 25.878260869565217,
+          "air": 1.9869565217391303,
+          "near": 0.0,
+          "far": 20.134782608695648,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "reference-final-arrivals",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 47.99999999999999,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "reference-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 47.99999999999999,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "still-air-first-husk",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "still-air-midfeed",
+      "passed": true,
+      "releasedMarkers": 24,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 323.4782608695652,
+          "air": 0.0,
+          "near": 276.5217391304348,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 25.878260869565217,
+          "air": 1.9869565217391303,
+          "near": 20.134782608695648,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "still-air-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 47.99999999999999,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "strong-wind-first-husk",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 21.25,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "strong-wind-midfeed",
+      "passed": true,
+      "releasedMarkers": 24,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 323.4782608695652,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 276.5217391304348,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 25.878260869565217,
+          "air": 1.9869565217391303,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 20.134782608695648
+        }
+      }
+    },
+    {
+      "case": "strong-wind-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 600.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 47.99999999999999
+        }
+      }
+    },
+    {
+      "case": "highest-wind-height-first-husk",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 21.25,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "highest-wind-height-60",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 600.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 47.99999999999999
+        }
+      }
+    },
+    {
+      "case": "highest-wind-height-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 600.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 47.99999999999999
+        }
+      }
+    },
+    {
+      "case": "highest-wind-height-last-airborne",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 600.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 2.3,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 45.699999999999996
+        }
+      }
+    },
+    {
+      "case": "lowest-height-still-air-first-husk",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "lowest-height-still-air-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 47.99999999999999,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "low-wind-small-near-mat-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 47.99999999999999,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "low-wind-large-near-mat-final",
+      "passed": true,
+      "releasedMarkers": 48,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": -4.263256414560601e-14,
+          "air": 0.0,
+          "near": 600.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": -2.220446049250313e-15,
+          "air": 0.0,
+          "near": 47.99999999999999,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "reference-rice-airborne",
+      "passed": true,
+      "releasedMarkers": 1,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 21.25,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 48.0,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "manual-before-resume",
+      "passed": true,
+      "releasedMarkers": 2,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 1.7,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "manual-after-resume",
+      "passed": true,
+      "releasedMarkers": 3,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 557.1739130434783,
+          "air": 21.57608695652174,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 46.3,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 1.7,
+          "outside": 0.0
+        }
+      }
+    },
+    {
+      "case": "manual-start-and-inspect-flight",
+      "passed": true,
+      "releasedMarkers": 1,
+      "reconstructedMassG": 648,
+      "buckets": {
+        "rice": {
+          "source": 578.75,
+          "air": 0.0,
+          "near": 21.25,
+          "far": 0.0,
+          "outside": 0.0
+        },
+        "husk": {
+          "source": 48.0,
+          "air": 0.0,
+          "near": 0.0,
+          "far": 0.0,
+          "outside": 0.0
+        }
+      }
+    }
+  ]
+}

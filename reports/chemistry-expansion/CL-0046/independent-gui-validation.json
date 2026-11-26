@@ -1,0 +1,334 @@
+{
+  "passed": true,
+  "states": 41,
+  "checks": [
+    {
+      "name": "initial-concealed",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "reference-level",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "new-case-concealed",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "above-reference",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-moving-first",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-moving-second",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-moving-third",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-2d-end",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-paused",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-paused-stable",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-3d-end",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "below-reference",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "above-near",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "above-far",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "below-near",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "below-far",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "level-near",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "level-far",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-30-above-8",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-30-above-32",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-30-below-8",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-30-below-32",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-70-above-8",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-70-above-32",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-70-below-8",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "boundary-70-below-32",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "fraction-above",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "fraction-level",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "fraction-below",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-initial",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-playing-first",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-playing-later",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-paused",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-paused-stable",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-resumed-later",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "manual-completed",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "guide-scrub-60",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "camera-before",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "camera-after",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "large-type-concealed",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    },
+    {
+      "name": "final-portrait-guide-moving",
+      "passed": true,
+      "physicalSurfacePoints": 81,
+      "calibratedTicks": 101,
+      "windowLines": 3,
+      "scope": "Actual sight-line intersections,physical volume-correct surface,unchanged water geometry,graduations,magnified reference lines and reveal-dependent metrics."
+    }
+  ]
+}

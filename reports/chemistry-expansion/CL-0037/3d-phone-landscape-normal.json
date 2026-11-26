@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 640.5390625,
+    "h": 229.25,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 411.2890625
+  },
+  "footer": {
+    "bottom": 682.0390625,
+    "h": 33.5,
+    "right": 809,
+    "w": 564,
+    "x": 245,
+    "y": 648.5390625
+  },
+  "guide": "52.2",
+  "height": 390,
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 690.0390625,
+    "h": 326.25,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 363.7890625
+  },
+  "svgTexts": [],
+  "time": "950",
+  "width": 844,
+  "name": "3d-phone-landscape-normal",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

@@ -1,0 +1,21 @@
+{
+  "paused": {
+    "guide": "72.73990000000087",
+    "protocol": "cycle",
+    "values": [
+      "50",
+      "400",
+      "72.73990000000087"
+    ]
+  },
+  "afterCamera": {
+    "guide": "72.73990000000087",
+    "protocol": "cycle",
+    "values": [
+      "50",
+      "400",
+      "72.73990000000087"
+    ]
+  },
+  "recordEnabled": true
+}

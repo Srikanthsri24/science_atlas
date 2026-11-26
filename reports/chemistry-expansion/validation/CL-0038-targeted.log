@@ -1,0 +1,28 @@
+✔ reference aggregates fit, do not overlap and remain below the additive-volume level (34.729245ms)
+✔ reference liquid plus excluded solid closes the additive phase-volume budget (0.705019ms)
+✔ actual triangulated liquid shell integrates to the reference volume within tessellation tolerance (59.880473ms)
+✔ liquid boundary vertices stay outside all solid aggregate interiors (117.579645ms)
+✔ moving dry-grain cohorts integrate to the actual flight inventory and follow prescribed gravity (1.228303ms)
+✔ household camera bounds fit a canvas without reserving space twice for external UI (1.224667ms)
+✔ cached analytic liquid normals match boundary orientation throughout a trial (32.583433ms)
+✔ household notebook rejects malformed samples, coercion and unsupported measurements (3.562104ms)
+✔ notebook caps retained rows and text without changing numeric measurements (7.496128ms)
+✔ actual report includes all four independent samples and per-trial flight/capacity substitutions (2.676948ms)
+✔ report escapes student text and states that model kinetics are not measurements (0.815588ms)
+✔ all four separate systems conserve dose and water during and after dosing (7.266844ms)
+✔ solubility capacity retains the distinction between solvent mass and solvent volume (0.708231ms)
+✔ analytic metered-input solution agrees with independent midpoint ODE integration (121.542325ms)
+✔ soluble excess is distinguished from practical insolubility and temporary residue (0.595891ms)
+✔ adding more water raises capacity without changing metered dose or the mass budget (0.443582ms)
+✔ dissolution is continuous across dosing and capacity transition; rate matches numerical derivative (0.622903ms)
+✔ formula substitution uses the selected material, actual dose and current mass fractions (0.768221ms)
+✔ guide uses 110s, 120 model seconds and rejects unsupported inputs (1.216168ms)
+✔ prescribed falling grains stay in a separate conserved transit compartment (0.727852ms)
+ℹ tests 20
+ℹ suites 0
+ℹ pass 20
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1506.21586

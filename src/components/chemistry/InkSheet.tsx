@@ -1,0 +1,5 @@
+import{useEffect,useMemo,useRef}from'react';import{CanvasTexture,SRGBColorSpace}from'three';import{inkSheetPixels}from'../../lib/chemistry/inkChromatographyGeometry';import type{inkChromatographyState}from'../../lib/chemistry/inkChromatography';
+type State=ReturnType<typeof inkChromatographyState>;
+export function drawInkSheet(canvas:HTMLCanvasElement,s:State){canvas.width=128;canvas.height=512;const ctx=canvas.getContext('2d')!;ctx.putImageData(new ImageData(inkSheetPixels(s,128,512),128,512),0,0)}
+export default function InkSheet({state}:{state:State}){const ref=useRef<HTMLCanvasElement>(null);useEffect(()=>{if(ref.current)drawInkSheet(ref.current,state)},[state]);return <canvas ref={ref} width={128} height={512} style={{display:'block',width:'100%',height:'100%'}} aria-hidden='true'/>}
+export function useInkTexture(s:State){const canvas=useMemo(()=>document.createElement('canvas'),[]),texture=useMemo(()=>{const t=new CanvasTexture(canvas);t.colorSpace=SRGBColorSpace;return t},[canvas]);useEffect(()=>{drawInkSheet(canvas,s);texture.needsUpdate=true},[canvas,texture,s]);useEffect(()=>()=>texture.dispose(),[texture]);return texture}

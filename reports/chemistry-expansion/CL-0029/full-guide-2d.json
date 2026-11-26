@@ -1,0 +1,9 @@
+{
+  "caption": "110-SECOND GUIDED INVESTIGATION\n\nRecord both target times and check solid plus dissolved sugar equals 10 g in each cell. The solubility table is approximate; temperature-sensitive transfer parameters are chosen teaching assumptions, not calibrated physical times.\n\nIdeal baths hold pre-equilibrated temperatures fixed. Jacket colours identify setpoints, not a solved thermal field. During the experiment the guide advances 2.25 model seconds per second; manual playback is 1×. Chosen rates are not calibrated physical times.",
+  "guide": "110",
+  "mode": "Temperature-controlled dissolution at 180.0 model seconds. A dissolved 10.000 grams; B dissolved 10.000 grams. Each started with 10 grams sugar.",
+  "rectangles": 4,
+  "time": "180",
+  "observedWallSeconds": 632.003,
+  "scope": "Independent 2D-only playback from guide start to 110, with no seek or mode switch during the run."
+}

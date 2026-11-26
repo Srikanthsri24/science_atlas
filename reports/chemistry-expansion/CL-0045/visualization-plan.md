@@ -1,0 +1,9 @@
+# CL-0045 — original visualization plan
+
+Place the wide beaker and tall graduated cylinder side by side on a shared bench with two explicitly equal reference aliquots. Fill both visibly at1mL/s; show source remaining so receiving two aliquots cannot imply duplicated water. Render the volume-compensated concave surface and correct bottom reading against each vessel's own scale. Dark meniscus cards aid contrast. A wider physical graduation interval in the cylinder communicates volume sensitivity; include a magnified reading inset in2D rather than relying on tiny labels.
+
+Graduations must move consistently with chosen common scale bias; never show biased numeric readings against unbiased scale geometry. Both report increments and half-increment rounding bounds should be visible, with a persistent distinction between resolution and calibrated accuracy. Support reference63.4mL,exact-mark60mL,bias+2mL,both rounding modes,initial/filling/stopped states. Manual1x0–80s;120s guide includes15s introduction,80s physical transfer timeline and25s observation/conclusion.
+
+2D calibrated front sections plus shared inventory and reading insets.3D original glassware, curved volume-correct surfaces,graduation marks,dual fill nozzles,reading cards and finite source indicator; complete bench,vessel and scale cameras with tested projection. Only working controls exposed.2D/3D16:9 and9:16,320px phone throughTV,theatre and short landscape require browser verification.
+
+Practical: prediction,known reference,physical time,bias,reporting mode,both readings,errors and rounding-only bounds; clear record instructions. Exam report needs aim,apparatus,method,table,formula substitution,results,conclusion and limitations. During filling table must say reading unavailable, not fabricate a settled measurement. Advanced error analysis is a teacher extension.

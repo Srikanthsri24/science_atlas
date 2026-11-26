@@ -1,0 +1,303 @@
+{
+  "guide": "120",
+  "state": {
+    "parameters": [
+      {
+        "label": "Surface evaporation initial volume",
+        "value": "50"
+      },
+      {
+        "label": "Surface evaporation A area",
+        "value": "25"
+      },
+      {
+        "label": "Surface evaporation B area",
+        "value": "100"
+      },
+      {
+        "label": "Surface evaporation physical hours",
+        "value": "24"
+      }
+    ],
+    "points": [
+      {
+        "cx": "535",
+        "cy": "788",
+        "data-area-point": "A",
+        "fill": "#8fe5d2",
+        "r": "4",
+        "stroke": "#8fe5d2"
+      },
+      {
+        "cx": "535",
+        "cy": "932",
+        "data-area-point": "B",
+        "fill": "none",
+        "r": "6",
+        "stroke": "#efcc82"
+      }
+    ],
+    "samples": [
+      {
+        "attrs": {
+          "data-area-origin": "150",
+          "data-area-sample": "A"
+        },
+        "initial": {
+          "data-area-initial-level": "A",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "87.9391458097468",
+          "x2": "212.0608541902532",
+          "y1": "406",
+          "y2": "406"
+        },
+        "loss": "Lost 12.000 g",
+        "remaining": "38.000 g left",
+        "water": {
+          "data-area-water": "A",
+          "fill": "url(#area-water)",
+          "height": "33.44",
+          "width": "124.12170838050638",
+          "x": "87.9391458097468",
+          "y": "416.56"
+        }
+      },
+      {
+        "attrs": {
+          "data-area-origin": "450",
+          "data-area-sample": "B"
+        },
+        "initial": {
+          "data-area-initial-level": "B",
+          "opacity": ".5",
+          "stroke": "#d6edf6",
+          "stroke-dasharray": "4 5",
+          "x1": "325.8782916194936",
+          "x2": "574.1217083805063",
+          "y1": "439",
+          "y2": "439"
+        },
+        "loss": "Lost 48.000 g",
+        "remaining": "2.000 g left",
+        "water": {
+          "data-area-water": "B",
+          "fill": "url(#area-water)",
+          "height": "0.44",
+          "width": "248.24341676101275",
+          "x": "325.8782916194936",
+          "y": "449.56"
+        }
+      }
+    ],
+    "svg": {
+      "aria-label": "Physical time 24.000 hours. A area 25 square centimetres,remaining 38.000 grams. B area 100 square centimetres,remaining 2.000 grams. Time-lapse model with prescribed matched flux,not a weather forecast.",
+      "data-area-base": "450",
+      "data-area-horizon": "24",
+      "data-area-scale": "22",
+      "role": "img",
+      "viewBox": "0 0 600 1067"
+    },
+    "svgBox": {
+      "height": 853.59375,
+      "width": 479.9921875,
+      "x": 702.5,
+      "y": 354.7421875
+    },
+    "texts": [
+      {
+        "height": 11.5,
+        "text": "SCIENCE ATLAS / SURFACE AREA",
+        "width": 197.5234375,
+        "x": 726.4996337890625,
+        "y": 370.8455810546875
+      },
+      {
+        "height": 27.500030517578125,
+        "text": "More area. Compare the water lost.",
+        "width": 374.8125,
+        "x": 726.4996337890625,
+        "y": 389.8450622558594
+      },
+      {
+        "height": 19,
+        "text": "Equal starting water · matched prescribed flux",
+        "width": 320.2578125,
+        "x": 726.4996337890625,
+        "y": 425.64459228515625
+      },
+      {
+        "height": 24.5,
+        "text": "Sample A",
+        "width": 92.0234375,
+        "x": 776.486328125,
+        "y": 483.5435791015625
+      },
+      {
+        "height": 19,
+        "text": "25 cm² exposed",
+        "width": 112.5234375,
+        "x": 766.236328125,
+        "y": 515.2431640625
+      },
+      {
+        "height": 15,
+        "text": "37°C maintained",
+        "width": 96.6796875,
+        "x": 774.158203125,
+        "y": 727.039794921875
+      },
+      {
+        "height": 23.5,
+        "text": "38.000 g left",
+        "width": 112.9296875,
+        "x": 766.033203125,
+        "y": 755.2391967773438
+      },
+      {
+        "height": 18.99993896484375,
+        "text": "Lost 12.000 g",
+        "width": 95.34375,
+        "x": 774.826171875,
+        "y": 787.23876953125
+      },
+      {
+        "height": 24.5,
+        "text": "Sample B",
+        "width": 90.953125,
+        "x": 1017.017578125,
+        "y": 483.5435791015625
+      },
+      {
+        "height": 19,
+        "text": "100 cm² exposed",
+        "width": 120.203125,
+        "x": 1002.392578125,
+        "y": 515.2431640625
+      },
+      {
+        "height": 15,
+        "text": "37°C maintained",
+        "width": 96.6796875,
+        "x": 1014.154296875,
+        "y": 727.039794921875
+      },
+      {
+        "height": 23.5,
+        "text": "2.000 g left",
+        "width": 100.515625,
+        "x": 1012.236328125,
+        "y": 755.2391967773438
+      },
+      {
+        "height": 18.99993896484375,
+        "text": "Lost 48.000 g",
+        "width": 98.40625,
+        "x": 1013.291015625,
+        "y": 787.23876953125
+      },
+      {
+        "height": 20.50006103515625,
+        "text": "Physical time: 24.000 h · 37°C maintained",
+        "width": 318.0390625,
+        "x": 726.4996337890625,
+        "y": 829.7379760742188
+      },
+      {
+        "height": 24.5,
+        "text": "Remaining water",
+        "width": 162.3515625,
+        "x": 754.4991455078125,
+        "y": 873.937255859375
+      },
+      {
+        "height": 18.99993896484375,
+        "text": "A mint · B gold · elapsed states",
+        "width": 214.515625,
+        "x": 754.4991455078125,
+        "y": 904.8367919921876
+      },
+      {
+        "height": 17,
+        "text": "0",
+        "width": 8.703125,
+        "x": 736.1961669921875,
+        "y": 1096.733642578125
+      },
+      {
+        "height": 17,
+        "text": "25",
+        "width": 16.8359375,
+        "x": 728.0633544921875,
+        "y": 1016.7349853515624
+      },
+      {
+        "height": 17,
+        "text": "50",
+        "width": 17.234375,
+        "x": 727.6649169921875,
+        "y": 936.736328125
+      },
+      {
+        "height": 17,
+        "text": "0",
+        "width": 8.703125,
+        "x": 750.1475830078125,
+        "y": 1114.33349609375
+      },
+      {
+        "height": 17,
+        "text": "12",
+        "width": 14.625,
+        "x": 935.18359375,
+        "y": 1114.33349609375
+      },
+      {
+        "height": 17,
+        "text": "24",
+        "width": 16.9765625,
+        "x": 1122.0047607421875,
+        "y": 1114.33349609375
+      },
+      {
+        "height": 19,
+        "text": "Physical time / hours",
+        "width": 143.640625,
+        "x": 870.67578125,
+        "y": 1136.032958984375
+      },
+      {
+        "height": 18.99993896484375,
+        "text": "g",
+        "width": 9.1640625,
+        "x": 735.2994384765625,
+        "y": 887.2371215820312
+      },
+      {
+        "height": 17,
+        "text": "Vapour is invisible. Markers only illustrate escape.",
+        "width": 316.90625,
+        "x": 726.4996337890625,
+        "y": 1176.732421875
+      }
+    ],
+    "traces": [
+      {
+        "d": "M65,740 L535,788",
+        "data-area-trace": "A",
+        "fill": "none",
+        "stroke": "#8fe5d2",
+        "stroke-width": "3"
+      },
+      {
+        "d": "M65,740 L535,932",
+        "data-area-trace": "B",
+        "fill": "none",
+        "stroke": "#efcc82",
+        "stroke-dasharray": "5 3",
+        "stroke-width": "3"
+      }
+    ]
+  }
+}

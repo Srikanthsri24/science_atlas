@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "before": {
+    "rate": "0.0005",
+    "salt": "10",
+    "time": "7200"
+  },
+  "after": {
+    "rate": "0.0005",
+    "salt": "10",
+    "time": "7200"
+  }
+}

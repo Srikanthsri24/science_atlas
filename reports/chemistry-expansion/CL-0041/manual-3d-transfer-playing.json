@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": -885.7421875,
+    "h": 251.71875,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -1137.4609375
+  },
+  "footer": {
+    "bottom": -745.9609375,
+    "h": 49,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": -794.9609375
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": -794.9609375,
+    "h": 90.78125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -885.7421875
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": -737.9609375,
+    "h": 500,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": -1237.9609375
+  },
+  "texts": [],
+  "waitS": "2",
+  "width": 320,
+  "withdrawalMl": "3.345066666666418",
+  "name": "manual-3d-transfer-playing",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

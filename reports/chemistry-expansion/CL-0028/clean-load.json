@@ -1,0 +1,6 @@
+{
+  "reloadAt": "2026-11-25T14:29:09.237Z",
+  "warningsAndErrors": [],
+  "rowsRetained": 16,
+  "developmentNote": "Two prior hook dependency-size warnings occurred only while hot-editing the camera effect; retained in development-log.json. Fresh reload uses the final static dependency list."
+}

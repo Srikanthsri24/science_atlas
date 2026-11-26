@@ -1,0 +1,16 @@
+{
+  "fill": "20",
+  "guide": "110",
+  "readings": [
+    "50.000 / 0.000 mL",
+    "50 mL",
+    "50.000000 mL",
+    "+0.000 mL",
+    "+0.000 mL",
+    "+0.000 / 50.000 mL",
+    "50.000 = 50.000 mL",
+    "Read the lowest meniscus point against the front scale"
+  ],
+  "recordEnabled": true,
+  "wallSeconds": 215.135
+}

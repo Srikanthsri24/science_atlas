@@ -1,0 +1,4 @@
+/* Keep the apparatus prominent while allowing longer guided captions to scroll. */
+@media(max-width:700px){
+  .chem-water-cycle .chem-bench-viewer.theatre .chem-bench-caption{max-height:30dvh;overflow-y:auto;overscroll-behavior:contain}
+}

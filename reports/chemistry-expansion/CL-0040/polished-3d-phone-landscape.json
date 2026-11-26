@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 717.65625,
+    "h": 271.3125,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 446.34375
+  },
+  "footer": {
+    "bottom": 802.34375,
+    "h": 33.5,
+    "right": 809,
+    "w": 564,
+    "x": 245,
+    "y": 768.84375
+  },
+  "guide": "110",
+  "height": 390,
+  "legend": {
+    "bottom": 768.84375,
+    "h": 51.1875,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 717.65625
+  },
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 810.34375,
+    "h": 450,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 360.34375
+  },
+  "texts": [],
+  "time": "0.03",
+  "width": 844,
+  "name": "polished-3d-phone-landscape",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

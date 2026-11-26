@@ -1,19 +1,19 @@
 {
   "fullRegression": {
-    "passed": 1903,
+    "passed": 2084,
     "failed": 0,
-    "scope": "Current worktree through final CL-0025 models, records, layouts and saved-data validation"
+    "scope": "38 internally reviewed labs plus15 CL-0039 model/calculation/record tests; CL-0039 views not implemented"
   },
   "chemistryTargeted": {
-    "passed": 213,
+    "passed": 20,
     "failed": 0,
-    "scope": "All chemistry tests through CL-0025"
+    "scope": "CL-0038 model, geometry/camera/normals and record/report tests; full regression includes all chemistry suites"
   },
-  "productionBuild": "passed \u2014 final CL-0025 production build",
-  "staticCatalogueMirror": "passed \u2014 public/data/chemistry-labs.json exactly matches source catalogue",
-  "typescript": "passed \u2014 final CL-0025 viewers, model and report",
+  "productionBuild": "passed \u201438 reviewed labs, complete270-lab catalogue and CL-0039 model/report checkpoint",
+  "staticCatalogueMirror": "passed \u2014 source, public and production catalogue match exactly",
+  "typescript": "passed \u2014 standalone full-project tsc exit0 through CL-0039 model and structured report",
   "goalStatus": "active",
-  "reviewedLabs": 25,
+  "reviewedLabs": 38,
   "classOneProgramme": "all 12 listed investigations internally reviewed",
   "notClaimed": [
     "Independent expert certification",
@@ -21,10 +21,6 @@
     "Official board alignment",
     "Completion of all 270 labs"
   ],
-  "nextLabModel": {
-    "labId": "CL-0026",
-    "scope": "Not yet implemented"
-  },
   "classTwoProgramme": "all 12 listed investigations internally reviewed",
   "isolatedPublishableTree": {
     "testsPassed": 1863,
@@ -32,6 +28,26 @@
     "typescript": "passed",
     "pagesBuild": "passed",
     "originalScienceInventoryAndPracticalGates": "passed",
-    "unrelatedStagedFilesExcluded": 146
+    "unrelatedStagedFilesExcluded": 146,
+    "scope": "Published first-25 checkpoint df6df61; does not include subsequent unpublished labs"
+  },
+  "lastDeployment": {
+    "commit": "df6df612d606703a22f032898928108b3fb8a5a0",
+    "status": "success",
+    "liveCatalogueMatchesCommit": true,
+    "liveReviewedLabs": 25
+  },
+  "sharedNotebookPhoneCheck": {
+    "passed": 35,
+    "failed": 0,
+    "scope": "All35 reviewed labs with calculations expanded at320px"
+  },
+  "classThreeProgramme": "all14 listed investigations internally reviewed",
+  "nextLabModel": {
+    "labId": "CL-0039",
+    "status": "in_progress",
+    "modelTests": 10,
+    "modelAndRecordTests": 15,
+    "uiImplemented": false
   }
 }

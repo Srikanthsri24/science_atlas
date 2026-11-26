@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": -710.34375,
+    "h": 627.4140625,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": -1337.7578125
+  },
+  "footer": {
+    "bottom": -604.7578125,
+    "h": 33.5,
+    "right": 1174.5,
+    "w": 464,
+    "x": 710.5,
+    "y": -638.2578125
+  },
+  "guide": "110",
+  "height": 1080,
+  "legend": {
+    "bottom": -638.2578125,
+    "h": 72.0859375,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": -710.34375
+  },
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": -596.7578125,
+    "h": 800,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": -1396.7578125
+  },
+  "texts": [],
+  "waitS": "20",
+  "width": 1920,
+  "withdrawalMl": "80",
+  "name": "3d-bed-portrait-normal-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

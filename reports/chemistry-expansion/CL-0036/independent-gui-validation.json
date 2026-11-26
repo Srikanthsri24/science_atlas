@@ -1,0 +1,245 @@
+{
+  "checkedRows": [
+    {
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "trial": 4,
+      "passed": true
+    },
+    {
+      "trial": 5,
+      "passed": true
+    },
+    {
+      "trial": 6,
+      "passed": true
+    },
+    {
+      "trial": 7,
+      "passed": true
+    },
+    {
+      "trial": 8,
+      "passed": true
+    },
+    {
+      "trial": 9,
+      "passed": true
+    },
+    {
+      "trial": 10,
+      "passed": true
+    },
+    {
+      "trial": 11,
+      "passed": true
+    },
+    {
+      "trial": 12,
+      "passed": true
+    },
+    {
+      "trial": 13,
+      "passed": true
+    },
+    {
+      "trial": 14,
+      "passed": true
+    },
+    {
+      "trial": 15,
+      "passed": true
+    },
+    {
+      "trial": 16,
+      "passed": true
+    },
+    {
+      "trial": 17,
+      "passed": true
+    },
+    {
+      "trial": 18,
+      "passed": true
+    },
+    {
+      "trial": 19,
+      "passed": true
+    },
+    {
+      "trial": 20,
+      "passed": true
+    },
+    {
+      "trial": 21,
+      "passed": true
+    },
+    {
+      "trial": 22,
+      "passed": true
+    },
+    {
+      "trial": 23,
+      "passed": true
+    }
+  ],
+  "renderedStates": [
+    {
+      "case": "glass-reference-partial30",
+      "renderedSolidCm3": 19.999999999999996,
+      "renderedImmersedCm3": 4.82411183326105,
+      "renderedReadingML": 54.824111833261036,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass-reference-full50",
+      "renderedSolidCm3": 19.999999999999996,
+      "renderedImmersedCm3": 19.999999999999996,
+      "renderedReadingML": 69.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass-reference-withdraw65",
+      "renderedSolidCm3": 19.999999999999996,
+      "renderedImmersedCm3": 19.648664590152567,
+      "renderedReadingML": 69.64866459015256,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass-reference-clear100",
+      "renderedSolidCm3": 19.999999999999996,
+      "renderedImmersedCm3": 0,
+      "renderedReadingML": 49.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass-overflow-initial",
+      "renderedSolidCm3": 30.000000000000004,
+      "renderedImmersedCm3": 0,
+      "renderedReadingML": 79.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass-overflow-lowering25",
+      "renderedSolidCm3": 30.000000000000004,
+      "renderedImmersedCm3": 24.488214078771076,
+      "renderedReadingML": 99.99999999999994,
+      "renderedCaughtML": 4.488214078771107,
+      "passed": true
+    },
+    {
+      "case": "glass-overflow-full50",
+      "renderedSolidCm3": 30.000000000000004,
+      "renderedImmersedCm3": 30.000000000000004,
+      "renderedReadingML": 99.99999999999999,
+      "renderedCaughtML": 9.999999999999998,
+      "passed": true
+    },
+    {
+      "case": "glass-overflow-withdraw75",
+      "renderedSolidCm3": 30.000000000000004,
+      "renderedImmersedCm3": 12.243264092804033,
+      "renderedReadingML": 82.24326409280401,
+      "renderedCaughtML": 9.999999999999998,
+      "passed": true
+    },
+    {
+      "case": "glass-overflow-clear100",
+      "renderedSolidCm3": 30.000000000000004,
+      "renderedImmersedCm3": 0,
+      "renderedReadingML": 69.99999999999999,
+      "renderedCaughtML": 9.999999999999998,
+      "passed": true
+    },
+    {
+      "case": "steel-overflow-lowering25",
+      "renderedSolidCm3": 30.000000000000018,
+      "renderedImmersedCm3": 25.33973873034547,
+      "renderedReadingML": 99.99999999999994,
+      "renderedCaughtML": 5.339738730345487,
+      "passed": true
+    },
+    {
+      "case": "steel-overflow-full50",
+      "renderedSolidCm3": 30.000000000000018,
+      "renderedImmersedCm3": 30.000000000000018,
+      "renderedReadingML": 99.99999999999999,
+      "renderedCaughtML": 9.999999999999998,
+      "passed": true
+    },
+    {
+      "case": "stone-overflow-lowering25",
+      "renderedSolidCm3": 30,
+      "renderedImmersedCm3": 22.71449801507122,
+      "renderedReadingML": 99.99999999999999,
+      "renderedCaughtML": 2.714498015071214,
+      "passed": true
+    },
+    {
+      "case": "stone-overflow-full50",
+      "renderedSolidCm3": 30,
+      "renderedImmersedCm3": 30,
+      "renderedReadingML": 99.99999999999999,
+      "renderedCaughtML": 9.999999999999998,
+      "passed": true
+    },
+    {
+      "case": "stone30-water40-full50",
+      "renderedSolidCm3": 30,
+      "renderedImmersedCm3": 30,
+      "renderedReadingML": 69.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "glass5-water40-full50",
+      "renderedSolidCm3": 5.000000000000001,
+      "renderedImmersedCm3": 5.000000000000001,
+      "renderedReadingML": 44.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "manual-start-pause",
+      "renderedSolidCm3": 19.999999999999996,
+      "renderedImmersedCm3": 0,
+      "renderedReadingML": 49.99999999999999,
+      "renderedCaughtML": 0,
+      "passed": true
+    },
+    {
+      "case": "before-live2d25",
+      "renderedSolidCm3": 30,
+      "renderedImmersedCm3": 22.71449801507122,
+      "renderedReadingML": 99.99999999999999,
+      "renderedCaughtML": 2.714498015071214,
+      "passed": true
+    },
+    {
+      "case": "after-live2d-pause",
+      "renderedSolidCm3": 30,
+      "renderedImmersedCm3": 24.54750930308471,
+      "renderedReadingML": 99.99999999999994,
+      "renderedCaughtML": 4.547509303084737,
+      "passed": true
+    }
+  ],
+  "downloadedReportTrials": 23,
+  "noExternalReportLinks": true,
+  "liveObjectAndArrowMotion": true
+}

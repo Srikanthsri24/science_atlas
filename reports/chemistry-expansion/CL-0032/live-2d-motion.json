@@ -1,0 +1,17 @@
+{
+  "before": {
+    "cx": "852.6436646633604",
+    "cy": "268.49951923926585",
+    "time": "0.21610000000591392"
+  },
+  "after": {
+    "cx": "852.6436646633604",
+    "cy": "285.49404931926586",
+    "time": "15.501700000005897"
+  },
+  "recordLockedWhilePlaying": true,
+  "passed": true,
+  "expectedDySvgUnits": 16.994530079999983,
+  "observedDySvgUnits": 16.994530080000004,
+  "speedCheckPassed": true
+}

@@ -1,0 +1,3 @@
+import{solutionSuspensionState}from'./solutionSuspension';
+export const suspensionCellRadiusCm=Math.sqrt(12.5/Math.PI),suspensionFloorY=.35,suspensionMarkerMagnification=24;
+export function suspensionMarker(index:number,radiusUm:number,timeS:number){if(!Number.isInteger(index)||index<0||index>=192)throw new RangeError('Representative marker0–191 required');const s=solutionSuspensionState(radiusUm,timeS),initialHeightM=s.mixtureHeightM*(index+.5)/192,yM=initialHeightM-s.fallDistanceM,angle=index*2.399963229728653,radialCm=1.8*Math.sqrt(((index*73)%192+.5)/192);return{x:3+radialCm*Math.cos(angle),y:suspensionFloorY+yM*100,z:radialCm*Math.sin(angle),active:yM>s.bedHeightM,radiusCm:radiusUm*.0001*suspensionMarkerMagnification,initialHeightM}}

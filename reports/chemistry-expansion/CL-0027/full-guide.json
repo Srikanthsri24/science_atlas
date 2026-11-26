@@ -1,0 +1,15 @@
+{
+  "buttons": [
+    "2D view",
+    "3D view",
+    "Theatre",
+    "Replay guide"
+  ],
+  "caption": "110-SECOND GUIDED INVESTIGATION\n\nReset with a 50 g reference. Equal arm lengths and equal masses produce equal gravitational torques. Record a level comparison and calculate the sample mass from the known reference.\n\nChanging any load resets the beam to level for a separate release. The guide explicitly resets between comparisons. Both views use the same calculated angle; pan suspension swing is excluded. Drag to orbit; scroll to zoom.",
+  "guide": "110",
+  "reference": "50",
+  "release": "30",
+  "observedWallSeconds": 132.166,
+  "recordEnabled": true,
+  "revision": "Sustained oscillation guide: 49 g, 51 g, reduced damping, equal loads"
+}

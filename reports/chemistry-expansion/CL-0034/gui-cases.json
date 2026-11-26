@@ -1,0 +1,420 @@
+[
+  {
+    "label": "cool120",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "120"
+      }
+    ],
+    "lastRow": "5\t1.5\t35\t10\t60\t120.000000\t99.944026\t0.035817\t0.020157\t0.074299\t0.038482\t0.018325\t",
+    "values": [
+      "99.944026 / 0.035817 / 0.020157 g",
+      "100.000000 g",
+      "12.320257s",
+      "3395.721 Pa / 60.393%",
+      "0.000469786 / 0.000457297 / 0.000335945 g/s",
+      "182.031571 / 94.279897 J"
+    ]
+  },
+  {
+    "label": "cool300",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "300"
+      }
+    ],
+    "lastRow": "6\t1.5\t35\t10\t60\t300.000000\t99.936453\t0.036129\t0.027418\t0.157892\t0.121763\t0.094345\t",
+    "values": [
+      "99.936453 / 0.036129 / 0.027418 g",
+      "100.000000 g",
+      "12.320257s",
+      "3425.300 Pa / 60.919%",
+      "0.000463546 / 0.000463537 / 0.000456970 g/s",
+      "386.835486 / 298.319429 J"
+    ]
+  },
+  {
+    "label": "warm600",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "40"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "600"
+      }
+    ],
+    "lastRow": "7\t1.5\t35\t40\t60\t600.000000\t99.940694\t0.059306\t0.000000\t0.059306\t0.000000\t0.000000\t",
+    "values": [
+      "99.940694 / 0.059306 / 0.000000 g",
+      "100.000000 g",
+      "No threshold crossing in this control",
+      "5622.647 Pa / 99.999%",
+      "0.000000007 / 0.000000000 / 0.000000000 g/s",
+      "145.299547 / 0.000000 J"
+    ]
+  },
+  {
+    "label": "equal600",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "600"
+      }
+    ],
+    "lastRow": "8\t1.5\t35\t35\t60\t600.000000\t99.940694\t0.059306\t0.000000\t0.059306\t0.000000\t0.000000\t",
+    "values": [
+      "99.940694 / 0.059306 / 0.000000 g",
+      "100.000000 g",
+      "No threshold crossing in this control",
+      "5622.647 Pa / 99.999%",
+      "0.000000007 / 0.000000000 / 0.000000000 g/s",
+      "145.299547 / 0.000000 J"
+    ]
+  },
+  {
+    "label": "fast300",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "20"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "300"
+      }
+    ],
+    "lastRow": "9\t1.5\t35\t10\t20\t300.000000\t99.954601\t0.036129\t0.009270\t0.157892\t0.121763\t0.112493\t",
+    "values": [
+      "99.954601 / 0.036129 / 0.009270 g",
+      "100.000000 g",
+      "12.320257s",
+      "3425.300 Pa / 60.919%",
+      "0.000463546 / 0.000463537 / 0.000463519 g/s",
+      "386.835486 / 298.319429 J"
+    ]
+  },
+  {
+    "label": "slow300",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "120"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "300"
+      }
+    ],
+    "lastRow": "10\t1.5\t35\t10\t120\t300.000000\t99.914637\t0.036129\t0.049234\t0.157892\t0.121763\t0.072529\t",
+    "values": [
+      "99.914637 / 0.036129 / 0.049234 g",
+      "100.000000 g",
+      "12.320257s",
+      "3425.300 Pa / 60.919%",
+      "0.000463546 / 0.000463537 / 0.000410283 g/s",
+      "386.835486 / 298.319429 J"
+    ]
+  },
+  {
+    "label": "before-onset12.3",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "12.3"
+      }
+    ],
+    "lastRow": "11\t1.5\t35\t10\t60\t12.300000\t99.987067\t0.012933\t0.000000\t0.012933\t0.000000\t0.000000\t",
+    "values": [
+      "99.987067 / 0.012933 / 0.000000 g",
+      "100.000000 g",
+      "12.320257s",
+      "1226.182 Pa / 21.808%",
+      "0.000927458 / 0.000000000 / 0.000000000 g/s",
+      "31.686797 / 0.000000 J"
+    ]
+  },
+  {
+    "label": "after-onset12.4",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1.5"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "60"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "12.4"
+      }
+    ],
+    "lastRow": "12\t1.5\t35\t10\t60\t12.400000\t99.986974\t0.013026\t<0.000001\t0.013026\t<0.000001\t<0.000001\t",
+    "values": [
+      "99.986974 / 0.013026 / <0.000001 g",
+      "100.000000 g",
+      "12.320257s",
+      "1234.960 Pa / 21.964%",
+      "0.000925606 / 0.000001476 / <0.000000001 g/s",
+      "31.913797 / 0.000144 J"
+    ]
+  },
+  {
+    "label": "equal-decay-V3-tau50-300",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "3"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "35"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "50"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "300"
+      }
+    ],
+    "lastRow": "13\t3\t35\t10\t50\t300.000000\t99.905364\t0.072070\t0.022565\t0.176628\t0.104557\t0.081992\t",
+    "values": [
+      "99.905364 / 0.072070 / 0.022565 g",
+      "100.000000 g",
+      "24.640513s",
+      "3416.406 Pa / 60.761%",
+      "0.000465422 / 0.000461661 / 0.000451302 g/s",
+      "432.738270 / 256.165814 J"
+    ]
+  },
+  {
+    "label": "V1-pool20-600",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "20"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "50"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "600"
+      }
+    ],
+    "lastRow": "14\t1\t20\t10\t50\t600.000000\t99.980665\t0.013180\t0.006155\t0.081935\t0.068755\t0.062600\t",
+    "values": [
+      "99.980665 / 0.013180 / 0.006155 g",
+      "100.000000 g",
+      "24.825637s",
+      "1783.122 Pa / 76.258%",
+      "0.000123105 / 0.000123105 / 0.000123104 g/s",
+      "200.741890 / 168.450590 J"
+    ]
+  },
+  {
+    "label": "V1-pool40-slow600",
+    "inputs": [
+      {
+        "name": "Water-cycle guide timeline",
+        "value": "110"
+      },
+      {
+        "name": "Water-cycle headspace",
+        "value": "1"
+      },
+      {
+        "name": "Water-cycle pool temperature",
+        "value": "40"
+      },
+      {
+        "name": "Water-cycle lid temperature",
+        "value": "10"
+      },
+      {
+        "name": "Water-cycle drain constant",
+        "value": "120"
+      },
+      {
+        "name": "Water-cycle elapsed time",
+        "value": "600"
+      }
+    ],
+    "lastRow": "15\t1\t40\t10\t120\t600.000000\t99.894294\t0.029766\t0.075940\t0.398107\t0.368341\t0.292401\t",
+    "values": [
+      "99.894294 / 0.029766 / 0.075940 g",
+      "100.000000 g",
+      "6.070301s",
+      "4301.788 Pa / 58.324%",
+      "0.000638082 / 0.000638082 / 0.000632830 g/s",
+      "975.362941 / 902.435499 J"
+    ]
+  }
+]

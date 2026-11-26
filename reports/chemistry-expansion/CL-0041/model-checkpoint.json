@@ -1,0 +1,12 @@
+{
+  "status": "historical_model_only_checkpoint_superseded_by_final_review",
+  "targetedTests": 15,
+  "failed": 0,
+  "sourceHashes": {
+    "src/lib/chemistry/sedimentationDecantation.ts": "00b31107759e25b84a7c916ad68491b0a8d5f8c0bbbf3f8839b137ff7065ef0d",
+    "src/lib/chemistry/decantationRecord.ts": "3ef3fe1fb356f6bd9ce1ffe01e7fa7760c4f4870c0a224f30214fbd6ee7bbad9",
+    "tests/chemistry-sedimentation-decantation.test.mjs": "7596400efeefdf6330404cd5bcff859085dbd1e914b99b2a0006567a23eee038",
+    "tests/chemistry-decantation-record.test.mjs": "b6c709d38989e85a36bccb49621a542ea62475f9e40560b77eefc71184140120"
+  },
+  "supersededBy": "review.json"
+}

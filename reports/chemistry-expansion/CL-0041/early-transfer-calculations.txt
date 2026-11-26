@@ -1,0 +1,112 @@
+Radius conversion
+r=radius in µm ×10⁻⁶ m/µm
+
+Substitution: 50 µm ×10⁻⁶ m/µm
+
+Result: 5.000000e-5 m
+
+The diameter is 100 µm. This is a spherical fine-quartz reference, not a measured natural grain.
+Buoyancy-corrected driving force
+Fdrive=(ρp−ρw)(4πr³/3)g
+
+Substitution: (2650−1000)kg/m³ ×(4π×(5.000000e-5 m)³/3) ×9.81 m/s²
+
+Result: 8.475232e-9 N
+
+Particle weight acts down; displaced-water buoyancy acts up.
+Corrected terminal settling speed
+Solve 6πµrv[1+0.15Re^0.687]=Fdrive, Re=2rρw v/µ
+
+Substitution: 6π×0.001 Pa s ×5.000000e-5 m ×v ×[1+0.15(2×5.000000e-5 m ×1000 kg/m³ ×v /0.001 Pa s)^0.687]=8.475232e-9N
+
+Result: 0.007970 m/s
+
+Bisection solves the single-sphere Schiller–Naumann force balance. Transient acceleration, angular grains, walls and hindered settling are omitted.
+Reynolds-number check
+Re=2rρw v/µ
+
+Substitution: 2×5.000000e-5 m ×1000 kg/m³ ×0.007970 m/s /0.001 Pa s
+
+Result: 0.796964
+
+Stokes-only speed would be0.008992 m/s. That is a comparison estimate, not the actual speed used; the correction matters as Re grows.
+Maximum wet sediment-bed depth
+Bmax=Vs/(Aφ), Vs=ms/ρp
+
+Substitution: (0.002 kg /2650 kg/m³) /(0.00125 m² ×0.6)
+
+Result: 0.001006 m
+
+Chosen packed solid fraction 0.6 leaves 40% pore space filled with water.
+Settled fraction
+f=min[1,vt/(H−Bmax)]
+
+Substitution: min[1,0.007970 m/s ×2 s /(0.080604−0.001006)m]
+
+Result: 0.200248
+
+Uniform dilute suspension and a growing saturated bed are assumed; f is a bulk mass fraction, not a displayed particle count.
+Settled sand
+msettled=initial sand ×f
+
+Substitution: 2 g ×0.200248
+
+Result: 0.400497 g
+
+This is sand in a wet bed, not a dry recovered mass measurement.
+Clear upper water
+Vclear=A[H−max(B,H−vt)] ×10⁶ mL/m³
+
+Substitution: 0.00125 m² ×[0.080604−0.064665]m ×10⁶ mL/m³
+
+Result: 19.924090 mL
+
+This is the clear layer before the ideal snapshot withdrawal. Clear appearance alone does not establish chemical or microbiological purity.
+Sand transferred to receiver
+mout=msuspended × Vcloud,out/Vcloud
+
+Substitution: 1.599503 g ×60.075910 mL /80.578743 mL
+
+Result: 1.192518 g
+
+Clear top water is removed first. Any further mixture withdrawal samples the uniform cloud. The wet bed is not disturbed; settling is frozen during this ideal transfer.
+Receiver water volume
+Vwater,out=Vmixture,out−msand,out/ρsand
+
+Substitution: 80 mL −1.192518 g /2.65 g/mL
+
+Result: 79.549993 mL
+
+The slider specifies total mixture volume, not pure-water volume. Transferred solid occupies part of that volume.
+Sand retained in the source
+Retention=100 ×(initial sand−transferred sand)/initial sand
+
+Substitution: 100 × (2−1.192518)g /2 g
+
+Result: 40.374096 %
+
+Includes settled sand and any source suspension. This is potential retained sand, not a claim that it has been dried or fully separated.
+Receiver water mass fraction
+Water fraction=100 ×water mass/(water mass+sand mass)
+
+Substitution: 100 ×79.549993 g /(79.549993+1.192518)g
+
+Result: 98.523060 %
+
+Only water and quartz are included. This conditional reference fraction is not a drinking-water or empirical purity assessment.
+Wet source residue mass
+mwet=source water+source sand
+
+Substitution: 20.450007 g +0.807482 g
+
+Result: 21.257489 g
+
+Do not label this wet residue as dry sand. Drying would be a separate practical stage.
+Complete material balance
+Initial water+sand=source water+sand+receiver water+sand
+
+Substitution: 20.450007 g +0.807482 g +79.549993 g +1.192518 g
+
+Result: 102.000000 g
+
+Initial 100 g reference water + 2 g quartz = 102 g. Water density 1000 kg/m³ is a teaching approximation.

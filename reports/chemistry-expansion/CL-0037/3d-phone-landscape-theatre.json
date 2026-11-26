@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 219.5,
+    "h": 100,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 119.5
+  },
+  "footer": {
+    "bottom": 261,
+    "h": 33.5,
+    "right": 836,
+    "w": 828,
+    "x": 8,
+    "y": 227.5
+  },
+  "guide": "30.8",
+  "height": 390,
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 252,
+    "h": 180,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 72
+  },
+  "svgTexts": [],
+  "time": "468",
+  "width": 844,
+  "name": "3d-phone-landscape-theatre",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

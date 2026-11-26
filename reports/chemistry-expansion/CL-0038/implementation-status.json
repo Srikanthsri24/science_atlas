@@ -1,0 +1,15 @@
+{
+  "lab": "CL-0038",
+  "status": "ready",
+  "modelTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "modelGeometryRecordTests": {
+    "passed": 20,
+    "failed": 0
+  },
+  "uiImplemented": true,
+  "reviewStatus": "passed_internal_functional_review",
+  "reviewEvidence": "reports/chemistry-expansion/CL-0038/review.json"
+}

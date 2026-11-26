@@ -1,0 +1,48 @@
+{
+  "blue": "2",
+  "camera": "paper",
+  "canvas": {
+    "bottom": 883.6640625,
+    "h": 452.921875,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 430.7421875
+  },
+  "capillary": "0.12",
+  "footer": {
+    "bottom": 1013.7421875,
+    "h": 76.6875,
+    "right": 948,
+    "w": 651,
+    "x": 297,
+    "y": 937.0546875
+  },
+  "guide": "120",
+  "height": 960,
+  "legend": {
+    "bottom": 937.0546875,
+    "h": 53.390625,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 883.6640625
+  },
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 1021.7421875,
+    "h": 650,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 371.7421875
+  },
+  "texts": [],
+  "timeS": "6",
+  "width": 1280,
+  "yellow": "0.5",
+  "name": "before-wetting-paper-check",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

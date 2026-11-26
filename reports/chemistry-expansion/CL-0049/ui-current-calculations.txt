@@ -1,0 +1,160 @@
+Mass in SI units
+mkg = mg/1000
+
+Substitution: 50.000000 / 1000
+
+Result: 0.050000 kg
+
+Initial reference enthalpy
+H₀ = mciceT₀
+
+Substitution: 0.050000 × 2090 × (−10) J
+
+Result: -1045.000000 J
+
+Heating and cooling durations
+theat = min(t,60); tcool = max(0,t−60)
+
+Substitution: Protocol cycle; physical t = 120.000000 s
+
+Result: Heat 60.000000 s; cool 60.000000 s
+
+Requested heating
+Qheat,request = Ptheat
+
+Substitution: 400.000000 W × 60.000000 s
+
+Result: 24000.000000 J
+
+Requested cooling magnitude
+Qcool,request = Ptcool
+
+Substitution: 400.000000 W × 60.000000 s
+
+Result: 24000.000000 J
+
+Lower controller enthalpy limit
+Hmin = mcice(−20)
+
+Substitution: 0.050000 × 2090 × (−20) J
+
+Result: -2090.000000 J
+
+Upper controller enthalpy limit
+Hmax = mLf + mcwater(60)
+
+Substitution: 0.050000 × 334000 + 0.050000 × 4186 × 60 J
+
+Result: 29258.000000 J
+
+Actually supplied heat
+Qin = clamp(H₀+Qheat,request,Hmin,Hmax)−H₀
+
+Substitution: clamp(-1045.000000 + 24000.000000, -2090.000000, 29258.000000) − (-1045.000000) J
+
+Result: 24000.000000 J
+
+Actually removed heat magnitude
+Qout = Hafter heat − clamp(Hafter heat−Qcool,request,Hmin,Hmax)
+
+Substitution: Hafter heat = 22955.000000 J; cooling request 24000.000000 J; limits -2090.000000 to 29258.000000 J
+
+Result: 24000.000000 J
+
+Suppressed controller demand
+Qblocked,in = Qheat,request−Qin; Qblocked,out = Qcool,request−Qout
+
+Substitution: 24000.000000−24000.000000; 24000.000000−24000.000000 J
+
+Result: Heating 0 J; cooling 0 J
+
+Net heat into sample
+Qnet = Qin − Qout
+
+Substitution: 24000.000000 − 24000.000000 J
+
+Result: 0 J
+
+Current reference enthalpy
+H = H₀ + Qnet
+
+Substitution: -1045.000000 + (0) J
+
+Result: -1045.000000 J
+
+Full fusion energy
+Qfusion = mLf
+
+Substitution: 0.050000 kg × 334000 J/kg
+
+Result: 16700.000000 J
+
+Liquid mass fraction
+f = clamp(H/(mLf),0,1)
+
+Substitution: clamp(-1045.000000 / 16700.000000,0,1)
+
+Result: 0 = 0 %
+
+Liquid and ice masses
+mwater = mf; mice = m(1−f)
+
+Substitution: 50.000000 × 0; 50.000000 × (1−0) g
+
+Result: Water 0 g; ice 50.000000 g
+
+Temperature from current phase
+T = H/(mcice)
+
+Substitution: -1045.000000 / (0.050000 × 2090)
+
+Result: -10.000000 °C
+
+Sensible and latent inventory cross-check
+H = Hice,sensible + Hlatent + Hwater,sensible
+
+Substitution: -1045.000000 + 0 + 0 J
+
+Result: -1045.000000 J
+
+Conserved sample mass
+mtotal = mice + mwater
+
+Substitution: 50.000000 + 0 g
+
+Result: 50.000000 g
+
+Separate phase volumes
+Vice = mice/ρice; Vwater = mwater/ρwater
+
+Substitution: 50.000000 / 0.917; 0 / 1 mL
+
+Result: Ice 54.525627 mL; water 0 mL
+
+Receiver area and representative ice side
+A = πr²; side = ∛Vice
+
+Substitution: π × 4² cm²; ∛(54.525627 cm³)
+
+Result: Area 50.265482 cm²; side 3.791987 cm
+
+Geometry liquid inventory check
+Vwater = Ahwater − Vsubmerged ice
+
+Substitution: 50.265482 × 0 − 0 cm³
+
+Result: 0 mL
+
+Ice weight and buoyancy
+Wice = (mice/1000)g; B = (ρwaterVdisplaced/1000)g
+
+Substitution: 50.000000 × 9.81 / 1000; 1 × 0 × 9.81 / 1000 N
+
+Result: Weight 0.490500 N; buoyancy 0 N
+
+Floor support force
+Nfloor = max(0,Wice−B)
+
+Substitution: max(0, 0.490500−0) N
+
+Result: 0.490500 N; floor-supported representative cube

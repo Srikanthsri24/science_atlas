@@ -1,0 +1,23 @@
+✔ winnowing notebook rejects unit coercion, invalid marker identities and unsupported ranges (48.142823ms)
+✔ record retention and text caps preserve numeric measurements (8.927851ms)
+✔ empty fractions stay undefined and incomplete runs remain provisional in actual report (50.609878ms)
+✔ report escapes notes and retains force substitutions for an actually airborne example (1.734666ms)
+✔ exam report visibly separates formulas, substitutions and results instead of a single dense paragraph (1.951045ms)
+✔ all source/air/capture inventories conserve both reference materials (292.935763ms)
+✔ still-air trajectory matches the independent analytic quadratic-drag fall solution (5.625873ms)
+✔ vector drag uses total relative speed and opposes relative particle motion (0.414369ms)
+✔ impact event and routes converge under independent time-step refinement (7.789342ms)
+✔ no wind fails to separate the near fraction; incomplete recovery is never reported as complete (0.799219ms)
+✔ moving the capture divider reclassifies landed material without changing flight dynamics (0.890711ms)
+✔ reference effective drag response distinguishes husk from rice and strong wind can lose rice (0.545191ms)
+✔ trajectory interpolation stays bounded and capture retains kernels at rest (1.469015ms)
+✔ guide timing, worked substitutions, units and invalid inputs remain explicit (2.296886ms)
+✔ structured calculations separate kernel forces, bulk mass, undefined purity and provisional recovery (1.293569ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 983.904197

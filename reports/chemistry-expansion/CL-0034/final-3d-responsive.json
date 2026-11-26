@@ -1,0 +1,282 @@
+[
+  {
+    "label": "whole-3d-theatre-320",
+    "canvasHeight": 280.5,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-theatre-390",
+    "canvasHeight": 410.3125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-theatre-820",
+    "canvasHeight": 858.40625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-theatre-1280",
+    "canvasHeight": 654.09375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-theatre-1920",
+    "canvasHeight": 744.140625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-320",
+    "canvasHeight": 280.5,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-390",
+    "canvasHeight": 410.3125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-820",
+    "canvasHeight": 858.40625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1280",
+    "canvasHeight": 654.09375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1920",
+    "canvasHeight": 744.140625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-320",
+    "canvasHeight": 360.828125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-390",
+    "canvasHeight": 485.2734375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-820",
+    "canvasHeight": 706,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1280",
+    "canvasHeight": 281.1875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1920",
+    "canvasHeight": 589.4375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-320",
+    "canvasHeight": 360.828125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-390",
+    "canvasHeight": 485.2734375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-820",
+    "canvasHeight": 706,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-1280",
+    "canvasHeight": 281.1875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "whole-3d-1920",
+    "canvasHeight": 589.4375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-320",
+    "canvasHeight": 360.828125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-390",
+    "canvasHeight": 485.2734375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-820",
+    "canvasHeight": 706,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1280",
+    "canvasHeight": 281.1875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1920",
+    "canvasHeight": 589.4375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-320",
+    "canvasHeight": 280.5,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-390",
+    "canvasHeight": 410.3125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-820",
+    "canvasHeight": 858.40625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1280",
+    "canvasHeight": 684.046875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1920",
+    "canvasHeight": 789.0703125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-320",
+    "canvasHeight": 360.828125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-390",
+    "canvasHeight": 485.2734375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-820",
+    "canvasHeight": 706,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1280",
+    "canvasHeight": 281.1875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-1920",
+    "canvasHeight": 589.4375,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-320",
+    "canvasHeight": 280.5,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-390",
+    "canvasHeight": 410.3125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-820",
+    "canvasHeight": 858.40625,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1280",
+    "canvasHeight": 684.046875,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  },
+  {
+    "label": "lid-3d-theatre-1920",
+    "canvasHeight": 789.0703125,
+    "contained": true,
+    "footerClearance": 8,
+    "pageOverflow": false
+  }
+]

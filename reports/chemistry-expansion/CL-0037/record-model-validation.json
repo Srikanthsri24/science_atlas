@@ -1,0 +1,5 @@
+{
+  "passed": 24,
+  "failed": 0,
+  "scope": "Actual persisted table inputs, mean, RMS, CV and nearly-uniform status compared with tested model. Six-decimal time display rounding allowed."
+}

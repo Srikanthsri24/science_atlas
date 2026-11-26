@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 1062.0546875,
+    "h": 648.3125,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 413.7421875
+  },
+  "footer": {
+    "bottom": 1146.7421875,
+    "h": 33.5,
+    "right": 1174.5,
+    "w": 464,
+    "x": 710.5,
+    "y": 1113.2421875
+  },
+  "guide": "32.495399999993886",
+  "height": 1080,
+  "legend": {
+    "bottom": 1113.2421875,
+    "h": 51.1875,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 1062.0546875
+  },
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 1154.7421875,
+    "h": 800,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 354.7421875
+  },
+  "texts": [],
+  "time": "0.04177717142856008",
+  "width": 1920,
+  "name": "3d-gap-portrait-normal-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

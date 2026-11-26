@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": 773.8515625,
+    "h": 642.8515625,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 842.046875,
+    "h": 33.5,
+    "right": 1272,
+    "w": 1264,
+    "x": 8,
+    "y": 808.546875
+  },
+  "guide": "73.71429999998838",
+  "height": 960,
+  "legend": {
+    "bottom": 808.546875,
+    "h": 34.6953125,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 773.8515625
+  },
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 850.046875,
+    "h": 778.046875,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "waitS": "10.971439999990707",
+  "width": 1280,
+  "withdrawalMl": "0",
+  "name": "3d-bed-theatre-1280",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 429.3125,
+    "h": 298.3125,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 514,
+    "h": 33.5,
+    "right": 836,
+    "w": 828,
+    "x": 8,
+    "y": 480.5
+  },
+  "guide": "110",
+  "height": 390,
+  "legend": {
+    "bottom": 480.5,
+    "h": 51.1875,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 429.3125
+  },
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 522,
+    "h": 450,
+    "right": 844,
+    "w": 844,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "time": "0.03",
+  "width": 844,
+  "name": "polished-3d-phone-landscape-theatre",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

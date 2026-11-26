@@ -1,0 +1,20 @@
+✔ closed meniscus mesh agrees with stated volume within finite-facet tolerance (56.205582ms)
+✔ observer, lowest point, front-scale intersection and finite reservoir share the model coordinates (2.316461ms)
+✔ fixed eye camera projects the lowest point and front-scale ray intersection to the same pixel (15.104821ms)
+✔ cylinder records validate every required input and preserve bounded notes and trials (3.828066ms)
+✔ worked substitutions separate front-scale geometry, rounding and actual volume (0.877946ms)
+✔ exam report contains both valid and no-reading observations and escaped student text (0.962187ms)
+✔ cylinder fills by delivered volume and conserves the finite water inventory (3.169784ms)
+✔ integrated concave meniscus contains the stated volume, including tiny initial fills (24.744297ms)
+✔ model graduations align with the lowest meniscus point and resolve one millilitre (0.885754ms)
+✔ independent ray interpolation verifies the front-scale parallax sign and distance scaling (0.610877ms)
+✔ empty, below-range and off-scale projections never invent a valid measured reading (0.449506ms)
+✔ 110-second guide holds the same filled water while moving only the observer and validates boundaries (1.952167ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1158.977064

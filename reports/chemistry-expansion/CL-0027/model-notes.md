@@ -1,0 +1,11 @@
+# CL-0027 — Balance mass comparison
+
+Internal derivation; not a calibration claim or official curriculum mapping.
+
+Positive angle lowers the sample pan. With equal arms L, net gravitational drive is (m_sample − m_reference)gL cos θ. A beam centre of mass d below the pivot contributes −Mgd sin θ. Linear damping contributes −cω. Integrate Iθ̈ = drive − restoring − damping with RK4, maximum step 1/240 s. I includes the uniform beam, its displaced centre of mass, equal 15 g pans and both samples. Input masses convert from g to kg before evaluating torques in N m. Pan suspension swing is excluded. Stops at ±12° are inelastic and never constitute a level mass reading.
+
+At rest away from stops, tan θ = (m_sample − m_reference)L/(Md). At level balance θ = 0 and equal arms imply m_sample = m_reference. Gravity cancels from the equilibrium angle; it remains in the dynamics. Damping dissipates energy. Numerical model output does not imply instrument accuracy.
+
+Thirteen targeted automated checks cover torque substitution, symmetry, heavier-pan descent, analytic equilibrium, gravity cancellation, energy conservation/dissipation, stop behaviour, invalid inputs, guide resets and worked calculations. UI and practical review completed: 110-second revised guide played live, both viewers checked across five viewport sizes, fourteen GUI trials exported with worked calculations and persisted notes. Full regression 1928 passed; chemistry suite 238 passed; final TypeScript and production build passed. Scope is internal engineering/model-consistency review, not independent expert or physical-device certification.
+
+Scientific reference checked privately: OpenStax, University Physics Volume 1, §12.1 Conditions for Static Equilibrium and §12.2 Examples of Static Equilibrium, https://openstax.org/books/university-physics-volume-1/pages/12-1-conditions-for-static-equilibrium and https://openstax.org/books/university-physics-volume-1/pages/12-2-examples-of-static-equilibrium (accessed 2026-11-25). Supports the zero-net-torque criterion and gravitational torque at the centre of mass. Parameter choices, damping, stops, constrained pans and the animation are original teaching-model assumptions rather than claims taken from the textbook. No external references are exposed in the product UI.

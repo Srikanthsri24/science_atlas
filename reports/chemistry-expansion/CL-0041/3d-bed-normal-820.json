@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "bottom": 207.203125,
+    "h": 327.4140625,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": -120.2109375
+  },
+  "footer": {
+    "bottom": 312.7890625,
+    "h": 33.5,
+    "right": 785,
+    "w": 540,
+    "x": 245,
+    "y": 279.2890625
+  },
+  "guide": "67.65119999998876",
+  "height": 1180,
+  "legend": {
+    "bottom": 279.2890625,
+    "h": 72.0859375,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": 207.203125
+  },
+  "scrollWidth": 820,
+  "stage": {
+    "bottom": 320.7890625,
+    "h": 500,
+    "right": 793,
+    "w": 556,
+    "x": 237,
+    "y": -179.2109375
+  },
+  "texts": [],
+  "waitS": "6.120959999991009",
+  "width": 820,
+  "withdrawalMl": "0",
+  "name": "3d-bed-normal-820",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

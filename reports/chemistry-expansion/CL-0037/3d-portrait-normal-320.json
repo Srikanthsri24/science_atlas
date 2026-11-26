@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 885.8671875,
+    "h": 380.828125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 505.0390625
+  },
+  "footer": {
+    "bottom": 927.3671875,
+    "h": 33.5,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 893.8671875
+  },
+  "guide": "86.2",
+  "height": 740,
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 935.3671875,
+    "h": 501.328125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 434.0390625
+  },
+  "svgTexts": [],
+  "time": "1715",
+  "width": 320,
+  "name": "3d-portrait-normal-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

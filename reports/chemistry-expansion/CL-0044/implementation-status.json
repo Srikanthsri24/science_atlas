@@ -1,0 +1,29 @@
+{
+  "labId": "CL-0044",
+  "status": "ready",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 18,
+    "failed": 0,
+    "scope": "8 model,6 rendering/geometry/camera,4 record/report"
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/inkChromatography.ts": "292f682a3d8b1525ab84c55c735a37ec909cab4d02ebf4ced1bdecf3645fa900",
+    "tests/chemistry-ink-chromatography.test.mjs": "2405d30375398568df0a1917f5a6592f2d7570283ffa2fdb2e3497b12083ec0b"
+  },
+  "recordImplemented": true,
+  "regressionTests": {
+    "passed": 2177,
+    "failed": 0
+  },
+  "finalTypeScript": "passed",
+  "targetedTests": {
+    "passed": 18,
+    "failed": 0
+  },
+  "actualGuiTrials": 30,
+  "finalBuild": "passed",
+  "sourcePublicDistReadyCount": 44,
+  "preExistingStagedBlobsPreserved": 146
+}

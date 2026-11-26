@@ -1,0 +1,13 @@
+{
+  "buttons": [
+    "2D view",
+    "3D view",
+    "Exit theatre",
+    "Replay guide"
+  ],
+  "caption": "110-SECOND GUIDED INVESTIGATION\n\nRecord both model threshold times. Calculate time ratio t_A/t_B and separate that comparison from average rate in g/s. These chosen transfer coefficients are teaching assumptions, not measured kitchen-sugar times.\n\nThe guide advances 1.5 model seconds per second during its 80-second experiment. Manual playback is 1× model time. Chosen kinetics are not calibrated real-world times. Starting-water levels are reference geometry; solution-volume changes are excluded.",
+  "guide": "110",
+  "time": "120",
+  "observedWallSeconds": 178.904,
+  "recordEnabled": true
+}

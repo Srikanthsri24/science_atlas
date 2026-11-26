@@ -1,0 +1,33 @@
+{
+  "guideSeekEnd": "110",
+  "replayFromEnd": "0",
+  "pausedCanRecord": true,
+  "resumedLocksRecord": true,
+  "manualPauseResume": true,
+  "eyeLevelButton": true,
+  "parametersTested": {
+    "targetMl": [
+      10,
+      50,
+      50.5,
+      100
+    ],
+    "eyeOffsetCm": [
+      -2,
+      0,
+      2
+    ],
+    "eyeDistanceCm": [
+      6,
+      8,
+      12
+    ],
+    "fillTimeS": [
+      0,
+      2,
+      16.1953,
+      20
+    ]
+  },
+  "scope": "GUI controls and model geometry; not physical-device certification"
+}

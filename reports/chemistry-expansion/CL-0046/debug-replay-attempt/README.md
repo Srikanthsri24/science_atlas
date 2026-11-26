@@ -1,0 +1,1 @@
+The first footer start attempted during a viewport/view transition still showed the ended120s state. It is not evidence of3D playback. A fresh toolbar Replay started the verified3D run at0.9877s; that run was then paused at54.2014s for layout checks and resumed. Stable footer replay is checked separately. No server restart was performed.

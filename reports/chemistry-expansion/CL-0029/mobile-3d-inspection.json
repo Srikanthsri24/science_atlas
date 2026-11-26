@@ -1,0 +1,27 @@
+{
+  "canvases": [
+    {
+      "height": 238.3046875,
+      "width": 390,
+      "x": 0,
+      "y": 149
+    },
+    {
+      "height": 238.3046875,
+      "width": 390,
+      "x": 0,
+      "y": 389.3046875
+    }
+  ],
+  "guide": "0",
+  "height": 844,
+  "overflow": false,
+  "stage": {
+    "bottom": 627.609375,
+    "left": 0,
+    "right": 390,
+    "top": 97
+  },
+  "time": "36",
+  "width": 390
+}

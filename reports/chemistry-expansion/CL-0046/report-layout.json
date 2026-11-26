@@ -1,0 +1,20 @@
+[
+  {
+    "bodyFont": "16px",
+    "height": 900,
+    "numericNoWrap": true,
+    "pageOverflow": false,
+    "rows": 27,
+    "tableScroll": true,
+    "width": 1280
+  },
+  {
+    "bodyFont": "16px",
+    "height": 900,
+    "numericNoWrap": true,
+    "pageOverflow": false,
+    "rows": 27,
+    "tableScroll": true,
+    "width": 320
+  }
+]

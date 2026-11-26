@@ -1,0 +1,11 @@
+{
+  "lab": "CL-0029",
+  "status": "passed_internal_functional_review",
+  "targetedTests": 12,
+  "fullRegressionTests": 1953,
+  "chemistryTests": 263,
+  "animationSeconds": 110,
+  "manualModelSeconds": 180,
+  "guiTrials": 16,
+  "remaining": []
+}

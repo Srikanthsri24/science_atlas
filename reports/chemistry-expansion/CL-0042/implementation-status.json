@@ -1,0 +1,31 @@
+{
+  "labId": "CL-0042",
+  "status": "ready",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 16,
+    "failed": 0,
+    "scope": "8 model,4 record/report,4 geometry; model-only development checkpoint, not completed browser lab"
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/filterComparison.ts": "064d090d95dad516b628816437b40748bc9a73acc361f7a730b585186c78d18f",
+    "src/lib/chemistry/filterComparisonRecord.ts": "25cc213b1c570d547a306d0831c81af9468d84c7f92cb464398d4962a172d1e0",
+    "src/lib/chemistry/filterComparisonGeometry.ts": "ba074270d91a285ab9f956e26e73dec986c2eb99f233349bde550cd6acf8a33e",
+    "src/components/chemistry/FilterComparisonLab.tsx": "cf4c9dd3081b39bb020da96178364f4f400d76d7e3a807db63fd1cb4666c8c6f",
+    "src/components/chemistry/FilterComparisonDiagram.tsx": "761da6057f7984c072484e327c57fbb22ada2ef813cb3d6e83a44fda6a7e1125",
+    "src/components/chemistry/FilterComparisonScene.tsx": "ce6bc78b4b67585aa3a8a3d1024854f52327f98beb626ceb5bce86dde599f041",
+    "src/components/chemistry/filterComparison.css": "869ed5e3ac20cdac380e0319b0dac9a0d7df8d639e95b0385e0c0f726de16490",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "recordImplemented": true,
+  "geometryImplemented": true,
+  "regressionTests": {
+    "passed": 2141,
+    "failed": 0
+  },
+  "typescript": "passed",
+  "reviewStatus": "passed_internal_functional_review"
+}

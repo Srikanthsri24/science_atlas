@@ -1,0 +1,38 @@
+{
+  "labId": "CL-0046",
+  "status": "ready",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 21,
+    "failed": 0,
+    "scope": "10 model,7 geometry/camera,4 record/report"
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/eyeParallaxGeometry.ts": "0a054360bc4b9984c6704d89b584b5e7540bb332b4ce0d60b4841cb302ba9458",
+    "src/lib/chemistry/eyeParallaxRecord.ts": "26ffdf5d11136f5314ef19a052bef503c5feed87ab6b2a306dd040ce49b8c05d",
+    "src/lib/chemistry/eyeParallax.ts": "12b1bb11e28a44c9cbbada5980e02af3b9cc8b43910172a3a20f608790f61025",
+    "src/lib/chemistry/volumeReadings.ts": "f3ecb04dd25f355f3fa469502d468c88299e37654775626f0a89540e8a0c693f",
+    "src/lib/chemistry/volumeReadingsGeometry.ts": "ead458b4d053bcace7c4d77018a817b899c8567c5e9368a929fba3fac78fc0b0",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/EyeParallaxLab.tsx": "d8ab05bc0b43adb56c3dad7dfbfa3a54fcd3487260ecf7e70eb220ea690a8c40",
+    "src/components/chemistry/EyeParallaxDiagram.tsx": "7d98043a8afda321b48f4a1d903bdefb966123aa6239de24c707b4a07e996aab",
+    "src/components/chemistry/EyeParallaxScene.tsx": "a923f711bed7459d36a5d1e62105b06e9903404428a1c3bbddabdd0b120ae5ae",
+    "src/components/chemistry/eyeParallax.css": "a5c7728c9e064cd10b8d0d120766e70f116cde541117c6a54b54f203c8bbac42",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-eye-parallax.test.mjs": "ac87bb45b76243005ebbb7fe0acb7e959e45b766b240fe9e426af5bf40c63e5d",
+    "tests/chemistry-eye-parallax-record.test.mjs": "63a69783e9f885a3b37fadeaf63ad2c918a9cf06a90f2bba524dd219d9654300",
+    "tests/chemistry-eye-parallax-geometry.test.mjs": "b2fac2802ef6d86f3e114c06079a24179763077e1967de7ab24a88f5842b4e88"
+  },
+  "finalTypeScript": "passed",
+  "regressionTests": {
+    "passed": 2218,
+    "failed": 0
+  },
+  "build": "passed",
+  "actualGuiTrials": 27,
+  "releaseBuild": "passed",
+  "sourcePublicDistReadyCount": 46
+}

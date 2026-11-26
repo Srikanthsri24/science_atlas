@@ -1,0 +1,48 @@
+{
+  "canvas": {
+    "bottom": 725.8984375,
+    "h": 594.8984375,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 794.09375,
+    "h": 33.5,
+    "right": 1272,
+    "w": 1264,
+    "x": 8,
+    "y": 760.59375
+  },
+  "guide": "69.42690000001313",
+  "height": 960,
+  "left": "5",
+  "legend": {
+    "bottom": 760.59375,
+    "h": 34.6953125,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 725.8984375
+  },
+  "right": "25",
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 802.09375,
+    "h": 730.09375,
+    "right": 1280,
+    "w": 1280,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "timeS": "204.10087500004926",
+  "width": 1280,
+  "name": "3d-all-landscape-theatre-1280",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true,
+  "camera": null,
+  "cameraSelected": "all"
+}

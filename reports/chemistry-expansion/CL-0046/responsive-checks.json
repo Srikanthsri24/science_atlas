@@ -1,0 +1,425 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "file": "2d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-expanded-readings-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-meniscus-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-meniscus-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-meniscus-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-meniscus-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-meniscus-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-moving-check.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-side-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-side-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-side-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-side-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-side-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-30-above-landscape-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-30-above-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-30-below-landscape-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-30-below-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-70-above-landscape-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-70-above-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-70-below-landscape-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "boundary-70-below-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "expanded-calculations-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-2d-final.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-2d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-3d-optimized.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-3d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-2d-current.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-2d-final-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-2d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-3d-optimized-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-3d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "initial-3d-above.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "initial-3d-side.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "initial-concealed.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "large-type-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "optimized-reference-triangle-3d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "reference-triangle-3d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-all-geometry.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-meniscus-geometry.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-ready-preview.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-side-geometry.json",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

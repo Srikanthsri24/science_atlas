@@ -1,0 +1,20 @@
+{
+  "lab": "CL-0040",
+  "status": "ready",
+  "uiImplemented": true,
+  "reviewStatus": "passed_internal_functional_review",
+  "targetedTests": {
+    "passed": 15,
+    "failed": 0
+  },
+  "regressionTests": {
+    "passed": 2120,
+    "failed": 0
+  },
+  "final2DGuideSeconds": 110,
+  "final3DGuideSeconds": 110,
+  "finalResponsiveChecks": 62,
+  "actualBrowserObservations": 24,
+  "build": "passed",
+  "typescript": "passed"
+}

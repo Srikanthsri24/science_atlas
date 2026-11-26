@@ -1,0 +1,47 @@
+{
+  "camera": "crystals",
+  "canvas": {
+    "bottom": 728.4140625,
+    "h": 233.0234375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 495.390625
+  },
+  "footer": {
+    "bottom": 886.890625,
+    "h": 49,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 837.890625
+  },
+  "guide": "13.381099999988221",
+  "height": 740,
+  "legend": {
+    "bottom": 837.890625,
+    "h": 109.4765625,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 728.4140625
+  },
+  "rate": "0.0005",
+  "salt": "10",
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 894.890625,
+    "h": 500,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 394.890625
+  },
+  "texts": [],
+  "timeS": "0",
+  "width": 320,
+  "name": "3d-crystals-normal-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

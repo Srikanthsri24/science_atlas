@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 167.15625,
+    "h": 298.3125,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": -131.15625
+  },
+  "footer": {
+    "bottom": 251.84375,
+    "h": 33.5,
+    "right": 809,
+    "w": 564,
+    "x": 245,
+    "y": 218.34375
+  },
+  "guide": "71.77629999999382",
+  "height": 390,
+  "legend": {
+    "bottom": 218.34375,
+    "h": 51.1875,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": 167.15625
+  },
+  "scrollWidth": 844,
+  "stage": {
+    "bottom": 259.84375,
+    "h": 450,
+    "right": 817,
+    "w": 580,
+    "x": 237,
+    "y": -190.15625
+  },
+  "texts": [],
+  "time": "0.11472741428570282",
+  "width": 844,
+  "name": "3d-phone-landscape-normal",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

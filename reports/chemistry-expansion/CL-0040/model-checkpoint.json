@@ -1,0 +1,11 @@
+{
+  "status": "model_and_record_only_not_completed_lab",
+  "targetedTests": 15,
+  "failed": 0,
+  "sourceHashes": {
+    "src/lib/chemistry/magneticSeparation.ts": "130dce19ff0a738319f7131faf4a51008dad2ca8b9a5475b084e6cf1a368ac33",
+    "src/lib/chemistry/magneticSeparationRecord.ts": "93632ffffc775977f6aa8fc09393465220f6c25b507eaa37a15fa575b9bd397b",
+    "tests/chemistry-magnetic-separation.test.mjs": "23861330cbd7e88f24b860135acd3c92b02924effa089f597691ad2876f47324",
+    "tests/chemistry-magnetic-separation-record.test.mjs": "8bcbd93fa947f7278a32de4699ca7c577ad4f105483ff4c330354bdf848e1e56"
+  }
+}

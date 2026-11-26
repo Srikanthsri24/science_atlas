@@ -1,0 +1,3 @@
+# Global quality-review follow-up
+
+CL-0043 browser QA exposed a world-space orthographic-frustum centring error: centre offsets must not be multiplied by zoom. Its fix is covered by actual Three projection tests including asymmetric bounds. Before final global delivery, audit earlier viewers for the same centring invariant and inspect any non-centred camera bounds. Centred bounds can mask the arithmetic issue; do not assume every earlier viewer is visibly defective. Preserve reviewed source hashes until any affected lab is explicitly reopened, corrected and reverified. This follow-up is not independent expert certification and does not replace individual lab QA.

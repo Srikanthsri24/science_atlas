@@ -1,0 +1,65 @@
+{
+  "table": "Dissolved, suspended and settled material are different states of the evidence\nTrial\tRadius µm\tTime s\tSalt dissolved g\tPowder suspended g\tPowder settled g\tBed mm\tClear layer mm\tSpeed mm/s\tMy observation\n1\t10\t0.000000\t2.000000\t2.000000\t0.000000\t0.000000\t0.000000\t0.370600\t\n2\t5\t300.000000\t2.000000\t1.301676\t0.698324\t0.344851\t27.795000\t0.092650\t\n3\t10\t100.000000\t2.000000\t1.068902\t0.931098\t0.459801\t37.060000\t0.370600\t\n4\t10\t200.000000\t2.000000\t0.137804\t1.862196\t0.919603\t74.120000\t0.370600\t\n5\t10\t214.800157\t2.000000\t0.000000\t2.000000\t0.987654\t79.604938\t0.370600\t\n6\t10\t300.000000\t2.000000\t0.000000\t2.000000\t0.987654\t79.604938\t0.370600\t\n7\t5\t100.000000\t2.000000\t1.767225\t0.232775\t0.114950\t9.265000\t0.092650\t\n8\t5\t859.200629\t2.000000\t0.000000\t2.000000\t0.987654\t79.604938\t0.092650\t\n9\t15\t0.000000\t2.000000\t2.000000\t0.000000\t0.000000\t0.000000\t0.833850\t\n10\t15\t95.466737\t2.000000\t0.000000\t2.000000\t0.987654\t79.604938\t0.833850\t\n11\t15\t1000.000000\t2.000000\t0.000000\t2.000000\t0.987654\t79.604938\t0.833850\t\n12\t10\t15.501700\t2.000000\t1.855664\t0.144336\t0.071277\t5.744930\t0.370600\t\n13\t10\t27.890200\t2.000000\t1.740315\t0.259685\t0.128240\t10.336108\t0.370600\t",
+  "notes": [
+    {
+      "label": "Suspension prediction",
+      "value": "QA: prepared salt should remain dissolved, while insoluble model powder settles. At the same time,5µm particles should settle more slowly than10µm particles."
+    },
+    {
+      "label": "Suspension observation 1",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 2",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 3",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 4",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 5",
+      "value": "QA: predicted10µm completion reached;2g settled, with bed depth0.987654mm."
+    },
+    {
+      "label": "Suspension observation 6",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 7",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 8",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 9",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 10",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 11",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 12",
+      "value": ""
+    },
+    {
+      "label": "Suspension observation 13",
+      "value": ""
+    },
+    {
+      "label": "Suspension conclusion",
+      "value": "QA result: at100s the10µm suspension had0.931098g settled and1.068902g suspended. At100s the fresh5µm sample had0.232775g settled. The reference speeds were0.370600 and0.092650mm/s: the finer sample moved at one quarter of the speed. Predicted completion times were214.800157 and859.200629s. Suspended plus settled powder remained2g, and the prepared solution retained2g dissolved salt. Each whole sample retained102g. Stokes settling, dilute spherical particles, reference fluid properties and packing0.6 are ideal assumptions, not calibrated chalk results."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+✔ paired stirring changes only the selected stirring coefficient and conserves both samples (3.88778ms)
+✔ equal settings give identical trajectories and exchanging labels swaps outputs (1.117415ms)
+✔ threshold times reach exactly nine grams and independently obey inverse coefficient scaling (2.864271ms)
+✔ after fast completion instantaneous rate can be lower despite a faster threshold time (0.53744ms)
+✔ 110-second guide keeps one paired experiment continuous and reports actual threshold state (5.888613ms)
+✔ invalid settings, times and guide inputs are rejected (1.459545ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1075.694893

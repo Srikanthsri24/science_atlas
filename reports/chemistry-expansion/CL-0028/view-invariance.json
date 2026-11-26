@@ -1,0 +1,11 @@
+{
+  "before": {
+    "readings": "A solid + dissolved\n7.343649 + 2.656351 = 10 g\nB solid + dissolved\n1.370962 + 8.629038 = 10 g\n9 g target: A / B\nNot reached / Not reached\nPredicted model times to 9 g: A / B\n66.434 / 13.287 s\nTime ratio t_A / t_B\n5.000 · dimensionless\nInstantaneous rate A / B\n0.198384 / 0.319230 g/s",
+    "time": "12"
+  },
+  "after": {
+    "readings": "A solid + dissolved\n7.343649 + 2.656351 = 10 g\nB solid + dissolved\n1.370962 + 8.629038 = 10 g\n9 g target: A / B\nNot reached / Not reached\nPredicted model times to 9 g: A / B\n66.434 / 13.287 s\nTime ratio t_A / t_B\n5.000 · dimensionless\nInstantaneous rate A / B\n0.198384 / 0.319230 g/s",
+    "time": "12"
+  },
+  "unchanged": true
+}

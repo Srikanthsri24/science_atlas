@@ -1,0 +1,4 @@
+{
+  "conclusion": "The same 50 mL gave readings of 52 mL above, 48 mL below and 50 mL at eye level at horizontal distance D = 8 cm. For a +2 cm eye offset, the slanted sight-line length was 8.246211 cm. Parallax 1.533981 mL plus rounding 0.466019 mL gave total error 2 mL. Off-scale projections were not treated as measured readings. Half a division is rounding resolution only. The meniscus and front-scale calibration are idealized and refraction is excluded.",
+  "distanceLabel": "Horizontal eye distance: 8 cm"
+}

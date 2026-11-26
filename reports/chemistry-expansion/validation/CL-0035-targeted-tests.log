@@ -1,0 +1,22 @@
+✔ melting geometry independently conserves liquid and solid volumes without their intersection (5.886843ms)
+✔ supported ice transitions continuously to buoyant flotation at its independently derived threshold (0.575338ms)
+✔ sixty compact salt grains conserve solid volume and clear each other, vessel walls and rotating stirrer (2.263123ms)
+✔ comparison records reject unsupported states and versions without inventing observations (0.699225ms)
+✔ bounded notes and latest-sixty records round-trip unchanged (7.075754ms)
+✔ actual per-trial exam reports escape notes and include heat, solution concentration and controls (1.704882ms)
+✔ sub-resolution positive measurements remain distinguishable from zero (0.355369ms)
+✔ separate melting and dissolving vessels conserve their own matter at all supported boundaries (4.582027ms)
+✔ independent power/latent substitution gives the phase plateau and continuous full-melt boundary (0.390951ms)
+✔ independent numerical enthalpy integration checks heat flow across the latent plateau and liquid warming (18.946982ms)
+✔ no supplied heat does not stop a separate salt solution from forming (1.976616ms)
+✔ stirring changes rate without changing equilibrium capacity or residual; water and solution denominators differ (0.8062ms)
+✔ independent dissolved-mass numerical integration agrees with analytic values without finite-time disappearance (4.964395ms)
+✔ 110-second guide advances900 model seconds and invalid numeric or categorical settings are rejected (0.956823ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 753.306676

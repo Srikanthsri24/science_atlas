@@ -1,0 +1,6 @@
+{
+  "conclusion": "The same 50 mL gave front-scale readings of 52 mL above, 48 mL below and 50 mL at eye level at an 8 cm observer distance. In the raised-eye trial, parallax 1.533981 mL plus rounding 0.466019 mL gave a total error of 2 mL. Off-scale projections were not treated as measured readings. Half a 1 mL division describes rounding resolution, not every physical error. The meniscus and thin front-scale geometry are idealized and refraction is excluded.",
+  "note": "Water stayed at 50 mL. With the eye +2 cm at 8 cm distance, projection was 51.533981 mL and nearest-division reading 52 mL.",
+  "prediction": "Changing eye height should change the apparent front-scale reading without adding or removing water. An eye level with the lowest meniscus should remove geometric parallax in this model.",
+  "rows": 15
+}

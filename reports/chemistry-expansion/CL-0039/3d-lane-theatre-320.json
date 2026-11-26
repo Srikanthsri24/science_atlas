@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 450.5,
+    "h": 160.5,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 290
+  },
+  "footer": {
+    "bottom": 529,
+    "h": 33.5,
+    "right": 312,
+    "w": 304,
+    "x": 8,
+    "y": 495.5
+  },
+  "guide": "50.2",
+  "height": 740,
+  "legend": {
+    "bottom": 487.5,
+    "h": 37,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 450.5
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 537,
+    "h": 440,
+    "right": 320,
+    "w": 320,
+    "x": 0,
+    "y": 97
+  },
+  "texts": [],
+  "time": "37.72",
+  "width": 320,
+  "name": "3d-lane-theatre-320",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

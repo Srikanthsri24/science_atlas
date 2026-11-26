@@ -1,0 +1,22 @@
+{
+  "start": {
+    "guide": "9.96649999999395",
+    "widths": [
+      "29.533909599778664",
+      "29.533909599778664",
+      "29.533909599778664",
+      "29.533909599778664",
+      "7.383477399944666"
+    ]
+  },
+  "later": {
+    "caption": "EQUAL MASS · DIFFERENT GRAIN SIZE10 g sugar · 200 mL water · 20 °C eachCELL A · 8 grains totalFront slice · hidden depth layers labelledVisible slice 4/8 · 1 depth layers hiddenSolid 1.353 g · dissolved 8.647 g9 g target: not reached · t₉ = 132.87 sInitial area 40.89 cm²CELL B · 512 grains totalFront slice · hidden depth layers labelledVisible slice 64/512 · 7 depth layers hiddenSolid 0.000 g · dissolved 10.000 g9 g target: reached · t₉ = 33.22 sInitial area 163.55 cm²120.6 model s · chosen rates · solid + dissolved = 10 g in each cell",
+    "guide": "42.15019999999402",
+    "widths": [
+      "15.162120990133825",
+      "15.162120990133825",
+      "15.162120990133825",
+      "15.162120990133825"
+    ]
+  }
+}

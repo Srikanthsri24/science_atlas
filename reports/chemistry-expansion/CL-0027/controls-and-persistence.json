@@ -1,0 +1,9 @@
+{
+  "replayTime": "0.16959999999403955",
+  "pauseTime": "0.7019999999940336",
+  "conclusion": "QA report: equal 50 g loads gave a level beam and equal 0.058860000 N m torques. By m_sample = m_reference × L_right/L_left, 50 × 0.120/0.120 = 50 g. Unequal loads can settle at a nonzero angle or contact a stop; neither establishes level balance. Gravity changes forces, while equal-arm mass comparison remains unchanged. The model excludes pan swing, bearing friction, buoyancy and instrument calibration.",
+  "note": "QA evidence: extending the release to 60 s allowed the 50/49 g comparison to settle away from level.",
+  "overflow": false,
+  "rows": 14,
+  "theatreClosed": true
+}

@@ -1,0 +1,36 @@
+{
+  "labId": "CL-0050",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "targetedTests": {
+    "passed": 20,
+    "failed": 0
+  },
+  "fullRegression": {
+    "passed": 2299,
+    "failed": 0
+  },
+  "animationSeconds": 120,
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/evaporationAreaGeometry.ts": "5a63be945d43f140dc508d225cbdc7075b199a252059d8f746ba6eb02505fc4a",
+    "src/lib/chemistry/evaporationArea.ts": "1822c5d73ec8c70b06941ee1a22a8f47eec0cf245cd036efc6144d6c6d3ec112",
+    "src/lib/chemistry/evaporationAreaRecord.ts": "68da402865f8aa14c6868d5811c5aa40275162f93d27edf3b00f0336584394dc",
+    "src/components/chemistry/EvaporationAreaLab.tsx": "f896fb5faf736c2c49609b22a601e9457a2d7b78f224df572f8313bcc0a704b2",
+    "src/components/chemistry/EvaporationAreaDiagramPanel.tsx": "9312a09c60677c738c5459c6fc71d845016c1c3f7c23d29e12983bfb3368417c",
+    "src/components/chemistry/EvaporationAreaScene.tsx": "0cada79de2d80b32986a661aa1af0d8daade20f9ac930faa584fabb88dd6b2c5",
+    "src/components/chemistry/EvaporationAreaDiagram.tsx": "32b4fb7021a5b5277f111e8cfe072e204c00b032f3218c523063e6b0432dde9b",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "tests/chemistry-evaporation-area-geometry.test.mjs": "13822747e8c464d0ae559562a783633b8a78dd607aaf7b8e8af965cd7a2711ad",
+    "tests/chemistry-evaporation-area.test.mjs": "322a30eea9deade8578889bf74b59ef1f930ce9cfe6705bfafa0076636fe34b3",
+    "tests/chemistry-evaporation-area-record.test.mjs": "09ad1c51dc1993ebfd07580b25655102d7901b2fdaf238452ebce43c97ae490d",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "isolatedReleaseRegression": {
+    "passed": 2259,
+    "failed": 0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "labId": "CL-0026",
+  "status": "completed_internal_functional_review",
+  "implemented": [
+    "finite reservoir and 20-second controlled fill into an ideal graduated cylinder",
+    "volume-conserving prescribed parabolic water meniscus",
+    "front-scale ray projection with signed geometric parallax",
+    "1 mL division/nearest-division reading and separated parallax/rounding errors",
+    "explicit empty, below-range and off-scale states without clamping a false reading",
+    "110-second fill/above/below/eye-level guided sequence with actual observer motion"
+  ],
+  "targetedTests": {
+    "passed": 12,
+    "failed": 0,
+    "scope": "Model, perspective/mesh geometry, record validation and report"
+  },
+  "typescript": "passed \u2014 final full project",
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/graduatedCylinder.ts": "9236b11c0a4ab644c3a60bf4746457694d51f82110726eb8b41854e523d02c05",
+    "src/lib/chemistry/cylinderGeometry.ts": "af912edd63060802ca3991517887172f7c3296f4e02f7df25ba2363a569ccbbd",
+    "src/lib/chemistry/cylinderRecord.ts": "594462755d2c843c3a7b6e8c507479ffce82e8f3ff4d433f1631c623f8b7dfd6",
+    "src/components/chemistry/CylinderLab.tsx": "12f6dd4ff01885b43dcefd08d8091c7d9a932e581094682cdb7c01a9e52e7302",
+    "src/components/chemistry/CylinderDiagram.tsx": "2aa11fed8eac7e357c6a17fd66e3ae770346caa0a7ffbef3c1f1c185b15c09fd",
+    "src/components/chemistry/CylinderScene.tsx": "04be7b185d68c14b7117e6e1f0f7194a4d177d5ea74c5902faa3c6a16dded28d",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f"
+  },
+  "reviewEvidence": "review.json"
+}

@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0048",
+  "status": "passed_internal_functional_review",
+  "uiImplemented": true,
+  "modelTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/equalVolumeDensity.ts": "0d6882c34ef91cde991c4299bbcb2b8a8faa16d5be5910ce82da578b228e68fb",
+    "src/lib/chemistry/equalVolumeDensityGeometry.ts": "7d022836b5446aa98e239659472c5df69ef31c2633acdba390f54ac324ffaa35",
+    "src/lib/chemistry/equalVolumeDensityRecord.ts": "5a368eded72378b8a8941c3e080524bb7920c903da649b1bd2ed557156e70214",
+    "src/components/chemistry/EqualVolumeDensityLab.tsx": "b3cdb547da337333e2ba53e1e5c3091b6257ecba0640b0cdfb4824652d45d53d",
+    "src/components/chemistry/EqualVolumeDensityDiagram.tsx": "bfa10591cb722c0a753bd1f723d340ecd570392fa45f7a225e69fa0ecb5f8b3c",
+    "src/components/chemistry/EqualVolumeDensityScene.tsx": "1d8565738743ccf9f1a9764b294bcba93cc81d81536d900354f1b2d830999574",
+    "src/components/chemistry/equalVolumeDensity.css": "060fc1457261c23b76db5403a8ee372ea89a068b1ca208f90163bc905ca9d62b",
+    "tests/chemistry-equal-volume-density.test.mjs": "7198ac73c301a3b028f794207481d652697ccc012dafddf635ba23dc7831ed6d",
+    "tests/chemistry-equal-volume-density-geometry.test.mjs": "5f61746c31753111479b9a6ef2487f58752bdc4cf547aff4b49ecce7534a7bf0",
+    "tests/chemistry-equal-volume-density-record.test.mjs": "b23aed767aa10f95f481795f1cffe3db3376957f9517c1705935e933f25e4e92",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  },
+  "regressionTests": {
+    "passed": 2254,
+    "failed": 0
+  },
+  "build": "passed",
+  "finalTypeScript": "passed",
+  "geometryTests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "practicalRecordTests": {
+    "passed": 4,
+    "failed": 0
+  }
+}

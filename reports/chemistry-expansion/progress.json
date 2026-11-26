@@ -1,8 +1,8 @@
 {
   "totalLabs": 270,
-  "completedCount": 25,
+  "completedCount": 50,
   "inProgressCount": 0,
-  "plannedCount": 245,
+  "plannedCount": 220,
   "completedLabs": [
     "CL-0001",
     "CL-0002",
@@ -28,10 +28,35 @@
     "CL-0022",
     "CL-0023",
     "CL-0024",
-    "CL-0025"
+    "CL-0025",
+    "CL-0026",
+    "CL-0027",
+    "CL-0028",
+    "CL-0029",
+    "CL-0030",
+    "CL-0031",
+    "CL-0032",
+    "CL-0033",
+    "CL-0034",
+    "CL-0035",
+    "CL-0036",
+    "CL-0037",
+    "CL-0038",
+    "CL-0039",
+    "CL-0040",
+    "CL-0041",
+    "CL-0042",
+    "CL-0043",
+    "CL-0044",
+    "CL-0045",
+    "CL-0046",
+    "CL-0047",
+    "CL-0048",
+    "CL-0049",
+    "CL-0050"
   ],
   "inProgressLabs": [],
-  "nextLab": "CL-0026",
+  "nextLab": "CL-0051",
   "goalStatus": "active",
   "classCounts": {
     "1": 12,
@@ -47,5 +72,15 @@
     "11": 36,
     "12": 38
   },
-  "completionRule": "Every listed investigation requires implemented, tested 2D and 3D interactions, appropriate animation of at least 60 seconds, responsive review and a working practical record/report. Listing a title or reusing a decorative animation does not count as completion."
+  "completionRule": "Every listed investigation requires implemented, tested 2D and 3D interactions, appropriate animation of at least 60 seconds, responsive review and a working practical record/report. Listing a title or reusing a decorative animation does not count as completion.",
+  "lastPublishedBatch": {
+    "firstLab": "CL-0001",
+    "lastLab": "CL-0025",
+    "reviewedCount": 25,
+    "commit": "df6df612d606703a22f032898928108b3fb8a5a0",
+    "branch": "main",
+    "deployment": "success",
+    "workflowRun": 45614003468,
+    "url": "https://srikanthsri24.github.io/science_atlas/#chemistry"
+  }
 }

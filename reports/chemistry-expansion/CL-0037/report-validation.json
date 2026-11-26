@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "actualDownloadedTrials": 24,
+  "persistedRows": 24,
+  "formulaSections": 24,
+  "externalLinks": 0,
+  "independentlyCheckedMeanConcentrations": 24,
+  "guideEndpointsVerified": [
+    "2D 110s",
+    "3D 110s"
+  ],
+  "responsiveChecksPassed": 49
+}

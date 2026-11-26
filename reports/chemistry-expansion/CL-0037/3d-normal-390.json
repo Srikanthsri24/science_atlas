@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 624.7421875,
+    "h": 139.5,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 485.2421875
+  },
+  "footer": {
+    "bottom": 666.2421875,
+    "h": 33.5,
+    "right": 363,
+    "w": 336,
+    "x": 27,
+    "y": 632.7421875
+  },
+  "guide": "89.7",
+  "height": 844,
+  "scrollWidth": 390,
+  "stage": {
+    "bottom": 674.2421875,
+    "h": 260,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 414.2421875
+  },
+  "svgTexts": [],
+  "time": "1793",
+  "width": 390,
+  "name": "3d-normal-390",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

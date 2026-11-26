@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "bottom": 905.5703125,
+    "h": 786.0703125,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 119.5
+  },
+  "footer": {
+    "bottom": 947.0703125,
+    "h": 33.5,
+    "right": 1912,
+    "w": 1904,
+    "x": 8,
+    "y": 913.5703125
+  },
+  "guide": "65.8",
+  "height": 1080,
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 955.0703125,
+    "h": 883.0703125,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 72
+  },
+  "svgTexts": [],
+  "time": "1255",
+  "width": 1920,
+  "name": "3d-theatre-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true
+}

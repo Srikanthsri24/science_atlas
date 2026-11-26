@@ -1,0 +1,11 @@
+{
+  "before": {
+    "readings": "A / B absolute temperature\n283.15 / 323.15 K\nA solid + dissolved\n4.653379 + 5.346621 = 10 g\nB solid + dissolved\n0.752027 + 9.247973 = 10 g\n9 g target: A / B\nNot reached / Reached\nPredicted model times to 9 g: A / B\n86.309 / 33.363 s\nTime ratio t_A / t_B\n2.587 · dimensionless\nReference capacity: A / B\n383.000 / 529.000 g",
+    "time": "36"
+  },
+  "after": {
+    "readings": "A / B absolute temperature\n283.15 / 323.15 K\nA solid + dissolved\n4.653379 + 5.346621 = 10 g\nB solid + dissolved\n0.752027 + 9.247973 = 10 g\n9 g target: A / B\nNot reached / Reached\nPredicted model times to 9 g: A / B\n86.309 / 33.363 s\nTime ratio t_A / t_B\n2.587 · dimensionless\nReference capacity: A / B\n383.000 / 529.000 g",
+    "time": "36"
+  },
+  "unchanged": true
+}

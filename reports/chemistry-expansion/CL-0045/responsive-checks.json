@@ -1,0 +1,355 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "file": "2d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "2d-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-all-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-beaker-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-beaker-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-beaker-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-beaker-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-beaker-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-cylinder-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-cylinder-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-cylinder-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-cylinder-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-cylinder-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-expanded-readings-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "3d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "beaker-scale-check.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "expanded-calculations-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "full-guide-2d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-2d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-3d-near-end.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "guide-3d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "initial-2d-settled.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "initial-3d-settled.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "legible-beaker-scale.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "magnified-2d-settled.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "manual-paused-evidence.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-all-scale.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-beaker-scale.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-cylinder-scale.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "verified-ready-preview.json",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

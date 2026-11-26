@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 787.1640625,
+    "h": 185.125,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 602.0390625
+  },
+  "footer": {
+    "bottom": 907.0390625,
+    "h": 33.5,
+    "right": 293,
+    "w": 266,
+    "x": 27,
+    "y": 873.5390625
+  },
+  "guide": "110",
+  "height": 740,
+  "legend": {
+    "bottom": 873.5390625,
+    "h": 86.375,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 787.1640625
+  },
+  "scrollWidth": 320,
+  "stage": {
+    "bottom": 915.0390625,
+    "h": 450,
+    "right": 301,
+    "w": 282,
+    "x": 19,
+    "y": 465.0390625
+  },
+  "texts": [],
+  "time": "0.03",
+  "width": 320,
+  "name": "polished-3d-dark-phone",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

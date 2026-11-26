@@ -1,0 +1,44 @@
+{
+  "canvas": {
+    "bottom": 879.9765625,
+    "h": 748.9765625,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 131
+  },
+  "footer": {
+    "bottom": 947.0703125,
+    "h": 33.5,
+    "right": 1912,
+    "w": 1904,
+    "x": 8,
+    "y": 913.5703125
+  },
+  "guide": "68.68780000000044",
+  "height": 1080,
+  "legend": {
+    "bottom": 913.5703125,
+    "h": 33.59375,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 879.9765625
+  },
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 955.0703125,
+    "h": 883.0703125,
+    "right": 1920,
+    "w": 1920,
+    "x": 0,
+    "y": 72
+  },
+  "texts": [],
+  "time": "0.10899162857142938",
+  "width": 1920,
+  "name": "polished-3d-gap-theatre-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

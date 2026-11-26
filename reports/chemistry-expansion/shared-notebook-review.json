@@ -1,0 +1,10 @@
+{
+  "status": "passed_internal_layout_check",
+  "scope": "All35 reviewed chemistry labs;320px viewport; each calculation section expanded; not a repeated scientific or physical-device review",
+  "checksPassed": 35,
+  "change": "Allow long worked substitutions to wrap within the practical notebook",
+  "sourceHashes": {
+    "src/components/chemistry/chemistry.css": "328e6d463b42aa06b87de2855ec623bf1a23bbd277df6dfc8649acb2cd230ee7"
+  },
+  "evidence": "reports/chemistry-expansion/shared-notebook-phone-checks.json"
+}

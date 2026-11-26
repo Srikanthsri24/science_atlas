@@ -1,0 +1,13 @@
+{
+  "status": "model_and_report_tests_passed_ui_pending",
+  "targetedTestsPassed": 15,
+  "sourceHashes": {
+    "src/lib/chemistry/winnowing.ts": "a8d342815e8edbb657fb7c093e64d857c2b582fe05f16926b647ee9090d91ba6",
+    "src/lib/chemistry/winnowingRecord.ts": "7b8a7a0a280e11db30c26d23e45f8af8492728d066b8817a912f784dec81d352",
+    "tests/chemistry-winnowing.test.mjs": "3334183be5a360c2ab6cb2219c72156d335768df5f20afe500200734283b9d28",
+    "tests/chemistry-winnowing-record.test.mjs": "a3ae36eaf87d1dca39c545e6df2ad6fac943a313e8711540430e67a1ad97247d"
+  },
+  "fullRegressionPassed": 2084,
+  "typescript": "passed",
+  "build": "passed"
+}

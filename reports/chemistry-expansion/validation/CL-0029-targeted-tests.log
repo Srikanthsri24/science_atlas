@@ -1,0 +1,20 @@
+✔ reference solubility uses the stated per-100-mL basis and interpolates without extrapolation (2.590684ms)
+✔ chosen temperature sensitivity uses kelvin and recovers its reference coefficient (0.362313ms)
+✔ matched cells conserve mass at all tested temperatures and times, with exact initial conditions (2.121513ms)
+✔ equal temperature trajectories agree; exchanging temperatures exchanges the outcomes (0.548035ms)
+✔ twenty-degree trajectories agree with the unchanged reviewed base model (0.840124ms)
+✔ independent RK4 integration agrees with shrinking grains and target-time predictions (12.621931ms)
+✔ guide stays continuous through 180 model seconds and rejects unsupported inputs (3.193586ms)
+✔ target-time substitutions agree with independent numerical quadrature (1.514962ms)
+✔ temperature records validate numeric bounds, cap history and preserve notes (5.163038ms)
+✔ exam report includes actual kelvin/capacity/rate substitutions and safely escapes notes (1.24409ms)
+✔ thermometer calibration is monotonic and its probe clears every supported grain and glass (0.975945ms)
+✔ annular bath geometry is closed and remains outside the sample cell (0.317382ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 641.791488

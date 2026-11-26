@@ -1,0 +1,17 @@
+{
+  "warningsAndErrors": [
+    {
+      "level": "error",
+      "message": "The final argument passed to %s changed size between renders. The order and size of this array must remain constant.\n\nPrevious: %s\nIncoming: %s useEffect [[object Object], [object Object], 959, 831.0703125, (frames = 1) => invalidate2(get(), frames), true, 0.4614673374965416, 1] [[object Object], [object Object], 959, 831.0703125, (frames = 1) => invalidate2(get(), frames), true, 0.4614673374965416, 1, false]",
+      "timestamp": "2026-11-25T14:21:26.639Z",
+      "url": "http://localhost:5182/node_modules/.vite-science-atlas-360/deps/@react-three_fiber.js?v=42ca7d33"
+    },
+    {
+      "level": "error",
+      "message": "The final argument passed to %s changed size between renders. The order and size of this array must remain constant.\n\nPrevious: %s\nIncoming: %s useEffect [[object Object], [object Object], 959, 831.0703125, (frames = 1) => invalidate2(get(), frames), true, 0.4614673374965416, 1] [[object Object], [object Object], 959, 831.0703125, (frames = 1) => invalidate2(get(), frames), true, 0.4614673374965416, 1, false]",
+      "timestamp": "2026-11-25T14:21:26.640Z",
+      "url": "http://localhost:5182/node_modules/.vite-science-atlas-360/deps/@react-three_fiber.js?v=42ca7d33"
+    }
+  ],
+  "canvases": 2
+}

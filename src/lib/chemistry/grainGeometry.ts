@@ -1,0 +1,3 @@
+import{grainDissolvingState}from'./grainComparison';
+export function grainPacking(count:number){const s=grainDissolvingState(count,0),n=Math.round(Math.cbrt(count)),pitch=s.initialSideCm+.12;return{n,pitch,side:s.initialSideCm,waterHeight:200/(Math.PI*3.5**2),supportYs:Array.from({length:n},(_,i)=>.65+i*pitch)}}
+export function comparisonGrainPose(count:number,index:number,side:number){const p=grainPacking(count);if(!Number.isInteger(index)||index<0||index>=count||!Number.isFinite(side)||side<0||side>p.side+1e-12)throw new RangeError('Valid supported grain required');const col=index%p.n,layer=Math.floor(index/(p.n*p.n)),depth=Math.floor(index/p.n)%p.n;return{x:(col-(p.n-1)/2)*p.pitch,y:p.supportYs[layer]+side/2,z:(depth-(p.n-1)/2)*p.pitch}}

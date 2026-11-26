@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0045",
+  "status": "ready",
+  "modelTests": {
+    "passed": 20,
+    "failed": 0,
+    "scope": "10 model,6 geometry/actual camera projection,4 notebook/report"
+  },
+  "uiImplemented": true,
+  "remaining": [],
+  "sourceHashes": {
+    "src/lib/chemistry/volumeReadingsRecord.ts": "93cdcc733f9584f2cc2b62b2368cb2da9dec8c8b847bfba6b597c703bbad0a2c",
+    "src/lib/chemistry/volumeReadingsGeometry.ts": "ead458b4d053bcace7c4d77018a817b899c8567c5e9368a929fba3fac78fc0b0",
+    "src/lib/chemistry/volumeReadings.ts": "f3ecb04dd25f355f3fa469502d468c88299e37654775626f0a89540e8a0c693f",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/VolumeReadingsLab.tsx": "ddf2fbd1709965779921130ca98cf6cebda222da21af714a24e97eac57919895",
+    "src/components/chemistry/VolumeReadingsDiagram.tsx": "14ce468e5226e0544987320638ed484f617d37f6d08b95383eee56315139bb0f",
+    "src/components/chemistry/VolumeReadingsScene.tsx": "f6797b54b582e8484221f152b64572a034a5f5d352cfe9d510e8e6b4d0508843",
+    "src/components/chemistry/volumeReadings.css": "f3c800e237480c9986a71b2d80fe11af65241dfc0a9f1cfde18e183585aebf71",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-volume-readings.test.mjs": "837d2a7c61224af4b16d36f973f2e0fcb9c0239e83fe4153265d5fa9a84ac0fd",
+    "tests/chemistry-volume-readings-record.test.mjs": "f5dcf4b677da7d778af9570e4855165bcd73e6c505499cacc8bacf7c4a7ba67d",
+    "tests/chemistry-volume-readings-geometry.test.mjs": "10ded2e88c0ad756fa7522a57d95fc1d5b4903539252ea5a1c5aff6809b8fac7"
+  },
+  "recordImplemented": true,
+  "geometryImplemented": true,
+  "regressionTests": {
+    "passed": 2197,
+    "failed": 0
+  },
+  "twoDDiagramImplemented": true,
+  "twoDBrowserReview": "pending",
+  "finalTypeScript": "passed",
+  "build": "passed",
+  "actualGuiTrials": 34,
+  "releaseBuild": "passed",
+  "sourcePublicDistReadyCount": 45
+}

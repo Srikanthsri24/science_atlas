@@ -1,0 +1,656 @@
+[
+  {
+    "canvas": {
+      "bottom": 646.0390625,
+      "height": 142,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 504.0390625
+    },
+    "format": "landscape",
+    "guide": "56.93660000000602",
+    "height": 740,
+    "legend": {
+      "bottom": 694.0390625,
+      "height": 48,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 646.0390625
+    },
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "bottom": 694.0390625,
+      "height": 260,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 434.0390625
+    },
+    "width": 320
+  },
+  {
+    "canvas": {
+      "bottom": 863.3671875,
+      "height": 341.828125,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 521.5390625
+    },
+    "format": "portrait",
+    "guide": "57.037000000005925",
+    "height": 740,
+    "legend": {
+      "bottom": 935.3671875,
+      "height": 72,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 863.3671875
+    },
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "bottom": 935.3671875,
+      "height": 501.328125,
+      "right": 301,
+      "width": 282,
+      "x": 19,
+      "y": 434.0390625
+    },
+    "width": 320
+  },
+  {
+    "canvas": {
+      "bottom": 620.5390625,
+      "height": 195.75,
+      "right": 793,
+      "width": 556,
+      "x": 237,
+      "y": 424.7890625
+    },
+    "format": "landscape",
+    "guide": "57.30570000000611",
+    "height": 1180,
+    "legend": {
+      "bottom": 676.5390625,
+      "height": 56,
+      "right": 793,
+      "width": 556,
+      "x": 237,
+      "y": 620.5390625
+    },
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "bottom": 676.5390625,
+      "height": 312.75,
+      "right": 793,
+      "width": 556,
+      "x": 237,
+      "y": 363.7890625
+    },
+    "width": 820
+  },
+  {
+    "canvas": {
+      "bottom": 1107.7890625,
+      "height": 683,
+      "right": 755,
+      "width": 480,
+      "x": 275,
+      "y": 424.7890625
+    },
+    "format": "portrait",
+    "guide": "57.520300000005975",
+    "height": 1180,
+    "legend": {
+      "bottom": 1163.7890625,
+      "height": 56,
+      "right": 755,
+      "width": 480,
+      "x": 275,
+      "y": 1107.7890625
+    },
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "bottom": 1163.7890625,
+      "height": 800,
+      "right": 755,
+      "width": 480,
+      "x": 275,
+      "y": 363.7890625
+    },
+    "width": 820
+  },
+  {
+    "canvas": {
+      "bottom": 657.9296875,
+      "height": 258.1875,
+      "right": 956,
+      "width": 667,
+      "x": 289,
+      "y": 399.7421875
+    },
+    "format": "landscape",
+    "guide": "57.83670000000588",
+    "height": 960,
+    "legend": {
+      "bottom": 713.9296875,
+      "height": 56,
+      "right": 956,
+      "width": 667,
+      "x": 289,
+      "y": 657.9296875
+    },
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "bottom": 713.9296875,
+      "height": 375.1875,
+      "right": 956,
+      "width": 667,
+      "x": 289,
+      "y": 338.7421875
+    },
+    "width": 1280
+  },
+  {
+    "canvas": {
+      "bottom": 1082.7421875,
+      "height": 683,
+      "right": 862.5,
+      "width": 480,
+      "x": 382.5,
+      "y": 399.7421875
+    },
+    "format": "portrait",
+    "guide": "58.137000000005926",
+    "height": 960,
+    "legend": {
+      "bottom": 1138.7421875,
+      "height": 56,
+      "right": 862.5,
+      "width": 480,
+      "x": 382.5,
+      "y": 1082.7421875
+    },
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "bottom": 1138.7421875,
+      "height": 800,
+      "right": 862.5,
+      "width": 480,
+      "x": 382.5,
+      "y": 338.7421875
+    },
+    "width": 1280
+  },
+  {
+    "canvas": {
+      "bottom": 1000.1796875,
+      "height": 584.4375,
+      "right": 1550,
+      "width": 1215,
+      "x": 335,
+      "y": 415.7421875
+    },
+    "format": "landscape",
+    "guide": "58.37080000000598",
+    "height": 1080,
+    "legend": {
+      "bottom": 1038.1796875,
+      "height": 38,
+      "right": 1550,
+      "width": 1215,
+      "x": 335,
+      "y": 1000.1796875
+    },
+    "mode": "3D",
+    "pageWidth": 1920,
+    "stage": {
+      "bottom": 1038.1796875,
+      "height": 683.4375,
+      "right": 1550,
+      "width": 1215,
+      "x": 335,
+      "y": 354.7421875
+    },
+    "width": 1920
+  },
+  {
+    "canvas": {
+      "bottom": 1098.7421875,
+      "height": 683,
+      "right": 1182.5,
+      "width": 480,
+      "x": 702.5,
+      "y": 415.7421875
+    },
+    "format": "portrait",
+    "guide": "58.58760000000579",
+    "height": 1080,
+    "legend": {
+      "bottom": 1154.7421875,
+      "height": 56,
+      "right": 1182.5,
+      "width": 480,
+      "x": 702.5,
+      "y": 1098.7421875
+    },
+    "mode": "3D",
+    "pageWidth": 1920,
+    "stage": {
+      "bottom": 1154.7421875,
+      "height": 800,
+      "right": 1182.5,
+      "width": 480,
+      "x": 702.5,
+      "y": 354.7421875
+    },
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 740,
+    "mode": "2D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 260,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "height": 740,
+    "mode": "2D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 501.328125,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "pageWidth": 390,
+    "stage": {
+      "height": 260,
+      "width": 352
+    },
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "pageWidth": 390,
+    "stage": {
+      "height": 625.7734375,
+      "width": 352
+    },
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 1180,
+    "mode": "2D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 312.75,
+      "width": 556
+    },
+    "width": 820
+  },
+  {
+    "format": "portrait",
+    "height": 1180,
+    "mode": "2D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 820
+  },
+  {
+    "format": "landscape",
+    "height": 960,
+    "mode": "2D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 375.1875,
+      "width": 667
+    },
+    "width": 1280
+  },
+  {
+    "format": "portrait",
+    "height": 960,
+    "mode": "2D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 1280
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "pageWidth": 1920,
+    "stage": {
+      "height": 683.4375,
+      "width": 1215
+    },
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "pageWidth": 1920,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 1920
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 142,
+      "width": 282
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 260,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 142,
+      "width": 282
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 260,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 142,
+      "width": 282
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 260,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 341.828125,
+      "width": 282
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 501.328125,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 341.828125,
+      "width": 282
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 501.328125,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 341.828125,
+      "width": 282
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 320,
+    "stage": {
+      "height": 501.328125,
+      "width": 282
+    },
+    "width": 320
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 177.75,
+      "width": 556
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 312.75,
+      "width": 556
+    },
+    "width": 820
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 195.75,
+      "width": 556
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 312.75,
+      "width": 556
+    },
+    "width": 820
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 195.75,
+      "width": 556
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 312.75,
+      "width": 556
+    },
+    "width": 820
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 665,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 820
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 683,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 820
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 665,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 820,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 820
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 258.1875,
+      "width": 667
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 375.1875,
+      "width": 667
+    },
+    "width": 1280
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 258.1875,
+      "width": 667
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 375.1875,
+      "width": 667
+    },
+    "width": 1280
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 258.1875,
+      "width": 667
+    },
+    "format": "landscape",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 375.1875,
+      "width": 667
+    },
+    "width": 1280
+  },
+  {
+    "camera": "receiver",
+    "canvas": {
+      "height": 665,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 1280
+  },
+  {
+    "camera": "all",
+    "canvas": {
+      "height": 683,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 1280
+  },
+  {
+    "camera": "boundary",
+    "canvas": {
+      "height": 665,
+      "width": 480
+    },
+    "format": "portrait",
+    "legendInsideStage": true,
+    "mode": "3D",
+    "pageWidth": 1280,
+    "stage": {
+      "height": 800,
+      "width": 480
+    },
+    "width": 1280
+  }
+]

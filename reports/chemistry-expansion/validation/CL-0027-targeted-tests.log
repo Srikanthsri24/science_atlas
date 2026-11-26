@@ -1,0 +1,21 @@
+✔ balance storage validates numeric inputs, bounds records and preserves notes (50.403167ms)
+✔ mass record distinguishes moving, stopped, tilted settled and level (11.062981ms)
+✔ report escapes notes and includes actual torque substitutions without scripts or links (3.196396ms)
+✔ both apparatus endpoints match model descent and vertical pan constraints (0.887982ms)
+✔ illustrative loads clear fixed stop arms throughout the permitted motion (0.594271ms)
+✔ equal masses stay level and give independently calculated equal torques (18.850272ms)
+✔ swapping masses reverses motion and heavier pan descends (4.516894ms)
+✔ small imbalance settles at independently derived restoring equilibrium (5.39507ms)
+✔ energy is conserved without damping before contact and decreases with damping (4.888998ms)
+✔ large loads contact bounded stops without inventing a settled measurement (2.742713ms)
+✔ invalid model inputs and time are rejected (0.881299ms)
+✔ 110-second guide uses declared independent releases and finishes with equal torque (55.360042ms)
+✔ worked calculations substitute SI values and refuse a false mass result (1.339052ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 697.956386

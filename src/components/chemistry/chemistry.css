@@ -17,3 +17,6 @@
 .chem-procedure-buttons{display:grid;gap:9px;margin:20px 0}.chem-procedure-buttons button{min-height:44px;text-align:left;padding:10px 12px;border:1px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:13px}.chem-procedure-buttons button:enabled:hover{border-color:#8f75db;background:#8f75db15}.chem-procedure-buttons button:disabled,.chem-sample-panel .button:disabled{opacity:.45;cursor:not-allowed}
 @media(min-width:481px) and (max-width:1100px){.chem-sample-panel:has(>h2)>h2,.chem-sample-panel:has(>h2)>label:has(select),.chem-sample-panel:has(>h2)>label:nth-of-type(4),.chem-sample-panel:has(>h2)>.chem-procedure-buttons,.chem-sample-panel:has(>h2)>.chem-watch-controls,.chem-sample-panel:has(>h2)>dl,.chem-sample-panel:has(>h2)>.button,.chem-sample-panel:has(>h2)>p{grid-column:1/-1}.chem-sample-panel:has(>h2)>h2{margin:0 0 10px}}
 .chem-bench-toolbar button:disabled{opacity:.45;cursor:not-allowed}
+
+/* Long worked substitutions must wrap inside narrow practical notebooks. */
+.chem-calculation{min-width:0;overflow-wrap:anywhere}

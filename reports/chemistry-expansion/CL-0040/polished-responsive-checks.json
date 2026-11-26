@@ -1,0 +1,315 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "file": "polished-2d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-landscape-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-portrait-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-landscape-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-landscape-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-landscape-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-landscape-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-landscape-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-portrait-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-portrait-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-portrait-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-2d-rising-portrait-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-all-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-all-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-all-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-all-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-all-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-dark-phone.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-expanded-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-normal-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-normal-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-normal-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-normal-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-normal-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-portrait-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-portrait-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-portrait-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-portrait-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-portrait-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-theatre-1280.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-theatre-1920.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-theatre-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-theatre-390.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-gap-theatre-820.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-opaque-320.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-phone-landscape-theatre.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-3d-phone-landscape.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-full-guide-2d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-full-guide-3d.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-guide-2d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-guide-3d-start.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-verified-2d-preview.json",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "file": "polished-verified-lab-preview.json",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

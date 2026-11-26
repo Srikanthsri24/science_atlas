@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "actualGuiTrials": 34,
+  "numericOrUnavailableReadingsCompared": 272,
+  "exactReloadPersistence": true,
+  "downloadedTrialSections": 34,
+  "workedSteps": 680,
+  "currentSubstitutionsChecked": 20,
+  "manualAndGuidePauseExactState": true,
+  "manualTimeFirst": "0.15309999999403953",
+  "manualTimeLast": "65.85869999999959",
+  "bothLiquidSectionsMoved": true,
+  "cameraControlsPreserveExactState": true,
+  "guideScrubPhysicalS": 45,
+  "externalUrls": false,
+  "scope": "Actual GUI table, SVG states and downloaded HTML. Physical printing and device hardware not certified."
+}

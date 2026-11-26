@@ -1,0 +1,15 @@
+✔ separate melting and dissolving vessels conserve their own matter at all supported boundaries (5.475813ms)
+✔ independent power/latent substitution gives the phase plateau and continuous full-melt boundary (0.404256ms)
+✔ independent numerical enthalpy integration checks heat flow across the latent plateau and liquid warming (18.435756ms)
+✔ no supplied heat does not stop a separate salt solution from forming (0.688421ms)
+✔ stirring changes rate without changing equilibrium capacity or residual; water and solution denominators differ (0.306486ms)
+✔ independent dissolved-mass numerical integration agrees with analytic values without finite-time disappearance (4.324915ms)
+✔ 110-second guide advances900 model seconds and invalid numeric or categorical settings are rejected (0.857903ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 672.359621

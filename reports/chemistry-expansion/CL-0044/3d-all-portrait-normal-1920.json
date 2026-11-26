@@ -1,0 +1,48 @@
+{
+  "blue": "2",
+  "camera": "all",
+  "canvas": {
+    "bottom": 1059.8515625,
+    "h": 604.609375,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 455.2421875
+  },
+  "capillary": "0.12",
+  "footer": {
+    "bottom": 1146.7421875,
+    "h": 33.5,
+    "right": 1174.5,
+    "w": 464,
+    "x": 710.5,
+    "y": 1113.2421875
+  },
+  "guide": "120",
+  "height": 1080,
+  "legend": {
+    "bottom": 1113.2421875,
+    "h": 53.390625,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 1059.8515625
+  },
+  "scrollWidth": 1920,
+  "stage": {
+    "bottom": 1154.7421875,
+    "h": 800,
+    "right": 1182.5,
+    "w": 480,
+    "x": 702.5,
+    "y": 354.7421875
+  },
+  "texts": [],
+  "timeS": "600",
+  "width": 1920,
+  "yellow": "0.5",
+  "name": "3d-all-portrait-normal-1920",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

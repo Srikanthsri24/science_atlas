@@ -1,0 +1,47 @@
+{
+  "camera": "all",
+  "canvas": {
+    "bottom": 850.6640625,
+    "h": 452.921875,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 397.7421875
+  },
+  "footer": {
+    "bottom": 980.7421875,
+    "h": 76.6875,
+    "right": 948,
+    "w": 651,
+    "x": 297,
+    "y": 904.0546875
+  },
+  "guide": "120",
+  "height": 960,
+  "legend": {
+    "bottom": 904.0546875,
+    "h": 53.390625,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 850.6640625
+  },
+  "rate": "0.0005",
+  "salt": "10",
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 988.7421875,
+    "h": 650,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": 338.7421875
+  },
+  "texts": [],
+  "timeS": "7200",
+  "width": 1280,
+  "name": "full-guide-3d",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

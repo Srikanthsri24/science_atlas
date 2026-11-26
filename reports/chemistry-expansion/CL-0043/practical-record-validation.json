@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "actualGuiTrials": 28,
+  "numericReadingsCompared": 168,
+  "exactReloadPersistence": true,
+  "downloadedTrialSections": 28,
+  "workedSteps": 560,
+  "currentSubstitutionsChecked": 20,
+  "manualPauseExactState": true,
+  "manualTimeFirst": "0.18969999999413267",
+  "manualTimeLast": "63.46399999998807",
+  "manualWaterAndTransferGlyphChanges": true,
+  "guideScrubPhysicalS": 4050,
+  "onsetLabelCorrect": true,
+  "externalUrls": false,
+  "scope": "Actual browser rows, SVG state and downloaded HTML; physical printing not certified."
+}

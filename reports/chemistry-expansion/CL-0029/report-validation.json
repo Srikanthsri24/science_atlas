@@ -1,0 +1,8 @@
+{
+  "trialCount": 16,
+  "workedCalculations": 16,
+  "kelvinAndSolubilityInterpolation": true,
+  "targetTimeIntegralSubstitutions": true,
+  "massBalanceAndRateUnits": true,
+  "safeCompanyOnlyHtml": true
+}

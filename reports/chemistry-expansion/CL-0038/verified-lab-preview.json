@@ -1,0 +1,36 @@
+{
+  "canvas": {
+    "bottom": 254.2421875,
+    "h": 311.5,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": -57.2578125
+  },
+  "footer": {
+    "bottom": 295.7421875,
+    "h": 33.5,
+    "right": 948,
+    "w": 651,
+    "x": 297,
+    "y": 262.2421875
+  },
+  "guide": "0",
+  "height": 960,
+  "scrollWidth": 1280,
+  "stage": {
+    "bottom": 303.7421875,
+    "h": 420,
+    "right": 956,
+    "w": 667,
+    "x": 289,
+    "y": -116.2578125
+  },
+  "texts": [],
+  "time": "30",
+  "width": 1280,
+  "name": "verified-lab-preview",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}

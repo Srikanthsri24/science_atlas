@@ -1,0 +1,48 @@
+{
+  "bias": "0",
+  "camera": "beaker",
+  "canvas": {
+    "bottom": 781.9609375,
+    "h": 267.21875,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 514.7421875
+  },
+  "convention": "tenths-of-division",
+  "footer": {
+    "bottom": 906.2421875,
+    "h": 33.5,
+    "right": 363,
+    "w": 336,
+    "x": 27,
+    "y": 872.7421875
+  },
+  "guide": "15.308300000005868",
+  "height": 844,
+  "legend": {
+    "bottom": 872.7421875,
+    "h": 90.78125,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 781.9609375
+  },
+  "scrollWidth": 390,
+  "stage": {
+    "bottom": 914.2421875,
+    "h": 500,
+    "right": 371,
+    "w": 352,
+    "x": 19,
+    "y": 414.2421875
+  },
+  "target": "63.4",
+  "texts": [],
+  "timeS": "0.3083000000058682",
+  "width": 390,
+  "name": "3d-beaker-normal-390",
+  "noPageOverflow": true,
+  "noCanvasOverflow": true,
+  "noFooterClipping": true
+}
