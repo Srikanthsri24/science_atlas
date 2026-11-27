@@ -1,0 +1,22 @@
+✔ five independently specified standards and a separate investigation require complete dosing (6.015536ms)
+✔ shared pink teaching cards retain ambiguity rather than inventing exact pH or an interval (16.857683ms)
+✔ imposed reference pH remains distinct from addition volume and indicator colour inference (0.954003ms)
+✔ 20160 sampled preparations preserve each liquid account and the finite indicator reservoir (391.923288ms)
+✔ independent exponent identities and tenfold ratios cover all selected reference pairs (1.486388ms)
+✔ changing the investigation standard never changes the five reference preparations (0.683132ms)
+✔ 120-second guide completes independent approaches and ordered finite doses before comparison (16.201372ms)
+✔ invalid pH,delivery fractions,preparations,pair indices and presentation clocks are rejected (1.917814ms)
+✔ six-tube records and81worked blocks per trial cover every selected reference and partial protocol (16.154627ms)
+✔ validated input-only reports clone fractions,escape student text and retain exact preparations (6.030402ms)
+✔ fractional microlitre doses retain nonnegative stock through all six completions (9.266115ms)
+✔ flat-bottom vial and metered-stock geometry retain true volumes throughout every guide (21.644358ms)
+✔ the metering actor approaches each independent vial before delivery and returns after comparison (1.424768ms)
+✔ paused metering poses are deterministic,follow actual delivered volume and reject invalid selection (0.916963ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1458.707751

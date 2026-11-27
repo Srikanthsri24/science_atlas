@@ -20,7 +20,7 @@ test('20160 sampled preparations preserve each liquid account and the finite ind
 });
 test('independent exponent identities and tenfold ratios cover all selected reference pairs',()=>{
  for(const pH of M.cabbageReferencePH){const v=M.cabbageIdealIons(pH);near(v.hydrogenM,Math.exp(-pH*Math.LN10),1e-16);near(v.hydroxideM,1e-14/v.hydrogenM,1e-16);near(v.kwResidualM2,0,3e-30);near(v.logResidual,0);near(v.pH+v.pOH,14)}
- for(let a=0;a<6;a++)for(let b=0;b<6;b++){const p=M.cabbagePair(full,a,b);near(p.hydrogenRatioLeftToRight,p.tenPowerDelta,Math.max(1e-12,p.tenPowerDelta*1e-14));const rev=M.cabbagePair(full,b,a);near(p.hydrogenRatioLeftToRight*rev.hydrogenRatioLeftToRight,1)}assert.equal(M.cabbagePair(full,0,1).hydrogenRatioLeftToRight,100);assert.equal(M.cabbagePair(full,0,1).sameTeachingCategory,true);assert.equal(M.cabbagePair(q,0,1).sameTeachingCategory,null);
+ for(let a=0;a<6;a++)for(let b=0;b<6;b++){const p=M.cabbagePair(full,a,b);near(p.hydrogenRatioLeftToRight,p.tenPowerDelta,Math.max(1e-12,p.tenPowerDelta*1e-14));const rev=M.cabbagePair(full,b,a);near(p.hydrogenRatioLeftToRight*rev.hydrogenRatioLeftToRight,1)}near(M.cabbagePair(full,0,1).hydrogenRatioLeftToRight,100,1e-12);assert.equal(M.cabbagePair(full,0,1).sameTeachingCategory,true);assert.equal(M.cabbagePair(q,0,1).sameTeachingCategory,null);
 });
 test('changing the investigation standard never changes the five reference preparations',()=>{
  const a=M.cabbageState(full);for(const testPH of M.cabbageReferencePH){const b=M.cabbageState({...full,testPH});assert.deepEqual(a.references,b.references)}
