@@ -34,5 +34,5 @@
     "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
     "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
   },
-  "crossPlatformTestCorrection": "2026-11-27: GitHub Node 22/Linux produced 100.00000000000001 for the independently checked theoretical ratio 100. Replaced one exact floating-point assertion with absolute tolerance 1e-12 (relative 1e-14 at 100), consistent with existing exponent/reciprocal checks. Model, visuals and records unchanged. All 14 focused tests passed after correction; full Linux CI rerun follows."
+  "crossPlatformTestCorrection": "2026-11-27: GitHub Node 22/Linux produced 100.00000000000001 for the independently checked theoretical ratio 100. Replaced one exact floating-point assertion with absolute tolerance 1e-12 (relative 1e-14 at 100), consistent with existing exponent/reciprocal checks. Model, visuals and records unchanged. All 14 focused tests passed after correction; full Linux CI and deployment then passed (run 46005917871)."
 }
