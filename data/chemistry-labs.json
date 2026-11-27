@@ -1534,17 +1534,18 @@
       "grade": 6,
       "title": "Compare physical and chemical changes using particle evidence",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare physical and chemical changes using particle evidence. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0076/review.json"
     },
     {
       "id": "CL-0077",
@@ -1552,17 +1553,18 @@
       "grade": 6,
       "title": "Measure density from mass and displaced volume",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Measure density from mass and displaced volume. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0077/review.json"
     },
     {
       "id": "CL-0078",
@@ -1570,17 +1572,20 @@
       "grade": 6,
       "title": "Prepare a solution with a stated mass concentration",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Prepare a solution with a stated mass concentration. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0078/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "mass-concentration-v1"
     },
     {
       "id": "CL-0079",
@@ -1588,17 +1593,20 @@
       "grade": 6,
       "title": "Compare saturation at different temperatures",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare saturation at different temperatures. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0079/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "temperature-saturation-v1"
     },
     {
       "id": "CL-0080",
@@ -1606,17 +1614,20 @@
       "grade": 6,
       "title": "Construct a solubility curve from trials",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Construct a solubility curve from trials. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0080/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "observed-solubility-curve-v1"
     },
     {
       "id": "CL-0081",
@@ -1624,17 +1635,20 @@
       "grade": 6,
       "title": "Compare solute recovery after evaporation",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare solute recovery after evaporation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0081/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "paired-evaporation-recovery-v1"
     },
     {
       "id": "CL-0082",
@@ -1642,17 +1656,20 @@
       "grade": 6,
       "title": "Separate salt, sand and iron in stages",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Separate salt, sand and iron in stages. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0082/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "three-product-quality-v1"
     },
     {
       "id": "CL-0083",
@@ -1660,17 +1677,20 @@
       "grade": 6,
       "title": "Use chromatography to compare ink samples",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Use chromatography to compare ink samples. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0083/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": "four-lane-ink-evidence-v1"
     },
     {
       "id": "CL-0084",
@@ -1678,17 +1698,18 @@
       "grade": 6,
       "title": "Investigate a separating funnel with two liquid layers",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate a separating funnel with two liquid layers. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0084/review.json"
     },
     {
       "id": "CL-0085",
@@ -1696,17 +1717,18 @@
       "grade": 6,
       "title": "Compare filtration and centrifugation of a suspension",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare filtration and centrifugation of a suspension. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0085/review.json"
     },
     {
       "id": "CL-0086",
@@ -1714,17 +1736,18 @@
       "grade": 6,
       "title": "Investigate sublimation as a separation method",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate sublimation as a separation method. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0086/review.json"
     },
     {
       "id": "CL-0087",
@@ -1732,17 +1755,18 @@
       "grade": 6,
       "title": "Compare pure-substance and mixture melting behaviour",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare pure-substance and mixture melting behaviour. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0087/review.json"
     },
     {
       "id": "CL-0088",
@@ -1750,17 +1774,18 @@
       "grade": 6,
       "title": "Observe a heating curve for water",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe a heating curve for water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0088/review.json"
     },
     {
       "id": "CL-0089",
@@ -1768,17 +1793,18 @@
       "grade": 6,
       "title": "Observe a cooling curve and a freezing plateau",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe a cooling curve and a freezing plateau. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0089/review.json"
     },
     {
       "id": "CL-0090",
@@ -1786,17 +1812,18 @@
       "grade": 6,
       "title": "Compare heat conductors among materials",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare heat conductors among materials. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0090/review.json"
     },
     {
       "id": "CL-0091",
@@ -1804,17 +1831,19 @@
       "grade": 6,
       "title": "Investigate the effect of an insulating layer on cooling",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate the effect of an insulating layer on cooling. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0091/review.json",
+      "reviewedOn": "2026-11-27"
     },
     {
       "id": "CL-0092",
@@ -1822,17 +1851,19 @@
       "grade": 6,
       "title": "Record and compare repeat measurements",
       "strand": "Matter and mixtures",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Record and compare repeat measurements. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0092/review.json",
+      "reviewedOn": "2026-11-27"
     },
     {
       "id": "CL-0093",
@@ -1840,17 +1871,19 @@
       "grade": 7,
       "title": "Classify solutions with litmus indicators",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Classify solutions with litmus indicators. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0093/review.json",
+      "reviewedOn": "2026-11-27"
     },
     {
       "id": "CL-0094",
@@ -1858,17 +1891,21 @@
       "grade": 7,
       "title": "Compare turmeric-indicator responses",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare turmeric-indicator responses. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0094/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Prepared trace-indicator ideal25°C strong-reference wells;qualitative uncalibrated endpoint categories,not a colour pH meter. Independent controls,formal neutralized equivalents,water-inclusive free-ion equilibrium and additive per-well volumes. No measured kinetics or official-board certification."
     },
     {
       "id": "CL-0095",
@@ -1876,17 +1913,21 @@
       "grade": 7,
       "title": "Map cabbage-indicator colour to a chosen pH scale",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Map cabbage-indicator colour to a chosen pH scale. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0095/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Five selected illustrative reference cards and an independently specified investigation;not empirical cabbage calibration or continuous hue-to-pH inference. Ideal maintained25°Creference conditions,neglected indicator/buffer load,finite metered indicator stock and additive independent vial volumes. No measured kinetics or official-board certification."
     },
     {
       "id": "CL-0096",
@@ -1894,17 +1935,21 @@
       "grade": 7,
       "title": "Compare universal-indicator colours across pH",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare universal-indicator colours across pH. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0096/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Particular five-dye recipe;original discrete illustrative mixture cards,qualitative transition ranges and independently maintained ideal25°C pH. Separate stock,pipette and cell inventories. Nominal additive solvent volumes;no measured kinetics,buffering or exact colour-to-pH calibration."
     },
     {
       "id": "CL-0097",
@@ -1912,17 +1957,21 @@
       "grade": 7,
       "title": "Investigate neutralization with a temperature readout",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate neutralization with a temperature readout. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0097/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Ideal adiabatic1:1HCl/NaOH calorimeter,equal initial temperatures. Finite acid,analytical excess,solution and cup heat accounts. Fixed approximate−57.3kJ/mol teaching parameter;no heat of dilution,activities,air heat exchange or measured kinetics. Reconstructed enthalpy is not independent experimental validation."
     },
     {
       "id": "CL-0098",
@@ -1930,17 +1979,21 @@
       "grade": 7,
       "title": "Observe acid-carbonate gas formation and limewater evidence",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe acid-carbonate gas formation and limewater evidence. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0098/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Finitecarbonate/HCl source,dryideal25°C gas syringe,independentlimewater receiver and explicitbypass. Sequentialprecipitation/redissolution limit envelope,not full carbonateequilibria or measuredturbidity/kinetics. Nominalsolution/solid densities;reactionwater,mass andfiveelements retained. Noheadspace/transferholdup/dissolution/pressuretransients;solidmarkersnotrealparticles."
     },
     {
       "id": "CL-0099",
@@ -1948,17 +2001,21 @@
       "grade": 7,
       "title": "Compare indicators before and after dilution",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare indicators before and after dilution. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0099/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1,
+      "modelAssumptions": "Fourmatchedindicatorcells;finitewaterreservoirdebitsthetwotestsindependently. Idealstrongacid/basechargebalanceat25°Cwithwaterautoionization. Nonperturbingtraceramountretained;additivevolume/nominaldensity. Qualitativecolourfamilieswithalkalinephenolphthaleinfadingexcludedexplicitly;noempiricalabsorbance/colourcalibration. Fixed2cmhorizontalopticalpath."
     },
     {
       "id": "CL-0100",
@@ -1966,17 +2023,20 @@
       "grade": 7,
       "title": "Investigate acidic and basic oxides with water",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "ready",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate acidic and basic oxides with water. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
       "review": {
-        "model": "pending",
-        "twoD": "pending",
-        "threeD": "pending",
-        "responsive": "pending",
-        "practicalRecord": "pending"
-      }
+        "model": "passed",
+        "twoD": "passed",
+        "threeD": "passed",
+        "responsive": "passed",
+        "practicalRecord": "passed"
+      },
+      "reviewEvidence": "reports/chemistry-expansion/CL-0100/review.json",
+      "reviewedOn": "2026-11-27",
+      "implementationVersion": 1
     },
     {
       "id": "CL-0101",
@@ -1984,7 +2044,7 @@
       "grade": 7,
       "title": "Compare the pH of selected food-solution models",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare the pH of selected food-solution models. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2002,7 +2062,7 @@
       "grade": 7,
       "title": "Observe a precipitation reaction between two salt solutions",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Observe a precipitation reaction between two salt solutions. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2020,7 +2080,7 @@
       "grade": 7,
       "title": "Compare fast and slow reaction observations",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare fast and slow reaction observations. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2038,7 +2098,7 @@
       "grade": 7,
       "title": "Investigate surface area in a dissolving-solid model",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Investigate surface area in a dissolving-solid model. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2056,7 +2116,7 @@
       "grade": 7,
       "title": "Compare reversible phase changes and new-substance formation",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare reversible phase changes and new-substance formation. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2074,7 +2134,7 @@
       "grade": 7,
       "title": "Test the conditions required for iron corrosion",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Test the conditions required for iron corrosion. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,
@@ -2092,7 +2152,7 @@
       "grade": 7,
       "title": "Compare rusting with saltwater concentration",
       "strand": "Acids, bases and reaction evidence",
-      "status": "planned",
+      "status": "in_progress",
       "curriculumStatus": "editorial_class_path_pending_board_mapping",
       "aim": "Compare rusting with saltwater concentration. Record the observations and explain the evidence.",
       "minimumAnimationSeconds": 60,

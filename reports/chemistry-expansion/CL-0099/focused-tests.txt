@@ -1,0 +1,16 @@
+✔ two water deliveries debit a finite shared reservoir independently (3.377931ms)
+✔ all preparation bounds retain formal amount,tracer mass,capacity and immersed fixed path (40.1456ms)
+✔ dilution changes concentration,not amount or acid/base identity (0.419901ms)
+✔ guide retains120s with80s actual metered delivery and deterministic paused state (4.440836ms)
+✔ malformed preparations and times are rejected (0.693467ms)
+✔ apparatus fill geometry preserves exact volumes and rejects stale guide state (7.429907ms)
+✔ observation rows and49worked calculations cover every cell and finite reservoir (1.946342ms)
+✔ notebook and exam report preserve exact input,escape text and discard forged derived fields (1.48448ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 879.679909

@@ -1,0 +1,31 @@
+{
+  "browser": "Chrome desktop",
+  "lab": "CL-0093",
+  "drag": {
+    "from": [
+      800,
+      600
+    ],
+    "to": [
+      950,
+      640
+    ],
+    "result": "Visible orbit changed at paused120s",
+    "before": "native-drag-before.jpg",
+    "after": "native-drag-after.jpg"
+  },
+  "wheel": {
+    "at": [
+      1000,
+      650
+    ],
+    "direction": "up",
+    "pages": 1,
+    "result": "Visible zoom increased;canvas DOM rectangle unchanged",
+    "proof": "native-wheel-zoom.jpg"
+  },
+  "nativeAppDrag": "App-level drag returned noWindowsAvailable;direct browser-tab gesture succeeded",
+  "touch": "unverified",
+  "rightButtonPan": "unverified",
+  "restored": "Reset camera;light theme;default viewport;landscape;normal mode"
+}

@@ -1,0 +1,20 @@
+✔ paired samples start with identical equilibrated inventories at25°C (36.530931ms)
+✔ heated strong-increase reference dissolves excess while cooler reference retains it (0.474091ms)
+✔ a chosen decreasing solubility trend reverses the temperature-capacity relation (0.486562ms)
+✔ finite transfer response conserves mass and respects bounds across reference corners (4.945594ms)
+✔ equal thermal and dissolution rates use a finite continuous limiting solution (0.281719ms)
+✔ analytic switching solution agrees with independent RK4 integration (117.658902ms)
+✔ all-dissolved sample does not claim measured saturated solubility (0.858804ms)
+✔ invalid states and guide times rejected;120s presentation spans600 reference seconds (0.707668ms)
+✔ slowest supported reference reaches the observation criterion within its expanded guide (0.263622ms)
+✔ aggregate geometry handles both complete and partial immersion without overlapping carrier volume (55.083148ms)
+✔ structured record recomputes derived quantities,guards missing saturation estimate and escapes student writing (1.680121ms)
+✔ exposed teacher segments are continuous and reproduce the returned dissolved mass (0.317384ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 860.866992

@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0087",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "10 focused science/record/geometry tests plus 2 navigation tests pass. Dense 32,454-state sweep conserves A and B and closes enthalpy. Pure A/B and exact eutectic sharp melting, off-eutectic range, independent saturation/lever rule, half-latent plateau, cutoff and invalid inputs tested. Near-pure inversion instability fixed using liquid fraction/log1p, not weaker tolerances. Full 3037 regression tests passed; latest focused 12 pass. Final TypeScript passed and Vite10.63s passed.",
+    "twoD": "Actual full120s 2D guide completed twice across development/final portrait layout; records1 and17 endpoints. Final portrait450x800 stacks samples, has larger temperature/phase axes, true9:16; landscape720x405 true16:9. Sample layers follow component moles, thermometer follows model, heat indicators follow physical clock. Setup/final holds and pause freeze; at paused37.7s, identical transforms retained after theatre toggle. Curve window warning appears outside guide window. Exact eutectic counterexample explicitly explained.",
+    "threeD": "Actual full120s 3D guide completed twice, records2 and18 endpoints. Latest run included all3inspection scopes and viewport/theatre/camera controls. At guide60.2406s physical135.704s, selected22.8686C/fL54.9175%, pure60C/fL40.3518%; at120 default275.4s, bothfullyliquid, selected72.4C/pure80.4C, each27.54J. Equal reference-molar-volume sample cells, component layers, metallic controller stage and probes. Isolated scopes render only the selected cell. Orbit/zoom/reset/cutglass/labels exercised. Figure fits final theatre width constraint with native readings scrollable below.",
+    "responsive": "180 fixed-state cases: initial/excess-solid-and-liquid/maximum-cutoff x2modes x3scopes x2formats x5widths320/390/820/1280/1920 pass; 30 additional3D cases during playback pass. 48 final theatre cases568x320/844x390/1024x768/1920x1080 across all modes/scopes/formats pass. After removing phone minimum-height ratio distortion,12 phone3D ratio checks at320/390 all scopes/formats pass. Native readings and theatre science pane scroll on short screens; narration and exit controls remain accessible. Dark390 portrait inspected, theme and viewport restored. These are browser viewport tests,not physical device or FPS certification.",
+    "practicalRecord": "18 actual paired GUI trials:4full-guide endpoints; A-rich/B-rich initial,midplateau,excesssolid,completion; exacteutecticmid/end; pureB/Aplateau; min/maxamountandpowerat2400s. Three tables6prep/16phase/9heatcols with bothsamples;20workedblocks per sample. Finalactualdownload18trials independently checked inPython:5218 numeric/text checks,720workedblocks. Numeric operands and results checked for every printed calculation as well as tables; no app solver import. Exact independent input JSON; markup escaped. Plan/conclusion/note3 and16rows restored after reload,18rows retained byfinalexport.",
+    "runtime": "Final browser error/warning log empty. Generic absolute Canvas wrapper clipping fixed within this lab. Unbroken constants paragraph phone overflow fixed. Pause no longer resets indicator positions. TypeScript and build pass, existing large-chunk advisory retained. Original146stagedblobs preserved; all previous review hashes validated. Actual Class6 Ready-to-explore filter/searchCL-0087 returned its reviewed card;Openlaboratory opened87 and restored18pairedobservations. Final browser log empty.",
+    "sources": "Private SOURCES.md cites university phase-equilibrium teaching materials and derives ideal chemical-potential/enthalpy equations. All numerical A/B constants and molar volume are explicitly hypothetical teaching references; not measured properties of named chemicals. No external references in product UI. Official board mapping remains pending editorial verification."
+  },
+  "reviewScope": "Internal numerical, functional and browser viewport engineering review only; not independent expert certification, official board mapping, physical hardware/FPS/native gesture or printer verification. Fixed-pressure ideal liquid, separate pure solids, equal Cp50J/(mol K), original Tm60/80C and L10/12kJ/mol. Initial5C,cutoff90C. Ideal delivered net heat,not electrical power. No thermal gradients,apparatus heat,mixing enthalpy,superheating,nucleation delay,solid solution or CFD. Equal100cm3/mol reference volume in all phases is inventory geometry,not density or morphology data. Layer ordering is schematic. Sharp eutectic melting alone does not establish purity.",
+  "nativeGestureVerification": "unverified; accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/mixtureMelting.ts": "d76653e5daa6ad7579489fa2d5d51b3afb0e7a7ac3e57310c577f7891ede91e2",
+    "src/lib/chemistry/mixtureMeltingRecord.ts": "56b7d1407e91ffaa07f16e5de1a6300cbeef61b23cb2cb5f239eade93966745f",
+    "src/lib/chemistry/mixtureMeltingGeometry.ts": "ac319f65ef958a372797f78e1d38901cb853685d85ce85ba8fc458f6b799c333",
+    "src/components/chemistry/MixtureMeltingLab.tsx": "ff0c7fa186aab2ddc87c080541050cc198e508ef712b06d63a19d3ee26749fbb",
+    "src/components/chemistry/MixtureMeltingDiagram.tsx": "6eb1cf8444b55dfac16354e395e72bb29c626ca06778a206cdfb81c0b690dc6f",
+    "src/components/chemistry/MixtureMeltingScene.tsx": "4ec1330b1f28dd4ecaea61d41f9c8b0db00d88eac9707a08359f9315105f643b",
+    "src/components/chemistry/MixtureMeltingReadings.tsx": "ab7815e441c24630eac5462b97adedc4f394c89f6b9846a64f3423ade67aae75",
+    "src/components/chemistry/mixtureMelting.css": "45d84a95b1c84ee19e96c92f5969397d087977b83afcd40e82d84389f161c662",
+    "tests/chemistry-mixture-melting.test.mjs": "f1fdbe61b81ebc790f5878c07b4f683ad1e7dfd4c58790443964b171a2528d5e",
+    "scripts/chemistry/validate_mixture_melting_report.py": "b73748d3210a19f283954c6cb70cc3bc8ba9f9d78205e3e65169dd416644389b",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

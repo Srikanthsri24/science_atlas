@@ -1,0 +1,43 @@
+{
+  "durationSeconds": 120,
+  "twoD": {
+    "freshObservedSeconds": [
+      0.2,
+      26.3,
+      67.8,
+      100.9,
+      106.6349,
+      120
+    ],
+    "endpointRecord": 1,
+    "jet": [
+      "setup paused",
+      "moving-stage running",
+      "inspection paused"
+    ]
+  },
+  "threeD": {
+    "freshObservedSeconds": [
+      0.1606,
+      24.9459,
+      72.6,
+      102.8797,
+      120
+    ],
+    "endpointRecord": 2
+  },
+  "replayChecks": {
+    "twoD": {
+      "time": 0.3,
+      "scope": "pair",
+      "size": 3,
+      "jet": "paused"
+    },
+    "threeD": {
+      "time": 0.3,
+      "scope": "pair",
+      "size": 3
+    }
+  },
+  "scope": "Actualdesktopplayback;oldpartial60.7snotcounted. Laterwording/CSSonlyrefinementsdo notalterphysicalmotion/timing."
+}

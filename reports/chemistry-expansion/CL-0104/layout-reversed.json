@@ -1,0 +1,668 @@
+{
+  "preset": "Reverse grain counts",
+  "checks": 66,
+  "failures": [],
+  "unchanged": true,
+  "rows": [
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "cell-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Reverse grain counts",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": true,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    }
+  ]
+}

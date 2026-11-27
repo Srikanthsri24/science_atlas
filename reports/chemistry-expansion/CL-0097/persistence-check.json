@@ -1,0 +1,6 @@
+{
+  "conclusion": "The modeled reaction warms the solution and cup. Warming does not prove equivalence:compare delivered acid and initial base amounts. The reconstructed enthalpy repeats an input model parameter;it is not an independent experimental determination.",
+  "note": "Paused at36s:the delivered acid fraction is1/3. Retain reservoir,solution and signed heat accounts separately. <temperature> & volume are different observations.",
+  "plan": "Aim: compare staged acid delivery and temperature. Record stock volume,reacted amount and heat absorbed by solution & cup. Literal notation: <cup> and \"probe\".",
+  "status": "Notebook: 19 observations · 532 worked calculations."
+}

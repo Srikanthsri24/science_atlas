@@ -1,0 +1,55 @@
+{
+  "before": {
+    "circles": [
+      [
+        "242",
+        "665.4139392840291",
+        "7.6499999999999995"
+      ],
+      [
+        "208",
+        "615.155001988001",
+        "7.6499999999999995"
+      ],
+      [
+        "242",
+        "564.8960646919729",
+        "7.6499999999999995"
+      ],
+      [
+        "208",
+        "514.6371273959448",
+        "7.6499999999999995"
+      ]
+    ],
+    "reading": "Generated → syringe → receiver29.7721 mL storedGenerated 48.8888 mL · transferred 19.1167 mLDry ideal gas · 25 °C · 101.325 kPaLimewater evidencecleared envelopeSolid 0 mg · bicarbonate 0.00025 molBypass 0.000281377 mol · lime remaining 0 molThis ideal sequential envelope has no remaining precipitate after sufficient excess CO₂. Clearing does not mean no gas was generated.Stored gas has not yet tested limewater. Solid markers illustrate equivalent solid volume;they do not measure turbidity or real particle size.Optional material and formula extensionSource carbonate remaining 0 g · HCl remaining 0.00000343704 molNominal fills:source 20.1121 mL;receiver 25.022 mL. Both include solid displacement under stated drawing-density assumptions.Initial chemical contents 45.2 g · final accounted contents 45.2 g · mass residual 0 g. Hardware tare excluded.Peak reachable with full source:yes;clearing reachable:yes. These are sequential stoichiometric limits,not exact aqueous-equilibrium boundaries.",
+    "time": "93.9"
+  },
+  "after": {
+    "circles": [
+      [
+        "242",
+        "665.4139392840291",
+        "7.6499999999999995"
+      ],
+      [
+        "208",
+        "615.155001988001",
+        "7.6499999999999995"
+      ],
+      [
+        "242",
+        "564.8960646919729",
+        "7.6499999999999995"
+      ],
+      [
+        "208",
+        "514.6371273959448",
+        "7.6499999999999995"
+      ]
+    ],
+    "reading": "Generated → syringe → receiver29.7721 mL storedGenerated 48.8888 mL · transferred 19.1167 mLDry ideal gas · 25 °C · 101.325 kPaLimewater evidencecleared envelopeSolid 0 mg · bicarbonate 0.00025 molBypass 0.000281377 mol · lime remaining 0 molThis ideal sequential envelope has no remaining precipitate after sufficient excess CO₂. Clearing does not mean no gas was generated.Stored gas has not yet tested limewater. Solid markers illustrate equivalent solid volume;they do not measure turbidity or real particle size.Optional material and formula extensionSource carbonate remaining 0 g · HCl remaining 0.00000343704 molNominal fills:source 20.1121 mL;receiver 25.022 mL. Both include solid displacement under stated drawing-density assumptions.Initial chemical contents 45.2 g · final accounted contents 45.2 g · mass residual 0 g. Hardware tare excluded.Peak reachable with full source:yes;clearing reachable:yes. These are sequential stoichiometric limits,not exact aqueous-equilibrium boundaries.",
+    "time": "93.9"
+  },
+  "equal": true
+}

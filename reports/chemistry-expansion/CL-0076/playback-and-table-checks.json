@@ -1,0 +1,19 @@
+{
+  "playingEnabled": false,
+  "pausedEnabled": true,
+  "before": {
+    "client": 314,
+    "left": 0,
+    "scroll": 2550
+  },
+  "after": {
+    "client": 314,
+    "left": 40,
+    "scroll": 2550
+  },
+  "page": {
+    "scroll": 390,
+    "width": 390,
+    "worked": true
+  }
+}

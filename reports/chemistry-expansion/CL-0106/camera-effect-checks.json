@@ -1,0 +1,58 @@
+[
+  {
+    "action": "Orbit left",
+    "changed": true
+  },
+  {
+    "action": "Orbit right",
+    "changed": true
+  },
+  {
+    "action": "Zoom in",
+    "changed": true
+  },
+  {
+    "action": "Zoom out",
+    "changed": true
+  },
+  {
+    "action": "Qualitative surface cue",
+    "changed": true
+  },
+  {
+    "action": "Qualitative surface cue",
+    "changed": true
+  },
+  {
+    "action": "Initial metal outline",
+    "changed": true
+  },
+  {
+    "action": "Initial metal outline",
+    "changed": true
+  },
+  {
+    "action": "Labels",
+    "changed": true
+  },
+  {
+    "action": "Labels",
+    "changed": true
+  },
+  {
+    "action": "Orbit left",
+    "changed": true
+  },
+  {
+    "action": "Reset camera",
+    "changed": true
+  },
+  {
+    "action": "Glass cutaway",
+    "changed": true
+  },
+  {
+    "action": "Glass cutaway",
+    "changed": true
+  }
+]

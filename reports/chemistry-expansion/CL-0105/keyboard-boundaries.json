@@ -1,0 +1,72 @@
+[
+  {
+    "field": "Phase identity bathWaterG",
+    "label": "Bath water: 40 g",
+    "max": "80",
+    "min": "40",
+    "value": "40"
+  },
+  {
+    "field": "Phase identity bathWaterG",
+    "label": "Bath water: 80 g",
+    "max": "80",
+    "min": "40",
+    "value": "80"
+  },
+  {
+    "field": "Phase identity initialIceG",
+    "label": "Initial ice: 10 g",
+    "max": "30",
+    "min": "10",
+    "value": "10"
+  },
+  {
+    "field": "Phase identity initialIceG",
+    "label": "Initial ice: 30 g",
+    "max": "30",
+    "min": "10",
+    "value": "30"
+  },
+  {
+    "field": "Phase identity magnesiumG",
+    "label": "Initial magnesium stock: 0.2 g",
+    "max": "1",
+    "min": "0.2",
+    "value": "0.2"
+  },
+  {
+    "field": "Phase identity magnesiumG",
+    "label": "Initial magnesium stock: 1 g",
+    "max": "1",
+    "min": "0.2",
+    "value": "1"
+  },
+  {
+    "field": "Phase identity oxygenMol",
+    "label": "Initial oxygen: 0 mol",
+    "max": "0.01",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Phase identity oxygenMol",
+    "label": "Initial oxygen: 0.01 mol",
+    "max": "0.01",
+    "min": "0",
+    "value": "0.01"
+  },
+  {
+    "field": "Phase identity phaseHeatFraction",
+    "label": "Net melting-energy fraction: 0",
+    "max": "1",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Phase identity phaseHeatFraction",
+    "label": "Net melting-energy fraction: 1",
+    "max": "1",
+    "min": "0",
+    "value": "1"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "labId": "CL-0081",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "7 focused model/record tests plus2catalogue-navigation tests passed;final2965fullregression tests passed. Exact piecewise inventory agrees with independentRK4 through unsaturated/saturated states. Corners close separate water/solute balances,show nonnegative inventories and terminate drying. Zero-loss equality,hot-reading gate,wet/dry distinction,rounding and staged-guide monotonicity checked. Final TypeScript passed;Vite build37.60s passed.",
+    "twoD": "Actual full120s guide completed with recorddisabledwhileplaying/enabledatend;endpoint saved. Later added A/Bdetailcontrols and fixed narrow-text overflow;final static phone9:16theatreB detail inspected. Watch from croppedB resets pair at0.5s;paused partial replay was not counted as a fullrun. Vapour and outlet marker motion follow reference heating time;liquid/solid/catcher correspond to model inventories.",
+    "threeD": "Actual full120s guide completed and endpoint saved;vapour/transfer inspected live59.4s. ScopeA/B,pair,orbitL/R,zoom+/\u2212,reset,cutaway and labels exercised. Changed scope to isolate selected preparation after the full guide;static mobileB view inspected. Main dish volume partition uses chosen water1g/mL,solid2g/mL,dissolved volume0.5mL/g and dense solid layer. Catcher volume refinement prevents extreme-capacity overflow;metering block represents imposed solution transfer. Native gestures and FPS not verified.",
+    "responsive": "20 final viewportcases2D/3D\u00d716:9/9:16\u00d7320/390/820/1280/1920 all pagewidth==viewportwidth,positivecontainedvisuals. Initial320px long procedure text overflow334px fixed with wrapping. Added phone A/B2D detail and420pxminimum3Dstage. Final phone3Dlandscape245/262.5pxcanvas,portrait326.3/468.3pxcanvas. Actual390darkdetail and2Dportraittheatre inspected;theatre390\u00d7844. Observationregion314/3558px scrolls internally;keyboardHome0\u2192ArrowRight40. Viewport/light restored.",
+    "practicalRecord": "13 actualGUIpairedtrials:initial,bothfullguideendpoints,cooledwet,hotdry,cooleddry,min/no-loss,max/hot60s/maxcooled,strongestlossinitial/dry,fractionaltareandbothincrements.31columns,24workedblocks/trial. Actual downloaded4-tableexamreport has239numericobservationchecks passing independentRK4 dt\u22640.01s,312workedblockspresent,studentproseescaped. Hot/cooled/wet/dry states labelled honestly.13rows/plan/conclusion/note2 survive reload andactualClass6workingpreviewreturn.",
+    "sources": "Original generic numerical/reference assumptions. UMass gravimetric course search excerpt supports drying/cooling/reweighing method;fullfetch timed out. Private model-plan explicitly records this scope. No copied textbook text or proprietary assets;no external reference panel in student interface."
+  },
+  "reviewScope": "Internal numerical,functional and browser-viewport engineering review only;not independent scientific expert certification,official curriculum mapping,real compound calibration,physical device/printer/FPS/native gesture verification. Original generic nonvolatile solute,c=.25g/gwater,prescribed water-only evaporation and well-mixed solution loss,no solid entrainment/energy/boiling/humidity calculation. Reference drying70\u00b0C;cooling exponential with chosen30s timeconstant and30\u00b0Creportinggate. Material transfer frozen after removal. A dense solid inventory layer is not literal crystal habit;vapour/outlet markers are qualitative. Wet apparent mass is not dry solute recovery;rounded constant display alone does not establish dryness. Large-build-chunk advisory retained. Later scope/layout refinements statically retested after fullguide runs;scientific animation timing unchanged.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/evaporationRecovery.ts": "e50057a44afc204de3fc99a04948ea5869eff1fdf3df9cdd897d2d8f6a90f8fa",
+    "src/lib/chemistry/evaporationRecoveryRecord.ts": "1e3a99e95e76480f102ca4aedbb1904976cea30fcd12e06776dc6b8f496ae71a",
+    "src/components/chemistry/EvaporationRecoveryLab.tsx": "3583c3f39febe26ca8414675b85cd06f4f1ed9e5c2fc716476c95ca52b71e34d",
+    "src/components/chemistry/EvaporationRecoveryDiagram.tsx": "a0bed004054d3f5abd1500ce007f6d945bf8e0bb89a6aa796d0644d8af01b4e6",
+    "src/components/chemistry/EvaporationRecoveryScene.tsx": "0b46e733568bf5668c6b2baa2f365362be9f217e5eb827ad4c2346d0a7e9db5b",
+    "src/components/chemistry/evaporationRecovery.css": "4cd4aa5b55a722003f1e6bcda541a5096e44e69901970ef5587d177c48f50fbd",
+    "tests/chemistry-evaporation-recovery.test.mjs": "809e0768787d37e8de31bddac8a9051b66af3d6cd81e383b39e6bfc42cb6b7d2",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  }
+}

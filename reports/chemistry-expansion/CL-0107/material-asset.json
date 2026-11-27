@@ -1,0 +1,12 @@
+{
+  "asset": "src/components/chemistry/assets/rust-coupon-albedo-v1.png",
+  "sha256": "081611ede1bac8dea409db0fdd2958fbc1f8be4eb0e7712908629a6800c824ff",
+  "width": 1254,
+  "height": 1254,
+  "bytes": 3967872,
+  "generation": "Built-in image_gen tool; no API key or CLI fallback",
+  "purpose": "Original qualitative iron-oxide/metal base-color illustration for CL-0107 viewer",
+  "scientificStatus": "Not an experimental image, compositional measurement or rust thickness prediction",
+  "sampling": "Use a single surface with ClampToEdge wrapping; exact pixel-periodic tiling has not been verified",
+  "integrationStatus": "Integrated in 2D and 3D; first desktop 3D close-up visually inspected. Full device and animation review pending."
+}

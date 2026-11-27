@@ -1,0 +1,5 @@
+{
+  "timeline": "120",
+  "readings": "Methyl orange · control\n10 mL · pH 2 (ideal)\n0.01 mg indicator · 1 mg/L\nred · concentration ratio 1\nMethyl orange · test\n90 mL · pH 2.9542 (ideal)\n0.01 mg indicator · 0.11111 mg/L\nred · concentration ratio 0.11111\nPhenolphthalein · control\n10 mL · pH 2 (ideal)\n0.01 mg indicator · 1 mg/L\ncolourless · concentration ratio 1\nPhenolphthalein · test\n90 mL · pH 2.9542 (ideal)\n0.01 mg indicator · 0.11111 mg/L\ncolourless · concentration ratio 0.11111\n\nShared water remaining: 0 mL · nominal volume closure: 0 mL. Colours are illustrative; neither absorbance nor exact pH is measured by this picture. Phenolphthalein alkaline fading is not modelled.",
+  "notebook": "Notebook: 3 observations · 147 worked calculations."
+}

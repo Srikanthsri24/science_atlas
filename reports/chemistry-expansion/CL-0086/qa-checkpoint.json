@@ -1,0 +1,22 @@
+{
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "core/record/geometry",
+    "original2D/3Dapparatus/readings/magnifier",
+    "frontendroute/controls/notebook",
+    "actualfullguides/GUI/export/responsiveverification"
+  ],
+  "focusedTestsPassed": 13,
+  "typeScript": "Passed",
+  "remaining": [],
+  "scope": "Internal numerical,functional andbrowserviewport engineeringreview only;notindependentexpertcertification,officialcurriculummapping,physicaldevice/printer/FPS/nativegestureverification. FixedgasT40\u00b0C/freespace,well-mixedI2partialpressure,inertcarrier101325Pa,source/collector40\u201380\u00b0Cconstantthermostats. Constantenthalpypressureapproximationanchored40\u00b0C,notexactfullAntoinefit. Chosenlinearconductance0.001mg/(cm\u00b2Pa s),effectiveareasconstantuntilsourceexhaustion. Noliquidphase,wallsorption/leaks/entrainment/nucleation/CFD/sensible/glassheating. Referenceheatbudgetnotfullthermalbalance. Roomreferenceiodinedensity/noexpansion,choseninertdensity2500mg/cm\u00b3;solid-equivalentfilmsnotcrystalhabit/packing. Freegasgeometryinitialexactwithstructures;kineticsignores<0.017%phase-volumeheadspacechange. Markerpaths/colourillustrative. Parameterchangesresetfresh,notthermalhistory. Idealdepositpurityonlysingledepositingspecies,emptyundefined.",
+  "fullTestsPassed": 3027,
+  "build": "Vite41.08spass",
+  "navigation": "ActualClass6Readycardopens86andrestores16observations",
+  "proofs": [
+    "verified-sublimation.jpg",
+    "phone-small-chamber.jpg",
+    "phone-collector.jpg",
+    "phone-source.jpg"
+  ]
+}

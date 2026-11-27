@@ -1,0 +1,332 @@
+{
+  "preset": "Maximum gas expansion",
+  "checks": 36,
+  "failures": [],
+  "unchanged": true,
+  "rows": [
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "gas",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "both",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "a",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum gas expansion",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "b",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    }
+  ]
+}

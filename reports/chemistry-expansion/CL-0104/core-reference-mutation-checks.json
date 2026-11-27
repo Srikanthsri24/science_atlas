@@ -1,0 +1,22 @@
+[
+  {
+    "field": "areaCm2",
+    "rejected": true
+  },
+  {
+    "field": "solidG",
+    "rejected": true
+  },
+  {
+    "field": "rateGS",
+    "rejected": true
+  },
+  {
+    "field": "solutionMl",
+    "rejected": true
+  },
+  {
+    "field": "additionalDissolvedG",
+    "rejected": true
+  }
+]

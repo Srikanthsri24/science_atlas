@@ -1,0 +1,25 @@
+{
+  "before": {
+    "bulbs": [
+      [
+        "549.7010000000066",
+        "230",
+        "6"
+      ]
+    ],
+    "readings": "SINGLE VIRTUAL PROBELactic-acid modelReading withheld · immerse the bulbBulb above complete immersion · ideal nonconsuming probeFive calculated predictions · not five probe measurementsPure-water controlpH 7 · neutral0 mol/L · 0 molAcetic-acid modelpH 3.3876 · acidic0.01 mol/L · 0.0004 molLactic-acid modelpH 2.9555 · acidic0.01 mol/L · 0.0004 molCitric-acid modelpH 2.6208 · acidic0.01 mol/L · 0.0004 molSodium-bicarbonate modelpH 8.336 · basic0.01 mol/L · 0.0004 molPure-solute food analogues at25°C. Real food composition and buffering vary. Probe displacement,carryover and electrode response are omitted. Prepared contents 200 g · mass residual 2.8422e-14 g.",
+    "time": "55.7"
+  },
+  "after": {
+    "bulbs": [
+      [
+        "549.7010000000066",
+        "230",
+        "6"
+      ]
+    ],
+    "readings": "SINGLE VIRTUAL PROBELactic-acid modelReading withheld · immerse the bulbBulb above complete immersion · ideal nonconsuming probeFive calculated predictions · not five probe measurementsPure-water controlpH 7 · neutral0 mol/L · 0 molAcetic-acid modelpH 3.3876 · acidic0.01 mol/L · 0.0004 molLactic-acid modelpH 2.9555 · acidic0.01 mol/L · 0.0004 molCitric-acid modelpH 2.6208 · acidic0.01 mol/L · 0.0004 molSodium-bicarbonate modelpH 8.336 · basic0.01 mol/L · 0.0004 molPure-solute food analogues at25°C. Real food composition and buffering vary. Probe displacement,carryover and electrode response are omitted. Prepared contents 200 g · mass residual 2.8422e-14 g.",
+    "time": "55.7"
+  },
+  "identical": true
+}

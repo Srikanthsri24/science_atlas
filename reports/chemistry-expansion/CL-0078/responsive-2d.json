@@ -1,0 +1,122 @@
+[
+  {
+    "format": "landscape",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 260,
+        "width": 282
+      }
+    ],
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 260,
+        "width": 352
+      }
+    ],
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 312.75,
+        "width": 556
+      }
+    ],
+    "width": 820
+  },
+  {
+    "format": "landscape",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 375.1875,
+        "width": 667
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "format": "landscape",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 683.4375,
+        "width": 1215
+      }
+    ],
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 501.328125,
+        "width": 282
+      }
+    ],
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 625.7734375,
+        "width": 352
+      }
+    ],
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 800,
+        "width": 480
+      }
+    ],
+    "width": 820
+  },
+  {
+    "format": "portrait",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 800,
+        "width": 480
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "format": "portrait",
+    "overflow": false,
+    "svg": [
+      {
+        "contained": true,
+        "height": 800,
+        "width": 480
+      }
+    ],
+    "width": 1920
+  }
+]

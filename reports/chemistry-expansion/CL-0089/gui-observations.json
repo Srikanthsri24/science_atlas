@@ -1,0 +1,78 @@
+{
+  "steps": [
+    {
+      "step": "1 · Initial water and cold store",
+      "readings": "Liquid cooling · physical clock 0 s\n\nTwo temperatures\nSample 20 °C\n\nFinite cold store -20 °C\n\nHeat sample → store 400 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 0 J\n\nLatent released 0 J · vessel released 0 J\n\nSample released 0 J\n\nStore gained 0 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "2 · Inspect liquid cooling",
+      "readings": "Liquid cooling · physical clock 17.464 s\n\nTwo temperatures\nSample 7.87596 °C\n\nFinite cold store -18.1086 °C\n\nHeat sample → store 259.846 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 5067.85 J\n\nLatent released 0 J · vessel released 606.202 J\n\nSample released 5674.05 J\n\nStore gained 5674.05 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "3 · Inspect freezing onset",
+      "readings": "Freezing plateau · physical clock 34.9279 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -16.88 °C\n\nHeat sample → store 168.8 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0.506299 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 0 J · vessel released 1000 J\n\nSample released 9360 J\n\nStore gained 9360 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "4 · Inspect freezing plateau",
+      "readings": "Freezing plateau · physical clock 196.033 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -9.86617 °C\n\nHeat sample → store 98.6617 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 36.8882 g · ice 63.1118 g\n\nAccounted 100 / 100 g\n\nIce growth 0.295926 g/s\n\nReference phase volume 105.712 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 21041.5 J · vessel released 1000 J\n\nSample released 30401.5 J\n\nStore gained 30401.5 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual -3.63798e-12 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "5 · Inspect complete freezing",
+      "readings": "Ice cooling · physical clock 357.139 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -5.76667 °C\n\nHeat sample → store 57.6667 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 0 g · ice 100 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 109.051 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 33340 J · vessel released 1000 J\n\nSample released 42700 J\n\nStore gained 42700 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "6 · Inspect guide endpoint",
+      "readings": "Ice cooling · physical clock 428.918 s\n\nTwo temperatures\nSample -5.04254 °C\n\nFinite cold store -5.32965 °C\n\nHeat sample → store 2.87105 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 0 g · ice 100 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 109.051 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 9418.93 J\n\nLatent released 33340 J · vessel released 1252.13 J\n\nSample released 44011.1 J\n\nStore gained 44011.1 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "All control Home",
+      "readings": "Freezing plateau · physical clock 7200 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -4.24036 °C\n\nHeat sample → store 0.424036 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 93.9417 g · ice 6.05825 g\n\nAccounted 100 / 100 g\n\nIce growth 0.00127185 g/s\n\nReference phase volume 100.548 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 2019.82 J · vessel released 0 J\n\nSample released 10379.8 J\n\nStore gained 10379.8 J\n\nClosed-system check\n\nCurrent signed total 29200 J\n\nInitial signed total 29200 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "step": "All control End",
+      "readings": "Liquid cooling · physical clock 7200 s\n\nTwo temperatures\nSample 2.85322 °C\n\nFinite cold store 2.85322 °C\n\nHeat sample → store 7.61977e-38 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 500 g · ice 0 g\n\nAccounted 500 / 500 g\n\nIce growth 0 g/s\n\nReference phase volume 500 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 35836.8 J\n\nLatent released 0 J · vessel released 3429.36 J\n\nSample released 39266.1 J\n\nStore gained 39266.1 J\n\nClosed-system check\n\nCurrent signed total 187500 J\n\nInitial signed total 187500 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    }
+  ],
+  "branches": [
+    {
+      "name": "No-freezing reference",
+      "onsetEnabled": false,
+      "completeEnabled": false,
+      "readings": "Liquid cooling · physical clock 7200 s\n\nTwo temperatures\nSample 7.08678 °C\n\nFinite cold store 7.08678 °C\n\nHeat sample → store 1.10917e-127 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 5397.73 J\n\nLatent released 0 J · vessel released 645.661 J\n\nSample released 6043.39 J\n\nStore gained 6043.39 J\n\nClosed-system check\n\nCurrent signed total 40200 J\n\nInitial signed total 40200 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "name": "Onset only at infinite time",
+      "onsetEnabled": false,
+      "completeEnabled": false,
+      "readings": "Liquid cooling · physical clock 7200 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store 0 °C\n\nHeat sample → store 1.80019e-98 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 0 J · vessel released 1000 J\n\nSample released 9360 J\n\nStore gained 9360 J\n\nClosed-system check\n\nCurrent signed total 33340 J\n\nInitial signed total 33340 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "name": "Partial-freezing reference",
+      "onsetEnabled": true,
+      "completeEnabled": false,
+      "readings": "Freezing plateau · physical clock 7200 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -2.5275e-20 °C\n\nHeat sample → store 2.5275e-19 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 38.0924 g · ice 61.9076 g\n\nAccounted 100 / 100 g\n\nIce growth 7.581e-22 g/s\n\nReference phase volume 105.603 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 20640 J · vessel released 1000 J\n\nSample released 30000 J\n\nStore gained 30000 J\n\nClosed-system check\n\nCurrent signed total 12700 J\n\nInitial signed total 12700 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "name": "Complete freezing only at infinite time",
+      "onsetEnabled": true,
+      "completeEnabled": false,
+      "readings": "Freezing plateau · physical clock 7200 s\n\nTwo temperatures\nSample 0 °C\n\nFinite cold store -4.17845e-14 °C\n\nHeat sample → store 4.17845e-13 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 2.66454e-13 g · ice 100 g\n\nAccounted 100 / 100 g\n\nIce growth 1.25328e-15 g/s\n\nReference phase volume 109.051 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 8360 J\n\nLatent released 33340 J · vessel released 1000 J\n\nSample released 42700 J\n\nStore gained 42700 J\n\nClosed-system check\n\nCurrent signed total -3.7426e-13 J\n\nInitial signed total 0 J\n\nResidual -3.7426e-13 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    },
+    {
+      "name": "Disconnected",
+      "readings": "Contact disconnected · physical clock 7200 s\n\nTwo temperatures\nSample 20 °C\n\nFinite cold store -20 °C\n\nHeat sample → store 0 W\n\nThe cold store warms as it absorbs heat.\n\nOne conserved water mass\n\nLiquid 100 g · ice 0 g\n\nAccounted 100 / 100 g\n\nIce growth 0 g/s\n\nReference phase volume 100 mL\n\nEqual and opposite heat exchange\n\nWater sensible released 0 J\n\nLatent released 0 J · vessel released 0 J\n\nSample released 0 J\n\nStore gained 0 J\n\nClosed-system check\n\nCurrent signed total -17300 J\n\nInitial signed total -17300 J\n\nResidual 0 J\n\nEnthalpy reference: ice at0°C =0.\n\nPredicted limits,not current observations\nGeneric cold-store reference,not a subzero pure-water bath. Phase regions show inventory,not a predicted crystal front or buoyancy. Geometry uses constant reference densities."
+    }
+  ],
+  "pause": {
+    "before": {
+      "arrow": "translate(225 410.7852710740429) rotate(90)",
+      "flow": "paused",
+      "time": "228.2542894971282"
+    },
+    "after": {
+      "arrow": "translate(225 410.7852710740429) rotate(90)",
+      "flow": "paused",
+      "time": "228.2542894971282"
+    }
+  }
+}

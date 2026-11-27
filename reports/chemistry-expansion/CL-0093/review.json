@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0093",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13science+2navigation15focusedPASS;full3125regressionPASS.9072inventory/charge/waterproduct states;501acid/base pairs independently solved by log-space bisection;primaryUBCvery-dilute-acid example;mirror references;pure-water control;dilution approaches neutrality without crossing;strict broad endpoint boundaries;two-paper completion gate and invalid inputs. Ordered120sguide and deterministic applicator approaches. FinalTypeScript94095exit0;Vite46798exit0/build11.71s.",
+    "twoD": "Initial120s guide completed,then final refined guide replayed and completed120s after adding applicator approaches and correcting portrait footer. Original clear sample vessel,white tile,fresh separate red/blue papers;contact-area close-up and conserved-aliquot volume accounts. Pending contact grey;transition unresolved hatched;bulk liquid stays clear. Approach movement and delivery markers use the shared guide clock,not a separate CSS animation or invented kinetic rate.",
+    "threeD": "Initial120s guide completed with layout refinements during continuous playback,then final-source guide replayed from0.233 and actually completed120s. Original cylindrical clear sample with volume-derived reservoir height,white assay tile,separate paper patches,glass applicators/rubber bulbs,staged approach and delivery markers. Paper close-ups hide applicators and use tighter overhead framing. Portrait rotates apparatus in world space with matching camera bounds. Orbit left/right,zoom in/out,reset and labels exercised. Native desktop tab drag and wheel zoom additionally verified after user unlocked Mac.",
+    "responsive": "360normal cases:default acid,base,knownwater,unresolved transition,minimum1mL20\u00b5L/Cstock.001mM/D10000,andmaximum10mL100\u00b5L/Cstock10mM/D1;6preparations\u00d72modes\u00d73scopes\u00d72formats\u00d75widths320/390/820/1280/1920.48maximum-preparation theatre cases2modes\u00d73scopes\u00d72formats\u00d7568x320/844x390/1024x768/1920x1080.24additional2Dtheatre checks during changing guide values. Saved matrices all correct ratios/nonzero media/no document overflow/noSVGtext clipping or overlaps after shortening overlong portrait footer. Phone dark/theatre and desktop light inspected. Theme/viewport/theatre/camera restored;viewport checks are not physical-device/FPS certification.",
+    "practicalRecord": "16actualGUI observations32paper records:initial/refined2D and3Dguide endpoints;fresh acid;red.1only;redfullonly;redfull/blue.1;fullbase;fullwater;UBCtransition;minverydiluteacid;maxstrongacid;verydilutebase;bothhalfdelivered;freshwater;unresolvedbase. Three tables9preparation/13paired-observation/12budget columns.23worked blocks per observation. Actualdownload independently1694table/numericoperand/result checks368blocksPASS;synthetic9trials953checks207blocksPASS. Validator uses independent charge bisection and strict concentration tolerances. Exact inputs,student plan/conclusion/note4 escaped and16rows restored afterreload. Calculated pH explicitly distinct from paper evidence.",
+    "runtime": "Paused36guide seconds preserved both applicator transform strings and all3flow-marker coordinate pairs across theatre/viewport change;resume worked. Water hides irrelevant stock controls. Final16observations32paper records retained. Finalbrowser warning/error log empty. DesktopChrome direct-tab native drag800,600\u2192950,640 visibly orbited paused scene;native wheel up at1000,650 visibly zoomed with unchanged canvas rectangle. App-level native drag first returned noWindowsAvailable,then documented direct-tab fallback succeeded. Camera reset afterward. NoGitmutation;146original staged blobs unchanged;nextpush100reviewed.",
+    "sources": "PrimaryUBCwater-inclusive strong-reference charge balance and Merckred-litmus broad endpoint description verified privately. No fabricated exactRGB/pKa or measured paper kinetics. Known-water paper outcome is an explicit operational classroom reference,not equilibrium calibration. NCERTfullPDFtimeout/SATHEE403 mean official mapping remains pending. Company-only product references."
+  },
+  "reviewScope": "Internal numerical,functional,browser viewport and limited desktop native-input review only;not independent expert,official-board,all-device,FPS,touch,right-button-pan or printer certification. Ideal25\u00b0Cpreparedstrong-acid/base references,complete dissociation and chosenKw1e-14(mol/L)\u00b2;no activities,weakacids,CO\u2082,temperature change,indicator loading,evaporation,contamination or absorption dynamics. Broad indicator endpoint categories only;transition colours unresolved. Known-water retained starting colours are an operational classroom control,not proof of unknown exactneutrality. Contact geometry and flow markers schematic;presentation time not kinetics. Conserved reference-solute amounts,not individualH/OH chemical inventories. Rounded displayed calculations;unrounded source inputs retained.",
+  "nativeGestureVerification": "passed desktop Chrome direct-tab left-drag orbit and wheel zoom;touch and right-button pan unverified",
+  "sourceHashes": {
+    "src/lib/chemistry/litmusTests.ts": "fa2388e68386b7b32aef5c21577ee494dbeeff59f99e3f465ed8e0f5b83c8b0d",
+    "src/lib/chemistry/litmusTestsRecord.ts": "abcef6ea87ff550f157df1ea821355d0504b1918c35bc95b9e779f12b2da5c7c",
+    "src/lib/chemistry/litmusTestsGeometry.ts": "3a8b40697812d9df8fc6f78002b285d8998b8996bc02962e6e75bd96ca8adf9e",
+    "src/components/chemistry/LitmusTestsLab.tsx": "854c50b8952a5de7255614be9a32a65270fd1bf5f523d2c8bd46b6d61fdc1113",
+    "src/components/chemistry/LitmusTestsDiagram.tsx": "b8b601c023eff80647c351e1588f600e08631f97c6a17b7adfc0fd7c166c2921",
+    "src/components/chemistry/LitmusTestsScene.tsx": "da6d0c7b5666641c99506713b06bf2995e68d9563cd83c04d055127ad1037788",
+    "src/components/chemistry/LitmusTestsReadings.tsx": "b2cf8fde94c2fb6dc17935ebede122b79a9e67d3091f399820dbfaf7f1032b65",
+    "src/components/chemistry/litmusTests.css": "8556acf49d59e367413fc4aa21a937a8d7948e38c57ff33c580132d6e125bd0e",
+    "tests/chemistry-litmus-tests.test.mjs": "3e9f9a96e67aa250501ac2bcc35d158cfea71c9d83f0dabfdcfd6097a620cda9",
+    "scripts/chemistry/validate_litmus_tests_report.py": "8d229643dc7ef5e7eab52d705917673f8f322164d3721be6c2179e673fc1bc9a",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

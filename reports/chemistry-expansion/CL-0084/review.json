@@ -1,0 +1,36 @@
+{
+  "labId": "CL-0084",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "9focusedmodel/recordtests+2navigationchecks pass;3001fullregression pass;TypeScript pass. Independent20kcrosssectionintegration,inversecalibration,RK4phaseODEtiming,72cornerpreparations\u00d73closures\u00d73thresholds\u00d76timesconserveA/B/mass. VentedweightedheadandSIpressureconversion,closedflow,densityreversal/tie,early/latecollection,masspurityversusrecoverychecked. FinalVitebuild11.86spassed;largechunkadvisoryretained.",
+    "twoD": "Freshactual120sguidecompletedandendpointrecorded. CurvedSVGclippedlayersmatchanalyticgeometry;movingjetfollowspauseclock.12setup46lowerdrain12closedinterface40upperdrain10resulthold. Native readings remain accessible.",
+    "threeD": "Freshactual120sguidecompletedandendpointrecorded. Latheglass/phasevolumesusesamecurvedradiusandheights. Ventedstopperparked,stopcock,stand,tworeceiversandillustrativefallingdroplets. OrbitL/R,zoom\u00b1,reset,labels exercised. Instantcollectorrelocationisidealised;dropletshape/receiverfillscalesnotcalibrated.",
+    "responsive": "40initial/collected\u00d72modes\u00d72formats\u00d75widths320/390/820/1280/1920 nooverflow/fallback/zero-size/clippedcanvas.16theatrecases568\u00d7320,844\u00d7390,1024\u00d7768,1920\u00d71080bothformats/modes pass.820landscape3D121.7pxfixedto408.9pxbyminimum600pxstageat701\u20131500width.390darkportraittheatretestedandproofsaved. Keyboardtable1861.5\u21921901px.",
+    "practicalRecord": "15actualGUItrials:2fullguideendpoints,initial/interface,early\u221210/late+10switch,reverseddensity1.25/tie1,zeroopening,min/maxpreparation,closure36/later3600,resume/final,scheduledclose1.30columns13workedblockspertrial. ActualHTMLdownloadpassed635independentPython numeric/textchecksand195workedblocks. ExactinputJSONpreservesphaseboundary;studentnotesescaped. Plan/conclusion/note5/15rowsrestoreafterreload. ActualClass6Readytoexplorecardreturnopens84andrestores15observations.",
+    "runtime": "Browsererror/warninglogempty. Initialdownload event waittimedoutandCUAkernelreset;existingtabreattachedwithoutrepeatingmutations. ActualfileinDownloadsvalidatedandcopiedtoevidence. Fullscientificguardsretained.",
+    "sources": "Originalaxisymmetricreferencevesselandventedquasi-staticmodel;independentnumericalvalidation. Noofficialcurriculumchaptermappingorcommercialcalibrationclaimed."
+  },
+  "reviewScope": "Internal numerical,functional andbrowserviewport engineeringreview only. Notindependentexpertcertification,officialboardmapping,physicaldevice/printer/FPS/nativegestureverification. Assumedimmiscibleincompressiblephases,densityA1g/mL,g981cm/s\u00b2,orificearea0.03\u00d7openingcm\u00b2. Noviscosity,emulsion,entrainment,capillarity,outletholdup,airlockorhandlingloss. DensitytieusesinitialA-below-Bconvention. Instantidealvolume-indexedcollectorswitch;closedinterfaceinspectionexcludedfromopenflowclock. Receiverdimensionsandfreejetsillustrative. LaterCSSminimumstageheightrefinementafterfullguides,timingunchanged.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/separatoryFunnel.ts": "0c77ef7c746c09df56186864ba0d8e1f10fdc20a4c58f49da8d58b1b92877b96",
+    "src/lib/chemistry/separatoryFunnelGeometry.ts": "3710190fd2b543288130e0f3a41c6f455d8f445ef991790ffd52e7f6882a4382",
+    "src/lib/chemistry/separatoryFunnelRecord.ts": "2715292785c7fabc03e7596b7ab9db6d4457ffa767f1b97d7032ea7d057b1fa7",
+    "src/components/chemistry/SeparatoryFunnelLab.tsx": "5158e38c8de67cd56787e011679a121f8da6a3f467137c870693458a9544eb18",
+    "src/components/chemistry/SeparatoryFunnelDiagram.tsx": "e0a593e29d241311bb5d2604e6a8de17fe92670201c4222de284170ec089087f",
+    "src/components/chemistry/SeparatoryFunnelScene.tsx": "cb3e8811c0e6af41cfa3917bba55ace5329b28f5246e38e5fde851f76fa67a45",
+    "src/components/chemistry/separatoryFunnel.css": "236796ee47b3e85cce906964060d67274c24c5a95340d42eccf8124b4665661f",
+    "tests/chemistry-separatory-funnel.test.mjs": "77dbd30925522556b087fdf78a470a1e73eaba48b78822923b03d897cca87f99",
+    "scripts/chemistry/validate_funnel_report.py": "e1f3e5e754e534ad22f6ae051f21b4e0e833456d08a6a21d5e38320c5ff0c18f",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

@@ -1,0 +1,25 @@
+✔ strict inputs reject coercion, missing fields, nonfinite and out-of-range preparations (2.864726ms)
+✔ first-order half-life and90% times are exact for each independent coefficient (1.442814ms)
+✔ mass and reactive-atom inventories close at all preparation, gas and time corners (1.852755ms)
+✔ small elapsed times retain positive consumption through expm1 (0.234307ms)
+✔ water controls and zero coefficients never create gas or claim inferred k without material (0.392297ms)
+✔ cumulative and instantaneous leaders distinguish depletion and allow reversed labels (0.298876ms)
+✔ temperature and pressure affect collection volume, not independently specified conversion (0.229345ms)
+✔ instantaneous gas slope and mean rate use the same conserved oxygen inventory (0.224391ms)
+✔ guide gives100seconds of model advancement and exactly stated endpoint; pause has no independent clock (1.762342ms)
+✔ 128-sided fills and piston displacement retain liquid,headspace and gas volume without overflow (0.950862ms)
+✔ hose markers follow accumulated gas and finite arc-length paths, not an unrelated timer (0.76461ms)
+✔ curves retain common axes and monotonically accumulating gas with declining rate (2.010003ms)
+✔ oxygen fraction includes oxygen already present in the original dry air (0.425894ms)
+✔ practical rejects invented inputs and discards derived observations before recomputation (0.663326ms)
+✔ five notebook tables and79 distinct worked calculations separate both cells and unavailable inferences (2.070886ms)
+✔ exam report escapes written interpretation and preserves exact input JSON without executable student markup (2.402621ms)
+✔ coefficients below supported positive resolution are rejected rather than emitting infinite times (0.417555ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 751.078019

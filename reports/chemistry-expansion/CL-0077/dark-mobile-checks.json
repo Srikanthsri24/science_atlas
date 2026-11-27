@@ -1,0 +1,21 @@
+{
+  "toolsScroll": {
+    "height": 84,
+    "scroll": 84,
+    "top": 0
+  },
+  "before": {
+    "client": 314,
+    "left": 1500.5,
+    "scroll": 2946
+  },
+  "after": {
+    "client": 314,
+    "left": 1540.5,
+    "scroll": 2946
+  },
+  "page": {
+    "scroll": 390,
+    "width": 390
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "labId": "CL-0082",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13model/record/geometrytests+2cataloguenavigationchecks passed;final2978fulltests passed. Component closure across1024cornerpreparations\u00d717intermediateclocks. Independent known one-pass/two-wash calculation,insufficient capacity,zero-pass/zero-volume limits,purity/recovery distinction,approach/collection/lift boundaries,rounding and geometry displacement/nonoverlap checked. FinalTypeScript andVite41.30s passed.",
+    "twoD": "Fresh full120sguide completed;recorddisabledwhileplaying/enabledat120,andendpoint saved. An earlier partialdevelopmentrun reset after adding a ref hook and was notcounted. Automatically changes magnet/mixing/filter/products views;moving magnet,stirrer,drain drops andvapour follow the prescribed reference. Quantitative compartment bars added in landscape. No drops forzero wash water/no effluent,and no vapour fromdry magnetproduct.",
+    "threeD": "Actual full120sguide completed andendpoint saved. Livefilter/washview inspected. Approach,near-tray collection andlift corrected before finalguides. Later stand/reservoir andportraitfocus refinements statically checked. Portraitdrying focuses cake then salt;actual pausedscrubs101s/111s verified,not counted as a separate fullportraitplayback. Manual scope/productfocus,orbitL/R,zoom\u00b1,reset,cutaway andlabels exercised. Representativegrains conserve solidvolume,fit withoutoverlap;liquid level solves displacedvolumes.",
+    "responsive": "40finalcases acrossfilter/products,2D/3D,16:9/9:16,320/390/820/1280/1920: no pageoverflow,fallbacks orzero-size visuals. Mobileportraitproductfocus andsupportedfilterapparatusscreenshots inspected. Toolbarheight increased so390px controls allfit130pxwithout clipping. Actual390\u00d7844theatre;darkportraitcake/salt andkeyboardobservationtable tested. Keyboardscroll2816\u21922855.5 atdesktop. Defaultviewport/light restored.",
+    "practicalRecord": "18actualGUIobservations:initial,full2D/full3D endpoints,magnet/dissolve/filter/washfill/drain/dry stages,zero-pass/no-wash,all-water-retained/zero-wash-volume,maxreservoirs,capture/co-pickup/retention limits and a known one-pass preparation.39columns,7exporttables. ActualHTML independentlychecked774observationfields(704numeric) and465workedresults(393numeric),including null/unavailable gates andescapedstudentwriting.18rows,plan,conclusion,note2persistreloadandactualClass6workingpreviewreturn.",
+    "edgeCorrection": "GUIcornercaught tiny negative receiver salt from D\u2212Dh/W at h=W,causing a geometry RangeError and fallback. Corrected algebra to D(1\u2212h/W) upstream,added regression acrosssalt/capture/corner clocks,and actual3Dcornerretst showedcanvas1/fallback0. Initialtwohistoricalconsoleentries retained in initial-edge-errors.json;no additional errors after correction across40cases. No guard weakened.",
+    "sources": "Original numerical teaching model and apparatus. Chosen capacity/capture/co-pickup/timing are stated reference assumptions;not measured force,flow,kinetics or chemical calibration. No officialboardmapping orindependentexpertcertification claimed;no copied proprietaryassets/text or externalstudentreferencepanel."
+  },
+  "reviewScope": "Internal numerical,functional andbrowser-viewport engineeringreview only;not independent scientificexpert certification,officialcurriculummapping,real compound/instrument calibration,physicaldevice/printer/FPS/nativegesture verification. Chosen per-passcapture andmechanicalcopickup,finitecapacity0.36g/gwater,ideal particle-retaining filtration andbatch-equilibrium washes;no magneticforce,flow,heat,corrosion orreal dryingtime solver. Dry endpoint assumes cooled referenceweighing. Composition-basedpurity/recovery comes fromknown inventories;compositebalanceweightalone cannot establishpurity. Grain sizesare representative;chosen densities7.87/2.65/2.165g/mL anddissolvedvolume0.3mL/g. Liquid level includesdisplacement;vapour/outletmarkers qualitative. Fullguides before finalstaticstand/portraitfocus refinements;timingunchanged. InitialGUIedgefailurefixed andregressiontested. Largechunkadvisory retained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/threeProductSeparation.ts": "df0fe62c66bae56a694477649b25de072f680fc1525414c98c6cf4de6258b2ae",
+    "src/lib/chemistry/threeProductRecord.ts": "4a208ffa4ec5d77047f770ce3f4ec2c047189cbd3bb398d65a925e96e0e6b897",
+    "src/lib/chemistry/threeProductGeometry.ts": "f426d1fcfc07a2af354dadf07436631f70c5a481dea613a8ed24970df6706dac",
+    "src/components/chemistry/ThreeProductLab.tsx": "19a76ebfd592b4abedd67a5dd63e21d20fe625d16df3f578abc5d257d52cbf94",
+    "src/components/chemistry/ThreeProductDiagram.tsx": "94abdf74208b72734eabfba5cc7b587764513cca5c69cca82d73106e794d0281",
+    "src/components/chemistry/ThreeProductScene.tsx": "eec9037bab8af4fcd28a217fad7813f17a4f4a36054313b8835ad4b74a17b10b",
+    "src/components/chemistry/threeProduct.css": "484ea7e64e336fe5c7856c109af79562ae029ab7fc03561ffc363138e5d0309e",
+    "tests/chemistry-three-product-separation.test.mjs": "105c18c0f3389d1e198f0571ebcf1f40cbd6c1895966fa15a29e5b2913324a36",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

@@ -1,0 +1,19 @@
+✔ initial dry mixture and reserved waters are all inside the declared system (2.261957ms)
+✔ independent one-pass and two-batch calculation distinguishes recovery from purity (10.205726ms)
+✔ insufficient initial water and wash capacity retain solid salt instead of applying an invalid dilution shortcut (0.639035ms)
+✔ all supported corner procedures conserve every component including intermediate fill and drain (218.289413ms)
+✔ extra passes trade iron recovery against mechanical contamination;washing does not remove retained iron (0.313883ms)
+✔ zero-pass,zero-retention and zero-wash-water limits remain honest (0.187595ms)
+✔ 120 second guide follows the actual stage boundaries and dry product gates (0.646567ms)
+✔ guide accurately describes zero-pass and omitted/completed wash comparisons (0.274418ms)
+✔ dry rounded composite measurements are distinct from known component recovery (0.439382ms)
+✔ 39 observation columns and grouped exam report preserve independent inputs and escape student text (2.035444ms)
+✔ representative solid volumes and displaced liquid levels fit source,cake and receiver inventories (5.907914ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1010.706186

@@ -1,0 +1,242 @@
+[
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "apparatus",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 180,
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "apparatus",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 461.25,
+    "visualWidth": 820,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "apparatus",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 439.9921875,
+    "visualWidth": 782.21875,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "apparatus",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "sample",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 180,
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "sample",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 461.25,
+    "visualWidth": 820,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "sample",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 439.9921875,
+    "visualWidth": 782.21875,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "sample",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "store",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 180,
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "store",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 461.25,
+    "visualWidth": 820,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "store",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 439.9921875,
+    "visualWidth": 782.21875,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "landscape",
+    "scope": "store",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "apparatus",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 365,
+    "visualWidth": 205.3125,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "apparatus",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "apparatus",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 440,
+    "visualWidth": 247.5,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "apparatus",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "sample",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 365,
+    "visualWidth": 205.3125,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "sample",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "sample",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 440,
+    "visualWidth": 247.5,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "sample",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "store",
+    "documentWidth": 320,
+    "height": 740,
+    "visualHeight": 365,
+    "visualWidth": 205.3125,
+    "width": 320
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "store",
+    "documentWidth": 820,
+    "height": 1180,
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "store",
+    "documentWidth": 1280,
+    "height": 800,
+    "visualHeight": 440,
+    "visualWidth": 247.5,
+    "width": 1280
+  },
+  {
+    "mode": "3D",
+    "format": "portrait",
+    "scope": "store",
+    "documentWidth": 1920,
+    "height": 1080,
+    "visualHeight": 720,
+    "visualWidth": 405,
+    "width": 1920
+  }
+]

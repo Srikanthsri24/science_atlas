@@ -1,0 +1,13 @@
+# Private CL-0102 science provenance
+
+Read2026-11-27. Original app explanations/assets only;external references remain outside product UI. No official Indian board mapping or independent expert certification.
+
+- UBC Chemistry courseware,Solubility Product Constants for Common Salts at25°C: https://groups.chem.ubc.ca/courseware/pH/kspdata.html . Full40-linepage read;selectedAgClKsp1.8e−10. Usedconsistentlyasidealconcentrationteachingconstant,notnewmeasurement.
+- OpenStax Chemistry2e15.1: https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution . Readsolubility-productdefinitionandQ/precipitationexample. Supportsfiniteion-equilibriumapproachandcounterionmassaccounting. Itsworkedexampleuses1.6e−10;differenttableconventionsarenotmixedwithUBCselectedconstant. Noillustration/exercisewordingcopied.
+- NISTmaterialcompositiondatabase: https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=247 . Full18-linepage read;silverchloridedensity5.56g/cm³. Usedasnominaltruesolidmaterialdensity,notbulkpowderpackingorverifiedthermalexpansionat25°C.
+
+Roundednominalmolar-masscomponentsg/mol:Ag107.868,Cl35.450,Na22.990,NO3group62.004;thusAgNO3=169.872,NaCl=58.440,AgCl=143.318. Calculationsretaininternallyconsistentmasswiththeseroundedconstants;displaydigitsarecomputedprecision,notmeasurementaccuracy.
+
+Scope:idealuncomplexedAg+,Cl−,Na+,NO3−andsolidAgClat25°C. Omitactivities,chloridecomplexes/ionpairs,photodecomposition,colloids,nucleation/growth/mixingkineticsandcontaminants. Thereforethisisnotafullsilver-speciationoropticalturbiditymodel,especiallyatsaltexcess. Stockrange0–.02Mkeepspreparationsdilute,butdoesnotmakecomplexationrigorouslyzero. Explicitlystateomissionsinproduct/report. Allsaltstocksincludeformalwateraccountingatnominalinitial1g/mL;zero-concentrationstocksarewaterandstillflow.
+
+Phase-volumeclosure:TOTALreceiver-mixturevolumeisnominaladditiveinitialwater+deliveredstockvolumes;AgCltruesolidvolumexM/rhoissubtractedtoobtainnominalaqueousvolumeusedinconcentrations. Thisisanexplicitvolumetricmodel,notempiricalpartialmolar-volumeaccuracy. Finalaqueousdensityneednotremain1g/mL. Receiverfillenvelopeinrendererincludesembeddedsolidmarkers;markersareequivalentmaterialvolumes,notactualparticlecounts/scattering/settlingkinetics. NoexactpHclaim.

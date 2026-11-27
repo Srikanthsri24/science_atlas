@@ -1,0 +1,16 @@
+{
+  "actualGuiRows": 24,
+  "columns": 22,
+  "numericObservationChecks": 189,
+  "workedResults": 442,
+  "savedGraphPoints": 23,
+  "distinctTemperatures": 9,
+  "measurementProtocols": 15,
+  "method": "independent RK4,0.002s event bracketing/refinement and <=0.02s inventory integration",
+  "escaping": "passed",
+  "fit": {
+    "slope": 0.753781175297509,
+    "intercept": 5.911922975705085,
+    "rSquared": 0.9939799637010032
+  }
+}

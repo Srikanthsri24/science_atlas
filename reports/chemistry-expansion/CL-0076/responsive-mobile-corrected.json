@@ -1,0 +1,106 @@
+[
+  {
+    "canvas": {
+      "bottom": 903.7578125,
+      "height": 154.5,
+      "left": 19,
+      "right": 301,
+      "top": 749.2578125,
+      "width": 282,
+      "x": 19,
+      "y": 749.2578125
+    },
+    "format": "landscape",
+    "scroll": 320,
+    "tools": {
+      "bottom": 749.2578125,
+      "height": 90,
+      "left": 19,
+      "right": 301,
+      "top": 659.2578125,
+      "width": 282,
+      "x": 19,
+      "y": 659.2578125
+    },
+    "toolsScroll": 179,
+    "width": 320
+  },
+  {
+    "canvas": {
+      "bottom": 804.765625,
+      "height": 154.5,
+      "left": 19,
+      "right": 371,
+      "top": 650.265625,
+      "width": 352,
+      "x": 19,
+      "y": 650.265625
+    },
+    "format": "landscape",
+    "scroll": 390,
+    "tools": {
+      "bottom": 650.265625,
+      "height": 90,
+      "left": 19,
+      "right": 371,
+      "top": 560.265625,
+      "width": 352,
+      "x": 19,
+      "y": 560.265625
+    },
+    "toolsScroll": 149,
+    "width": 390
+  },
+  {
+    "canvas": {
+      "bottom": 1105.0859375,
+      "height": 355.828125,
+      "left": 19,
+      "right": 301,
+      "top": 749.2578125,
+      "width": 282,
+      "x": 19,
+      "y": 749.2578125
+    },
+    "format": "portrait",
+    "scroll": 320,
+    "tools": {
+      "bottom": 749.2578125,
+      "height": 90,
+      "left": 19,
+      "right": 301,
+      "top": 659.2578125,
+      "width": 282,
+      "x": 19,
+      "y": 659.2578125
+    },
+    "toolsScroll": 179,
+    "width": 320
+  },
+  {
+    "canvas": {
+      "bottom": 1130.5390625,
+      "height": 480.2734375,
+      "left": 19,
+      "right": 371,
+      "top": 650.265625,
+      "width": 352,
+      "x": 19,
+      "y": 650.265625
+    },
+    "format": "portrait",
+    "scroll": 390,
+    "tools": {
+      "bottom": 650.265625,
+      "height": 90,
+      "left": 19,
+      "right": 371,
+      "top": 560.265625,
+      "width": 352,
+      "x": 19,
+      "y": 560.265625
+    },
+    "toolsScroll": 149,
+    "width": 390
+  }
+]

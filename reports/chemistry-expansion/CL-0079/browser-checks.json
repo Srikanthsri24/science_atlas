@@ -1,0 +1,42 @@
+{
+  "guide2D": {
+    "timeline": "120",
+    "recordEnabled": true
+  },
+  "guide3D": {
+    "timeline": "120",
+    "recordEnabled": true
+  },
+  "recordingDisabledDuringBothGuides": true,
+  "rows": 15,
+  "note": "Transient comparison <safe> & evidence",
+  "plan": "Keep water and solute masses equal in both samples. Compare measured sample temperatures and wait for near-steady samples with excess solid before estimating solubility.",
+  "conclusion": "The strong-increase reference has greater capacity at higher temperature;the decreasing reference reverses that result. Clear samples do not establish a saturation limit. Use dissolved mass per100g water,not total solution mass. These curves and response intervals are chosen models.",
+  "classCardNavigation79": "passed actual Open laboratory link",
+  "classCardNavigation78": "passed actual Open laboratory link",
+  "mobileDark": {
+    "chart": [
+      {
+        "content": 600,
+        "scroll": 40,
+        "visible": 312
+      }
+    ],
+    "page": 390,
+    "table": [
+      {
+        "content": 4010,
+        "scroll": 2572,
+        "visible": 314
+      }
+    ],
+    "width": 390
+  },
+  "chartKeyboardScroll": {
+    "before": 0,
+    "after": 30,
+    "later": 40
+  },
+  "nativeGestures": "unverified",
+  "console": []
+}

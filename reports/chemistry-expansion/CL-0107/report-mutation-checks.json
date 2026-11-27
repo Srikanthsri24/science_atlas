@@ -1,0 +1,42 @@
+[
+  {
+    "mutation": "wrong-operator-same-operands",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-primary-electron-count",
+    "rejected": true
+  },
+  {
+    "mutation": "cathodic-only-oxygen-ceiling",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-open-account-input",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-worked-mass-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-table-density-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "erased-trace-penetration",
+    "rejected": true
+  },
+  {
+    "mutation": "current-after-metal-exhaustion",
+    "rejected": true
+  },
+  {
+    "mutation": "reversed-paired-comparison",
+    "rejected": true
+  },
+  {
+    "mutation": "false-initial-control-flag",
+    "rejected": true
+  }
+]

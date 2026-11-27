@@ -1,0 +1,28 @@
+✔ corrosion preparations reject coercion and unsupported physical inputs (3.044984ms)
+✔ the initial observation invents no converted iron, oxide or specimen mass gain (40.165691ms)
+✔ oxygen-excluded and dry-air controls keep their iron under every chosen progress law (1.002366ms)
+✔ a dry zero-hydration reference still requires water as an environmental condition (0.508714ms)
+✔ oxygen consumption and reference hydrate amounts obey a balanced overall equation (0.51067ms)
+✔ finite accessible oxygen caps conversion without a negative residue or extra oxygen (0.199221ms)
+✔ zero oxygen and zero rate are distinct controls with no invented brown product (0.232921ms)
+✔ chosen exponential progress is explicit, monotone and preserves tiny positive time (0.250143ms)
+✔ closed analysed material and Fe/O/H atom accounts close across every preparation corner (3.508914ms)
+✔ conical tip, cylindrical head and shaft conserve initial and remaining metal volumes (0.851072ms)
+✔ 120-second guide advances ninety seconds through a disclosed seven-day model horizon (0.508309ms)
+✔ late reference metal mass retains its analytic exponential remainder instead of subtracting rounded bulk masses (0.170043ms)
+✔ faceted vial and pointed metal meshes preserve reference volumes across all supported dimensions (1.763083ms)
+✔ prepared water levels are not misrepresented as predicted rust-volume displacement (0.251358ms)
+✔ guide transfer markers are deterministic, stop in controls and reject stale guide time (1.41297ms)
+✔ corrosion notebook retains source preparations and bounded student text without trusting derived fields (0.516162ms)
+✔ each corrosion control has all38 worked numeric/reference values, including an honest zero-hydration limit (2.823959ms)
+✔ corrosion observation tables cover every state field except the separately named control identity (1.044247ms)
+✔ exam report escapes HTML and preserves exact source JSON while labelling synthetic corrosion data honestly (2.353345ms)
+✔ default guide keeps its meaningful wet-reference conversion moving throughout90seconds (0.353681ms)
+ℹ tests 20
+ℹ suites 0
+ℹ pass 20
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 690.858127

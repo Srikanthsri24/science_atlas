@@ -1,0 +1,47 @@
+{
+  "before": {
+    "glyphs": [
+      [
+        "377.9833758695972",
+        "260.07372306706213"
+      ],
+      [
+        "393.3524054536607",
+        "332.4672897006184"
+      ],
+      [
+        "347.2453167014702",
+        "115.28658979994975"
+      ],
+      [
+        "362.61434628553366",
+        "187.680156433506"
+      ]
+    ],
+    "readings": "Water controlIdeal pH 7 · 50mLNo oxide addedCO₂ with waterIdeal pH 4.2369 · acidicCO₂ partial pressure 0.22159atmCarbon in water 0.00038026molCarbon in headspace 0.00090571molSyringe gas 18.538mLCaO with waterIdeal pH 7 · no-hydroxide-yetCaO on pan 0.2gUnreacted oxide 0gDissolved calcium 0molSolid hydroxide 0gWater consumed 0gCalculated equilibrium predictions at25°C. CO₂* combines dissolved CO₂ and carbonic acid. Pressure is CO₂ partial pressure. Colours are phase annotations;no indicator is measured. Tracked mass residual 0g.",
+    "time": "32"
+  },
+  "after": {
+    "glyphs": [
+      [
+        "377.9833758695972",
+        "260.07372306706213"
+      ],
+      [
+        "393.3524054536607",
+        "332.4672897006184"
+      ],
+      [
+        "347.2453167014702",
+        "115.28658979994975"
+      ],
+      [
+        "362.61434628553366",
+        "187.680156433506"
+      ]
+    ],
+    "readings": "Water controlIdeal pH 7 · 50mLNo oxide addedCO₂ with waterIdeal pH 4.2369 · acidicCO₂ partial pressure 0.22159atmCarbon in water 0.00038026molCarbon in headspace 0.00090571molSyringe gas 18.538mLCaO with waterIdeal pH 7 · no-hydroxide-yetCaO on pan 0.2gUnreacted oxide 0gDissolved calcium 0molSolid hydroxide 0gWater consumed 0gCalculated equilibrium predictions at25°C. CO₂* combines dissolved CO₂ and carbonic acid. Pressure is CO₂ partial pressure. Colours are phase annotations;no indicator is measured. Tracked mass residual 0g.",
+    "time": "32"
+  },
+  "identical": true
+}

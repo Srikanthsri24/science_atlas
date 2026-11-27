@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0088",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13 science/record/geometry/result tests plus2navigation checks pass.26,028dense states and192corner states conserve mass and close source,thermal and stored/exported energy budgets. Independent event-split Euler dt0.1\u21920.05s converges. Exact-threshold/no-onset,zero/tinyUA,onset/dryout continuity and strict zero at dryout tested. Full3050regression tests pass;latest15focused pass. FinalTypeScript pass;Vite11.78s pass.",
+    "twoD": "Actual complete120s guide completed,endpointrecord1. At99.2623guide physical386.941s,100C with214.063gliquid/35.9372gvapour. Endpoint466.26854955s,200gliquid/50gvapour. Apparatus/curve/energy selectors and720x405/450x800layouts work. Later bubble containment refinement manually verified:10boiling indicators,0forno-onset. Pause54.8s retained transform241.1600840095 across theatre toggle;no extra partial run counted as full.",
+    "threeD": "Actual complete120s guide completed,endpointrecord2;camera/mobile layout refinements during this continuous run. At49.3121guide physical114.719s,72.9304C,250gliquid/no vapour,volume256.201mL. Endpoint100C/200gliquid/50gvapour. Centimetre-based vessel,thermal-expanding level,chosen heater,qualitative bubbles and vapour markers. All3scopes,orbit\u00b1zoom\u00b1reset,glasscutaway and labels exercised. Camera framing and initial asynchronous mount visually inspected;no error/fallback.",
+    "responsive": "180fixed cases:initial250g/hot500gatboilingonset/empty500g x2modes x3scopes x2formats x5widths320/390/820/1280/1920 all pass.48theatre cases568x320,844x390,1024x768,1920x1080 across all modes/scopes/formats pass.390phone documentwidth390. Compact horizontal mobile camera toolbar,shortened portrait mass label and figure-height fit inspected. Native data/science pane scroll on short screens;exit and narration remain available. Dark390portrait and finaldesktoptheatre visually checked;theme/viewport restored. Viewport tests,not physical devices/FPS.",
+    "practicalRecord": "18actualGUItrials:2fullendpoints;defaultinitial/warming/onset/guideend/dryout/7200;heat-loss-limitguideend/7200;exactthreshold7200;allmin/allmaxcontrols7200;lossfreeguideend;fourcommon120scomparisonsbaseline/vesselC0/mass500/coupling1. Tables9prep/11thermal/14energycolumns.30workedblocks/trial. Actualdownload18trials independently verified inPython:3078table/operand/result checks,540workedblocks;1ns cross-language event ties. Exact-time numeric entry supports equal intervals. SafeJSON/escapedmarkup. Plan/conclusion/note3 and18observations restore afterreload. Report states aim and calculated last-observation result separately from student conclusion.",
+    "runtime": "Final browser error/warning log empty. All controls functional. Late manual caption follows actual physical phase. Final TS/build pass;largechunk advisory only. Original146stagedblobs preserved;all prior frozen hashes validated. ActualClass6Readyfilter/searchCL-0088 card opened the reviewed lab and restored18observations;finalbrowserlogs empty.",
+    "sources": "PrivateSOURCES.md primaryNISTIR5078rounded100C/101420Pa/L2256400Jkg;constantCp4180teachingapproximation. Saturation-density anchors for near-atmospheric visualization,not fixed-pressureEOS. Coupling/UA/vessel capacity chosen references,not apparatus calibration. No external references in productUI;official boardmapping pending editorial verification."
+  },
+  "reviewScope": "Internal numerical,functional and browser viewport engineering review only;not independent expert certification,official boardmapping,physical device/FPS/nativegesture/printer verification. Uniform water/vesselT,initial/ambient20C,constantCp4180JkgK,rounded100C/101420Pa/L2256400Jkg. Chosen coupling/linearUA/vesselC. No subboiling evaporation,spatial gradients,pressure variation,probe lag,nucleation or CFD. Experiment stops atdryout;liquidTemperatureCnull,temperatureClastvalidstate;later cooling not modelled. Remaining plus escaped sensible and latent energy close the open-system budget. Density interpolation is approximate;markers are not quantitative void fractions or visible puresteam. Parameterchanges startfresh.",
+  "nativeGestureVerification": "unverified; accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/waterHeating.ts": "b957d5d1e2ddf4efe7639afd642fa271c8cd9b57d52b1824cc995dfca5fa361f",
+    "src/lib/chemistry/waterHeatingRecord.ts": "285cce1a65a28fe880aff56e7cfa29c1be4da08f320e0465f266bee7d48c3e2a",
+    "src/lib/chemistry/waterHeatingGeometry.ts": "ec7821589aaf398adb5a1e4e24cff0a23420f47be6e23dd40723cdd20a7e6f6b",
+    "src/components/chemistry/WaterHeatingLab.tsx": "bc2f7379bc40613602e6ab67925b913926ecd6471c2a12a63062bd49d81c6405",
+    "src/components/chemistry/WaterHeatingDiagram.tsx": "9bd533a37c82689dc1f23d6f731401b59a49e75005ad8a68810ccb951df7f305",
+    "src/components/chemistry/WaterHeatingScene.tsx": "5bde7b27af821ffdc9f013fc2742f5cd17e4a2a8434d6c0af2e32a5905b0524e",
+    "src/components/chemistry/WaterHeatingReadings.tsx": "8b60d27e38d3fdd452aef0cbd98d4bae3716774b5529168afd9f9b30731a08f1",
+    "src/components/chemistry/waterHeating.css": "99cf5435680b2a5523e59575983bdb4c311db461e120092ea9a195e755755834",
+    "tests/chemistry-water-heating.test.mjs": "85ab08162309786cda3ca0f7a696ed36a4da1312786a84dbae72dbcf26ebe0a3",
+    "scripts/chemistry/validate_water_heating_report.py": "5292ca7ba20a861a21078487530a46dfc8c712eabc7ccd9fd94552f859d8c0c8",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

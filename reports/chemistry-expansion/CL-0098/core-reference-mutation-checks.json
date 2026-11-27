@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "source-water",
+    "field": "sourceWaterG",
+    "rejected": true
+  },
+  {
+    "mutation": "receiver-product",
+    "field": "bicarbonateMol",
+    "rejected": true
+  },
+  {
+    "mutation": "bypass",
+    "field": "bypassMol",
+    "rejected": true
+  },
+  {
+    "mutation": "remaining-syringe",
+    "field": "syringeMol",
+    "rejected": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "rows": 31,
+  "columns": 22,
+  "observationChecks": 372,
+  "workedResultChecks": 651,
+  "method": "Independent Python ellipsoid cap,meniscus volume,quantized readings,rounding bounds and static-force reconstruction from actual downloaded preparations",
+  "passed": true
+}

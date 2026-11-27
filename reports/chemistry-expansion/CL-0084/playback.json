@@ -1,0 +1,30 @@
+{
+  "durationSeconds": 120,
+  "twoD": {
+    "freshGuideObservedSeconds": [
+      0.1326000000029744,
+      12.6,
+      59.6,
+      77.6,
+      118.3,
+      120
+    ],
+    "recordSaved": 1
+  },
+  "threeD": {
+    "freshGuideObservedSeconds": [
+      0.14670000000298022,
+      6.6,
+      56.8,
+      71.1,
+      115.60720000000364,
+      120
+    ],
+    "recordSaved": 2
+  },
+  "pauseCheck": {
+    "guideSeconds": 36,
+    "svgJetAnimationPlayState": "paused"
+  },
+  "scope": "Actual desktop browser playback. Earlier62secondpartialnotcounted. Later CSS minimum stage size refinement does not alter scientific motion or timing."
+}

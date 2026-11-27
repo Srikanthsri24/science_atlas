@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "erased tiny positive dissolution",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong edge-loss result",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong area operand",
+    "rejected": true
+  },
+  {
+    "mutation": "false solid-exhausted category",
+    "rejected": true
+  },
+  {
+    "mutation": "changed water preparation",
+    "rejected": true
+  }
+]

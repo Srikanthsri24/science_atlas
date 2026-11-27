@@ -1,0 +1,11 @@
+{
+  "capacityMl": 220.25706094318033,
+  "interfaceSeconds": 41.64921765131205,
+  "emptySeconds": 95.17858266362717,
+  "initialHeadPressurePa": 532.1264676502047,
+  "initialFlowMlS": 1.307586404329641,
+  "firstAMl": 50,
+  "secondBMl": 50,
+  "accountedMassG": 90,
+  "scope": "Vented ideal reference;not real apparatus calibration"
+}

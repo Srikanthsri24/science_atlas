@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0097",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "15 science/geometry/record tests+2 navigation tests pass;full3187 regression2104 exit0.25200 sampled preparations close finite volume,material,analytical charge and signed energy accounts. Exact equivalence included in volume trace;post-equivalence dilution retains energy. TypeScript93070 exit0;latestVite34815 exit0(11.70s). Owned source hashes unchanged since these checks.",
+    "twoD": "Actual120-second guide completed and recorded previous goal turn. Volume-derived reservoir/cup,submerged probe,controlled flow,stirring,temperature-versus-delivered-volume curve and signed heat bars. Caption/energy-row collisions corrected before final matrix. Computed equivalence marker labelled;horizontal axis is delivered volume,not measured reaction time. Colourless liquids retained.",
+    "threeD": "Original128-sided finite reservoir and insulated cutaway cup,submerged probe,conduit,stopcock,stirring rod and schematic flow marks. Polygon areas derive liquid heights. Enlarged static tags disposed correctly;camera fits actual object bounds. Orthographic zoom buttons corrected by scaling framing points and visibly verified. Separate heat-account annotations do not imply external heat loss. Initial120-second guide completed previous turn;FINALsource120-second replay0.1\u2192120 completed and recorded current turn. Pause preserved exact timeline/readings through viewport/format/manual-scope change;manual scope disables Follow guide;reenabling and resume verified.",
+    "responsive": "780 fresh normal checks:13 preparations\u00d72modes\u00d73scopes\u00d72formats\u00d75widths320/390/820/1280/1920.48 maximum-volume theatre checks at568x320,844x390,1024x768,1920x1080. All final measurements nonzero,correct aspect,no document overflow/SVG clipping/text collision. Earlier helper closures retained prior-tab bindings;questionable results set aside in superseded-layout-measurements and ALL780+48 rerun with explicit stable tab1331265981/viewport bindings.19 saved observations preserved across consolidation/reload. Darkphone/lightdesktop visually inspected. Canvas resize transient settled before final screenshots. No physical-device/FPS certification.",
+    "practicalRecord": "19 actual GUI observations:zero/nearzero/partial/full,equivalence/acidexcess/baseexcess,0/50J/Kcup,min/maxvolume/concentration,unreachableeq,decimal85/35mL.9/.6M equivalence,and24/36/60/84s snapshots. Two tables9prep/32observation columns. Actualbutton-downloaded browser-practical.html independently2639checks532workedblocksPASS;synthetic12trials1673checks336blocksPASS. Four operand/result/observation/input mutations rejected. All4calculation selectors show28/10/10/8blocks,noNaN/Infinity. Plan/conclusion/note16 with literalHTML/ampersands escaped and persisted19trials afterreload.",
+    "runtime": "Previous turn native direct-tab leftdrag800,450\u2192950,490 andwheelup1000,500 visibly verified on unchanged source. OrbitL/R,ZoomOut/In,reset,Cutaway,Labels,theatre exercised. Final warn/errorlog empty. Normal/default1792\u00d7998/light/landscape3Dapparatus/fresh preparation restored;19 notebook records retained. Duplicate test tab closed after preserving notes/reloading actual notebook into original tab. No app restart or source changes current turn.146 original staged blobs preserved;noGitmutation,nextpush100reviewed.",
+    "sources": "Private Davidson/Gonzaga readings support constant-pressure calorimetry,limiting reactant,equal initial temperatures and combinedcup/solution/reaction balance. Selectedapproximate\u221257.3kJ/mol is explicit teaching parameter,not calibrated experiment. IGNOU/Bhutan PDF search leads timed out on full fetch;no verified full-read claim. Reconstructed enthalpy repeats model input,not independent experimental validation. Company-only product references;official curriculum mapping pending."
+  },
+  "reviewScope": "Internal numerical,functional,browser viewport and limited native desktop-input review only;not independent expert,official-board,all-device,FPS,touch,right-button-pan or printer certification. Ideal adiabatic constant-pressure complete1:1HCl/NaOH reaction,identical initial temperatures,\u03c11g/mL,c4.184J/(gK),selectedapproximate\u0394H\u221257.3kJ/mol. Heat of dilution,activities,temperature-dependent properties,air heat exchange,evaporation,probe lag and measured mixing kinetics omitted. Additive volume,thermal expansion neglected. Analytical excess is not free-ion concentration or pH. Flow/stir/energy marks are annotations,not extra liquid or calibrated rates. Cutaway changes visibility only. Reconstructed model enthalpy is not independent validation of the selected parameter.",
+  "nativeGestureVerification": "passed desktopChrome direct-tab left-drag orbit and wheel zoom;touch/right-buttonpan unverified",
+  "sourceHashes": {
+    "src/lib/chemistry/neutralizationHeat.ts": "c43efafb6f8b3b1ef9f944f26e7685a2d0d7f4998ff790c4ab1b5430b2929da3",
+    "src/lib/chemistry/neutralizationHeatRecord.ts": "d371d054abb39589d10087e95767ce5256f37ec4202f4339e25e9c47460b76d1",
+    "src/lib/chemistry/neutralizationHeatGeometry.ts": "d053ab3cd24a0433aa5481d06fee4cb45430ec7fb18a866a74ddb245ee1a033d",
+    "tests/chemistry-neutralization-heat.test.mjs": "7a079ceb525ffdf8c2453999efe4cdf0d4630e6fa76cd59b5c9f6bc330bbc439",
+    "scripts/chemistry/validate_neutralization_heat_report.py": "70b84966fae72c1ace5a770df1df1464150fbbdb10e6637aa38a7190b699c93e",
+    "src/components/chemistry/NeutralizationHeatLab.tsx": "e3307fb620ee81ebfd5c05062a07727f1c0e280b682a41c7283c2c7132771411",
+    "src/components/chemistry/NeutralizationHeatDiagram.tsx": "7c07c5744de0145ce45439036daad3198baeffca4ab4d6dae5fa2c8cbf0624b0",
+    "src/components/chemistry/NeutralizationHeatScene.tsx": "8d01fa58b32b0cb8210d9938f194f074530c4547161c95db346357d2308769c0",
+    "src/components/chemistry/NeutralizationHeatReadings.tsx": "6421469eda00d22ff48c688a48a43103a1ad264709f380c414a86b865cd9ff66",
+    "src/components/chemistry/neutralizationHeat.css": "4ca64aa47d943c8756ef62cce5030fac594db7653a877d3f6d58ab03ae5fb183",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

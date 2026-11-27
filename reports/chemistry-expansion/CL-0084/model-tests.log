@@ -1,0 +1,15 @@
+✔ curved vessel volume agrees with independent cross-section integration and inverse mapping (8.947726ms)
+✔ ideal interface switching separates both components while early and late switches expose different contamination (7.088495ms)
+✔ density reversal changes component identity at the outlet and a tie is not labelled a gravity prediction (8.196973ms)
+✔ independent RK4 height equations validate both lower-phase and transformed pure-phase timing (71.804996ms)
+✔ all supported corner preparations conserve both phases and masses through closures and collection thresholds (190.851555ms)
+✔ closed valve and closed opening retain liquid,while flow units reproduce the weighted hydrostatic head (4.565021ms)
+✔ 120second guide closes at the interface without losing liquid and respects incomplete/zero-opening cases (0.620767ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 885.918688

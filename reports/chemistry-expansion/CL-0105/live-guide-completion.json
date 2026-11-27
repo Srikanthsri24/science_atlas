@@ -1,0 +1,9 @@
+{
+  "twoDStart": 0.214,
+  "twoDEnd": 120,
+  "threeDStart": 0.0381,
+  "threeDEnd": 120,
+  "observedCoolingRetainedMgOg": 0.6633,
+  "finalIceG": 20,
+  "finalLiquidG": 50
+}

@@ -1,0 +1,11 @@
+{
+  "before": {
+    "readings": "Water · same H₂O identity\nNet phase energy 0 J\nIce 20 g · liquid 50 g\nWaterline envelope 70 mL\nNet liquid volume 50 mL\nIce displaced volume 20 mL\nTemperature 0 °C · phase-only range\nInitial phase amounts restored: yes\nOxidation account · cooled reference\nMg delivered 0 g\nMg stock left 0.4 g\nDelivered Mg unreacted 0 g\nMgO formed 0 g\nO₂ left 0.01 mol\nAbsolute O₂ pressure 247.88 kPa\nRegime: not-fed\nNew substance calculated: no\n\nTwo separate reference systems. The reaction account assumes oxidation followed by cooling to 25 °C; it does not simulate ignition, flame, reaction heat, or spontaneous room-temperature combustion. MgO is an ionic solid, counted in formula units.",
+    "time": "0.3"
+  },
+  "after": {
+    "readings": "Water · same H₂O identity\nNet phase energy 0 J\nIce 20 g · liquid 50 g\nWaterline envelope 70 mL\nNet liquid volume 50 mL\nIce displaced volume 20 mL\nTemperature 0 °C · phase-only range\nInitial phase amounts restored: yes\nOxidation account · cooled reference\nMg delivered 0 g\nMg stock left 0.4 g\nDelivered Mg unreacted 0 g\nMgO formed 0 g\nO₂ left 0.01 mol\nAbsolute O₂ pressure 247.88 kPa\nRegime: not-fed\nNew substance calculated: no\n\nTwo separate reference systems. The reaction account assumes oxidation followed by cooling to 25 °C; it does not simulate ignition, flame, reaction heat, or spontaneous room-temperature combustion. MgO is an ionic solid, counted in formula units.",
+    "time": "0.3"
+  },
+  "passed": true
+}

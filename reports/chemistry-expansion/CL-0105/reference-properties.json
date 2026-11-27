@@ -1,0 +1,23 @@
+{
+  "14792": {
+    "source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14792/JSON?heading=Density",
+    "densityStrings": [
+      "3.58 (NIOSH, 2024) - Denser than water; will sink",
+      "3.6 g/cu cm",
+      "Relative density (water = 1): 3.6",
+      "3.58",
+      "3.6 @25 \u00b0C",
+      "3.58"
+    ]
+  },
+  "5462224": {
+    "source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5462224/JSON?heading=Density",
+    "densityStrings": [
+      "1.74 at 68 \u00b0F (USCG, 1999) - Denser than water; will sink",
+      "1.738 @ 20 \u00b0C",
+      "1.7 g/cm\u00b3",
+      "1.7 g/cm\u00b3",
+      "1.74 @25 \u00b0C"
+    ]
+  }
+}

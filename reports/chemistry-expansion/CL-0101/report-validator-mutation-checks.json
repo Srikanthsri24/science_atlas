@@ -1,0 +1,18 @@
+[
+  {
+    "mutation": "worked-result",
+    "rejected": true
+  },
+  {
+    "mutation": "substitution-operand",
+    "rejected": true
+  },
+  {
+    "mutation": "table-value",
+    "rejected": true
+  },
+  {
+    "mutation": "withheld-probe",
+    "rejected": true
+  }
+]

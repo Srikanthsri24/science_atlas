@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "worked-result",
+    "rejected": true
+  },
+  {
+    "mutation": "substitution-operand",
+    "rejected": true
+  },
+  {
+    "mutation": "table-value",
+    "rejected": true
+  },
+  {
+    "mutation": "category",
+    "rejected": true
+  },
+  {
+    "mutation": "tiny-near-threshold-solid-erased",
+    "rejected": true
+  }
+]

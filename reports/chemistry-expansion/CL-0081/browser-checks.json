@@ -1,0 +1,25 @@
+{
+  "twoD": {
+    "fullGuideSeconds": 120,
+    "recordGate": true,
+    "endpointSaved": true
+  },
+  "threeD": {
+    "seconds": "120",
+    "recordEnabled": true
+  },
+  "actualGuiTrials": 13,
+  "reloadAndCataloguePersistence": true,
+  "mobileTheatre": {
+    "width": 390,
+    "height": 844
+  },
+  "tableKeyboard": {
+    "before": 0,
+    "after": 40
+  },
+  "responsiveCases": 20,
+  "consoleErrorsWarnings": [],
+  "nativeGestures": "unverified",
+  "notes": "Camera controls and A/Bdetails exercised. Initial320pxtextoverflow fixed. Actualfullguides completed before final static scope/wordwrap refinements;no timing change. Observation timeouts recovered on same tab."
+}

@@ -1,0 +1,36 @@
+{
+  "labId": "CL-0079",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "12 focused,2 catalogue-navigation and2941 full regression tests pass. Independent RK4 integration verifies exponential response and mass-capacity switching. Equal-rate limit,conservation,bounds,opposite solubility trends,invalid inputs,slowest criterion and teacher-segment continuity checked. Carrier mesh within0.1mL of analytic solution volume in54 preparation/time cases,including partially exposed aggregate. Final TypeScript and Vite build passed.",
+    "twoD": "Actual full120s guide completed,recording disabled while playing/enabled endpoint. Paired equal preparations,actual probe temperatures,dissolving/growing equivalent cube,heat-flow direction only. Added A/B detail views and larger labels;mobile close-up screenshot inspected after fixing leaked global header/other-sample content. Final10 responsive overview cases contain positive SVGs with no page overflow.",
+    "threeD": "Actual full120s guide completed and recording gate verified. Paired jackets/sample vessels,probes,reference aggregates and real liquid cavities/surface opening. A/B close-ups,orbit left/right,zoom in/out,reset,cutaway and labels exercised;cutaway screenshots inspected. Max75.2g remaining aggregate partially exposed and contained. Final10 responsive cases contain positive canvases with no page overflow. Native gestures unverified.",
+    "responsive": "Both formats at320/390/820/1280/1920 tested for2D and3D. Mobile diagram minimum stage380px and selected-detail labels16px. Chart uses600px minimum inside focusable horizontal scroll region to keep16px SVG labels readable in narrow phone/tablet columns. At390 dark worked calculations,table314/4010px and chart312/600px fit page390;chart keyboard scroll0to30 then40. CSS theatre enter/exit exercised. Default viewport/light restored.",
+    "practicalRecord": "15actualGUItrials28columns coveringinitial/transient/steady for3trends,small clear sample,maxmasses10/70C,partial immersion,slow60/60s intervals960s andmanual1200s. Actualdownload independentlychecks193numericobservations and334workedresults withRK4step<=0.04s. Escaped student writing;15rows/note4/plan survive reload.20baseformula/substitution/result blocks plus22-24totalincludingteacherDsegments. Solubility estimate withheld for transient or all-dissolved samples.",
+    "runtime": "Two browser observation/input timeouts recovered on same live tab without server restart;app console remained empty. Minor residual above capacity originally triggered a confusing warning after near-steady classification;UI now uses stated0.001g observation criterion. Initial graph text too small;replaced with internally scrollable readable chart and new2D detail views.",
+    "sources": "PrimaryAra\u00fajoMorais2024procedure read in prior goal turn;supports controlled masses,actual sample temperature,cooling onset andper100gWATER method. Original code/geometry/prose;numeric curves/kinetics explicitly chosen,not empirical data. No external-reference panel in studentUI.",
+    "catalogueNavigation": "ActualClass6card revealed a missing opening link for78/79 despite ready status. Replaced duplicate card-ID whitelist with shared presentation registry,added both descriptions.2cross-catalogue contract tests verify completed entries have metadata and dedicated routes. ActualOpenlaboratory links for78and79 both now navigate correctly;79retains15rows/note/plan/conclusion after class return. Mutable catalogue/registry are intentionally outside frozen per-lab scientific source hashes."
+  },
+  "reviewScope": "Internal engineering/numerical/browser-viewport review,not independent expert certification,official board mapping,physical chemical/instrument calibration,physical-device/FPS/native gesture or printer validation. Generic linear curves,strong/weak increase and decrease,not named chemical data. Initially equilibrated25C samples. First-order prescribed thermal/mass response,no heat balance,evaporation or delayed nucleation. Criterion0.001g/0.01C is not instrument uncertainty. Equivalent cube,chosen density2g/mL,water1g/mL,beta0.5mL/g,flat surface;probe/support displacement neglected. Jacket fluid illustrative and not quantitatively measured. Geometry tessellation approximate analytic volumes. Actual120s guides finished before final detail-view/readability/copy edits;finalstaticviews checked thereafter. Large build-chunk advisory retained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/temperatureSaturation.ts": "1f789279135bd6897a5c5b3becc1016a8b883c44c7fa2228298e0d554492eec2",
+    "src/lib/chemistry/temperatureSaturationGeometry.ts": "644494f5bd6114e575754a318c27cfd6804fe349ba2045e6ffb92a2f53487558",
+    "src/lib/chemistry/temperatureSaturationRecord.ts": "e2a15dd78a7926169239ca69f7308b9e52fcfb6054578358a663d05f28edf034",
+    "src/components/chemistry/TemperatureSaturationLab.tsx": "72b95d90d5a608dc564d9b0d7731c1e7fe6fe2d59fc0bd5e2de80d988c8626c0",
+    "src/components/chemistry/TemperatureSaturationDiagram.tsx": "e8e8cfd63fa96f6b47477dfd90baa2c5813c44b272a091bf2472574cf651d032",
+    "src/components/chemistry/TemperatureSaturationScene.tsx": "13b8d2c0055cd9f0aa28e3215187f3eb601968615d3ed5c60b86bfdd4efda07d",
+    "src/components/chemistry/temperatureSaturation.css": "e03478d9e863f2a011ed2881fd606354eee8e0d4df2e5a830f18c3e95a2c0095",
+    "tests/chemistry-temperature-saturation.test.mjs": "7c9c87e0e9f600ddbaec93d6ae73ab3935421006e47d557d3b83c6ee832d8ce1",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

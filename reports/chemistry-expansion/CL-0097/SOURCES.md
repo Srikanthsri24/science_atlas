@@ -1,0 +1,10 @@
+# Private scientific references · CL-0097
+
+Read2026-11-27;not product-facing references. Company-only references remain in product. No source code,assets,proprietary interface or textbook passages copied.
+
+- Davidson College / David N. Blauch, Calorimetry: Heat of Neutralization: https://chm.davidson.edu/vce/Calorimetry/HeatOFNeutralization.html . Full56-line page read. Supports1:1H+/OH− reaction,limiting reactant,molar reaction heat,combined calorimeter/solution/reaction energy balance,same initial temperature,density1g/mL and4.184J/(g°C) aqueous heat-capacity approximation. Their apparatus inputs and78.2J/°C constant are source-specific;planned app uses independently chosen ranges/adjustable calorimeter parameter and original scene.
+- Gonzaga University / J.D.Cronk, CHEM101 Calorimetry: https://web02.gonzaga.edu/faculty/cronk/CHEM101pub/calorimetry.html . Full127-line page read. Supports constant-pressure solution calorimetry,negative reaction heat for warming and limiting-reactant normalization. Source arithmetic typo atline73:1464.4J equals1.4644kJ,not1.64kJ;later calculation uses1.4644correctly. Unrelated phase-change section has sign inconsistency;do not propagate it. No empirical57.3kJ/mol calibration supplied by this page.
+
+Selected ideal57.3kJ/mol model value needs a direct primary/official handbook corroboration before final implementation freeze. May instead select an explicitly declared simulated parameter and avoid an experimental/calibrated-value claim. Do not silently certify this parameter from search snippets.
+
+Follow-up2026-11-27:official IGNOU Unit7 search result https://egyankosh.ac.in/bitstream/123456789/15865/1/Unit-7.pdf and Bhutan Royal Education Council practical manual https://rec.gov.bt/download/968/science/4767/xi-xii-chemistry-practical-works-manual-2024-2.pdf each exposed−57.3kJ/mol in search extraction,but direct full-document fetches timed out. These are leads only,not verified full readings. Implementation therefore describes−57.3kJ/mol explicitly as a selected approximate teaching parameter and makes no measured/fitted/calibrated-value claim. Source-specific empirical correction not invented.

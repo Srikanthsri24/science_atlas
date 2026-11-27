@@ -1,0 +1,18 @@
+[
+  {
+    "group": "wet-air",
+    "count": 38
+  },
+  {
+    "group": "oxygen-excluded",
+    "count": 38
+  },
+  {
+    "group": "dry-air",
+    "count": 38
+  },
+  {
+    "group": "all",
+    "count": 114
+  }
+]

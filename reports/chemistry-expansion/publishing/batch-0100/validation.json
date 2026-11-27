@@ -1,0 +1,17 @@
+{
+  "gates": {
+    "typecheck": 0,
+    "tests": 0,
+    "inventory": 0,
+    "ledger": 0,
+    "practicals": 0,
+    "concept-reviews": 0,
+    "progress": 0,
+    "prepare-public": 0,
+    "pages-build": 0
+  },
+  "reviewed": 100,
+  "total": 270,
+  "testsPassed": 3315,
+  "scope": "Internal functional reviews, not independent expert or official-board certification"
+}

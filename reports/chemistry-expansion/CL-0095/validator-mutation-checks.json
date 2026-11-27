@@ -1,0 +1,14 @@
+[
+  {
+    "tampered": "operand",
+    "rejected": true
+  },
+  {
+    "tampered": "result",
+    "rejected": true
+  },
+  {
+    "tampered": "table",
+    "rejected": true
+  }
+]

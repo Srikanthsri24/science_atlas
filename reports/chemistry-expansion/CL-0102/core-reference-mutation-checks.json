@@ -1,0 +1,22 @@
+[
+  {
+    "field": "freeSilverMol",
+    "rejected": true
+  },
+  {
+    "field": "nitrateMol",
+    "rejected": true
+  },
+  {
+    "field": "aqueousMl",
+    "rejected": true
+  },
+  {
+    "field": "precipitateG",
+    "rejected": true
+  },
+  {
+    "field": "finalContentsG",
+    "rejected": true
+  }
+]

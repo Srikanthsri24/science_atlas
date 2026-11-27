@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0083",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "14model/record/visualtests+2cataloguenavigationchecks passed;final2992fullregression tests passed. Per-component normalised profiles integrated independently,phase masses closed;co-migration ambiguity acrossS1/S2,unresolved/early reading gates,rounding bounds,linearload,programmedremoval and cross-condition evidence checked. Minimum4cm button clock verified at all7capillaryUIsteps. ExactinputJSON preserves boundary-time reproducibility and escapesstudenttext. FinalTypeScript passed;Vite39.02s passed.",
+    "twoD": "Fresh actual full120sguide completed with recorddisabledwhileplaying/enabledat120,andendpoint saved.88presentationseconds develop four profiles after12ssetup;20sinspectionhold. Shared quantitative longitudinal profiles,illustrative absorptive RGB colour,common-origin ruler/measurement arrows. Measured laneA/B/C/U selection exercised. Fractional0.5reference-second textureframes duringplayback leave exactmeasurementtime unchanged.",
+    "threeD": "Fresh actual full120sguide completed andendpoint saved;live70.5s migration inspected. Four-lane paper held above an undepleted pool in an original covered rectangular chamber. Smallruler/laneletters were enlarged before guides. Complete chamber/paper inspection,selectedlane,orbitL/R,zoom\u00b1,reset,cutawayglass andlabels exercised. Later portraitcamera/native-readout and short-landscape layout refinements statically checked;defaultdesktop scientific animation unchanged.",
+    "responsive": "40finalinitial/developed\u00d72D/3D\u00d716:9/9:16\u00d7320/390/820/1280/1920cases: no pageoverflow,fallback orzero-size visuals.16additionaltheatrecases at568\u00d7320,844\u00d7390,1024\u00d7768,1920\u00d71080,bothmodes/formats passed. Phoneportrait initially hadsmallGLcallouts;added native readable selected-lane distances/Rf and tightened framing. Shortlandscape initially100.8pxcanvas;side-by-side model/readout/explanation layout gives224/294px at568/844width. Darkphone,theatre,compactcontrols130pxclient=scroll,andkeyboardtable1104\u21921144 tested. Viewport/light restored.",
+    "practicalRecord": "17actualGUIdevelopments/68lanerecords:initial,bothfullguideendpoints,all4vials\u00d7bothsolvents,4cmthreshold,unresolvedmaxbroadening/load,minimumload/width/dispersion,maxcapillary,three rulerincrements,programmedremoval andlater1500stimefreeze.17preparation,13lane,7comparisoncolumns;47workedblocks/development. Actual downloadedHTML independentlychecked1602fields(1196numeric),799workedresults(715numeric),9reporttables via separatePythoncalculation with exactinputmetadata. Notes escaped;hiddenrecipe not printed.17developments,plan,conclusion,note2survive reload andactualClass6workingpreviewreturn.",
+    "interpretation": "Defaultunknownvial4 isconsistentwithAinS1butdifferentinS2;alllistedreferences thenexcluded. Vial1supportsAinbothconditions,vial2B,vial3C. B/Cco-migration inS1 doesnotforce identity. Unresolvedtrials remaininconclusive,notmismatches. Recorded evidence is grouped bysamevial anddistinctsolvent. Teacherrecipeexplanationtoggle exercised/hidden;studentexport omits formulationidentity.",
+    "runtime": "Finalbrowsererror/warninglogempty. Oneprecisionselect attempt usednonexistent literal .05;observed options,selected0.05,andverified12rows beforecontinuing withoutduplicates. No serverrestart or scientificguard relaxation.",
+    "sources": "Originalgeneric reference formulations andchosen solvent affinities/capillary/broadening assumptions,not empiricalcommercialinkdata. No proprietaryassets/text copied,no externalstudentreferencepanel,no officialboardmapping/independentexpertcertification claim."
+  },
+  "reviewScope": "Internal numerical,functional andbrowser-viewport engineeringreview only;not independent scientificexpertcertification,officialcurriculummapping,realink/instrument/spectralcalibration,physicaldevice/printer/FPS/nativegesture verification. OriginalGaussianreferenceprofiles with ideal sharpmobilisation andwet-domainnormalisation,linearload/nooverload,undepletedconstantpool,equalreferencephasevolumes. Rf/partitionrelationshipchosen;not solved adsorption/moving-boundarytransport. Individualmodelband-centre readings require>=4cmdevelopment andnominalGaussianresolution>=1.5. Rulerintervalscoverroundingonly;commonfrontcomparison allowanceisone increment,notfull uncertainty/identityproof. At11.5cmprogrammedremovalfreezesfrontandwidth;evaporation/dryingomitted. Colour/transverseprofile/fibretintillustrative. Fulldefaultdesktopguides precedefinalstaticportrait/landscape readabilityrefinements;timingunchanged. Largechunkadvisoryretained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/inkComparison.ts": "112ecd10a6057dfb1932096a980b8e44e53cf64bbe8caa61652512490c2ff668",
+    "src/lib/chemistry/inkComparisonRecord.ts": "27280e5eead442faa9f1afde40acbe8ce219ab869556a49148e0dc4c238ff697",
+    "src/lib/chemistry/inkComparisonVisual.ts": "0ae579ceca84cdd4d5291a53465d3b618a5449f4aa55a54087018621d041e11a",
+    "src/components/chemistry/InkComparisonLab.tsx": "c12d2992fd98cec225d218c5569fab21efc1d2cd69b867d1d87ff63c8dfe920f",
+    "src/components/chemistry/InkComparisonDiagram.tsx": "bab29b9cd6a0da6e23bc38ebb863bf2d963ad538d6294ae3357e0feed5570d5f",
+    "src/components/chemistry/InkComparisonScene.tsx": "e48867e80a915ca233a1cfe4d566d48942deba26af14136c0d6c847847f912c7",
+    "src/components/chemistry/InkReadingPanel.tsx": "ff347a245e2668c62313b5c7935f7ab6a848dbc9bf42483f67c0bbd56f3cffd2",
+    "src/components/chemistry/inkComparison.css": "f20a6a47a6190236b6edc4f15013b260c1ba70fa8beaf5013d8afbfe334114f3",
+    "tests/chemistry-ink-comparison.test.mjs": "84b9370d6b95785c1a6a4bb6e4317c5f813487dcb441fe4fa56aef31cf856268",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

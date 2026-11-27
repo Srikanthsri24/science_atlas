@@ -1,0 +1,35 @@
+{
+  "labId": "CL-0078",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "15 focused and2927 full regression tests passed. Finite solute/water inventory,independent cohort quadrature,correct final-solution-volume preparation,missed rinse,wrong mass/water amount,premature filling and slow completion. Actual concentration separated from quantitative-transfer compliance. Exact frustum nominal mark;sampled water mesh volumes within0.2mL including reversed equivalent-residue cavity. Final TypeScript and Vite build passed.",
+    "twoD": "Actual120s guide completed;recording enabled at endpoint. Moving boat/transfer grains,water delivery,residue shrinkage and reference liquid level. Both formats320/390/820/1280/1920 positive contained SVGs,no horizontal page overflow. Fixed empty-boat duplication during transfer.",
+    "threeD": "Actual120s guide completed;recording disabled while playing and enabled at endpoint. Same analytic inventory/flat flask surface/equivalent residue. Boat travels above mouth and returns,stopper visible after make-up. Both inspection close-ups,orbit left/right,zoom in/out,reset,cutaway and labels exercised. Final proof image inspected,final console warning/error list empty. Stable memoized camera/gl properties.",
+    "responsive": "20 viewport cases across2D/3D and both formats at320/390/820/1280/1920. No horizontal page overflow,positive contained visuals. Mobile390 dark mode with worked calculations:page390,table314/2550px and keyboard scroll0to39. Teacher controls spaced. Default viewport/light restored.",
+    "practicalRecord": "8 actual GUI rows24columns. Actual downloaded report independently reconstructs72 numeric observation quantities and96 worked results by Python midpoint integration6000samples/cohort. Escaped student writing.8rows/note/plan/conclusion survive reload andClass6 return. Large250mL target50g/L and maximum261mL error case checked live.",
+    "sources": "PrimaryUniversityYork solution-from-solid procedure read. Original code,geometry,derivations,prose;no copied media. All146 original staged blobs preserved.",
+    "catalogueNavigationFollowup": "During79review,the78card was found to showViewlabplan despite its direct working route. Fixed in shared mutable presentation registry and card availability condition;actualClass6Openlaboratory link now opens78. No frozen78viewer/model/record source changed."
+  },
+  "reviewScope": "Internal model/functional/browser-viewport engineering review,not independent scientific expert certification,official curriculum mapping,physical-device/FPS/native-gesture or printer validation. Generic undersaturated material;chosen beta0.6mL/g,solid density2g/mL and water density1g/mL. Constant temperature,no heat of dissolution,thermal expansion,evaporation or instrument uncertainty. Chosen shrinking-radius cohort times,not calibrated kinetics. Flat reference surface,not capillary equilibrium. Single equivalent-volume residue body,not actual crystal morphology. Mixing is a scheduled procedural operation;no inversion CFD or molecular mixing claim. Prescribed boat motion not hand/actuator dynamics. 3D/2D playback completed before final cosmetic stopper/spacing changes;final static UI checked thereafter. Build warning about large chunks retained.",
+  "nativeGestureVerification": "unverified;accessible buttons exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/massConcentration.ts": "fd72484c7340dbcafaba47ec7245c5e63a9a1804e7aa867d322b37e3d24b5d66",
+    "src/lib/chemistry/massConcentrationGeometry.ts": "3e51aef17c2f0cb5b3f023396fc9c6dc2ebba12f2646239cc82c60b7bcada423",
+    "src/lib/chemistry/massConcentrationRecord.ts": "5527eb59e0343143e474ba7a4e721922de53fde4b322ad5b713614576a062ccd",
+    "src/components/chemistry/MassConcentrationLab.tsx": "3f4f9751556b36f25ddcd97380f06e7d7a07207f61cf7c9aef040401de1c02e8",
+    "src/components/chemistry/MassConcentrationDiagram.tsx": "529fa296c4c92d4eaec12ba7df6f92dbeca94c2b71a9274a01d9ddd380c2fe3c",
+    "src/components/chemistry/MassConcentrationScene.tsx": "1a58261ca47c0f3992a532870be7e2ac64feb9cd57e1180c2edfa3adc0cba6ff",
+    "src/components/chemistry/massConcentration.css": "0e91c354e277add849382c8dfd7158733be795ded162eb52aa49ae721c5c09b2",
+    "tests/chemistry-mass-concentration.test.mjs": "54f953ff0eefa39bd60f40d6b9167e8a3a9ad639dac4d808581e5039bb342890",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/displacedDensity.css": "00a7bfa86ec4780d53261de8702310abd7166c8f281c63a4da4c8aea14be4a89",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5"
+  }
+}

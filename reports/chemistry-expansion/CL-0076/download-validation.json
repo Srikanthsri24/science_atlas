@@ -1,0 +1,7 @@
+{
+  "rows": 9,
+  "columns": 18,
+  "derivedQuantityChecks": 99,
+  "method": "Independent Python stoichiometry/element/mass/ideal-gas reconstruction from actual downloaded preparations",
+  "passed": true
+}

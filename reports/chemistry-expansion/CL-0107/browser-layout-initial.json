@@ -1,0 +1,686 @@
+[
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 180,
+          "width": 320,
+          "x": 0,
+          "y": 156
+        }
+      ],
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 219.375,
+          "width": 390,
+          "x": 0,
+          "y": 156
+        }
+      ],
+      "scroll": 390,
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 180,
+          "width": 320,
+          "x": 262,
+          "y": 170
+        }
+      ],
+      "scroll": 844,
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 432,
+          "width": 768,
+          "x": 0,
+          "y": 186
+        }
+      ],
+      "scroll": 768,
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 208,
+          "width": 117,
+          "x": 101.5,
+          "y": 156
+        }
+      ],
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 484,
+          "width": 272.25,
+          "x": 58.875,
+          "y": 156
+        }
+      ],
+      "scroll": 390,
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 180,
+          "width": 101.25,
+          "x": 371.375,
+          "y": 170
+        }
+      ],
+      "scroll": 844,
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 664,
+          "width": 373.5,
+          "x": 197.25,
+          "y": 186
+        }
+      ],
+      "scroll": 768,
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 408,
+          "width": 229.5,
+          "x": 568.25,
+          "y": 139
+        }
+      ],
+      "scroll": 1366,
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "3D theatre 9:16 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 720,
+          "width": 405,
+          "x": 757.5,
+          "y": 139
+        }
+      ],
+      "scroll": 1920,
+      "width": 1920
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 407.9921875,
+          "width": 725.328125,
+          "x": 320.3359375,
+          "y": 139
+        }
+      ],
+      "scroll": 1366,
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "3D theatre 16:9 playing",
+    "geometry": {
+      "canvas": [
+        {
+          "height": 720,
+          "width": 1280,
+          "x": 320,
+          "y": 139
+        }
+      ],
+      "scroll": 1920,
+      "width": 1920
+    }
+  },
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 320,
+      "svg": [
+        {
+          "height": 180,
+          "width": 320,
+          "x": 0,
+          "y": 156
+        }
+      ],
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 390,
+      "svg": [
+        {
+          "height": 219.375,
+          "width": 390,
+          "x": 0,
+          "y": 156
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 844,
+      "svg": [
+        {
+          "height": 180,
+          "width": 320,
+          "x": 262,
+          "y": 123
+        }
+      ],
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 768,
+      "svg": [
+        {
+          "height": 432,
+          "width": 768,
+          "x": 0,
+          "y": 139
+        }
+      ],
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 1366,
+      "svg": [
+        {
+          "height": 407.9921875,
+          "width": 725.328125,
+          "x": 320.3359375,
+          "y": 139
+        }
+      ],
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "2D theatre landscape playing",
+    "geometry": {
+      "scroll": 1920,
+      "svg": [
+        {
+          "height": 720,
+          "width": 1280,
+          "x": 320,
+          "y": 139
+        }
+      ],
+      "width": 1920
+    }
+  },
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 320,
+      "svg": [
+        {
+          "height": 208,
+          "width": 117,
+          "x": 101.5,
+          "y": 156
+        }
+      ],
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 390,
+      "svg": [
+        {
+          "height": 484,
+          "width": 272.25,
+          "x": 58.875,
+          "y": 156
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 844,
+      "svg": [
+        {
+          "height": 180,
+          "width": 101.25,
+          "x": 371.375,
+          "y": 123
+        }
+      ],
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 768,
+      "svg": [
+        {
+          "height": 664,
+          "width": 373.5,
+          "x": 197.25,
+          "y": 139
+        }
+      ],
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 1366,
+      "svg": [
+        {
+          "height": 408,
+          "width": 229.5,
+          "x": 568.25,
+          "y": 139
+        }
+      ],
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "2D theatre portrait playing",
+    "geometry": {
+      "scroll": 1920,
+      "svg": [
+        {
+          "height": 720,
+          "width": 405,
+          "x": 757.5,
+          "y": 139
+        }
+      ],
+      "width": 1920
+    }
+  },
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 320,
+      "svg": [
+        {
+          "height": 158.625,
+          "width": 282,
+          "x": 19,
+          "y": 786.9921875
+        }
+      ],
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 390,
+      "svg": [
+        {
+          "height": 198,
+          "width": 352,
+          "x": 19,
+          "y": 693.453125
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 844,
+      "svg": [
+        {
+          "height": 326.25,
+          "width": 580,
+          "x": 237,
+          "y": 599.3203125
+        }
+      ],
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 768,
+      "svg": [
+        {
+          "height": 283.5,
+          "width": 504,
+          "x": 237,
+          "y": 646.9140625
+        }
+      ],
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 1366,
+      "svg": [
+        {
+          "height": 423.5625,
+          "width": 753,
+          "x": 289,
+          "y": 556.328125
+        }
+      ],
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "2D normal landscape playing",
+    "geometry": {
+      "scroll": 1920,
+      "svg": [
+        {
+          "height": 683.4375,
+          "width": 1215,
+          "x": 335,
+          "y": 498.1328125
+        }
+      ],
+      "width": 1920
+    }
+  },
+  {
+    "dimensions": {
+      "width": 320,
+      "height": 568
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 320,
+      "svg": [
+        {
+          "height": 501.328125,
+          "width": 282,
+          "x": 19,
+          "y": 786.9921875
+        }
+      ],
+      "width": 320
+    }
+  },
+  {
+    "dimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 390,
+      "svg": [
+        {
+          "height": 625.7734375,
+          "width": 352,
+          "x": 19,
+          "y": 693.453125
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "dimensions": {
+      "width": 844,
+      "height": 390
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 844,
+      "svg": [
+        {
+          "height": 800,
+          "width": 450,
+          "x": 302,
+          "y": 646.3203125
+        }
+      ],
+      "width": 844
+    }
+  },
+  {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 768,
+      "svg": [
+        {
+          "height": 800,
+          "width": 450,
+          "x": 264,
+          "y": 693.9140625
+        }
+      ],
+      "width": 768
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1366,
+      "height": 768
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 1366,
+      "svg": [
+        {
+          "height": 800,
+          "width": 450,
+          "x": 440.5,
+          "y": 603.328125
+        }
+      ],
+      "width": 1366
+    }
+  },
+  {
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "2D normal portrait playing",
+    "geometry": {
+      "scroll": 1920,
+      "svg": [
+        {
+          "height": 800,
+          "width": 450,
+          "x": 717.5,
+          "y": 592.1328125
+        }
+      ],
+      "width": 1920
+    }
+  }
+]

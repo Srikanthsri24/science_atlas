@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0089",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13 focused science/record/geometry tests plus2navigation pass.23,136 dense states and288 corner states close phase mass,total energy and equal/opposite exchange.Independent enthalpyODE Euler0.02\u21920.01s converges. Onset/completion continuity,exact capacity equalities,zero contact and stable analytic late-time heat gap tested. Full3063regression passed before final presentation wording changes;15focused checks and finalTypeScript pass afterward. Vite11.48s pass.",
+    "twoD": "Actual120s guide completed previous turn. Both temperature histories,phase masses and heat/energy accounts inspected in3scopes. Current phase inventory tracks water/ice volumes;heat marker displacement follows cumulative transferred heat. Pause at72presentation seconds preserved physical228.2542894971282s and transformtranslate(225 410.7852710740429) rotate(90) across theatre/viewport;resume advanced to81.1601 before pause. True720x405/450x800aspect ratios.",
+    "threeD": "Actual120s guide completed previous turn,endpointsample\u22125.042541018/store\u22125.329646445C,100gice. Centimetre reference glass/contact/cold-store apparatus with mass-based ice/liquid inventories. All3scopes,orbit\u00b1,zoom\u00b1,reset,glass cutaway and labels exercised. Portrait stacks the separate cold store below the sample. First asynchronous canvas mount inspected on next frame;no runtime errors. Phase stack is not predicted crystal growth or buoyancy.",
+    "responsive": "180normal cases:initial100g/maximum500gat7200s/frozen100g \u00d72modes \u00d73scopes \u00d72formats \u00d75widths320/390/820/1280/1920.48theatre cases568x320/844x390/1024x768/1920x1080 \u00d7bothmodes/allscopes/formats. All correct aspect ratios,nonzero visual sizes and no document overflow. Normal visuals remain inside stage horizontally. Dark390phone and1280desktop visually checked;native reading panes scroll as needed. Theme,viewport and theatre restored. Viewport tests only,not physical devices/FPS.",
+    "practicalRecord": "18actualGUI observations retained and restored:one previous full-guide endpoint plus6defaulteventstates,4capacity counterexamples at7200s,disconnected7200s,allmin/allmaxcontrols7200s,4equal60sintervalstates. First prior second endpoint-record click did not persist before ephemeral tab cleanup;not counted twice. Actualdownload passes3533independentPython table/numericoperand/result checks across558workedblocks. Synthetic8state reference separately1556checks248blocks,notGUIproof.9/14/15tablecolumns,31workings/trial,autoAim/result/studentplan/conclusion/notes.SafeHTML/JSON andexacttimes.18rows/plan/conclusion/note3restoredafterreload.",
+    "runtime": "Final browser error/warning logs empty. Unavailable onset/completion buttons disabled for no-freezing/equality cases. Disconnected-store caption fixed to retain initial temperature. Exact physical time input supports common intervals. All88prior frozen source reviews preserved. No Gitmutation;nextpublish at100reviewed. Final ready-catalog build33.65s and full3072regression tests pass after90coreaddition;TypeScript94751exit0. No pendingCLIprocesses.",
+    "sources": "PrivateSOURCES.md verified IAPWSIce2009Table6 near-meltingCp/density and enthalpy reference;rounded0C/101325Pa,Cpwater4180/Cpice2100JkgK,L333400Jkg. Genericcold-storecapacity,conductance,vesselcapacity chosen references,not calibration. Noexternal productreferences;officialboardmapping pending editorial verification."
+  },
+  "reviewScope": "Internal numerical,functional and browser viewport engineering review only;not independent expert,official board,physical device,FPS,native gesture or printer certification. Two uniform temperature nodes,closed insulated pair,constant chosen properties and rounded freezing reference. No heat leak,evaporation,supercooling,nucleation dynamics,probe lag,CFD or crystal-front/buoyancy prediction. Cold store is not pure liquid water below0C. Geometry constant densities1/.917gml;within-phase thermal contraction omitted. Exact event equalities can approach only in infinite time;finite guide endpoints are not exact equilibrium. Single enthalpy reference ice0C=0;negative stored energies valid. Parameter changes startfresh.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/waterCooling.ts": "f620ed3937d578893b8a7a1111d14a63af8786cd52c8b75219bef7e40de50835",
+    "src/lib/chemistry/waterCoolingRecord.ts": "17413f0cbb790e27271533cc157e97c49b6d905d2ced898f00a1016277f58062",
+    "src/lib/chemistry/waterCoolingGeometry.ts": "1f9660a085d1a32462eaf68b39953142a229ac3d661f52209c861da9e98c962a",
+    "src/components/chemistry/WaterCoolingLab.tsx": "f89b09cb4150e63a1b03c87ae72c4aa44be86c717d2496125295bfa27276bc7c",
+    "src/components/chemistry/WaterCoolingDiagram.tsx": "ff92a9cb587dec8799cde100eb33df639f0efbb310738f66c981ccba6cd10e32",
+    "src/components/chemistry/WaterCoolingScene.tsx": "26d149df533940de8ca3f0a121e6df39e8b164c8b2957474a96c9f7ed38facc8",
+    "src/components/chemistry/WaterCoolingReadings.tsx": "77819011a7051c0c889973506f7487d13ddb98bb0ae21f8c228fc952d03deaa0",
+    "src/components/chemistry/waterCooling.css": "9cd06219236738c9ed7d565342086f68a5adb552c6524d1be2df127303a6f1af",
+    "tests/chemistry-water-cooling.test.mjs": "cb71203c76cfbbc54029793b20924e801b4877d1f834a4d1b9763c92b5f33820",
+    "scripts/chemistry/validate_water_cooling_report.py": "f7ba362e920b1a965600bd54efa88b68ccf8eddcf2d6f0cc6059bb2cbc8728ad",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

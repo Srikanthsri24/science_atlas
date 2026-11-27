@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0092",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "14 focused science/record/geometry tests+2navigation pass;full3112regressions pass.3600preparation states;independent hand arithmetic;SIgram/kilogram conversion;seed/prefix reproducibility;round-half-away-from-zero;empty/single-reading null statistics;fixed-zero correction/spread invariance;coarse quantization residual and non-monotonic realized prefix SEM.20krepresentative pseudo-normal samples and36003guide frames tested. FinalTypeScript76481exit0;Vite42033exit0/build12.69s.",
+    "twoD": "Actual120-second guide completed in2D,all6default readings entered in order. Original balance/pan/sealed specimen placement/settling/record/removal;unsettled indications withheld. Numbered raw/corrected dot plot and mean/range comparison. Dense plots retain every point and alternate number labels,with every value in the table. Legend/summary overlaps and portrait label crowding found and corrected. Final short zero-correction caption reduced after phone visual inspection.",
+    "threeD": "Actual120-second guide completed in3D fromtoolbarReplay. Rounded original extruded balance casing,metal pan,feet,readout and sealed specimen. Full apparatus,pan and indication close-ups. Orbit left/right,zoom in/out,reset and labels exercised. Redundant bottom label obscuring the readout removed. Labels toggle hidden in readout-only scope where annotations are absent. Motion follows shared staged loading fraction,not invented force-response dynamics.",
+    "responsive": "180normal cases:default,minimum10g/noise0/offset\u22122/step1/n2/seed1,and100g/noise1/offset2/step.1/n20/seed1e6;3preparations\u00d72modes\u00d73scopes\u00d72formats\u00d75widths320/390/820/1280/1920.48theatre cases2modes\u00d73scopes\u00d72formats\u00d7568x320/844x390/1024x768/1920x1080. Correct ratios/nonzero media/no document overflow/noSVGtext clipping or overlaps in corrected saved matrices. Matrices fully rerun and saved after an observation-kernel reset lost earlier in-memory results. Phone dark/light and desktop viewed. Temporary viewport/theme/theatre restored. Browser viewport evidence,not actual device/FPS certification.",
+    "practicalRecord": "11actualGUI series85readings:both120sguide endpoints;one-reading prefix;allmin2readings;allmax20;identical readings withfixedbias10;coarse-display residual6;nooffset6;defaultprefix2/6;default20. Three tables11preparation/10individual/13summary columns.10worked blocks per reading plus11each raw/corrected summary. Actual downloaded report independently verified by Python without app imports:4649numericoperand/result/table checks1092blocksPASS. Synthetic8series95readings4803checks1126blocksPASS. Exact validated inputs and seed reconstructed;student plan/conclusion/note escaped and11series85readings restored afterreload. Download event observer timed out after actual file already saved;verified filesystem report used,not a fabricated export.",
+    "runtime": "Paused36presentation seconds retained exact specimen transform175,446.54999999999995 through theatre/viewport change. Resume advanced to59.83370000000116 beforepause. Final11series85readings retained. Camera/labels worked;final browser warning/error log empty after rebind. OneCDPdispatch timeout recovered same tab;download observation timeout reset tool kernel,but application stayed live and existing tab rebound without replaying either completed guide. Chrome extension IDs remapped3\u21921afterkernelreset. No Git mutation,nextpush100reviewed;146original staged blobs preserved.",
+    "sources": "NISTTN1297\u00a73/\u00a75/AppendixA.4(A-4)/(A-5)primary formulas inspected. Repeatability-only uncertainty is not total uncertainty or confidence percentage. Deterministic pseudo-normal teaching readings and chosen reference mass are not real data or a calibration certificate. Private source audit only;official-board mapping pending."
+  },
+  "reviewScope": "Internal functional,numerical and browser viewport review only;not independent expert,official-board,physical-device,FPS,native-gesture or print certification. Chosen loaded pseudo-normal variation,fixed offset and noiseless quantized empty check. No drift,scale-factor error,nonlinearity,temperature dependence,reference uncertainty or physical balance-response dynamics. Specimen geometry does not encode density/mass. Shared zero correction may leave sub-step residual. Empty/single-reading sample variance and SEM undefined;zero displayed spread not proof of accuracy. s/\u221an assumes independent readings and is not a full uncertainty budget or a confidence interval. Source figures rounded for display;full input seed and arithmetic retained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/repeatMeasurements.ts": "4aa22ed3e364651fbf4c9517bd4a558f872060e2d6f69a6482105f7faeba3902",
+    "src/lib/chemistry/repeatMeasurementsRecord.ts": "a61d1bfacb0db726587ff8b76be1556754807423b84fc743381bac0e951960b9",
+    "src/lib/chemistry/repeatMeasurementsGeometry.ts": "94a998d5e3bf83b4ae57092866ce2d3a4dc3c506719810dee2f234d16285a1e9",
+    "src/components/chemistry/RepeatMeasurementsLab.tsx": "48e5f56522f05364b68b67be9da35abc93a8a104f76e80cbdcf601b946a287b6",
+    "src/components/chemistry/RepeatMeasurementsDiagram.tsx": "60dffe94536556f565316ec5ee2a7faed4bc3e7f756da6adf669f4f5a262a0a0",
+    "src/components/chemistry/RepeatMeasurementsScene.tsx": "faeb4c8d2ada16bf915d05f51f5fbbb3813d3f1a7d6109d707d48e5b03d73f42",
+    "src/components/chemistry/RepeatMeasurementsReadings.tsx": "1cf1346974984016c506354b8c88ba74252940e2ab9a047b03e5eddefbdf798b",
+    "src/components/chemistry/repeatMeasurements.css": "8bb4b93f2bc4d94f692493c67dd87d67524affe05d7e4b75b45dee46088e5bdf",
+    "tests/chemistry-repeat-measurements.test.mjs": "23d7d872192461dfa9b991f4dbef270c1ae50b31596bfc8c29214613a9f3884b",
+    "scripts/chemistry/validate_repeat_measurements_report.py": "2d8c418da594b8c22c451a9ef97988d850055cc279656f2f7351db5b2b19258e",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

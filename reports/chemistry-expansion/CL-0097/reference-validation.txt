@@ -1,0 +1,1 @@
+PASS:12trials,1673independent table/numeric-operand/result checks,336workedblocks.

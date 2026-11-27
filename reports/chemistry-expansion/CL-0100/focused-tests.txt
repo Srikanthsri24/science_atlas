@@ -1,0 +1,22 @@
+✔ untested water stations do not invent acid or hydroxide (1.643278ms)
+✔ sealed finite CO2 charge partitions between headspace and all aqueous carbon species (30.520065ms)
+✔ CaO hydration consumes water and retains undissolved hydroxide rather than unlimited ions (0.407484ms)
+✔ small hydrated charge is unsaturated and additional solids do not raise saturated pH (0.692318ms)
+✔ boundary preparations retain tracked masses,carbon and calcium with nonnegative inventories (8.037306ms)
+✔ larger sealed headspace lowers CO2 partial pressure and weakens acidity for fixed finite charge (0.28713ms)
+✔ 120s guide obeys transfer-before-hydration and preserves zero reagent controls (5.660744ms)
+✔ malformed input and hydration beyond delivered oxide are rejected (1.180092ms)
+✔ render geometry matches finite syringe and fixed sealed chamber volumes exactly (2.890492ms)
+✔ guide geometry rejects stale extents and does not invent zero-reagent movement (26.97268ms)
+✔ practical notebook retains only validated inputs and bounded student text (0.742497ms)
+✔ four observation tables and43worked calculations cover zero,partial,unsaturated and saturated cases (3.569458ms)
+✔ exam report escapes student text,retains original inputs and includes every calculation (1.515005ms)
+✔ delivery glyph follows actual bent conduit with finite length parameterization (0.496835ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 682.536564

@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "gas result",
+    "rejected": true
+  },
+  {
+    "mutation": "initial amount operand",
+    "rejected": true
+  },
+  {
+    "mutation": "erase tiny positive oxygen",
+    "rejected": true
+  },
+  {
+    "mutation": "omit original air oxygen",
+    "rejected": true
+  },
+  {
+    "mutation": "preparation table",
+    "rejected": true
+  }
+]

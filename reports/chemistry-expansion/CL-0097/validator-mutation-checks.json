@@ -1,0 +1,18 @@
+[
+  {
+    "mutation": "operand",
+    "rejected": true
+  },
+  {
+    "mutation": "result",
+    "rejected": true
+  },
+  {
+    "mutation": "observation",
+    "rejected": true
+  },
+  {
+    "mutation": "input",
+    "rejected": true
+  }
+]

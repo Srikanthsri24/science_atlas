@@ -1,0 +1,28 @@
+{
+  "labId": "CL-0106",
+  "status": "incomplete_native_interaction_check",
+  "completedEvidence": [
+    "22 focused model/geometry/notebook tests passed;24 with catalogue navigation",
+    "453 control states and19026 independent Decimal field checks passed",
+    "17 synthetic report trials,1938 worked results and9297 numeric checks passed",
+    "Six core and six report mutations rejected, including wrong units and erased trace product",
+    "Actual2D playback .1295 to120seconds and final3D playback0 to120seconds",
+    "Final3D guide auto-follow observed through116.3seconds;75second shaft-segment interval",
+    "132normal plus132theatre final inspection-layout checks passed across320,390,844,768,1366 and1920widths, in both formats",
+    "14keyboard Home/End boundaries matched React-rendered values",
+    "Actual browser export:10matched observations,1140 worked results and5538 independent numeric checks passed",
+    "Observation note10 with literal HTML persisted after reload",
+    "Calculation groups38/38/38/114 verified in actual UI",
+    "Paused frame pixels unchanged; paused clock/readings unchanged through390px resize; final segment-renderer freeze also verified",
+    "14 rendered image differences verified orbit, zoom, labels, outline, surface cue, reset and glass cutaway",
+    "2D labels reduced SVGtext10to4; outline removal reduced polygons2to1 and circles2to1",
+    "Dark390px portrait theatre visually checked, including nonbreaking value/unit groups; console error log empty",
+    "3333 full regression tests passed in155.09seconds",
+    "Final segment TypeScript terminal exit0 with empty log; segment production build terminal exit0 in13.61seconds",
+    "Final unit-polish production build terminal exit0 in18.96seconds"
+  ],
+  "unverified": [
+    "Native left drag and wheel onCL-0106; native API still reports Mac locked"
+  ],
+  "scope": "Internal functional and scientific-model checks only; no independent expert, official board, physical all-device, touch, FPS or printer certification."
+}

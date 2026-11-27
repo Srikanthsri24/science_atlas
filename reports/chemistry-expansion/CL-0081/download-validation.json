@@ -1,0 +1,9 @@
+{
+  "actualGuiTrials": 13,
+  "numericObservationChecks": 239,
+  "workedBlocks": 312,
+  "reportTables": 4,
+  "independentInventoryMethod": "RK4 dt<=0.01s with final positive-water step",
+  "status": "passed",
+  "limitations": "No physical printer,chemical calibration or independent expert certification."
+}

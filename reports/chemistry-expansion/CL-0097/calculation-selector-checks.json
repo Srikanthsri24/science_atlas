@@ -1,0 +1,22 @@
+[
+  {
+    "value": "all",
+    "count": 28,
+    "invalid": false
+  },
+  {
+    "value": "material",
+    "count": 10,
+    "invalid": false
+  },
+  {
+    "value": "thermal",
+    "count": 10,
+    "invalid": false
+  },
+  {
+    "value": "results",
+    "count": 8,
+    "invalid": false
+  }
+]

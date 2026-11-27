@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0080",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "16 model/record/plot tests plus2catalogue-navigation tests pass;2957fullregressiontests pass. IndependentRK4throughramp/floor,eventbracketing,waterdenominator,rounding/bias,corners,fitdegeneracy/systematicbias,recordescaping,protocolwarning and sharedconservativegeometry checked. Final TypeScript and Vitebuild11.58spassed.",
+    "twoD": "Actual full120s corrected guide completed;recording off while playing/on endpoint. Corrected initial subtitle/mapping mismatch:0\u201360presentation seconds reach equilibrium crossing,60\u2013100magnify short residue-growth interval,100\u2013120hold event. Sample/detector detail views and1\u00d7/4\u00d7/12\u00d7crops exercised;mobile exposed-residue close-up screenshot inspected. Shortened detector label to prevent overflow. Cooling dial,qualitative tracer,residue and comparator correspond to reference state.",
+    "threeD": "Final uninterrupted full120s guide completed with recording gate;an earlier development hot-refresh reset a partial run,which was not counted. Original extruded copper coil,continuous rear hoses,probe,dial,comparator and shared conservative carrier/cube geometry. Overview/sample/detector/physical aggregate views,orbitL/R,zoom\u00b1,reset,cutaway and labels exercised. Aggregate labels hidden because wide sprites would be inappropriate in that crop. Event residue0.020g visibly inspected in physical camera detail;final app console empty.",
+    "responsive": "20finalcases across2D/3D,bothformats,320/390/820/1280/1920:positivecontainedvisuals,no page overflow. Mobile2Dlandscape310/343px,portrait411.3/568.8px;3Dlandscape186/192px,portrait357.3/487.8px. Chart600pxminimum inside internal scroll region.390darkpage390,table314/2550,chart312/600;keyboard chart0to40,table1104to1079observed. Theatre actual390\u00d7844viewport. Desktop controls internally scroll,avoiding an excessively stretched empty viewer card. Default viewport/light restored.",
+    "practicalRecord": "24actualGUItrials22columns:initial comparison,bothguide endpoints,latercooling,fiverecommendedloads,min/maxpreparations/bias/detection,all12reportingincrementcombinations andlate1800s. Actual final downloadedHTML independentlyvalidated189numericobservations+442workedresults byRK4event/inventoryintegration.23savedgraphpoints,9distincttemperatures,15measurementprotocols.18trialblocks+10fitblocks. Studentwritingescaped;24rows/note4/plan/conclusionpersistreloadandactualClass6working-previewreturn. SVGgraph included in report;reportviewport/landscapeprintstyles present.",
+    "dataInterpretation": "Current36.8\u00b0Cafterlatercoolingretains39.8\u00b0Cfirstevent. Baselinefive-loadingseriesfitsS=4.16+0.8T,R\u00b21,yet25\u00b0Cestimate24.16differsfromchosenreference24. Mixedprotocolwarningprovided. Finiteresidue detector and precipitation lag make loading-based estimate approximate;not actual dissolved mass at detector. Fit requires3distinct temperatures and line drawn only withinobservedrange;25\u00b0Cextrapolation flagged where appropriate.",
+    "runtime": "Initial record click timed out after mutation;actual row was inspected and not duplicated. Later CDPobservation timeout recovered on same tab without server restart. One partial3Dguide was restarted after a new memo hook reset development state;only fresh0to120run counted. Source captions were aligned with staged reference time before final full guides. Final code/reportcopy changes checked by actual re-download and independent validator.",
+    "sources": "PrimaryAra\u00fajoMorais2024method read in prior79turn supports controlled masses/cooling/firstcrystal detection/per100gWATER. Numericcurve,kinetics,detector/geometry are original chosen reference assumptions,not empirical KNO3calibration. No proprietary assets or text copied. No student-facing external-reference panel."
+  },
+  "reviewScope": "Internal numerical/functional/browser-viewport engineering review,not independent scientific expert certification,official board mapping,real chemical/instrument calibration,physical-device/FPS/native gesture or printer validation. Generic S=24+0.8(T\u221225)g/100gwater;clear70\u00b0Cinitialstate,programmedlinear coolingto10\u00b0C,firstorderprecipitation,no evaporation/heatbalance/delayednucleation/opticalscatteringcalibration. Finite mass detector is a chosen comparator. Loadingratio usesinitialsolute;some hasprecipitated at detection. Reportingroundingexcludesoffset/detectorbias. Equivalentcube atdensity2g/mL,water1g/mL,beta0.5mL/g,probe displacementneglected. Shared geometry reused without editing frozen79source. Coil/hoses/tracer illustrate apparatus,not computed coolant/heat flow. Stagedclock disclosed and microinterval magnified. Actual guides finished before final cosmetic copy/layout refinements;finalstaticviews tested thereafter. Largebuildchunk advisory retained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/solubilityCurve.ts": "37eca0be81d83599d157fd194bf4db4af83c5f3be89e0b145bdc04021cebac0a",
+    "src/lib/chemistry/solubilityCurveRecord.ts": "d98f2c75d89d4dbf85c58c3d8826ffe66406fb00b6b3472c2a0013d405b99d2f",
+    "src/lib/chemistry/solubilityCurvePlot.ts": "2a1c182fe6323255b87dea028393b520f6d1bf4474e73602753550c8ef39710b",
+    "src/components/chemistry/SolubilityCurveLab.tsx": "8f4ab117add2f209f3acf66abb52642761500fb414f1359f1a1436ec600fe015",
+    "src/components/chemistry/SolubilityCurveDiagram.tsx": "c60401b5b3ac49b1c4bae665951e5a9874c0ff9b6f551b2cc7e5320f6709b566",
+    "src/components/chemistry/SolubilityCurveScene.tsx": "fb55a04aa1fb4e2de35cd2f00283615001c839ef97fae621fc12c29be1a91740",
+    "src/components/chemistry/solubilityCurve.css": "f9fc372983461d4139db416fc9beb85a12ad85f73172c056d52c287bee63fb8a",
+    "tests/chemistry-solubility-curve.test.mjs": "4c51fc2de7b0004e82a85254d10c21a27be9661adf7f602d9460f43efa454c93",
+    "src/lib/chemistry/temperatureSaturationGeometry.ts": "644494f5bd6114e575754a318c27cfd6804fe349ba2045e6ffb92a2f53487558",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

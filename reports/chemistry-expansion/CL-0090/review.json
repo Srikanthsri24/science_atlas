@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0090",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "17focused science/record/geometry/pacing tests plus2navigation pass;full3080regression pass.48-cell1D finite-volume exact modal evolution,4824dense states,independent explicit time-stepping convergence and24\u219248\u219296cell continuum convergence. Equal-bath zero transfer,SIgeometry,area/length scaling,positive-time continuum flux/energy,bounds,integrated balance,stable small-time mean rise and guide-stage continuity verified. FinalTypeScript77711exit0;Vite11.51s pass.",
+    "twoD": "Revised event-paced guide actually completed120s. Old uniform-timeline run stopped99.4567s and is not counted. New guide14setup/30early/35middle/31late/10hold;defaultphysicalendpoint1547.118748717566s. Three apparatus rods,common false-colour scale,quarter/mid/three-quarter probes,current spatial profiles and integrated-energy bars. Arrow displacement follows local accumulated heat,not decorative independent time. Early landscape text collisions and largest-diameter portrait collision fixed and visually/repeatedly checked.",
+    "threeD": "Revised120s guide actually completed;camera/label refinements during its continuous shared-clock playback. Original cylindrical48segment rods,ideal end clamps,metal finishes,thermal overlay and probes. Three material close-ups plus whole apparatus;orbit\u00b1zoom\u00b1reset,labels/temperature colours and probe positions exercised. Oversized floating labels that obscured rods were moved to the side. Portrait apparatus rotated with matching camera bounds to use tall screens. No final console warning/error or fallback.",
+    "responsive": "210normal cases:initial10cm6mm/minimum5cm3mmat60s/maximum20cm12mmat7200s \u00d7combined7scopes(3in2D,4in3D) \u00d72formats \u00d75widths320/390/820/1280/1920.56theatre cases7scopes\u00d72formats\u00d7568x320/844x390/1024x768/1920x1080. Correct ratios,nonzero media,no document overflow,no2Dtext clipping/overlap. Five portrait overlap cases corrected by moving names upward;15probe-position/width rechecks pass. Final matrices contain corrected results. Phone/desktop dark and light views inspected;theme/viewport/theatre restored. Viewport checks,not physical-device/FPS certification.",
+    "practicalRecord": "16actualGUI observations/48material rows:two fullguide endpoints,eight baseline states0/10/30/60/90/180/7200/guideend,equal-bath7200s,long/thick60s,allmin/allmax7200s,and1e-8s. Three split tables7preparation/17thermal/11energycolumns.32worked blocks per material,96per observation. Downloaded actual report independently verified by NumPy matrix eigendecomposition with no app solver/analytic sine-basis import:7984table/numericoperand/result checks,1536blocks. Seven synthetic trials separately3493checks672blocks. Exact input times retained;plan/conclusion/note3/16rows restored after reload. SafeHTML/JSON. AutoAim/calculated comparison result separate from student writing.",
+    "runtime": "Paused36guide/22physical seconds preserved all11visible energy-arrow transforms across theatre/viewport change. Resume advanced to52.4391 before pause. No independent animation clock. Final browser warning/error log empty. One observation-tool timeout reset its kernel;existing tab was rebound without restarting the final guide. Chrome DOM/screenshots worked despite a locked-native-Mac inventory report. All89prior frozen hashes and146preexisting staged blobs preserved. NoGitmutation,nextpush100reviewed.",
+    "sources": "PrivateSOURCES.md verified NIST near295K conductivity/density and WebBook298.15K copper/aluminium Cp;NASA standard-conditionSS304Cp477 and300Kconductivity14.9. Mixed rounded reference properties explicitly stated. Constant-reference ranges are teaching approximations,not specimen calibration or a full temperature law. Source links remain outside productUI. Official curriculum mapping remains pending."
+  },
+  "reviewScope": "Internal numerical,functional and browser viewport engineering review only;not independent expert,official-board,physical-device,FPS,native-gesture or printer certification. Constant near-ambient properties,cold/initial25C,hot25\u201345C,identical fixed ideal thermostats and insulated lateral surfaces.1D48-cell finite-volume spatial discretisation;exact evolution of that discrete system,not exact continuum. Initial ideal-boundary-step hot power is resolution-dependent;the continuum step is singular. No contact resistance,side convection/radiation,radial gradients,thermostat lag,thermal expansion or temperature-dependent properties. False colour is calculated temperature,not glowing metal. Energy arrows do not represent atoms or literal packets. Tiny numerical corrections reported;unrounded meanRiseK used for stored heat;displayed results rounded. Finite guide endpoint is not exact steady state. Preparation changes startfresh.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/heatConductors.ts": "fd9d2cff4fb13034f6ea2bbd05d6fea56df75a50c898ed45e88ac8911a4f0ed4",
+    "src/lib/chemistry/heatConductorsRecord.ts": "77f1b7eec06653c9abe1526ca08772c84d802234a525d4d5ca7eba574292eaf8",
+    "src/lib/chemistry/heatConductorsGeometry.ts": "efa86500ba0560e273e02c181c52707c275ad3eb390fd0077cd2b91b34be6d60",
+    "src/components/chemistry/HeatConductorsLab.tsx": "e36919350aa9a77bf3d68cfbaa491ab9c9272aa67e41af862be2601cbc35f0e6",
+    "src/components/chemistry/HeatConductorsDiagram.tsx": "d29247f603b4122282b68043a372346b25e20a9af010a4e9ac4757c90ea845ae",
+    "src/components/chemistry/HeatConductorsScene.tsx": "20f0d94acb47bfc3e3c9e495fa0e96182389320e581f7fb266ea56aec6ed375b",
+    "src/components/chemistry/HeatConductorsReadings.tsx": "f64a0434a988a7333cc6507eed58a1e9cc18462a6f1e0fbc532284fda8c3a776",
+    "src/components/chemistry/heatConductors.css": "9b94647a8ff7c1f068ef3ac8ca1000ff8fe3d3ed3c3ee693f7529141a2bf99b7",
+    "tests/chemistry-heat-conductors.test.mjs": "67416fb1647aa57da479518897aa90168a574b3ca331aa6bf7a41962c91309ae",
+    "scripts/chemistry/validate_heat_conductors_report.py": "bae45c56a06893e8e519f841ae3065276f3ad3948d84f65593fab189a4edd025",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

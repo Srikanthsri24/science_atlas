@@ -1,0 +1,26 @@
+{
+  "orbit-left": {
+    "pixelDifference": 4.434299532312925,
+    "visibleModelPixels": 20368
+  },
+  "orbit-right": {
+    "pixelDifference": 3.3707876275510205,
+    "visibleModelPixels": 12337
+  },
+  "tilt-up": {
+    "pixelDifference": 3.1667081207482997,
+    "visibleModelPixels": 12733
+  },
+  "tilt-down": {
+    "pixelDifference": 4.303702965561224,
+    "visibleModelPixels": 19214
+  },
+  "zoom-in": {
+    "pixelDifference": 4.109980601615646,
+    "visibleModelPixels": 19468
+  },
+  "zoom-out": {
+    "pixelDifference": 3.1599936224489795,
+    "visibleModelPixels": 11667
+  }
+}

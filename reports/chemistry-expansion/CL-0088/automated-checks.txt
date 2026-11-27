@@ -1,0 +1,7 @@
+13science/record/geometry/result+2navigation focusedtestsPASS
+3050fullregressionPASS
+FinalTypeScriptPASS
+FinalVite11.78sPASS,largechunkadvisory
+Actualdownload18trials:3078independenttable/workednumberchecks,540blocksPASS
+180standardcases+48theatreviewportcasesPASS
+Original146pre-existingstagedblobsunchanged

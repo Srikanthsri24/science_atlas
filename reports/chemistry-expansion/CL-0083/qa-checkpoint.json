@@ -1,0 +1,39 @@
+{
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "core",
+    "record/report/evidence aggregation",
+    "visual texture",
+    "2D",
+    "3D",
+    "frontend route"
+  ],
+  "focusedTestsPassed": 16,
+  "twoDGuide": {
+    "completed": true,
+    "seconds": 120,
+    "recordEnabledWhilePlaying": false,
+    "recordEnabledAtEnd": true,
+    "endpointSaved": true
+  },
+  "threeDGuide": {
+    "completed": true,
+    "seconds": 120,
+    "recordEnabledWhilePlaying": false,
+    "recordEnabledAtEnd": true,
+    "endpointSaved": true
+  },
+  "actualGuiDevelopments": 17,
+  "remaining": [],
+  "notes": "Freshfull120sguidespassedatdefaultdesktopformat. Laterportraitnative-readout andshort-landscaperefinementstestedstatically. 17developments/writingspersistReadycardreturn. No browsererrors/warnings. ExactinputJSONsafeandindependentlyverified. No independentexpert/hardware/FPS/nativegesture/printercertification.",
+  "fullRegressionPassed": 2992,
+  "laneRecords": 68,
+  "numericObservationChecks": 1196,
+  "numericWorkedResults": 715,
+  "observationFieldChecks": 1602,
+  "workedResultChecks": 799,
+  "standardViewportCases": 40,
+  "theatreViewportCases": 16,
+  "finalTypeScript": "passed",
+  "finalBuild": "passed39.02s"
+}

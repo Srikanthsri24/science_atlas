@@ -1,0 +1,6 @@
+import{heatConductorState,type HeatConductorInputs,type ConductorId}from'./heatConductors';
+/** Common25–45°C false-colour scale for every material and preparation. */
+export function conductorThermalColor(t:number){if(!Number.isFinite(t)||t<25||t>45)throw new RangeError('Temperature25–45°C required');const u=(t-25)/10,a=u<=1?[73,160,206]:[236,190,99],b=u<=1?[236,190,99]:[236,103,91],v=u<=1?u:u-1;return'#'+a.map((n,i)=>Math.round(n+(b[i]-n)*v).toString(16).padStart(2,'0')).join('')}
+export function heatConductorGeometry(q:HeatConductorInputs,id:ConductorId){const s=heatConductorState(q,id),lengthCm=q.lengthCm,radiusCm=q.diameterMm/20,cellLengthCm=lengthCm/s.cells,segments=s.temperaturesC.map((temperatureC,i)=>({xCm:-lengthCm/2+(i+.5)*cellLengthCm,lengthCm:cellLengthCm,temperatureC,color:conductorThermalColor(temperatureC)}));
+ const flows=[6,18,30,42].map(face=>{const storedToRightJ=s.cellCapacityJK*s.temperaturesC.slice(face).reduce((sum,t)=>sum+t-25,0),integratedJ=s.coldHeatJ+storedToRightJ,phase=integratedJ/20%1,powerW=Math.max(0,s.facePowersW[face]),xCm=lengthCm*(face/s.cells-.5-.075+.15*phase);return{face,integratedJ,phase,powerW,xCm,visible:powerW>1e-8}});
+ return{state:s,lengthCm,radiusCm,cellLengthCm,segments,flows,volumeCm3:Math.PI*radiusCm**2*lengthCm};}

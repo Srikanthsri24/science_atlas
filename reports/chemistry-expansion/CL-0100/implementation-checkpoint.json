@@ -1,0 +1,53 @@
+{
+  "labId": "CL-0100",
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "validated separate CO2-water equilibrium and CaO hydration core",
+    "120second staged guide",
+    "finite source and phase-inventory geometry",
+    "validated practical notebook and four observation tables",
+    "43worked formulas/substitutions/results per observation",
+    "exam-style report with escaped exact-input JSON",
+    "independent HTML table/result/substitution-operand checker",
+    "2Dapparatus draft and live readings (not wired/browser verified)",
+    "length-based conduit path helper",
+    "original3Dsealedchamber/syringe/pan/hydrationvessel/controlscene",
+    "liveLabUI,presets,independentextents,notebookandcalculationgroups",
+    "scopedresponsive/theatreCSS andHubroute/description"
+  ],
+  "verification": [
+    "10focused tests pass",
+    "243cases/9720independent fields pass",
+    "4numerical mutations rejected",
+    "CDC/NIOSH specificgravities3.34/2.24readanddocumented for nominalsolidvolume",
+    "TypeScript61900terminalexit0",
+    "14focused tests pass",
+    "7synthetic reports/301worked results/1624independentnumericchecks pass",
+    "4HTMLmutations rejected:result,substitution operand,table value,category",
+    "record TypeScript75317terminalexit0",
+    "FirstChrome2D/3Droute renders;3Dtheatreapparatusvisuallychecked",
+    "ActualcompletepreparationreportedacidpH4.1362/basepH12.334andmassresidual0",
+    "Firstactualobservationrecorded:1trial43calculations",
+    "2DTypeScript5990terminalexit0",
+    "3D and2D120second guide completion saved",
+    "Pause32seconds identical glyph/readings through resize",
+    "560normal and56theatre layouts pass after320pxtextwrapfix",
+    "4calculationgroups17/21/5/43verified",
+    "13trial persisted notebook/plan/conclusion/literalHTMLnoteverified",
+    "Actualbuttondownload13trials559results3016checks independently passed",
+    "Finalconsolewarn/errors empty",
+    "FinalTypeScript66109exit0 andVitebuild passed",
+    "Native drag/wheel visually verified; source hashes frozen in review.json"
+  ],
+  "remaining": [
+    "Isolated batch 76\u2013100 validation, push and Pages verification"
+  ],
+  "normalResponsiveChecksPassed": 560,
+  "theatreResponsiveChecksPassed": 56,
+  "actualGuiTrials": 13,
+  "browserWorkedResults": 559,
+  "independentBrowserNumericChecks": 3016,
+  "regressionTestsPassed": 3230,
+  "regressionHandle": 42961,
+  "finalCompileBuildHandle": 66109
+}

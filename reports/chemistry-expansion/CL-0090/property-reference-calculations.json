@@ -1,0 +1,16 @@
+{
+  "copper": {
+    "temperatureK": 298.15,
+    "cpJMolK": 24.470514765242726,
+    "molarMassGMol": 63.546,
+    "cpJKgK": 385.08347913704597,
+    "chosenRoundedCpJKgK": 385
+  },
+  "aluminium": {
+    "temperatureK": 298.15,
+    "cpJMolK": 24.206256018849135,
+    "molarMassGMol": 26.9815386,
+    "cpJKgK": 897.1414261323531,
+    "chosenRoundedCpJKgK": 900
+  }
+}

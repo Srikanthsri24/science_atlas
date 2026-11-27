@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0091",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "18 focused science/record/geometry tests and 2 navigation tests pass; full regression 3098 passes. 25,728 corner/time states; independent radial quadrature and coupled RK4 convergence; SI geometry, cylindrical series resistance plus parallel other loss, energy/path/material/surface closure. Zero thickness, isothermal positive-zero/null controls, stable small-time differences, equal-rate controls, critical radius and beyond-critical counterexample. Final TypeScript session83475 exit0 and Vite15.93s pass.",
+    "twoD": "Actual 120-second guide completed, endpoint13033.343483556642 physical seconds. Matched vessels, actual mass-derived fill heights, quasi-steady radial jacket bands, ideal water/surface probes, temperature curves and stored/released energy comparison. Heat arrows follow cumulative released energy. Portrait label overlaps corrected and all affected cases rechecked.",
+    "threeD": "Actual 120-second guide completed using toolbar Replay after first mode-switch click did not restart it. Original matched cylindrical vessels, water levels, glass/lid, eight log-profile jacket layers, annular cut faces and ideal probes. Whole apparatus and both close-ups; cutaway/labels/orbit left/right/zoom in/out/reset exercised. False colour and massless quasi-steady jacket explicitly labelled; no invented fluid flow or initial warming front.",
+    "responsive": "180 normal cases: 3 preparations (default,100g0mm600s,500g30mm14400s) x2modes x3scopes x2formats x5widths320/390/820/1280/1920. 48 theatre cases:2modes x3scopes x2formats x568x320/844x390/1024x768/1920x1080. Correct ratios/nonzero media/no document overflow/no SVG text clipping or overlap. Initial30portrait spacing cases fixed;30targeted rechecks and corrected final matrix pass. Temporary viewport, theatre and dark theme restored. Viewport evidence,not physical-device/FPS certification.",
+    "practicalRecord": "16 actual GUI observations /32vessel records: both guide endpoints,baseline0/600/1200/1800/3600/14400/guideend,zero thickness,equal temperatures,conductive critical-radius cover,no other path,allmin/allmax and1e-8s. Four tables and43worked calculations per vessel plus6comparison blocks =92per trial. Actual downloaded report independently checked without app imports:6506 numeric operand/result/table checks and1472blocks pass. Synthetic9trials3657checks828blocks pass. Exact-input times,HTML/JSON escaping,plan/conclusion/note and16rows persist after reload.",
+    "runtime": "Paused physical time7833.2450826856675s and all8arrow transforms preserved across theatre/viewport change. Resume advanced guide from72 to72.1195 before later pause. Isothermal flow glyphs absent; no-other-path removes only other arrows; zero-thickness hides irrelevant cutaway. Final browser warning/error log empty. Restored light/default viewport/normal2D landscape/default preparation;16notebook records retained. No Git mutation; next push100 reviewed.",
+    "sources": "Private SOURCES.md primary DOE cylindrical resistance and Waterloo critical-radius formulas checked. NIST foam certificate scope not extrapolated; generic chosen conductivity model. Company-only product references. Official curriculum mapping pending."
+  },
+  "reviewScope": "Internal numerical,functional and browser viewport review only; not independent expert,official-board,physical-device,FPS,native-gesture or printer certification. Constant properties,uniform water/vessel,thin-wall resistance neglected,massless quasi-steady jacket. No evaporation,phase change,contact resistance,water/air CFD,room warming,explicit radiation or probe lag/capacity. Jacket covers wetted height only. Critical radius is a fixed-temperature-difference conductance maximum; current watts and accumulated joules can have opposite comparison signs. Rounded displays; unrounded stable calculations retained.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/insulationCooling.ts": "6a7fa18cf70f59178b712cb60faa5a332a7deccd5c93b9a1499fd69360e3c277",
+    "src/lib/chemistry/insulationCoolingRecord.ts": "25e0e135d2f4eaa38928d95957ede3a657c854be1e1c01bb0a0396dfc3129c2e",
+    "src/lib/chemistry/insulationCoolingGeometry.ts": "bdfeebc3808660182422f21b89d48f4c7ef93ac826c075f983d15972a77fef2a",
+    "src/components/chemistry/InsulationCoolingLab.tsx": "709c6d87f2d38fbffd9612f7cfa3c708ae055043f751529fd84b7a67f5a62dc2",
+    "src/components/chemistry/InsulationCoolingDiagram.tsx": "70c227c5044fc249b550daa7e83370efa189e65ee151f1e61b5f04a06d876b3a",
+    "src/components/chemistry/InsulationCoolingScene.tsx": "3f371900cc2ac3e414e8744110166376dacd3e00cf822d784c2aeb53774b1d32",
+    "src/components/chemistry/InsulationCoolingReadings.tsx": "c11e8a51a38e6fec22d52461c7b9dcbb0d15a688acbb42bf886f541755a054d5",
+    "src/components/chemistry/insulationCooling.css": "e631a1fe54f3f8888b979046b18df80bcbfbdd5a21c646f97dcab3e9606bec05",
+    "tests/chemistry-insulation-cooling.test.mjs": "4ac614912a6312d65e4393e87467baed9acd854d01175406ce0d24288c064fe9",
+    "scripts/chemistry/validate_insulation_cooling_report.py": "8f0e27ed281f2fe46a34037fd95e38646bd80277ca85d43cc86ceabf8c566a29",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

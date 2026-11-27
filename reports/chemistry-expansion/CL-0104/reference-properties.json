@@ -1,0 +1,19 @@
+{
+  "retrievedOn": "2026-11-27",
+  "officialRecord": "NIH PubChem CID5234",
+  "density": {
+    "reported": "Relative density2.17 at25\u00b0C/4\u00b0C",
+    "selectedApproximateGcm3": 2.17,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5234/JSON?heading=Density"
+  },
+  "solubility": {
+    "reported": "36.0g per100gwater at25\u00b0C",
+    "selectedGperWaterG": 0.36,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5234/JSON?heading=Solubility"
+  },
+  "chosenNotMeasured": {
+    "unsaturatedFluxGcm2S": 0.003,
+    "waterDensityGml": 1,
+    "dissolvedSaltVolumeMlg": 0.28
+  }
+}

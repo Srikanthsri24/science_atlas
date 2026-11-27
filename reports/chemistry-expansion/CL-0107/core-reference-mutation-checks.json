@@ -1,0 +1,34 @@
+[
+  {
+    "mutation": "missing-further-oxygen",
+    "rejected": true
+  },
+  {
+    "mutation": "incorrect-cathodic-only-ceiling",
+    "rejected": true
+  },
+  {
+    "mutation": "product-without-oxygen-water-uptake",
+    "rejected": true
+  },
+  {
+    "mutation": "erased-trace-penetration",
+    "rejected": true
+  },
+  {
+    "mutation": "current-after-exhaustion",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-water-conductivity",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-makeup-water-input",
+    "rejected": true
+  },
+  {
+    "mutation": "reversed-comparison",
+    "rejected": true
+  }
+]

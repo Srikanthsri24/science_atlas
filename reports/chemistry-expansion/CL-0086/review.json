@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0086",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13focusedscience/record/geometrytestsandnavigationchecks pass;3027fullregression pass. FinalTypeScriptpass,Vite41.08spass. Independentconservative.004\u2192.002stimeintegrationagreeswithallanalyticphases;192cornerpreparations\u00d77timescloseI2/grain/referenceheat. Exactonsetzero-deposit/purityundefined,finite-sourcebeforethreshold,equal/warmer/coveredcollectorcases,eventcontinuity,volume-dependentvapourcapacity andultratinycollectorareaprecisiontests pass.",
+    "twoD": "Actualfreshfull120sguidecompletedandendpointrecord1saved. Eventpacedsource0\u2192teover68presentationseconds,postsourcevapourapproach30s,setup12/result10. At85.8guidephysical86.8609s,source0/vapour11.3792/deposit88.6208mg;collectorarrowrunning. At120arrows paused andrecordenabled. Filmrulermagnifier46.9532\u00b5mseenat94.2868guide. Source/vapour/depositmassbarandI2pairedmarkers,thinphysicalfilms,sourcemixture/collectorinspectionwork.",
+    "threeD": "Actualfresh120sguidecompletedandendpointrecord2saved;source/collectorinspectionsandcameraoperationsexercisedduringplayback. Sealedvolumebasedcylinder,tray/solid-equivalentlayers,plateundersidedeposit,stem,readythermostats,enlargedI2pairedmarkers. Glasscutaway,orbit\u00b1zoom\u00b1resetlabelswork. At39.9guidephysical29.8626s,source54.6845/vapour21.3922/deposit23.9233mg. At113.1guidephysical145.902sresultheld,deposit93.4563mg/vapour6.54369mg. Magnifier47.3916\u00b5mattime120. Replayfromcollector/cutaway/magnifierresetschamber/cutfalse/closedmagnifierat0.4s;2DsourceReplayresetschamberat0.3swithpausedarrows. Partialreplaychecksnotcountedasfullguides.",
+    "responsive": "180standardcases:initial500mL/collected250mL/collected1000mL\u00d72modes\u00d73inspectionviews\u00d72formats\u00d75widths320/390/820/1280/1920,nooverflow/fallback/zero-size/clippedcanvas.48theatrecases568\u00d7320,844\u00d7390,1024\u00d7768,1920\u00d71080allmodes/scopes/formats pass;shortphonevisual230px. Dark390\u00d7844portraitsmallchamberand3Dcollector/magnifierinspected;nativepanelmax290pxscrollsandcaptionremainsvisible. Initialphone3Dsourcemixturealso visuallychecked. Keyboardprep-table40\u219279.5px.",
+    "practicalRecord": "16actualGUItrials:twofullguideendpoints,initial/onset/exhaustion/1800s,coveredarea0,equal40/40,warmercollector40/80,10mgallvapourprethreshold,allmin/maxcontrols,80/40highdrive250mL,0.5cm\u00b2thickdeposit(797.744\u00b5mruler-overrangemessage),1000mLendcapacity,and18swith1cm\u00b2sourcearea.11prep/18mass-pressure/8referenceheatcolumns;22workedblocks/trial. ActualfinaldownloadindependentPython1008checks/352workedblocks pass;1nsboundarysnapdocumented,nophysicaltolerancesweakened. ExactindependentinputJSON/safeescaping.16/16/16rows,plan/conclusion/note4markuprestoreafterreload. ActualClass6Readytoexplorecardopens86andrestores16observations;finalreportwordingdownloadrevalidated1008checks/352blocks.",
+    "runtime": "Finalbrowsererror/warninglogempty. Allsourceguardsretained. NativeJPEGscreenshotsverifiedvisuallyandsavedwithjpgsuffix. No serverrestart,externalAIkeyorbackend. Largechunkbuildadvisoryretained.",
+    "sources": "Thermodynamicanchor/constantenthalpyapproximationcheckedagainstprimaryNIST,roomdensitycheckedmanufacturer;privateSOURCES.md. Transfercoefficients/inertgraindensityarechosenreferences,notapparatuscalibration. Noofficialboardchaptermapping."
+  },
+  "reviewScope": "Internal numerical,functional andbrowserviewport engineeringreview only;notindependentexpertcertification,officialcurriculummapping,physicaldevice/printer/FPS/nativegestureverification. FixedgasT40\u00b0C/freespace,well-mixedI2partialpressure,inertcarrier101325Pa,source/collector40\u201380\u00b0Cconstantthermostats. Constantenthalpypressureapproximationanchored40\u00b0C,notexactfullAntoinefit. Chosenlinearconductance0.001mg/(cm\u00b2Pa s),effectiveareasconstantuntilsourceexhaustion. Noliquidphase,wallsorption/leaks/entrainment/nucleation/CFD/sensible/glassheating. Referenceheatbudgetnotfullthermalbalance. Roomreferenceiodinedensity/noexpansion,choseninertdensity2500mg/cm\u00b3;solid-equivalentfilmsnotcrystalhabit/packing. Freegasgeometryinitialexactwithstructures;kineticsignores<0.017%phase-volumeheadspacechange. Markerpaths/colourillustrative. Parameterchangesresetfresh,notthermalhistory. Idealdepositpurityonlysingledepositingspecies,emptyundefined.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/sublimationSeparation.ts": "620a59422682b88c1a5a682d33f32f9e507ab2e261319de5093babe4648136ef",
+    "src/lib/chemistry/sublimationRecord.ts": "97d1ba294423d9432c7392047b9103661bce093c4d837238ef6ff050fd35bdfa",
+    "src/lib/chemistry/sublimationGeometry.ts": "44ba878379e6087c138c5a68be0a71590dd11ea85baf14024f0b9f95ff82b8c8",
+    "src/components/chemistry/SublimationLab.tsx": "51845bb7c4a28a73f5d5a8fa88f134bf7cbd58d7cdb3884c3085957ef1b3d648",
+    "src/components/chemistry/SublimationDiagram.tsx": "7e40c393ce715ddcf01d61c197ec98081aac6f0fb789f16ac1e086881bd74ad9",
+    "src/components/chemistry/SublimationScene.tsx": "63aee5d5bf516c16ffb5e554e9ad467159031c1cf64a2231971c3b5ae48dc5a1",
+    "src/components/chemistry/SublimationReadings.tsx": "e2071bea2a017c274fa2d65cc9cf16bd2b97df38e2712a8193030854262f89ca",
+    "src/components/chemistry/sublimation.css": "3242dbf7b9b111e31b1d06fa1078095a4b3dfb1ada55fc28dd12c1f7b9ea9fa3",
+    "tests/chemistry-sublimation-separation.test.mjs": "3bc1c76868523a556cc632abbf0ac75590aa20f78db7a2a374cd71283d4ef565",
+    "scripts/chemistry/validate_sublimation_report.py": "0f94b73af8a9423551c44737c83434bcab792b27cbd2c50dfc3684828de22a7f",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  },
+  "proofs": [
+    "verified-sublimation.jpg",
+    "phone-small-chamber.jpg",
+    "phone-collector.jpg",
+    "phone-source.jpg"
+  ]
+}

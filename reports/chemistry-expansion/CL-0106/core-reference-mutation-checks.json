@@ -1,0 +1,26 @@
+[
+  {
+    "mutation": "tiny-converted-iron-erasure",
+    "rejected": true
+  },
+  {
+    "mutation": "dry-control-product",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-hydration-water",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-oxygen-product-mass",
+    "rejected": true
+  },
+  {
+    "mutation": "false-water-availability",
+    "rejected": true
+  },
+  {
+    "mutation": "late-metal-erasure",
+    "rejected": true
+  }
+]

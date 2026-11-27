@@ -1,0 +1,27 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.188763ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.316305ms)
+✔ known loading and solvent mass give a distinct equilibrium reference before observed clouding (1.934317ms)
+✔ detector event brackets the selected solid inventory and retains its temperature after further cooling (0.727137ms)
+✔ mass closure,bounds and event reachability hold across supported corners (9.954248ms)
+✔ analytic precipitation response agrees with independent RK4 integration through ramp and floor (45.950438ms)
+✔ slower cooling reduces detector-related cloud-temperature depression (2.778433ms)
+✔ reported solubility divides weighed solute by WATER mass,not total solution mass (0.245432ms)
+✔ thermometer bias and display increments change readings without changing the physical event (0.591483ms)
+✔ curve regression requires three distinct temperatures and reports residual diagnostics (1.033852ms)
+✔ a perfect line from systematically biased cloud points does not recover the true intercept (0.413743ms)
+✔ guide retains the first event after100presentation seconds and invalid inputs are rejected (0.515514ms)
+✔ curve record retains comparisons but excludes undetected events from the regression (4.189283ms)
+✔ finite detected residue separates the initial loading ratio from actual dissolved mass at clouding (0.166304ms)
+✔ exportable curve SVG separates saved observations,current unsaved point and optional reference (0.393097ms)
+✔ shared conservative sample geometry supports every cooling preparation and event without editing79 (0.577758ms)
+✔ guide magnifies the short detector interval and keeps subtitles aligned with reference state (1.807158ms)
+✔ mixed measurement protocols are disclosed when comparing fitted clouding data (0.490618ms)
+✔ automatic guide views match the cooling,growth and retained-event scientific stages (0.975323ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 709.74048

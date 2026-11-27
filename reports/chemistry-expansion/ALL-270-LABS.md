@@ -96,41 +96,41 @@ This is the complete development list, not a claim that all labs are finished. C
 - **CL-0073** — Classify a material as element, compound or mixture · ready
 - **CL-0074** — Compare homogeneous and heterogeneous mixtures · ready
 - **CL-0075** — Model diffusion in gases and liquids · ready
-- **CL-0076** — Compare physical and chemical changes using particle evidence · planned
-- **CL-0077** — Measure density from mass and displaced volume · planned
-- **CL-0078** — Prepare a solution with a stated mass concentration · planned
-- **CL-0079** — Compare saturation at different temperatures · planned
-- **CL-0080** — Construct a solubility curve from trials · planned
-- **CL-0081** — Compare solute recovery after evaporation · planned
-- **CL-0082** — Separate salt, sand and iron in stages · planned
-- **CL-0083** — Use chromatography to compare ink samples · planned
-- **CL-0084** — Investigate a separating funnel with two liquid layers · planned
-- **CL-0085** — Compare filtration and centrifugation of a suspension · planned
-- **CL-0086** — Investigate sublimation as a separation method · planned
-- **CL-0087** — Compare pure-substance and mixture melting behaviour · planned
-- **CL-0088** — Observe a heating curve for water · planned
-- **CL-0089** — Observe a cooling curve and a freezing plateau · planned
-- **CL-0090** — Compare heat conductors among materials · planned
-- **CL-0091** — Investigate the effect of an insulating layer on cooling · planned
-- **CL-0092** — Record and compare repeat measurements · planned
+- **CL-0076** — Compare physical and chemical changes using particle evidence · ready
+- **CL-0077** — Measure density from mass and displaced volume · ready
+- **CL-0078** — Prepare a solution with a stated mass concentration · ready
+- **CL-0079** — Compare saturation at different temperatures · ready
+- **CL-0080** — Construct a solubility curve from trials · ready
+- **CL-0081** — Compare solute recovery after evaporation · ready
+- **CL-0082** — Separate salt, sand and iron in stages · ready
+- **CL-0083** — Use chromatography to compare ink samples · ready
+- **CL-0084** — Investigate a separating funnel with two liquid layers · ready
+- **CL-0085** — Compare filtration and centrifugation of a suspension · ready
+- **CL-0086** — Investigate sublimation as a separation method · ready
+- **CL-0087** — Compare pure-substance and mixture melting behaviour · ready
+- **CL-0088** — Observe a heating curve for water · ready
+- **CL-0089** — Observe a cooling curve and a freezing plateau · ready
+- **CL-0090** — Compare heat conductors among materials · ready
+- **CL-0091** — Investigate the effect of an insulating layer on cooling · ready
+- **CL-0092** — Record and compare repeat measurements · ready
 
 ## Class 7 — Acids, bases and reaction evidence
 
-- **CL-0093** — Classify solutions with litmus indicators · planned
-- **CL-0094** — Compare turmeric-indicator responses · planned
-- **CL-0095** — Map cabbage-indicator colour to a chosen pH scale · planned
-- **CL-0096** — Compare universal-indicator colours across pH · planned
-- **CL-0097** — Investigate neutralization with a temperature readout · planned
-- **CL-0098** — Observe acid-carbonate gas formation and limewater evidence · planned
-- **CL-0099** — Compare indicators before and after dilution · planned
-- **CL-0100** — Investigate acidic and basic oxides with water · planned
-- **CL-0101** — Compare the pH of selected food-solution models · planned
-- **CL-0102** — Observe a precipitation reaction between two salt solutions · planned
-- **CL-0103** — Compare fast and slow reaction observations · planned
-- **CL-0104** — Investigate surface area in a dissolving-solid model · planned
-- **CL-0105** — Compare reversible phase changes and new-substance formation · planned
-- **CL-0106** — Test the conditions required for iron corrosion · planned
-- **CL-0107** — Compare rusting with saltwater concentration · planned
+- **CL-0093** — Classify solutions with litmus indicators · ready
+- **CL-0094** — Compare turmeric-indicator responses · ready
+- **CL-0095** — Map cabbage-indicator colour to a chosen pH scale · ready
+- **CL-0096** — Compare universal-indicator colours across pH · ready
+- **CL-0097** — Investigate neutralization with a temperature readout · ready
+- **CL-0098** — Observe acid-carbonate gas formation and limewater evidence · ready
+- **CL-0099** — Compare indicators before and after dilution · ready
+- **CL-0100** — Investigate acidic and basic oxides with water · ready
+- **CL-0101** — Compare the pH of selected food-solution models · in progress
+- **CL-0102** — Observe a precipitation reaction between two salt solutions · in progress
+- **CL-0103** — Compare fast and slow reaction observations · in progress
+- **CL-0104** — Investigate surface area in a dissolving-solid model · in progress
+- **CL-0105** — Compare reversible phase changes and new-substance formation · in progress
+- **CL-0106** — Test the conditions required for iron corrosion · in progress
+- **CL-0107** — Compare rusting with saltwater concentration · in progress
 - **CL-0108** — Investigate a protective zinc coating · planned
 - **CL-0109** — Compare water hardness using a soap-foam model · planned
 - **CL-0110** — Compare soap and detergent in hard water · planned

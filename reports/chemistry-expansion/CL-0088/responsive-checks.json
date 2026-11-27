@@ -1,0 +1,1790 @@
+{
+  "normal": [
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "initial250g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "boiling500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 820
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 1280
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "state": "empty500g",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "state": "empty500g",
+      "width": 1920
+    }
+  ],
+  "theatre": [
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "liquid",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "heater",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "liquid",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "heater",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "liquid",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "heater",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "liquid",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "heater",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "liquid",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "heater",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "liquid",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "heater",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "liquid",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "heater",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "curve",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "energy",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "curve",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "energy",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "curve",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "energy",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "curve",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "energy",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "curve",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "energy",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "curve",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "energy",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "apparatus",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curve",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "energy",
+      "width": 1920
+    }
+  ],
+  "pausedIndicators": {
+    "flow": "paused",
+    "time": "54.8",
+    "transforms": [
+      "translate(-75 45) scale(1.1)",
+      "translate(145 241.16008400951904)"
+    ]
+  }
+}

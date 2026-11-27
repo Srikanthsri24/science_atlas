@@ -1,0 +1,31 @@
+{
+  "status": "passed_internal_functional_review",
+  "twoDGuide": {
+    "duration": 120,
+    "completed": true,
+    "recordGateDuringPlay": false,
+    "recordEnabledAtEnd": true,
+    "actualEndpointSaved": true
+  },
+  "threeDGuide": {
+    "duration": 120,
+    "completed": true,
+    "recordGate": true,
+    "endpointSaved": true
+  },
+  "fullRegression": {
+    "passed": 2965,
+    "failed": 0
+  },
+  "focusedTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "originalStagedBlobsPreserved": 146,
+  "remaining": [],
+  "actualGuiTrials": 13,
+  "independentDownloadChecks": 239,
+  "workedReportBlocks": 312,
+  "finalTypeScript": "passed",
+  "finalBuild": "passed37.60s"
+}

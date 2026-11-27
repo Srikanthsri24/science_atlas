@@ -1,0 +1,2118 @@
+{
+  "normal": [
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "guide_in_motion"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "initial"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "excess_solid_and_liquid"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "samples",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "curves",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "phase",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "samples",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "curves",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "phase",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "samples",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "curves",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "phase",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "samples",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "curves",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "phase",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "paired",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "reference",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 740,
+      "ok": true,
+      "scope": "sample",
+      "width": 320,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "paired",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "reference",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 844,
+      "ok": true,
+      "scope": "sample",
+      "width": 390,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "paired",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "reference",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1180,
+      "ok": true,
+      "scope": "sample",
+      "width": 820,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "paired",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "reference",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 800,
+      "ok": true,
+      "scope": "sample",
+      "width": 1280,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920,
+      "state": "maximum_cutoff"
+    }
+  ],
+  "theatre": [
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "paired",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "reference",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "sample",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "paired",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "reference",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "sample",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "paired",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "reference",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "sample",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "paired",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "reference",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "sample",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "paired",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "reference",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "sample",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "paired",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "reference",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "sample",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "paired",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "reference",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "sample",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "samples",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "curves",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 320,
+      "ok": true,
+      "scope": "phase",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "samples",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "curves",
+      "width": 568
+    },
+    {
+      "format": "portrait",
+      "height": 320,
+      "ok": true,
+      "scope": "phase",
+      "width": 568
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "samples",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "curves",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 390,
+      "ok": true,
+      "scope": "phase",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "samples",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "curves",
+      "width": 844
+    },
+    {
+      "format": "portrait",
+      "height": 390,
+      "ok": true,
+      "scope": "phase",
+      "width": 844
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "samples",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "curves",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 768,
+      "ok": true,
+      "scope": "phase",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "samples",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "curves",
+      "width": 1024
+    },
+    {
+      "format": "portrait",
+      "height": 768,
+      "ok": true,
+      "scope": "phase",
+      "width": 1024
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920
+    },
+    {
+      "format": "landscape",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "samples",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "curves",
+      "width": 1920
+    },
+    {
+      "format": "portrait",
+      "height": 1080,
+      "ok": true,
+      "scope": "phase",
+      "width": 1920
+    }
+  ],
+  "phoneAspectRatios": [
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "paired",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "reference",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "sample",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625058438522674,
+      "scope": "paired",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625058438522674,
+      "scope": "reference",
+      "width": 320
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625058438522674,
+      "scope": "sample",
+      "width": 320
+    },
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "paired",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "reference",
+      "width": 390
+    },
+    {
+      "format": "landscape",
+      "ok": true,
+      "ratio": 1.7777777777777777,
+      "scope": "sample",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625039014219902,
+      "scope": "paired",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625039014219902,
+      "scope": "reference",
+      "width": 390
+    },
+    {
+      "format": "portrait",
+      "ok": true,
+      "ratio": 0.5625039014219902,
+      "scope": "sample",
+      "width": 390
+    }
+  ],
+  "pausedIndicators": {
+    "flow": "paused",
+    "time": "37.7",
+    "transforms": [
+      "translate(0 0)",
+      "translate(145,273.55998163269567)",
+      "translate(0 390)",
+      "translate(145,273.55998163269567)"
+    ]
+  }
+}

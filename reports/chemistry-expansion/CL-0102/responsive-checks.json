@@ -1,0 +1,1898 @@
+{
+  "early": [
+    {
+      "overflow": false,
+      "visuals": [
+        {
+          "height": 158.625,
+          "width": 282
+        }
+      ],
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "visuals": [
+        {
+          "height": 198,
+          "width": 352
+        }
+      ],
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "visuals": [
+        {
+          "height": 283.5,
+          "width": 504
+        }
+      ],
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "visuals": [
+        {
+          "height": 423.5625,
+          "width": 753
+        }
+      ],
+      "width": 1366
+    },
+    {
+      "overflow": false,
+      "visuals": [
+        {
+          "height": 683.4375,
+          "width": 1215
+        }
+      ],
+      "width": 1920
+    }
+  ],
+  "twoD": [
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    }
+  ],
+  "threeD": [
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 504,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 753,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 1215,
+      "width": 1920
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 504,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 753,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 1215,
+      "width": 1920
+    },
+    {
+      "format": "16:9",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "16:9",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "16:9",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 504,
+      "width": 768
+    },
+    {
+      "format": "16:9",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 753,
+      "width": 1366
+    },
+    {
+      "format": "16:9",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 1215,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "receiver",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1920
+    },
+    {
+      "format": "9:16",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 282,
+      "width": 320
+    },
+    {
+      "format": "9:16",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 352,
+      "width": 390
+    },
+    {
+      "format": "9:16",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 768
+    },
+    {
+      "format": "9:16",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1366
+    },
+    {
+      "format": "9:16",
+      "scope": "solid",
+      "canvas": true,
+      "overflow": false,
+      "visualWidth": 450,
+      "width": 1920
+    }
+  ],
+  "theatre": [
+    {
+      "format": "16:9",
+      "width": 320,
+      "height": 568,
+      "bottom": 568,
+      "left": 0,
+      "overflow": false,
+      "right": 320,
+      "top": 0
+    },
+    {
+      "format": "16:9",
+      "width": 844,
+      "height": 390,
+      "bottom": 390,
+      "left": 0,
+      "overflow": false,
+      "right": 844,
+      "top": 0
+    },
+    {
+      "format": "16:9",
+      "width": 768,
+      "height": 1024,
+      "bottom": 1024,
+      "left": 0,
+      "overflow": false,
+      "right": 768,
+      "top": 0
+    },
+    {
+      "format": "16:9",
+      "width": 1920,
+      "height": 1080,
+      "bottom": 1080,
+      "left": 0,
+      "overflow": false,
+      "right": 1920,
+      "top": 0
+    },
+    {
+      "format": "9:16",
+      "width": 320,
+      "height": 568,
+      "bottom": 568,
+      "left": 0,
+      "overflow": false,
+      "right": 320,
+      "top": 0
+    },
+    {
+      "format": "9:16",
+      "width": 844,
+      "height": 390,
+      "bottom": 390,
+      "left": 0,
+      "overflow": false,
+      "right": 844,
+      "top": 0
+    },
+    {
+      "format": "9:16",
+      "width": 768,
+      "height": 1024,
+      "bottom": 1024,
+      "left": 0,
+      "overflow": false,
+      "right": 768,
+      "top": 0
+    },
+    {
+      "format": "9:16",
+      "width": 1920,
+      "height": 1080,
+      "bottom": 1080,
+      "left": 0,
+      "overflow": false,
+      "right": 1920,
+      "top": 0
+    }
+  ],
+  "states": [
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Water controls",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Silver excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Chloride excess",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "accounts",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "16:9",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "receiver",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "Maximum filled system",
+      "mode": "3D",
+      "format": "9:16",
+      "scope": "solid",
+      "clippedText": false,
+      "overflow": false,
+      "width": 1920
+    }
+  ],
+  "pause": {
+    "before": {
+      "time": "42.71350000000885",
+      "readings": "Finite source stocks\nSilver stock remaining 5.4649 mL\nChloride stock remaining 30 mL\nDelivered Ag 0.00024535 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 44.535 mL\nSolid material 0 mL\nTotal mixture 44.535 mL\nDissolved ions remain\nFree Ag⁺ 0.00024535 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.00024535 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    "after": {
+      "time": "42.71350000000885",
+      "readings": "Finite source stocks\nSilver stock remaining 5.4649 mL\nChloride stock remaining 30 mL\nDelivered Ag 0.00024535 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 44.535 mL\nSolid material 0 mL\nTotal mixture 44.535 mL\nDissolved ions remain\nFree Ag⁺ 0.00024535 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.00024535 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    }
+  }
+}

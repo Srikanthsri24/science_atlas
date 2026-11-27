@@ -1,0 +1,36 @@
+{
+  "labId": "CL-0099",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "Eight focused model/geometry/record tests PASS;486 boundary preparations. Independent60digitDecimal charge-balance bisection verifies486cases/25272numericfields;four mutations rejected. 3216fullregression tests passed46718(101.12s). TypeScript71730exit0 andVite71730exit0(12.04s).",
+    "twoD": "Four rectangular cells,two matched controls,finite shared water reservoir and independent deliveries. Volume-derived levels,clock-driven markers,close-up pairs and concentration bars. Fullacidguide0.1478\u2192120 observed withintermediate31.5s record;pause retains exactmarkercoordinates/readings acrossphone resize. NoautonomousSMIL. Fixed viewingheight and2cm opticaldepthintopage labelled separately.",
+    "threeD": "Original rectangular glass cells,finite reservoir/supports,stopcock levers,volume-derived fills and clock-driven conduit markers. Fullbaseguide0.1367\u2192120 observed,intermediate readouts at44.519/82.5046 andfinal recorded. 2cmgoldpath followsdepthz\u22121..1. Pairs/wholeapparatus,cutaway/labels,orbit/zoom/reset work. Actualleftdragvisiblychangescamera;wheel exercised thenreset. Touch andright-buttonpanunverified.",
+    "responsive": "350normal layout cases:initialbasefull70plusacidinitial/acidfull/zerowater/maximumprep280;2modes,7combinedscopes,2formats,5widths320/390/820/1280/1920. Assertactualwidth,intendedwidth,nonzero visualbounds,correctaspect,no pageoverflow/noSVGtextclipping. Readings unchanged throughadditionalcase matrices.16theatrechecks:2modes\u00d72formats\u00d74sizes568x320/844x390/1024x768/1920x1080,finalpair scope;nonzero stage/visualandvisibleexit. Initialtheatreclippingfixedbeforetests. Matrixdoesnotproveall3Dlabelcollisioncasesorallphysicaldevices.",
+    "practicalRecord": "Actual9trials441workedresults/801numericchecks independently validatedfrombuttondownload. Synthetic12trials588results/1068checks;changedworkedresultrejected. All6calculationgroupsactualcounts11/11/11/11/5/49. Nativekeyboardcontrolsverifiedmaxprepandindependent.5/.25fractions;rendered50/30mLtests,100mLreservoir. Notebook9trials,plan/conclusionandliteralHTMLlikeobservationspersistafterreloadandescapeinexport. Recorddisabledwhileplaying;pausedandfinalobservationsrecorded. Browserdownloadwaittimedout/resettoolbutactual85842bytefileexistedandvalidated;no duplicateclickneeded. Finalconsolewarn/errorlistempty."
+  },
+  "reviewScope": "Internalfunctional/modelreviewonly;noindependentexpert/officialboard/all-device/touch/FPS/printcertification. StrongHCl/NaOHideal25\u00b0C,Kw1e\u221214,activity/heat/CO2omitted. Preparednonperturbing1mg/Lindicatortracer;constantformalamountandtracermasspercell. Additivevolumesandnominal1g/mLcontentsdensity;apparatustareexcluded. QualitativeMO/PPacid/basecolourfamilies,notmeasuredabsorbance/spectra/calibratedRGB. Additionalphenolphthaleinalkalinefadingexplicitlyomitted,so120sguideisdeliverychoreography,notrealcolourkineticprediction. Concentrationratiosnotassertedasmeasuredabsorbanceratios. Fourmatched2cmhorizontalpaths;fillheightnotopticalpath. Flowmarkersnotadditionaluncountedliquid. 3Dcutawayomitsfrontwall. Floatingpointreported12significantdigitswithoriginalJSONinputsretained.",
+  "nativeGestureVerification": "DesktopChromeleftdragvisiblyconfirmed;wheel/controlbuttonsexercised;touch/right-buttonpanunverified",
+  "sourceHashes": {
+    "src/lib/chemistry/indicatorDilution.ts": "01b045de328713151ccf389bd2636a5e4080ea3a051b0736194817f787bbfb6b",
+    "src/lib/chemistry/indicatorDilutionGeometry.ts": "c6e3f3f11545b65e54c361fd58ef64f8d3e706d2538fd87758812f5ba15e7487",
+    "src/lib/chemistry/indicatorDilutionRecord.ts": "d3867cc7314564d5b1770661aa83c94d3071f803738688908c1503eab1fc43cd",
+    "src/components/chemistry/IndicatorDilutionLab.tsx": "b69144fb0cdbd1946b86888747bca754c1d933f69e8e94a17b3770c79d4de433",
+    "src/components/chemistry/IndicatorDilutionDiagram.tsx": "50b4ec755af5f31a9c5ac3cdaa599713482e7af9789efee204e641c89011f5ae",
+    "src/components/chemistry/IndicatorDilutionScene.tsx": "1e0e1926c287e85b891a9c38bff280059c92684f3f01014207b6e573d11feba2",
+    "src/components/chemistry/IndicatorDilutionReadings.tsx": "a7b82c35151fcb9a9a7866981a53cd229ff1834b52bc38cb86bef6de28363a88",
+    "src/components/chemistry/indicatorDilution.css": "a39adac90842552aa9cbcd7fd244c059fc4c2d0e8a446cade0f60d4aaeec4e1f",
+    "tests/chemistry-indicator-dilution.test.mjs": "1a4e8aed0da0fa8517350400b7a66204e48f342b88e2777ac6acd361de22847a",
+    "scripts/chemistry/validate_indicator_dilution.py": "40fe21132968be77ac52de072cf14d139bb756064279099e55c374542ee390be",
+    "scripts/chemistry/validate_indicator_dilution_report.py": "4689cc9da27ce2cbd71401223977805a815f0a71ee7df2fd9347f960ffc561d1",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

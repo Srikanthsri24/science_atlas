@@ -1,0 +1,14 @@
+{
+  "before": {
+    "circles": 2,
+    "polygons": 2,
+    "texts": 10
+  },
+  "withoutLabels": {
+    "texts": 4
+  },
+  "withoutOutline": {
+    "circles": 1,
+    "polygons": 1
+  }
+}

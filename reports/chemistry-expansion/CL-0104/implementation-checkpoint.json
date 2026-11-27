@@ -1,0 +1,45 @@
+{
+  "labId": "CL-0104",
+  "status": "await_native_gesture_check",
+  "implemented": [
+    "finite-capacitymatchedcubicgrainmodelwithpreloadandsaturationfeedback",
+    "stableRK4radius-lossintegrationandboundedtrajectorycache",
+    "120secondguide100secondsactualadvancementthrough180models",
+    "true-volume128-sided160mLcells/equalcubegrains/immersedgeometry",
+    "clock-independentmass-drivenface-transfermarkers",
+    "independent55digitlog/atanintegralinversionreference",
+    "stableedgeLossFractionexportforworkedsubstitutions",
+    "validated40trialinput-onlynotebook",
+    "sixpairedpreparation/geometry/capacity/material/rates/comparisontables",
+    "77keyedworkedformulasandsubstitutions",
+    "safeexact-inputexam-styleHTMLreport",
+    "independentHTMLtables/results/everyoperand/categorychecker",
+    "original2Dapparatus/graincloseups/threecurvescomponentandReadings/CSS(unrouted)",
+    "original3Dmatchedcells/isolatedcells/magnifiedgrainviews",
+    "70secondautomaticmagnifiedgrainfocuswithin120sguide",
+    "grain-scaledtransferarrowsandreferenceoutline",
+    "routedLabUIwithpreparationpresets/keyboardcontrols/notebook/export"
+  ],
+  "verification": [
+    "18focusedtestsPASS",
+    "117cases9243independentcorechecksPASS",
+    "14synthetictrials1078results5158independentreportchecksPASS",
+    "5reportmutationsrejected",
+    "3294fullregressiontestsPASS122.17s",
+    "TypeScript20038terminalexit0emptylog;productionbuild16.09s",
+    "actual2Dguide.2246\u2192120and3Dguide.0696\u2192120",
+    "paused3D73.7006time/readingsstablethrough390pxresize",
+    "374normalviewportchecksPASSwithreadingsunchanged",
+    "88all-scope/formattheatresizechecksPASS",
+    "29actualbrowsertrials2233results10636independentreportchecksPASS",
+    "all6graincountoptionsused;keyboard25gwater/20gsolid/saturation.1/flux.0006/counts8and125/t270verified",
+    "calculationgroups36/36/5/77correct",
+    "notebookplan/conclusion/note29literalHTMLpersistedreload",
+    "2Doutline6\u21923polygons/labels6\u21924texts;3Doutline/labels/cutaway/orbit/zoom/resetbuttonsverified",
+    "dark390pxportraittheatreandlightdesktopverified;consoleempty"
+  ],
+  "remaining": [
+    "nativeleftdragandwheel(Maclocked)",
+    "internalreview"
+  ]
+}

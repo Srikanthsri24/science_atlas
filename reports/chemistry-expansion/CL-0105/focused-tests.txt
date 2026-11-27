@@ -1,0 +1,25 @@
+✔ phase/chemical preparations reject coercion,nonfinite values and unsupported physical ranges (3.050208ms)
+✔ latent energy changes phase mass while chemical identity and total water amount stay unchanged (2.607348ms)
+✔ floating ice displaces its own water mass and melting does not move the waterline (0.795969ms)
+✔ Mg oxide mass gain is exactly the oxygen consumed and formula units obey2:1:2stoichiometry (0.452149ms)
+✔ oxygen-limited and oxygen-absent controls retain unmatched metal without inventing product (0.415013ms)
+✔ returning phase energy preserves chemical history rather than resetting MgO to metal (0.369509ms)
+✔ all water,Mg,O and whole-mass accounts close at every preparation and transfer corner (2.870007ms)
+✔ matched and near-matched reactants switch the limiting reagent without negative residues (0.357328ms)
+✔ reference O2 pressure uses the residual amount and true solid-corrected headspace (0.39653ms)
+✔ 128-sided vessels and floating/stock/product meshes preserve all stated material volumes (15.414159ms)
+✔ 120s guide heats and refreezes for80s but never undelivers reacted material during cooling (0.83269ms)
+✔ paused geometry/transfer markers are deterministic and reject mismatched guide states (2.302651ms)
+✔ oxygen-absent guide captions do not falsely claim new-substance formation (0.282184ms)
+✔ practical calculations cover every numeric state field exactly once in three groups (2.677617ms)
+✔ practical notebook trusts source preparations only and enforces bounded records (0.615739ms)
+✔ all eight observation tables retain source and classification evidence (2.740234ms)
+✔ exported practical escapes student markup and exact source JSON survives a script-closing attempt (1.341811ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 660.831778

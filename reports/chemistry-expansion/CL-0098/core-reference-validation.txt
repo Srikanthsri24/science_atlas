@@ -1,0 +1,1 @@
+PASS:23cases,1219independent species-vector/Decimal field checks;five elements and whole mass retained.

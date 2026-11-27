@@ -1,0 +1,447 @@
+[
+  {
+    "scope": "rack",
+    "format": "landscape",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "58.5",
+    "visualHeight": 158.625,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "rack",
+    "format": "landscape",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "58.7",
+    "visualHeight": 198,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "rack",
+    "format": "landscape",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "58.8",
+    "visualHeight": 312.75,
+    "visualWidth": 556,
+    "width": 820
+  },
+  {
+    "scope": "rack",
+    "format": "landscape",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59",
+    "visualHeight": 375.1875,
+    "visualWidth": 667,
+    "width": 1280
+  },
+  {
+    "scope": "rack",
+    "format": "landscape",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.1",
+    "visualHeight": 683.4375,
+    "visualWidth": 1215,
+    "width": 1920
+  },
+  {
+    "scope": "rack",
+    "format": "portrait",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.2",
+    "visualHeight": 501.328125,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "rack",
+    "format": "portrait",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.4",
+    "visualHeight": 625.7734375,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "rack",
+    "format": "portrait",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.6",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "scope": "rack",
+    "format": "portrait",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.7",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1280
+  },
+  {
+    "scope": "rack",
+    "format": "portrait",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "59.9",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1920
+  },
+  {
+    "scope": "investigation",
+    "format": "landscape",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60",
+    "visualHeight": 158.625,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "investigation",
+    "format": "landscape",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.1",
+    "visualHeight": 198,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "investigation",
+    "format": "landscape",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.3",
+    "visualHeight": 312.75,
+    "visualWidth": 556,
+    "width": 820
+  },
+  {
+    "scope": "investigation",
+    "format": "landscape",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.4",
+    "visualHeight": 375.1875,
+    "visualWidth": 667,
+    "width": 1280
+  },
+  {
+    "scope": "investigation",
+    "format": "landscape",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.7",
+    "visualHeight": 683.4375,
+    "visualWidth": 1215,
+    "width": 1920
+  },
+  {
+    "scope": "investigation",
+    "format": "portrait",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.9",
+    "visualHeight": 501.328125,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "investigation",
+    "format": "portrait",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "60.9",
+    "visualHeight": 625.7734375,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "investigation",
+    "format": "portrait",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "61.1",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "scope": "investigation",
+    "format": "portrait",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "61.2",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1280
+  },
+  {
+    "scope": "investigation",
+    "format": "portrait",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "61.3",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1920
+  },
+  {
+    "scope": "ratios",
+    "format": "landscape",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [
+      [
+        "ΔpH 2 · given references",
+        "pH 4"
+      ],
+      [
+        "ΔpH 0 · given references",
+        "pH 7"
+      ],
+      [
+        "ΔpH -3 · given references",
+        "pH 9"
+      ],
+      [
+        "ΔpH -5 · given references",
+        "pH 11"
+      ]
+    ],
+    "time": "61.5",
+    "visualHeight": 158.625,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "ratios",
+    "format": "landscape",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [
+      [
+        "ΔpH 2 · given references",
+        "pH 4"
+      ],
+      [
+        "ΔpH 0 · given references",
+        "pH 7"
+      ],
+      [
+        "ΔpH -3 · given references",
+        "pH 9"
+      ],
+      [
+        "ΔpH -5 · given references",
+        "pH 11"
+      ]
+    ],
+    "time": "61.5",
+    "visualHeight": 198,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "ratios",
+    "format": "landscape",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [
+      [
+        "ΔpH 2 · given references",
+        "pH 4"
+      ],
+      [
+        "ΔpH 0 · given references",
+        "pH 7"
+      ],
+      [
+        "ΔpH -3 · given references",
+        "pH 9"
+      ],
+      [
+        "ΔpH -5 · given references",
+        "pH 11"
+      ]
+    ],
+    "time": "61.7",
+    "visualHeight": 312.75,
+    "visualWidth": 556,
+    "width": 820
+  },
+  {
+    "scope": "ratios",
+    "format": "landscape",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [
+      [
+        "ΔpH 2 · given references",
+        "pH 4"
+      ],
+      [
+        "ΔpH 0 · given references",
+        "pH 7"
+      ],
+      [
+        "ΔpH -3 · given references",
+        "pH 9"
+      ],
+      [
+        "ΔpH -5 · given references",
+        "pH 11"
+      ]
+    ],
+    "time": "61.8",
+    "visualHeight": 375.1875,
+    "visualWidth": 667,
+    "width": 1280
+  },
+  {
+    "scope": "ratios",
+    "format": "landscape",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [
+      [
+        "ΔpH 2 · given references",
+        "pH 4"
+      ],
+      [
+        "ΔpH 0 · given references",
+        "pH 7"
+      ],
+      [
+        "ΔpH -3 · given references",
+        "pH 9"
+      ],
+      [
+        "ΔpH -5 · given references",
+        "pH 11"
+      ]
+    ],
+    "time": "62",
+    "visualHeight": 683.4375,
+    "visualWidth": 1215,
+    "width": 1920
+  },
+  {
+    "scope": "ratios",
+    "format": "portrait",
+    "documentWidth": 320,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "62.2",
+    "visualHeight": 501.328125,
+    "visualWidth": 282,
+    "width": 320
+  },
+  {
+    "scope": "ratios",
+    "format": "portrait",
+    "documentWidth": 390,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "62.2",
+    "visualHeight": 625.7734375,
+    "visualWidth": 352,
+    "width": 390
+  },
+  {
+    "scope": "ratios",
+    "format": "portrait",
+    "documentWidth": 820,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "62.4",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 820
+  },
+  {
+    "scope": "ratios",
+    "format": "portrait",
+    "documentWidth": 1280,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "62.5",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1280
+  },
+  {
+    "scope": "ratios",
+    "format": "portrait",
+    "documentWidth": 1920,
+    "height": 900,
+    "outside": [],
+    "overlaps": [],
+    "time": "62.7",
+    "visualHeight": 800,
+    "visualWidth": 450,
+    "width": 1920
+  }
+]

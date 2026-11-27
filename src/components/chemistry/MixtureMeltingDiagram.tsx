@@ -1,0 +1,33 @@
+import{useMemo,useState}from 'react';
+import{mixtureMeltingState,mixtureMeltingGuide,eutecticK,eutecticXA,type MixtureMeltingInputs}from '../../lib/chemistry/mixtureMelting';
+import Readings from './MixtureMeltingReadings';
+const f=(n:number)=>Number(n.toPrecision(5)).toString();
+export default function MixtureMeltingDiagram({q,portrait=false,playing=false}:{q:MixtureMeltingInputs;portrait?:boolean;playing?:boolean}){
+ const[scope,setScope]=useState('samples'),end=mixtureMeltingGuide(120,q).endSeconds,sample=mixtureMeltingState(q),pure=mixtureMeltingState({...q,xA:1});
+ const width=portrait?450:720,height=portrait?800:405,left=portrait?58:70,plotWidth=portrait?350:590,bottom=portrait?490:310,plotHeight=portrait?390:245,X=(x:number)=>left+plotWidth*x,Y=(t:number)=>bottom-(t-5)/85*plotHeight;
+ const curves=useMemo(()=>[false,true].map(reference=>Array.from({length:181},(_,i)=>{const s=mixtureMeltingState({...q,xA:reference?1:q.xA,timeSeconds:end*i/180});return`${i?'L':'M'}${left+plotWidth*i/180},${bottom-(s.temperatureC-5)/85*plotHeight}`}).join(' ')),[q.xA,q.amountMmol,q.netPowerW,end,left,plotWidth,bottom,plotHeight]);
+ const phaseCurve=useMemo(()=>Array.from({length:241},(_,i)=>{const s=mixtureMeltingState({...q,xA:i/240,timeSeconds:0});return`${i?'L':'M'}${left+plotWidth*i/240},${bottom-(s.completionK-278.15)/85*plotHeight}`}).join(' '),[left,plotWidth,bottom,plotHeight]);
+ return<div className='mixture-melting-diagram'><div className='mixture-melting-tools'><label>Inspect<select aria-label='Melting 2D inspection' value={scope} onChange={e=>setScope(e.target.value)}><option value='samples'>Paired sample cutaway</option><option value='curves'>Temperature curves</option><option value='phase'>Equilibrium phase diagram</option></select></label></div>
+ <svg viewBox={`0 0 ${width} ${height}`} data-heat-flow={playing?'running':'paused'} role='img' aria-label={`Melting investigation: ${scope},physical time ${f(q.timeSeconds)} seconds`}>
+ <defs><linearGradient id='mm-glass'><stop stopColor='#d8f3ff' stopOpacity='.2'/><stop offset='.5' stopColor='#d8f3ff' stopOpacity='.02'/><stop offset='1' stopColor='#d8f3ff' stopOpacity='.3'/></linearGradient></defs><rect width={width} height={height} fill='#0c1c30'/>
+ {scope==='samples'?<>{[true,false].map((reference,i)=>{const s=reference?pure:sample,x=portrait?225:180+i*330,h=200,a=h*s.solidAMmol/q.amountMmol,b=h*s.solidBMmol/q.amountMmol,l=h*s.liquidFraction;return<g key={i} transform={portrait?`translate(0 ${i*390})`:undefined}>
+ <text x={x} y='32' textAnchor='middle' fill='#edf5ff' fontSize='20'>{reference?'Pure A reference':'Selected composition'}</text>
+ <rect x={x-55} y='60' width='110' height='250' rx='12' fill='url(#mm-glass)' stroke='#9db4ca'/>
+ {l>0&&<rect x={x-45} y={300-l} width='90' height={l} fill='#a497ea'/>}{a>0&&<rect x={x-45} y={300-l-a} width='90' height={a} fill='#64d4d2'/>}{b>0&&<rect x={x-45} y={300-l-a-b} width='90' height={b} fill='#e9b65e'/>}
+ <line x1={x+65} x2={x+65} y1='80' y2='300' stroke='#c2d2e0' strokeWidth='4'/><line x1={x+65} x2={x+65} y1={300-(s.temperatureC-5)/85*220} y2='300' stroke='#f08a76' strokeWidth='4'/>
+ <text x={x} y='340' textAnchor='middle' fill='#edf5ff' fontSize='20'>{f(s.temperatureC)} °C · {f(100*s.liquidFraction)}% liquid</text><text x={x} y='365' textAnchor='middle' fill='#a9bbd1' fontSize='16'>Net heat {f(s.heatJ)} J</text>
+ {!s.cutoff&&<g transform={`translate(${x-80},${285-q.timeSeconds*5%70})`}><path d='M0 10V-25M-7-17L0-25L7-17' fill='none' stroke='#f2a665' strokeWidth='3'/></g>}</g>})}
+ <text x={width/2} y={height-9} textAnchor='middle' fill='#a9bbd1' fontSize={portrait?13:12}>{portrait?'Inventory cutaway · equal reference molar volumes':'Schematic equal-molar-volume layers · interface shape and spatial heat flow omitted'}</text></>:<>
+ <path d={`M${left} ${bottom-plotHeight-10}V${bottom}H${X(1)+10}`} fill='none' stroke='#a9bbd1'/>
+ {[5,25,45,65,90].map(t=><g key={t}><line x1={left} x2={X(1)} y1={Y(t)} y2={Y(t)} stroke='#284057'/><text x={left-10} y={Y(t)+5} textAnchor='end' fill='#b9cde0' fontSize={portrait?18:14}>{t}</text></g>)}
+ <text x={left} y={portrait?48:35} fill='#dbe9f8' fontSize={portrait?21:17}>Temperature °C</text>
+ {scope==='curves'?<>{curves.map((d,i)=><path key={i} d={d} fill='none' stroke={i?'#64d4d2':'#b59af3'} strokeWidth='3'/>)}<line x1={X(Math.min(1,q.timeSeconds/end))} x2={X(Math.min(1,q.timeSeconds/end))} y1={Y(90)} y2={bottom} stroke='#f0b96c' strokeDasharray='5 4'/>
+ {[0,.5,1].map(x=><text key={x} x={X(x)} y={bottom+25} textAnchor='middle' fill='#dbe9f8' fontSize={portrait?16:13}>{f(end*x)}</text>)}<text x={width/2} y={bottom+52} textAnchor='middle' fill='#dbe9f8' fontSize={portrait?20:16}>Physical time / s</text>
+ {portrait?<><text x='30' y='590' fill='#64d4d2' fontSize='21'>Pure A: {f(pure.temperatureC)} °C</text><text x='30' y='625' fill='#b59af3' fontSize='21'>Selected: {f(sample.temperatureC)} °C</text><text x='30' y='680' fill='#dbe9f8' fontSize='19'>A plateau means phase amounts change</text><text x='30' y='708' fill='#dbe9f8' fontSize='19'>while temperature stays constant.</text><text x='30' y='752' fill='#a9bbd1' fontSize='17'>Same physical clock and net heat rate.</text></>:<text x={width/2} y='390' textAnchor='middle' fill='#dbe9f8' fontSize='14'>Cyan pure A · lavender selected composition</text>}
+ </>:<><path d={phaseCurve} stroke='#b59af3' strokeWidth='3' fill='none'/><line x1={left} x2={X(1)} y1={Y(eutecticK-273.15)} y2={Y(eutecticK-273.15)} stroke='#e9b65e' strokeDasharray='5 5'/><circle cx={X(q.xA)} cy={Y(sample.temperatureC)} r='6' fill='#64d4d2'/>
+ {[0,.5,1].map(x=><text key={x} x={X(x)} y={bottom+25} textAnchor='middle' fill='#dbe9f8' fontSize={portrait?18:14}>{x}</text>)}<text x={width/2} y={bottom+52} textAnchor='middle' fill='#dbe9f8' fontSize={portrait?20:16}>Bulk A mole fraction</text>
+ {portrait?<><text x='30' y='590' fill='#b59af3' fontSize='20'>Above liquidus: all liquid</text><text x='30' y='625' fill='#e9b65e' fontSize='20'>Mixtures below eutectic: A + B solids</text><text x='30' y='680' fill='#dbe9f8' fontSize='19'>Between: excess solid and liquid</text><text x='30' y='720' fill='#e9b65e' fontSize='19'>Eutectic A fraction {f(eutecticXA)}</text><text x='30' y='752' fill='#e9b65e' fontSize='19'>Eutectic temperature {f(eutecticK-273.15)} °C</text></>:<text x={width/2} y='390' textAnchor='middle' fill='#e9b65e' fontSize='14'>Eutectic: xA={f(eutecticXA)} · {f(eutecticK-273.15)} °C · cyan current sample</text>}
+ </>}
+ </>}
+ </svg>{scope==='curves'&&q.timeSeconds>end&&<p className='mixture-melting-window-note'>The current physical clock exceeds the plotted guide window. The native readings below show the current state.</p>}<Readings q={q}/></div>
+}

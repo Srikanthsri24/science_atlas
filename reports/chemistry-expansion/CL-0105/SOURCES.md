@@ -1,0 +1,12 @@
+# CL-0105 private scientific provenance
+
+Read2026-11-27. Class7 placement remains editorial,not certified board mapping. All explanations,geometry and schedules are original. No external links are added to the student interface.
+
+- OpenStax Chemistry2e §1.3, https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties : phase changes preserve chemical identity; a chemical change produces different substances. We do not define every physical change as reversible or every chemical change as irreversible.
+- OpenStax Chemistry2e §18.9, https://openstax.org/books/chemistry-2e/pages/18-9-occurrence-preparation-and-compounds-of-oxygen : selected stoichiometry2Mg(s)+O2(g)→2MgO(s). The text also notes nitride/peroxide complications when some metals burn in air. Our reference reactor therefore contains oxygen,not air; nitrogen,water and side reactions are excluded. MgO is an ionic solid,so its mole amount refers to formula units,not discrete MgO molecules.
+- OpenStax Physics §11.3 Table11.3, https://openstax.org/books/physics/pages/11-3-phase-change-and-latent-heat : choose rounded fusion heat334J/g at0°C. The separate reference appendix lists333J/g; do not silently mix the two rounding conventions. Temperature is held at0°C in this phase-only model.
+- OpenStax Physics TableA12, https://openstax.org/books/physics/pages/a-reference-tables : select rounded densities ice0.917g/mL and freshwater1g/mL. These are teaching references,not high-precision property fits.
+- OpenStax College Physics2e §11.7, https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle : buoyant force equals displaced-fluid weight. Floating pure ice displaces its mass in water; the waterline remains fixed while the ice melts under the selected density assumptions.
+- NIH PubChem Mg CID5462224 and MgO CID14792 official density JSON endpoints recorded in reference-properties.json were read directly. Select rounded Mg1.74g/cm³ and MgO3.58g/cm³. MgO density is true solid density,not bulk powder packing.
+
+Use internally consistent teaching molar masses H2O18.015,Mg24.305,O2 31.998,MgO40.304g/mol. Ideal gasR8.314kPa L mol−1 K−1 is the same rounded convention already verified for CL-0103. Reaction states describe the reference composition after assumed oxidation and cooling to298.15K; they do not predict spontaneous oxidation at25°C,ignition,flame,passivation or reaction heat. The prescribed transfer timing is not calibrated kinetics. Phase heat and chemical mass accounts are separate,not a matched-heat experiment.

@@ -1,0 +1,100 @@
+[
+  {
+    "field": "Corrosion ironG",
+    "label": "Initial iron per specimen: 0.2 g",
+    "max": "1",
+    "min": "0.2",
+    "value": "0.2"
+  },
+  {
+    "field": "Corrosion ironG",
+    "label": "Initial iron per specimen: 1 g",
+    "max": "1",
+    "min": "0.2",
+    "value": "1"
+  },
+  {
+    "field": "Corrosion waterG",
+    "label": "Prepared water in wet cells: 20 g",
+    "max": "40",
+    "min": "20",
+    "value": "20"
+  },
+  {
+    "field": "Corrosion waterG",
+    "label": "Prepared water in wet cells: 40 g",
+    "max": "40",
+    "min": "20",
+    "value": "40"
+  },
+  {
+    "field": "Corrosion accessibleOxygenMol",
+    "label": "Accessible oxygen budget: 0 mol",
+    "max": "0.005",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Corrosion accessibleOxygenMol",
+    "label": "Accessible oxygen budget: 0.005 mol",
+    "max": "0.005",
+    "min": "0",
+    "value": "0.005"
+  },
+  {
+    "field": "Corrosion chosenRatePerDay",
+    "label": "Chosen reference k: 0 per day",
+    "max": "1",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Corrosion chosenRatePerDay",
+    "label": "Chosen reference k: 1 per day",
+    "max": "1",
+    "min": "0",
+    "value": "1"
+  },
+  {
+    "field": "Corrosion hydrationNumber",
+    "label": "Selected hydration x: 0 H₂O per formula equivalent",
+    "max": "3",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Corrosion hydrationNumber",
+    "label": "Selected hydration x: 3 H₂O per formula equivalent",
+    "max": "3",
+    "min": "0",
+    "value": "3"
+  },
+  {
+    "field": "Corrosion nailLengthCm",
+    "label": "Nail length: 3 cm",
+    "max": "5",
+    "min": "3",
+    "value": "3"
+  },
+  {
+    "field": "Corrosion nailLengthCm",
+    "label": "Nail length: 5 cm",
+    "max": "5",
+    "min": "3",
+    "value": "5"
+  },
+  {
+    "field": "Corrosion elapsedDays",
+    "label": "Illustrative elapsed time: 0 model days",
+    "max": "14",
+    "min": "0",
+    "value": "0"
+  },
+  {
+    "field": "Corrosion elapsedDays",
+    "label": "Illustrative elapsed time: 14 model days",
+    "max": "14",
+    "min": "0",
+    "value": "14"
+  }
+]

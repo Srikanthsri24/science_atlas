@@ -1,0 +1,109 @@
+{
+  "cases": [
+    {
+      "preset": "Matched0.01M stocks",
+      "action": "initial",
+      "readings": "Finite source stocks\nSilver stock remaining 30 mL\nChloride stock remaining 30 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 20 mL\nSolid material 0 mL\nTotal mixture 20 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Matched0.01M stocks",
+      "action": "Deliver silver stock only",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 30 mL\nDelivered Ag 0.0003 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 50 mL\nSolid material 0 mL\nTotal mixture 50 mL\nDissolved ions remain\nFree Ag⁺ 0.0003 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.0003 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Matched0.01M stocks",
+      "action": "Deliver both stocks",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 0 mL\nDelivered Ag 0.0003 mol\nDelivered Cl 0.0003 mol\nReceiver phases\nsolid-equilibrium · matched\nAgCl solid 0.042842 g\nAqueous phase 79.992 mL\nSolid material 0.0077053 mL\nTotal mixture 80 mL\nDissolved ions remain\nFree Ag⁺ 0.0000010732 mol\nFree Cl⁻ 0.0000010732 mol\nSpectator Na⁺ 0.0003 mol\nSpectator NO₃⁻ 0.0003 mol\nFinal ion product 1.8e-10 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0.000014062 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Water controls",
+      "action": "initial",
+      "readings": "Finite source stocks\nSilver stock remaining 30 mL\nChloride stock remaining 30 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 20 mL\nSolid material 0 mL\nTotal mixture 20 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Water controls",
+      "action": "Deliver silver stock only",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 30 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 50 mL\nSolid material 0 mL\nTotal mixture 50 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Water controls",
+      "action": "Deliver both stocks",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 0 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 80 mL\nSolid material 0 mL\nTotal mixture 80 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Silver excess",
+      "action": "initial",
+      "readings": "Finite source stocks\nSilver stock remaining 30 mL\nChloride stock remaining 30 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 20 mL\nSolid material 0 mL\nTotal mixture 20 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Silver excess",
+      "action": "Deliver silver stock only",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 30 mL\nDelivered Ag 0.0006 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 50 mL\nSolid material 0 mL\nTotal mixture 50 mL\nDissolved ions remain\nFree Ag⁺ 0.0006 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.0006 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Silver excess",
+      "action": "Deliver both stocks",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 0 mL\nDelivered Ag 0.0006 mol\nDelivered Cl 0.00003 mol\nReceiver phases\nsolid-equilibrium · chloride-limited\nAgCl solid 0.0042993 g\nAqueous phase 79.999 mL\nSolid material 0.00077325 mL\nTotal mixture 80 mL\nDissolved ions remain\nFree Ag⁺ 0.00057 mol\nFree Cl⁻ 2.021e-9 mol\nSpectator Na⁺ 0.00003 mol\nSpectator NO₃⁻ 0.0006 mol\nFinal ion product 1.8e-10 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0.0000028125 (mol/L)². Tracked mass residual -1.4211e-14 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Chloride excess",
+      "action": "initial",
+      "readings": "Finite source stocks\nSilver stock remaining 30 mL\nChloride stock remaining 30 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 20 mL\nSolid material 0 mL\nTotal mixture 20 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Chloride excess",
+      "action": "Deliver silver stock only",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 30 mL\nDelivered Ag 0.00003 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 50 mL\nSolid material 0 mL\nTotal mixture 50 mL\nDissolved ions remain\nFree Ag⁺ 0.00003 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.00003 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Chloride excess",
+      "action": "Deliver both stocks",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 0 mL\nDelivered Ag 0.00003 mol\nDelivered Cl 0.0006 mol\nReceiver phases\nsolid-equilibrium · silver-limited\nAgCl solid 0.0042993 g\nAqueous phase 79.999 mL\nSolid material 0.00077325 mL\nTotal mixture 80 mL\nDissolved ions remain\nFree Ag⁺ 2.021e-9 mol\nFree Cl⁻ 0.00057 mol\nSpectator Na⁺ 0.0006 mol\nSpectator NO₃⁻ 0.00003 mol\nFinal ion product 1.8e-10 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0.0000028125 (mol/L)². Tracked mass residual -1.4211e-14 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Maximum filled system",
+      "action": "initial",
+      "readings": "Finite source stocks\nSilver stock remaining 50 mL\nChloride stock remaining 50 mL\nDelivered Ag 0 mol\nDelivered Cl 0 mol\nReceiver phases\nwater-only · neither-ion-delivered\nAgCl solid 0 g\nAqueous phase 60 mL\nSolid material 0 mL\nTotal mixture 60 mL\nDissolved ions remain\nFree Ag⁺ 0 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Maximum filled system",
+      "action": "Deliver silver stock only",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 50 mL\nDelivered Ag 0.001 mol\nDelivered Cl 0 mol\nReceiver phases\none-ion-missing · chloride-limited\nAgCl solid 0 g\nAqueous phase 110 mL\nSolid material 0 mL\nTotal mixture 110 mL\nDissolved ions remain\nFree Ag⁺ 0.001 mol\nFree Cl⁻ 0 mol\nSpectator Na⁺ 0 mol\nSpectator NO₃⁻ 0.001 mol\nFinal ion product 0 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    },
+    {
+      "preset": "Maximum filled system",
+      "action": "Deliver both stocks",
+      "readings": "Finite source stocks\nSilver stock remaining 0 mL\nChloride stock remaining 0 mL\nDelivered Ag 0.001 mol\nDelivered Cl 0.001 mol\nReceiver phases\nsolid-equilibrium · matched\nAgCl solid 0.14301 g\nAqueous phase 159.97 mL\nSolid material 0.025721 mL\nTotal mixture 160 mL\nDissolved ions remain\nFree Ag⁺ 0.0000021463 mol\nFree Cl⁻ 0.0000021463 mol\nSpectator Na⁺ 0.001 mol\nSpectator NO₃⁻ 0.001 mol\nFinal ion product 1.8e-10 (mol/L)²\n\nIdeal uncomplexed-ion model at25°C · Ksp1.8e−10. Initial ion product 0.000039063 (mol/L)². Tracked mass residual 0 g. Markers are not calibrated turbidity or physical grain counts."
+    }
+  ],
+  "calculationGroups": [
+    {
+      "group": "stocks",
+      "count": 14
+    },
+    {
+      "group": "equilibrium",
+      "count": 7
+    },
+    {
+      "group": "phases",
+      "count": 4
+    },
+    {
+      "group": "ions",
+      "count": 9
+    },
+    {
+      "group": "mass",
+      "count": 5
+    },
+    {
+      "group": "closure",
+      "count": 7
+    },
+    {
+      "group": "all",
+      "count": 46
+    }
+  ]
+}

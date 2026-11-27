@@ -1,0 +1,40 @@
+{
+  "twoD": {
+    "seconds": "120",
+    "recordEnabled": true
+  },
+  "threeD": {
+    "seconds": "120",
+    "recordEnabled": true
+  },
+  "replayResets": {
+    "twoD": {
+      "lane": "U",
+      "time": "0.5"
+    },
+    "threeD": {
+      "lane": "U",
+      "scope": "chamber",
+      "time": "0.4"
+    },
+    "notes": "Partial reset checks paused immediately;not counted as additional fullguides."
+  },
+  "actualGuiDevelopments": 17,
+  "laneRecords": 68,
+  "standardViewportCases": 40,
+  "theatreViewportCases": 16,
+  "phoneReadabilityFix": "native selected-lane readout and tighter portrait frame",
+  "landscapePhoneFix": {
+    "oldCanvasHeight": 100.8,
+    "newCanvasHeight844": 294,
+    "newCanvasHeight568": 224
+  },
+  "tableKeyboard": {
+    "before": 1104,
+    "after": 1144
+  },
+  "persistence": "17developments,plan,conclusion,note2 survive reload andClass6Readycardreturn",
+  "consoleErrorsWarnings": [],
+  "nativeGestureVerification": "unverified",
+  "notes": "Bothfull120sguides completed atdefaultdesktopformat. Later native-readout and short-landscape refinements tested statically. Defaultdesktop scientific animation unchanged. Wrong .05 optionliteral corrected to0.05 after observing options;no duplicatedrecords. Theme/viewport restored."
+}

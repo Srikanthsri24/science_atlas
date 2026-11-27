@@ -1,0 +1,7 @@
+Latest focused science/record/geometry/navigation:12 passed
+Full regression:3037 passed before final SVG pause/wording and scoped layout-only changes;latest focused12passed after those edits.
+Final TypeScript --noEmit:passed
+Final Vite build:passed10.63s;largechunkadvisory
+Actual final downloaded report:18 paired trials,5218 independent numeric/textchecks,720 worked blocks
+180fixed-state+30during-guide normal viewport cases passed;48finaltheatrecases passed;12phone3Dratiocases passed
+Original146 stagedblobs preserved

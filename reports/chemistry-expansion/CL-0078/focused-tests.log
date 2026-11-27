@@ -1,0 +1,23 @@
+✔ correct preparation uses final solution volume,not nominal water volume (34.562126ms)
+✔ adding nominal water volume overshoots mark and lowers mass concentration (0.360303ms)
+✔ finite solute and solvent inventories conserved at every procedure stage and corner (12.448556ms)
+✔ missed rinsing conserves retained material and produces lower concentration (0.359334ms)
+✔ premature filling with slow dissolution leaves residue and later mark drift (0.364597ms)
+✔ wrong weighed mass can make a complete preparation that misses the requested target (0.335192ms)
+✔ invalid/nonfinite states rejected and empty concentration remains undefined (0.567003ms)
+✔ correct slow procedure waits for dissolution then completes;guide shows both clocks (0.830641ms)
+✔ water feed never reverses during controlled filling and stops at its scheduled endpoint (128.522638ms)
+✔ actual concentration and quantitative-transfer compliance are distinct outcomes (0.515696ms)
+✔ dissolved mass matches independent quadrature of the shrinking-radius cohort model (1.791491ms)
+✔ original flask frustum geometry locates exact nominal marks and fits all allowed overfills (4.772382ms)
+✔ liquid mesh excludes equivalent residue volume with bounded tessellation error (206.996676ms)
+✔ report recomputes stored observations,escapes writing and supplies formula substitution for each row (2.102403ms)
+✔ weighing boat travels continuously to pour and rinse above the mouth then returns (0.506106ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1110.786074

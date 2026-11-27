@@ -1,0 +1,607 @@
+{
+  "checks": 60,
+  "failures": [],
+  "unchanged": true,
+  "rows": [
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "16:9",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "apparatus",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-a",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "grain-b",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "dissolved",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "area",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "preset": "guide endpoint",
+      "mode": "2D",
+      "format": "9:16",
+      "scope": "rate",
+      "canvas": false,
+      "clippedText": [],
+      "overflow": false,
+      "width": 1920
+    }
+  ]
+}

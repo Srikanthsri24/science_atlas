@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://physics.nist.gov/cgi-bin/cuu/Value?f",
+    "status": 200,
+    "sha256": "cf5f3f42b43efcca95843c659fce3d2ae069b9daff3be7120f8ac7e093353eaa",
+    "selectedNumericContexts": [
+      "constant Numerical value 96 485.332 12... C mol -1 Standard uncert",
+      "nty (exact) Concise form 96 485.332 12... C mol -1 Click here for "
+    ],
+    "fullSourceStored": false
+  },
+  {
+    "url": "https://sathee.iitk.ac.in/sathee-cuet/cuet-ug/chemistry/english/study-materials/ncert/nb-che-12/chem-12-unit-3-electrochemistry/",
+    "status": "retrieval-failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "field": "reservoirRemainingMl",
+    "rejected": true
+  },
+  {
+    "field": "finalTotalMl",
+    "rejected": true
+  },
+  {
+    "field": "finalContentsG",
+    "rejected": true
+  },
+  {
+    "field": "indicatorMgL",
+    "rejected": true
+  }
+]

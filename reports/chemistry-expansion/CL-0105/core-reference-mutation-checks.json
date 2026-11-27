@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "phaseEnergyJ",
+    "rejected": true
+  },
+  {
+    "mutation": "submergedIceMl",
+    "rejected": true
+  },
+  {
+    "mutation": "oxygenRemainingMol",
+    "rejected": true
+  },
+  {
+    "mutation": "oxideG",
+    "rejected": true
+  },
+  {
+    "mutation": "newSubstanceFormed",
+    "rejected": true
+  }
+]

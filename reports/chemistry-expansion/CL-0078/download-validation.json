@@ -1,0 +1,8 @@
+{
+  "actualGuiRows": 8,
+  "columns": 24,
+  "independentObservationNumericChecks": 72,
+  "independentWorkedResults": 96,
+  "escaping": "passed",
+  "method": "independent midpoint quadrature6000 samples per cohort"
+}

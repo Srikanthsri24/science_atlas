@@ -1,0 +1,15 @@
+✔ paired controlled solution loss reduces dry recovery without creating salt vapour (1.926093ms)
+✔ separate solvent and solute inventories close throughout all supported corner preparations (2.89581ms)
+✔ closed form agrees with independently integrated water and solute transfer equations (118.25786ms)
+✔ hot samples are not reportable and wet apparent recovery cannot be called dry recovery (0.354886ms)
+✔ tare and gross readings are separately rounded and their difference is the reported mass (0.325401ms)
+✔ 120 second guide ends with cooled dry paired samples and never reverses the heating clock (4.741607ms)
+✔ saved independent inputs recompute all31 columns,20worked blocks and escaped exam report (1.668934ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 759.532637

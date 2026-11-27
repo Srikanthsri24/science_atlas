@@ -1,0 +1,24 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.91658ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.382634ms)
+✔ initial paper keeps all four ink samples dry above the solvent and withholds distance ratios (2.560695ms)
+✔ deliberately co-migrating unknown is consistent with A in one solvent but differs in the second (16.988513ms)
+✔ references B and C also share one fingerprint without implying identical formulations (0.544786ms)
+✔ large broadening and short development make individual readings inconclusive (0.607064ms)
+✔ every normalised Gaussian conserves its own ink mass independently across dry,mobilised and developed domains (57.960788ms)
+✔ ruler readings divide travel from the origin by the common front travel and include rounding bounds (0.743044ms)
+✔ linear loading changes ink density without changing reference migration or separation status (0.355107ms)
+✔ programmed removal freezes the front and broadening inside the paper,while the guide develops for88seconds (0.659835ms)
+✔ cross-solvent evidence keeps vials separate and does not turn unresolved trials into exclusions (1.41854ms)
+✔ worked Rf and rounding bounds substitute the actual common-origin ruler distances (1.271701ms)
+✔ record and exam export preserve17preparation,13lane and7comparison columns without printing hidden recipes (2.25252ms)
+✔ four-lane texture uses physical paper coordinates and keeps same-colour co-migrating fingerprints visually consistent (36.132293ms)
+✔ texture animation sampling never changes the scientific input object and paused views retain exact time (0.257066ms)
+✔ minimum-development button clock reaches a reportable common front at every supported capillary step (0.318029ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 784.316129

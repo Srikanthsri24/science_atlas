@@ -1,0 +1,26 @@
+✔ strict preparations reject coercion,unsupported grain counts and physical domain violations (5.668579ms)
+✔ same mass split into64grains has one-quarter edge and fourfold initial area/rate (3.398052ms)
+✔ critical loading follows the exact cubic shrinkage solution rather than an exponential relaxation (20.579538ms)
+✔ preloaded capacity limits additional dissolution equally without deleting excess solid (8.734276ms)
+✔ initially saturated and zero-flux controls retain every grain and never invent a ratio0/0 (1.084726ms)
+✔ reversing counts reverses early amount/rate ordering and equal counts stay matched (5.073709ms)
+✔ all material and phase-volume accounts close across saturated,unsaturated,exhausted and partial states (12.505547ms)
+✔ current mass-transfer slope equals changing area times remaining saturation drive (1.761796ms)
+✔ query order and coefficient changes never contaminate the same physical preparation (3.650452ms)
+✔ exact cube meshes retain every solid volume and stay immersed within all chamber corners (50.619792ms)
+✔ 120s guide advances through180modelseconds and paused geometry has no decorative clock (3.453339ms)
+✔ surface transfer markers remain finite and follow six faces with validated phase (0.803669ms)
+✔ shared-axis curves conserve monotonic dissolution and shrinking surface area (1.877892ms)
+✔ almost saturated water retains a positive,accurate tiny transfer instead of losing it in radius subtraction (1.53781ms)
+✔ practical validates physical inputs,keeps written text bounds and discards injected derived fields (0.885694ms)
+✔ six practical tables and77keyed worked results cover both cells without fabricated initial mean rates (3.515707ms)
+✔ exam-style HTML preserves exact input notes,escapes markup,and distinguishes limits from current observations (4.13898ms)
+✔ magnified grain glyphs scale with initial grain size while preserving actual cube edges (0.84824ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1267.526712

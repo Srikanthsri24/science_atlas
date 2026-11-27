@@ -1,0 +1,19 @@
+✔ dry mass and before/after readings use declared increments (1.983961ms)
+✔ ellipsoid cap is independently integrated and water conserved at every preparation corner (26.73362ms)
+✔ partial and zero displacement never claim valid specimen density (0.344356ms)
+✔ worst-case rounding interval contains reference density at full immersion (2.554355ms)
+✔ buoyancy reduces holder force without changing saved dry mass (0.275556ms)
+✔ 120s guide explicitly weighs,transfers,demonstrates invalid partial readings and fully immerses (4.812413ms)
+✔ calibrated wall meniscus volume matches independent radial quadrature (0.380996ms)
+✔ practical records restore only validated preparation and preserve safe writing (1.513683ms)
+✔ worked calculations include validity guards and complete reference/measurement balances (0.679448ms)
+✔ rendered water includes specimen cavity and meniscus while approximating conserved volume (402.475784ms)
+✔ one specimen lifts clear of cylinder walls before translating and lowers only inside (2.073531ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1140.102583

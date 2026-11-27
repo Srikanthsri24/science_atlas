@@ -1,0 +1,1 @@
+PASS 12 trials; 588 worked results; 1068 independent numeric checks

@@ -1,0 +1,27 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.84619ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.456588ms)
+✔ phase/chemical preparations reject coercion,nonfinite values and unsupported physical ranges (3.141436ms)
+✔ latent energy changes phase mass while chemical identity and total water amount stay unchanged (2.530641ms)
+✔ floating ice displaces its own water mass and melting does not move the waterline (0.753104ms)
+✔ Mg oxide mass gain is exactly the oxygen consumed and formula units obey2:1:2stoichiometry (0.37408ms)
+✔ oxygen-limited and oxygen-absent controls retain unmatched metal without inventing product (0.361732ms)
+✔ returning phase energy preserves chemical history rather than resetting MgO to metal (0.305117ms)
+✔ all water,Mg,O and whole-mass accounts close at every preparation and transfer corner (3.72546ms)
+✔ matched and near-matched reactants switch the limiting reagent without negative residues (0.560296ms)
+✔ reference O2 pressure uses the residual amount and true solid-corrected headspace (0.388203ms)
+✔ 128-sided vessels and floating/stock/product meshes preserve all stated material volumes (14.668458ms)
+✔ 120s guide heats and refreezes for80s but never undelivers reacted material during cooling (1.749576ms)
+✔ paused geometry/transfer markers are deterministic and reject mismatched guide states (2.827366ms)
+✔ oxygen-absent guide captions do not falsely claim new-substance formation (0.306054ms)
+✔ practical calculations cover every numeric state field exactly once in three groups (2.932486ms)
+✔ practical notebook trusts source preparations only and enforces bounded records (0.598205ms)
+✔ all eight observation tables retain source and classification evidence (2.62718ms)
+✔ exported practical escapes student markup and exact source JSON survives a script-closing attempt (1.377227ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 766.768586

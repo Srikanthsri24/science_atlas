@@ -1,0 +1,18 @@
+{
+  "labId": "CL-0102",
+  "status": "incomplete_native_interaction_check",
+  "completedEvidence": [
+    "223cases10035independentcorechecks",
+    "15focusedtests",
+    "3259fullregressiontests",
+    "TypeScript/build",
+    "actual120second2Dand3Dguides",
+    "204normal8theatreand5earlyresponsivechecks",
+    "17actualtrials782results3861independentreportchecks",
+    "persistence/safeHTML/partialstockaccounts"
+  ],
+  "unverified": [
+    "nativeleftdragandwheelonCL-0102;Maclocked"
+  ],
+  "scope": "Internal functional review only; no independent expert, official board, physical all-device, touch, FPS or printer certification"
+}

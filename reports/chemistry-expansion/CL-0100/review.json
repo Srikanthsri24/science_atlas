@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0100",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "14 focused tests; 243 preparations and 9720 independent reference fields; four numerical and four report mutations rejected. Seven synthetic reports: 301 results/1624 checks. Integrated regression 3355 tests passed; integrated production build passed.",
+    "twoD": "Separate sealed CO2/water, CaO hydration and water-control stations. Finite-source delivery, phase volume annotations and real 120-second staged playback. Paused markers/readings unchanged through resize.",
+    "threeD": "Original sealed chamber, gas syringe, source pan, hydration station and water control. Actual 120-second playback, apparatus and close-ups, cutaway/labels, orbit/zoom/reset checked. Native left drag and wheel visibly changed rendered camera while readings and guide time stayed identical; screenshots and JSON saved.",
+    "responsive": "560 normal and 56 theatre cases recorded, including two formats and mobile/tablet/desktop/TV widths. Earlier 320px wrapping defect fixed before final matrix. Physical touch-device and all possible orbit-angle coverage are not claimed.",
+    "practicalRecord": "13 actual browser observations, 559 worked calculations, 3016 independent numeric checks from downloaded report. Plan/conclusion and literal HTML-like notes persisted; exported text escaped. Four live calculation groups 17/21/5/43 checked."
+  },
+  "reviewScope": "Internal functional/model review, not independent expert or official curriculum certification. Conditional ideal isothermal 25 C equilibrium. CO2 partial pressure is not total gas pressure. CO2* combines dissolved CO2 and carbonic acid. CaO hydration extent is controlled teaching progress, not measured kinetics; heat/steam not predicted. Qualitative mesh tints and conduit markers are annotations. Nominal solid densities and conserved material account documented privately. No all-physical-device, touch, right-button pan, FPS or printer certification.",
+  "nativeGestureVerification": "Desktop Chrome native left drag and downward wheel verified on 2026-11-27; camera reset restored initial framing. Readings/time unchanged.",
+  "sourceHashes": {
+    "scripts/chemistry/oxide_water_reference.py": "d86ce2476a6dce3d2d710bd7c8858082205563f6436b8d6e63d4a3a62b5b956f",
+    "scripts/chemistry/validate_oxide_water.py": "fa78c7952981d5ee83f97d931544c7d65a46338def186fbad5b2f9a8f1187587",
+    "scripts/chemistry/validate_oxide_water_report.py": "b4cc5a3bafe9130b36c3c876871899442318cb32d029997b543bdb754d3e72cb",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/OxideWaterDiagram.tsx": "6fd6c741b711f7ad0680f457a94388c83d7e4f8127e696f493ab402708d4c7bb",
+    "src/components/chemistry/OxideWaterLab.tsx": "bc2152464b54352ee4c6b8c862b014953654ace5ee6df80238eb796bf222bfbe",
+    "src/components/chemistry/OxideWaterReadings.tsx": "5f1e9afca0b692be1f317f3e13db4d64ebeed4495191ebe54e6432bad776a078",
+    "src/components/chemistry/OxideWaterScene.tsx": "c7e39cb89e68cf6e0fe95958d85ff7d44901921b6378d3eeeb149c5574de3573",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/oxideWater.css": "8717a9092e3e19c88e61609266a7ccfe60de670bf7ccf52cbd0527e96f8fc365",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/oxideWater.ts": "cf8207709e199987cdb1b4f849681a9b57ed3e4dbb093b94fa955298a674c8a5",
+    "src/lib/chemistry/oxideWaterGeometry.ts": "9501ddd5c363d5b7564fe7ad8239a638f933e23cb6add289cd4e69a772b496c4",
+    "src/lib/chemistry/oxideWaterRecord.ts": "f99e792fd0b4cce8b4b77e0155568b7efa17f575771c75e695bda1ee97683daf",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/chemistry-oxide-water.test.mjs": "ac26ee2eb0ee0ec0be4be1538f1b540d3718a8cf1b330b66b13c4d51f39bd659"
+  }
+}

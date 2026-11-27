@@ -1,0 +1,482 @@
+[
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 358.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 768,
+    "overflow": false,
+    "visualHeight": 331.2109375,
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 682.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 1080,
+    "overflow": false,
+    "visualHeight": 655.875,
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 320,
+    "overflow": false,
+    "visualHeight": 230,
+    "width": 568
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "pair",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "filter",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "landscape",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "scope": "cell",
+    "format": "portrait",
+    "contained": true,
+    "height": 390,
+    "overflow": false,
+    "visualHeight": 300,
+    "width": 844
+  }
+]

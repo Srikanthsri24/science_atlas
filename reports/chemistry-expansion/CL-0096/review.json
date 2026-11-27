@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0096",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "15 science/geometry/record tests and 2 navigation tests pass; full 3172-test regression passes. TypeScript final-ui session3079 exit0; Vite refined build84765 exit0. 11760 sampled preparation states close stock,pipette,cell and ten component accounts. Geometry tests cover volume-derived fills,loaded carry without cell delivery and deterministic guide poses.",
+    "twoD": "Actual120-second guided animation completed and recorded. Independent stock-to-tip-to-cell scenes,volume-derived conical fills,moving aspiration/delivery marks,selected reference-wheel inspection and constituent ranges. Automatic guide focus follows active steps;manual inspection holds the selected scope. Selected mixture cards are original illustrations,not measured spectra.",
+    "threeD": "Actual initial120-second guide and final refined120-second replay both completed and recorded. Transparent stock reservoirs,rectangular cells,volume-derived conical pipette contents,loaded rise/carry/lower sequence and active dispense markers. Portrait tips stack vertically;inventory overlay stays below flow. Enlarged wheel/range badges and focused guide views. Native direct-tab left drag800,450\u2192950,490 visibly orbited;wheel-up1000,500 visibly zoomed. Orbit-left/right,zoom-in/out,reset,cutaway,labels and theatre exercised.",
+    "responsive": "780 final normal checks:13 preparations \u00d72 modes \u00d73 scopes \u00d72 formats \u00d75 widths320/390/820/1280/1920. 48 maximum-volume theatre checks at568x320,844x390,1024x768,1920x1080. All final measurements nonzero,correct media aspect,no document overflow or SVG text clipping/overlap. Methyl-orange first-pass had3 stale pre-resize Canvas measurements;all60 repeated checks passed;first-pass retained separately. Phone portrait dark and desktop light visually inspected. No physical-device or FPS certification.",
+    "practicalRecord": "22 actual GUI observations,44cell records,220dye accounts. Actual button-downloaded browser-practical.html independently passes12279 table/numeric-operand/result checks and2486worked blocks. Synthetic17trials/34cells/170dye rows9509checks1921blocks pass. All14calculation selectors show6common,17percell,7perdye,3comparison blocks withoutNaN/Infinity. Plan,conclusion and note3 with literal HTML/ampersands persist afterreload. Four tables retain initial,loaded,unequal partial,colourless,transition,all5constituents/all6referencepH,min/max and staged24/36/60/84s observations.",
+    "runtime": "Final warning/error log empty. Restored default1792px viewport,light theme,normal landscape2Dbench and fresh preparation;22 notebook observations retained. One batch tool timed out at30seconds;rebound same existing tab without restarting app. Two matrices already saved;third completed separately with60second tool limit. Final source build,TypeScript,17focusedtests pass;146 original staged blobs unchanged. No Git mutation;next publication100 reviewed.",
+    "sources": "Particular five-dye stock recipe and constituent transition intervals supported by private SOURCES.md. Mixture selected cards are editorial illustrations,not empiricalRGBcalibration. Maintained reference pH is separate from hue evidence. Company-only product references;official curriculum mapping remains pending."
+  },
+  "reviewScope": "Internal numerical,functional,browser viewport and limited native desktop-input review only. Not independent expert,official-board,all-device,FPS,touch,right-button-pan or printer certification. Particular nominal stock recipe,not all commercial universal indicators. Maintained ideal25\u00b0C reference pH,qualitative constituent ranges and original discrete illustrative mixture cards. No exactpH,pKa,absorbance or chemicalidentity inferred from hue. Indicator loading,finite buffer chemistry,activities,solvent effects,temperature and mixing kinetics omitted. Nominal additive ethanol/water bookkeeping;contraction,dye displacement,tip displacement,wall thickness and droplet transit holdup neglected. Flow marks are annotations,not extra liquid. Cutaway changes visibility only.",
+  "nativeGestureVerification": "passed desktop Chrome left-drag orbit and wheel zoom;touch and right-button pan unverified",
+  "sourceHashes": {
+    "src/lib/chemistry/universalIndicator.ts": "c6ac2d66e834f9834bd1e2ab0218343ffee694a82432af6ed9cb8bb9df8553ee",
+    "src/lib/chemistry/universalIndicatorRecord.ts": "76e30a47050381f5919560e9d7e61a4ae8968ec04671145b2143148c1b13d0fb",
+    "src/lib/chemistry/universalIndicatorGeometry.ts": "06f83f41ae6bafc5b7163e4de4d6121acf2f0108b66c853c9d232d6c7f24a204",
+    "src/components/chemistry/UniversalIndicatorLab.tsx": "4480881fe889c66015ea58dcf594da1dd4425b92459336225b067c48ab169f31",
+    "src/components/chemistry/UniversalIndicatorDiagram.tsx": "20e764efe08aa1df90b875da09ecef25bb1fc4344faaddc49ff4a1310b50fcaa",
+    "src/components/chemistry/UniversalIndicatorScene.tsx": "d47f7a0944065d306fdcfd203a31b67ade186f602c3b4ecf04862207c8311181",
+    "src/components/chemistry/UniversalIndicatorReadings.tsx": "99e6a8cf922090e7ce3d4f55205f6d83a7737ff267fc8b39a1207744eb0373ca",
+    "src/components/chemistry/universalIndicator.css": "4c90ddfb38236c769e805abb82c914841c835dd8442feba933c1399dba910c0c",
+    "tests/chemistry-universal-indicator.test.mjs": "d05839827b1ddd798316dfdf620f7f927591b48145001b94ee6b53b303b2bdf0",
+    "scripts/chemistry/validate_universal_indicator_report.py": "1eb0c4e18a89f2768ce5ae76931489647593b703c21316924b58c309c8beedb6",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

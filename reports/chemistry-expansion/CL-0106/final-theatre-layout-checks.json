@@ -1,0 +1,1274 @@
+[
+  {
+    "format": "landscape",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "format": "portrait",
+    "height": 568,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 320,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 568,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 117,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 320,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 390,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 101.25,
+    "width": 844
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "rack",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-0",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-0",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-1",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-1",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "nail-2",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "section-2",
+    "visualWidth": 405,
+    "width": 1920
+  }
+]

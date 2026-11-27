@@ -1,0 +1,27 @@
+{
+  "before": {
+    "labels": [
+      "Carbonate mass: 0.025 g",
+      "Acid volume: 10 mL",
+      "Acid concentration: 0.05 mol/L",
+      "Receiver volume: 10 mL",
+      "Lime concentration: 0.005 mol/L",
+      "Source generation: 100%",
+      "Transferred: 100% of maximum source gas"
+    ],
+    "readings": "Generated → syringe → receiver0 mL storedGenerated 6.1111 mL · transferred 6.1111 mLDry ideal gas · 25 °C · 101.325 kPaLimewater evidencecleared envelopeSolid 0 mg · bicarbonate 0.00005 molBypass 0.000149785 mol · lime remaining 0 molThis ideal sequential envelope has no remaining precipitate after sufficient excess CO₂. Clearing does not mean no gas was generated.Stored gas has not yet tested limewater. Solid markers illustrate equivalent solid volume;they do not measure turbidity or real particle size.Optional material and formula extensionSource carbonate remaining 0 g · HCl remaining 4.29631e-7 molNominal fills:source 10.014 mL;receiver 10.0044 mL. Both include solid displacement under stated drawing-density assumptions.Initial chemical contents 20.025 g · final accounted contents 20.025 g · mass residual 0 g. Hardware tare excluded.Peak reachable with full source:yes;clearing reachable:yes. These are sequential stoichiometric limits,not exact aqueous-equilibrium boundaries."
+  },
+  "after": {
+    "labels": [
+      "Carbonate mass: 0.025 g",
+      "Acid volume: 10 mL",
+      "Acid concentration: 0.05 mol/L",
+      "Receiver volume: 10 mL",
+      "Lime concentration: 0.005 mol/L",
+      "Source generation: 100%",
+      "Transferred: 100% of maximum source gas"
+    ],
+    "readings": "Generated → syringe → receiver0 mL storedGenerated 6.1111 mL · transferred 6.1111 mLDry ideal gas · 25 °C · 101.325 kPaLimewater evidencecleared envelopeSolid 0 mg · bicarbonate 0.00005 molBypass 0.000149785 mol · lime remaining 0 molThis ideal sequential envelope has no remaining precipitate after sufficient excess CO₂. Clearing does not mean no gas was generated.Stored gas has not yet tested limewater. Solid markers illustrate equivalent solid volume;they do not measure turbidity or real particle size.Optional material and formula extensionSource carbonate remaining 0 g · HCl remaining 4.29631e-7 molNominal fills:source 10.014 mL;receiver 10.0044 mL. Both include solid displacement under stated drawing-density assumptions.Initial chemical contents 20.025 g · final accounted contents 20.025 g · mass residual 0 g. Hardware tare excluded.Peak reachable with full source:yes;clearing reachable:yes. These are sequential stoichiometric limits,not exact aqueous-equilibrium boundaries."
+  },
+  "modelUnchanged": true
+}

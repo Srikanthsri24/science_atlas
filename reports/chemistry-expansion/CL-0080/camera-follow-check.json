@@ -1,0 +1,29 @@
+{
+  "finalThreeD": {
+    "seconds": "120",
+    "scope": "overview",
+    "cutaway": "false",
+    "recordEnabled": true
+  },
+  "threeDLiveGrowth": {
+    "seconds": 67.3,
+    "scope": "aggregate",
+    "cutaway": true
+  },
+  "twoDEnd": {
+    "seconds": 120,
+    "scope": "overview",
+    "magnification": 12,
+    "recordEnabled": true
+  },
+  "threeDReplay": {
+    "seconds": 0.5,
+    "scope": "overview"
+  },
+  "mobileFollow": {
+    "width": 320,
+    "page": 320,
+    "buttonContained": true
+  },
+  "notes": "Actual full guides,manual camera override/follow and replay resets exercised. Final 3D full guide followed automatic cutaway fix;growth observed live at67.3s. Earlier 79.9s growth view was paused/scrubbed,not counted as playback. Native gestures and physical devices unverified."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "mutation": "wrong-progress-operand",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-mass-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "tiny-product-erasure",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-hydration-water",
+    "rejected": true
+  },
+  {
+    "mutation": "false-control-availability",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-metal-radius",
+    "rejected": true
+  }
+]

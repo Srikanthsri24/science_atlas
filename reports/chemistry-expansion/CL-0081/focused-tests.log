@@ -1,0 +1,17 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.871823ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.404914ms)
+✔ paired controlled solution loss reduces dry recovery without creating salt vapour (1.945421ms)
+✔ separate solvent and solute inventories close throughout all supported corner preparations (1.81569ms)
+✔ closed form agrees with independently integrated water and solute transfer equations (122.342274ms)
+✔ hot samples are not reportable and wet apparent recovery cannot be called dry recovery (0.3848ms)
+✔ tare and gross readings are separately rounded and their difference is the reported mass (0.330995ms)
+✔ 120 second guide ends with cooled dry paired samples and never reverses the heating clock (4.661374ms)
+✔ saved independent inputs recompute all31 columns,24worked blocks and escaped exam report (2.135859ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 802.763259

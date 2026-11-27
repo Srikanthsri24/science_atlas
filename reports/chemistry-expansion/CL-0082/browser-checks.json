@@ -1,0 +1,34 @@
+{
+  "twoD": {
+    "seconds": "120",
+    "recordEnabled": true
+  },
+  "threeD": {
+    "seconds": "120",
+    "recordEnabled": true
+  },
+  "actualGuiTrials": 18,
+  "responsiveCases": 40,
+  "zeroFiltrateFix": {
+    "initialError": "Tiny negative receiver salt from subtractive cancellation rejected by geometry guard",
+    "corrected": true,
+    "actualRetestCanvas": 1,
+    "actualRetestFallback": 0
+  },
+  "portraitFocus": {
+    "at101Seconds": "retained cake",
+    "at111Seconds": "salt product",
+    "verification": "paused timeline scrubbing,not a separate full portrait playback"
+  },
+  "theatre": {
+    "width": 390,
+    "height": 844
+  },
+  "tableKeyboard": {
+    "before": 2816,
+    "after": 2855.5
+  },
+  "persistence": "18trials,plan,conclusion,note2 survived reload andactualClass6previewreturn",
+  "nativeGestures": "unverified",
+  "notes": "First partial2Ddevelopmentrun reset after adding a ref hook;not counted. Freshfull2D120and3D120completed. Stand/reservoir andportraitfocus refinements statically tested afterwards. Observationtimeout recovered on same tab."
+}

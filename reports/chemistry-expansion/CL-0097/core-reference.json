@@ -1,0 +1,290 @@
+{
+  "default": {
+    "acidMl": 50,
+    "baseMl": 50,
+    "acidMolL": 1,
+    "baseMolL": 1,
+    "initialC": 25,
+    "cupJK": 15,
+    "deliveredFraction": 1,
+    "deliveredMl": 50,
+    "reservoirMl": 0,
+    "acidInitialMol": 0.05,
+    "acidDeliveredMol": 0.05,
+    "acidReservoirMol": 0,
+    "baseInitialMol": 0.05,
+    "reactedMol": 0.05,
+    "acidExcessMol": 0,
+    "baseExcessMol": 0,
+    "solutionMl": 100,
+    "massG": 100,
+    "solutionJK": 418.40000000000003,
+    "totalJK": 433.40000000000003,
+    "reactionJ": -2865,
+    "releasedJ": 2865,
+    "riseK": 6.610521458237193,
+    "temperatureC": 31.610521458237194,
+    "solutionJ": 2765.842178126442,
+    "cupJ": 99.15782187355791,
+    "equivalenceMl": 50,
+    "equivalenceFraction": 1,
+    "equivalenceReachable": true,
+    "atEquivalence": true,
+    "condition": "stoichiometric",
+    "correctedKJmol": -57.3,
+    "solutionOnlyKJmol": -55.31684356252884,
+    "peakDeliveredMl": 50,
+    "peakTemperatureC": 31.610521458237194,
+    "sodiumMol": 0.05,
+    "chlorideMol": 0.05,
+    "volumeResidualMl": 0,
+    "acidResidualMol": 0,
+    "baseResidualMol": 0,
+    "chargeResidualMol": 0,
+    "energyResidualJ": -1.7053025658242404e-13,
+    "inference": "The delivered analytical amounts match 1:1. Warming alone would not prove this match."
+  },
+  "guide": [
+    {
+      "seconds": 0,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 0
+      },
+      "stage": "prepare",
+      "caption": "Read the same initial temperature of the acid,base and cup. Record volumes,concentrations and cup heat capacity.",
+      "delivering": false,
+      "flowPhase": 0.8000000000000007,
+      "stirAngle": 0
+    },
+    {
+      "seconds": 16,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 0
+      },
+      "stage": "deliver",
+      "caption": "Meter colourless acid into the insulated base. Follow remaining reservoir,reacted moles and the temperature trace together.",
+      "delivering": true,
+      "flowPhase": 0,
+      "stirAngle": 0
+    },
+    {
+      "seconds": 46,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 0.5
+      },
+      "stage": "deliver",
+      "caption": "Meter colourless acid into the insulated base. Follow remaining reservoir,reacted moles and the temperature trace together.",
+      "delivering": true,
+      "flowPhase": 0,
+      "stirAngle": 72
+    },
+    {
+      "seconds": 76,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 1
+      },
+      "stage": "stir",
+      "caption": "Inspect the final well-mixed reading. Rod motion is a presentation aid;the ideal calculation assumes immediate mixing at each delivered amount.",
+      "delivering": false,
+      "flowPhase": 0,
+      "stirAngle": 144
+    },
+    {
+      "seconds": 92,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 1
+      },
+      "stage": "energy",
+      "caption": "The reaction releases heat to both the solution and cup. Add both positive heat accounts to balance the negative reaction heat.",
+      "delivering": false,
+      "flowPhase": 0.19999999999998863,
+      "stirAngle": 182.4
+    },
+    {
+      "seconds": 106,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 1
+      },
+      "stage": "interpret",
+      "caption": "Compare analytical amounts before concluding equivalence. A warm solution may still contain excess acid or base;the simulated enthalpy is an input model parameter.",
+      "delivering": false,
+      "flowPhase": 0,
+      "stirAngle": 182.4
+    },
+    {
+      "seconds": 120,
+      "inputs": {
+        "acidMl": 50,
+        "baseMl": 50,
+        "acidMolL": 1,
+        "baseMolL": 1,
+        "initialC": 25,
+        "cupJK": 15,
+        "deliveredFraction": 1
+      },
+      "stage": "interpret",
+      "caption": "Compare analytical amounts before concluding equivalence. A warm solution may still contain excess acid or base;the simulated enthalpy is an input model parameter.",
+      "delivering": false,
+      "flowPhase": 0.799999999999983,
+      "stirAngle": 182.4
+    }
+  ],
+  "trials": [
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 0,
+      "note": "Reference 1: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 1,
+      "note": "Reference 2: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 100,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 0.5,
+      "note": "Reference 3: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 100,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 1,
+      "note": "Reference 4: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 0.4,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 1,
+      "note": "Reference 5: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 0,
+      "deliveredFraction": 1,
+      "note": "Reference 6: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 50,
+      "deliveredFraction": 1,
+      "note": "Reference 7: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 10,
+      "baseMl": 100,
+      "acidMolL": 0.1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 1,
+      "note": "Reference 8: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 100,
+      "baseMl": 10,
+      "acidMolL": 1,
+      "baseMolL": 0.1,
+      "initialC": 30,
+      "cupJK": 0,
+      "deliveredFraction": 1,
+      "note": "Reference 9: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 87,
+      "baseMl": 37,
+      "acidMolL": 0.9,
+      "baseMolL": 0.6,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 1,
+      "note": "Reference 10: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 50,
+      "baseMl": 50,
+      "acidMolL": 1,
+      "baseMolL": 1,
+      "initialC": 25,
+      "cupJK": 15,
+      "deliveredFraction": 0.013,
+      "note": "Reference 11: <cup> & reservoir accounted separately."
+    },
+    {
+      "acidMl": 10,
+      "baseMl": 10,
+      "acidMolL": 0.1,
+      "baseMolL": 0.1,
+      "initialC": 20,
+      "cupJK": 50,
+      "deliveredFraction": 0.123456789,
+      "note": "Reference 12: <cup> & reservoir accounted separately."
+    }
+  ]
+}

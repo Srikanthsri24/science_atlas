@@ -1,0 +1,42 @@
+{
+  "durationSeconds": 120,
+  "twoD": {
+    "freshObservedSeconds": [
+      0.153,
+      85.8,
+      94.2868,
+      120
+    ],
+    "endpointRecord": 1,
+    "endpointArrows": "paused"
+  },
+  "threeD": {
+    "freshObservedSeconds": [
+      0.1484,
+      39.9,
+      113.1,
+      120
+    ],
+    "endpointRecord": 2,
+    "inspectionScopes": [
+      "source",
+      "collector",
+      "chamber"
+    ]
+  },
+  "defaultGuidePhysicalEndSeconds": 145.90199706075708,
+  "replays": {
+    "threeD": {
+      "guideTime": 0.4,
+      "scope": "chamber",
+      "cutaway": false,
+      "magnifierOpen": false
+    },
+    "twoD": {
+      "guideTime": 0.3,
+      "scope": "chamber",
+      "arrows": "paused"
+    }
+  },
+  "scope": "Actualfullguidescompleted;preflight.2spartialandlaterreplaychecksnotfullruns."
+}

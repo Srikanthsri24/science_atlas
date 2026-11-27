@@ -1,0 +1,37 @@
+{
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "model",
+    "record",
+    "geometry",
+    "2D",
+    "3D",
+    "frontend route"
+  ],
+  "focusedTests": 15,
+  "twoDGuide": {
+    "completed": true,
+    "duration": 120,
+    "recordEnabledDuringPlay": false,
+    "recordEnabledAtEnd": true,
+    "endpointSaved": true
+  },
+  "threeDGuide": {
+    "completed": true,
+    "duration": 120,
+    "recordEnabledDuringPlay": false,
+    "recordEnabledAtEnd": true,
+    "endpointSaved": true
+  },
+  "actualGuiTrials": 18,
+  "remaining": [],
+  "notes": "Earlierpartial2Ddevelopmentrun notcounted;fresh2D/3Dfull120sguidespassed. GUIzero-filtratefloatingnegativecorrectedupstreamandregressiontested;actualcornerretestcanvas1/fallback0. Staticstands/reservoir/portraitfocusrefinementstestedafterfullruns. No independentexpertcertification.",
+  "fullRegressionPassed": 2978,
+  "observationFieldChecks": 774,
+  "numericObservationChecks": 704,
+  "workedResultChecks": 465,
+  "numericWorkedResults": 393,
+  "responsiveCases": 40,
+  "finalTypeScript": "passed",
+  "finalBuild": "passed41.30s"
+}

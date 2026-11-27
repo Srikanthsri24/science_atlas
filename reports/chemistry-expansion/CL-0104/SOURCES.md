@@ -1,0 +1,8 @@
+# CL-0104 private scientific provenance
+
+Read2026-11-27. Editorial Class7 placement; official board mapping pending. Original model, explanations, diagrams and apparatus. No external links in the student interface.
+
+- Andersson, Alvebratt and Bergström, Pharmaceutical Research34(2017), DOI10.1007/s11095-017-2188-1, https://pmc.ncbi.nlm.nih.gov/articles/PMC5533823/ : dissolution depends on exposed area and the departure of bulk concentration from saturation. Exposed wet area can differ from dry-powder area, especially with aggregation. We use an explicitly assumed saturation-normalized mass flux; this pharmaceutical study does not calibrate our salt model or its timing.
+- NIH PubChem sodium chloride CID5234, https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5234/JSON?heading=Density and ?heading=Solubility : official JSON read directly after the HTML browser check prevented access. Listed25°C references give36.0g per100g water and relative density2.17 at25°C/4°C. Select rounded solid density2.17g/cm³ and capacity0.36g/gwater at25°C; these are teaching references, not precision certification.
+
+Noyes–Whitney-type area/driving-force dependence is adapted to a fixed-water-mass capacity convention, not asserted to be a calibrated transport equation. Reference unsaturated mass flux0.003g/(cm²s) is chosen; the adjustable range0–0.006 is not measured kinetic data. Water density1g/mL and dissolved-salt apparent volume0.28mL/g are drawing assumptions. Cubes are equivalent fully wetted, nonaggregating grains; fixed grain positions do not predict gravity, settling, contact shielding or a literal crystal habit. No empirical completion times are claimed.

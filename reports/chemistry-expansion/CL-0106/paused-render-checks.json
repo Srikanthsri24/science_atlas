@@ -1,0 +1,11 @@
+{
+  "before": {
+    "readings": "Wet + accessible oxygen\nWater available 20 g\nAccessible O₂ left 0.00063513 mol\nIron converted 0.027168 g · 6.792%\nIron remaining 0.37283 g\nSelected product reference 0.043225 g\nRetained specimen 0.41606 g\nSpecimen mass gain 0.016057 g\nReference condition: chosen-progress-reference\nWater + ideal oxygen exclusion\nWater available 20 g\nAccessible O₂ left 0 mol\nIron converted 0 g · 0%\nIron remaining 0.4 g\nSelected product reference 0 g\nRetained specimen 0.4 g\nSpecimen mass gain 0 g\nReference condition: oxygen-excluded\nDry + accessible oxygen\nWater available 0 g\nAccessible O₂ left 0.001 mol\nIron converted 0 g · 0%\nIron remaining 0.4 g\nSelected product reference 0 g\nRetained specimen 0.4 g\nSpecimen mass gain 0 g\nReference condition: water-excluded\n\n3.5169 illustrative model days · selected k = 0.02 per day · selected hydrate x = 1. The progress law and composition are assumptions, not measured corrosion data. The finite accessible O₂ account may include a connected supply; it is not a dissolved concentration or tube pressure.",
+    "time": "60.2"
+  },
+  "afterResize": {
+    "readings": "Wet + accessible oxygen\nWater available 20 g\nAccessible O₂ left 0.00063513 mol\nIron converted 0.027168 g · 6.792%\nIron remaining 0.37283 g\nSelected product reference 0.043225 g\nRetained specimen 0.41606 g\nSpecimen mass gain 0.016057 g\nReference condition: chosen-progress-reference\nWater + ideal oxygen exclusion\nWater available 20 g\nAccessible O₂ left 0 mol\nIron converted 0 g · 0%\nIron remaining 0.4 g\nSelected product reference 0 g\nRetained specimen 0.4 g\nSpecimen mass gain 0 g\nReference condition: oxygen-excluded\nDry + accessible oxygen\nWater available 0 g\nAccessible O₂ left 0.001 mol\nIron converted 0 g · 0%\nIron remaining 0.4 g\nSelected product reference 0 g\nRetained specimen 0.4 g\nSpecimen mass gain 0 g\nReference condition: water-excluded\n\n3.5169 illustrative model days · selected k = 0.02 per day · selected hydrate x = 1. The progress law and composition are assumptions, not measured corrosion data. The finite accessible O₂ account may include a connected supply; it is not a dissolved concentration or tube pressure.",
+    "time": "60.2"
+  },
+  "pausedPixelsStable": true
+}

@@ -1,0 +1,22 @@
+✔ initial paper keeps all four ink samples dry above the solvent and withholds distance ratios (2.479975ms)
+✔ deliberately co-migrating unknown is consistent with A in one solvent but differs in the second (17.372822ms)
+✔ references B and C also share one fingerprint without implying identical formulations (0.534793ms)
+✔ large broadening and short development make individual readings inconclusive (0.557075ms)
+✔ every normalised Gaussian conserves its own ink mass independently across dry,mobilised and developed domains (63.514816ms)
+✔ ruler readings divide travel from the origin by the common front travel and include rounding bounds (0.777419ms)
+✔ linear loading changes ink density without changing reference migration or separation status (0.281838ms)
+✔ programmed removal freezes the front and broadening inside the paper,while the guide develops for88seconds (0.521629ms)
+✔ cross-solvent evidence keeps vials separate and does not turn unresolved trials into exclusions (1.140846ms)
+✔ worked Rf and rounding bounds substitute the actual common-origin ruler distances (1.00822ms)
+✔ record and exam export preserve17preparation,13lane and7comparison columns without printing hidden recipes (1.688731ms)
+✔ four-lane texture uses physical paper coordinates and keeps same-colour co-migrating fingerprints visually consistent (28.358001ms)
+✔ texture animation sampling never changes the scientific input object and paused views retain exact time (0.201571ms)
+✔ minimum-development button clock reaches a reportable common front at every supported capillary step (0.256278ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 745.371947

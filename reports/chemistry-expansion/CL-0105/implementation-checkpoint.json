@@ -1,0 +1,30 @@
+{
+  "labId": "CL-0105",
+  "status": "in_progress",
+  "implemented": [
+    "Separate ice/water latent-energy and Mg/O2 stoichiometric reference accounts",
+    "Floating ice buoyancy, constant waterline and true phase-volume geometry",
+    "Finite Mg stock, delivered metal, oxide and residual oxygen accounts",
+    "Returning phase energy preserves chemical history",
+    "120-second guide with 80 seconds of phase evolution and 40 seconds of metal delivery",
+    "Input-only notebook, eight observation tables, 59 worked results and escaped exam-style HTML",
+    "Original 2D and 3D apparatus views, inspection and responsive presentation controls"
+  ],
+  "verification": [
+    "17 focused tests passed",
+    "222 cases and 13,764 independent core field checks passed",
+    "17 synthetic report trials, 1,003 worked results and 4,412 numeric checks passed",
+    "Five report mutations rejected, including erasure of tiny oxide product",
+    "TypeScript core, record and initial UI checks passed",
+    "Actual two-minute playback completed in both 2D and 3D",
+    "96 final responsive normal/theatre checks passed",
+    "Seven actual browser observations: 413 results and 1819 independent checks passed",
+    "3311 full regression tests passed",
+    "Final TypeScript terminal exit 0 with empty log; production build terminal exit 0 in 12.30 seconds",
+    "Dark portrait screenshot, paused resize, ten keyboard boundaries and seven camera effects checked"
+  ],
+  "remaining": [
+    "Native mouse drag/wheel when available",
+    "Internal review and frozen source/evidence capture"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "time": "120",
+  "readings": "SINGLE VIRTUAL PROBE\nSodium-bicarbonate model\nIdeal pH 8.336\nBulb fully immersed · ideal nonconsuming probe\nFive calculated predictions · not five probe measurements\nPure-water control\npH 7 · neutral\n0 mol/L · 0 mol\nAcetic-acid model\npH 3.3876 · acidic\n0.01 mol/L · 0.0004 mol\nLactic-acid model\npH 2.9555 · acidic\n0.01 mol/L · 0.0004 mol\nCitric-acid model\npH 2.6208 · acidic\n0.01 mol/L · 0.0004 mol\nSodium-bicarbonate model\npH 8.336 · basic\n0.01 mol/L · 0.0004 mol\n\nPure-solute food analogues at25°C. Real food composition and buffering vary. Probe displacement,carryover and electrode response are omitted. Prepared contents 200 g · mass residual 2.8422e-14 g.",
+  "status": "Notebook: 4 observations · 448 worked calculations."
+}

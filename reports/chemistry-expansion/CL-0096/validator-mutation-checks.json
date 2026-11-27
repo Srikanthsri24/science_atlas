@@ -1,0 +1,18 @@
+[
+  {
+    "tampered": "operand",
+    "rejected": true
+  },
+  {
+    "tampered": "result",
+    "rejected": true
+  },
+  {
+    "tampered": "observation",
+    "rejected": true
+  },
+  {
+    "tampered": "pipette-volume",
+    "rejected": true
+  }
+]

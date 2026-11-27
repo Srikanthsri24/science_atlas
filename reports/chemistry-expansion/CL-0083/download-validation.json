@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "actualGuiDevelopments": 17,
+  "actualLaneRecords": 68,
+  "observationFieldChecks": 1602,
+  "numericObservationChecks": 1196,
+  "workedResultChecks": 799,
+  "numericWorkedResults": 715,
+  "reportTables": 9,
+  "method": "Separate Python front/broadening/ruler/comparison calculation;no app code imported",
+  "scope": "Internal numerical export verification;not real ink calibration or independent expert certification."
+}

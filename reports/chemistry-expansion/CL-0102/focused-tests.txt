@@ -1,0 +1,23 @@
+✔ untested receiver and one-stock delivery do not invent solid or missing counterions (1.529757ms)
+✔ matched salt mixing leaves finite saturated ions and retains spectator inventories (32.136054ms)
+✔ finite reagent excess sets the limiting material without deleting dissolved silver or chloride (0.299887ms)
+✔ dilute under/near/above-threshold cases avoid assumed complete precipitation (0.457066ms)
+✔ preparation extremes preserve Ag,Cl,Na,nitrate,charge,mass and nominal mixture volume (2.528114ms)
+✔ both independently delivered fractions debit only their own finite stocks (0.2223ms)
+✔ 120second guide has two40second metered additions and deterministic phase accounts (6.664354ms)
+✔ invalid preparation/time rejected and zero-concentration stocks remain real water deliveries (1.010824ms)
+✔ exact polygon apparatus volumes close and equivalent solids fit inside the receiver (1.654132ms)
+✔ current-guide geometry is deterministic and zero-concentration fluid really flows (15.54333ms)
+✔ delivery glyphs follow their bent conduits rather than cutting through glass (0.60247ms)
+✔ validated notebook preserves source inputs and text,not forged phase results (0.433616ms)
+✔ five observation tables and46unique worked blocks cover finite and zero-stock cases (2.549886ms)
+✔ worked masses and spectator amounts retain independently substituted units (0.318076ms)
+✔ exam export escapes text and embeds exact inputs with46labelled calculations per trial (1.412243ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 673.787318

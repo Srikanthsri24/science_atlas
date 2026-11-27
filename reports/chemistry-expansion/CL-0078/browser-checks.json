@@ -1,0 +1,35 @@
+{
+  "guide3D": {
+    "actualFullPlaybackSeconds": 120,
+    "recordingDuringPlayback": false,
+    "recordingAfterCompletion": true
+  },
+  "guide2D": {
+    "actualFullPlaybackSeconds": 120,
+    "recordingAfterCompletion": true
+  },
+  "observations": 8,
+  "persistedAfterReloadAndClassReturn": true,
+  "missedRinseNoteEscapedAndRetained": true,
+  "mobileDark": {
+    "width": 390,
+    "pageWidth": 390,
+    "tableVisible": 314,
+    "tableContent": 2550,
+    "keyboardScrollBefore": 0,
+    "keyboardScrollAfter": 39
+  },
+  "cameraActions": [
+    "flask close-up",
+    "balance close-up",
+    "orbit left",
+    "orbit right",
+    "zoom in",
+    "zoom out",
+    "reset",
+    "cutaway",
+    "labels"
+  ],
+  "nativeGestures": "unverified",
+  "console": []
+}

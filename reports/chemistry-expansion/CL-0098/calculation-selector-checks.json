@@ -1,0 +1,42 @@
+[
+  {
+    "value": "all",
+    "blocks": 44,
+    "invalid": false
+  },
+  {
+    "value": "source",
+    "blocks": 11,
+    "invalid": false
+  },
+  {
+    "value": "gas",
+    "blocks": 5,
+    "invalid": false
+  },
+  {
+    "value": "receiver",
+    "blocks": 13,
+    "invalid": false
+  },
+  {
+    "value": "fills",
+    "blocks": 2,
+    "invalid": false
+  },
+  {
+    "value": "mass",
+    "blocks": 6,
+    "invalid": false
+  },
+  {
+    "value": "elements",
+    "blocks": 5,
+    "invalid": false
+  },
+  {
+    "value": "limits",
+    "blocks": 2,
+    "invalid": false
+  }
+]

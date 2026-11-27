@@ -1,0 +1,8 @@
+{
+  "actualGuiRows": 15,
+  "columns": 28,
+  "numericObservationChecks": 193,
+  "workedResults": 334,
+  "method": "independent RK4,maximum reference step0.04s",
+  "escaping": "passed"
+}

@@ -1,0 +1,8 @@
+# Private scientific references · CL-0098
+
+Read2026-11-27;private research,not product references. Original content/graphics only.
+
+- Purdue University,The Chemistry of CO2: https://chemed.chem.purdue.edu/genchem/demosheets/18.2.html . Full34-line page read. Demonstrates white calcium-carbonate precipitation in limewater and redissolution with additional CO2/carbonic acid. Explains conversion of carbonate into bicarbonate and soluble calcium-bicarbonate products. Supports qualitative first-clouding/possible-clearing sequence. Does NOT provide empirical turbidity calibration,instantaneous sequential extent law,quantitative gas-absorption efficiency or rate constants. Any stoichiometric-limit envelope must be explicitly distinguished from actual aqueous equilibria/observed kinetics.
+- RSC Education,Particles in motion: https://edu.rsc.org/states-of-matter/particles-in-motion-classic-chemistry-experiments-11-14-years/421.article . Search extraction supports classroom generation/collection of CO2 from CaCO3+HCl and limewater test. Direct full-page fetch returned405;not verified full reading. Do not copy proprietary worksheet/assets or claim official curriculum mapping.
+
+Existing CL-0061 carbonateGas.ts is OWN app source with finite acid/carbonate stoichiometry and ideal dry gas-syringe accounting. Its reviewed source must remain unchanged. CL-0098 must add an independent receiver's precipitation/excess-CO2 evidence,not rebrand61. Rounded consistent molar-mass bookkeeping constants in61:CaCO3=100.086,HCl=36.458,CaCl2=110.978,CO2=44.009,H2O=18.015g/mol. Derived Ca(OH)2=74.092,Ca(HCO3)2=162.110g/mol follow the same rounded atomic masses;no new measurement or certified exact values.

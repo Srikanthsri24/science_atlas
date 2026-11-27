@@ -1,0 +1,22 @@
+[
+  {
+    "field": "gasMl",
+    "rejected": true
+  },
+  {
+    "field": "oxygenMol",
+    "rejected": true
+  },
+  {
+    "field": "initialAirMol",
+    "rejected": true
+  },
+  {
+    "field": "liquidG",
+    "rejected": true
+  },
+  {
+    "field": "remainingPeroxideMol",
+    "rejected": true
+  }
+]

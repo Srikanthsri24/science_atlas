@@ -1,0 +1,23 @@
+{
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "curved geometry",
+    "vented flow model",
+    "collection/recovery/purity",
+    "120s guide",
+    "record/report with30columns13workedblocks",
+    "2D/3D apparatus",
+    "frontend route"
+  ],
+  "modelTestsPassed": 9,
+  "typeScript": "passed after pause-clock correction",
+  "remaining": [],
+  "scope": "Internalengineeringreviewonly,notindependentexpert/officialboard/physicaldevice/FPS/nativegesturecertification",
+  "fullRegression": "3001passed",
+  "twoD": "Actual fresh corrected120s guide completed,endpoint saved as observation1",
+  "threeD": "Actual fresh corrected120s guide completed,endpoint saved as observation2;orbit\u00b1,zoom\u00b1,reset,labels exercised",
+  "practical": "15actualGUItrials;635independentnumeric/textchecks;195workedblockschecked;exactinputJSON;notes/plan/conclusionpersistreload",
+  "responsive": "40standard+16theatrecasespass;tablet121.7\u2192408.9px3Dcanvas;dark390portraittested;keyboardtable1861.5\u21921901px",
+  "navigation": "ActualClass6Readytoexplorecardopens84;15savedobservationsrestored",
+  "build": "FinalVite11.86spass;largechunkadvisoryretained"
+}

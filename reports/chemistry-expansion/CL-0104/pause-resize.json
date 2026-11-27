@@ -1,0 +1,10 @@
+{
+  "before": {
+    "time": "73.70060000000332",
+    "readings": "Cell A · 1 prepared grain\nGrain edge 1.2711 cm\nExposed area 9.6947 cm²\nAdded solid remaining 4.4569 g\nAdditional dissolved 3.5431 g\nCurrent rate 0.021928 g/s\nMean rate 0.030901 g/s\nCurrent saturation 24.605%\nCondition: dissolving\nCell B · 64 prepared grains\nGrain edge 0.17671 cm\nExposed area 11.991 cm²\nAdded solid remaining 0.76634 g\nAdditional dissolved 7.2337 g\nCurrent rate 0.017902 g/s\nMean rate 0.063087 g/s\nCurrent saturation 50.234%\nCondition: dissolving\nMatched preparation · 114.66 model s\nTotal dissolved capacity 14.4 g\nInitially dissolved 0 g\nEquilibrium additional limit 8 g\nGreater additional amount: B\nGreater current rate: A\nInitial area B/A 4\nInitial rate B/A 4\n\nChanging grain count changes exposed area, not salt mass or solvent capacity. Fixed 25°C; fully wetted separated cubes and a chosen mass flux. Initially dissolved salt is separate from newly dissolved material."
+  },
+  "after": {
+    "time": "73.70060000000332",
+    "readings": "Cell A · 1 prepared grain\nGrain edge 1.2711 cm\nExposed area 9.6947 cm²\nAdded solid remaining 4.4569 g\nAdditional dissolved 3.5431 g\nCurrent rate 0.021928 g/s\nMean rate 0.030901 g/s\nCurrent saturation 24.605%\nCondition: dissolving\nCell B · 64 prepared grains\nGrain edge 0.17671 cm\nExposed area 11.991 cm²\nAdded solid remaining 0.76634 g\nAdditional dissolved 7.2337 g\nCurrent rate 0.017902 g/s\nMean rate 0.063087 g/s\nCurrent saturation 50.234%\nCondition: dissolving\nMatched preparation · 114.66 model s\nTotal dissolved capacity 14.4 g\nInitially dissolved 0 g\nEquilibrium additional limit 8 g\nGreater additional amount: B\nGreater current rate: A\nInitial area B/A 4\nInitial rate B/A 4\n\nChanging grain count changes exposed area, not salt mass or solvent capacity. Fixed 25°C; fully wetted separated cubes and a chosen mass flux. Initially dissolved salt is separate from newly dissolved material."
+  }
+}

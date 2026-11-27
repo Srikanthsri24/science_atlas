@@ -1,0 +1,22 @@
+[
+  {
+    "mutation": "wrong-latent-energy",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-oxygen-operand",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-tiny-product",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-return-heat-sign",
+    "rejected": true
+  },
+  {
+    "mutation": "false-classification",
+    "rejected": true
+  }
+]

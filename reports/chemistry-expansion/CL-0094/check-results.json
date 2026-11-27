@@ -1,0 +1,19 @@
+{
+  "scienceGeometryReportTests": 18,
+  "focusedIncludingNavigation": 20,
+  "regressionTests": 3143,
+  "normalLayoutCases": 360,
+  "theatreLayoutCases": 48,
+  "actualGuideSeconds": {
+    "twoD": 120,
+    "threeD": 120
+  },
+  "actualGuiTrials": 16,
+  "actualWellRecords": 64,
+  "independentActualChecks": 8668,
+  "actualWorkedBlocks": 2080,
+  "typescript": "passed",
+  "build": "passed",
+  "reviewScope": "internal only",
+  "nextPublishAt": 100
+}

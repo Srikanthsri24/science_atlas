@@ -1,0 +1,26 @@
+{
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "paired filter and radial centrifuge model",
+    "prescribed speed exposure and120s guide",
+    "33worked calculations andthree observation tables",
+    "weighted marker and actual solid-volume geometry",
+    "2D and3D apparatus withselection/camera/readings/magnifier",
+    "frontendroute and practicalUI"
+  ],
+  "focusedTestsPassed": 13,
+  "typeScript": "Finalfullprojectbuildpassed",
+  "remaining": [],
+  "scope": "Internal numerical,functional andbrowserviewport engineeringreview only;notindependentexpertcertification,officialcurriculummapping,physicaldevice/printer/FPS/nativegestureverification. Filterfeedwellmixed,geometricopeningcutoff,chosenporosity/pathfactor/thicknessandwater-onlyhydraulichead.No blocking,adsorption/depthcapture. RadialStokesadvectionomitsdiffusion,hinderedsettling,transversegravity(includingzero/lowrpm),secondaryflow,counterflowandfinitepelletboundaryfeedback. Low/zeroRPMoutputsarenotpredictionsofordinarysettling. Waterretainednotdecanted;solid-equivalentpellet/cakeisnotwetpackingorpurity. Markersweighted/enlarged,notliteralparticlecounts. Rotorangle500\u00d7slowed;physicalmodelusesintegratedsquaredspeed. Fullguidesprecedefinalwordspacing/explicitheadlimitationandstaticphone/theatreCSSrefinements;scientificmotion/timingunchanged.",
+  "fullTestsPassed": 3014,
+  "build": "Vite10.55spassed",
+  "twoD": "Actualfreshcorrected120scompleted,endpointrecord1",
+  "threeD": "Actualfresh120scompleted,endpointrecord2",
+  "practical": "16actualGUItrials,1887independentchecks,528workedblocks,16/16/48rowspersistreload",
+  "responsive": "120standard+48theatrepass;short142\u2192230px;darkphonecell254.6px",
+  "navigation": "ActualClass6Readycardopens85andrestores16observations",
+  "proofs": [
+    "verified-separation.png",
+    "phone-cell.png"
+  ]
+}

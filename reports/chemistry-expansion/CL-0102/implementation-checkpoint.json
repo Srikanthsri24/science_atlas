@@ -1,0 +1,49 @@
+{
+  "labId": "CL-0102",
+  "status": "await_native_gesture_check",
+  "implemented": [
+    "validatedtwo-stockfiniteAgClprecipitationmodel",
+    "120secondguidewith80secondmetereddelivery",
+    "exactpolygonburettes/receiver/equivalent-solidgeometry",
+    "validated40trial practical notebook",
+    "five preparation/stock/phase/ion/closure tables",
+    "46keyedworkedformulas with substitutions and units",
+    "escaped exact-input exam-style HTML report",
+    "independent HTML tables/results/operand/category checker",
+    "original2D finite-stock apparatus,receiver and ion-account views",
+    "original3D burettes,receiver and solid-material close-up",
+    "120s delivery animation with phase-aware flow glyphs",
+    "full practical notebook controls and report download",
+    "routed frontend presentation with responsive landscape/portrait/theatre CSS"
+  ],
+  "verification": [
+    "11focusedtestsPASS",
+    "223cases10035independentDecimalnumericchecksPASS",
+    "5numericalmutationsrejected",
+    "15focusedtestsPASS",
+    "12synthetictrials552workedresults2736independentnumericchecksPASS",
+    "5HTMLmutationsrejectedincludingerasedtinypositiveprecipitate",
+    "coregeometryTypeScript82625terminalexit0",
+    "recordinclusiveTypeScript45516terminalexit0",
+    "15focusedtestsPASS after UI integration",
+    "UI TypeScript26301terminalexit0(emptylog)",
+    "3259fullregressiontestsPASS110.19s",
+    "Viteproductionbuild33480PASS15.80s",
+    "2Dguideactual0.1756through120seconds",
+    "30normal2DresponsivechecksPASS",
+    "30normal3DresponsivechecksPASS",
+    "3Dpause42.7135stabletimeandreadingsthrough390pxresize",
+    "8theatreformat/device-shapechecksPASS",
+    "3Dguideactual0.0492through120seconds",
+    "144additionalresponsiveextremestatechecksPASSandmaterialaccountunchanged",
+    "all7calculationgroups14/7/4/9/5/7/46correct",
+    "17actualtrials782workedresults3861independentnumericchecksPASS",
+    "notebookplan/conclusion/note17literalHTMLpersistedreload",
+    "dark390pxportraitandlightdesktopchecked;consoleempty",
+    "finalTypeScript/build93927terminalexit0"
+  ],
+  "remaining": [
+    "nativeleftdragandwheel(Maclocked)",
+    "internalreview"
+  ]
+}

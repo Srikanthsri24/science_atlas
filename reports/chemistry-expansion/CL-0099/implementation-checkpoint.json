@@ -1,0 +1,38 @@
+{
+  "labId": "CL-0099",
+  "status": "passed_internal_functional_review",
+  "implemented": [
+    "finite-reservoir core",
+    "120-second guide with80seconds metered delivery",
+    "exact-volume apparatus geometry",
+    "49worked calculations per trial",
+    "four-cell observation table",
+    "exam report with safe exact-input JSON",
+    "independent HTML table and49result validator",
+    "original paired-cell2Ddiagram and quantity bars",
+    "3Drectangularcells with finitewaterreservoir and volume-derivedfills",
+    "pairedcloseups and orbit/zoom/cutaway/labels",
+    "frontend notebook persistence and report download",
+    "Hubroute and description"
+  ],
+  "verification": [
+    "8 focused tests pass",
+    "486preparations/25272fields pass independent Decimal bisection reference",
+    "4reference mutations rejected",
+    "12synthetictrials/588workedresults/1068numericchecks independently validated",
+    "worked result mutation rejected",
+    "TypeScript --noEmit process15764 terminalexit0",
+    "FirstChrome render check:2Dand3D load;finitebasefulladditions show0mL reservoir,90mLtests,one-ninthconcentration andconstant0.01mg tracer",
+    "Theatreclippingfoundandfixed;fullapparatusandphenolpairvisuallychecked",
+    "Firstactualobservationrecorded;notebook1trial/49calculations",
+    "TypeScript74279exit0"
+  ],
+  "remaining": [],
+  "normalResponsiveChecksPassed": 350,
+  "theatreResponsiveChecksPassed": 16,
+  "actualGuiTrials": 9,
+  "browserWorkedResults": 441,
+  "independentBrowserChecks": 801,
+  "regressionTestsPassed": 3216,
+  "reviewEvidence": "reports/chemistry-expansion/CL-0099/review.json"
+}

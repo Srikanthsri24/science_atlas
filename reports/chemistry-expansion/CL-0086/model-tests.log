@@ -1,0 +1,21 @@
+✔ solid reference pressure uses the checked anchor,constant enthalpy and SI ideal gas units (1.957159ms)
+✔ before condensation,independent first-order gas filling predicts onset without a deposit (8.080291ms)
+✔ independent conservative time stepping converges to all analytic phases including exhaustion (19.551827ms)
+✔ all supported corner preparations conserve iodine,residue and reference latent enthalpy (8.573287ms)
+✔ finite source can exhaust before a collector threshold,leaving only vapour iodine (0.298034ms)
+✔ source exhaustion event is continuous and residual vapour tends to collector equilibrium (0.24464ms)
+✔ equal temperatures approach source equilibrium without directed collection,and area affects rate not equilibrium capacity (0.255755ms)
+✔ 120second guide preserves chosen preparation and does not force a deposit (0.711261ms)
+✔ practical tables align,calculations cover empty/collected cases and stored results are reconstructed (1.292029ms)
+✔ report preserves exact onset inputs and escapes all student writing (1.140224ms)
+✔ solid-equivalent geometry closes mass volumes and includes apparatus in initial free gas space (3.929187ms)
+✔ event-paced guide gives source transfer68seconds and a finite post-source vapour approach (0.338709ms)
+✔ tiny exposed collector areas keep finite coating thickness without subtraction-created mass (1.406274ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 615.199702

@@ -1,0 +1,27 @@
+{
+  "effects": [
+    {
+      "control": "2D Labels",
+      "before": 9,
+      "after": 3,
+      "changed": true
+    },
+    {
+      "control": "2D material cue",
+      "before": 1,
+      "after": 0,
+      "changed": true
+    },
+    {
+      "control": "2D initial thickness",
+      "before": 6,
+      "after": 4,
+      "changed": true
+    }
+  ],
+  "pause": {
+    "timeUnchanged": true,
+    "readingsUnchanged": true,
+    "pngByteEqual": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "before": {
+    "circles": [],
+    "readings": "Methyl orange · control10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lred · concentration ratio 1Methyl orange · test42.964 mL · pH 2.6331 (ideal)0.01 mg indicator · 0.23275 mg/Lred · concentration ratio 0.23275Phenolphthalein · control10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lcolourless · concentration ratio 1Phenolphthalein · test10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lcolourless · concentration ratio 1Shared water remaining: 127.04 mL · nominal volume closure: 0 mL. Colours are illustrative; neither absorbance nor exact pH is measured by this picture. Phenolphthalein alkaline fading is not modelled.",
+    "timeline": "31.5"
+  },
+  "after": {
+    "circles": [],
+    "readings": "Methyl orange · control10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lred · concentration ratio 1Methyl orange · test42.964 mL · pH 2.6331 (ideal)0.01 mg indicator · 0.23275 mg/Lred · concentration ratio 0.23275Phenolphthalein · control10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lcolourless · concentration ratio 1Phenolphthalein · test10 mL · pH 2 (ideal)0.01 mg indicator · 1 mg/Lcolourless · concentration ratio 1Shared water remaining: 127.04 mL · nominal volume closure: 0 mL. Colours are illustrative; neither absorbance nor exact pH is measured by this picture. Phenolphthalein alkaline fading is not modelled.",
+    "timeline": "31.5"
+  },
+  "identical": true
+}

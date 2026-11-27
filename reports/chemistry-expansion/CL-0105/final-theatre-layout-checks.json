@@ -1,0 +1,434 @@
+[
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 390,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 272.25,
+    "width": 390
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 768,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 373.5,
+    "width": 768
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 725.328125,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 229.5,
+    "width": 1366
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "2D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 1280,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "both",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "water",
+    "visualWidth": 405,
+    "width": 1920
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "mode": "3D",
+    "overflow": false,
+    "scope": "chemical",
+    "visualWidth": 405,
+    "width": 1920
+  }
+]

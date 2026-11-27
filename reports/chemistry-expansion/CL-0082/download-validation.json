@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "actualGuiTrials": 18,
+  "observationFieldChecks": 774,
+  "numericObservationChecks": 704,
+  "workedResultChecks": 465,
+  "numericWorkedResults": 393,
+  "reportTables": 7,
+  "method": "Separate Python compartment and batch-equilibrium calculation;no app code imported",
+  "scope": "Internal engineering verification;no physical calibration,printer or independent expert certification."
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "canvas": true,
+    "canvasWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "scope": "both",
+    "time": "40.2",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "scope": "water",
+    "time": "40.5",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 390,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "40.7",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 272.25,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "scope": "both",
+    "time": "41.1",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 272.25,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "scope": "water",
+    "time": "41.3",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 272.25,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "41.5",
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 768,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "scope": "both",
+    "time": "41.8",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 768,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "scope": "water",
+    "time": "42.1",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 768,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "42.2",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 373.5,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "scope": "both",
+    "time": "42.5",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 373.5,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "scope": "water",
+    "time": "42.7",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 373.5,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "42.8",
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 725.328125,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "scope": "both",
+    "time": "43.2",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 725.328125,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "scope": "water",
+    "time": "43.4",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 725.328125,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "43.6",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 229.5,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "scope": "both",
+    "time": "43.8",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 229.5,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "scope": "water",
+    "time": "44",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 229.5,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "44.1",
+    "width": 1366
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 1280,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "scope": "both",
+    "time": "44.4",
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 1280,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "scope": "water",
+    "time": "44.7",
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 1280,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "44.9",
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 405,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "scope": "both",
+    "time": "45.1",
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 405,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "scope": "water",
+    "time": "45.3",
+    "width": 1920
+  },
+  {
+    "canvas": true,
+    "canvasWidth": 405,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "scope": "chemical",
+    "time": "45.5",
+    "width": 1920
+  }
+]

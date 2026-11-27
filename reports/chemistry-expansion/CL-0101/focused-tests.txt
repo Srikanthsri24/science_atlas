@@ -1,0 +1,22 @@
+✔ matched pure-solute food models compare acid strength without pretending to be measured foods (4.473608ms)
+✔ zero solute controls become pure water without dividing by zero (32.395052ms)
+✔ all independent concentration bounds close species,charge,water and formal contents (58.540396ms)
+✔ amount changes with volume while ideal pH remains concentration-controlled (1.188143ms)
+✔ probe readout withheld above liquid and selects only the chosen sample (3.276777ms)
+✔ 120second guide visits all five samples and raises probe during lateral transfer (3.671276ms)
+✔ fraction distributions reproduce stepwise dissociation ratios and retain triprotic states (0.779557ms)
+✔ malformed preparation and fractional sample indices rejected (0.692636ms)
+✔ exact polygon fill and probe geometry align readout with full bulb immersion (44.515803ms)
+✔ guided carriage clears rims and geometry rejects stale index/insertion states (185.20402ms)
+✔ notebook stores original preparation/probe inputs,discarding forged readings and bounding text (0.588749ms)
+✔ five report tables distinguish all model predictions from one withheld or immersed probe observation (9.999556ms)
+✔ worked logarithmic comparison retains hydrogen ratios and exact formal amount conversions (1.115844ms)
+✔ exam report safely escapes text and retains every calculation without inventing five probe measurements (3.208417ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 954.18251

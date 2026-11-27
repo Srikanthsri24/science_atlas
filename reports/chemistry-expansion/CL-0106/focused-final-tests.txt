@@ -1,0 +1,32 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (3.85918ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (1.196383ms)
+✔ corrosion preparations reject coercion and unsupported physical inputs (6.394258ms)
+✔ the initial observation invents no converted iron, oxide or specimen mass gain (103.158373ms)
+✔ oxygen-excluded and dry-air controls keep their iron under every chosen progress law (3.337721ms)
+✔ a dry zero-hydration reference still requires water as an environmental condition (2.287357ms)
+✔ oxygen consumption and reference hydrate amounts obey a balanced overall equation (1.642234ms)
+✔ finite accessible oxygen caps conversion without a negative residue or extra oxygen (0.616225ms)
+✔ zero oxygen and zero rate are distinct controls with no invented brown product (1.107314ms)
+✔ chosen exponential progress is explicit, monotone and preserves tiny positive time (0.58137ms)
+✔ closed analysed material and Fe/O/H atom accounts close across every preparation corner (12.937818ms)
+✔ conical tip, cylindrical head and shaft conserve initial and remaining metal volumes (3.05491ms)
+✔ 120-second guide advances ninety seconds through a disclosed seven-day model horizon (1.928051ms)
+✔ late reference metal mass retains its analytic exponential remainder instead of subtracting rounded bulk masses (1.012354ms)
+✔ faceted vial and pointed metal meshes preserve reference volumes across all supported dimensions (10.386597ms)
+✔ prepared water levels are not misrepresented as predicted rust-volume displacement (1.125231ms)
+✔ guide transfer markers are deterministic, stop in controls and reject stale guide time (4.671141ms)
+✔ corrosion notebook retains source preparations and bounded student text without trusting derived fields (1.359276ms)
+✔ each corrosion control has all38 worked numeric/reference values, including an honest zero-hydration limit (8.281653ms)
+✔ corrosion observation tables cover every state field except the separately named control identity (1.78113ms)
+✔ exam report escapes HTML and preserves exact source JSON while labelling synthetic corrosion data honestly (5.262906ms)
+✔ default guide keeps its meaningful wet-reference conversion moving throughout90seconds (0.904856ms)
+✔ qualitative surface patches are zero in excluded controls and stay on the supported shaft envelope (1.889336ms)
+✔ ragged corrosion surface glyphs are deterministic bounded open meshes with finite unit normals (35.565396ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1869.969943

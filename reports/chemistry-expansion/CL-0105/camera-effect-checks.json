@@ -1,0 +1,30 @@
+[
+  {
+    "action": "Orbit left",
+    "changed": true
+  },
+  {
+    "action": "Orbit right",
+    "changed": true
+  },
+  {
+    "action": "Zoom in",
+    "changed": true
+  },
+  {
+    "action": "Zoom out",
+    "changed": true
+  },
+  {
+    "action": "Cutaway",
+    "changed": true
+  },
+  {
+    "action": "Labels",
+    "changed": true
+  },
+  {
+    "action": "Reset camera",
+    "changed": true
+  }
+]

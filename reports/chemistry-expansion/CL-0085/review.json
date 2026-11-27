@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0085",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "13focusedscience/record/geometry+2navigationtests pass;3014fullregression tests pass. FinalfullTypeScriptbuildpass,Vite10.55spass. Independentpiecewisespeedquadrature,RK4Stokesradialtrajectories,100kpopulationcapture/profileintegration,capillaryforcebalanceODE,96cornerpreparations\u00d77timescloseeachsize/water/mass. MaxreferenceRe0.0414523andinitialsolidvolfraction<0.1%. Zero/lowrpm,cutoffboundary,diameter\u00b2,density/viscosity/radiusandpost-stopfiltercomparisonverified.",
+    "twoD": "Freshactualcorrected120sguidecompletedandendpointrecord1saved;earlier60.7spartialbeforejetgatingnotcounted. Setupjetpausedat0.2s,runningat26.3s,stoppedat100.9sinspection. Finalphysical200s:filter0.934417566mLwatercollected;3\u00b5m5mgpelleted. Per-size/methodinspection,camera-independentdiagram,representativeweightedmarkersand26.207\u00b5msolid-layer-rulermagnifierwork. Replayfromfilter/6\u00b5mreturnsboth/3\u00b5mat0.3swithjetpaused.",
+    "threeD": "Freshactual120sguidecompletedandendpointrecord2saved. Balancedoppositecellsinsideclosedoutlinedlidwithlatches,slowedphysicalintegralangle/500,selected-sizeweightedradialmarkers,thinactualsolid-equivalentpellet/cake,andfilterliquid/markers. Selected1/3/6\u00b5mreadingscheckedwhileplaying. Pair/filter/radialcellinspection,orbit\u00b1zoom\u00b1resetlabelswork. Replayfromcell/6\u00b5m/zoomreturnspair/3\u00b5mat0.3s. Camera/detailviewsareinspectiondiagrams,nophysicalspinninglidopens.",
+    "responsive": "120initial/collected\u00d72modes\u00d73inspectionviews\u00d72formats\u00d75widths320/390/820/1280/1920cases nooverflow/fallback/zero-size/clippedcanvas.48theatrecases568\u00d7320,844\u00d7390,1024\u00d7768,1920\u00d71080bothmodes/allscopes/formats pass. Shortphonecanvas142pximprovedto230pxwithsidereadouts;24affectedshortcasesretested. Dark390\u00d7844portraitcellmagnifiertested;duplicatedcaptionhelpremovedandcaptioncompactonlyphone,theatrecanvas254.6pxafterrefinement. Essentialmodelassumptionsremaininnativereadings. Keyboardprep-table28\u219280px.",
+    "practicalRecord": "16actualGUItrials:full2D/3Dendpoints,initial/fullspeed/later720s,zeroRPM,min/maxallcontrols,100rpmzero-hold,screen1/8,viscosity3,density2000,inner6/10atfullspeed,andmaxreferenceRecorner.15prep/17summary/13per-sizecolumns,33workedblockspertrial. ActualfinalHTMLdownloadindependentlyvalidated1887numeric/textchecksand528workedblockswithPython,noappimports. ExactindependentinputJSON,safeescaping,note6withmarkupretained.16/16/48tablerows,plan/conclusion/note6persistreload. ActualClass6Readytoexplorecardreturnopens85andrestores16observations.",
+    "runtime": "Browsererror/warninglogempty. No guardsrelaxed. OneCUAscriptparseerrorfixedbeforeexecution,no repeatedmutations. npmnotinstalledatbundledPATH;usedexistingdirectNodeTypeScript/Vitetools,finalbothpass. Largechunkadvisoryretained.",
+    "sources": "Originaldilute-capillaryandconstant-arearadialreference;privateprimaryBeckmanbackgroundrecordedinmodel-plan.md. Noofficialboardchaptermappingorcommercialdevice/calibrationclaim."
+  },
+  "reviewScope": "Internal numerical,functional andbrowserviewport engineeringreview only;notindependentexpertcertification,officialcurriculummapping,physicaldevice/printer/FPS/nativegestureverification. Filterfeedwellmixed,geometricopeningcutoff,chosenporosity/pathfactor/thicknessandwater-onlyhydraulichead.No blocking,adsorption/depthcapture. RadialStokesadvectionomitsdiffusion,hinderedsettling,transversegravity(includingzero/lowrpm),secondaryflow,counterflowandfinitepelletboundaryfeedback. Low/zeroRPMoutputsarenotpredictionsofordinarysettling. Waterretainednotdecanted;solid-equivalentpellet/cakeisnotwetpackingorpurity. Markersweighted/enlarged,notliteralparticlecounts. Rotorangle500\u00d7slowed;physicalmodelusesintegratedsquaredspeed. Fullguidesprecedefinalwordspacing/explicitheadlimitationandstaticphone/theatreCSSrefinements;scientificmotion/timingunchanged.",
+  "nativeGestureVerification": "unverified;accessible camera controls exercised",
+  "sourceHashes": {
+    "src/lib/chemistry/filtrationCentrifugation.ts": "c23b9ac398efedc98260e0d841d65df54b1f5b04d3ff42ad86cb7c7b964d9e39",
+    "src/lib/chemistry/filtrationCentrifugationRecord.ts": "8a13023f9aa93bd2dd30da82a1f8a11a20ab86746a214b408dafafaa8fb35e01",
+    "src/lib/chemistry/separationPairGeometry.ts": "ff336cce0d70006209e9902a3075a41b45cb39134b7fd067d4273aec1ec60500",
+    "src/components/chemistry/SeparationPairLab.tsx": "51dcd1761744176148943b55e2ce0fac9be5b8d3e8341f8403df67b94254f0b8",
+    "src/components/chemistry/SeparationPairDiagram.tsx": "03aa1a0a555d88ac3abe56f67eb360523fe5d28663a4489176ff8ccae4ee29a7",
+    "src/components/chemistry/SeparationPairScene.tsx": "0fafaeb94f18322f97a4b8ebc389ca66389772773d63392f1e291d003d86f693",
+    "src/components/chemistry/SeparationPairReadings.tsx": "fb31b3d723013b2a79a79cf0cc494da07649d1b351c5d1f1d7bf07e1bcdd7061",
+    "src/components/chemistry/separationPair.css": "822d5d6cce696ca662783e70e21f7491c56ef7d6c9e6aecab4296fc2299b9278",
+    "tests/chemistry-filtration-centrifugation.test.mjs": "5fc706ff24b31303d970e81a1fc744615d1641a6a936db2572bbad6f6355d96b",
+    "scripts/chemistry/validate_separation_pair_report.py": "99f119d139ad25d100e6a92ab651615370f5f006f96b9fdff892bdb0ed20eb49",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

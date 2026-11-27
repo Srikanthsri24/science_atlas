@@ -1,0 +1,13 @@
+{
+  "paused": {
+    "reading": "Temperature probe30.6534 °CInitial 25 °C · rise 5.65339 KAcid delivered 37.6711 mL · remaining 12.3289 mLReaction and heatbase excessReacted 0.0376711 mol · released 2158.55 JSolution absorbs 2073.75 J · cup absorbs 84.8008 JThe mixture has warmed but unreacted analytical base remains.Analytical excess: acid 0 mol; base 0.0123289 mol. Equivalence needs 50 mL acid: reachable with this reservoir.Optional quantitative extensionSolution 87.6711 mL · mass 87.6711 g · total heat capacity 381.816 J/KSigned reaction heat -2158.55 J · energy residual -1.7053e-13 JCorrected reconstructed enthalpy: -57.3 kJ/mol. Solution-only apparent estimate: -55.0489 kJ/mol.The reconstructed value repeats the chosen model parameter;it is not an independent experimental measurement.",
+    "time": "61.2"
+  },
+  "manualScope": "probe",
+  "formatChanged": "portrait→landscape",
+  "viewport": {
+    "width": 820,
+    "height": 1080
+  },
+  "stable": true
+}

@@ -1,0 +1,37 @@
+{
+  "labId": "CL-0094",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "18science/geometry/report+2navigation20focusedPASS;full3143regressionPASS.31752preparation/addition states,1001independent charge-root comparisons,SI conversions,equivalence,zero doses,insufficient acid,dilution and conservative unresolved endpoint. Four separate control inventories,formal equivalents distinct from free ions. Cylindrical liquid-volume closure and capacity tests;deterministic flow and smooth approaches. FinalTypeScript84295exit0;Vite42607exit0/build38.06s.",
+    "twoD": "Actual guide started near0.0337 and observed reaching120s. Four separate reference wells,isolated reversal close-up,equivalent-amount chart. Applicators approach before symbolic flow,which tracks delivered amount. Corrected well labels and equivalents-chart text overlap before final408layout measurements. Colour is qualitative;hatching means unresolved,not a predicted grey dye.",
+    "threeD": "Actual guide started near0.173 and observed reaching120s. Original perforated reference plate,cylindrical wells with calculated-volume liquid heights,illustrative fibre texture,glass applicators,rubber bulbs and volume-driven symbolic flow. Simplified full-plate labels;single-well scopes hide other wells and tighten fibre framing. Orbit/zoom/reset,cutaway and labels exercised;direct native desktop drag and wheel zoom visibly verified.",
+    "responsive": "360normal final cases:reference initial,no-acid final,no-base final,insufficient-acid final,dilute unresolved base,maximum volumes/concentrations;6preparations x2modes x3scopes x2formats x5widths320/390/820/1280/1920.48maximum-preparation theatre cases x568x320/844x390/1024x768/1920x1080. Correct aspect ratios,nonzero media,no document overflow,SVG text clipping or SVG text overlaps. Dark phone portrait and light desktop inspected;normal/light/default viewport/landscape/reset restored. Viewport tests are not physical-device/FPS certification.",
+    "practicalRecord": "16actualGUI trials/64well records in downloaded-practical.html;4tables and130worked blocks/trial. Independent Python log-space charge bisection verifies8668table/numericoperand/result checks and2080blocksPASS. Synthetic10trials/40well records5416checks1300blocksPASS. Inputs retained exactly,derived values recomputed,HTML-safe plan/conclusion/note8 and16observations survive reload. Last-record result distinct from live input. Includes numerical equivalence and acid-excess yellow outcomes without inferring exactneutrality from hue.",
+    "runtime": "Paused36s applicator transforms and3flow coordinates identical across theatre resize;resume exercised. Native desktop Chrome direct-tab drag800,600to950,640 visibly orbited scene;wheel-up at1000,650 visibly zoomed;reset afterward. Final browser warn/error log empty.16observations retained.146original staged blobs unchanged;noGitmutation,nextpush100reviewed.",
+    "sources": "PrimaryACS turmeric activity supports broad acid/neutral-yellow versus basic-red/orange and warns against assuming arbitrary turmeric dissolves in water. OpenStax2e4.2neutralization and priorUBCwater equilibrium verified privately. Selected strong monovalent references,not all household acids/bases. No exact measured transition,pigmentpKa,RGB calibration or kinetics claimed;official curriculum mapping remains pending. Company-only product references."
+  },
+  "reviewScope": "Internal numerical,functional,browser viewport and limited desktop native-input review only;not independent expert,official-board,all-device,FPS,touch,right-button-pan or printer certification. Prepared trace-indicator ideal25\u00b0C HCl/NaOH references,complete dissociation,additive volumes,chosenKw1e-14(mol/L)^2,instant mixing and negligible indicator loading. No substrate buffering,indicator concentration,solvent effects,activities,degradation,CO2uptake,evaporation,heating,absorption or measured kinetics. Numerical tie tolerance is not experimental uncertainty. Basic unresolved region is an explicitly conservative policy,not an exact measured turmeric transition. Yellow cannot distinguish acid,water and equivalent references. Fibre and flow are illustrative;cutaway does not create physical leaks.",
+  "nativeGestureVerification": "passed desktop Chrome direct-tab left-drag orbit and wheel zoom;touch and right-button pan unverified",
+  "sourceHashes": {
+    "src/lib/chemistry/turmericTests.ts": "1642f9bb62ae183959fde45acc39a2ba5290368b8a5e39062375d0da63179c6c",
+    "src/lib/chemistry/turmericTestsRecord.ts": "f4a3112d35770dcaa339f09b0784142ed4f262dbe6051c007aa0589705fe7003",
+    "src/lib/chemistry/turmericTestsGeometry.ts": "997160ab106fdca75479297389b506b2324e06d42a905fabe08b3ef57046d022",
+    "src/components/chemistry/TurmericTestsLab.tsx": "d5b2c4ea3d4517bebd692c6a39605cfb4ec5c5ebfbf12ba9396b2397f3743edf",
+    "src/components/chemistry/TurmericTestsDiagram.tsx": "1aea3c376dd35c3227cc719016da320fb4c3bded2255956fb2e5efba33b81ba2",
+    "src/components/chemistry/TurmericTestsScene.tsx": "b49eaa01aa04532380e03302ac265e97089d66342c7cdc3370e5acc77e409ba7",
+    "src/components/chemistry/TurmericTestsReadings.tsx": "a80e14f381a0e558b5fad4edccb8189dd22aa936b2b9fa06ca3d249853b1cb8b",
+    "src/components/chemistry/turmericTests.css": "792ef9858b804548c643611d9a4bcbfcc8b517fc319d93ce85726014986ead04",
+    "tests/chemistry-turmeric-tests.test.mjs": "9b220ae0c2c67d580542daa50be08b639d353b81a56f42c76188a483edfebccb",
+    "scripts/chemistry/validate_turmeric_tests_report.py": "8c0f141153c0356d931d5e93e2704356aa0ec85c915907641e868afcbd1bbcdc",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5"
+  }
+}

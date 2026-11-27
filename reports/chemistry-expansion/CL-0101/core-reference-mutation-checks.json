@@ -1,0 +1,22 @@
+[
+  {
+    "field": "hMolL",
+    "rejected": true
+  },
+  {
+    "field": "pH",
+    "rejected": true
+  },
+  {
+    "field": "formalMol",
+    "rejected": true
+  },
+  {
+    "field": "waterG",
+    "rejected": true
+  },
+  {
+    "field": "sodiumMol",
+    "rejected": true
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "labId": "CL-0100",
+  "status": "passed_internal_functional_review",
+  "completedEvidence": [
+    "model/reference/geometry",
+    "120second2Dand3Dguides",
+    "560normal56theatrelayouts",
+    "13actualnotebooktrials559workedresults3016independentnumericchecks",
+    "persistence/safeHTML",
+    "3230regressiontests",
+    "TypeScript/build",
+    "native left drag and wheel with unchanged science readings/time"
+  ],
+  "unverified": [],
+  "scope": "Noindependentexpert,officialboard,physicalall-device,touch,FPSorprintercertification"
+}

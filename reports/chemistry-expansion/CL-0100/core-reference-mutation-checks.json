@@ -1,0 +1,18 @@
+[
+  {
+    "field": "gasStoredMl",
+    "rejected": true
+  },
+  {
+    "field": "acidAqueousCarbonMol",
+    "rejected": true
+  },
+  {
+    "field": "dissolvedCaMol",
+    "rejected": true
+  },
+  {
+    "field": "finalTrackedG",
+    "rejected": true
+  }
+]

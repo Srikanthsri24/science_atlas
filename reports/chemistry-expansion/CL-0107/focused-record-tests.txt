@@ -1,0 +1,30 @@
+✔ saltwater preparations reject coercion, unsupported properties and invalid dilute extrapolation (3.401162ms)
+✔ mass percent, mL, m3, molarity and molality use distinct units and correct final-solution denominators (35.932238ms)
+✔ dilute conductivity uses the selected limiting molar conductivity plus nonzero water background (0.554372ms)
+✔ entered conductivity and density are independent supplied properties, not falsely predicted from broad salt percentage (0.515388ms)
+✔ SI resistance and current-density accounts obey Ohm geometry without treating the driving drop as a full cell model (0.257069ms)
+✔ oxygen ceiling includes cathodic reduction and further FeII oxidation, not just the primary circuit (0.24525ms)
+✔ zero drive, zero selected fraction and zero oxygen produce no charge or invented product (0.430202ms)
+✔ initial current is distinct from undefined time averages at the initial observation (0.181731ms)
+✔ after metal exhaustion charge and oxygen stop accumulating while average and instantaneous currents remain distinct (0.334642ms)
+✔ open carrier-system conservation explicitly includes replenished oxygen and hydration water (0.60297ms)
+✔ edge-masked coupon geometry preserves metal volume and constant exposed face area (0.435126ms)
+✔ equal solutions are symmetric while oxygen limitation prevents a universal salt-only rate ranking (0.270429ms)
+✔ default seven-day reference changes meaningfully across the90second guide without exhausting either coupon (0.784324ms)
+✔ supported low positive inputs retain trace conversion and keep all numeric outputs finite (0.196321ms)
+✔ both exposed coupon faces fit inside every prepared bath and retain the exact metal volume (3.424383ms)
+✔ prepared bath reference level does not invent an evolving rust density or product displacement (0.509452ms)
+✔ watch transfer phases follow accounted charge, freeze deterministically and stop in zero-current controls (1.67976ms)
+✔ cumulative-loss histories include finite-metal exhaustion knots, remain ordered and preserve plateaus (3.437846ms)
+✔ saltwater notebook persists source inputs and bounded writing without accepting counterfeit derived results (0.475776ms)
+✔ all65 cell numeric quantities and three comparisons have unique complete substituted workings (3.777146ms)
+✔ split observation tables preserve all cell evidence and have consistent headers and row widths (1.001843ms)
+✔ exam report escapes student HTML, includes all ten tables and round-trips exact source JSON (2.02187ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 575.194625

@@ -1,0 +1,27 @@
+{
+  "labId": "CL-0105",
+  "status": "incomplete_native_interaction_check",
+  "completedEvidence": [
+    "17 focused model/notebook tests passed; 19 with catalogue navigation",
+    "222 core cases and 13764 independent field checks passed",
+    "17 synthetic report trials; 1003 results and 4412 numeric checks passed",
+    "Five independent report mutations rejected, including tiny oxide erasure",
+    "Actual 2D playback .214 to 120 seconds; 3D .0381 to 120 seconds",
+    "Actual cooling preserved MgO while restoring initial water phase amounts",
+    "48 normal and 48 final theatre layouts passed page-width and nonzero-view checks across 390, 768, 1366 and 1920 widths",
+    "Actual exported seven-trial report: 413 worked results and 1819 independent numeric checks passed",
+    "Literal HTML observation note persisted after reload",
+    "Final full regression: 3311 passed, zero failed",
+    "Viewer controls styled for dark-stage contrast; portrait 3D stations stacked with readable mass overlay",
+    "Button invocations for orbit, zoom, cutaway, labels and reset produced no console errors",
+    "Final TypeScript passed with empty output; production build passed in 12.30 seconds",
+    "Dark 390px portrait theatre screenshot visually reviewed",
+    "Paused 3D clock and live readings stayed identical through390px resize",
+    "All five range inputs reached Home/End boundaries with matching React-rendered labels",
+    "Cropped apparatus screenshots changed for orbit left/right, zoom in/out, cutaway, labels and reset; final rendering visually reviewed"
+  ],
+  "unverified": [
+    "Native left drag and wheel on CL-0105; native API still reports Mac locked"
+  ],
+  "scope": "Internal implementation checks only; no independent expert, official board, physical all-device, touch, FPS or printer certification."
+}

@@ -1,0 +1,21 @@
+✔ speed ramp exposure and angle match independent quadrature at all phase boundaries (22.438447ms)
+✔ radial particle trajectories match independently integrated Stokes ODE through speed ramps (69.021328ms)
+✔ finite uniform population capture and concentration profiles reproduce each size inventory (24.727943ms)
+✔ falling-head filter volumes agree with independent capillary force balance integration (29.842207ms)
+✔ all corner preparations conserve water and each particle size in both methods (15.385162ms)
+✔ size cutoff differs from centrifugal recovery and empty receiver concentration is undefined (0.670832ms)
+✔ sedimentation scales with diameter squared,density contrast and inverse viscosity;radius sets RCF (0.624996ms)
+✔ clearance times reproduce the threshold and stopped programs retain subsequent results (1.25892ms)
+✔ 120second guide preserves chosen conditions and shows incomplete low-speed results honestly (1.469171ms)
+✔ practical tables align with headers and retain only validated independent inputs (5.322465ms)
+✔ exam report escapes notes and preserves exact boundary inputs in safe JSON (3.181285ms)
+✔ weighted transport markers close each continuum compartment even across partly captured bins (8.269363ms)
+✔ apparatus geometry represents actual mixture and solid-equivalent volumes without an inflated pellet (3.262103ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 787.398143
