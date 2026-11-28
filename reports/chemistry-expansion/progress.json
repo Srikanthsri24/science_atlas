@@ -148,8 +148,8 @@
     "12": 38
   },
   "completionRule": "Every listed investigation requires implemented, tested 2D and 3D interactions, appropriate animation of at least 60 seconds, responsive review and a working practical record/report. Listing a title or reusing a decorative animation does not count as completion.",
-  "lastPublishedBatch": 100,
-  "lastPublishedCommit": "3f76b9e79f0eea875582786294f62f57d6ed0d7c",
-  "lastDeploymentRun": 46005917871,
-  "nextPublishMilestone": 125
+  "lastPublishedBatch": 125,
+  "lastPublishedCommit": "a7d26d81ef8ad51360f5d3684a7d487c1a192dc2",
+  "lastDeploymentRun": 46119453734,
+  "nextPublishMilestone": 150
 }
