@@ -1,0 +1,19 @@
+✔ every known isotope has separated nuclear sites and exact target shell slots (22.391347ms)
+✔ token transfer preserves placed/tray/transit inventory and reaches every target without inventing orbits (75.466745ms)
+✔ paused diagram geometry is deterministic and transfer boundaries are continuous (3.275253ms)
+✔ verified H–Ar reference configurations aggregate to the stated shell counts and neutral electron totals (2.426579ms)
+✔ all supported isotope constructions count nucleons, fill neutral slots and balance charge (1.092936ms)
+✔ every admissible partial token count preserves target inventory and never invents an identified ion (141.728205ms)
+✔ an empty balanced token diagram is not a completed neutral atom (0.215513ms)
+✔ isotope and element comparisons distinguish changed neutron counts from changed atomic number (0.409711ms)
+✔ charge calculation keeps coulomb and elementary-charge counts distinct (0.176594ms)
+✔ 150second guide has bounded integer construction counts and ends each target correctly (2.161361ms)
+✔ unknown isotopes, fractional tokens and excess target counts are rejected (0.464736ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 737.545775

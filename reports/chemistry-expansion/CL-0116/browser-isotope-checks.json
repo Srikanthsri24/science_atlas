@@ -1,0 +1,306 @@
+[
+  {
+    "element": 1,
+    "isotope": "H-1",
+    "label": "H-1 formal bookkeeping: 1 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -1,
+    "tokens": 21
+  },
+  {
+    "element": 1,
+    "isotope": "H-2",
+    "label": "H-2 formal bookkeeping: 1 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -1,
+    "tokens": 21
+  },
+  {
+    "element": 2,
+    "isotope": "He-3",
+    "label": "He-3 formal bookkeeping: 2 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -2,
+    "tokens": 22
+  },
+  {
+    "element": 2,
+    "isotope": "He-4",
+    "label": "He-4 formal bookkeeping: 2 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -2,
+    "tokens": 22
+  },
+  {
+    "element": 3,
+    "isotope": "Li-6",
+    "label": "Li-6 formal bookkeeping: 3 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 23
+  },
+  {
+    "element": 3,
+    "isotope": "Li-7",
+    "label": "Li-7 formal bookkeeping: 3 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 23
+  },
+  {
+    "element": 4,
+    "isotope": "Be-9",
+    "label": "Be-9 formal bookkeeping: 4 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 24
+  },
+  {
+    "element": 5,
+    "isotope": "B-10",
+    "label": "B-10 formal bookkeeping: 5 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 25
+  },
+  {
+    "element": 5,
+    "isotope": "B-11",
+    "label": "B-11 formal bookkeeping: 5 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 25
+  },
+  {
+    "element": 6,
+    "isotope": "C-12",
+    "label": "C-12 formal bookkeeping: 6 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 26
+  },
+  {
+    "element": 6,
+    "isotope": "C-13",
+    "label": "C-13 formal bookkeeping: 6 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 26
+  },
+  {
+    "element": 7,
+    "isotope": "N-14",
+    "label": "N-14 formal bookkeeping: 7 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 27
+  },
+  {
+    "element": 7,
+    "isotope": "N-15",
+    "label": "N-15 formal bookkeeping: 7 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 27
+  },
+  {
+    "element": 8,
+    "isotope": "O-16",
+    "label": "O-16 formal bookkeeping: 8 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 28
+  },
+  {
+    "element": 8,
+    "isotope": "O-17",
+    "label": "O-17 formal bookkeeping: 8 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 28
+  },
+  {
+    "element": 8,
+    "isotope": "O-18",
+    "label": "O-18 formal bookkeeping: 8 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 28
+  },
+  {
+    "element": 9,
+    "isotope": "F-19",
+    "label": "F-19 formal bookkeeping: 9 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 29
+  },
+  {
+    "element": 10,
+    "isotope": "Ne-20",
+    "label": "Ne-20 formal bookkeeping: 10 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 30
+  },
+  {
+    "element": 10,
+    "isotope": "Ne-21",
+    "label": "Ne-21 formal bookkeeping: 10 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 30
+  },
+  {
+    "element": 10,
+    "isotope": "Ne-22",
+    "label": "Ne-22 formal bookkeeping: 10 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 30
+  },
+  {
+    "element": 11,
+    "isotope": "Na-23",
+    "label": "Na-23 formal bookkeeping: 11 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 31
+  },
+  {
+    "element": 12,
+    "isotope": "Mg-24",
+    "label": "Mg-24 formal bookkeeping: 12 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 32
+  },
+  {
+    "element": 12,
+    "isotope": "Mg-25",
+    "label": "Mg-25 formal bookkeeping: 12 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 32
+  },
+  {
+    "element": 12,
+    "isotope": "Mg-26",
+    "label": "Mg-26 formal bookkeeping: 12 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 32
+  },
+  {
+    "element": 13,
+    "isotope": "Al-27",
+    "label": "Al-27 formal bookkeeping: 13 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 33
+  },
+  {
+    "element": 14,
+    "isotope": "Si-28",
+    "label": "Si-28 formal bookkeeping: 14 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 34
+  },
+  {
+    "element": 14,
+    "isotope": "Si-29",
+    "label": "Si-29 formal bookkeeping: 14 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 34
+  },
+  {
+    "element": 14,
+    "isotope": "Si-30",
+    "label": "Si-30 formal bookkeeping: 14 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 34
+  },
+  {
+    "element": 15,
+    "isotope": "P-31",
+    "label": "P-31 formal bookkeeping: 15 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 35
+  },
+  {
+    "element": 16,
+    "isotope": "S-32",
+    "label": "S-32 formal bookkeeping: 16 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 36
+  },
+  {
+    "element": 16,
+    "isotope": "S-33",
+    "label": "S-33 formal bookkeeping: 16 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 36
+  },
+  {
+    "element": 16,
+    "isotope": "S-34",
+    "label": "S-34 formal bookkeeping: 16 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 36
+  },
+  {
+    "element": 16,
+    "isotope": "S-36",
+    "label": "S-36 formal bookkeeping: 16 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 36
+  },
+  {
+    "element": 17,
+    "isotope": "Cl-35",
+    "label": "Cl-35 formal bookkeeping: 17 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 37
+  },
+  {
+    "element": 17,
+    "isotope": "Cl-37",
+    "label": "Cl-37 formal bookkeeping: 17 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 37
+  },
+  {
+    "element": 18,
+    "isotope": "Ar-36",
+    "label": "Ar-36 formal bookkeeping: 18 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 38
+  },
+  {
+    "element": 18,
+    "isotope": "Ar-38",
+    "label": "Ar-38 formal bookkeeping: 18 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 38
+  },
+  {
+    "element": 18,
+    "isotope": "Ar-40",
+    "label": "Ar-40 formal bookkeeping: 18 atomic electrons, 20 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "max": 3,
+    "min": -3,
+    "tokens": 38
+  }
+]

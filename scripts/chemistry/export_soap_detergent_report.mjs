@@ -1,0 +1,5 @@
+import{writeFileSync}from'node:fs';import{loadTs}from'../../tests/load-ts.mjs';
+const m=await loadTs('src/lib/chemistry/soapDetergent.ts'),r=await loadTs('src/lib/chemistry/soapDetergentRecord.ts'),trials=[];
+for(const matching of['molar','mass'])for(const deliveredMl of[0,6,15,20])trials.push({...m.defaultSoapDetergent,matching,deliveredMl,agitationCycles:30,note:'Synthetic reference, not a measured experiment.'});
+trials.push({...m.defaultSoapDetergent,sampleMl:20,soapMolL:.05,deliveredMl:20,agitationCycles:30,matching:'mass',note:'Compare with reference CMC range; this does not predict the mixture CMC.'});
+writeFileSync('reports/chemistry-expansion/CL-0110/reference-practical.html',r.soapDetergentReport({plan:'Compare sodium oleate and a selected neutral detergent in soft and hard water. Distinguish equal-molar from equal-solute-mass dose matching.',conclusion:'In this ideal reference the soap channel consumes oleate and divalent ions. The selected neutral detergent does not remove the hardness ions through that channel. Availability is not a measured cleansing efficiency.',trials}));console.log(trials.length,'synthetic practical trials exported');

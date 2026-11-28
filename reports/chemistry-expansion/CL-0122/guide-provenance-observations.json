@@ -1,0 +1,22 @@
+[
+  {
+    "time": 55,
+    "row": "16\t1 A × 85.7142857143 s (connected)\t1\tYes\t2\t30\t4\t5\t55\tGuided snapshot before verification\t"
+  },
+  {
+    "time": 80,
+    "row": "17\t1 A × 300 s (connected)\t1\tYes\t2\t30\t4\t5\t80\tGuided snapshot before verification\t"
+  },
+  {
+    "time": 139.9,
+    "row": "18\t1 A × 600 s (connected)\t1\tNo\t2\t30\t4\t5\t139.9\tGuided snapshot before verification\t"
+  },
+  {
+    "time": 140,
+    "row": "19\t1 A × 600 s (connected)\t1\tNo\t2\t30\t4\t5\t140\tVerified guided reference\t"
+  },
+  {
+    "time": 150,
+    "row": "20\t1 A × 600 s (connected)\t1\tNo\t2\t30\t4\t5\t150\tVerified guided reference\t"
+  }
+]

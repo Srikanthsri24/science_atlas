@@ -1,0 +1,5042 @@
+[
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1043.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1043.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1043.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1043.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1043.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1471.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1471.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1471.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1471.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1471.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 845.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 418.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 199,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 418.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 199,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 418.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 199,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 418.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 199,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 418.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 199,
+      "width": 390
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 683,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 199,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 683,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 199,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 683,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 199,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 683,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 199,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 683,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 199,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 675.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 349.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 675.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 349.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 675.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 349.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 675.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 349.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 675.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 349.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1149.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 349.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1149.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 349.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1149.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 349.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1149.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 349.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1149.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 349.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 636.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 352.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 636.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 352.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 636.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 352.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 636.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 352.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 636.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 352.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1152.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 352.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1152.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 352.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1152.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 352.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1152.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 352.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1152.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 352.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1357.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 557.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1357.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 557.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1357.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 557.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1357.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 557.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1357.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 557.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1363.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 563.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1363.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 563.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1363.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 563.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1363.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 563.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1363.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 563.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1325.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 525.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1325.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 525.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1325.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 525.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1325.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 525.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1325.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 525.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1078.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1078.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1078.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1078.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1078.234375,
+      "height": 198,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1506.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1506.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1506.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1506.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1506.0078125,
+      "height": 625.7734375,
+      "left": 19,
+      "right": 371,
+      "top": 880.234375,
+      "width": 352
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 453.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 234,
+      "width": 390
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 453.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 234,
+      "width": 390
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 453.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 234,
+      "width": 390
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 453.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 234,
+      "width": 390
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 453.375,
+      "height": 219.375,
+      "left": 0,
+      "right": 390,
+      "top": 234,
+      "width": 390
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 718,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 234,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 718,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 234,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 718,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 234,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 718,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 234,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 718,
+      "height": 484,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 234,
+      "width": 272.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 710.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 384.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 710.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 384.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 710.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 384.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 710.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 384.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 710.9609375,
+      "height": 326.25,
+      "left": 237,
+      "right": 817,
+      "top": 384.7109375,
+      "width": 580
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1184.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 384.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1184.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 384.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1184.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 384.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1184.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 384.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1184.7109375,
+      "height": 800,
+      "left": 302,
+      "right": 752,
+      "top": 384.7109375,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 262,
+      "right": 582,
+      "top": 123,
+      "width": 320
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 303,
+      "height": 180,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123,
+      "width": 101.25
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 671.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 387.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 671.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 387.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 671.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 387.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 671.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 387.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 671.1015625,
+      "height": 283.5,
+      "left": 237,
+      "right": 741,
+      "top": 387.6015625,
+      "width": 504
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1187.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 387.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1187.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 387.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1187.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 387.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1187.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 387.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1187.6015625,
+      "height": 800,
+      "left": 264,
+      "right": 714,
+      "top": 387.6015625,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 571,
+      "height": 432,
+      "left": 0,
+      "right": 768,
+      "top": 139,
+      "width": 768
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 803,
+      "height": 664,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139,
+      "width": 373.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 985.21875,
+      "height": 427.5,
+      "left": 237,
+      "right": 997,
+      "top": 557.71875,
+      "width": 760
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1392.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 592.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1392.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 592.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1392.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 592.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1392.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 592.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1392.71875,
+      "height": 800,
+      "left": 392,
+      "right": 842,
+      "top": 592.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 149.3359375,
+      "right": 874.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 397.25,
+      "right": 626.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 987.28125,
+      "height": 423.5625,
+      "left": 289,
+      "right": 1042,
+      "top": 563.71875,
+      "width": 753
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1398.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 598.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1398.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 598.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1398.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 598.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1398.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 598.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1398.71875,
+      "height": 800,
+      "left": 440.5,
+      "right": 890.5,
+      "top": 598.71875,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 546.9921875,
+      "height": 407.9921875,
+      "left": 320.3359375,
+      "right": 1045.6640625,
+      "top": 139,
+      "width": 725.328125
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 547,
+      "height": 408,
+      "left": 568.25,
+      "right": 797.75,
+      "top": 139,
+      "width": 229.5
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1208.765625,
+      "height": 683.4375,
+      "left": 335,
+      "right": 1550,
+      "top": 525.328125,
+      "width": 1215
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1360.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 560.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1360.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 560.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1360.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 560.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1360.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 560.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 1360.328125,
+      "height": 800,
+      "left": 717.5,
+      "right": 1167.5,
+      "top": 560.328125,
+      "width": 450
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 320,
+      "right": 1600,
+      "top": 139,
+      "width": 1280
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "half-starch",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "glucose",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  },
+  {
+    "mode": "3D",
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 1,
+    "overflow": 0,
+    "textOutside": [],
+    "visual": {
+      "bottom": 859,
+      "height": 720,
+      "left": 757.5,
+      "right": 1162.5,
+      "top": 139,
+      "width": 405
+    }
+  }
+]

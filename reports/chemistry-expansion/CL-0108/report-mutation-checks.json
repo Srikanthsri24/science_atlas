@@ -1,0 +1,42 @@
+[
+  {
+    "mutation": "wrong-operator-same-operands",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-operand-hidden-by-zero-product",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-worked-mass-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-preparation-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-phase-current",
+    "rejected": true
+  },
+  {
+    "mutation": "broken-phase-end",
+    "rejected": true
+  },
+  {
+    "mutation": "erased-small-post-event-loss",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-detached-protective-charge",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-external-water",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-hydroxide-equivalent-unit",
+    "rejected": true
+  }
+]

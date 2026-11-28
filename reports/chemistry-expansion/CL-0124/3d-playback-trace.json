@@ -1,0 +1,23 @@
+[
+  {
+    "stocks": "Fe(s) + 2HCl(aq) → FeCl2(aq) + H2(g)0.05 mol acid remains · 0 mol dissolved metal · no-contact controlApparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "0.4"
+  },
+  {
+    "stocks": "Generated 0 mL = retained 0 + overflow 0 mLDry-equivalent collector at 308.15 K and 90000 Pa. Capacity remains available.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "38.3"
+  },
+  {
+    "stocks": "Generated 61.588 mL = retained 20 + overflow 41.588 mLDry-equivalent collector at 308.15 K and 90000 Pa. Ideal relief exports excess hydrogen.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "81.2"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPause and record the result. Check metal, acid-hydrogen, chlorine and solution charge. Conclude only within the selected dilute-HCl model; actual kinetics and competing chemistry are excluded.150-second explanation with a continuous extent sweep from45–105s. Display seconds are narration time, not laboratory kinetics. Bubble signs show hydrogen evolution schematically. Rewinding is reference inspection, not chemical reversal. Drag to orbit; scroll to zoom.",
+    "stocks": "Generated 101.95 mL = retained 20 + overflow 81.953 mLDry-equivalent collector at 308.15 K and 90000 Pa. Ideal relief exports excess hydrogen.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "150"
+  },
+  {
+    "stocks": "Generated 101.95 mL · retained 20 mL · overflow 81.953 mL (rounded)Dry-equivalent collector at 308.15 K and 90000 Pa. Ideal relief exports excess hydrogen.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "150"
+  }
+]

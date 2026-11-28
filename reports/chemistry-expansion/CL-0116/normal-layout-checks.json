@@ -1,0 +1,362 @@
+[
+  {
+    "format": "landscape",
+    "height": 800,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 322,
+    "width": 360,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 800,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 322,
+    "width": 360,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 352,
+    "width": 390,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 352,
+    "width": 390,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 580,
+    "width": 844,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 844,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 504,
+    "width": 768,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 768,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 753,
+    "width": 1366,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 1366,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 1215,
+    "width": 1920,
+    "mode": "2D"
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 1920,
+    "mode": "2D"
+  },
+  {
+    "format": "landscape",
+    "height": 800,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 322,
+    "width": 360,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 800,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 322,
+    "width": 360,
+    "mode": "3D"
+  },
+  {
+    "format": "landscape",
+    "height": 844,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 352,
+    "width": 390,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 844,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 352,
+    "width": 390,
+    "mode": "3D"
+  },
+  {
+    "format": "landscape",
+    "height": 390,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 580,
+    "width": 844,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 390,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 844,
+    "mode": "3D"
+  },
+  {
+    "format": "landscape",
+    "height": 1024,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 504,
+    "width": 768,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 1024,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 768,
+    "mode": "3D"
+  },
+  {
+    "format": "landscape",
+    "height": 768,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 753,
+    "width": 1366,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 768,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 1366,
+    "mode": "3D"
+  },
+  {
+    "format": "landscape",
+    "height": 1080,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 1215,
+    "width": 1920,
+    "mode": "3D"
+  },
+  {
+    "format": "portrait",
+    "height": 1080,
+    "injectedImages": 0,
+    "overflow": false,
+    "rows": [
+      4,
+      4,
+      12,
+      4
+    ],
+    "visualWidth": 450,
+    "width": 1920,
+    "mode": "3D"
+  }
+]

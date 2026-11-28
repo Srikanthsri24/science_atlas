@@ -1,0 +1,54 @@
+[
+  {
+    "corruption": "wrong-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-result-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-symbolic-formula",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-substitution-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-loading-operand",
+    "rejected": true
+  },
+  {
+    "corruption": "lost-trace-stable-operation",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-work",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-work",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-rinse-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-concentration-basis",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-tare-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-control-identity",
+    "rejected": true
+  },
+  {
+    "corruption": "false-nonzero-component",
+    "rejected": true
+  }
+]

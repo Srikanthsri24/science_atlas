@@ -1,0 +1,19 @@
+✔ reference units preserve molality and do not confuse S/m S/cm and microS/cm (3.526514ms)
+✔ ideal parallel-plate cell recovers conductivity from independent geometry and RMS values (0.523009ms)
+✔ geometry changes conductance without changing intrinsic assigned solution conductivity (0.555373ms)
+✔ open dry and zero-excitation controls show unavailable readings rather than falsely zero conductivity (0.641801ms)
+✔ AC signs reverse both ionic carriers and external electrons correctly (5.278302ms)
+✔ all sample and geometry corners retain finite valid inversions including the water background (18.081402ms)
+✔ nonelectrolyte assumption and matched comparison are explicit rather than inventing measured chemistry (0.576591ms)
+✔ guide times and unavailable controls remain honest throughout the150second sequence (0.789683ms)
+✔ invalid source and sample values are rejected without coercion (1.02168ms)
+✔ geometry demonstration changes the gap even at both allowed bounds (0.592538ms)
+✔ water and sucrose starting selections still receive a defined KCl comparison then return to their selected reference (0.332773ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 844.473783

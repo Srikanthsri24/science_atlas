@@ -1,0 +1,21 @@
+{
+  "rejectedCorruptions": 16,
+  "checks": [
+    "volume unit changed",
+    "left pH fabricated",
+    "manual snapshot falsely verified",
+    "guide time forged",
+    "acid stoichiometry changed",
+    "neutral pool formula replaced by molecular carbonic acid",
+    "positive copper amount erased",
+    "tiny undelivered volume erased",
+    "delivered sodium not accounted",
+    "carbon atom account corrupted",
+    "bicarbonate amount erased",
+    "carbonate amount erased",
+    "right pH forced neutral",
+    "root replaced by unphysical hydrogen concentration",
+    "same-value extent loses operands",
+    "root coefficients lost"
+  ]
+}

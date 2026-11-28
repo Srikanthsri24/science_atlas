@@ -1,0 +1,21 @@
+{
+  "dragChanged": false,
+  "dragPreservedValues": true,
+  "wheelChanged": true,
+  "wheelPreservedValues": true,
+  "time": "120",
+  "initialBounds": {
+    "height": 637.9921875,
+    "width": 1134.21875,
+    "x": 328.890625,
+    "y": 139
+  },
+  "finalBounds": {
+    "height": 637.9921875,
+    "width": 1134.21875,
+    "x": 328.890625,
+    "y": 139
+  },
+  "dragRetryChanged": true,
+  "dragRetryPreservedValues": true
+}

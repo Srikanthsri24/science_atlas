@@ -1,0 +1,1386 @@
+{
+  "cases": [
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": true,
+      "clipped": [],
+      "overflow": false
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 320,
+      "height": 568,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 112.3",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 390,
+      "height": 844,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 112.06",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 111.42",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 844,
+      "height": 390,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 111.16",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 110.52",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 768,
+      "height": 1024,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 110.24",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 109.82",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 109.71",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 1366,
+      "height": 768,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 109.41",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "all",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": []
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "SOAP × SELECTED NEUTRAL DETERGENT",
+          "Soap / soft"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "soap-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "SOAP × SELECTED NEUTRAL DETERGENT",
+          "Soap / hard"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "SOAP × SELECTED NEUTRAL DETERGENT",
+          "Nonionic / soft"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "landscape",
+      "scope": "detergent-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "SOAP × SELECTED NEUTRAL DETERGENT",
+          "Nonionic / hard"
+        ],
+        [
+          "Hardness 108.94",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "all",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ],
+        [
+          "Hardness 108.84",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "soap-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-soft",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 0",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    },
+    {
+      "fmt": "portrait",
+      "scope": "detergent-hard",
+      "width": 1920,
+      "height": 1080,
+      "theatre": false,
+      "clipped": [],
+      "overflow": false,
+      "overlaps": [
+        [
+          "Hardness 108.54",
+          "mg/L as CaCO₃"
+        ]
+      ]
+    }
+  ],
+  "action": "Increase hardness/unit baseline gap and move single-sample title below the diagram header. Fresh checks required."
+}

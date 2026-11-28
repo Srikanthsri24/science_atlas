@@ -1,0 +1,44 @@
+[
+  {
+    "element": 1,
+    "gainDisabled": false,
+    "label": "H-1 formal bookkeeping: 0 atomic electrons, 21 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": true,
+    "target": -1
+  },
+  {
+    "element": 1,
+    "gainDisabled": true,
+    "label": "H-1 formal bookkeeping: 4 atomic electrons, 17 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": false,
+    "target": 3
+  },
+  {
+    "element": 8,
+    "gainDisabled": false,
+    "label": "O-16 formal bookkeeping: 5 atomic electrons, 23 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": true,
+    "target": -3
+  },
+  {
+    "element": 8,
+    "gainDisabled": true,
+    "label": "O-16 formal bookkeeping: 11 atomic electrons, 17 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": false,
+    "target": 3
+  },
+  {
+    "element": 18,
+    "gainDisabled": false,
+    "label": "Ar-36 formal bookkeeping: 15 atomic electrons, 23 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": true,
+    "target": -3
+  },
+  {
+    "element": 18,
+    "gainDisabled": true,
+    "label": "Ar-36 formal bookkeeping: 21 atomic electrons, 17 reservoir electrons and 0 travelling electron. Total charge 0.",
+    "loseDisabled": false,
+    "target": 3
+  }
+]

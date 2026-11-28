@@ -1,0 +1,734 @@
+[
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [
+      "Aqueous KCl reference"
+    ],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "panel": "Circuit apparatus",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "landscape",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "panel": "Inspect ions and hydration",
+    "format": "portrait",
+    "clippedText": [],
+    "overflow": false,
+    "rows": [
+      30,
+      30,
+      30
+    ],
+    "visual": true
+  }
+]

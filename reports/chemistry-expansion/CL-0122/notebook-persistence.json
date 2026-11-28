@@ -1,0 +1,12 @@
+{
+  "conclusion": "In the ideal soluble-anode model, anode loss equals cathode gain. Actual passed charge sets deposited mass; density and exposed area set average thickness.",
+  "images": 0,
+  "note": "<img src=x onerror=alert(1)> literal guide-endpoint observation",
+  "plan": "Compare connected and disconnected intervals, then test a finite copper anode and exposed-area changes. Keep each trial controlled.",
+  "rows": [
+    20,
+    20,
+    20,
+    20
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "width": 360,
+    "height": 800,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 337,
+    "fit": true,
+    "overflow": false,
+    "timeline": "104.8"
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 337,
+    "fit": true,
+    "overflow": false,
+    "timeline": "105.3"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 370.4453125,
+    "fit": true,
+    "overflow": false,
+    "timeline": "105.6"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 370.4453125,
+    "fit": true,
+    "overflow": false,
+    "timeline": "105.9"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 133,
+    "fit": true,
+    "overflow": false,
+    "timeline": "106.3"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 133,
+    "fit": true,
+    "overflow": false,
+    "timeline": "106.7"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 631.3125,
+    "fit": true,
+    "overflow": false,
+    "timeline": "106.9"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 631.3125,
+    "fit": true,
+    "overflow": false,
+    "timeline": "107.2"
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 386.984375,
+    "fit": true,
+    "overflow": false,
+    "timeline": "107.7"
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 386.984375,
+    "fit": true,
+    "overflow": false,
+    "timeline": "108.1"
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 673.046875,
+    "fit": true,
+    "overflow": false,
+    "timeline": "108.5"
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 673.046875,
+    "fit": true,
+    "overflow": false,
+    "timeline": "108.8"
+  }
+]

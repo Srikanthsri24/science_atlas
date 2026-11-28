@@ -1,0 +1,20 @@
+[
+  {
+    "mode": "molar",
+    "stocks": [
+      "Stock: 0.01 mol/L · 3.0445 g/L",
+      "Stock: 0.01 mol/L · 3.0445 g/L",
+      "Stock: 0.01 mol/L · 2.9237 g/L",
+      "Stock: 0.01 mol/L · 2.9237 g/L"
+    ]
+  },
+  {
+    "mode": "mass",
+    "stocks": [
+      "Stock: 0.01 mol/L · 3.0445 g/L",
+      "Stock: 0.01 mol/L · 3.0445 g/L",
+      "Stock: 0.010413 mol/L · 3.0445 g/L",
+      "Stock: 0.010413 mol/L · 3.0445 g/L"
+    ]
+  }
+]

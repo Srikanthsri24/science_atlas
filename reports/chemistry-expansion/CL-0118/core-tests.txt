@@ -1,0 +1,15 @@
+✔ conventional rock-salt box shares corners faces edges and interior correctly (4.93491ms)
+✔ larger boxes keep exact weights without mistaking raw boundary copies for a neutral cluster (1.838558ms)
+✔ all indexed sites have six physical bulk neighbours including distinct periodic images (101.072785ms)
+✔ whole molecular entities preserve atom ratios and have no links between groups (1.662474ms)
+✔ slice and layer separation are viewing operations and do not alter inventory (6.570393ms)
+✔ 150second guide animates inspection without changing composition or inventing property predictions (4.489608ms)
+✔ invalid boundaries identities and nonfinite values cannot enter the comparison (0.403729ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 761.564022

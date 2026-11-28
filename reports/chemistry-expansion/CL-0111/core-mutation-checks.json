@@ -1,0 +1,50 @@
+[
+  {
+    "field": "specimenLostG",
+    "rejected": true
+  },
+  {
+    "field": "remainingSpecimenG",
+    "rejected": true
+  },
+  {
+    "field": "generatedWaterG",
+    "rejected": true
+  },
+  {
+    "field": "carbonDioxideMol",
+    "rejected": true
+  },
+  {
+    "field": "capturedGasMl",
+    "rejected": true
+  },
+  {
+    "field": "escapedGasG",
+    "rejected": true
+  },
+  {
+    "field": "nitrateMol",
+    "rejected": true
+  },
+  {
+    "field": "remainingAcidMol",
+    "rejected": true
+  },
+  {
+    "field": "aqueousChargeResidualMol",
+    "rejected": true
+  },
+  {
+    "field": "materialResidualG",
+    "rejected": true
+  },
+  {
+    "field": "retainedAccountG",
+    "rejected": true
+  },
+  {
+    "field": "erased-small-positive-carbonate-conversion",
+    "rejected": true
+  }
+]

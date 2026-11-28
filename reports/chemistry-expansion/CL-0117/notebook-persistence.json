@@ -1,0 +1,13 @@
+{
+  "conclusion": "All completed references satisfy the selected duet/octet and conserved electron accounts. Connectivity and shape are distinct; this model is not a physical synthesis.",
+  "images": 0,
+  "note": "Keep <img src=x onerror=alert(1)> as literal observation text.",
+  "notebook": "Notebook: 9/40 snapshots · 237 worked calculations. ",
+  "plan": "Construct eight selected neutral Lewis references; predict shared pairs, nonbonding pairs and the total electron inventory.",
+  "rows": [
+    9,
+    26,
+    17,
+    9
+  ]
+}

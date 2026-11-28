@@ -1,0 +1,47 @@
+[
+  {
+    "ref": "kcl001",
+    "material": "solid",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl001",
+    "material": "solution",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n70.4115 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl001",
+    "material": "water",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0.00275 µA RMS\nReconstructed aqueous κ\n0.0000055 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl01",
+    "material": "solid",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl01",
+    "material": "solution",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n641.23 µA RMS\nReconstructed aqueous κ\n1.28246 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl01",
+    "material": "water",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0.00275 µA RMS\nReconstructed aqueous κ\n0.0000055 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl1",
+    "material": "solid",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl1",
+    "material": "solution",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n5431 µA RMS\nReconstructed aqueous κ\n10.862 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "ref": "kcl1",
+    "material": "water",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0.00275 µA RMS\nReconstructed aqueous κ\n0.0000055 S/m\nSolid conductivity\nNot measured"
+  }
+]

@@ -1,0 +1,25 @@
+✔ separate liquid levels track their own volumes including delivered alkali stock (6.176342ms)
+✔ normalized CuO grain volume follows stock and no-contact grains remain outside the acid (0.780441ms)
+✔ dosing signs represent liquid transfer even for zero-concentration water dilution control (3.608421ms)
+✔ carbon distribution accounts for all analytical carbon and zero-carbon control invents none (0.612967ms)
+✔ portrait stacks independent cells without changing any quantitative accounts or stroke bounds (2.229988ms)
+✔ four tables and44workings retain both independent station accounts and root/log calculations (6.190802ms)
+✔ Cu(II) pH remains unavailable while zero carbon retains undefined equivalence ratio (0.633893ms)
+✔ manual and guided provenance cannot forge initial volumes, controlled extents or review boundary (4.20193ms)
+✔ exam report escapes user prose and preserves canonical source inputs for independent audit (1.466637ms)
+✔ CuO consumes two acid equivalents and conserves copper plus chloride-balanced charge (2.447709ms)
+✔ finite acid and no-contact controls cannot manufacture dissolved copper (1.349196ms)
+✔ base delivery changes volume and retains undelivered stock rather than treating it as reacted (0.533652ms)
+✔ closed carbon shows acidic, bicarbonate and carbonate regions rather than an imposed fixed endpoint colour (0.670223ms)
+✔ zero-carbon controls distinguish pure water from sodium hydroxide and retain unavailable equivalence ratio (0.400665ms)
+✔ all offered corners preserve carbon, charge, water equilibrium and stock bounds (9.955301ms)
+✔ 150second guide stages a60second dual investigation sweep and rejects invalid controls (0.700817ms)
+✔ canonical decimal delivery controls preserve tiny positive undelivered stocks near completion (0.303862ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 645.169221

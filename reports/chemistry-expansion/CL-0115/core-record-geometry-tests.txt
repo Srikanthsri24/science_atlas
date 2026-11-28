@@ -1,0 +1,25 @@
+✔ every known isotope has separated nuclear sites and exact target shell slots (29.836223ms)
+✔ token transfer preserves placed/tray/transit inventory and reaches every target without inventing orbits (92.04399ms)
+✔ paused diagram geometry is deterministic and transfer boundaries are continuous (3.562016ms)
+✔ flat counting layout separates nuclear tokens and keeps both aspect-format token paths inside the diagram (241.75386ms)
+✔ portrait 3D trays stay below the nucleus and all token paths fit their declared camera bounds (31.501849ms)
+✔ neutral model notebook contains four complete observation tables and forty worked calculations (2.922703ms)
+✔ worked calculations distinguish target nucleons, current tokens and charge units (5.248415ms)
+✔ report escapes student text and original inputs round-trip without accepting computed results (3.666188ms)
+✔ only complete supported neutral constructions can be saved (0.688833ms)
+✔ verified H–Ar reference configurations aggregate to the stated shell counts and neutral electron totals (2.985085ms)
+✔ all supported isotope constructions count nucleons, fill neutral slots and balance charge (1.17642ms)
+✔ every admissible partial token count preserves target inventory and never invents an identified ion (174.856213ms)
+✔ an empty balanced token diagram is not a completed neutral atom (0.244042ms)
+✔ isotope and element comparisons distinguish changed neutron counts from changed atomic number (0.439653ms)
+✔ charge calculation keeps coulomb and elementary-charge counts distinct (0.179438ms)
+✔ 150second guide has bounded integer construction counts and ends each target correctly (2.419524ms)
+✔ unknown isotopes, fractional tokens and excess target counts are rejected (0.438461ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1116.767695

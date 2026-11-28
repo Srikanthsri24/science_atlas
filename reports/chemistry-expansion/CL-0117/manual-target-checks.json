@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Hydrogen construction: 2/2 atoms placed, 1 shared pairs, 0 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "H2"
+  },
+  {
+    "label": "Chlorine construction: 2/2 atoms placed, 1 shared pairs, 6 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "Cl2"
+  },
+  {
+    "label": "Hydrogen chloride construction: 2/2 atoms placed, 1 shared pairs, 3 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "HCl"
+  },
+  {
+    "label": "Water construction: 3/3 atoms placed, 2 shared pairs, 2 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "H2O"
+  },
+  {
+    "label": "Ammonia construction: 4/4 atoms placed, 3 shared pairs, 1 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "NH3"
+  },
+  {
+    "label": "Methane construction: 5/5 atoms placed, 4 shared pairs, 0 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "CH4"
+  },
+  {
+    "label": "Nitrogen construction: 2/2 atoms placed, 3 shared pairs, 2 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "N2"
+  },
+  {
+    "label": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 4 lone pairs. Electron residual 0. Completed selected Lewis reference.",
+    "target": "CO2"
+  }
+]

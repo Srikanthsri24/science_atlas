@@ -1,0 +1,48 @@
+{
+  "labId": "CL-0101",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "core-reference-validation.txt: PASS 162 cases; 15390 independent numeric checks; reference-record-validation.txt: PASS {\"trials\": 13, \"workedResults\": 1456, \"numericChecks\": 6883}",
+    "twoD": "Actual complete 120-second playback and state consistency verified; details and responsive checks retained in review-audit.json.",
+    "threeD": "Actual complete 120-second playback and viewer controls checked. Native left drag/wheel now verified with changed rendered screenshots and unchanged scientific readings/time; evidence native-interaction.json and native screenshots.",
+    "responsive": "See completedEvidence and saved scope/device matrices. Viewport checks and phone/desktop screenshot inspection do not establish all physical-device or touch certification.",
+    "practicalRecord": "PASS {\"trials\": 16, \"workedResults\": 1792, \"numericChecks\": 8477}; saved notebook, student text persistence and HTML escaping verified as recorded in review-audit.json."
+  },
+  "completedEvidence": [
+    "independentmodel/geometry/reference",
+    "14focusedtests",
+    "3244fullregressiontests",
+    "TypeScript/build",
+    "120second2Dand3Dguides",
+    "560normal56theatrechecks",
+    "16actualtrials1792results8477independentnumericchecks",
+    "persistence/safeHTML/probereadoutgating",
+    "Native left drag/wheel visibly verified after unlock, unchanged readings/time."
+  ],
+  "reviewScope": "Internalfunctionalreviewonly;noindependentexpert,officialboard,physicalall-device,touch,FPSorprintercertification Five pure-solute food analogues at 25 C, not actual food composition; one nonconsuming immersion-gated probe. Displacement, carryover and electrode kinetics omitted.",
+  "nativeGestureVerification": "Desktop Chrome native left drag and down-wheel verified; reset restored camera. No touch or right-button pan certification.",
+  "sourceHashes": {
+    "scripts/chemistry/food_solution_reference.py": "fc986bbf03c5dcf0e2887d862b9035cca176a5bf47c365d3e31e111885d2132f",
+    "scripts/chemistry/validate_food_solution_report.py": "09deb1b74935ea0ecb36686757288d2fdd8e0809d4e406653db1bad3d31ad44c",
+    "scripts/chemistry/validate_food_solutions.py": "1bf7700676a2a5e39cf8058fe47fd2628af1495c42b7568aaa03355e0cca8723",
+    "src/components/chemistry/FoodSolutionDiagram.tsx": "e0dbbd0b5b09c52cf9821d87d59adebc2cb732df8e59d7f753a34498ee95c43e",
+    "src/components/chemistry/FoodSolutionLab.tsx": "9c99501373ef94152cea660a116c081514fa751487b4a7faf64b10b450d3de1b",
+    "src/components/chemistry/FoodSolutionReadings.tsx": "0eee5342c9b3ad89252c483234d7932b3d425410d74ee54d6dd7069cb9df26b1",
+    "src/components/chemistry/FoodSolutionScene.tsx": "4e09cfbe0a957cf0c862add4e5c6fcbc619e0c67ea22a768246c1612ae36028d",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/foodSolutionModels.css": "f9f013a6e40e89d8a16f3141b419cb53c712d32cdbe208103fe604f164c5144b",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/foodSolutionGeometry.ts": "50b15768f4714e7fd74f99e82bf3bc7501ac9b16740f44f99100b30667a04271",
+    "src/lib/chemistry/foodSolutionModels.ts": "95f8a9d6204b2db94bf6cd7a086111db2aebe0768a91452dcf68abd2297d6ed5",
+    "src/lib/chemistry/foodSolutionRecord.ts": "dcf2b72e23ec0a6c8622f65e6f4eb4b05a9b8939a235a48682469cfdd7361705",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/chemistry-food-solution-models.test.mjs": "7f02ec33c430d964a13d46b74af0acb499530f1ce0c7c2881b2680e62262df62"
+  }
+}

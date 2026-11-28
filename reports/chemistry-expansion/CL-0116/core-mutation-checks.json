@@ -1,0 +1,66 @@
+[
+  {
+    "corruption": "erased-travelling-electron",
+    "rejected": true
+  },
+  {
+    "corruption": "electron-counted-at-both-endpoints",
+    "rejected": true
+  },
+  {
+    "corruption": "lost-reservoir-electron",
+    "rejected": true
+  },
+  {
+    "corruption": "changed-proton-identity",
+    "rejected": true
+  },
+  {
+    "corruption": "changed-neutron-identity",
+    "rejected": true
+  },
+  {
+    "corruption": "changed-nucleon-count",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-atomic-charge-sign",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-small-coulomb-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-transit-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "created-electrons",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-initial-electron-account",
+    "rejected": true
+  },
+  {
+    "corruption": "false-transfer-completion",
+    "rejected": true
+  },
+  {
+    "corruption": "unbalanced-total-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-formal-notation",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-charge-class",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-electron-residual",
+    "rejected": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 800,
+    "overflow": false,
+    "time": "145.1",
+    "width": 360
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 800,
+    "overflow": false,
+    "time": "145.5",
+    "width": 360
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "time": "145.8",
+    "width": 390
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "time": "146.2",
+    "width": 390
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 390,
+    "overflow": false,
+    "time": "146.7",
+    "width": 844
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 390,
+    "overflow": false,
+    "time": "147",
+    "width": 844
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "time": "147.2",
+    "width": 768
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "time": "147.5",
+    "width": 768
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "time": "147.8",
+    "width": 1366
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "time": "148.1",
+    "width": 1366
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "time": "148.5",
+    "width": 1920
+  },
+  {
+    "clippedText": [],
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "time": "148.7",
+    "width": 1920
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "initial": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n18.376336 µm",
+  "gates": {
+    "playingDisabled": true,
+    "pausedEnabled": true
+  },
+  "endpoint": "Actual passed charge\n330 C\nRequested budget\n330 C\nIdeal anode balance\n0.8913297 g\nIdeal cathode balance\n10.10867 g\nCopper deposited\n108.6703 mg\nAverage film thickness\n20.21397 µm"
+}

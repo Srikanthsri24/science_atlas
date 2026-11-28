@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0109",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "14 focused model/geometry/notebook/catalogue tests passed. Independent 70-digit Decimal reference: 1419 preparations / 5676 cells / 244068 numeric checks. Eleven core mutations and eleven report mutations rejected. TypeScript and final build passed; full regression 3387 passed.",
+    "twoD": "Four matched ion preparations, finite metered dose and selected matched agitation. Full uninterrupted 120-second guide observed. Labels changed SVG text count 38 to 2. All five scopes and two formats checked.",
+    "threeD": "Original matched vessels, exact nominal liquid/stock geometry, metered feed and matched completed-cycle agitation. Full 120-second guide observed. Seven canvas control effects changed pixels with stable readings; paused 72-second image byte-identical. Native drag/wheel now passed.",
+    "responsive": "130 2D scope/format/viewport cases and 120 3D cases across six dimensions and normal/theatre. No page overflow/clipped SVG text and nonzero 3D canvas. Light/dark mobile close-ups inspected; original theme/viewport restored.",
+    "practicalRecord": "Four observation tables and 152 worked blocks per trial. Six actual observations with student plan/conclusion and escaped literal HTML-like note persisted on reload. Actual downloaded report independently passed 912 results, 2826 operands, 636 table numeric checks and four exact table headers. Recording disabled while playing, enabled after pause commit."
+  },
+  "reviewScope": "Internal functional and numerical-model review only; not independent expert review, official board mapping or physical-all-device/touch/FPS certification. Ideal complete sodium-oleate precipitation with proportional calcium/magnesium allocation, no Ksp selectivity, pH or kinetics. Prepared solution density selected as 1 g/mL and nominal volumes additive; solid displacement not inferred. Separate initial, dilution-only and residual hardness. Foam is a chosen qualitative index, not measured height, CMC or a certified real-water hardness test. White product marks and air bubbles are explanatory; no generated gas or precipitate-volume model. Chemical-material account excludes apparatus and environmental air.",
+  "nativeGestureVerification": "Native desktop Chrome left drag and wheel changed the canvas while scientific readings and paused/manual timeline stayed fixed; canvas bounds unchanged and pointer parked outside the canvas.",
+  "sourceHashes": {
+    "scripts/chemistry/export_soap_hardness_reference.mjs": "6fc77c653b6d6ab05e69d5d34e29f0eb8fc7433efb2db1cb588685d748f3430c",
+    "scripts/chemistry/export_soap_hardness_report.mjs": "cbbeac9c981a4fc794da9d4ed8fc0c20c96baf68e712bbddfb50287a71e2c2f2",
+    "scripts/chemistry/salt_corrosion_reference.py": "c99a20526398e1660259c4c3d63b65e24116457267385debbc426acb3c64feef",
+    "scripts/chemistry/test_soap_hardness_mutations.py": "608a013b35765ff50b01c3ffa1cfc6c678aed1b26a7da03f1db1d188b0e29c42",
+    "scripts/chemistry/test_soap_hardness_report_mutations.py": "3e20dfdc0f4936418f7e39c78a46cd1dfe40bd1e2eace33e66e5c8b2d6eff62a",
+    "scripts/chemistry/validate_salt_corrosion_report.py": "4f7af22f1c368c2f4cb9d9db8e050113de8d80532f872568ffa824ea1295f8df",
+    "scripts/chemistry/validate_soap_hardness.py": "e5f80227d4b18ac6c9493c863f88fb09d9f7b2f5a9605fe00150eed48b1671a1",
+    "scripts/chemistry/validate_soap_hardness_report.py": "cb3a35b438fb0940794a17e1339ddb1a035e5ec1b5b01150213069d7c9a373e0",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/SoapHardnessDiagram.tsx": "e23222ca465293780ea74a6672d19acd63448a3371cf60401239bc703246ebca",
+    "src/components/chemistry/SoapHardnessLab.tsx": "4ab59593b07e3661435a97d3ca8f369243d911ece33b8597272c6d4acbc2d141",
+    "src/components/chemistry/SoapHardnessReadings.tsx": "db5d63bb0909237866da9bf59ff3678ce827b227abbaa6e57785e4204060397e",
+    "src/components/chemistry/SoapHardnessScene.tsx": "d58be6fec3031ca39cacd94bf5bbb1c98da866d60dda0e8b4fa9282ceb263047",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/soapHardness.css": "fe954d46fd23997b60bc9e7c8a94975dd50432594ea8c276a7839de23b92fe92",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/soapHardness.ts": "c0e0abd86894a9c475240295a987cb0a510fb4fc1d33a4e1fa6166e5fb44526c",
+    "src/lib/chemistry/soapHardnessGeometry.ts": "b089ef84a68664e558198fe9f1abc128828411ffd6ffd343d92a6f9585429a3e",
+    "src/lib/chemistry/soapHardnessRecord.ts": "3fdae3561485a90a7cdc782f1036dee0e9e0ccdffd83cb3dd791d7c8413bb1ab",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/chemistry-soap-hardness.test.mjs": "01f7fcabab0cf1bb81e03e03d270d2e156589a4ccf7f48a7b3781db252b287ae",
+    "tests/load-ts.mjs": "cf004d44e82d4c0ee546d27bacf9601d189d83f2f17fce15a240ee53b7f0eb17"
+  }
+}

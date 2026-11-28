@@ -1,0 +1,142 @@
+[
+  {
+    "key": "ironG",
+    "press": "Home",
+    "value": "0.05",
+    "min": "0.05",
+    "max": "1"
+  },
+  {
+    "key": "ironG",
+    "press": "End",
+    "value": "1",
+    "min": "0.05",
+    "max": "1"
+  },
+  {
+    "key": "zincG",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "0.1"
+  },
+  {
+    "key": "zincG",
+    "press": "End",
+    "value": "0.1",
+    "min": "0",
+    "max": "0.1"
+  },
+  {
+    "key": "scratchFraction",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "1"
+  },
+  {
+    "key": "scratchFraction",
+    "press": "End",
+    "value": "1",
+    "min": "0",
+    "max": "1"
+  },
+  {
+    "key": "areaCm2",
+    "press": "Home",
+    "value": "4",
+    "min": "4",
+    "max": "20"
+  },
+  {
+    "key": "areaCm2",
+    "press": "End",
+    "value": "20",
+    "min": "4",
+    "max": "20"
+  },
+  {
+    "key": "carrierG",
+    "press": "Home",
+    "value": "20",
+    "min": "20",
+    "max": "100"
+  },
+  {
+    "key": "carrierG",
+    "press": "End",
+    "value": "100",
+    "min": "20",
+    "max": "100"
+  },
+  {
+    "key": "ironDemandUAcm2",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "50"
+  },
+  {
+    "key": "ironDemandUAcm2",
+    "press": "End",
+    "value": "50",
+    "min": "0",
+    "max": "50"
+  },
+  {
+    "key": "zincSupportUAcm2",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "100"
+  },
+  {
+    "key": "zincSupportUAcm2",
+    "press": "End",
+    "value": "100",
+    "min": "0",
+    "max": "100"
+  },
+  {
+    "key": "zincSelfUAcm2",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "10"
+  },
+  {
+    "key": "zincSelfUAcm2",
+    "press": "End",
+    "value": "10",
+    "min": "0",
+    "max": "10"
+  },
+  {
+    "key": "oxygenCapacityUA",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "1000"
+  },
+  {
+    "key": "oxygenCapacityUA",
+    "press": "End",
+    "value": "1000",
+    "min": "0",
+    "max": "1000"
+  },
+  {
+    "key": "elapsedDays",
+    "press": "Home",
+    "value": "0",
+    "min": "0",
+    "max": "14"
+  },
+  {
+    "key": "elapsedDays",
+    "press": "End",
+    "value": "14",
+    "min": "0",
+    "max": "14"
+  }
+]

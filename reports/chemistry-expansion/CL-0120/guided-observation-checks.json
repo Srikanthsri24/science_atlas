@@ -1,0 +1,18 @@
+[
+  {
+    "time": 55,
+    "row": "27\tsolid\tkcl001\t1\t1\t1\t0.05\tYes\t0.75\t55\tGuided snapshot before verification\t"
+  },
+  {
+    "time": 139.9,
+    "row": "28\tsolution\tkcl001\t1\t1\t1\t0.05\tYes\t0.9750000000000014\t139.9\tGuided snapshot before verification\t"
+  },
+  {
+    "time": 140,
+    "row": "29\tsolution\tkcl001\t1\t1\t1\t0.05\tYes\t0\t140\tVerified guide stage\t"
+  },
+  {
+    "time": 150,
+    "row": "30\tsolution\tkcl001\t1\t1\t1\t0.05\tYes\t0.5\t150\tVerified guide stage\t"
+  }
+]

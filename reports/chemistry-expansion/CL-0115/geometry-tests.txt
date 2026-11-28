@@ -1,0 +1,12 @@
+✔ every known isotope has separated nuclear sites and exact target shell slots (22.202305ms)
+✔ token transfer preserves placed/tray/transit inventory and reaches every target without inventing orbits (65.85162ms)
+✔ paused diagram geometry is deterministic and transfer boundaries are continuous (3.417365ms)
+✔ flat counting layout separates nuclear tokens and keeps both aspect-format token paths inside the diagram (212.009222ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 971.115978

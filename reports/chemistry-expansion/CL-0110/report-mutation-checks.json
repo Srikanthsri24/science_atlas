@@ -1,0 +1,50 @@
+[
+  {
+    "mutation": "wrong-zero-dose-stock-operator",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-operand-hidden-by-no-hardness",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-concentration-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-nonionic-counterion",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-zero-dose-availability",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-difference-operator",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-formula",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-hardness-table-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-matching-basis",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-observation",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-worked-result",
+    "rejected": true
+  },
+  {
+    "mutation": "inferred-cmc-outside-reference",
+    "rejected": true
+  }
+]

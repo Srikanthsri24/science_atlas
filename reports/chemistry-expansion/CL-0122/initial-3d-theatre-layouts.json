@@ -1,0 +1,122 @@
+[
+  {
+    "width": 360,
+    "height": 800,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 202.5,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.7777777777777777
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 301,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5625
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 219.375,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.7777777777777777
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 342.015625,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5624971446845447
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 84,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.7777157738095235
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 84,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5625
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 432,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.7777777777777777
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 529.40625,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5624963107254589
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 317.078125,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.777755876410585
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 317.078125,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5624846006011925
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "canvas": true,
+    "canvasHeight": 634.140625,
+    "fit": true,
+    "overflow": false,
+    "ratio": 1.7777750400394234
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "canvas": true,
+    "canvasHeight": 634.140625,
+    "fit": true,
+    "overflow": false,
+    "ratio": 0.5624984600221756
+  }
+]

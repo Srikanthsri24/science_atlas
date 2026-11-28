@@ -1,0 +1,54 @@
+[
+  {
+    "corruption": "wrong-electron-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-electron-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-symbolic-transfer-sign",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-substitution-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-coulomb-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-coulomb-constant",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-work",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-work",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-mass-number-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-charge-table-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-travelling-electron",
+    "rejected": true
+  },
+  {
+    "corruption": "false-verified-endpoint",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-pool-identity",
+    "rejected": true
+  }
+]

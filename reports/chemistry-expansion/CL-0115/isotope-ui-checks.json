@@ -1,0 +1,876 @@
+[
+  {
+    "counts": [
+      {
+        "max": 1,
+        "value": 1
+      },
+      {
+        "max": 0,
+        "value": 0
+      },
+      {
+        "max": 1,
+        "value": 1
+      }
+    ],
+    "id": "H-1",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 1 · A = 1 · neutral electrons = 1",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 2
+  },
+  {
+    "counts": [
+      {
+        "max": 1,
+        "value": 1
+      },
+      {
+        "max": 1,
+        "value": 1
+      },
+      {
+        "max": 1,
+        "value": 1
+      }
+    ],
+    "id": "H-2",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 1 · A = 2 · neutral electrons = 1",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 3
+  },
+  {
+    "counts": [
+      {
+        "max": 2,
+        "value": 2
+      },
+      {
+        "max": 1,
+        "value": 1
+      },
+      {
+        "max": 2,
+        "value": 2
+      }
+    ],
+    "id": "He-3",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 2 · A = 3 · neutral electrons = 2",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 5
+  },
+  {
+    "counts": [
+      {
+        "max": 2,
+        "value": 2
+      },
+      {
+        "max": 2,
+        "value": 2
+      },
+      {
+        "max": 2,
+        "value": 2
+      }
+    ],
+    "id": "He-4",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 2 · A = 4 · neutral electrons = 2",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 6
+  },
+  {
+    "counts": [
+      {
+        "max": 3,
+        "value": 3
+      },
+      {
+        "max": 3,
+        "value": 3
+      },
+      {
+        "max": 3,
+        "value": 3
+      }
+    ],
+    "id": "Li-6",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 3 · A = 6 · neutral electrons = 3",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 9
+  },
+  {
+    "counts": [
+      {
+        "max": 3,
+        "value": 3
+      },
+      {
+        "max": 4,
+        "value": 4
+      },
+      {
+        "max": 3,
+        "value": 3
+      }
+    ],
+    "id": "Li-7",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 3 · A = 7 · neutral electrons = 3",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 10
+  },
+  {
+    "counts": [
+      {
+        "max": 4,
+        "value": 4
+      },
+      {
+        "max": 5,
+        "value": 5
+      },
+      {
+        "max": 4,
+        "value": 4
+      }
+    ],
+    "id": "Be-9",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 4 · A = 9 · neutral electrons = 4",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 13
+  },
+  {
+    "counts": [
+      {
+        "max": 5,
+        "value": 5
+      },
+      {
+        "max": 5,
+        "value": 5
+      },
+      {
+        "max": 5,
+        "value": 5
+      }
+    ],
+    "id": "B-10",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 5 · A = 10 · neutral electrons = 5",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 15
+  },
+  {
+    "counts": [
+      {
+        "max": 5,
+        "value": 5
+      },
+      {
+        "max": 6,
+        "value": 6
+      },
+      {
+        "max": 5,
+        "value": 5
+      }
+    ],
+    "id": "B-11",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 5 · A = 11 · neutral electrons = 5",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 16
+  },
+  {
+    "counts": [
+      {
+        "max": 6,
+        "value": 6
+      },
+      {
+        "max": 6,
+        "value": 6
+      },
+      {
+        "max": 6,
+        "value": 6
+      }
+    ],
+    "id": "C-12",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 6 · A = 12 · neutral electrons = 6",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 18
+  },
+  {
+    "counts": [
+      {
+        "max": 6,
+        "value": 6
+      },
+      {
+        "max": 7,
+        "value": 7
+      },
+      {
+        "max": 6,
+        "value": 6
+      }
+    ],
+    "id": "C-13",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 6 · A = 13 · neutral electrons = 6",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 19
+  },
+  {
+    "counts": [
+      {
+        "max": 7,
+        "value": 7
+      },
+      {
+        "max": 7,
+        "value": 7
+      },
+      {
+        "max": 7,
+        "value": 7
+      }
+    ],
+    "id": "N-14",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 7 · A = 14 · neutral electrons = 7",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 21
+  },
+  {
+    "counts": [
+      {
+        "max": 7,
+        "value": 7
+      },
+      {
+        "max": 8,
+        "value": 8
+      },
+      {
+        "max": 7,
+        "value": 7
+      }
+    ],
+    "id": "N-15",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 7 · A = 15 · neutral electrons = 7",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 22
+  },
+  {
+    "counts": [
+      {
+        "max": 8,
+        "value": 8
+      },
+      {
+        "max": 8,
+        "value": 8
+      },
+      {
+        "max": 8,
+        "value": 8
+      }
+    ],
+    "id": "O-16",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 8 · A = 16 · neutral electrons = 8",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 24
+  },
+  {
+    "counts": [
+      {
+        "max": 8,
+        "value": 8
+      },
+      {
+        "max": 9,
+        "value": 9
+      },
+      {
+        "max": 8,
+        "value": 8
+      }
+    ],
+    "id": "O-17",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 8 · A = 17 · neutral electrons = 8",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 25
+  },
+  {
+    "counts": [
+      {
+        "max": 8,
+        "value": 8
+      },
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 8,
+        "value": 8
+      }
+    ],
+    "id": "O-18",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 8 · A = 18 · neutral electrons = 8",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 26
+  },
+  {
+    "counts": [
+      {
+        "max": 9,
+        "value": 9
+      },
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 9,
+        "value": 9
+      }
+    ],
+    "id": "F-19",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 9 · A = 19 · neutral electrons = 9",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 28
+  },
+  {
+    "counts": [
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 10,
+        "value": 10
+      }
+    ],
+    "id": "Ne-20",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 10 · A = 20 · neutral electrons = 10",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 30
+  },
+  {
+    "counts": [
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 11,
+        "value": 11
+      },
+      {
+        "max": 10,
+        "value": 10
+      }
+    ],
+    "id": "Ne-21",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 10 · A = 21 · neutral electrons = 10",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 31
+  },
+  {
+    "counts": [
+      {
+        "max": 10,
+        "value": 10
+      },
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 10,
+        "value": 10
+      }
+    ],
+    "id": "Ne-22",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 10 · A = 22 · neutral electrons = 10",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 32
+  },
+  {
+    "counts": [
+      {
+        "max": 11,
+        "value": 11
+      },
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 11,
+        "value": 11
+      }
+    ],
+    "id": "Na-23",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 11 · A = 23 · neutral electrons = 11",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 34
+  },
+  {
+    "counts": [
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 12,
+        "value": 12
+      }
+    ],
+    "id": "Mg-24",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 12 · A = 24 · neutral electrons = 12",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 36
+  },
+  {
+    "counts": [
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 13,
+        "value": 13
+      },
+      {
+        "max": 12,
+        "value": 12
+      }
+    ],
+    "id": "Mg-25",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 12 · A = 25 · neutral electrons = 12",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 37
+  },
+  {
+    "counts": [
+      {
+        "max": 12,
+        "value": 12
+      },
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 12,
+        "value": 12
+      }
+    ],
+    "id": "Mg-26",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 12 · A = 26 · neutral electrons = 12",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 38
+  },
+  {
+    "counts": [
+      {
+        "max": 13,
+        "value": 13
+      },
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 13,
+        "value": 13
+      }
+    ],
+    "id": "Al-27",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 13 · A = 27 · neutral electrons = 13",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 40
+  },
+  {
+    "counts": [
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 14,
+        "value": 14
+      }
+    ],
+    "id": "Si-28",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 14 · A = 28 · neutral electrons = 14",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 42
+  },
+  {
+    "counts": [
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 15,
+        "value": 15
+      },
+      {
+        "max": 14,
+        "value": 14
+      }
+    ],
+    "id": "Si-29",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 14 · A = 29 · neutral electrons = 14",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 43
+  },
+  {
+    "counts": [
+      {
+        "max": 14,
+        "value": 14
+      },
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 14,
+        "value": 14
+      }
+    ],
+    "id": "Si-30",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 14 · A = 30 · neutral electrons = 14",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 44
+  },
+  {
+    "counts": [
+      {
+        "max": 15,
+        "value": 15
+      },
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 15,
+        "value": 15
+      }
+    ],
+    "id": "P-31",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 15 · A = 31 · neutral electrons = 15",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 46
+  },
+  {
+    "counts": [
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 16,
+        "value": 16
+      }
+    ],
+    "id": "S-32",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 16 · A = 32 · neutral electrons = 16",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 48
+  },
+  {
+    "counts": [
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 17,
+        "value": 17
+      },
+      {
+        "max": 16,
+        "value": 16
+      }
+    ],
+    "id": "S-33",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 16 · A = 33 · neutral electrons = 16",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 49
+  },
+  {
+    "counts": [
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 16,
+        "value": 16
+      }
+    ],
+    "id": "S-34",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 16 · A = 34 · neutral electrons = 16",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 50
+  },
+  {
+    "counts": [
+      {
+        "max": 16,
+        "value": 16
+      },
+      {
+        "max": 20,
+        "value": 20
+      },
+      {
+        "max": 16,
+        "value": 16
+      }
+    ],
+    "id": "S-36",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 16 · A = 36 · neutral electrons = 16",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 52
+  },
+  {
+    "counts": [
+      {
+        "max": 17,
+        "value": 17
+      },
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 17,
+        "value": 17
+      }
+    ],
+    "id": "Cl-35",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 17 · A = 35 · neutral electrons = 17",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 52
+  },
+  {
+    "counts": [
+      {
+        "max": 17,
+        "value": 17
+      },
+      {
+        "max": 20,
+        "value": 20
+      },
+      {
+        "max": 17,
+        "value": 17
+      }
+    ],
+    "id": "Cl-37",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 17 · A = 37 · neutral electrons = 17",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 54
+  },
+  {
+    "counts": [
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 18,
+        "value": 18
+      }
+    ],
+    "id": "Ar-36",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 18 · A = 36 · neutral electrons = 18",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 54
+  },
+  {
+    "counts": [
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 20,
+        "value": 20
+      },
+      {
+        "max": 18,
+        "value": 18
+      }
+    ],
+    "id": "Ar-38",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 18 · A = 38 · neutral electrons = 18",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 56
+  },
+  {
+    "counts": [
+      {
+        "max": 18,
+        "value": 18
+      },
+      {
+        "max": 22,
+        "value": 22
+      },
+      {
+        "max": 18,
+        "value": 18
+      }
+    ],
+    "id": "Ar-40",
+    "recordDisabled": false,
+    "svgText": [
+      "Target Z = 18 · A = 40 · neutral electrons = 18",
+      "Complete neutral counting reference"
+    ],
+    "tokens": 58
+  }
+]

@@ -1,6 +1,6 @@
 {
   "labId": "CL-0103",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "17focusedtestsPASS",
     "420cases32760independentnumericchecksPASS",
@@ -18,10 +18,9 @@
     "3275fullregressiontestsPASS117.11sbeforelatestcoefficient-flooraddition",
     "initialTS96578exit0;initialbuild25359exit017.86s",
     "finalTS/build83723and43739exit0beforelastportrait/coreedits",
-    "final-currentTypeScript/build17386terminalexit0"
+    "final-currentTypeScript/build17386terminalexit0",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "nativeleftdrag/wheel(Maclocked)"
-  ],
+  "unverified": [],
   "scope": "Internal functional review only; no independent expert or official-board/all-physical-device certification"
 }

@@ -1,0 +1,46 @@
+[
+  {
+    "corruption": "wrong-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-capacity-operand",
+    "rejected": true
+  },
+  {
+    "corruption": "reversed-exponential-sign",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-rounding-operation",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-worked-block",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-worked-block",
+    "rejected": true
+  },
+  {
+    "corruption": "corrupt-dry-observation",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-observation-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "confused-percentage-bases",
+    "rejected": true
+  }
+]

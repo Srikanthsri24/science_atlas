@@ -1,0 +1,27 @@
+✔ Faraday mass, electrode accounts and uniform single-face thickness agree (2.193616ms)
+✔ finite copper inventory cuts actual charge and current without losing requested source history (0.395245ms)
+✔ piecewise current/disconnected intervals preserve charge and material; post-depletion intervals deliver nothing (0.453223ms)
+✔ doubling exposed area halves average thickness but not deposited mass (0.274502ms)
+✔ zero current and disconnected histories produce no deposition; disconnect preserves prior coating (0.380256ms)
+✔ segmentation is invariant and previously saved history is immutable (1.498279ms)
+✔ guide prediction/weighing stages have no current and fresh reference preserves final mass (0.427926ms)
+✔ all parameter corners and guide transitions remain finite and conserve copper (1.745523ms)
+✔ invalid inputs and time domains are rejected (0.742998ms)
+✔ actual film and anode geometries conserve their copper volumes (9.546189ms)
+✔ cross-section magnification is explicit and shrinking anode uses a fixed scale (0.473646ms)
+✔ no copper mesh or flow remains when finite anode is exhausted (0.40104ms)
+✔ marker identities are stable, paused geometry deterministic and source-off motion absent (2.359477ms)
+✔ all selectable exposed-face dimensions remain fully immersed (0.528388ms)
+✔ wire electrons move from anode toward positive source and from negative source toward cathode (0.572225ms)
+✔ cutoff record separates requested budget from passed charge and bounded deposited mass (2.541003ms)
+✔ source segment arithmetic retains disconnected time without fabricating zero-current division (0.476513ms)
+✔ guide provenance is canonical and forged time/conditions are rejected (0.844002ms)
+✔ HTML export contains consistent tables, escaped notes and original inputs (2.935345ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 630.156309

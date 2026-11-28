@@ -1,0 +1,23 @@
+{
+  "labId": "CL-0108",
+  "status": "passed_internal_functional_review",
+  "internallyReviewed": true,
+  "independentExpertReviewed": false,
+  "nativeAvailability": "Desktop inventory returned native apps empty and Mac locked on the check after user unlock notification",
+  "completedEvidence": [
+    "responsive-scope-checks.json",
+    "canvas-control-effects.json",
+    "2d-control-effects.json",
+    "paused-frame-proof.json",
+    "numeric-boundary-checks.json",
+    "calculation-group-checks.json",
+    "final-focused-tests.txt",
+    "final-ui-typescript.txt",
+    "final-ui-build.txt",
+    "report-reference-validation.txt",
+    "report-mutation-checks.json"
+  ],
+  "pending": [],
+  "nativeGestureVerification": "native-gesture-checks.json",
+  "historicalNativeAvailability": "Previously locked; native access recovered and both gestures passed."
+}

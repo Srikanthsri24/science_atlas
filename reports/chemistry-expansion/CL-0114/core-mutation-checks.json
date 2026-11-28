@@ -1,0 +1,70 @@
+[
+  {
+    "corruption": "erased-trace-rinsed-salt",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-retained-salt",
+    "rejected": true
+  },
+  {
+    "corruption": "double-counted-rinse",
+    "rejected": true
+  },
+  {
+    "corruption": "lost-vapour",
+    "rejected": true
+  },
+  {
+    "corruption": "inverted-retention",
+    "rejected": true
+  },
+  {
+    "corruption": "false-clear-water-safety",
+    "rejected": true
+  },
+  {
+    "corruption": "incorrect-dry-observation",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-mg-per-litre",
+    "rejected": true
+  },
+  {
+    "corruption": "incorrect-salt-fraction",
+    "rejected": true
+  },
+  {
+    "corruption": "unbalanced-material",
+    "rejected": true
+  },
+  {
+    "corruption": "unbalanced-salt",
+    "rejected": true
+  },
+  {
+    "corruption": "unbalanced-particles",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-tare",
+    "rejected": true
+  },
+  {
+    "corruption": "receiver-residue-lost",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-exponential",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-rinse-removed-fraction",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-small-passed-solid",
+    "rejected": true
+  }
+]

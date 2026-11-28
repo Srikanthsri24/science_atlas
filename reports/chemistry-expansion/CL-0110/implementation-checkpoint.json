@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0110",
+  "status": "ready",
+  "implemented": [
+    "Four factorial soap/detergent \u00d7 soft/hard cells",
+    "Molar versus solute-mass dose matching with finite stock and counterion/material accounts",
+    "Undefined zero-dose availability and explicitly limited nonionic CMC reference classification",
+    "120-second guide staging function, not yet observed playback",
+    "Source-only practical record, four observation tables, 168 worked blocks per observation and exam-style HTML report",
+    "Exact-volume conical flask and 20 mL syringe geometry with retraction and stopper closure before agitation",
+    "Connected 2D and 3D viewers with scope, format, theatre and camera controls",
+    "Readable head-group reference cards separated from the physical 3D rig",
+    "Larger portrait single-sample apparatus and corrected diagram text spacing"
+  ],
+  "verified": [
+    "Nine focused core tests passed, including 768 preparation-grid checks",
+    "Independent 75-digit reference passed 933 preparations, 3732 cells and 194064 typed field/comparison checks",
+    "Thirteen deliberately corrupted core results rejected",
+    "Fourteen focused model/record/catalogue tests passed; report fixture exports nine synthetic trials",
+    "Core/record TypeScript gate terminal exit 0",
+    "16 focused model/record/geometry/catalogue tests passed",
+    "Full integrated regression: 3401 passed, zero failed, 128.24 seconds",
+    "Nine synthetic reports independently passed 1512 worked results, 8 undefined-availability cases, 4486 substitution operands and 1062 table checks",
+    "12 report mutations rejected",
+    "Three.js triangle-volume integration confirms nominal flask fill geometry for 0\u2013150 mL and full capacity",
+    "Initial integrated TypeScript found a literal-inferred bisection upper bound; explicitly typed numeric bounds fixed it",
+    "Corrected integrated TypeScript and build passed; latest portrait refactor gates running",
+    "Initial 2D text collisions were found, corrected, and retested; latest enlarged portrait matrix has 120 cases with no page overflow, clipped text or text intersections",
+    "Native CL-0110 drag and wheel changed the camera with time 72.3 and scientific readings unchanged; canvas bounds unchanged and pointer parked outside the image",
+    "Paused 72.3-second image byte-identical; seven viewer-button canvas comparisons changed pixels while readings stayed fixed",
+    "Eight actual browser observations persisted on reload, including literal HTML-like student text",
+    "Actual 460621-byte downloaded report independently passed 1344 results, 8 undefined cases, 3984 operands and 944 table checks",
+    "Calculation groups 41/41/41/41/4/168 verified; all 12 numeric endpoints and both matching bases exercised",
+    "Head-group cards toggled 1\u21920 in 3D and portrait 2D; 2D labels reduced text elements 22\u21926",
+    "Dark mobile notebook with eight records and 168 expanded live workings inspected with no page overflow; theme/viewport restored",
+    "Latest delivery TypeScript terminal exit 0 with empty log; all required internal gates passed and 28 source hashes frozen"
+  ],
+  "remaining": [],
+  "activeGates": {}
+}

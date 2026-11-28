@@ -1,0 +1,11 @@
+{
+  "beforeTime": "0",
+  "afterTime": "0",
+  "dragChangedCanvas": true,
+  "wheelChangedCanvas": true,
+  "dragPreservedReadings": true,
+  "wheelPreservedReadings": true,
+  "unchangedCanvasBounds": true,
+  "labelsRestored": "true",
+  "note": "Labels toggled twice before each comparison to park the pointer outside the canvas and restore the same visual state."
+}

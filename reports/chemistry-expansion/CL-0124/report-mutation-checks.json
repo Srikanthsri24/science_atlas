@@ -1,0 +1,19 @@
+{
+  "rejectedCorruptions": 14,
+  "checks": [
+    "gas volume unit changed",
+    "pressure unit changed",
+    "undefined conversion falsely evaluated",
+    "false verified manual snapshot",
+    "guide time forged",
+    "acid stoichiometry changed",
+    "chloride charge sign changed",
+    "control hydrogen invented",
+    "tiny positive gas erased",
+    "metal dissolution erased",
+    "overflow removed",
+    "collector exceeds capacity",
+    "chloride conservation lost",
+    "same result loses operands"
+  ]
+}

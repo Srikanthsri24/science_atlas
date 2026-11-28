@@ -1,0 +1,25 @@
+✔ solid has pre-existing immobile ions, applied voltage and no fabricated solid conductivity (4.041535ms)
+✔ aqueous reference retains quantitative KCl result and reverses ionic drift (1.153047ms)
+✔ water comparison is a tiny positive current, not a false zero (0.523914ms)
+✔ source and immersion controls preserve unavailable inverse readings for both aqueous modes (1.347921ms)
+✔ dissolution storyboard never interpolates a made-up conductivity or marks an early snapshot verified (2.819744ms)
+✔ invalid phases, non-KCl pairings and guide times are rejected (1.000536ms)
+✔ solid lattice is balanced, stable under phase change and has opposite nearest neighbours (17.643979ms)
+✔ dissolution retains identities and never changes the solid circuit reading (3.182649ms)
+✔ hydration oxygen points inward for K+, hydrogen side points inward for chloride (3.92576ms)
+✔ solution drift reverses; unavailable controls stop it without deleting ions (4.436746ms)
+✔ normalized solid waveform keeps voltage while showing zero transport current (1.280636ms)
+✔ all illustrative particles and water molecules fit declared bounds; paused calls are deterministic (49.850783ms)
+✔ schematic water geometry retains bent molecular shape and equal display bonds (2.534152ms)
+✔ solid record never fabricates a numeric conductivity; aqueous inversions retain correct units (5.895094ms)
+✔ unavailable inverse formulas are not evaluated; tiny water current remains positive (5.861061ms)
+✔ guide snapshots preserve original conditions and reject forged stages (1.843175ms)
+✔ HTML report has consistent tables, escaped notes and round-trippable original inputs (6.405929ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 958.435843

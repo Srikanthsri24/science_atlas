@@ -1,0 +1,22 @@
+{
+  "wrong117": "Water construction: 3/3 atoms placed, 1 shared pairs, 0 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction.",
+  "playingDisabled117": true,
+  "phaseRecords117": [
+    {
+      "time": 42.5,
+      "label": "Water construction: 1/3 atoms placed, 0 shared pairs, 0 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction."
+    },
+    {
+      "time": 125,
+      "label": "Water construction: 3/3 atoms placed, 2 shared pairs, 2 lone pairs. Electron residual 0. Completed selected Lewis reference."
+    },
+    {
+      "time": 139.9,
+      "label": "Water construction: 3/3 atoms placed, 2 shared pairs, 2 lone pairs. Electron residual 0. Completed selected Lewis reference."
+    },
+    {
+      "time": 140,
+      "label": "Water construction: 3/3 atoms placed, 2 shared pairs, 2 lone pairs. Electron residual 0. Completed selected Lewis reference."
+    }
+  ]
+}

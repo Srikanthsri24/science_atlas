@@ -1,0 +1,25 @@
+✔ all references contain each stable atom once and every counted electron pair once (17.175037ms)
+✔ moving atom keeps unplaced ownership until arrival and matches the next state exactly (19.459309ms)
+✔ bond and lone-pair annotation arrivals exactly match committed geometry (22.578507ms)
+✔ pending bond/pair markers do not consume the committed electron budget (22.226505ms)
+✔ geometry rejects invalid progress and construction inputs (1.228298ms)
+✔ extra allowed lone-pair annotations on unfinished atoms keep stable slot positions (0.891291ms)
+✔ unfinished, pre-verification and verified observations remain distinct (38.251276ms)
+✔ tables and calculations retain all snapshot quantities including local shared double counts (8.056012ms)
+✔ report escapes original student text and preserves input-only records (6.428143ms)
+✔ selected complete references conserve valence electrons and satisfy each duet/octet (10.932833ms)
+✔ every incremental construction conserves tray, shared, nonbonding and unassigned electrons (5.65407ms)
+✔ incomplete alternative connectivity does not masquerade as target molecule (1.275057ms)
+✔ invalid identities, duplicate edges, overbonding and excess electron allocation are rejected (2.121866ms)
+✔ guides retain finite progress and exact electron budgets at all sampled steps (543.382346ms)
+✔ reference geometries distinguish bent, pyramidal and tetrahedral structures (0.996607ms)
+✔ validation and action application never mutate caller-owned snapshots (0.460835ms)
+✔ all allowed bond graphs and lone-pair allocations preserve inventory and only the selected reference completes (158.435638ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1580.748759

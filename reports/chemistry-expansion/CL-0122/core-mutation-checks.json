@@ -1,0 +1,18 @@
+{
+  "rejectedCorruptions": 13,
+  "checks": [
+    "small positive deposited mass erased",
+    "requested charge falsely treated as passed after cutoff",
+    "finite anode exhaustion ignored",
+    "current continues after depletion",
+    "anode loss missing",
+    "cathode gain missing",
+    "bath creates net copper",
+    "area unit conversion wrong",
+    "coating thickness conversion wrong",
+    "coating density ignored",
+    "unserved coulomb budget lost",
+    "disconnected history erased",
+    "active duration includes disconnected time"
+  ]
+}

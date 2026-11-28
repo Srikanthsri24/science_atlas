@@ -1,0 +1,5 @@
+import{writeFileSync}from'node:fs';import{loadTs}from'../../tests/load-ts.mjs';
+const m=await loadTs('src/lib/chemistry/soapHardness.ts'),r=await loadTs('src/lib/chemistry/soapHardnessRecord.ts');
+const preparations=[{},...([6,15,20].map(deliveredMl=>({deliveredMl,agitationCycles:30}))),{deliveredMl:20,agitationCycles:0},{calciumMmolL:0,magnesiumMmolL:0,deliveredMl:20,agitationCycles:30},{sampleMl:100,calciumMmolL:5,magnesiumMmolL:5,soapMolL:.005,deliveredMl:20,agitationCycles:30}];
+writeFileSync('reports/chemistry-expansion/CL-0109/reference-practical.html',r.soapHardnessReport({plan:'Compare matched samples with equal dose and agitation. Predict the mixed sample needs more soap than either single-ion sample.',conclusion:'In this ideal reference, hardness consumes soap in a 1:2 divalent-ion-to-oleate ratio. Dilution is separately accounted for; foam is qualitative.',trials:preparations.map((p,i)=>({...m.defaultSoapHardness,...p,note:`Reference trial ${i+1}; simulated, not a measured sample.`}))}));
+console.log(preparations.length,'synthetic report trials exported');

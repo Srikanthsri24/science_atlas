@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0121",
+  "reviewedOn": "2026-11-28",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 150,
+  "checks": {
+    "model": "20 science tests plus2catalogue navigation tests passed. Independent1728source histories/32832typedfields passed;12corruptionsrejected. Fullregression3594passed/0failed108.093s before final display-onlycaps/readability and acidic-reference wording clarification; relevantfocusedtests/audits rerun after refinements. RefinementTypeScript77230exit0 andbuild72920exit0; Finalbuild85765 exited0 after all refinements.",
+    "twoD": "Original graduated compensated-volume tubes, sources/leads/electrodes and deterministic illustrative bubble markers. Correctedpredictionstage sourceoff0\u201320s, then full150srun completed ending300C/H2=38.0349mL/O2half. KeyboardEnterselectedO2 and interpreted retainedratio1 versus generatedratio2 at saturated tubes. Layers/labels reportactual selected reference.",
+    "threeD": "Original transparent tube walls and later flatglasscaps, liquid/gascompartments, rimlevels, electrodes, source/wires, stablebubbles. Fulluninterrupted150sguide completed; subsequentcaps/renderinginspected. Nativeorbit/wheel/reset changedpixels; pausedscreenshotsbyte-identical; bubble/open-glass/labeltoggleschangedpixels andO2selectionupdatedreadout. No finalconsoleerrors.",
+    "responsive": "12initial2D+12initial3Dtheatre cases;48maximum100mLtube cases acrosssixsizes/bothmodes/formats/normal-theatre passedoverflow/textbounds/visualpresence and16:9/9:16frame ratios.24full10mLtubeTheatrecasespassedwithoverflowaccounts. Dark390x844notebook showed4tablesall18rows/20currentworkings/0injectedimages andnohorizontaloverflow. Restoredlight/defaultviewport.",
+    "practicalRecord": "18persistedobservations with originalplan/conclusion/literalHTMLnote. Actual112204byteHTMLindependentlypassed381workedblocks. Manualrun300->330->360C, sourceoff60sretained360Cwhileelapsed720->780s;1Aintervalthen420C/840swithH2overflow. Sixreferencebounds,charged-reference-reset,zero-currentnullratio,maximumcapacity,guide55/80/139.9/140/150provenance passed. Actualsourcehistory retained throughreload/download. Synthetic28observations/582blocks/fullformula/operator/operand/unit/table audits;11reportcorruptionsrejected."
+  },
+  "reviewScope": "Internal functional/numerical review; not independent human expert, official curriculum, physical-device/touch/FPS or printer certification. Prescribed regulated current, unityFaradaic efficiency, sufficient acidified water and inert non-chloride support. F/RderivedfromexactSIdefiningconstants with ordinary binaryfloatingpoint. No current-voltage/overpotential, vapour, hydrostatic, gas-solubility, crossover, fluid-displacement, kinetic or thermal solver. Tubegeometrycmcapacity levels show compensated dry-equivalent accounts at common referenceT/P, not raw wet-gas meniscus. ChangingT/P/capacity startsfreshtrial to avoid pretending path-dependent retention. Visible bubbles arbitrarycounts/sizes, not molecules/flowcalibration. Generatedgasretainedplusoverflow conserved; collectedratio canchangeatsaturation while generatedratio stays2. Fullguides preceded display-onlycaps/readability and explicit acidic-reference wording refinement; final relevanttests,controlsandlayouts followed refinements.",
+  "sourceHashes": {
+    "scripts/chemistry/export_water_electrolysis_reference.mjs": "c3e5be1f1fbb4859b9702eb7e7f9544ac39ffdc8588cdc2f6db2de1d6f3c9f59",
+    "scripts/chemistry/export_water_electrolysis_report.mjs": "06c657243091dcfc76aa428fdca48d7f2555ca18044b09266c52acb8ed79a304",
+    "scripts/chemistry/test_water_electrolysis_mutations.py": "741ba620ffbe57f9567e857cd8aaba05a39ae2850b967f2d0f8493242232a99c",
+    "scripts/chemistry/test_water_electrolysis_report_mutations.py": "dad3d65ae75d6b5b5da0d2265d17f48270ceb61b79cd6070792887017944e02c",
+    "scripts/chemistry/validate_ionic_phase.py": "d7db70610391d740d49f192959668a7584dbfac5287e6ee8844d44f5466b8056",
+    "scripts/chemistry/validate_ionic_phase_report.py": "9e803e6f2eaec7cca3004b3fbec76461cce3caf0034a25710b184c295a665ea2",
+    "scripts/chemistry/validate_solution_conductivity.py": "d5e34552149960be0b5de09ef954bd68dd65f8175437740bfef97b58817f7ec3",
+    "scripts/chemistry/validate_water_electrolysis.py": "88c223fa33534be55587ae4b6e9a4b5097029f36445e87158de0de8a9b7eb16b",
+    "scripts/chemistry/validate_water_electrolysis_report.py": "f00dd0b5e41a04212ec626b162f762081be090124c7664a17e91d84861dcfa4d",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/WaterElectrolysisLab.tsx": "4db0ff983b4db6c8f69c2e3b1b2b25a37345e0776f465c46bf276444437380bd",
+    "src/components/chemistry/WaterElectrolysisViewer.tsx": "f1ef96096cc822e4aba81b71aea6052493306a47f5e9af27d6ab9117046bbbae",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/fibreAbsorption.css": "f1ec47a4e1c194a35f1bf0e02e9ad992223893fcb4bfcc8b980fbbfaf0fad868",
+    "src/components/chemistry/waterElectrolysis.css": "949295ea74a10c85aecabea09b1b844a9a342282b0b3f5f8ce233298b40637a1",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/waterElectrolysis.ts": "e54123ce91cec756a48f997e537398f96e6e481d8ce3a93b4411fab692eb7ad2",
+    "src/lib/chemistry/waterElectrolysisGeometry.ts": "467c9ba353365d851a8d3c00ad5f813446a9926e161f742fe7d7c5713d1732ac",
+    "src/lib/chemistry/waterElectrolysisRecord.ts": "f5bd7090637fc1e0d54b1804b2fc9c11823b573fc9698881999d4e360f6f2bb9",
+    "tests/chemistry-water-electrolysis-geometry.test.mjs": "9efa0f849c476367c559ad9718a5a50f8a5491491b86eddcfc6faf576f93d5aa",
+    "tests/chemistry-water-electrolysis-record.test.mjs": "67cad19a50971787c29ab3990b049a21631fbafad4aaed16c46e74ebe6110cc5",
+    "tests/chemistry-water-electrolysis.test.mjs": "0f8d0699f9b5ff192ee7a952be507576b879036377bb4c4813bc010fcb774191",
+    "tests/load-ts.mjs": "cf004d44e82d4c0ee546d27bacf9601d189d83f2f17fce15a240ee53b7f0eb17"
+  }
+}

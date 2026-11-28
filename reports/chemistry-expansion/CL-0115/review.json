@@ -1,0 +1,41 @@
+{
+  "labId": "CL-0115",
+  "reviewedOn": "2026-11-28",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 150,
+  "checks": {
+    "model": "17 focused core/geometry/record tests passed. All admissible partial token counts tested (>50000), 38 isotope targets and restricted H\u2013Ar shell/configuration aggregation checked. Independent integer/subshell plus 80-digit Decimal charge audit passed 1538 states/55534 fields; 16 corruptions rejected. Synthetic HTML: 38 trials/1520 results/3116 operands/2090 table fields; 12 report corruptions rejected. Latest TypeScript terminal0 with empty log. Final full regression passed all3483 tests with zero failures. Final source build passed in16.20s with existing bundle-size advisories.",
+    "twoD": "Original flat hexagonal counting nucleus, fixed shell occupancy slots, separate trays and sequential placement arcs. Keyboard/pointer token selection, particle filtering and labels. 150-second guide reached150; recording remained disabled while playing at140 and enabled after completion. Mathematical token bounds verified across all38 targets and both formats; landscape origin moved down to reserve header clearance.",
+    "threeD": "Original spatial nuclear counting lattice, shell occupancy rings, particle trays and sequential token transfer. Portrait trays below model with separate camera bounds. Shell labels staggered diagonally. Full150second guide reached150; native token click selected proton3 during construction. Native wheel/orbit changed pixels; paused frames byte-identical. Labels, zoom in/out and reset changed pixels. No console errors returned at final inspection.",
+    "responsive": "96 initial2D and96 initial3D cases across six viewports, both formats, all/three particle filters and normal/theatre. Additional48 largestAr40 cases across both modes/formats/theatre/sizes. No2D text clipping or page horizontal overflow; canvases present in3D. Dark390x844 report with40 live workings and5/10/10/5 table rows had zero overflow or injected images. Light theme/defaultviewport restored.",
+    "practicalRecord": "Four tables and40 worked blocks per comparison. Empty balanced construction rejected;18C12 tokens manually added using increment buttons enabled recording. All38 isotope choices completed throughUI with matching token counts and eligible recording. Nine paused guide stages gate recording before135s; incomplete120/134.9 disabled. Six integer-count min/max cases exercised. Five actual saved comparisons (C12/C13,Ar40/C13,Cl37/Cl35,H1/H1,C13/C12) persisted with plan/conclusion/literalHTMLnote after reload. Actual59835byte download independently passed200 results/410 operands/275 table fields."
+  },
+  "reviewScope": "Internal functional/numerical review, not independent human expert, official curriculum, physical-device/touch/FPS or printer certification. Discrete token counting for selected known H\u2013Ar isotope references and neutral ground-state shell occupancy. Partial tokens are an unfinished diagram, not an identified physical ion/nucleus. No isotope abundance, measured atomic mass, binding energy, nuclear size, physical assembly, electron position, electron speed or quantum wavefunction. Mass number is a nucleon count. Nuclear packing, colours, shell radii and arcs are arbitrary display choices; shell rings show occupancy, not electron trajectories. Comparison always uses completed neutral reference targets. Exact elementary-charge constant with floating-point representation; integer counts exact. Saved observations require completed neutral construction; timed record eligibility also requires verified stage and paused playback.",
+  "sourceHashes": {
+    "scripts/chemistry/export_neutral_atoms_reference.mjs": "b82f9161414112357ad0a7240c39650e7c10be68cdbde8575dbaa2ee538cefef",
+    "scripts/chemistry/export_neutral_atoms_report.mjs": "e74241a9a1599f11934a19a43d2c0b55b70cfd75cd81710848a406a21e433adf",
+    "scripts/chemistry/salt_corrosion_reference.py": "c99a20526398e1660259c4c3d63b65e24116457267385debbc426acb3c64feef",
+    "scripts/chemistry/test_neutral_atoms_mutations.py": "39962ce5cc591e5fa1cebdbcf83be770bb3826b566b506f620c9407aa8967808",
+    "scripts/chemistry/test_neutral_atoms_report_mutations.py": "64aaa139dbc419f91c04d5a72cdd2d4d1b5faf409ada42d26d45f72fa7b143ed",
+    "scripts/chemistry/validate_neutral_atoms.py": "d904813f293fb794d398505cf07aac92b434ace6b477093078a8be367e48ac01",
+    "scripts/chemistry/validate_neutral_atoms_report.py": "7f73009c00c2789e63b7b945f86712716976c1ed8efb874aa29b403b82c609e6",
+    "scripts/chemistry/validate_salt_corrosion_report.py": "4f7af22f1c368c2f4cb9d9db8e050113de8d80532f872568ffa824ea1295f8df",
+    "scripts/chemistry/validate_soap_hardness.py": "e5f80227d4b18ac6c9493c863f88fb09d9f7b2f5a9605fe00150eed48b1671a1",
+    "scripts/chemistry/validate_soap_hardness_report.py": "cb3a35b438fb0940794a17e1339ddb1a035e5ec1b5b01150213069d7c9a373e0",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/NeutralAtomsDiagram.tsx": "7d115f95178c76ecc61ac7757794071014d0573f8867cf77efd0c088c085ad29",
+    "src/components/chemistry/NeutralAtomsLab.tsx": "6f6a8436483cafe75844335793ba07bafa4ff4a6099803478425756cf6d19fc4",
+    "src/components/chemistry/NeutralAtomsScene.tsx": "af4ea2cbd518f8e844aded3da6728c04da8e184da31be2535ca81508c8758ff8",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/neutralAtoms.ts": "155b60690229a70724632ca71fb8aec5742df5e8ac02e10a6ff5b8099f3938e2",
+    "src/lib/chemistry/neutralAtomsGeometry.ts": "3c9f8435af2b7e623e2c0821e06ffb8d40b16a3c6c35fa291375ab796610688b",
+    "src/lib/chemistry/neutralAtomsRecord.ts": "3e61261cfbecb753599702328f0be1f5908ae720d0337645cfeb2d36cde717b9",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/load-ts.mjs": "cf004d44e82d4c0ee546d27bacf9601d189d83f2f17fce15a240ee53b7f0eb17"
+  }
+}

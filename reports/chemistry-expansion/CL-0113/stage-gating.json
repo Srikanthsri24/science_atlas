@@ -1,0 +1,47 @@
+[
+  {
+    "caption": "Compare prepared starch, half-starch plus glucose, glucose and water controls. The reagent contains iodine and potassium iodide.",
+    "recordDisabled": true,
+    "time": 0
+  },
+  {
+    "caption": "Withdraw a finite aliquot. Follow stock remaining, reagent held in the pipette and zero volume delivered.",
+    "recordDisabled": true,
+    "time": 15
+  },
+  {
+    "caption": "Move the loaded pipette over the sample without dispensing. Held reagent remains separately accounted for.",
+    "recordDisabled": true,
+    "time": 30
+  },
+  {
+    "caption": "Deliver the chosen aliquot. The association numbers are a selected, well-mixed endpoint reference—not a prediction of local colour during mixing.",
+    "recordDisabled": true,
+    "time": 40
+  },
+  {
+    "caption": "Deliver the chosen aliquot. The association numbers are a selected, well-mixed endpoint reference—not a prediction of local colour during mixing.",
+    "recordDisabled": true,
+    "time": 55
+  },
+  {
+    "caption": "Mix the prepared references. A schematic helix-association cue explains the qualitative contrast; it does not establish one unique polyiodide structure.",
+    "recordDisabled": true,
+    "time": 70
+  },
+  {
+    "caption": "Mix the prepared references. A schematic helix-association cue explains the qualitative contrast; it does not establish one unique polyiodide structure.",
+    "recordDisabled": true,
+    "time": 94.9
+  },
+  {
+    "caption": "Compare the qualitative reference cue with controls. The apparent association model has selected capacity and strength; it is not a calibrated detection limit, absorbance or food-composition measurement.",
+    "recordDisabled": false,
+    "time": 95
+  },
+  {
+    "caption": "Compare the qualitative reference cue with controls. The apparent association model has selected capacity and strength; it is not a calibrated detection limit, absorbance or food-composition measurement.",
+    "recordDisabled": false,
+    "time": 120
+  }
+]

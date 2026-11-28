@@ -1,0 +1,98 @@
+[
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 800,
+    "overflow": false,
+    "time": "40.8",
+    "width": 360
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 800,
+    "overflow": false,
+    "time": "41.1",
+    "width": 360
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "time": "41.5",
+    "width": 390
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "time": "41.9",
+    "width": 390
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 390,
+    "overflow": false,
+    "time": "42.4",
+    "width": 844
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 390,
+    "overflow": false,
+    "time": "42.8",
+    "width": 844
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "time": "43.1",
+    "width": 768
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "time": "43.4",
+    "width": 768
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "time": "43.7",
+    "width": 1366
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "time": "44",
+    "width": 1366
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "time": "44.2",
+    "width": 1920
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "time": "44.6",
+    "width": 1920
+  }
+]

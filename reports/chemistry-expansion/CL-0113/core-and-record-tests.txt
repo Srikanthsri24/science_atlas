@@ -1,0 +1,20 @@
+✔ starch notebook has complete matched tables and 176 worked calculations (4.924185ms)
+✔ all numeric observation fields have explicit worked substitutions; cue stays qualitative (5.115695ms)
+✔ practical safely preserves student text, original preparations and proper report sections (4.0403ms)
+✔ record validation cannot bypass transfer limits or the forty-trial bound (0.518971ms)
+✔ starch iodine preparation rejects coercion, invalid capacity, tiny unsupported settings and impossible transfers (2.554205ms)
+✔ hand preparation and selected apparent binding equation agree without assigning molecular polyiodide stoichiometry (1.300173ms)
+✔ four controls preserve matched dry solute and distinguish reagent absence from a reagent-coloured control (0.721532ms)
+✔ withdrawal and delivery conserve each stock, pipette and vial inventory (1.21144ms)
+✔ association is bounded, responds to selected strength and capacity, and leaves total solute mass unchanged (0.477623ms)
+✔ tiny positive model association survives rather than being erased by subtractive cancellation (0.228624ms)
+✔ parameter grid preserves carrier, atom and material accounts at zero and strong binding references (14.543052ms)
+✔ 120-second guide stages finite pipetting before mixing and does not permit premature observations (8.615445ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 640.256429

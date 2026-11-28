@@ -1,0 +1,17 @@
+✔ soap/detergent inputs reject coercion, missing values and invalid matching (3.818036ms)
+✔ hand calculation of equal-molar 20 mL dose separates soap consumption from hardness persistence (3.054161ms)
+✔ equal mass delivers different mole counts; neutral detergent remains electrically neutral (0.612262ms)
+✔ low dose exhausts soap proportionally but does not soften water in the neutral-detergent channel (0.630825ms)
+✔ zero dose availability is undefined rather than a claimed zero percentage (0.432794ms)
+✔ CMC range is labelled only as a reference; soap has no nonionic classification (0.475077ms)
+✔ 768 preparations preserve finite stocks, material, ions and surfactant inventory (24.338157ms)
+✔ agitation does not invent chemical conversion or empirical foam performance (2.008586ms)
+✔ 120-second guide supplies 90 seconds of dose/agitation staging and deterministic source conditions (29.695118ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1040.873742

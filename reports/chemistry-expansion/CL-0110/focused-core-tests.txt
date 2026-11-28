@@ -1,0 +1,40 @@
+✔ soap/detergent inputs reject coercion, missing values and invalid matching (4.793397ms)
+✔ hand calculation of equal-molar 20 mL dose separates soap consumption from hardness persistence (2.641219ms)
+✔ equal mass delivers different mole counts; neutral detergent remains electrically neutral (0.715835ms)
+✔ low dose exhausts soap proportionally but does not soften water in the neutral-detergent channel (0.831446ms)
+✔ zero dose availability is undefined rather than a claimed zero percentage (0.557176ms)
+✔ CMC range is labelled only as a reference; soap has no nonionic classification (0.683951ms)
+✖ 1536 preparations preserve finite stocks, material, ions and surfactant inventory (28.154497ms)
+✔ agitation does not invent chemical conversion or empirical foam performance (1.766578ms)
+✔ 120-second guide supplies 90 seconds of dose/agitation staging and deterministic source conditions (28.844633ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 8
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1019.763603
+
+✖ failing tests:
+
+test at tests/chemistry-soap-detergent.test.mjs:9:1
+✖ 1536 preparations preserve finite stocks, material, ions and surfactant inventory (28.154497ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  768 !== 1536
+  
+      at TestContext.<anonymous> (file:///Users/macbookpro/Documents/ChatGPT/atlas/science_atlas_360/tests/chemistry-soap-detergent.test.mjs:9:1104)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1402:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+      at Test.postRun (node:internal/test_runner/test:1542:19)
+      at Test.run (node:internal/test_runner/test:1467:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 768,
+    expected: 1536,
+    operator: 'strictEqual',
+    diff: 'simple'
+  }

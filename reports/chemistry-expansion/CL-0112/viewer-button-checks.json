@@ -1,0 +1,33 @@
+{
+  "canvas": [
+    {
+      "control": "Labels",
+      "changed": true,
+      "preservedValues": true
+    },
+    {
+      "control": "Cutaway",
+      "changed": true,
+      "preservedValues": true
+    },
+    {
+      "control": "Fibre zoom in",
+      "changed": true,
+      "preservedValues": true
+    },
+    {
+      "control": "Fibre zoom out",
+      "changed": true,
+      "preservedValues": true
+    },
+    {
+      "control": "Reset camera after zoom",
+      "changed": true,
+      "preservedValues": true
+    }
+  ],
+  "card": {
+    "before": 1,
+    "after": 0
+  }
+}

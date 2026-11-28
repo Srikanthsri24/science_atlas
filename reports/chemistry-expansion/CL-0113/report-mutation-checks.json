@@ -1,0 +1,42 @@
+[
+  {
+    "corruption": "wrong-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-calculation",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-calculation",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-transfer-volume-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-capacity-basis",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-atom-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "false-untested-control",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-sample-identity",
+    "rejected": true
+  }
+]

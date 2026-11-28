@@ -1,0 +1,10 @@
+# Private scientific evidence — CL-0124
+
+Reviewed 2026-11-28. Internal development references; no external referral panel in the student interface.
+
+- University of Washington Chemistry, Metals with Acid: https://chem.washington.edu/lecture-demos/metals-acid — full text retrieved. Supports zinc/HCl hydrogen production and copper as a no-visible-hydrogen control during the lecture period. The demonstration uses3M HCl; our chosen ideal dilute reference will use at most1M and will not inherit a measured rate from that demonstration. Its introductory summary groups metals loosely; the discussion explicitly distinguishes copper.
+- Open University TESSA teacher resource: https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=158680&section=2.7 — full text retrieved. Explicit Fe+2HCl→FeCl2+H2 equation, copper below hydrogen, and1mol/dm³ HCl teaching context. Supports selected Fe(II) channel, not oxidizing acids or rate predictions. Zinc/HCl supported by UW; divalent stoichiometry follows charge/element balance.
+- RSC microscale reactions search result corroborates Zn/Fe hydrogen and copper/HCl control, but full page returned405; not counted as independently inspected full-text evidence. NCERT laboratory manual full PDF timed out; no official curriculum mapping claimed.
+- Rounded Zn65.38,Fe55.845,Cu63.546 g/mol references previously verified through NIST inCL0123. Ideal-gas R from exact SI kB×NA, as previously used inCL0121; dry-equivalent compensated collection is a modelling assumption, not real wet-gas measurement certification.
+
+Scope: Zn/Fe/Cu with dilute non-oxidizing HCl; ideal M(II), finite metal and acid, prescribed extent, constant reference solution volume, fixed dry-equivalent collection T/P, ideal relieved collector capacity. Exclude oxygen/oxidizing acids, passivation, Fe(III), water corrosion, activities, heating, dissolution/water vapour/dead-space/transit losses and kinetics. No claim every metal reacts or every acid yields hydrogen. Hydrogen flammable; acid handling requires supervised approved equipment. No flame-test interaction in this virtual quantitative investigation.

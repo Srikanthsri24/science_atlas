@@ -1,0 +1,34 @@
+[
+  {
+    "action": "native orbit",
+    "changed": true
+  },
+  {
+    "action": "native wheel",
+    "changed": true
+  },
+  {
+    "action": "camera reset",
+    "changed": true
+  },
+  {
+    "action": "paused state stable",
+    "unchanged": true
+  },
+  {
+    "action": "Glass apparatus",
+    "changed": true
+  },
+  {
+    "action": "Apparatus labels",
+    "changed": true
+  },
+  {
+    "action": "Hydrogen signs",
+    "changed": true
+  },
+  {
+    "action": "collector selection",
+    "readout": "Generated 18.958 mL · retained 18.958 mL · overflow 0 mL (rounded)\nDry-equivalent collector at 298.15 K and 100000 Pa. Capacity remains available.\nApparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate."
+  }
+]

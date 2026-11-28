@@ -1,0 +1,10 @@
+{
+  "pausedStable": true,
+  "wheelChanged": true,
+  "orbitChanged": true,
+  "resetChanged": true,
+  "zoomChanged": true,
+  "Carrier inset": true,
+  "Wire electrons": true,
+  "waveformVisible": true
+}

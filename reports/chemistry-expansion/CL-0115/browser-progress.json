@@ -1,0 +1,14 @@
+{
+  "reviewStatus": "awaiting_final_regression",
+  "manualBuilder": "Empty balanced model rejected; eighteen C12 tokens placed manually and compared",
+  "keyboardSelection": "Enter selected proton token1; aria-pressed true",
+  "layoutCases": 240,
+  "isotopeChoicesChecked": 38,
+  "full2DGuideSeconds": 150,
+  "full3DGuideSeconds": 150,
+  "nativeCamera": "wheel and orbit changed pixels; paused frame identical",
+  "savedObservations": 5,
+  "browserReportBytes": 59835,
+  "independentlyAuditedWorkedResults": 200,
+  "nextGitPushReviewedCount": 125
+}

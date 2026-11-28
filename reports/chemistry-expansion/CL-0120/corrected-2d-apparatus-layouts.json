@@ -1,0 +1,86 @@
+[
+  {
+    "width": 360,
+    "height": 800,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "clipped": [],
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "clipped": [],
+    "overflow": false
+  }
+]

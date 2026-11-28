@@ -1,0 +1,16 @@
+{
+  "rejectedCorruptions": 11,
+  "checks": [
+    "current units changed",
+    "empty ratio falsely numeric",
+    "retention operator changed",
+    "guide provenance forged",
+    "false verification label",
+    "charge unit changed",
+    "zero charge changed",
+    "same-value substitution hides source operands",
+    "small positive volume erased",
+    "overflow lost",
+    "retained ratio falsely stoichiometric"
+  ]
+}

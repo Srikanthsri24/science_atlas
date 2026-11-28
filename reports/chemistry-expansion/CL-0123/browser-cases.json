@@ -1,0 +1,195 @@
+[
+  {
+    "coupon": "Zn",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "same-metal control"
+    ],
+    "solution": "Zn"
+  },
+  {
+    "coupon": "Zn",
+    "progress": "1",
+    "readings": [
+      "0.005 mol",
+      "0.1731 g",
+      "0.279225 g",
+      "0 mol",
+      "solution ions"
+    ],
+    "solution": "Fe"
+  },
+  {
+    "coupon": "Zn",
+    "progress": "1",
+    "readings": [
+      "0.005 mol",
+      "0.1731 g",
+      "0.31773 g",
+      "0 mol",
+      "solution ions"
+    ],
+    "solution": "Cu"
+  },
+  {
+    "coupon": "Fe",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "reverse-order control"
+    ],
+    "solution": "Zn"
+  },
+  {
+    "coupon": "Fe",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "same-metal control"
+    ],
+    "solution": "Fe"
+  },
+  {
+    "coupon": "Fe",
+    "progress": "1",
+    "readings": [
+      "0.005 mol",
+      "0.220775 g",
+      "0.31773 g",
+      "0 mol",
+      "solution ions"
+    ],
+    "solution": "Cu"
+  },
+  {
+    "coupon": "Cu",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "reverse-order control"
+    ],
+    "solution": "Zn"
+  },
+  {
+    "coupon": "Cu",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "reverse-order control"
+    ],
+    "solution": "Fe"
+  },
+  {
+    "coupon": "Cu",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "same-metal control"
+    ],
+    "solution": "Cu"
+  },
+  {
+    "kind": "no-contact",
+    "concentration": "0.1",
+    "contact": false,
+    "coupon": "Fe",
+    "mass": "0.5",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0.005 mol",
+      "no-contact control"
+    ],
+    "solution": "Cu",
+    "volume": "50"
+  },
+  {
+    "kind": "no-coupon",
+    "concentration": "0.1",
+    "contact": true,
+    "coupon": "Fe",
+    "mass": "0",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0 g",
+      "0 g",
+      "0.005 mol",
+      "no coupon"
+    ],
+    "solution": "Cu",
+    "volume": "50"
+  },
+  {
+    "kind": "no-ions",
+    "concentration": "0",
+    "contact": true,
+    "coupon": "Fe",
+    "mass": "0.5",
+    "progress": "1",
+    "readings": [
+      "0 mol",
+      "0.5 g",
+      "0 g",
+      "0 mol",
+      "no target ions"
+    ],
+    "solution": "Cu",
+    "volume": "50"
+  },
+  {
+    "kind": "coupon-limited",
+    "concentration": "0.5",
+    "contact": true,
+    "coupon": "Fe",
+    "mass": "0.05",
+    "progress": "1",
+    "readings": [
+      "0.0008953353 mol",
+      "0 g",
+      "0.056894977 g",
+      "0.049104665 mol",
+      "coupon"
+    ],
+    "solution": "Cu",
+    "volume": "100"
+  },
+  {
+    "kind": "maximum",
+    "concentration": "0.5",
+    "contact": true,
+    "coupon": "Fe",
+    "mass": "2",
+    "progress": "1",
+    "readings": [
+      "0.035813412 mol",
+      "0 g",
+      "2.2757991 g",
+      "0.014186588 mol",
+      "coupon"
+    ],
+    "solution": "Cu",
+    "volume": "100"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "control": "Conductivity gap",
+    "key": "Home",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current140.823 µA",
+      "Cell constant50 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 7/40 observations · 217 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity gap",
+    "key": "End",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current23.4705 µA",
+      "Cell constant300 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 8/40 observations · 248 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity width",
+    "key": "Home",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current35.20575 µA",
+      "Cell constant200 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 9/40 observations · 279 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity width",
+    "key": "End",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current140.823 µA",
+      "Cell constant50 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 10/40 observations · 310 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity immersed depth",
+    "key": "Home",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current0 µA",
+      "Cell constantUnavailable m⁻¹",
+      "Reconstructed κUnavailable S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Electrodes not immersed — no conductivity reading.",
+      "Notebook: 11/40 observations · 341 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity immersed depth",
+    "key": "End",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current211.2345 µA",
+      "Cell constant33.333333 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 12/40 observations · 372 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity source rms voltage",
+    "key": "Home",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current0 µA",
+      "Cell constant100 m⁻¹",
+      "Reconstructed κUnavailable S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Zero excitation — no conductivity reading.",
+      "Notebook: 13/40 observations · 403 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "Conductivity source rms voltage",
+    "key": "End",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current140.823 µA",
+      "Cell constant100 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Notebook: 14/40 observations · 434 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  },
+  {
+    "control": "source disconnected",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current0 µA",
+      "Cell constant100 m⁻¹",
+      "Reconstructed κUnavailable S/m"
+    ],
+    "status": [
+      "25°C published molality-based solute-conductivity reference; solvent contribution excluded, no certification claim.",
+      "Molality 0.01 mol/kg solvent · temperature25°C · physical frequency1kHz.",
+      "Source disconnected — no conductivity reading.",
+      "Notebook: 15/40 observations · 465 worked calculations. Observation saved with its reading status and guide conditions.",
+      "An unavailable reading does not mean the solution conductivity is zero."
+    ]
+  }
+]

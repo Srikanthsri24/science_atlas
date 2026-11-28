@@ -1,0 +1,14 @@
+{
+  "conclusion": "Changing gap or wetted area changes bulk conductance while the assigned solution conductivity stays fixed. Small water-background currents are nonzero. Unavailable readings are not zero conductivity; these ideal references do not establish water safety or real-instrument accuracy.",
+  "images": 0,
+  "note": "Keep <img src=x onerror=alert(1)> as literal observation text.",
+  "notebook": "Notebook: 26/40 observations · 806 worked calculations. ",
+  "plan": "Compare assigned conductivity and ideal RMS current at matched25°C cell geometry. Separate RMS values from instantaneous phase and test disconnected, dry and zero-excitation controls.",
+  "rows": [
+    26,
+    26,
+    26,
+    26,
+    26
+  ]
+}

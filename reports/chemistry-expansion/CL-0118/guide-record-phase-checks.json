@@ -1,0 +1,20 @@
+{
+  "blockedWhilePlaying": true,
+  "phases118": [
+    {
+      "lastPreparation": "153CO280:0:0All0.666666666666666665Guided inspection before verification",
+      "opening": "0.67",
+      "time": "65"
+    },
+    {
+      "lastPreparation": "163CO280:0:0All0139.9Guided inspection before verification",
+      "opening": "0",
+      "time": "139.9"
+    },
+    {
+      "lastPreparation": "173CO280:0:0All0140Verified guided comparison",
+      "opening": "0",
+      "time": "140"
+    }
+  ]
+}

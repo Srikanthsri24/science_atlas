@@ -1,0 +1,24 @@
+# Preparatory scientific notes — CL-0125
+
+Not implemented or reviewed. CL0124 final compilation gate still pending when these notes were created. Potential chosen comparison: separate CaO-derived hydroxide and closed dissolved inorganic-carbon references at25°C; no mixing between cells and no claim all oxides behave alike. Do not turn this into a generic metal/nonmetal classification animation.
+
+Official publisher full tables inspected2026-11-28:
+- https://openstax.org/books/chemistry-2e/pages/j-solubility-products : selected Ca(OH)2 Ksp1.3e-6 at25°C (not5.5e-6). This is the chosen rounded reference if used; do not silently mix tables. Supports solid/solution complementarity; saturation only when excess solid remains. State ideal concentration treatment and activity limitations.
+- https://openstax.org/books/chemistry-2e/pages/h-ionization-constants-of-weak-acids : selected carbonic apparent first4.3e-7 and bicarbonate second4.7e-11 at25°C. Must distinguish neutral CO2(aq)+H2CO3 pool (H2CO3*) from pure molecular H2CO3. Do not represent every dissolved CO2 molecule as hydrated carbonic acid.
+- https://openstax.org/books/chemistry-atoms-first-2e/pages/15-1-precipitation-and-dissolution : equilibrium expressions and finite solid/solution separation. Read full relevant section. Original explanatory writing only, no copied figures/passages.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC5747581/ : research discussion distinguishing apparent carbonic acidity from molecular H2CO3; full-open retrieval returned a browser/reCAPTCHA interstitial. Search excerpt supports the caution, but this is not counted as inspected full text. No challenge bypass attempted.
+
+Further verification required before code: primary oxide hydration/acidification evidence; own constants/units, temperature and finite-dose constraints. Candidate solver: independent separate cells, fixed25°C, finite CaO input fully hydrated then Ca(OH)2 dissolution limited by Ksp plus water autoionization; finite prescribed dissolved carbon dose with diprotic distribution/charge root and Kw. No gas absorption/Henry-law prediction without actual headspace model. Closed carbon mass account, no atmospheric exchange; no Ca/carbonate mixing or CaCO3 precipitation. Isothermal reference excludes CaO hydration heat; never imply the real reaction is athermal. Carbonic pool chemistry is equilibrium, not hydration/transport kinetics. Litmus response needs a declared transition reference and colour limitations; measured-style readings must be identified as model outputs. Neutral/amphoteric/insoluble oxides remain outside selected scope and should be named as limits to generalization.
+
+## Additional primary sources inspected
+
+- https://guidelines.nhmrc.gov.au/australian-drinking-water-guidelines/part-5/treatment-chemicals/calcium-hydroxide : full official page supports hydration of quicklime into hydroxide and increased water pH from hydroxide ions. No drinking-water safety claim belongs in this lab. Its20°C mass-solubility figure must not be mixed into the chosen25°C ideal Ksp reference. The larger officialPDF could not beopened(size limit); only search excerpt reportsCaOexothermicity, so seek a small full source for that detail before final scientificreview.
+- https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson10.html : full ACS lesson supports CO2-driven acidification and bromothymol-blue classroom indication. Its text explicitly says only a small amount of carbonic acid forms; it does not establish all dissolved CO2 as molecularH2CO3. Original study/model content must not copy its lesson. Indicator colours depend on startingwaterpH; no universal calibrated colour claim.
+
+CL0124finalcompilation/build passed and frozeninternalreview/ledger124ready. CL0125nowin_progress. Nextstepresolve carbonicneutralpool convention with a fully accessible primarysource, chosen25°C ideal constants andoxide hydration assumptions, then quantitativecorewithindependentvalidation. No125code/UIyet.
+
+## Scope correction after duplicate audit
+
+CL0100alreadyimplements the originalCaO/CO2watercandidate. FinalCL0125scopeis distinct CuO/HCl neutralization and closedcarbon/NaOHdosing;seescope-decision.md. Ca(OH)2Ksp/CaOheatdatawillnotbeusedintheCL0125core. Do notcopypriorCL0100assetsorsolverasnewcompletion.
+
+Additionalprimaryevidencesearchidentified UniversityofBristolCO2moleculepage supportingacidicoxideNaOHneutralization,andERICarchivedchemicaldemonstrationsbookCuO/HCl. Fullretrievalissuedthisturn;inspectresultsbeforeclaimingfullverification. USDAprimaryresearchPDFinitialopenretrievedtextbutsubsequentCO2pool-sectionfetches timedout; notcountedfullinspectionofpooldefinition. Numericalmodel explicitlydeclaresCO2*neutralpool and chosenapparentK1;formalconstantfrompublisherreference. No intrinsicH2CO3molecular-speciation claim.

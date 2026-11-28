@@ -1,0 +1,86 @@
+[
+  {
+    "key": "sampleMl",
+    "end": "Home",
+    "value": "20",
+    "limit": "20",
+    "passed": true
+  },
+  {
+    "key": "sampleMl",
+    "end": "End",
+    "value": "100",
+    "limit": "100",
+    "passed": true
+  },
+  {
+    "key": "calciumMmolL",
+    "end": "Home",
+    "value": "0",
+    "limit": "0",
+    "passed": true
+  },
+  {
+    "key": "calciumMmolL",
+    "end": "End",
+    "value": "5",
+    "limit": "5",
+    "passed": true
+  },
+  {
+    "key": "magnesiumMmolL",
+    "end": "Home",
+    "value": "0",
+    "limit": "0",
+    "passed": true
+  },
+  {
+    "key": "magnesiumMmolL",
+    "end": "End",
+    "value": "5",
+    "limit": "5",
+    "passed": true
+  },
+  {
+    "key": "soapMolL",
+    "end": "Home",
+    "value": "0.005",
+    "limit": "0.005",
+    "passed": true
+  },
+  {
+    "key": "soapMolL",
+    "end": "End",
+    "value": "0.05",
+    "limit": "0.05",
+    "passed": true
+  },
+  {
+    "key": "deliveredMl",
+    "end": "Home",
+    "value": "0",
+    "limit": "0",
+    "passed": true
+  },
+  {
+    "key": "deliveredMl",
+    "end": "End",
+    "value": "20",
+    "limit": "20",
+    "passed": true
+  },
+  {
+    "key": "agitationCycles",
+    "end": "Home",
+    "value": "0",
+    "limit": "0",
+    "passed": true
+  },
+  {
+    "key": "agitationCycles",
+    "end": "End",
+    "value": "30",
+    "limit": "30",
+    "passed": true
+  }
+]

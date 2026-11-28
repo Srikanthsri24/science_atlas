@@ -1,0 +1,11 @@
+{
+  "pausedStable": true,
+  "wheelChanged": true,
+  "orbitChanged": true,
+  "resetChanged": true,
+  "zoomChanged": true,
+  "Selected ion label": true,
+  "Coordination annotations": true,
+  "Boundary accounting": true,
+  "filterChanged": true
+}

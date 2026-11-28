@@ -1,0 +1,7 @@
+# Distinct investigation scope
+
+Catalogue/source audit found CL-0100 already implements separate sealed CO2/water equilibrium, CaO hydration and limited hydroxide dissolution with quantitative accounts. Repeating that apparatus/model would not satisfy distinct investigations. PreserveCL0100andtheoriginalCL0125ID/title;noinventorydeletion.
+
+CL0125will insteadcompare neutralization behaviour: finiteCuO+HCl selectedCu(II)channel alongside a separate closed dissolved-carbon reference receiving finiteNaOHstock. Left: prescribedboundedCuOdissolution,acidconsumption,Cui​​onsandchloridespectator;do notlabelacid-exhaustedCuCl2solutionneutralorclaimactualpHwithoutCu(II)hydrolysis. Right:deliveredNaOHaddsrealreferencevolumeandNa+,diproticCO2*/bicarbonate/carbonatespeciationpluswaterautoionizationandchargebalanceat25°C. Carbonpoolpredefineddissolved;nogasabsorption/Henry/headspaceprediction. Comparetitrantdemandandcarbonatefractions,notjustwatercolour. KeeptrueCO2*poolnotation;noalchemicalall-CO2-to-H2CO3hydrationanimation. K1/K2chosenroundedreferencefrompriorresearch;activities,heating,kineticsandoxidizingacidsexcluded.
+
+EarlierCaO-waterresearchremainsinresearch-notes.mdasresearchhistory;itdoesnotdefinefinalimplementation. PrimaryCuOacidandcarbon/alkalinebehaviourverificationrequired;numericindependentreferenceandreportauditbeforeUIreview.

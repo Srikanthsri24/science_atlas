@@ -1,3 +1,23 @@
+# CL-0108 integrated locally; final browser review remains
+
+107/270 internally reviewed; 100 published; next push at 125. CL-0108 now has connected 2D/3D viewers, complete actual 120-second guides, seven-table notebook and independently checked report. Detached-zinc barrier semantics were corrected before review. Latest reference: 394 preparations / 1,576 cells / 107,278 checks. Twenty focused and all 3,375 regression tests pass. TypeScript and 26.39-second build pass. Six actual saved observations/export (1,052 calculations) pass independent validation and survive reload.
+
+Remaining: responsive/all-scope/text bounds; paused frame; numeric boundaries; canvas button effects; native gestures; review isolation/outline and contact-availability labels; final frozen internal review. Do not mark CL-0108 ready or create review.json yet. All 146 original staged blobs must remain untouched.
+
+Current browser bindings speedBrowser103 / speedTab103 / speedViewport103 / speedFs103 persist. Local tab is CL-0108, light, default viewport, 3D scratched close-up with separated coating at 1.4 model days, six notebook trials. CUA completion summary already sent for this phase; screenshot 3d-local-coating-review.png.
+
+Earlier checkpoints below are historical.
+
+# Current milestone — 107 internally reviewed, 100 published
+
+2026-11-27: Native drag/wheel passed for CL-0100–0107 after unlock. CL-0101–0107 final internal reviews and source hashes are now frozen locally. CL-0108 zinc-coating design has begun, with no model or viewer completion claimed. Public catalogue remains at exactly 100 ready labs; next scheduled publish boundary is 125.
+
+Batch 76–100 code is deployed at commit 3f76b9e79f0eea875582786294f62f57d6ed0d7c, successful Pages run 46005917871, receipt commit 61dcbf3ad7ab237219b8589ca627d2d27cb62b90. Live CL-0100 3D and completed reference outputs were checked; public catalogue confirms 100/270. Initial CI failure was an exact floating-point assertion in CL-0095; one tolerance correction passed focused tests and full Linux CI. Scientific model unchanged.
+
+All 146 original staged blobs remain untouched. Main working branch was aligned using expected-old update-ref and chemistry-only index resets, preserving later local work. Goal stays active. The old publishing candidate remains at the receipt commit; do not recreate or republish it as a new batch.
+
+Earlier checkpoints below are historical.
+
 # Current milestone — 2026-11-27
 
 100 of 270 Chemistry Labs passed internal functional review. CL-0100 native left drag and wheel were confirmed after the Mac was unlocked; screenshots and unchanged-reading/time evidence are in its private folder. CL-0101–0107 remain in progress in this publishing snapshot. Newer native evidence for those labs exists in the working checkout and has not yet been folded into their final review records.

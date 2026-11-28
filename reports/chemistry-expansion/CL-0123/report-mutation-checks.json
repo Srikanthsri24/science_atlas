@@ -1,0 +1,19 @@
+{
+  "rejectedCorruptions": 14,
+  "checks": [
+    "solution volume unit changed",
+    "deposit mass unit changed",
+    "undefined conversion falsely evaluated",
+    "false verified manual snapshot",
+    "guide time forged",
+    "electron stoichiometry changed",
+    "sulfate charge sign changed",
+    "nonreaction deposit invented",
+    "tiny positive deposit erased",
+    "reacted extent erased",
+    "spectator sulfate removed",
+    "element conservation corrupted",
+    "false mass residual",
+    "same result loses substitution operands"
+  ]
+}

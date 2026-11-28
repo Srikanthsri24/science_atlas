@@ -1,0 +1,16 @@
+✔ unwashed finite aliquot independently balances retained salt, particles and water (2.809096ms)
+✔ finite rinse preserves pore carrier while removing trapped solute and adding tracked water (0.400413ms)
+✔ water and dissolved-only controls never invent suspended mass; incomplete retention contaminates dish residue (0.422231ms)
+✔ zero volume and zero hold-up controls have honest undefined ratios and no trapped salt (0.465312ms)
+✔ drying transfers only carrier to vapour and dry weighing is gated until its endpoint (0.31708ms)
+✔ parameter corners conserve each material independently and stay nonnegative (37.860788ms)
+✔ tiny positive rinsing is not erased by subtracting near-equal exponentials (0.234702ms)
+✔ 150second guide stages filtration then rinse then drying without calling presentation time kinetics (0.824413ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 648.473141

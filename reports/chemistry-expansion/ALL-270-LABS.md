@@ -124,34 +124,34 @@ This is the complete development list, not a claim that all labs are finished. C
 - **CL-0098** — Observe acid-carbonate gas formation and limewater evidence · ready
 - **CL-0099** — Compare indicators before and after dilution · ready
 - **CL-0100** — Investigate acidic and basic oxides with water · ready
-- **CL-0101** — Compare the pH of selected food-solution models · in progress
-- **CL-0102** — Observe a precipitation reaction between two salt solutions · in progress
-- **CL-0103** — Compare fast and slow reaction observations · in progress
-- **CL-0104** — Investigate surface area in a dissolving-solid model · in progress
-- **CL-0105** — Compare reversible phase changes and new-substance formation · in progress
-- **CL-0106** — Test the conditions required for iron corrosion · in progress
-- **CL-0107** — Compare rusting with saltwater concentration · in progress
-- **CL-0108** — Investigate a protective zinc coating · planned
-- **CL-0109** — Compare water hardness using a soap-foam model · planned
-- **CL-0110** — Compare soap and detergent in hard water · planned
-- **CL-0111** — Follow acid-rain effects on a carbonate surface · planned
-- **CL-0112** — Compare natural and synthetic fibre absorption · planned
-- **CL-0113** — Investigate starch detection with iodine · planned
-- **CL-0114** — Compare dissolved and suspended impurities in water · planned
+- **CL-0101** — Compare the pH of selected food-solution models · ready
+- **CL-0102** — Observe a precipitation reaction between two salt solutions · ready
+- **CL-0103** — Compare fast and slow reaction observations · ready
+- **CL-0104** — Investigate surface area in a dissolving-solid model · ready
+- **CL-0105** — Compare reversible phase changes and new-substance formation · ready
+- **CL-0106** — Test the conditions required for iron corrosion · ready
+- **CL-0107** — Compare rusting with saltwater concentration · ready
+- **CL-0108** — Investigate a protective zinc coating · ready
+- **CL-0109** — Compare water hardness using a soap-foam model · ready
+- **CL-0110** — Compare soap and detergent in hard water · ready
+- **CL-0111** — Follow acid-rain effects on a carbonate surface · ready
+- **CL-0112** — Compare natural and synthetic fibre absorption · ready
+- **CL-0113** — Investigate starch detection with iodine · ready
+- **CL-0114** — Compare dissolved and suspended impurities in water · ready
 
 ## Class 8 — Particles, reactions and materials
 
-- **CL-0115** — Construct and compare neutral atomic models · planned
-- **CL-0116** — Form ions by formal electron bookkeeping · planned
-- **CL-0117** — Build simple molecules from valency constraints · planned
-- **CL-0118** — Compare ionic and covalent particle arrangements · planned
-- **CL-0119** — Investigate electrical conduction in selected solutions · planned
-- **CL-0120** — Compare a solid ionic sample and its aqueous solution · planned
-- **CL-0121** — Model electrolysis of water with gas-volume accounting · planned
-- **CL-0122** — Investigate copper electroplating and deposited mass · planned
-- **CL-0123** — Compare reactivity through metal-displacement reactions · planned
-- **CL-0124** — Observe metal reactions with dilute acid in a chosen model · planned
-- **CL-0125** — Compare metal-oxide and non-metal-oxide behaviour · planned
+- **CL-0115** — Construct and compare neutral atomic models · ready
+- **CL-0116** — Form ions by formal electron bookkeeping · ready
+- **CL-0117** — Build simple molecules from valency constraints · ready
+- **CL-0118** — Compare ionic and covalent particle arrangements · ready
+- **CL-0119** — Investigate electrical conduction in selected solutions · ready
+- **CL-0120** — Compare a solid ionic sample and its aqueous solution · ready
+- **CL-0121** — Model electrolysis of water with gas-volume accounting · ready
+- **CL-0122** — Investigate copper electroplating and deposited mass · ready
+- **CL-0123** — Compare reactivity through metal-displacement reactions · ready
+- **CL-0124** — Observe metal reactions with dilute acid in a chosen model · ready
+- **CL-0125** — Compare metal-oxide and non-metal-oxide behaviour · ready
 - **CL-0126** — Balance atoms in a simple reaction model · planned
 - **CL-0127** — Investigate a combustion triangle using controlled conditions · planned
 - **CL-0128** — Compare complete and incomplete combustion of a fuel model · planned

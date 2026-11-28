@@ -1,0 +1,50 @@
+[
+  {
+    "corruption": "wrong-charge-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-charge-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-elementary-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-charge-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-symbolic-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "reversed-neutron-subtraction",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-work",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-work",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-mass-number-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-charge-table-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-reference-identity",
+    "rejected": true
+  },
+  {
+    "corruption": "false-isotope-classification",
+    "rejected": true
+  }
+]

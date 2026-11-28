@@ -1,0 +1,5 @@
+# CL-0124 — Metals with dilute acid
+
+Sequential development; not reviewed. Selected Zn/Fe/Cu + dilute HCl model. Distinct fromCL0123: H+ consumption, M(II)/chloride accounts and hydrogen generation/compensated collection, rather than deposition of a second metal. Finite stocks bound x≤min(m/M,cV/2); copper has no selected H+-to-H2 channel. Account generated, retained and relief-overflow hydrogen separately with dry-equivalent V=nRT/P, never treat overflow as suppressed reaction or accumulated pressure. Prescribed extent is not kinetics. Equal masses do not imply equal moles or gas yields.
+
+Original2D/3D flask/collector apparatus, clear continuous stock/gas collection sweep≥60s within150s narration, real controls, no fabricated reaction rate or wet-gas measurement. Tables/worked mole/acid/metal/gas/unit/charge/element accounts, exam report with independent operand/unit/provenance validation. Core independent Decimal/reference and mutations; geometry, runtime allmaterials/limits, fullguides/nativecamera/notebook/export, sixviewportstwoformatsnormal/theatre, TypeScript/build/regression and frozeninternalreview before ready.

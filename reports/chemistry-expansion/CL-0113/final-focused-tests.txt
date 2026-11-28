@@ -1,0 +1,26 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.702065ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.59964ms)
+✔ nominal polygonal stocks, pipettes and vials preserve every transferred volume (29.221574ms)
+✔ pipette movement is continuous and crosses between vessels only above their rims (6.226288ms)
+✔ guide gates observations until mixing is complete and paused poses are deterministic (2.42562ms)
+✔ helix has consistent reference pitch, left handedness and representative cues without implied molecular counts (1.151385ms)
+✔ starch notebook has complete matched tables and 176 worked calculations (6.743692ms)
+✔ all numeric observation fields have explicit worked substitutions; cue stays qualitative (4.617122ms)
+✔ practical safely preserves student text, original preparations and proper report sections (3.521907ms)
+✔ record validation cannot bypass transfer limits or the forty-trial bound (0.499414ms)
+✔ starch iodine preparation rejects coercion, invalid capacity, tiny unsupported settings and impossible transfers (5.056532ms)
+✔ hand preparation and selected apparent binding equation agree without assigning molecular polyiodide stoichiometry (1.503768ms)
+✔ four controls preserve matched dry solute and distinguish reagent absence from a reagent-coloured control (0.784945ms)
+✔ withdrawal and delivery conserve each stock, pipette and vial inventory (1.42986ms)
+✔ association is bounded, responds to selected strength and capacity, and leaves total solute mass unchanged (0.822495ms)
+✔ tiny positive model association survives rather than being erased by subtractive cancellation (0.263079ms)
+✔ parameter grid preserves carrier, atom and material accounts at zero and strong binding references (14.20083ms)
+✔ 120-second guide stages finite pipetting before mixing and does not permit premature observations (9.130908ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 747.550537

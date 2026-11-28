@@ -1,0 +1,48 @@
+{
+  "labId": "CL-0102",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "core-reference-validation.txt: PASS 223 cases; 10035 independent numeric checks; reference-record-validation.txt: PASS {\"trials\": 12, \"workedResults\": 552, \"numericChecks\": 2736}",
+    "twoD": "Actual complete 120-second playback and state consistency verified; details and responsive checks retained in review-audit.json.",
+    "threeD": "Actual complete 120-second playback and viewer controls checked. Native left drag/wheel now verified with changed rendered screenshots and unchanged scientific readings/time; evidence native-interaction.json and native screenshots.",
+    "responsive": "See completedEvidence and saved scope/device matrices. Viewport checks and phone/desktop screenshot inspection do not establish all physical-device or touch certification.",
+    "practicalRecord": "PASS {\"trials\": 17, \"workedResults\": 782, \"numericChecks\": 3861}; saved notebook, student text persistence and HTML escaping verified as recorded in review-audit.json."
+  },
+  "completedEvidence": [
+    "223cases10035independentcorechecks",
+    "15focusedtests",
+    "3259fullregressiontests",
+    "TypeScript/build",
+    "actual120second2Dand3Dguides",
+    "204normal8theatreand5earlyresponsivechecks",
+    "17actualtrials782results3861independentreportchecks",
+    "persistence/safeHTML/partialstockaccounts",
+    "Native left drag/wheel visibly verified after unlock, unchanged readings/time."
+  ],
+  "reviewScope": "Internal functional review only; no independent expert, official board, physical all-device, touch, FPS or printer certification Finite silver and chloride stocks; equilibrium AgCl precipitation. Solid glyphs conserve material volume but do not predict turbidity, settling or crystal shape.",
+  "nativeGestureVerification": "Desktop Chrome native left drag and down-wheel verified; reset restored camera. No touch or right-button pan certification.",
+  "sourceHashes": {
+    "scripts/chemistry/salt_precipitation_reference.py": "5f2e2c5941e35a17539f8f25de0bf472facdb3c4c4ebd8297d5688f6c553b1d1",
+    "scripts/chemistry/validate_salt_precipitation.py": "44a9a7fe781a83e40caf4be1d378cdaaa0d4387d839ead4882162eb649f521d6",
+    "scripts/chemistry/validate_salt_precipitation_report.py": "7c703f51148d0f17bdf633a31149f461ba5416b3bbd1951fb4d9cf41078342d8",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/SaltPrecipitationDiagram.tsx": "baa6af3f176f2910cb6a6a87190a381798158e36303e2b336369032d5396dc1f",
+    "src/components/chemistry/SaltPrecipitationLab.tsx": "004f1334e8674fa2bbaea6af33f36778e0b34eb39951ad9cab5ba60076027ec4",
+    "src/components/chemistry/SaltPrecipitationReadings.tsx": "b228b606908ef913d4163ed6ed25deec1e640f3b9ea588ac9a18f81b7029729d",
+    "src/components/chemistry/SaltPrecipitationScene.tsx": "e5f5ffada137a01a82ca3a41b6e59e4492276e63d9eec83197f3d1778b43bd73",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/saltPrecipitation.css": "f6db5059df7398050c5631005c1604d97f30f855f8a60b1073904734a8a911b3",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/saltPrecipitation.ts": "1370bf188a251f5288c422570088a83f67b84d45df9b2c841f01b4e279c1d95c",
+    "src/lib/chemistry/saltPrecipitationGeometry.ts": "beeab603e40adec3f0562a0f6994006e6f1b7e288cbef5fee28b29102b88b87a",
+    "src/lib/chemistry/saltPrecipitationRecord.ts": "c03fc3751ee603d91f59ca06abf23d61935303fcbc660f12c4711ee5b3f94e47",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/chemistry-salt-precipitation.test.mjs": "89d79f7cdc967cae4502c72aa5e72f33595dec816fff880ec7d74c432ed0ef01"
+  }
+}

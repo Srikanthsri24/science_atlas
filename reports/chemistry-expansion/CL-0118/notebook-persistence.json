@@ -1,0 +1,14 @@
+{
+  "conclusion": "Every selected NaCl repeat retains a1:1 weighted ion ratio and sixfold bulk coordination. Display slices do not change contents. Molecular groups retain their atom ratios; the rack is not crystal packing.",
+  "images": 0,
+  "note": "Preserve <img src=x onerror=alert(1)> as literal student text.",
+  "plan": "Compare weighted periodic cell contents with whole molecular counts. Separate raw display copies from formula units and inspect boundary neighbours.",
+  "rows": [
+    14,
+    112,
+    84,
+    28,
+    14
+  ],
+  "status": "Notebook: 14/40 observations · 406 worked calculations. "
+}

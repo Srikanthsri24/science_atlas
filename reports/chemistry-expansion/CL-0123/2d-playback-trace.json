@@ -1,0 +1,24 @@
+[
+  {
+    "contact": false,
+    "stocks": "Fe(s) + Cu2+(aq) → Fe2+(aq) + Cu(s)Reacted extent 0 mol · control / limiting stock: no-contact controlDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0 mol · Cu²⁺ 0.005 mol. No free electrons are depicted in the solution.Beaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles.",
+    "timeline": "0.6"
+  },
+  {
+    "stocks": "Fe(s) + Cu2+(aq) → Fe2+(aq) + Cu(s)Reacted extent 0 mol · control / limiting stock: solution ionsDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0 mol · Cu²⁺ 0.005 mol. No free electrons are depicted in the solution.Beaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles.",
+    "timeline": "39.8"
+  },
+  {
+    "stocks": "Fe(s) + Cu2+(aq) → Fe2+(aq) + Cu(s)Reacted extent 0.0025946 mol · control / limiting stock: solution ionsDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0.0025946 mol · Cu²⁺ 0.0024054 mol. No free electrons are depicted in the solution.Beaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles.",
+    "timeline": "76.1"
+  },
+  {
+    "stocks": "Fe(s) + Cu2+(aq) → Fe2+(aq) + Cu(s)Reacted extent 0.005 mol · control / limiting stock: solution ionsDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0.005 mol · Cu²⁺ 0 mol. No free electrons are depicted in the solution.Beaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles.",
+    "timeline": "105.6"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONRecord the observation and calculate the result. Check every element and the unchanged sulfate charge. The conclusion is limited to this ideal divalent displacement model.150-second explanation; extent changes continuously from 45 to 105 seconds. Display seconds are narration time, not measured reaction time. Rewinding progress revisits a reference state; it does not reverse the physical reaction.",
+    "stocks": "Fe(s) + Cu2+(aq) → Fe2+(aq) + Cu(s)Reacted extent 0.005 mol · control / limiting stock: solution ionsDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0.005 mol · Cu²⁺ 0 mol. No free electrons are depicted in the solution.Beaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles.",
+    "timeline": "150"
+  }
+]

@@ -1,0 +1,1 @@
+{"rejectedCorruptions": 15, "checks": ["totalValenceElectrons", "trayElectrons", "bondOrderTotal", "bondElectrons", "lonePairCount", "nonbondingElectrons", "unassignedElectrons", "residual", "atom.bondOrderSum", "atom.lonePairs", "atom.electronsAround", "atom.remainingBondAllowance", "atom.unassignedElectrons", "false completion", "wrong connectivity"]}

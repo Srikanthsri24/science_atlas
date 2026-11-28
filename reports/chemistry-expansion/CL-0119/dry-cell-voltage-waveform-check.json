@@ -1,0 +1,10 @@
+{
+  "currentYValues": 1,
+  "distinctChannels": true,
+  "readout": [
+    "RMS cell 0.05 V · 0 µA. Assigned κ 0.140823 S/m · Electrodes not immersed — no conductivity reading.",
+    "Instantaneous v 0.044168 V, i 0 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+    "● K+ positive · ● Cl− negative"
+  ],
+  "voltageYValues": 67
+}

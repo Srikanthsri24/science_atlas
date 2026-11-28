@@ -1,0 +1,18 @@
+{
+  "rejectedCorruptions": 13,
+  "checks": [
+    "reactivity order reversed",
+    "self reaction invented",
+    "reverse reaction invented",
+    "no-contact conversion invented",
+    "tiny positive deposit erased",
+    "coupon dissolution missing",
+    "target-ion inventory not consumed",
+    "electron factor wrong",
+    "spectator sulfate removed",
+    "cation charge conservation broken",
+    "zero denominator given numeric conversion",
+    "limiting reagent misclassified",
+    "element inventory corrupted"
+  ]
+}

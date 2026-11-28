@@ -1,0 +1,17 @@
+{
+  "rejectedCorruptions": 12,
+  "checks": [
+    "copper hydrogen invented",
+    "no-contact reaction invented",
+    "hydrogen yield erased",
+    "acid factor of two lost",
+    "coupon dissolution erased",
+    "chloride spectator missing",
+    "positive charge lost",
+    "gas volume unit error",
+    "overflow lost",
+    "collector retains more than capacity",
+    "zero acid conversion given numeric value",
+    "limiting stock forged"
+  ]
+}

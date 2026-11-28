@@ -1,0 +1,2 @@
+src/components/chemistry/ZincProtectionScene.tsx(21,336): error TS1005: '}' expected.
+src/components/chemistry/ZincProtectionScene.tsx(21,337): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?

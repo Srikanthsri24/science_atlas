@@ -1,0 +1,47 @@
+{
+  "phase119": [
+    {
+      "description": [
+        "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+        "Instantaneous v 0 V, i 0 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+        "● K+ positive · ● Cl− negative"
+      ],
+      "phase": "0"
+    },
+    {
+      "description": [
+        "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+        "Instantaneous v 0.0707107 V, i 0.0000995769 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+        "● K+ positive · ● Cl− negative"
+      ],
+      "phase": "0.25"
+    },
+    {
+      "description": [
+        "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+        "Instantaneous v 0 V, i 0 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+        "● K+ positive · ● Cl− negative"
+      ],
+      "phase": "0.5"
+    },
+    {
+      "description": [
+        "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+        "Instantaneous v -0.0707107 V, i -0.0000995769 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+        "● K+ positive · ● Cl− negative"
+      ],
+      "phase": "0.75"
+    },
+    {
+      "description": [
+        "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+        "Instantaneous v 0 V, i 0 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+        "● K+ positive · ● Cl− negative"
+      ],
+      "phase": "1"
+    }
+  ],
+  "pauseEnabled119": true,
+  "resumeDisabled119": true,
+  "guideDisabled119": true
+}

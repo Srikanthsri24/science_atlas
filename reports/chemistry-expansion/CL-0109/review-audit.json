@@ -1,0 +1,29 @@
+{
+  "labId": "CL-0109",
+  "status": "passed_internal_functional_review",
+  "internallyReviewed": true,
+  "independentExpertReviewed": false,
+  "pending": [],
+  "completedEvidence": [
+    "final-focused-tests.txt",
+    "final-typescript.txt",
+    "final-build.txt",
+    "integrated-full-regression.txt",
+    "core-reference-validation.txt",
+    "core-mutation-checks.json",
+    "report-reference-validation.txt",
+    "report-mutation-checks.json",
+    "browser-practical.html",
+    "browser-report-validation.txt",
+    "2d-guide-observations.json",
+    "3d-guide-observations.json",
+    "responsive-2d-checks.json",
+    "responsive-3d-checks.json",
+    "numeric-boundary-checks.json",
+    "canvas-control-effects.json",
+    "paused-frame-proof.json",
+    "record-and-label-controls.json"
+  ],
+  "nativeGestureVerification": "native-gesture-checks.json",
+  "historicalNativeAvailability": "Previously locked; native access recovered and both gestures passed."
+}

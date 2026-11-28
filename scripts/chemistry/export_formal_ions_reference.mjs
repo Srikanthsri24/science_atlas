@@ -1,0 +1,3 @@
+import{writeFileSync}from'node:fs';import{loadTs}from'../../tests/load-ts.mjs';const c=await loadTs('src/lib/chemistry/neutralAtoms.ts'),m=await loadTs('src/lib/chemistry/formalIons.ts'),rows=[];
+for(const t of c.neutralAtomIsotopes){const b=m.formalIonBounds(t.id);for(let transfer=b.minTransfer;transfer<=b.maxTransfer;transfer++)for(const transitDirection of['none','gain','loss']){if(transitDirection==='gain'&&transfer===b.maxTransfer||transitDirection==='loss'&&transfer===b.minTransfer)continue;const input={isotopeId:t.id,transfer,transitDirection};rows.push({input,state:m.formalIonState(input)})}}
+writeFileSync('reports/chemistry-expansion/CL-0116/core-reference.json',JSON.stringify(rows));console.log(rows.length,'formal states exported');

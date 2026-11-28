@@ -1,0 +1,1 @@
+PASS {"combinations": 1296, "typedFieldChecks": 62208}

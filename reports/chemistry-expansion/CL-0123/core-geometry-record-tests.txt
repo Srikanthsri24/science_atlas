@@ -1,0 +1,27 @@
+✔ beaker liquid height matches reference volume and every contacted chip is immersed (3.360781ms)
+✔ normalized chip volume and grain amount track remaining and deposited stock fractions (0.594465ms)
+✔ coupon-limited endpoint removes original stock while deposited stock remains separately visible (0.309207ms)
+✔ no-reaction, zero-stock and no-contact controls produce no deposition (0.439608ms)
+✔ comparison changes coupon identity only and uses horizontal or vertical independent beakers (2.446643ms)
+✔ all geometry fits declared bounds; paused calls and stable grain identities are deterministic (3.607035ms)
+✔ all offered pairs retain explicit equation/control and 30 worked accounts (3.357481ms)
+✔ zero-stock conversion denominator is unavailable and no arithmetic division is attempted (0.361529ms)
+✔ guide snapshots preserve original choices/time and reject forged extent or materials (0.787134ms)
+✔ HTML has three per-trial tables plus elementwise rows, escaped notes and original inputs (2.898043ms)
+✔ all nine selected pairs respect Zn > Fe > Cu, self and reverse controls (2.577527ms)
+✔ Fe/Cu default endpoint uses finite copper ions and balances each element, electrons and solution charge (0.394079ms)
+✔ coupon-limited endpoint never creates more reacted metal than available (0.223812ms)
+✔ progress is a bounded stoichiometric control and no-contact leaves all stocks unchanged (0.245358ms)
+✔ zero coupon and zero target concentration have unavailable conversion denominators (0.239114ms)
+✔ every species inventory remains nonnegative and conserved across all offered corners (5.341698ms)
+✔ comparison retains common volume/concentration/progress while varying only coupon identity (1.177613ms)
+✔ 150second guide begins with no contact and labels verification boundary honestly (0.388635ms)
+✔ invalid materials, nonfinite values and time domains are rejected (0.627519ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 640.003902

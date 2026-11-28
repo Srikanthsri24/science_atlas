@@ -1,0 +1,16 @@
+✔ starch iodine preparation rejects coercion, invalid capacity, tiny unsupported settings and impossible transfers (2.901565ms)
+✔ hand preparation and selected apparent binding equation agree without assigning molecular polyiodide stoichiometry (1.377187ms)
+✔ four controls preserve matched dry solute and distinguish reagent absence from a reagent-coloured control (0.761929ms)
+✔ withdrawal and delivery conserve each stock, pipette and vial inventory (1.352236ms)
+✔ association is bounded, responds to selected strength and capacity, and leaves total solute mass unchanged (0.531901ms)
+✔ tiny positive model association survives rather than being erased by subtractive cancellation (0.245988ms)
+✔ parameter grid preserves carrier, atom and material accounts at zero and strong binding references (18.423821ms)
+✔ 120-second guide stages finite pipetting before mixing and does not permit premature observations (10.908623ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 622.228648

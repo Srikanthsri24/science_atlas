@@ -1,6 +1,6 @@
 {
   "labId": "CL-0106",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "22 focused model/geometry/notebook tests passed;24 with catalogue navigation",
     "453 control states and19026 independent Decimal field checks passed",
@@ -19,10 +19,9 @@
     "Dark390px portrait theatre visually checked, including nonbreaking value/unit groups; console error log empty",
     "3333 full regression tests passed in155.09seconds",
     "Final segment TypeScript terminal exit0 with empty log; segment production build terminal exit0 in13.61seconds",
-    "Final unit-polish production build terminal exit0 in18.96seconds"
+    "Final unit-polish production build terminal exit0 in18.96seconds",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "Native left drag and wheel onCL-0106; native API still reports Mac locked"
-  ],
+  "unverified": [],
   "scope": "Internal functional and scientific-model checks only; no independent expert, official board, physical all-device, touch, FPS or printer certification."
 }

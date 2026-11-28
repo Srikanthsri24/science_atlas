@@ -1,0 +1,26 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.455556ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.447261ms)
+✔ reference solution and dry gas heights represent their distinct prescribed volumes (2.995769ms)
+✔ original coupon stock scales by volume and disappears only at full dissolution (1.382309ms)
+✔ relief capacity clips piston travel while gas generation remains separately accounted (0.429967ms)
+✔ hydrogen signs stay absent for all no-reaction controls and final snapshots (0.889793ms)
+✔ portrait stacks collector without changing volumes or stocks and keeps the apparatus in bounds (0.44742ms)
+✔ four observation tables and32workings retain distinct gas, acid and metal accounts (3.461418ms)
+✔ zero-stock conversions stay unavailable and never supply divisions by zero (0.378479ms)
+✔ guide provenance rejects forged time, inputs and manual labels (2.31602ms)
+✔ exam report escapes notes and roundtrips original observation inputs without executable markup (2.063897ms)
+✔ default zinc reference uses finite metal and two acid equivalents per hydrogen molecule (2.284732ms)
+✔ dilute acid can be limiting and cannot dissolve metal beyond its stoichiometric budget (0.348555ms)
+✔ copper and no-contact controls preserve original metal without inventing gas (0.385192ms)
+✔ relief capacity separates retained and escaped gas without reducing generated hydrogen (0.436862ms)
+✔ all offered corner controls conserve elements, solution charge and nonnegative finite gas stocks (3.805245ms)
+✔ zero denominators are unavailable conversions and guide is explicit controlled extent (0.432593ms)
+✔ invalid materials, coercion, nonfinite inputs and unsupported ranges fail validation (0.624794ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 681.2564

@@ -1,6 +1,6 @@
 {
   "labId": "CL-0103",
-  "status": "await_native_gesture_check",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "pairedfirst-orderperoxidedecompositionwithisobaricgasmixtureandairinventory",
     "true-volume128-sidedflasks/gassyringesandflux-drivenhosemarkers",
@@ -28,10 +28,8 @@
     "initialTS96578exit0;initialbuild25359exit017.86s",
     "finalTS/build83723and43739exit0beforelastportrait/coreedits",
     "portraitTS/build17252terminalexit0",
-    "final-currentTypeScript/build17386terminalexit0aftercoefficient/portraitedits(build13.92s)"
+    "final-currentTypeScript/build17386terminalexit0aftercoefficient/portraitedits(build13.92s)",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "nativeleftdrag/wheel(Maclocked)",
-    "internalreview"
-  ]
+  "remaining": []
 }

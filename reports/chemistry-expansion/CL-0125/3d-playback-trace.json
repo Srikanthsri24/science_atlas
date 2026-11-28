@@ -1,0 +1,29 @@
+[
+  {
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0 mol0.005 mol acid equivalents remain · no-contact control. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "0.7"
+  },
+  {
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.000486528 mol0.00402694 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "68.2"
+  },
+  {
+    "readings": [
+      "0.00125715 mol",
+      "0 g",
+      "0.0024856999 mol",
+      "Unavailable · Cu(II) speciation excluded",
+      "0.0002 mol",
+      "52 mL",
+      "10.7341",
+      "2"
+    ],
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.00125715 mol0.0024857 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "124.5"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPause and record. Check Cu, chloride, carbon, sodium and charge accounts. Left pH stays unavailable without Cu(II) hydrolysis/complexation. State the ideal25°C and controlled-extent assumptions.150-second explanation; dual controlled sweep from45–105s. Display seconds are narration time, not reaction kinetics. Closed carbon starts dissolved; dose markers do not track individual molecules or an in-flight stock. Drag to orbit; scroll to zoom.",
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.00125715 mol0.0024857 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "150"
+  }
+]

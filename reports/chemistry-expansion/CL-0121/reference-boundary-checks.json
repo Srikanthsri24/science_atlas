@@ -1,0 +1,56 @@
+[
+  {
+    "control": [
+      "Electrolysis temperature",
+      "Home"
+    ],
+    "value": "15",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n36.759209 mL\nGenerated O2\n18.379605 mL\nRetained H2 / O2\n36.759209 / 18.379605 mL\nOverflow H2 / O2\n0 / 0 mL"
+  },
+  {
+    "control": [
+      "Electrolysis temperature",
+      "End"
+    ],
+    "value": "35",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n39.310603 mL\nGenerated O2\n19.655302 mL\nRetained H2 / O2\n39.310603 / 19.655302 mL\nOverflow H2 / O2\n0 / 0 mL"
+  },
+  {
+    "control": [
+      "Electrolysis pressure",
+      "Home"
+    ],
+    "value": "90",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n42.820965 mL\nGenerated O2\n21.410483 mL\nRetained H2 / O2\n42.820965 / 21.410483 mL\nOverflow H2 / O2\n0 / 0 mL"
+  },
+  {
+    "control": [
+      "Electrolysis pressure",
+      "End"
+    ],
+    "value": "110",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n35.035335 mL\nGenerated O2\n17.517668 mL\nRetained H2 / O2\n35.035335 / 17.517668 mL\nOverflow H2 / O2\n0 / 0 mL"
+  },
+  {
+    "control": [
+      "Electrolysis tube capacity",
+      "Home"
+    ],
+    "value": "10",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n38.034906 mL\nGenerated O2\n19.017453 mL\nRetained H2 / O2\n10 / 10 mL\nOverflow H2 / O2\n28.034906 / 9.0174531 mL"
+  },
+  {
+    "control": [
+      "Electrolysis tube capacity",
+      "End"
+    ],
+    "value": "100",
+    "fresh": "Passed charge\n0 C\nPhysical elapsed time\n0 s\nGenerated H2\n0 mL\nGenerated O2\n0 mL\nRetained H2 / O2\n0 / 0 mL\nOverflow H2 / O2\n0 / 0 mL",
+    "guide": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n38.034906 mL\nGenerated O2\n19.017453 mL\nRetained H2 / O2\n38.034906 / 19.017453 mL\nOverflow H2 / O2\n0 / 0 mL"
+  }
+]

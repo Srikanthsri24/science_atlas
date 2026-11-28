@@ -1,6 +1,6 @@
 {
   "labId": "CL-0104",
-  "status": "await_native_gesture_check",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "finite-capacitymatchedcubicgrainmodelwithpreloadandsaturationfeedback",
     "stableRK4radius-lossintegrationandboundedtrajectorycache",
@@ -36,10 +36,8 @@
     "calculationgroups36/36/5/77correct",
     "notebookplan/conclusion/note29literalHTMLpersistedreload",
     "2Doutline6\u21923polygons/labels6\u21924texts;3Doutline/labels/cutaway/orbit/zoom/resetbuttonsverified",
-    "dark390pxportraittheatreandlightdesktopverified;consoleempty"
+    "dark390pxportraittheatreandlightdesktopverified;consoleempty",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "nativeleftdragandwheel(Maclocked)",
-    "internalreview"
-  ]
+  "remaining": []
 }

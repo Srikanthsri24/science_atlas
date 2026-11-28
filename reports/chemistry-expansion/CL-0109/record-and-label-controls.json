@@ -1,0 +1,8 @@
+{
+  "disabledWhilePlaying": true,
+  "enabledAfterPauseSettled": true,
+  "immediatePostClickObservation": false,
+  "note": "Initial isEnabled observation preceded the React pause commit; subsequent DOM shows Resume guide and recording enabled.",
+  "beforeCount": 38,
+  "afterCount": 2
+}

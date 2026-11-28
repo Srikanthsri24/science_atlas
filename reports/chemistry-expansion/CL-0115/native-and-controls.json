@@ -1,0 +1,25 @@
+{
+  "native": {
+    "pausedIdentical": true,
+    "wheelChanged": true,
+    "dragChanged": true
+  },
+  "controls": [
+    {
+      "control": "Labels",
+      "changed": true
+    },
+    {
+      "control": "Neutral atom zoom in",
+      "changed": true
+    },
+    {
+      "control": "Reset camera",
+      "changed": true
+    },
+    {
+      "control": "Neutral atom zoom out",
+      "changed": true
+    }
+  ]
+}

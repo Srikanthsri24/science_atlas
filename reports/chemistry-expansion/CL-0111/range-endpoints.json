@@ -1,0 +1,114 @@
+[
+  {
+    "key": "specimenG",
+    "target": ".02",
+    "valid": true,
+    "value": "0.02",
+    "hasReadings": true
+  },
+  {
+    "key": "specimenG",
+    "target": "1",
+    "valid": true,
+    "value": "1",
+    "hasReadings": true
+  },
+  {
+    "key": "areaCm2",
+    "target": ".5",
+    "valid": true,
+    "value": "0.5",
+    "hasReadings": true
+  },
+  {
+    "key": "areaCm2",
+    "target": "4",
+    "valid": true,
+    "value": "4",
+    "hasReadings": true
+  },
+  {
+    "key": "acidMmolL",
+    "target": "0",
+    "valid": true,
+    "value": "0",
+    "hasReadings": true
+  },
+  {
+    "key": "acidMmolL",
+    "target": "1",
+    "valid": true,
+    "value": "1",
+    "hasReadings": true
+  },
+  {
+    "key": "deliveredMl",
+    "target": "0",
+    "valid": true,
+    "value": "0",
+    "hasReadings": true
+  },
+  {
+    "key": "deliveredMl",
+    "target": "1000",
+    "valid": true,
+    "value": "1000",
+    "hasReadings": true
+  },
+  {
+    "key": "contactFraction",
+    "target": "0",
+    "valid": true,
+    "value": "0",
+    "hasReadings": true
+  },
+  {
+    "key": "contactFraction",
+    "target": "1",
+    "valid": true,
+    "value": "1",
+    "hasReadings": true
+  },
+  {
+    "key": "captureFraction",
+    "target": "0",
+    "valid": true,
+    "value": "0",
+    "hasReadings": true
+  },
+  {
+    "key": "captureFraction",
+    "target": "1",
+    "valid": true,
+    "value": "1",
+    "hasReadings": true
+  },
+  {
+    "key": "temperatureK",
+    "target": "273.15",
+    "valid": true,
+    "value": "273.15",
+    "hasReadings": true
+  },
+  {
+    "key": "temperatureK",
+    "target": "313.15",
+    "valid": true,
+    "value": "313.15",
+    "hasReadings": true
+  },
+  {
+    "key": "pressureKPa",
+    "target": "80",
+    "valid": true,
+    "value": "80",
+    "hasReadings": true
+  },
+  {
+    "key": "pressureKPa",
+    "target": "120",
+    "valid": true,
+    "value": "120",
+    "hasReadings": true
+  }
+]

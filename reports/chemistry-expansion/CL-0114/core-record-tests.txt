@@ -1,0 +1,21 @@
+✔ all four controls have complete observations and 192 distinct worked calculations (6.781391ms)
+✔ worked tare subtraction agrees with displayed gross and tare; mixed residues retain their separate contributions (1.782665ms)
+✔ report escapes text and reloads original inputs without accepting derived values (7.590891ms)
+✔ wet, empty and malformed trials cannot be saved as dry practical observations (3.844236ms)
+✔ trace rinse substitution uses expm1 and does not silently erase removed salt (2.590401ms)
+✔ unwashed finite aliquot independently balances retained salt, particles and water (2.918315ms)
+✔ finite rinse preserves pore carrier while removing trapped solute and adding tracked water (0.428338ms)
+✔ water and dissolved-only controls never invent suspended mass; incomplete retention contaminates dish residue (0.456248ms)
+✔ zero volume and zero hold-up controls have honest undefined ratios and no trapped salt (0.49556ms)
+✔ drying transfers only carrier to vapour and dry weighing is gated until its endpoint (0.338875ms)
+✔ parameter corners conserve each material independently and stay nonnegative (49.719954ms)
+✔ tiny positive rinsing is not erased by subtracting near-equal exponentials (0.245928ms)
+✔ 150second guide stages filtration then rinse then drying without calling presentation time kinetics (1.036299ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 752.871937

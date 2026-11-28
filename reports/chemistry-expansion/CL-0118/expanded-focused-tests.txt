@@ -1,0 +1,26 @@
+✔ display layers retain every ion identity, boundary weight and full inventory (26.92763ms)
+✔ periodic-neighbour annotations preserve six images and reference distance even while display opens (17.804354ms)
+✔ each molecular rack group has only its own intramolecular links and stable composition (17.44214ms)
+✔ opening the rack translates whole molecules rigidly rather than stretching or breaking bonds (2.372407ms)
+✔ all particles and neighbour markers fit the declared framing envelope (23.7799ms)
+✔ paused geometry is deterministic and invalid inspection ranges are rejected (4.156186ms)
+✔ all selectable periodic images including top and far corners fit with marker radii (437.064403ms)
+✔ record timing retains guide-view state and labels pre-verification inspections honestly (3.988386ms)
+✔ five observation tables distinguish copies weights neighbours and molecular identities (17.868826ms)
+✔ every worked substitution evaluates to the exact integer or binary-fraction result (20.327115ms)
+✔ exam report preserves original notes safely and bounds the input-only notebook (3.699586ms)
+✔ conventional rock-salt box shares corners faces edges and interior correctly (9.799752ms)
+✔ larger boxes keep exact weights without mistaking raw boundary copies for a neutral cluster (4.44023ms)
+✔ all indexed sites have six physical bulk neighbours including distinct periodic images (269.720259ms)
+✔ whole molecular entities preserve atom ratios and have no links between groups (4.267353ms)
+✔ slice and layer separation are viewing operations and do not alter inventory (24.67362ms)
+✔ 150second guide animates inspection without changing composition or inventing property predictions (11.920553ms)
+✔ invalid boundaries identities and nonfinite values cannot enter the comparison (1.043222ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1437.152735

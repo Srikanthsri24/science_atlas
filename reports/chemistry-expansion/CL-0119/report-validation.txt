@@ -1,0 +1,1 @@
+PASS {"observations": 28, "workedResults": 868, "numericResults": 798, "operandChecks": 1736, "tableFields": 1372}

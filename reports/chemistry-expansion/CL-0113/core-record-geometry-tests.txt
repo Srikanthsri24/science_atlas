@@ -1,0 +1,24 @@
+✔ nominal polygonal stocks, pipettes and vials preserve every transferred volume (37.195053ms)
+✔ pipette movement is continuous and crosses between vessels only above their rims (5.786105ms)
+✔ guide gates observations until mixing is complete and paused poses are deterministic (2.827482ms)
+✔ helix has consistent reference pitch, left handedness and representative cues without implied molecular counts (1.223748ms)
+✔ starch notebook has complete matched tables and 176 worked calculations (5.34548ms)
+✔ all numeric observation fields have explicit worked substitutions; cue stays qualitative (4.139143ms)
+✔ practical safely preserves student text, original preparations and proper report sections (3.528351ms)
+✔ record validation cannot bypass transfer limits or the forty-trial bound (0.524428ms)
+✔ starch iodine preparation rejects coercion, invalid capacity, tiny unsupported settings and impossible transfers (3.507569ms)
+✔ hand preparation and selected apparent binding equation agree without assigning molecular polyiodide stoichiometry (1.322392ms)
+✔ four controls preserve matched dry solute and distinguish reagent absence from a reagent-coloured control (0.767335ms)
+✔ withdrawal and delivery conserve each stock, pipette and vial inventory (1.67816ms)
+✔ association is bounded, responds to selected strength and capacity, and leaves total solute mass unchanged (0.681684ms)
+✔ tiny positive model association survives rather than being erased by subtractive cancellation (0.360886ms)
+✔ parameter grid preserves carrier, atom and material accounts at zero and strong binding references (24.474911ms)
+✔ 120-second guide stages finite pipetting before mixing and does not permit premature observations (11.627168ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 790.453367

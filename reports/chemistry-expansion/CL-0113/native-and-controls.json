@@ -1,0 +1,34 @@
+{
+  "native": {
+    "pausedIdentical": true,
+    "wheelChanged": true,
+    "dragChanged": true,
+    "resetFromZoomChanged": true
+  },
+  "controls": [
+    {
+      "button": "Labels",
+      "changed": true
+    },
+    {
+      "button": "Cutaway",
+      "changed": true
+    },
+    {
+      "button": "Starch iodine zoom in",
+      "changed": true
+    },
+    {
+      "button": "Starch iodine zoom out",
+      "changed": true
+    },
+    {
+      "button": "Reset camera",
+      "changed": false
+    },
+    {
+      "button": "Helix reference",
+      "changed": true
+    }
+  ]
+}

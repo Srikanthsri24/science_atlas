@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "group": "water",
+      "blocks": 28
+    },
+    {
+      "group": "half-acid",
+      "blocks": 28
+    },
+    {
+      "group": "acid",
+      "blocks": 28
+    },
+    {
+      "group": "blank",
+      "blocks": 28
+    },
+    {
+      "group": "all",
+      "blocks": 112
+    }
+  ],
+  "notebook": "Notebook: 8/40 observations · 896 worked calculations.",
+  "plan": "Compare increasing acid exposure with matched water, half-strength, full-strength and no-specimen controls.",
+  "conclusion": "In the selected model, accessible acid equivalents limit carbonate loss. Escaped carbon dioxide reduces retained-apparatus mass; dissolved calcium remains in runoff. This is not an environmental weathering-rate measurement.",
+  "note": "Zero-dose virtual control: <b>no carbonate loss</b> & no gas.",
+  "darkMobile": {
+    "overflow": 0,
+    "recordImages": 0,
+    "tableRows": [
+      8,
+      32,
+      32,
+      32
+    ]
+  }
+}

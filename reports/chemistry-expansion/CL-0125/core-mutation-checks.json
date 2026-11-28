@@ -1,0 +1,19 @@
+{
+  "rejectedCorruptions": 14,
+  "checks": [
+    "no-contact reaction invented",
+    "acid factor of two lost",
+    "copper stock erased",
+    "chloride spectator lost",
+    "unavailable copper solution pH fabricated",
+    "delivered base volume omitted",
+    "tiny positive stored volume erased",
+    "sodium amount not delivered",
+    "closed carbon created",
+    "neutral carbon pool erased",
+    "bicarbonate equilibrium erased",
+    "carbonate equilibrium erased",
+    "zero-carbon equivalence ratio invented",
+    "pH set to neutral regardless of dose"
+  ]
+}

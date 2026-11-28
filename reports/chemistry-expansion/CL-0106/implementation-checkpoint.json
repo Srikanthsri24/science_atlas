@@ -1,6 +1,6 @@
 {
   "labId": "CL-0106",
-  "status": "in_progress",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "Matched wet/oxygen-excluded/dry reference accounts",
     "Finite accessible oxygen and selected variable-hydration material limits",
@@ -26,10 +26,8 @@
     "264final normal/theatre layout checks passed",
     "10actual browser trials/1140results/5538independent checks passed",
     "Keyboard, calculation groups, persistence, paused-render and rendered-button-effect checks passed",
-    "TypeScript and final unit-polish build passed; final build18.96seconds"
+    "TypeScript and final unit-polish build passed; final build18.96seconds",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "Native mouse drag/wheel when available",
-    "Internal review and frozen source/evidence capture; do not create review.json yet"
-  ]
+  "remaining": []
 }

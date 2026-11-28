@@ -1,0 +1,22 @@
+[
+  {
+    "group": "bare",
+    "count": 44
+  },
+  {
+    "group": "intact",
+    "count": 44
+  },
+  {
+    "group": "scratched",
+    "count": 46
+  },
+  {
+    "group": "isolated",
+    "count": 44
+  },
+  {
+    "group": "all",
+    "count": 178
+  }
+]

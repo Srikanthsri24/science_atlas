@@ -1,0 +1,17 @@
+✔ all nine selected pairs respect Zn > Fe > Cu, self and reverse controls (2.017057ms)
+✔ Fe/Cu default endpoint uses finite copper ions and balances each element, electrons and solution charge (0.32972ms)
+✔ coupon-limited endpoint never creates more reacted metal than available (0.187147ms)
+✔ progress is a bounded stoichiometric control and no-contact leaves all stocks unchanged (0.20012ms)
+✔ zero coupon and zero target concentration have unavailable conversion denominators (0.196953ms)
+✔ every species inventory remains nonnegative and conserved across all offered corners (4.388282ms)
+✔ comparison retains common volume/concentration/progress while varying only coupon identity (0.96567ms)
+✔ 150second guide begins with no contact and labels verification boundary honestly (0.321992ms)
+✔ invalid materials, nonfinite values and time domains are rejected (0.527672ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 510.75817

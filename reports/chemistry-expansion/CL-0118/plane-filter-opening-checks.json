@@ -1,0 +1,64 @@
+{
+  "planes118": [
+    {
+      "plane": "all",
+      "label": "Ionic cross-section z-index 3; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "0",
+      "label": "Ionic cross-section z-index 0; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "1",
+      "label": "Ionic cross-section z-index 1; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "2",
+      "label": "Ionic cross-section z-index 2; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "3",
+      "label": "Ionic cross-section z-index 3; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "4",
+      "label": "Ionic cross-section z-index 4; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "5",
+      "label": "Ionic cross-section z-index 5; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "plane": "6",
+      "label": "Ionic cross-section z-index 6; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    }
+  ],
+  "filterCounts118": [
+    {
+      "count": 49,
+      "filter": "all",
+      "label": "Ionic cross-section z-index 0; 49 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "count": 24,
+      "filter": "Na+",
+      "label": "Ionic cross-section z-index 0; 24 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    },
+    {
+      "count": 25,
+      "filter": "Cl−",
+      "label": "Ionic cross-section z-index 0; 25 visible ion copies. Full weighted contents 108 sodium, 108 chloride. 8 whole CO2 molecules."
+    }
+  ],
+  "opening118": {
+    "opening": "1",
+    "site": "0:0:0",
+    "text": [
+      "Raw display copies: Na 171, Cl 172. Unweighted copy charge -1 e₀ is not an isolated crystal charge.",
+      "Weighted contents: Na 108, Cl 108; ratio 1:1; 108 formula units. Weighted charge 0 e₀.",
+      "Selected-site neighbours: 3 inside + 3 beyond box = 6. Reference distance 0.5 normalized cell units.",
+      "Notebook: 13/40 observations · 377 worked calculations. Reference inspection recorded with its guide status.",
+      "A view change does not change the full weighted inventory."
+    ]
+  }
+}

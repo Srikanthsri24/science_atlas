@@ -1,0 +1,33 @@
+[
+  {
+    "control": "Labels",
+    "changed": true,
+    "preservedValues": true
+  },
+  {
+    "control": "Cutaway",
+    "changed": true,
+    "preservedValues": true
+  },
+  {
+    "control": "Surface section",
+    "changed": true,
+    "preservedValues": true
+  },
+  {
+    "control": "Carbonate zoom in",
+    "changed": true,
+    "preservedValues": true
+  },
+  {
+    "control": "Carbonate zoom out",
+    "changed": true,
+    "preservedValues": true
+  },
+  {
+    "control": "Reset camera",
+    "changed": true,
+    "preservedValues": true,
+    "precondition": "Zoomed first; resetting an already-default view is intentionally unchanged."
+  }
+]

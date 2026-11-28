@@ -1,6 +1,6 @@
 {
   "labId": "CL-0101",
-  "status": "awaiting_native_gesture_check",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "five pure-solute food-analogue equilibrium models",
     "120second sequential probe guide",
@@ -38,12 +38,10 @@
     "all5samplesindividuallyrecordedafterimmersion;selectraisesandwithholds",
     "keyboard.94withheld/.95readoutverified",
     "16trials/textpersistafterreload;actualbuttondownload independently passed1792results8477checks",
-    "consolewarn/errorsempty;darkphoneanddesktopverified"
+    "consolewarn/errorsempty;darkphoneanddesktopverified",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "nativeleftdrag/wheel:Maclocked,existingunlockquestionpending",
-    "finalsourcehashreview/catalogueprogresssignoff"
-  ],
+  "remaining": [],
   "normalResponsiveChecksPassed": 560,
   "theatreResponsiveChecksPassed": 56,
   "actualGuiTrials": 16,

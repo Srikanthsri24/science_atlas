@@ -1,0 +1,30 @@
+[
+  {
+    "action": "native orbit",
+    "changed": true
+  },
+  {
+    "action": "native wheel",
+    "changed": true
+  },
+  {
+    "action": "camera reset",
+    "changed": true
+  },
+  {
+    "action": "paused state stable",
+    "unchanged": true
+  },
+  {
+    "action": "Glass vessels",
+    "changed": true
+  },
+  {
+    "action": "Stock labels",
+    "changed": true
+  },
+  {
+    "action": "Cu self-control selection",
+    "text": "No net selected metal-displacement reaction\nReacted extent 0 mol · control / limiting stock: same-metal control\nDissolved stocks: Zn²⁺ 0 mol · Fe²⁺ 0 mol · Cu²⁺ 0.05 mol. No free electrons are depicted in the solution.\nBeaker geometry uses cm and reference liquid height πr²h=solution mL; solid displacement and reaction-volume changes omitted. Coupon volume fraction and deposited-grain fractions encode normalized stocks, not measured dimensions, density, literal atoms or deposit morphology. Deposit is accounted as retained solid whether or not adherent. Bath composition fractions are stoichiometric; colours are schematic, not calibrated concentration. Equal starting coupon mass in comparison does not mean equal initial moles."
+  }
+]

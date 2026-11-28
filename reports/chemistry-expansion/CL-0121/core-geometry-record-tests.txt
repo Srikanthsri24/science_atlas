@@ -1,0 +1,24 @@
+✔ tube geometry matches capacity and retained volume rather than arbitrary fill animation (3.414395ms)
+✔ hydrogen is collected at negative cathode and oxygen at positive anode (0.269763ms)
+✔ bubbles remain inside liquid and disappear when source stops or liquid column is exhausted (0.923035ms)
+✔ paused geometry is deterministic and marker identities persist as markers move (2.521434ms)
+✔ worked charge uses every source segment, and zero-gas ratio remains unavailable (1.7399ms)
+✔ saturated gas report includes retained plus overflow and distinguishes ratios (0.395367ms)
+✔ guide records preserve base history and source conditions; forged snapshots rejected (0.651817ms)
+✔ HTML contains four consistent tables, escaped notes and original round-trippable inputs (2.287901ms)
+✔ charge predicts stoichiometric gas moles and common-condition dry volumes (2.141232ms)
+✔ disconnecting or changing source current preserves prior collected gas and passed charge (0.445512ms)
+✔ finite tube retention plus overflow conserves generated gas and can change collected ratio (0.22284ms)
+✔ temperature and pressure affect volume, not generated charge or moles (0.321093ms)
+✔ no-charge states have unavailable ratios, not a misleading 2:1 measurement (0.270383ms)
+✔ continuous integration and segmentation agree; identical source segments merge (1.345363ms)
+✔ guide starts a fresh reference, stops new production at110s and preserves gas through verification (0.385959ms)
+✔ invalid source history, bounds and advance durations are rejected (0.561991ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 498.711626

@@ -1,0 +1,20 @@
+✔ reference solution and dry gas heights represent their distinct prescribed volumes (8.881944ms)
+✔ original coupon stock scales by volume and disappears only at full dissolution (4.046298ms)
+✔ relief capacity clips piston travel while gas generation remains separately accounted (1.340101ms)
+✔ hydrogen signs stay absent for all no-reaction controls and final snapshots (3.145903ms)
+✔ portrait stacks collector without changing volumes or stocks and keeps the apparatus in bounds (1.381047ms)
+✔ default zinc reference uses finite metal and two acid equivalents per hydrogen molecule (4.041562ms)
+✔ dilute acid can be limiting and cannot dissolve metal beyond its stoichiometric budget (0.544468ms)
+✔ copper and no-contact controls preserve original metal without inventing gas (0.486472ms)
+✔ relief capacity separates retained and escaped gas without reducing generated hydrogen (0.474759ms)
+✔ all offered corner controls conserve elements, solution charge and nonnegative finite gas stocks (5.363096ms)
+✔ zero denominators are unavailable conversions and guide is explicit controlled extent (0.571284ms)
+✔ invalid materials, coercion, nonfinite inputs and unsupported ranges fail validation (1.003712ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1244.754403

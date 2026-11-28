@@ -1,0 +1,9 @@
+{
+  "pausedStable": true,
+  "wheelChanged": true,
+  "orbitChanged": true,
+  "resetChanged": true,
+  "zoomChanged": true,
+  "pairsChanged": true,
+  "idsChanged": true
+}

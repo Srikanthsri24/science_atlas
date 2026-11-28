@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Orbit left",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Orbit right",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Zoom in",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Zoom out",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Reset camera",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Glass cutaway",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Labels",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Qualitative material cue",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Initial metal outline",
+    "comparison": "Canvas-region screenshot only",
+    "pixelsChanged": true,
+    "readingsUnchanged": true
+  }
+]

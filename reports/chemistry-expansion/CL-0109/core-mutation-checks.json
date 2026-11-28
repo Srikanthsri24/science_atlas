@@ -1,0 +1,46 @@
+[
+  {
+    "field": "freeOleateMol",
+    "rejected": true
+  },
+  {
+    "field": "calciumPrecipitatedMol",
+    "rejected": true
+  },
+  {
+    "field": "magnesiumRemainingMol",
+    "rejected": true
+  },
+  {
+    "field": "chlorideMol",
+    "rejected": true
+  },
+  {
+    "field": "materialResidualG",
+    "rejected": true
+  },
+  {
+    "field": "aqueousChargeResidualMol",
+    "rejected": true
+  },
+  {
+    "field": "initialHardnessMgL",
+    "rejected": true
+  },
+  {
+    "field": "residualHardnessMgL",
+    "rejected": true
+  },
+  {
+    "field": "foamProxy",
+    "rejected": true
+  },
+  {
+    "field": "remainingStockG",
+    "rejected": true
+  },
+  {
+    "field": "deliveredCarrierG",
+    "rejected": true
+  }
+]

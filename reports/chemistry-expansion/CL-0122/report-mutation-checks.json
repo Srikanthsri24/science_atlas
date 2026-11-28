@@ -1,0 +1,17 @@
+{
+  "rejectedCorruptions": 12,
+  "checks": [
+    "passed charge header falsely requested",
+    "thickness units wrong",
+    "zero-current division falsely evaluated",
+    "guide time forged",
+    "false review-stage label",
+    "density formula changed",
+    "same-value source substitution loses operands",
+    "tiny positive mass erased",
+    "unserved demand erased",
+    "passed charge exceeds finite inventory",
+    "false numerical mass residual",
+    "anode loss ignored"
+  ]
+}

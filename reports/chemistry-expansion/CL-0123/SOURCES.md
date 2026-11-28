@@ -1,0 +1,10 @@
+# Private scientific provenance — CL-0123
+
+Inspected28November2026. Internal references; no external referral links in student UI. Class8 editorial placement remains pending official board mapping.
+
+- PurdueUniversity Chemistry demonstration9.11, fullprimaryteachingpage retrieved: https://chemed.chem.purdue.edu/genchem/demosheets/9.11.html . Supports Zn/CuSO4 displacement, Cu/ZnSO4 reverse control, Fe/CuSO4 reaction and selected reducing-strength order Zn>Fe>Cu. The page notes different copper-deposit appearances; do not claim a single calibrated copper colour or morphology for every surface. Zn/Fe2+ displacement follows the selected activity-order inference, rather than a separate observed demonstration on this page.
+- NIST iron atomic-weight table, officialfullpage retrieved: https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ascii=html&ele=Fe . Fe55.845(2).
+- NIST zinc atomic-weight table, officialfullpage retrieved: https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ascii=ascii&ele=Zn . Zn65.38(2).
+- Cu63.546(3) officialNISTsourcealreadyverified in ../CL-0122/SOURCES.md. Rounded molar-mass references in g/mol, not exact isotope claims.
+
+Original model: only selected Zn/Fe/Cu divalent sulfate displacement channel, constantvolume, ideal complete-dissociation stoichiometry, finite coupon and target-ion inventories, user-controlled extent. Fe2+ only; competing Fe3+/oxygen/water/acid corrosion, passivation, activity effects, heat and rate laws excluded. Progress/time storyboard is explanatory and cannot establish real reaction duration. Self and reverse controls have no NET selected displacement, not a claim of no microscopic exchange or other chemistry. Zero-target-ion water control similarly excludes other reactions. Comparison uses equal starting coupon MASS, not equal moles; explicitly display differing initial mole accounts. Elementwise metal inventories, sulfate spectator and cation charge are conserved. Colour/morphology schematic, not a concentration measurement. No external power/solvated-electron transport should be depicted; electron transfer belongs to the interface/metal.

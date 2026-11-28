@@ -1,0 +1,1202 @@
+[
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": true,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "landscape",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "half-acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "acid",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "format": "portrait",
+    "scope": "blank",
+    "theatre": false,
+    "collisions": [],
+    "outside": [],
+    "pageOverflow": 0
+  }
+]

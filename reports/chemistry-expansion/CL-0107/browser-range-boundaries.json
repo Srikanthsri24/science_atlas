@@ -1,0 +1,201 @@
+{
+  "checks": [
+    {
+      "name": "saltPctA",
+      "key": "Home",
+      "value": "0.005",
+      "min": "0",
+      "max": "10"
+    },
+    {
+      "name": "saltPctA",
+      "key": "End",
+      "value": "10",
+      "min": "0",
+      "max": "10"
+    },
+    {
+      "name": "saltPctB",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "10"
+    },
+    {
+      "name": "saltPctB",
+      "key": "End",
+      "value": "10",
+      "min": "0",
+      "max": "10"
+    },
+    {
+      "name": "oxygenMgLA",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "12"
+    },
+    {
+      "name": "oxygenMgLA",
+      "key": "End",
+      "value": "12",
+      "min": "0",
+      "max": "12"
+    },
+    {
+      "name": "oxygenMgLB",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "12"
+    },
+    {
+      "name": "oxygenMgLB",
+      "key": "End",
+      "value": "12",
+      "min": "0",
+      "max": "12"
+    },
+    {
+      "name": "densityA",
+      "key": "Home",
+      "value": "0.99",
+      "min": "0.99",
+      "max": "1.2"
+    },
+    {
+      "name": "densityA",
+      "key": "End",
+      "value": "1.2",
+      "min": "0.99",
+      "max": "1.2"
+    },
+    {
+      "name": "densityB",
+      "key": "Home",
+      "value": "0.99",
+      "min": "0.99",
+      "max": "1.2"
+    },
+    {
+      "name": "densityB",
+      "key": "End",
+      "value": "1.2",
+      "min": "0.99",
+      "max": "1.2"
+    },
+    {
+      "name": "ironG",
+      "key": "Home",
+      "value": "0.2",
+      "min": "0.2",
+      "max": "1"
+    },
+    {
+      "name": "ironG",
+      "key": "End",
+      "value": "1",
+      "min": "0.2",
+      "max": "1"
+    },
+    {
+      "name": "solutionG",
+      "key": "Home",
+      "value": "20",
+      "min": "20",
+      "max": "100"
+    },
+    {
+      "name": "solutionG",
+      "key": "End",
+      "value": "100",
+      "min": "20",
+      "max": "100"
+    },
+    {
+      "name": "exposedAreaCm2",
+      "key": "Home",
+      "value": "4",
+      "min": "4",
+      "max": "20"
+    },
+    {
+      "name": "exposedAreaCm2",
+      "key": "End",
+      "value": "20",
+      "min": "4",
+      "max": "20"
+    },
+    {
+      "name": "driveV",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "0.2"
+    },
+    {
+      "name": "driveV",
+      "key": "End",
+      "value": "0.2",
+      "min": "0",
+      "max": "0.2"
+    },
+    {
+      "name": "solutionPathMm",
+      "key": "Home",
+      "value": "2",
+      "min": "2",
+      "max": "20"
+    },
+    {
+      "name": "solutionPathMm",
+      "key": "End",
+      "value": "20",
+      "min": "2",
+      "max": "20"
+    },
+    {
+      "name": "boundaryLayerMm",
+      "key": "Home",
+      "value": "0.1",
+      "min": "0.1",
+      "max": "2"
+    },
+    {
+      "name": "boundaryLayerMm",
+      "key": "End",
+      "value": "2",
+      "min": "0.1",
+      "max": "2"
+    },
+    {
+      "name": "ceilingFraction",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "1"
+    },
+    {
+      "name": "ceilingFraction",
+      "key": "End",
+      "value": "1",
+      "min": "0",
+      "max": "1"
+    },
+    {
+      "name": "elapsedDays",
+      "key": "Home",
+      "value": "0",
+      "min": "0",
+      "max": "14"
+    },
+    {
+      "name": "elapsedDays",
+      "key": "End",
+      "value": "14",
+      "min": "0",
+      "max": "14"
+    }
+  ],
+  "firstHomeRecheck": "0"
+}

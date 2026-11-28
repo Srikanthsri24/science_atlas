@@ -1,6 +1,6 @@
 {
   "labId": "CL-0101",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "independentmodel/geometry/reference",
     "14focusedtests",
@@ -9,10 +9,9 @@
     "120second2Dand3Dguides",
     "560normal56theatrechecks",
     "16actualtrials1792results8477independentnumericchecks",
-    "persistence/safeHTML/probereadoutgating"
+    "persistence/safeHTML/probereadoutgating",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "nativeleftdragandwheelonCL-0101;Maclocked"
-  ],
+  "unverified": [],
   "scope": "Internalfunctionalreviewonly;noindependentexpert,officialboard,physicalall-device,touch,FPSorprintercertification"
 }

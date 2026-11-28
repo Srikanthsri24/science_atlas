@@ -1,0 +1,34 @@
+{
+  "phases": [
+    {
+      "phase": 0,
+      "actual": "0",
+      "readout": "SOLUTION · 0.05 Vrms · 70.4115 µA\nInstantaneous v 0 V · i 0 A.\nIdeal in-phase aqueous bulk reading; electrode interface and reactive currents excluded."
+    },
+    {
+      "phase": 0.25,
+      "actual": "0.25",
+      "readout": "SOLUTION · 0.05 Vrms · 70.4115 µA\nInstantaneous v 0.0707107 V · i 0.0000995769 A.\nIdeal in-phase aqueous bulk reading; electrode interface and reactive currents excluded."
+    },
+    {
+      "phase": 0.5,
+      "actual": "0.5",
+      "readout": "SOLUTION · 0.05 Vrms · 70.4115 µA\nInstantaneous v 0 V · i 0 A.\nIdeal in-phase aqueous bulk reading; electrode interface and reactive currents excluded."
+    },
+    {
+      "phase": 0.75,
+      "actual": "0.75",
+      "readout": "SOLUTION · 0.05 Vrms · 70.4115 µA\nInstantaneous v -0.0707107 V · i -0.0000995769 A.\nIdeal in-phase aqueous bulk reading; electrode interface and reactive currents excluded."
+    },
+    {
+      "phase": 1,
+      "actual": "1",
+      "readout": "SOLUTION · 0.05 Vrms · 70.4115 µA\nInstantaneous v 0 V · i 0 A.\nIdeal in-phase aqueous bulk reading; electrode interface and reactive currents excluded."
+    }
+  ],
+  "gate": {
+    "playingDisabled": true,
+    "phase": "0.11617499999962455",
+    "pausedEnabled": true
+  }
+}

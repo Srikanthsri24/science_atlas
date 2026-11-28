@@ -1,0 +1,16 @@
+✔ charge predicts stoichiometric gas moles and common-condition dry volumes (2.393552ms)
+✔ disconnecting or changing source current preserves prior collected gas and passed charge (0.425154ms)
+✔ finite tube retention plus overflow conserves generated gas and can change collected ratio (0.306723ms)
+✔ temperature and pressure affect volume, not generated charge or moles (0.341941ms)
+✔ no-charge states have unavailable ratios, not a misleading 2:1 measurement (0.386606ms)
+✔ continuous integration and segmentation agree; identical source segments merge (1.505279ms)
+✔ guide starts a fresh reference, stops new production at110s and preserves gas through verification (0.425745ms)
+✔ invalid source history, bounds and advance durations are rejected (0.832318ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 718.956657

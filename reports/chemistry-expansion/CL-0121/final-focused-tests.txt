@@ -1,0 +1,30 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.754824ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.772774ms)
+✔ tube geometry matches capacity and retained volume rather than arbitrary fill animation (3.924898ms)
+✔ hydrogen is collected at negative cathode and oxygen at positive anode (0.588915ms)
+✔ bubbles remain inside liquid and disappear when source stops or liquid column is exhausted (2.068104ms)
+✔ paused geometry is deterministic and marker identities persist as markers move (3.570979ms)
+✔ worked charge uses every source segment, and zero-gas ratio remains unavailable (2.396479ms)
+✔ saturated gas report includes retained plus overflow and distinguishes ratios (0.539701ms)
+✔ guide records preserve base history and source conditions; forged snapshots rejected (0.820345ms)
+✔ HTML contains four consistent tables, escaped notes and original round-trippable inputs (2.627719ms)
+✔ charge predicts stoichiometric gas moles and common-condition dry volumes (2.506108ms)
+✔ disconnecting or changing source current preserves prior collected gas and passed charge (0.383473ms)
+✔ finite tube retention plus overflow conserves generated gas and can change collected ratio (0.280693ms)
+✔ temperature and pressure affect volume, not generated charge or moles (0.290813ms)
+✔ no-charge states have unavailable ratios, not a misleading 2:1 measurement (0.33231ms)
+✔ continuous integration and segmentation agree; identical source segments merge (1.716073ms)
+✔ guide starts a fresh reference, stops new production at110s and preserves gas through verification (0.62329ms)
+✔ invalid source history, bounds and advance durations are rejected (1.331725ms)
+✔ prediction stage has no source current or generated gas (0.510512ms)
+✔ partially saturated hydrogen tube changes retained ratio while oxygen remains unsaturated (0.477904ms)
+✔ advancing a run never mutates a previously saved source history (0.523492ms)
+✔ guide source flags and finite volume accounts agree at every transition and parameter corner (2.426833ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 918.004479

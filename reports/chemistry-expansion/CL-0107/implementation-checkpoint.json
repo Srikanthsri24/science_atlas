@@ -1,6 +1,6 @@
 {
   "labId": "CL-0107",
-  "status": "in_progress",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "Dual solution-property modes with explicit dilute-model domain and broader entered properties",
     "Mass-percent/molarity/molality and supplied-density conversions",
@@ -45,12 +45,15 @@
     "Stopped 3D screenshot byte-identical across observations; guide time and readings unchanged",
     "Nine actual notebook trials retained after page reload, including escaped student HTML strings; report download initiated",
     "Final captured console warnings/errors empty; 146 original staged blobs unchanged",
-    "Actual browser-downloaded nine-trial report independently checked: PASS {\"trials\": 9, \"workedResults\": 1197, \"numericChecks\": 6516, \"unitChecks\": 1239, \"expressionChecks\": 1162}"
+    "Actual browser-downloaded nine-trial report independently checked: PASS {\"trials\": 9, \"workedResults\": 1197, \"numericChecks\": 6516, \"unitChecks\": 1239, \"expressionChecks\": 1162}",
+    "Mobile annotations enlarged and selected-view explanation/primary results added as readable HTML; phone screenshot inspected",
+    "Native left drag and wheel verified with unchanged scientific readings/time; evidence saved",
+    "All 14 numeric range controls exercised at Home/End; first salt-A minimum rechecked as 0 after an initially stale read",
+    "Entered conductivity maximum 30 S/m exercised in both cells; minimum and invalid values checked previously",
+    "Actual extended report includes nonzero entered-property scenario and metal exhaustion with zero current: PASS {\"trials\": 11, \"workedResults\": 1463, \"numericChecks\": 7998, \"unitChecks\": 1505, \"expressionChecks\": 1428}",
+    "All nine 3D canvas-region control effects passed; live calculation groups 65/65/3/133 passed",
+    "Final 30 mobile text-bound checks passed; final TypeScript and 16.21-second build passed",
+    "Final source/asset hashes frozen in review.json"
   ],
-  "remaining": [
-    "Strengthen entered-property nonzero-time report scenarios",
-    "Complete 3D button rendered-effect checks and all numeric control boundaries",
-    "Improve and recheck mobile text readability where needed",
-    "Native drag/wheel interaction review and final frozen review evidence"
-  ]
+  "remaining": []
 }

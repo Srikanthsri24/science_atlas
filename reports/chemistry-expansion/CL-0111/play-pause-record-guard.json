@@ -1,0 +1,13 @@
+{
+  "playing": {
+    "disabled": "",
+    "enabled": false,
+    "time": "68.7"
+  },
+  "paused": {
+    "time": "68.8",
+    "disabled": null,
+    "enabled": true
+  },
+  "note": "Visible normal-mode control tested; earlier theatre queries were hidden and were not a recording-state test."
+}

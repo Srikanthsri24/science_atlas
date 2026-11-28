@@ -1,0 +1,34 @@
+[
+  {
+    "corruption": "wrong-result",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-operator",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-operand",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-worked-block",
+    "rejected": true
+  },
+  {
+    "corruption": "duplicate-worked-block",
+    "rejected": true
+  },
+  {
+    "corruption": "invented-removal-volume",
+    "rejected": true
+  },
+  {
+    "corruption": "corrupted-observation",
+    "rejected": true
+  }
+]

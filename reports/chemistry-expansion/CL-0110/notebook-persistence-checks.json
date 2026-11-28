@@ -1,0 +1,8 @@
+{
+  "note": "Reference-band comparison only; not a measured mixture CMC. <script>literal student note</script>",
+  "plan": "Compare equal-molar and equal-solute-mass stocks in matched soft and hard water. <b>Prediction</b>: soap loses available surfactant through the represented precipitation channel.",
+  "conclusion": "The selected neutral detergent stays unprecipitated in this model while hardness ions remain. Equal masses and equal moles are different dose comparisons; neither establishes cleansing efficiency.",
+  "status": [
+    "Notebook: 8/40 observations · 1344 worked calculations."
+  ]
+}

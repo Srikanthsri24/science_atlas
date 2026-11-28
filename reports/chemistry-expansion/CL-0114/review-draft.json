@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0114",
+  "reviewedOn": "2026-11-28",
+  "status": "awaiting_final_regression_and_build",
+  "animationSeconds": 150,
+  "checks": {
+    "model": "16 focused core/record/geometry tests passed. Independent 100-digit Decimal compartment audit: 623 preparations, 2492 cells, 122108 fields. Seventeen deliberately corrupted core results rejected. Synthetic report audit: nine trials, 1728 worked results, 4528 operands, 882 table fields, 40 undefined ratios; thirteen corruptions rejected. Latest integrated TypeScript terminal exit 0. Final regression/build pending.",
+    "twoD": "Original finite feed/rinse vessels, supported filter and receiver, representative particles, delivery droplets, tracked drying and filter-paper lift/translate/lower to separate pan. 150-second guide reached its endpoint; recording enabled only after complete drying, nonzero processed sample, transfer and paused playback. Portrait footer clipping found and fixed. Reference balance labels increased to eight significant digits so small retained salt is not hidden by coarse formatting.",
+    "threeD": "Original supported nominal cylindrical vessels, filter cone and stem, separate moving paper/cake envelope, balances, rinse delivery, drying cues and separate material readings. Portrait 2x2 layout. Full guide reached 150 seconds. Native wheel/orbit changed pixels; paused frames byte-identical. Labels, cutaway, zoom in/out and reset changed pixels. No console errors returned at final inspection.",
+    "responsive": "120 final 2D cases and 120 3D cases across six viewport sizes, both formats, all/four individual scopes, normal/theatre. Zero horizontal document overflow; all 2D text inside SVG and one canvas per 3D case. Initial failing portrait caption matrix retained as history. Dark mobile report with all 192 workings had zero overflow and no injected images; default viewport and light theme restored.",
+    "practicalRecord": "Four tables, 192 workings per observation. Four actual browser trials persisted after reload including a literal HTML note, plan and conclusion. Actual 245305-byte HTML passed 768 worked results, 2016 operands, 392 table fields and 16 undefined ratios. Ten paused guide stages: recording disabled before 145 seconds, enabled at 145/150; wet manual control disabled. Twenty min/max parameter cases passed bounds and step checks. Table row counts 4/16/16/16."
+  },
+  "reviewScope": "Internal functional and numerical review, not independent human expert, official curriculum, physical-device/touch/FPS, certified gravimetric method or printer certification. Known salt/insoluble-particle references; selected solution density 1 g/mL with suspended mass additional. Selected particle retention and held carrier fraction, ideal mixed-pore rinse at constant retained carrier, no particle washout, adsorption, channeling or evolving filter geometry. Nonvolatile salt totals during drying span liquid/solid phases without solubility allocation. No heating power, temperature, drying-rate, NTU, unknown-water composition or drinking-safety inference. Residue mg/L uses original processed volume; retained salt and passed particles mean these are operational residues, not certified TSS/TDS. Reference balances have no measurement uncertainty or instrument-resolution model; floating-point tare subtraction may round extremely small gains while inventory remains positive. Apparatus tares excluded from material conservation. Polygonal nominal volumes; selected particle bulk 2.5 g/mL and salt drawing envelope 1 g/mL are not empirical density calibration. Magnified particles, thin dish layer and vapour cues are illustrative, not counts or measured film thickness. Guide clamps unsupported tiny positive increments below 1e-12 to zero; exponential underflow permitted only below binary64 representation.",
+  "sourceHashes": {
+    "scripts/chemistry/export_water_impurities_reference.mjs": "b1ead90b95723d73bde04f9e2405845ec3143c22a5ec5302da8dcfcea6c65c0a",
+    "scripts/chemistry/export_water_impurities_report.mjs": "d57a633ffee04bd36ab8c53523c61feaec9490c36355dc73baadfd4a469eff99",
+    "scripts/chemistry/salt_corrosion_reference.py": "c99a20526398e1660259c4c3d63b65e24116457267385debbc426acb3c64feef",
+    "scripts/chemistry/test_water_impurities_mutations.py": "fcbe2d5f868f6ba18dba04c69ec2320ca12c1583a5ac4dbd72becb6d4eea8310",
+    "scripts/chemistry/test_water_impurities_report_mutations.py": "639227fe1c92816d4ab4f0077669bd579796f025ca4990513bed2aa1905347a7",
+    "scripts/chemistry/validate_salt_corrosion_report.py": "4f7af22f1c368c2f4cb9d9db8e050113de8d80532f872568ffa824ea1295f8df",
+    "scripts/chemistry/validate_soap_hardness.py": "e5f80227d4b18ac6c9493c863f88fb09d9f7b2f5a9605fe00150eed48b1671a1",
+    "scripts/chemistry/validate_soap_hardness_report.py": "cb3a35b438fb0940794a17e1339ddb1a035e5ec1b5b01150213069d7c9a373e0",
+    "scripts/chemistry/validate_water_impurities.py": "d2a9f87451e745c9f683b8f8f92b49d331fff9835c08e6028ff1280605fe35ad",
+    "scripts/chemistry/validate_water_impurities_report.py": "ebde9d706d9188c2cc98f3f51a037766f27f4fcef47af82c2615173f47efc493",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/WaterImpuritiesDiagram.tsx": "f9a049eefaf4a212c90fcdeb1da2b8cd455d02541bdab24eecd8d3b3db210d0f",
+    "src/components/chemistry/WaterImpuritiesLab.tsx": "c0705baa85bc53d167300cf6b8ca0aa7007b84041f71481f85118a8ff803aa0b",
+    "src/components/chemistry/WaterImpuritiesReadings.tsx": "1885d44b5991355e96892b6b4ff95c565580887112ac6339a9fbebf13c84467a",
+    "src/components/chemistry/WaterImpuritiesScene.tsx": "3f5e61d363d5c98e7db440a6d594a5a3048b261642167cb3a7ed19a30582dde7",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/waterImpuritiesLabels.ts": "45cb70af22d6e6d409f55351a2d079fd32cc246f0ef9fce613cb26cdfb62a6eb",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/waterImpurities.ts": "5b9d07fe8bc10c4cad7519c480edfd584af822f3018af19b23bf3b37a3199197",
+    "src/lib/chemistry/waterImpuritiesGeometry.ts": "9edc0d8c1c3d4ff2e4f093bbbf2b2a84b9d93514b70d43f21f72572604d1241f",
+    "src/lib/chemistry/waterImpuritiesRecord.ts": "5bfd6e872a5c81b4ab64af17c9e0347d6d9dd83de04bee5d4ae7cabf2db427df",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/load-ts.mjs": "cf004d44e82d4c0ee546d27bacf9601d189d83f2f17fce15a240ee53b7f0eb17"
+  }
+}

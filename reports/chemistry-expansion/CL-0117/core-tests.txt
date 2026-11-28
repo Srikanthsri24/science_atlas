@@ -1,0 +1,15 @@
+✔ selected complete references conserve valence electrons and satisfy each duet/octet (4.483439ms)
+✔ every incremental construction conserves tray, shared, nonbonding and unassigned electrons (2.689245ms)
+✔ incomplete alternative connectivity does not masquerade as target molecule (0.569676ms)
+✔ invalid identities, duplicate edges, overbonding and excess electron allocation are rejected (0.541782ms)
+✔ guides retain finite progress and exact electron budgets at all sampled steps (300.985643ms)
+✔ reference geometries distinguish bent, pyramidal and tetrahedral structures (0.614908ms)
+✔ validation and action application never mutate caller-owned snapshots (0.327566ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 875.943169

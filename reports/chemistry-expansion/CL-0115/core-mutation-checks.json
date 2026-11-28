@@ -1,0 +1,66 @@
+[
+  {
+    "corruption": "wrong-protons",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-neutron-target",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-mass-number",
+    "rejected": true
+  },
+  {
+    "corruption": "mass-number-treated-as-atomic-number",
+    "rejected": true
+  },
+  {
+    "corruption": "missing-nucleon",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-ground-configuration",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-shell-distribution",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-element-symbol",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-neutral-electron-target",
+    "rejected": true
+  },
+  {
+    "corruption": "false-incomplete-status",
+    "rejected": true
+  },
+  {
+    "corruption": "false-charge-balance",
+    "rejected": true
+  },
+  {
+    "corruption": "charge-unit-conversion",
+    "rejected": true
+  },
+  {
+    "corruption": "lost-electron-charge",
+    "rejected": true
+  },
+  {
+    "corruption": "wrong-missing-total",
+    "rejected": true
+  },
+  {
+    "corruption": "invented-mass-unit",
+    "rejected": true
+  },
+  {
+    "corruption": "erased-nonzero-small-coulomb-charge",
+    "rejected": true
+  }
+]

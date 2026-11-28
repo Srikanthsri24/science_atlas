@@ -1,0 +1,20 @@
+{
+  "observations": [
+    {
+      "time": "0"
+    },
+    {
+      "time": "69.55060000000304"
+    },
+    {
+      "time": "89.00090000000348"
+    },
+    {
+      "time": "112.36860000000411"
+    },
+    {
+      "time": "120"
+    }
+  ],
+  "note": "Fresh pass after geometry correction, with no source edits, seeking or pausing; scopes/formats/viewports changed."
+}

@@ -1,0 +1,6 @@
+import{writeFileSync}from'node:fs';import{loadTs}from'../../tests/load-ts.mjs';const M=await loadTs('src/lib/chemistry/oxideNeutralization.ts'),cases=[],add=q=>{const s=M.oxideNeutralState(q);cases.push({inputs:q,actual:Object.fromEntries(Object.entries(s).filter(([k,v])=>['number','boolean','string'].includes(typeof v)||v===null)),carbon:s.carbon})};
+for(const oxideG of [0,.1,.2])for(const acidMolL of [0,.01,1])for(const acidVolumeMl of [20,100])for(const reactionProgress of [0,.3,1])for(const contact of [false,true])add({...M.defaultOxideNeutral,oxideG,acidMolL,acidVolumeMl,reactionProgress,contact});
+for(const carbonMmol of [0,.1,.5])for(const waterMl of [20,100])for(const baseMolL of [0,.2])for(const baseStockMl of [0,20])for(const baseFraction of [0,.13,.5,1])add({...M.defaultOxideNeutral,carbonMmol,waterMl,baseMolL,baseStockMl,baseFraction});
+for(const baseFraction of [.499999,.5,.500001,.999999,.9999999999999999,1])add({...M.defaultOxideNeutral,baseFraction});
+add({...M.defaultOxideNeutral,oxideG:.079545,acidMolL:.1,acidVolumeMl:20,reactionProgress:1});
+writeFileSync('reports/chemistry-expansion/CL-0125/core-reference-fixtures.json',JSON.stringify(cases));console.log(cases.length,'factored independent-station cases exported');

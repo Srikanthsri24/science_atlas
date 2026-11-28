@@ -1,0 +1,46 @@
+[
+  {
+    "mutation": "wrong-subtraction-operator-with-zero-dose",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-sample-operand-hidden-by-zero-calcium",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-hardness-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-free-soap",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-foam",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-stock-mass",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-worked-block",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-observation-table",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-counterion-factor",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-table-volume-unit",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-table-observation",
+    "rejected": true
+  }
+]

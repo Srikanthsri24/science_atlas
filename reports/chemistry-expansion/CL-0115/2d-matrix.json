@@ -1,0 +1,1250 @@
+[
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.2"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.4"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.5"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.6"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.7"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.8"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "35.9"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "36.1"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "36.5"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "36.7"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "36.7"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "36.8"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "37.1"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "37.1"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "37.3"
+  },
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "37.4"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38.2"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38.3"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38.7"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38.8"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "38.9"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "39"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "39.5"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "39.6"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "39.7"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "39.8"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40.1"
+  },
+  {
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40.2"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40.7"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "40.9"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41.2"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41.3"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41.4"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41.5"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "41.6"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "42.3"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "42.5"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "42.6"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "42.8"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "42.9"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "43"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "43.1"
+  },
+  {
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "43.3"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "95.8"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "95.9"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96.2"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96.3"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96.4"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96.5"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "96.6"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.1"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.2"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.3"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.4"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.6"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.7"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.8"
+  },
+  {
+    "size": {
+      "width": 1024,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "97.9"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "98.4"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "98.5"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "98.6"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "98.7"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "98.9"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99.1"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99.2"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99.7"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99.8"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "99.8"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "100"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "100.1"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "100.2"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "100.3"
+  },
+  {
+    "size": {
+      "width": 1366,
+      "height": 768
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "100.5"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.1"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.2"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.3"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.5"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.6"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.7"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "101.8"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.3"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.4"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.5"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "landscape",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.6"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.7"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "proton",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "102.8"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "neutron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "103"
+  },
+  {
+    "size": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "portrait",
+    "scope": "electron",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "103.1"
+  }
+]

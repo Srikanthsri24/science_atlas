@@ -1,0 +1,3 @@
+src/components/chemistry/WaterElectrolysisViewer.tsx(40,183): error TS2322: Type 'string' is not assignable to type 'Readonly<number | undefined>'.
+src/components/chemistry/WaterElectrolysisViewer.tsx(41,204): error TS2322: Type 'string' is not assignable to type 'Readonly<number | undefined>'.
+src/components/chemistry/WaterElectrolysisViewer.tsx(46,189): error TS2322: Type 'string' is not assignable to type 'Readonly<number | undefined>'.

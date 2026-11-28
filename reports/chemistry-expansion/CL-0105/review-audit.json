@@ -1,6 +1,6 @@
 {
   "labId": "CL-0105",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "17 focused model/notebook tests passed; 19 with catalogue navigation",
     "222 core cases and 13764 independent field checks passed",
@@ -18,10 +18,9 @@
     "Dark 390px portrait theatre screenshot visually reviewed",
     "Paused 3D clock and live readings stayed identical through390px resize",
     "All five range inputs reached Home/End boundaries with matching React-rendered labels",
-    "Cropped apparatus screenshots changed for orbit left/right, zoom in/out, cutaway, labels and reset; final rendering visually reviewed"
+    "Cropped apparatus screenshots changed for orbit left/right, zoom in/out, cutaway, labels and reset; final rendering visually reviewed",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "Native left drag and wheel on CL-0105; native API still reports Mac locked"
-  ],
+  "unverified": [],
   "scope": "Internal implementation checks only; no independent expert, official board, physical all-device, touch, FPS or printer certification."
 }

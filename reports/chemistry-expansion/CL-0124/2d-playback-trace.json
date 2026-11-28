@@ -1,0 +1,52 @@
+[
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPredict the selected reaction. Zinc and iron can displace hydrogen from dilute non-oxidizing HCl; copper is the chosen control. No flame test is part of this investigation.150-second explanation with a continuous extent sweep from45–105s. Display seconds are narration time, not laboratory kinetics. Bubble signs show hydrogen evolution schematically. Rewinding is reference inspection, not chemical reversal.",
+    "stocks": "Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)0.01 mol acid remains · 0 mol dissolved metal · no-contact controlApparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "0.5"
+  },
+  {
+    "stocks": "Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)0.0093306 mol acid remains · 0.00033472 mol dissolved metal · metalApparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "58.1"
+  },
+  {
+    "labels": [
+      "METAL + DILUTE HCl · HYDROGEN ACCOUNT",
+      "0",
+      "20",
+      "40",
+      "60",
+      "80",
+      "100",
+      "Zn + dilute HCl",
+      "0.05923 g metal remaining",
+      "H₂ collector",
+      "mL scale",
+      "15.459 mL retained",
+      "0 mL relief overflow",
+      "Dry-equivalent at 298.15 K, 100 kPa · extent ≠ rate"
+    ],
+    "stocks": "Generated 15.459 mL = retained 15.459 + overflow 0 mLDry-equivalent collector at 298.15 K and 100000 Pa. Capacity remains available.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "69.5"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPause and record the result. Check metal, acid-hydrogen, chlorine and solution charge. Conclude only within the selected dilute-HCl model; actual kinetics and competing chemistry are excluded.150-second explanation with a continuous extent sweep from45–105s. Display seconds are narration time, not laboratory kinetics. Bubble signs show hydrogen evolution schematically. Rewinding is reference inspection, not chemical reversal.",
+    "labels": [
+      "METAL + DILUTE HCl · HYDROGEN ACCOUNT",
+      "0",
+      "20",
+      "40",
+      "60",
+      "80",
+      "100",
+      "Zn + dilute HCl",
+      "0 g metal remaining",
+      "H₂ collector",
+      "mL scale",
+      "37.916 mL retained",
+      "0 mL relief overflow",
+      "Dry-equivalent at 298.15 K, 100 kPa · extent ≠ rate"
+    ],
+    "stocks": "Generated 37.916 mL = retained 37.916 + overflow 0 mLDry-equivalent collector at 298.15 K and 100000 Pa. Capacity remains available.Apparatus dimensions use cm: solution height follows πr²h = mL; dry-equivalent retained gas uses a 10 cm² collector cross-section. Ideal compensated piston and relief keep the prescribed pressure; not a sealed overpressure model. Liquid excludes solid displacement and reaction-volume changes. Coupon volume fraction encodes remaining stock, not actual density/dimensions. Bubbles are explanatory signs, not literal molecule counts, transit inventory or measured rate.",
+    "timeline": "150"
+  }
+]

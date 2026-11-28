@@ -1,0 +1,11 @@
+✔ porous reference bath conserves free water below, across and above an immersed coupon (1.54849ms)
+✔ reference coupon holds every operational pool without inventing swelling or overflowing the bath (26.575187ms)
+✔ dry-to-bath-to-catch-to-pan path is continuous and avoids weighing a moving or immersed coupon (0.854373ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 541.191411

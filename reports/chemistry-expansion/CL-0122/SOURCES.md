@@ -1,0 +1,10 @@
+# Private scientific provenance — CL-0122
+
+Inspected28November2026; internal scientific references, no student-facing external referral links. Class8 editorial mapping remains pending official board verification.
+
+- Royal Society of Chemistry copper fact box, full officialpage retrieved: https://periodic-table.rsc.org/element/29/copper . Room-temperature density8.96g/cm3 and relative atomic mass63.546. Density is a rounded reference, not a precise universal value or an inferred sample measurement.
+- NIST Atomic Weights and Isotopic Compositions for Copper, officialpage retrieved: https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=Cu . Standard atomic weight63.546(3), not an exact value. Use63.546g/mol as the school-level molar-mass reference, not a high-precision isotopic claim.
+- Monash University Faraday laws, officialteachingpage retrieved: https://www.monash.edu/student-academic-success/chemistry/electrolysis/faradays-laws . Supports electroplating reduction/soluble-anode oxidation and mass/charge/electron stoichiometry. Model uses exactSI-derivedF rather than the teachingpage rounded96500C/mol.
+- F derived from exactSI defining constants documented and verified in ../CL-0121/SOURCES.md; no new API or backend.
+
+Original model assumptions: regulated prescribed0–1A current, unity efficiency, copper anode dissolving asCu2+ and masked single-face cathode reduction. Adequate well-mixed copper(II) bath has no net copper change under ideal equal transfer; no concentration-gradient, conductivity, voltage, transport, adhesion, porosity, roughness or side-reaction solver. Finite anode depletion triggers an ideal automatic source cutoff. Unmet requested coulomb budget is never represented as passed charge. Thickness is averageuniformdensecoating mass/(density*exposedarea). Any enlarged coating view must explicitly state magnification. Changing masses/geometry must startfreshtrial unless explicitly described as counterfactual recalculation; source/currentchanges retainhistory.

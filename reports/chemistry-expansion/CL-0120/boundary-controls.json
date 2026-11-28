@@ -1,0 +1,70 @@
+[
+  {
+    "control": [
+      "Ionic gap",
+      "Home"
+    ],
+    "value": "0.5",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n140.823 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic gap",
+      "End"
+    ],
+    "value": "3",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n23.4705 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic width",
+      "Home"
+    ],
+    "value": "0.5",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n35.20575 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic width",
+      "End"
+    ],
+    "value": "2",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n140.823 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic contact depth",
+      "Home"
+    ],
+    "value": "0",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic contact depth",
+      "End"
+    ],
+    "value": "3",
+    "readings": "Applied voltage\n0.05 V RMS\nIdeal transport current\n211.2345 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic source rms voltage",
+      "Home"
+    ],
+    "value": "0",
+    "readings": "Applied voltage\n0 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": [
+      "Ionic source rms voltage",
+      "End"
+    ],
+    "value": "0.1",
+    "readings": "Applied voltage\n0.1 V RMS\nIdeal transport current\n140.823 µA RMS\nReconstructed aqueous κ\n0.140823 S/m\nSolid conductivity\nNot measured"
+  },
+  {
+    "control": "source disconnected",
+    "readings": "Applied voltage\n0 V RMS\nIdeal transport current\n0 µA RMS\nReconstructed aqueous κ\nUnavailable S/m\nSolid conductivity\nNot measured"
+  }
+]

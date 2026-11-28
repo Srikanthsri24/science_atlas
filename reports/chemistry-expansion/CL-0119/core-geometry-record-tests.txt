@@ -1,0 +1,30 @@
+✔ electrode immersion gap and facing width match the electrical cell geometry (12.647441ms)
+✔ carrier sign schematic keeps all identities within its panel and returns exactly each cycle (10.707431ms)
+✔ wire carriers remain electrons on their own leads and current direction accounts for path orientation (0.84432ms)
+✔ absent excitation freezes all carrier positions regardless of phase and neutral sucrose stays neutral (1.17219ms)
+✔ waveform displays the physical reference period with separately normalized in-phase channels (0.395441ms)
+✔ apparatus leads electrode extremes and carrier panel remain inside the camera envelope (2.846288ms)
+✔ paused geometry is deterministic without random carrier creation (1.509167ms)
+✔ guide base preserves intended sample gap and excitation while current snapshots change (3.797662ms)
+✔ unavailable controls remain null and honestly labelled even at verified guide stages (1.195772ms)
+✔ all substitutions and their units remain valid across reference and apparatus controls (9.311959ms)
+✔ exam report escapes original student notes and preserves input-only guide metadata (1.431479ms)
+✔ reference units preserve molality and do not confuse S/m S/cm and microS/cm (2.301429ms)
+✔ ideal parallel-plate cell recovers conductivity from independent geometry and RMS values (0.313266ms)
+✔ geometry changes conductance without changing intrinsic assigned solution conductivity (0.354967ms)
+✔ open dry and zero-excitation controls show unavailable readings rather than falsely zero conductivity (0.44195ms)
+✔ AC signs reverse both ionic carriers and external electrons correctly (3.935276ms)
+✔ all sample and geometry corners retain finite valid inversions including the water background (11.496868ms)
+✔ nonelectrolyte assumption and matched comparison are explicit rather than inventing measured chemistry (0.320049ms)
+✔ guide times and unavailable controls remain honest throughout the150second sequence (0.652339ms)
+✔ invalid source and sample values are rejected without coercion (0.894489ms)
+✔ geometry demonstration changes the gap even at both allowed bounds (0.483891ms)
+✔ water and sucrose starting selections still receive a defined KCl comparison then return to their selected reference (0.578031ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 730.913235

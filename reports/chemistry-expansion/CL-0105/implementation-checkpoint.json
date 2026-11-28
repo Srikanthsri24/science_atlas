@@ -1,6 +1,6 @@
 {
   "labId": "CL-0105",
-  "status": "in_progress",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "Separate ice/water latent-energy and Mg/O2 stoichiometric reference accounts",
     "Floating ice buoyancy, constant waterline and true phase-volume geometry",
@@ -21,10 +21,8 @@
     "Seven actual browser observations: 413 results and 1819 independent checks passed",
     "3311 full regression tests passed",
     "Final TypeScript terminal exit 0 with empty log; production build terminal exit 0 in 12.30 seconds",
-    "Dark portrait screenshot, paused resize, ten keyboard boundaries and seven camera effects checked"
+    "Dark portrait screenshot, paused resize, ten keyboard boundaries and seven camera effects checked",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "Native mouse drag/wheel when available",
-    "Internal review and frozen source/evidence capture"
-  ]
+  "remaining": []
 }

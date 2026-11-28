@@ -1,0 +1,7 @@
+# Private source review — CL-0112
+
+NIST / Smithsonian authors, *Supporting Information for Hydration of Hydrophilic Cloth Face Masks Enhances the Filtration of Nanoparticles*, https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931428 — retrieved on 27 November 2026. The 18-page PDF metadata, contents and water-uptake table were inspected. Table S1 reports specific fabric samples exposed to 99% relative humidity for 12 hours, not immersion/drain capacities. Different polyester samples in that table have different uptake. This supports keeping material, construction and protocol distinctions explicit; these data must not be presented as an immersed-coupon calibration. The planned lab does not model filtration or provide mask-performance guidance.
+
+Further scientific design and source review are required before choosing numerical liquid-retention parameters. No external source referral links will be added to the student interface. No images or prose copied.
+
+The page 14 “Regain and Water Transport Properties” discussion was also inspected. Keep its humidity-specific definitions separate from liquid retention. Do not repeat broad shorthand about polyester having no polar groups, or classify regenerated rayon as equivalent to a fully synthetic polymer; the student explanation must use chemically precise language. Source discussion is contextual evidence, not permission to copy its prose or measured values into an unrelated protocol.

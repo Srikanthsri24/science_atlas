@@ -1,0 +1,1162 @@
+[
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "clippedText": [],
+    "height": 942,
+    "pageOverflow": false,
+    "width": 1792
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "control",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "calcium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "magnesium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "mixed",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "control",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "calcium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "magnesium",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "mixed",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "clippedText": [],
+    "pageOverflow": false
+  }
+]

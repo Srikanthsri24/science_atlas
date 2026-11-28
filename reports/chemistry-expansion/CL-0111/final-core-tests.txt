@@ -1,0 +1,21 @@
+✔ carbonate exposure rejects coercion, missing inputs, unsupported tiny references and invalid cells (3.15998ms)
+✔ hand calculation: finite 1 L / 0.1 mmol/L acid reference removes 5.0043 mg carbonate (2.323512ms)
+✔ water and reagent blank do not invent natural weathering or calcium from absent carbonate (0.635235ms)
+✔ finite carbonate exhaustion leaves acid in runoff instead of negative solid or lost counterions (0.29717ms)
+✔ contact stream and bypass retain all delivered acid and carrier; zero access makes no product (0.411987ms)
+✔ capturing gas changes retained mass but not reaction extent or combined mass conservation (0.479831ms)
+✔ temperature and pressure affect only ideal gas reporting, not carbonate conversion; area changes depth, not a fabricated rate (0.284214ms)
+✔ 162 matched preparations close material, gas, charge and reaction atom accounts (9.776047ms)
+✔ small nonzero conversion is retained independently of stock-subtraction rounding (0.36457ms)
+✔ 120-second guide meters 90 seconds of finite exposure and is deterministic (23.88547ms)
+✔ guide remains in its supported numerical domain without inventing a tiny dose (0.568397ms)
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.592823ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.489969ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 756.030712

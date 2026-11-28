@@ -1,0 +1,1 @@
+PASS {"trials": 6, "workedResults": 912, "expressionChecks": 912, "operandChecks": 2826, "tableNumericChecks": 636, "tables": 4}

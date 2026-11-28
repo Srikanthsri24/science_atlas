@@ -1,0 +1,74 @@
+[
+  {
+    "field": "starchG",
+    "rejected": true
+  },
+  {
+    "field": "glucoseG",
+    "rejected": true
+  },
+  {
+    "field": "sampleCarrierG",
+    "rejected": true
+  },
+  {
+    "field": "vialIodineEqMol",
+    "rejected": true
+  },
+  {
+    "field": "vialKiMol",
+    "rejected": true
+  },
+  {
+    "field": "associatedMmolL",
+    "rejected": true
+  },
+  {
+    "field": "associatedIodineEqMol",
+    "rejected": true
+  },
+  {
+    "field": "unassociatedIodineEqMol",
+    "rejected": true
+  },
+  {
+    "field": "unusedCapacityMol",
+    "rejected": true
+  },
+  {
+    "field": "associatedIodineEqG",
+    "rejected": true
+  },
+  {
+    "field": "stockG",
+    "rejected": true
+  },
+  {
+    "field": "pipetteG",
+    "rejected": true
+  },
+  {
+    "field": "vialG",
+    "rejected": true
+  },
+  {
+    "field": "materialResidualG",
+    "rejected": true
+  },
+  {
+    "field": "iodineAtomResidualMol",
+    "rejected": true
+  },
+  {
+    "field": "associationResidualMmolL2",
+    "rejected": true
+  },
+  {
+    "field": "erased-tiny-positive-association",
+    "rejected": true
+  },
+  {
+    "field": "erased-small-held-reagent",
+    "rejected": true
+  }
+]

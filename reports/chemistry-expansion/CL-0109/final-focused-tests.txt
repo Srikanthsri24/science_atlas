@@ -1,0 +1,22 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (2.169345ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.516414ms)
+✔ soap preparation rejects coerced, absent, nonfinite and out-of-range values (2.848374ms)
+✔ hand calculation: 50 mL mixed sample needs 15 mL of 0.01 M soap (13.781239ms)
+✔ hand calculation: insufficient soap apportions both ions and distinguishes dilution (0.524145ms)
+✔ four controls isolate ions and distinguish excess soap from agitation (1.170141ms)
+✔ zero dose has no precipitate, sodium or bubbles; nonzero hardness remains (0.28025ms)
+✔ whole stock and vessel mass, counterion charge and inventories close over 1296 preparations (22.273599ms)
+✔ finite stock cannot be overdelivered and all delivered material stays in vessel account (0.374288ms)
+✔ 120-second guide has 90 seconds of staged delivery/agitation, respects preparation, and is deterministic (13.860289ms)
+✔ apparatus polygon cross-sections conserve nominal liquid and finite stock volumes without overflowing (0.949713ms)
+✔ notebook retains only validated source inputs and bounded student text (0.61649ms)
+✔ worked records include explicit calcium-carbonate units, mole ratio, dilution and complete chemical-material account (4.837768ms)
+✔ four report tables have units and compatible rows; student HTML is escaped and source JSON stays exact (7.364296ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 812.952949

@@ -1,0 +1,12 @@
+{
+  "conclusion": "Passed charge determines ideal gas amounts. Generated H2/O2 is 2:1 at common T/P; finite tube capacity can change the retained ratio.",
+  "images": 0,
+  "note": "<img src=x onerror=alert(1)> literal observation: guide endpoint",
+  "plan": "Compare equal-current intervals, a disconnected interval and capacity-limited collection. Keep gas temperature and pressure fixed.",
+  "rows": [
+    18,
+    18,
+    18,
+    18
+  ]
+}

@@ -1,0 +1,30 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (3.656583ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (1.167869ms)
+✔ zinc preparations reject missing, coerced, nonfinite and unsupported tiny references (7.351015ms)
+✔ matched preparations retain unapplied zinc stock separately from active coating (69.703651ms)
+✔ default contacted scratch uses zinc first then exposes the full iron after finite coating exhaustion (1.097449ms)
+✔ barrier and electron protection are distinct and isolated zinc does not supply the iron (2.6741ms)
+✔ insufficient zinc support leaves explicitly unmet iron demand instead of promising complete protection (0.426463ms)
+✔ oxygen current ceiling limits combined anodic current and dry or zero-oxygen references stop both metals (0.819264ms)
+✔ iron-first exhaustion releases the shared oxygen budget to remaining zinc self-consumption (0.433134ms)
+✔ zero zinc and a fully removed coating expose iron without inventing a zinc-exhaustion event (0.463362ms)
+✔ four electron oxygen reduction and divalent hydroxide-equivalent accounts close without mature-rust assumptions (0.571958ms)
+✔ capacity events retain finite nonnegative stocks and close charge, metal and open material accounts at domain corners (40.320329ms)
+✔ event values are continuous and currents switch to post-exhaustion values at the exact event (0.499254ms)
+✔ guide advances the selected reference for ninety seconds, then holds the complete seven-day comparison (58.269826ms)
+✔ equivalent coating patches and metal substrates retain exact volumes at wet and dry geometry corners (16.576471ms)
+✔ prepared levels do not invent product displacement; both flow channels freeze on the shared guide state (1.549628ms)
+✔ detached zinc has two wetted faces and cannot hide iron from the carrier (0.683241ms)
+✔ dry shared stock and open support volumes agree with the rendered apparatus dimensions (0.864408ms)
+✔ original qualitative zinc facets cover a unit square with outward-facing triangles (2.213821ms)
+✔ zinc notebook retains source inputs only, bounded writing and four-control tables (1.95842ms)
+✔ worked zinc records cover source rates, finite phase charges and net material with units (7.0131ms)
+✔ exam report contains seven tables, escapes student HTML and preserves exact source JSON (6.369975ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1479.19647

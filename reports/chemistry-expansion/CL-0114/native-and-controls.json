@@ -1,0 +1,29 @@
+{
+  "native": {
+    "pausedIdentical": true,
+    "wheelChanged": true,
+    "dragChanged": true
+  },
+  "controls": [
+    {
+      "control": "Labels",
+      "changed": true
+    },
+    {
+      "control": "Cutaway",
+      "changed": true
+    },
+    {
+      "control": "Water impurities zoom in",
+      "changed": true
+    },
+    {
+      "control": "Reset camera",
+      "changed": true
+    },
+    {
+      "control": "Water impurities zoom out",
+      "changed": true
+    }
+  ]
+}

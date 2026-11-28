@@ -1,0 +1,43 @@
+{
+  "labId": "CL-0107",
+  "reviewedOn": "2026-11-27",
+  "status": "passed_internal_functional_review",
+  "animationSeconds": 120,
+  "checks": {
+    "model": "22 focused tests. Independent 80-digit Decimal reference: 882 states/62181 fields; eight core mutations rejected. Synthetic 18-trial reports: 2394 results, 13307 numeric checks, 2454 units, 2377 expression checks; ten report mutations rejected. Prior integrated regression 3355 passed. Final TypeScript empty and build 16.21s passed.",
+    "twoD": "Five inspection scopes; actual 120-second guide completed; changing equivalent thickness and moving oxygen-supply cues. Larger portrait labels and readable HTML selected-observation explanations. Labels/image/initial-thickness controls changed SVG counts.",
+    "threeD": "Matched maintained baths, masked coupon edges, exact equivalent remaining-iron geometry, initial outline and original qualitative material. Actual 120-second guide completed. Nine canvas-region button comparisons changed pixels with unchanged readings. Stopped frame byte-identical. Native drag/wheel changed camera with unchanged scientific readings/time.",
+    "responsive": "192 initial scope/device combinations: 120 2D and 72 3D across normal/theatre, both formats and six dimensions. Final typography checked in 30 additional 2D combinations with no page overflow or clipped text rectangles. Dark mobile selected-observation screenshot reviewed; temporary theme/viewport restored.",
+    "practicalRecord": "Ten tables, 133 worked blocks per matched trial. Four groups 65/65/3/133 verified. Nine actual records persisted after reload with escaped student HTML text. Extended actual eleven-trial export independently passed 1463 results, 7998 numeric checks, 1505 units and 1428 expressions, including nonzero entered properties and finite-metal exhaustion. Fourteen range control boundaries exercised; salt-A first minimum rechecked after stale read. Conductivity invalid/min/max handling verified."
+  },
+  "reviewScope": "Internal functional and numerical-model review, not independent expert or official-board/physical-all-device/touch/FPS/printer certification. Conditional selected resistance/oxygen-transport ceiling and selected fraction, not an empirically calibrated rust-rate law. Restricted dilute NaCl approximation or supplied properties whose empirical consistency is not certified. Maintained bulk oxygen and carrier form an open boundary. Primary FeII charge is separate from additional FeIII maturation equivalents. Selected Fe2O3.H2O is an accounting reference, not unique real rust composition. All product retained; no pitting, rust density, measured surface coverage, flaking or oxide barriers predicted. Zero-thickness generated texture is appearance art only. Prepared bath levels do not predict rust displacement.",
+  "nativeGestureVerification": "Desktop Chrome native left drag and wheel passed after unlock; time/readings unchanged.",
+  "sourceHashes": {
+    "scripts/chemistry/export_salt_corrosion_reference.mjs": "141dade637b4276774ce337503f7d6c722c5938e255860bdd8d1071cab1a72a2",
+    "scripts/chemistry/export_salt_corrosion_report.mjs": "be36dcb51597f77542c94b898d2cd4c136576912577bf4cde63ec4c0f0d69d33",
+    "scripts/chemistry/salt_corrosion_reference.py": "c99a20526398e1660259c4c3d63b65e24116457267385debbc426acb3c64feef",
+    "scripts/chemistry/test_salt_corrosion_mutations.py": "ff42660f414336c7007e91b1c4e4b869b6ec693a08f7df357085be0ce9be71d3",
+    "scripts/chemistry/test_salt_corrosion_report_mutations.py": "757ba2880c34e107a30c9dafdaaf6699d4c30c711ac1019b27d7b1ec4c6883a3",
+    "scripts/chemistry/validate_salt_corrosion.py": "f9e819371d632d7f134b0ca1f9e63884b9a23f85ae0aa25cf90d252b1885ac68",
+    "scripts/chemistry/validate_salt_corrosion_report.py": "4f7af22f1c368c2f4cb9d9db8e050113de8d80532f872568ffa824ea1295f8df",
+    "src/components/chemistry/LabPresentation.tsx": "fa05f384732aeb20e68994d21f3e70a299d084b361a466c8f051c5f8a11bb333",
+    "src/components/chemistry/SaltCorrosionDiagram.tsx": "df17bbedd98dfa8bc64f93b3fcc1405c17e50401c7c6d8960a7c12f1394fb6b7",
+    "src/components/chemistry/SaltCorrosionLab.tsx": "4afd572f832e1b5d233f5a11a42f5e16f060530c6781a7615f26f6d8aaeedd03",
+    "src/components/chemistry/SaltCorrosionReadings.tsx": "07daac49e25cb5687fbd5fd958506fcd9e378b24605796ba3b784bde3697760d",
+    "src/components/chemistry/SaltCorrosionScene.tsx": "b092e04a2000428abf9bdb3ca0c2946c56d24792697ae87849bf551e4d288e2e",
+    "src/components/chemistry/ScienceBenchPrimitives.tsx": "b6666dfc387eb221c13095824cb62c9996e7a665a8618baf7d9f36a293a77241",
+    "src/components/chemistry/ViewerBoundary.tsx": "7465ae3de024c6f1ee3ffbbd7c288c4b2ebf68363b901e7c70509adb03a8a93f",
+    "src/components/chemistry/assets/rust-coupon-albedo-v1.png": "081611ede1bac8dea409db0fdd2958fbc1f8be4eb0e7712908629a6800c824ff",
+    "src/components/chemistry/evaporationAir.css": "1e421a7b53972d1dde8e34afe8ba7fcc2bcc62a22ca3cc427f1dbae241ad3120",
+    "src/components/chemistry/evaporationArea.css": "117f8ab5fc9e0a964de63acbeeea929e42abeb565a3dc1c8d3ae6d6568fc82bc",
+    "src/components/chemistry/saltCorrosion.css": "0718a8aa53db12a3c905356cfba062ef3adc901f33f7b245f5f84751c5123d67",
+    "src/components/science/useClock.ts": "1d96f61678533403a876148ab29d16a7d70ea283484e9b5a3fd5bd5f8be596d5",
+    "src/lib/chemistry/orthographicFraming.ts": "c3cf7c97488f1939d1347fe8a8ae8caad11cb8f3f63fc2676b5de03231b06812",
+    "src/lib/chemistry/saltCorrosion.ts": "00c1f880d748f5499ed1515f59e803ef6691dc2527cebb2f8e452fabbd53001d",
+    "src/lib/chemistry/saltCorrosionAssets.ts": "c310f6fbea1cc2d4e5418dd52e988574d1c44528d549a3d695ccebd25236e337",
+    "src/lib/chemistry/saltCorrosionGeometry.ts": "8fc77dc2b1524866b990743fd69bb7ad3d2f9f0429927edbfb91b0e028d2f687",
+    "src/lib/chemistry/saltCorrosionRecord.ts": "2c1b0dc5c62ad052121fe60829d79921d7068506c348da27f52761d1200dee2d",
+    "tests/chemistry-catalog-navigation.test.mjs": "11c4bf32c976c44e0d465cd51dab9f0b8ff14d534f2f49ddbdf38e974e571cb5",
+    "tests/chemistry-salt-corrosion.test.mjs": "c20824f4a1eca32b6474fd9cb5d556976d533bedae0a1b559701ac8ae2dd64a7"
+  }
+}

@@ -1,0 +1,22 @@
+✔ zinc preparations reject missing, coerced, nonfinite and unsupported tiny references (3.731438ms)
+✔ matched preparations retain unapplied zinc stock separately from active coating (1.660967ms)
+✔ default contacted scratch uses zinc first then exposes the full iron after finite coating exhaustion (0.461478ms)
+✔ barrier and electron protection are distinct and isolated zinc does not supply the iron (1.062279ms)
+✔ insufficient zinc support leaves explicitly unmet iron demand instead of promising complete protection (0.204901ms)
+✔ oxygen current ceiling limits combined anodic current and dry or zero-oxygen references stop both metals (0.451561ms)
+✔ iron-first exhaustion releases the shared oxygen budget to remaining zinc self-consumption (0.232705ms)
+✔ zero zinc and a fully removed coating expose iron without inventing a zinc-exhaustion event (0.258187ms)
+✔ four electron oxygen reduction and divalent hydroxide-equivalent accounts close without mature-rust assumptions (0.238372ms)
+✔ capacity events retain finite nonnegative stocks and close charge, metal and open material accounts at domain corners (14.321452ms)
+✔ event values are continuous and currents switch to post-exhaustion values at the exact event (0.232021ms)
+✔ guide advances the selected reference for ninety seconds, then holds the complete seven-day comparison (26.792632ms)
+✔ equivalent coating patches and metal substrates retain exact volumes at wet and dry geometry corners (6.499651ms)
+✔ prepared levels do not invent product displacement; both flow channels freeze on the shared guide state (0.637409ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 651.48108

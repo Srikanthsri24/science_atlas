@@ -1,0 +1,16 @@
+{
+  "rejectedCorruptions": 11,
+  "checks": [
+    "fabricated solid conductivity",
+    "solid current despite fixed lattice",
+    "solid inverse reading fabricated",
+    "dry voltage erased",
+    "water current erased",
+    "inverse reading erased",
+    "current unit factor",
+    "positive carrier direction reversed",
+    "negative carrier direction reversed",
+    "unavailable reading marked valid",
+    "reference molality conductivity changed"
+  ]
+}

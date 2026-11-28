@@ -1,0 +1,26 @@
+✔ electrode immersion gap and facing width match the electrical cell geometry (13.756096ms)
+✔ carrier sign schematic keeps all identities within its panel and returns exactly each cycle (13.108486ms)
+✔ wire carriers remain electrons on their own leads and current direction accounts for path orientation (1.313202ms)
+✔ absent excitation freezes all carrier positions regardless of phase and neutral sucrose stays neutral (1.704485ms)
+✔ waveform displays the physical reference period with separately normalized in-phase channels (0.516494ms)
+✔ apparatus leads electrode extremes and carrier panel remain inside the camera envelope (4.141371ms)
+✔ paused geometry is deterministic without random carrier creation (2.46149ms)
+✔ reference units preserve molality and do not confuse S/m S/cm and microS/cm (2.660404ms)
+✔ ideal parallel-plate cell recovers conductivity from independent geometry and RMS values (0.35227ms)
+✔ geometry changes conductance without changing intrinsic assigned solution conductivity (0.559403ms)
+✔ open dry and zero-excitation controls show unavailable readings rather than falsely zero conductivity (0.482594ms)
+✔ AC signs reverse both ionic carriers and external electrons correctly (3.817907ms)
+✔ all sample and geometry corners retain finite valid inversions including the water background (20.196095ms)
+✔ nonelectrolyte assumption and matched comparison are explicit rather than inventing measured chemistry (0.768367ms)
+✔ guide times and unavailable controls remain honest throughout the150second sequence (0.831152ms)
+✔ invalid source and sample values are rejected without coercion (0.957021ms)
+✔ geometry demonstration changes the gap even at both allowed bounds (0.474742ms)
+✔ water and sucrose starting selections still receive a defined KCl comparison then return to their selected reference (0.284063ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 710.816454

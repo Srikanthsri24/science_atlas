@@ -1,0 +1,8 @@
+{
+  "initial": "Passed charge\n300 C\nPhysical elapsed time\n600 s\nGenerated H2\n38.034906 mL\nGenerated O2\n19.017453 mL\nRetained H2 / O2\n38.034906 / 19.017453 mL\nOverflow H2 / O2\n0 / 0 mL",
+  "gates": {
+    "playingDisabled": true,
+    "pausedEnabled": true
+  },
+  "endpoint": "Passed charge\n330 C\nPhysical elapsed time\n660 s\nGenerated H2\n41.838397 mL\nGenerated O2\n20.919198 mL\nRetained H2 / O2\n41.838397 / 20.919198 mL\nOverflow H2 / O2\n0 / 0 mL"
+}

@@ -1,0 +1,25 @@
+{
+  "labId": "CL-0105",
+  "dragChanged": true,
+  "wheelChanged": true,
+  "readingsUnchanged": true,
+  "timeUnchanged": true,
+  "drag": {
+    "from": [
+      900,
+      400
+    ],
+    "to": [
+      935,
+      410
+    ]
+  },
+  "wheel": {
+    "at": [
+      900,
+      400
+    ],
+    "direction": "down",
+    "pages": 0.25
+  }
+}

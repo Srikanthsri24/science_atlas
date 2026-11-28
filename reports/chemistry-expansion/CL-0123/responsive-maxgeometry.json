@@ -1,0 +1,866 @@
+[
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 198,
+      "w": 352
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 198,
+      "w": 352
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 625.7734375,
+      "w": 352
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 625.7734375,
+      "w": 352
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 326.25,
+      "w": 580
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 326.25,
+      "w": 580
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 283.5,
+      "w": 504
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 283.5,
+      "w": 504
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 427.5,
+      "w": 760
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 427.5,
+      "w": 760
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 465.1875,
+      "w": 827
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 465.1875,
+      "w": 827
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 683.4375,
+      "w": 1215
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 683.4375,
+      "w": 1215
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "theatre": false,
+    "canvas": 0,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 219.375,
+      "w": 390
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 524,
+      "w": 390
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 524,
+      "w": 294.75
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 524,
+      "w": 390
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 203.796875,
+      "w": 362.3046875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 203.8046875,
+      "w": 844
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 203.796875,
+      "w": 114.6328125
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 203.8046875,
+      "w": 844
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 432,
+      "w": 768
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 587.609375,
+      "w": 768
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 587.609375,
+      "w": 330.5234375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 587.609375,
+      "w": 768
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 331.609375,
+      "w": 589.5234375
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 331.609375,
+      "w": 1024
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 331.609375,
+      "w": 186.5234375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 331.609375,
+      "w": 1024
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 505.515625,
+      "w": 898.6875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 505.515625,
+      "w": 1440
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 505.515625,
+      "w": 284.3515625
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 505.515625,
+      "w": 1440
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 674.265625,
+      "w": 1198.6875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 674.2734375,
+      "w": 1920
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "2D",
+    "theatre": true,
+    "canvas": 0,
+    "display": {
+      "h": 674.265625,
+      "w": 379.2734375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 674.2734375,
+      "w": 1920
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 198,
+      "w": 352
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 198,
+      "w": 352
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 625.7734375,
+      "w": 352
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 625.7734375,
+      "w": 352
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 326.25,
+      "w": 580
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 326.25,
+      "w": 580
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 283.5,
+      "w": 504
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 283.5,
+      "w": 504
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 427.5,
+      "w": 760
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 427.5,
+      "w": 760
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 465.1875,
+      "w": 827
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 465.1875,
+      "w": 827
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 683.4375,
+      "w": 1215
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 683.4375,
+      "w": 1215
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "theatre": false,
+    "canvas": 1,
+    "display": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 853.328125,
+      "w": 480
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 219.375,
+      "w": 390
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 524,
+      "w": 390
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 524,
+      "w": 294.75
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 524,
+      "w": 390
+    },
+    "height": 844,
+    "overflow": false,
+    "textOutside": [],
+    "width": 390
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 203.796875,
+      "w": 362.3046875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 203.8046875,
+      "w": 844
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 203.796875,
+      "w": 114.6328125
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 203.8046875,
+      "w": 844
+    },
+    "height": 390,
+    "overflow": false,
+    "textOutside": [],
+    "width": 844
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 432,
+      "w": 768
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 587.609375,
+      "w": 768
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 587.609375,
+      "w": 330.5234375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 587.609375,
+      "w": 768
+    },
+    "height": 1024,
+    "overflow": false,
+    "textOutside": [],
+    "width": 768
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 331.609375,
+      "w": 589.5234375
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 331.609375,
+      "w": 1024
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 331.609375,
+      "w": 186.5234375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 331.609375,
+      "w": 1024
+    },
+    "height": 768,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1024
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 505.515625,
+      "w": 898.6875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 505.515625,
+      "w": 1440
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 505.515625,
+      "w": 284.3515625
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 505.515625,
+      "w": 1440
+    },
+    "height": 900,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1440
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 674.265625,
+      "w": 1198.6875
+    },
+    "format": "landscape",
+    "frame": {
+      "h": 674.2734375,
+      "w": 1920
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  },
+  {
+    "mode": "3D",
+    "theatre": true,
+    "canvas": 1,
+    "display": {
+      "h": 674.265625,
+      "w": 379.2734375
+    },
+    "format": "portrait",
+    "frame": {
+      "h": 674.2734375,
+      "w": 1920
+    },
+    "height": 1080,
+    "overflow": false,
+    "textOutside": [],
+    "width": 1920
+  }
+]

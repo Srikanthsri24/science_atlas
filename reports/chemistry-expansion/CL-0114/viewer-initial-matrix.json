@@ -1,0 +1,1262 @@
+[
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "17",
+    "visual": {
+      "bottom": -319.2578125,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "17.2",
+    "visual": {
+      "bottom": -319.2578125,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "17.3",
+    "visual": {
+      "bottom": -319.2578125,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "17.4",
+    "visual": {
+      "bottom": -319.2578125,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "17.5",
+    "visual": {
+      "bottom": -319.2578125,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "17.7",
+    "visual": {
+      "bottom": 108.515625,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "17.8",
+    "visual": {
+      "bottom": 108.515625,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "17.9",
+    "visual": {
+      "bottom": 108.515625,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "18.1",
+    "visual": {
+      "bottom": 108.515625,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "18.2",
+    "visual": {
+      "bottom": 108.515625,
+      "left": 19,
+      "right": 371,
+      "top": -517.2578125
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "18.7",
+    "visual": {
+      "bottom": 383.375,
+      "left": 0,
+      "right": 390,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "18.8",
+    "visual": {
+      "bottom": 383.375,
+      "left": 0,
+      "right": 390,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "18.9",
+    "visual": {
+      "bottom": 383.375,
+      "left": 0,
+      "right": 390,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "19.1",
+    "visual": {
+      "bottom": 383.375,
+      "left": 0,
+      "right": 390,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "19.2",
+    "visual": {
+      "bottom": 383.375,
+      "left": 0,
+      "right": 390,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "19.4",
+    "visual": {
+      "bottom": 648,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "19.5",
+    "visual": {
+      "bottom": 648,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "19.7",
+    "visual": {
+      "bottom": 648,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "19.8",
+    "visual": {
+      "bottom": 648,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "19.9",
+    "visual": {
+      "bottom": 648,
+      "left": 58.875,
+      "right": 331.125,
+      "top": 164
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "20.4",
+    "visual": {
+      "bottom": 722.9609375,
+      "left": 237,
+      "right": 817,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "20.6",
+    "visual": {
+      "bottom": 722.9609375,
+      "left": 237,
+      "right": 817,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "20.7",
+    "visual": {
+      "bottom": 722.9609375,
+      "left": 237,
+      "right": 817,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "20.8",
+    "visual": {
+      "bottom": 722.9609375,
+      "left": 237,
+      "right": 817,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "21",
+    "visual": {
+      "bottom": 722.9609375,
+      "left": 237,
+      "right": 817,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "21.2",
+    "visual": {
+      "bottom": 1196.7109375,
+      "left": 302,
+      "right": 752,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "21.2",
+    "visual": {
+      "bottom": 1196.7109375,
+      "left": 302,
+      "right": 752,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "21.4",
+    "visual": {
+      "bottom": 1196.7109375,
+      "left": 302,
+      "right": 752,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "21.5",
+    "visual": {
+      "bottom": 1196.7109375,
+      "left": 302,
+      "right": 752,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "21.6",
+    "visual": {
+      "bottom": 1196.7109375,
+      "left": 302,
+      "right": 752,
+      "top": 396.7109375
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "22.1",
+    "visual": {
+      "bottom": 303,
+      "left": 262,
+      "right": 582,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "22.2",
+    "visual": {
+      "bottom": 303,
+      "left": 262,
+      "right": 582,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "22.3",
+    "visual": {
+      "bottom": 303,
+      "left": 262,
+      "right": 582,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "22.4",
+    "visual": {
+      "bottom": 303,
+      "left": 262,
+      "right": 582,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "22.5",
+    "visual": {
+      "bottom": 303,
+      "left": 262,
+      "right": 582,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "22.7",
+    "visual": {
+      "bottom": 303,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "22.8",
+    "visual": {
+      "bottom": 303,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "23",
+    "visual": {
+      "bottom": 303,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "23.1",
+    "visual": {
+      "bottom": 303,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 844,
+      "height": 390
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "23.1",
+    "visual": {
+      "bottom": 303,
+      "left": 371.375,
+      "right": 472.625,
+      "top": 123
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "23.7",
+    "visual": {
+      "bottom": 608.90625,
+      "left": 237,
+      "right": 741,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "23.9",
+    "visual": {
+      "bottom": 608.90625,
+      "left": 237,
+      "right": 741,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "24",
+    "visual": {
+      "bottom": 608.90625,
+      "left": 237,
+      "right": 741,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "24.1",
+    "visual": {
+      "bottom": 608.90625,
+      "left": 237,
+      "right": 741,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "24.2",
+    "visual": {
+      "bottom": 608.90625,
+      "left": 237,
+      "right": 741,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "24.4",
+    "visual": {
+      "bottom": 1125.40625,
+      "left": 264,
+      "right": 714,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "24.5",
+    "visual": {
+      "bottom": 1125.40625,
+      "left": 264,
+      "right": 714,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "24.6",
+    "visual": {
+      "bottom": 1125.40625,
+      "left": 264,
+      "right": 714,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "24.7",
+    "visual": {
+      "bottom": 1125.40625,
+      "left": 264,
+      "right": 714,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": false,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "24.8",
+    "visual": {
+      "bottom": 1125.40625,
+      "left": 264,
+      "right": 714,
+      "top": 325.40625
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "25.3",
+    "visual": {
+      "bottom": 571,
+      "left": 0,
+      "right": 768,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "25.4",
+    "visual": {
+      "bottom": 571,
+      "left": 0,
+      "right": 768,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "25.6",
+    "visual": {
+      "bottom": 571,
+      "left": 0,
+      "right": 768,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "25.6",
+    "visual": {
+      "bottom": 571,
+      "left": 0,
+      "right": 768,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "landscape",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [],
+    "time": "25.8",
+    "visual": {
+      "bottom": 571,
+      "left": 0,
+      "right": 768,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "all",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "25.9",
+    "visual": {
+      "bottom": 803,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "water",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "26.1",
+    "visual": {
+      "bottom": 803,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "salt",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "26.2",
+    "visual": {
+      "bottom": 803,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "suspension",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "26.4",
+    "visual": {
+      "bottom": 803,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139
+    }
+  },
+  {
+    "mode": "2D",
+    "size": {
+      "width": 768,
+      "height": 1024
+    },
+    "format": "portrait",
+    "scope": "mixture",
+    "theatre": true,
+    "canvasCount": 0,
+    "overflow": 0,
+    "textOutside": [
+      "Nominal volumes · magnified markers · dry residue includes salt and particles · no safety inference"
+    ],
+    "time": "26.5",
+    "visual": {
+      "bottom": 803,
+      "left": 197.25,
+      "right": 570.75,
+      "top": 139
+    }
+  }
+]

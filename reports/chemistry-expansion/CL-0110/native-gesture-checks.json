@@ -1,0 +1,18 @@
+{
+  "checks": [
+    {
+      "gesture": "native left drag",
+      "changedCanvas": true,
+      "unchangedReadings": true,
+      "time": "72.3"
+    },
+    {
+      "gesture": "native wheel",
+      "changedCanvas": true,
+      "unchangedReadings": true,
+      "unchangedCanvasBounds": true,
+      "time": "72.3"
+    }
+  ],
+  "note": "Pointer parked on the Labels control outside the canvas before each comparison; label state restored. Native wheel did not scroll the canvas container."
+}

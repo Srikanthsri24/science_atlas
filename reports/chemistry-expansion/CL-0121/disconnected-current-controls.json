@@ -1,0 +1,4 @@
+{
+  "disconnectedEndpoint": "Passed charge\n360 C\nPhysical elapsed time\n780 s\nGenerated H2\n45.641887 mL\nGenerated O2\n22.820944 mL\nRetained H2 / O2\n45.641887 / 22.820944 mL\nOverflow H2 / O2\n0 / 0 mL",
+  "afterCurrentChange": "Passed charge\n360 C\nPhysical elapsed time\n780 s\nGenerated H2\n45.641887 mL\nGenerated O2\n22.820944 mL\nRetained H2 / O2\n45.641887 / 22.820944 mL\nOverflow H2 / O2\n0 / 0 mL"
+}

@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "group": "cotton",
+      "blocks": 36
+    },
+    {
+      "group": "wool",
+      "blocks": 36
+    },
+    {
+      "group": "nylon",
+      "blocks": 36
+    },
+    {
+      "group": "polyester",
+      "blocks": 36
+    },
+    {
+      "group": "all",
+      "blocks": 144
+    }
+  ],
+  "notebook": "Notebook: 8/40 observations · 1152 worked calculations.",
+  "plan": "Compare matched dry masses with selected soak and drain times. Track water in coupon, catch and bath, and distinguish model mass from 1 mg indications.",
+  "conclusion": "The selected construction and drain protocol change retained water. Indicated gain is limited by balance resolution. These operational references do not establish a universal natural-versus-synthetic absorption ranking.",
+  "note": "Guided dry stage: <b>zero soak and drain</b> & no water gain.",
+  "tables": [
+    {
+      "rows": 8,
+      "title": "Fibre preparation observations"
+    },
+    {
+      "rows": 32,
+      "title": "Uptake and drainage observations"
+    },
+    {
+      "rows": 32,
+      "title": "Balance indications and normalization"
+    },
+    {
+      "rows": 32,
+      "title": "Material balance and indication error"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+✔ soap preparation rejects coerced, absent, nonfinite and out-of-range values (2.260419ms)
+✔ hand calculation: 50 mL mixed sample needs 15 mL of 0.01 M soap (0.97303ms)
+✔ hand calculation: insufficient soap apportions both ions and distinguishes dilution (0.243683ms)
+✔ four controls isolate ions and distinguish excess soap from agitation (0.513257ms)
+✔ zero dose has no precipitate, sodium or bubbles; nonzero hardness remains (0.269947ms)
+✔ whole stock and vessel mass, counterion charge and inventories close over 1296 preparations (16.96404ms)
+✔ finite stock cannot be overdelivered and all delivered material stays in vessel account (0.291988ms)
+✔ 120-second guide has 90 seconds of staged delivery/agitation, respects preparation, and is deterministic (12.890319ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 598.724388

@@ -1,0 +1,17 @@
+{
+  "rejectedCorruptions": 12,
+  "checks": [
+    "charge erased on disconnection",
+    "elapsed time mistaken for live source time",
+    "electron stoichiometry wrong",
+    "hydrogen electron factor wrong",
+    "oxygen electron factor wrong",
+    "ideal gas conversion wrong",
+    "overflow lost",
+    "capacity exceeded",
+    "saturated retained ratio falsely 2",
+    "empty gas ratio falsely 2",
+    "small positive volume erased",
+    "disconnected current nonzero"
+  ]
+}

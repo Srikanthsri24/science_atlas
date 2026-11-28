@@ -1,0 +1,7 @@
+{
+  "completedAt": "2026-11-28T05:07:56.984Z",
+  "timeline": "150",
+  "replay": 1,
+  "readout": "Cathode: 10.0988 g · gain 0.0987912 g · coating 18.3763 µm\nPassed 300 C · requested budget 300 C · unmet 0 C.\nApparatus dimensions in cm. Actual copper film thickness follows mass/density/exposed area; separate cross-sections explicitly magnify coating and anode thickness. Initial cathode mass is an independent balance input, not inferred from schematic fixture geometry. Visible Cu2+ markers are arbitrary transfer signs, not measured trajectories, concentrations or atom counts.",
+  "errors": []
+}

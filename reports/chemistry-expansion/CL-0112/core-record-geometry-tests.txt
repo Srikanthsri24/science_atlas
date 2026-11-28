@@ -1,0 +1,24 @@
+✔ fibre reference rejects invalid preparations and cannot coerce or invent fibre IDs (2.949763ms)
+✔ hand calculation: selected cotton uptake, drain, gross/net and both percentage bases (1.205423ms)
+✔ finite water limits uptake and is partitioned once, never removed twice (0.489282ms)
+✔ zero bath, zero soaking and suppressed wetting keep specimens dry (0.468493ms)
+✔ drainage transfers only the operational drainable pool, conserving strong pool and uptake (0.260932ms)
+✔ selected construction can reverse a no-drain comparison without changing material identity (0.366462ms)
+✔ 432 parameter combinations preserve water/material balance and normalized units (11.670023ms)
+✔ balance reference uses 1 mg divisions, ties upward and bounds rounding error (0.664477ms)
+✔ 120-second guide stages dry/lower/soak/lift/drain/weigh/interpret and preserves valid tiny inputs (7.721479ms)
+✔ porous reference bath conserves free water below, across and above an immersed coupon (1.491814ms)
+✔ reference coupon holds every operational pool without inventing swelling or overflowing the bath (24.342707ms)
+✔ dry-to-bath-to-catch-to-pan path is continuous and avoids weighing a moving or immersed coupon (0.743317ms)
+✔ fibre notebook has four matched rows per observation and 140 unit-bearing worked blocks (3.568204ms)
+✔ practical report escapes all student text and preserves only preparation inputs (2.838094ms)
+✔ invalid notebook cannot bypass preparation bounds or exceed forty observations (0.413595ms)
+✔ a positive model uptake below instrument resolution is retained in workings, not rounded out of conservation (1.267965ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 577.314876

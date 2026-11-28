@@ -1,0 +1,4 @@
+import{writeFileSync}from'node:fs';import{loadTs}from'../../tests/load-ts.mjs';const m=await loadTs('src/lib/chemistry/neutralAtoms.ts'),rows=[];const add=input=>rows.push({input,state:m.neutralAtomState(input)});
+for(const t of m.neutralAtomIsotopes)for(const protons of[0,Math.floor(t.z/2),t.z])for(const neutrons of[0,Math.floor(t.neutronTarget/2),t.neutronTarget])for(const electrons of[0,Math.floor(t.z/2),t.z])add({isotopeId:t.id,protons,neutrons,electrons});
+let seed=115;const random=()=>((seed=(Math.imul(seed,1664525)+1013904223)>>>0)/2**32);for(let i=0;i<512;i++){const t=m.neutralAtomIsotopes[Math.floor(random()*m.neutralAtomIsotopes.length)];add({isotopeId:t.id,protons:Math.floor(random()*(t.z+1)),neutrons:Math.floor(random()*(t.neutronTarget+1)),electrons:Math.floor(random()*(t.z+1))})}
+writeFileSync('reports/chemistry-expansion/CL-0115/core-reference.json',JSON.stringify(rows));console.log(rows.length,'construction states exported');

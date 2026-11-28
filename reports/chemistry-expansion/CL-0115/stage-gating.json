@@ -1,0 +1,38 @@
+[
+  {
+    "recordDisabled": true,
+    "time": 0
+  },
+  {
+    "recordDisabled": true,
+    "time": 15
+  },
+  {
+    "recordDisabled": true,
+    "time": 45
+  },
+  {
+    "recordDisabled": true,
+    "time": 75
+  },
+  {
+    "recordDisabled": true,
+    "time": 119.9
+  },
+  {
+    "recordDisabled": true,
+    "time": 120
+  },
+  {
+    "recordDisabled": true,
+    "time": 134.9
+  },
+  {
+    "recordDisabled": false,
+    "time": 135
+  },
+  {
+    "recordDisabled": false,
+    "time": 150
+  }
+]

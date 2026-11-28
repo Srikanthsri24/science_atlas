@@ -1,0 +1,242 @@
+[
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "2D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "format": "landscape",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "mode": "3D",
+    "format": "portrait",
+    "clipped": [],
+    "fit": true,
+    "overflow": false,
+    "visual": true
+  }
+]

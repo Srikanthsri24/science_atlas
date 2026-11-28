@@ -1,0 +1,21 @@
+✔ display layers retain every ion identity, boundary weight and full inventory (14.127075ms)
+✔ periodic-neighbour annotations preserve six images and reference distance even while display opens (6.724235ms)
+✔ each molecular rack group has only its own intramolecular links and stable composition (10.028743ms)
+✔ opening the rack translates whole molecules rigidly rather than stretching or breaking bonds (1.271348ms)
+✔ all particles and neighbour markers fit the declared framing envelope (11.525937ms)
+✔ paused geometry is deterministic and invalid inspection ranges are rejected (3.112722ms)
+✔ conventional rock-salt box shares corners faces edges and interior correctly (3.438542ms)
+✔ larger boxes keep exact weights without mistaking raw boundary copies for a neutral cluster (1.590533ms)
+✔ all indexed sites have six physical bulk neighbours including distinct periodic images (97.197043ms)
+✔ whole molecular entities preserve atom ratios and have no links between groups (1.448831ms)
+✔ slice and layer separation are viewing operations and do not alter inventory (5.96923ms)
+✔ 150second guide animates inspection without changing composition or inventing property predictions (4.596437ms)
+✔ invalid boundaries identities and nonfinite values cannot enter the comparison (0.829266ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 728.734054

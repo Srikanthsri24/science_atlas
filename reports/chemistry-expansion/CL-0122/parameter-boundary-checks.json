@@ -1,0 +1,66 @@
+[
+  {
+    "control": [
+      "Plating initial anode mass",
+      "End"
+    ],
+    "value": "2",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n1.9012088 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n18.376336 µm"
+  },
+  {
+    "control": [
+      "Plating initial cathode mass",
+      "Home"
+    ],
+    "value": "5",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n5.0987912 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n18.376336 µm"
+  },
+  {
+    "control": [
+      "Plating initial cathode mass",
+      "End"
+    ],
+    "value": "30",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n30.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n18.376336 µm"
+  },
+  {
+    "control": [
+      "Plating exposed width",
+      "Home"
+    ],
+    "value": "0.5",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n73.505344 µm"
+  },
+  {
+    "control": [
+      "Plating exposed width",
+      "End"
+    ],
+    "value": "4",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n9.188168 µm"
+  },
+  {
+    "control": [
+      "Plating exposed height",
+      "Home"
+    ],
+    "value": "1",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n55.129008 µm"
+  },
+  {
+    "control": [
+      "Plating exposed height",
+      "End"
+    ],
+    "value": "5",
+    "readings": "Actual passed charge\n300 C\nRequested budget\n300 C\nIdeal anode balance\n0.90120882 g\nIdeal cathode balance\n10.098791 g\nCopper deposited\n98.791182 mg\nAverage film thickness\n11.025802 µm"
+  },
+  {
+    "control": [
+      "Plating current",
+      "Home"
+    ],
+    "value": "0",
+    "readings": "Actual passed charge\n0 C\nRequested budget\n0 C\nIdeal anode balance\n1 g\nIdeal cathode balance\n10 g\nCopper deposited\n0 mg\nAverage film thickness\n0 µm"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "kind": "Zn",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Zn"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.5"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0.0015295197 mol",
+      "0 g",
+      "0.0069409605 mol",
+      "37.916137 mL",
+      "37.916137 mL",
+      "0 mL",
+      "metal"
+    ]
+  },
+  {
+    "kind": "Fe",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Fe"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.5"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0.0017906706 mol",
+      "0 g",
+      "0.0064186588 mol",
+      "44.389955 mL",
+      "44.389955 mL",
+      "0 mL",
+      "metal"
+    ]
+  },
+  {
+    "kind": "Cu",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Cu"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.5"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0 mol",
+      "0.1 g",
+      "0.01 mol",
+      "0 mL",
+      "0 mL",
+      "0 mL",
+      "copper control"
+    ]
+  },
+  {
+    "kind": "no-contact",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Zn"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.5"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": false
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0 mol",
+      "0.1 g",
+      "0.01 mol",
+      "0 mL",
+      "0 mL",
+      "0 mL",
+      "no-contact control"
+    ]
+  },
+  {
+    "kind": "no-metal",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Zn"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.5"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0 mol",
+      "0 g",
+      "0.01 mol",
+      "0 mL",
+      "0 mL",
+      "0 mL",
+      "no metal"
+    ]
+  },
+  {
+    "kind": "no-acid",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Zn"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0 mol",
+      "0.1 g",
+      "0 mol",
+      "0 mL",
+      "0 mL",
+      "0 mL",
+      "no acid"
+    ]
+  },
+  {
+    "kind": "acid-limit",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Zn"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.2"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "0.1"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "10"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "25"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0.0005 mol",
+      "0.16731 g",
+      "0 mol",
+      "12.394785 mL",
+      "12.394785 mL",
+      "0 mL",
+      "acid"
+    ]
+  },
+  {
+    "kind": "overflow",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Fe"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.2"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "1"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "50"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "35"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "90"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "20"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0.0035813412 mol",
+      "0 g",
+      "0.042837318 mol",
+      "101.95289 mL",
+      "20 mL",
+      "81.952892 mL",
+      "metal"
+    ]
+  },
+  {
+    "kind": "maximum-piston",
+    "inputs": [
+      {
+        "name": "Metal acid material",
+        "value": "Fe"
+      },
+      {
+        "name": "Metal acid metal mass",
+        "value": "0.2"
+      },
+      {
+        "name": "Metal acid acid concentration",
+        "value": "1"
+      },
+      {
+        "name": "Metal acid solution volume",
+        "value": "50"
+      },
+      {
+        "name": "Metal acid collection temperature",
+        "value": "35"
+      },
+      {
+        "name": "Metal acid collection pressure",
+        "value": "90"
+      },
+      {
+        "name": "Metal acid collector capacity",
+        "value": "100"
+      },
+      {
+        "name": "Metal acid contact control",
+        "value": true
+      },
+      {
+        "name": "Metal acid controlled progress",
+        "value": "1"
+      }
+    ],
+    "readings": [
+      "0.0035813412 mol",
+      "0 g",
+      "0.042837318 mol",
+      "101.95289 mL",
+      "100 mL",
+      "1.9528917 mL",
+      "metal"
+    ]
+  },
+  {
+    "kind": "low-temperature-high-pressure",
+    "readings": [
+      "0.0035813412 mol",
+      "0 g",
+      "0.042837318 mol",
+      "78.002015 mL",
+      "78.002015 mL",
+      "0 mL",
+      "metal"
+    ]
+  }
+]

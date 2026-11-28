@@ -1,0 +1,40 @@
+{
+  "labId": "CL-0109",
+  "status": "ready",
+  "implemented": [
+    "Finite matched control/calcium/magnesium/mixed preparations with selected proportional soap allocation",
+    "Explicit stock, counterion, carrier, free/bound oleate and material accounts",
+    "Separate initial, dilution-only and residual hardness in calcium-carbonate equivalent units",
+    "120-second guide staging function with 50-second delivery and 40-second agitation",
+    "Source-only notebook, four observation tables and draft exam report with 152 worked blocks per observation",
+    "Connected original 2D and 3D matched apparatus, finite metering stocks, ideal feed lines, scoped inspection and readouts",
+    "Responsive theatre and portrait layouts, source-input notebook controller and actual report download button",
+    "Physical agitation cue follows completed selected cycles; preparation staging is not chemical kinetics"
+  ],
+  "verified": [
+    "11 focused model and record tests passed",
+    "Independent 70-digit reference: 1419 preparations, 5676 cells, 244068 numerical checks passed",
+    "11 deliberately corrupted reference fields rejected",
+    "TypeScript process completed with exit 0 and empty log",
+    "Seven synthetic report trials: 1064 worked results and expressions independently verified; numeric operands and result units checked",
+    "Nine report corruptions rejected, including a wrong operator with zero dose and an incorrect operand hidden by zero calcium",
+    "14 focused geometry/model/notebook/catalogue tests passed",
+    "Integrated full regression passed 3387 tests, zero failures, 111.36 seconds",
+    "Final TypeScript passed with empty log; final build passed in 13.98 seconds",
+    "Seven synthetic reports passed 1064 worked results, 3294 operands and 742 table numeric cells with exact headers and units",
+    "Eleven report corruptions rejected, including wrong table unit and numeric observation",
+    "130 2D scope/format/viewport checks passed with no clipped SVG text or page overflow",
+    "120 3D scope/format/viewport checks passed with nonzero canvas and no page overflow; not a pixel-level collision certification",
+    "Fresh 2D guide completed 0.9655 to 120 seconds without source edits, seeking or pausing",
+    "Fresh 3D playback reached 0 \u2192 69.5506 \u2192 89.0009 \u2192 112.3686 \u2192 120 seconds without source edits, seeking or pausing",
+    "Paused 72-second agitation frame remained PNG-byte-identical and scientific readings stayed constant",
+    "Seven canvas-only viewer button comparisons changed pixels without changing scientific readings",
+    "All six numeric controls reached both supported endpoints (12 checks)",
+    "Six actual observations, literal HTML-like student plan/note and conclusion persisted after reload",
+    "Actual button-downloaded browser report passed independent calculations, operands, table units/values and source-payload checks",
+    "Recording disabled while playing and enabled after React pause commit; 2D label toggle reduced SVG text elements from 38 to 2",
+    "Light and dark mobile layouts inspected; light theme and normal viewport restored",
+    "Native drag/wheel passed with unchanged readings/time and stable canvas bounds; internal review source hashes frozen"
+  ],
+  "remaining": []
+}

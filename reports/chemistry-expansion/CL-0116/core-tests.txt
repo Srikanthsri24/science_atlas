@@ -1,0 +1,15 @@
+✔ electron loss gives positive atomic count and compensating reservoir charge (2.472656ms)
+✔ electron gain gives negative count without changing the isotope (0.357834ms)
+✔ a travelling electron belongs to a third pool rather than both or neither endpoints (1.202972ms)
+✔ every supported formal count and admissible travelling direction conserves charge and electrons (3.697063ms)
+✔ formal comparisons separate electron changes from fixed nuclear identity (0.380421ms)
+✔ 150second guide gives source, transit and destination exact integer pools throughout transfer (2.897768ms)
+✔ invalid counts and travelling electrons beyond the range cannot enter the model (0.701957ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 639.514557

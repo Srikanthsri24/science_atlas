@@ -1,0 +1,23 @@
+{
+  "twoD": {
+    "time": "120",
+    "replay": true,
+    "verification": "Observed full 2D endpoint before switching to 3D; then started 3D via visible Replay guide control."
+  },
+  "threeD": {
+    "time": "120",
+    "replay": true,
+    "recordEnabled": true,
+    "readings": "Cotton reference · natural\nWater at lift: 1.4725 g\nRetained: 0.3912 g · catch: 1.0813 g\nBath remaining: 18.527 g\nBalance now: 26.391 g (coupon on pan)\nCurrent-setting predicted gain: 0.391 g\nModel dry-basis gain: 39.12% · wet-basis water: 28.12%\nMaterial residual: 0.00e+0 g\nWool reference · natural\nWater at lift: 0.9205 g\nRetained: 0.46283 g · catch: 0.45767 g\nBath remaining: 19.079 g\nBalance now: 26.463 g (coupon on pan)\nCurrent-setting predicted gain: 0.463 g\nModel dry-basis gain: 46.283% · wet-basis water: 31.639%\nMaterial residual: 0.00e+0 g\nNylon reference · synthetic\nWater at lift: 1.0262 g\nRetained: 0.12333 g · catch: 0.9029 g\nBath remaining: 18.974 g\nBalance now: 26.123 g (coupon on pan)\nCurrent-setting predicted gain: 0.123 g\nModel dry-basis gain: 12.333% · wet-basis water: 10.979%\nMaterial residual: 0.00e+0 g\nPolyester reference · synthetic\nWater at lift: 1.4165 g\nRetained: 0.052794 g · catch: 1.3637 g\nBath remaining: 18.584 g\nBalance now: 26.053 g (coupon on pan)\nCurrent-setting predicted gain: 0.053 g\nModel dry-basis gain: 5.2794% · wet-basis water: 5.0146%\nMaterial residual: 0.00e+0 g\n\nSelected capacities and time constants; no universal fibre ranking. The two water pools are operational references, not an experimental separation of molecular absorption and capillary retention. An empty balance does not measure the coupon; current-setting calculations are predictions until it reaches the pan."
+  },
+  "note": "3D continued during the responsive-sweep tool timeout; the existing guide was inspected and reached its endpoint without restarting.",
+  "finalTwoD": {
+    "time": "120",
+    "replay": true
+  },
+  "finalThreeD": {
+    "time": "120",
+    "replay": true,
+    "readings": "Current model protocol: soak 120 s · drain 30 s. The preparation controls select the final protocol; these readings follow the current guide stage.\n\nCotton reference · natural\nWater at lift: 1.4725 g\nRetained: 0.3912 g · catch: 1.0813 g\nBath remaining: 18.527 g\nBalance now: 26.391 g (coupon on pan)\nCurrent-setting predicted gain: 0.391 g\nModel dry-basis gain: 39.12% · wet-basis water: 28.12%\nMaterial residual: 0.00e+0 g\nWool reference · natural\nWater at lift: 0.9205 g\nRetained: 0.46283 g · catch: 0.45767 g\nBath remaining: 19.079 g\nBalance now: 26.463 g (coupon on pan)\nCurrent-setting predicted gain: 0.463 g\nModel dry-basis gain: 46.283% · wet-basis water: 31.639%\nMaterial residual: 0.00e+0 g\nNylon reference · synthetic\nWater at lift: 1.0262 g\nRetained: 0.12333 g · catch: 0.9029 g\nBath remaining: 18.974 g\nBalance now: 26.123 g (coupon on pan)\nCurrent-setting predicted gain: 0.123 g\nModel dry-basis gain: 12.333% · wet-basis water: 10.979%\nMaterial residual: 0.00e+0 g\nPolyester reference · synthetic\nWater at lift: 1.4165 g\nRetained: 0.052794 g · catch: 1.3637 g\nBath remaining: 18.584 g\nBalance now: 26.053 g (coupon on pan)\nCurrent-setting predicted gain: 0.053 g\nModel dry-basis gain: 5.2794% · wet-basis water: 5.0146%\nMaterial residual: 0.00e+0 g\n\nSelected capacities and time constants; no universal fibre ranking. The two water pools are operational references, not an experimental separation of molecular absorption and capillary retention. An empty balance does not measure the coupon; current-setting calculations are predictions until it reaches the pan."
+  }
+}

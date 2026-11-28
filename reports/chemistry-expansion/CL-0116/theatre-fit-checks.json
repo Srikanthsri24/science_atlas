@@ -1,0 +1,362 @@
+[
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 800,
+    "overflow": false,
+    "time": "136.3",
+    "visual": {
+      "h": 202.5,
+      "w": 360,
+      "x": 0,
+      "y": 274.25
+    },
+    "width": 360,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 800,
+    "overflow": false,
+    "time": "136.7",
+    "visual": {
+      "h": 321,
+      "w": 180.5625,
+      "x": 89.71875,
+      "y": 215
+    },
+    "width": 360,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "time": "137.1",
+    "visual": {
+      "h": 219.375,
+      "w": 390,
+      "x": 0,
+      "y": 282.53125
+    },
+    "width": 390,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "time": "137.4",
+    "visual": {
+      "h": 354.4375,
+      "w": 199.3671875,
+      "x": 95.3125,
+      "y": 215
+    },
+    "width": 390,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 390,
+    "overflow": false,
+    "time": "137.8",
+    "visual": {
+      "h": 143,
+      "w": 254.21875,
+      "x": 294.890625,
+      "y": 104
+    },
+    "width": 844,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 390,
+    "overflow": false,
+    "time": "138.1",
+    "visual": {
+      "h": 143,
+      "w": 80.4375,
+      "x": 381.78125,
+      "y": 104
+    },
+    "width": 844,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "time": "138.5",
+    "visual": {
+      "h": 432,
+      "w": 768,
+      "x": 0,
+      "y": 251.703125
+    },
+    "width": 768,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "time": "138.8",
+    "visual": {
+      "h": 657.40625,
+      "w": 369.7890625,
+      "x": 199.1015625,
+      "y": 139
+    },
+    "width": 768,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "time": "139.1",
+    "visual": {
+      "h": 423.28125,
+      "w": 752.5,
+      "x": 306.75,
+      "y": 139
+    },
+    "width": 1366,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "time": "139.4",
+    "visual": {
+      "h": 423.28125,
+      "w": 238.09375,
+      "x": 563.953125,
+      "y": 139
+    },
+    "width": 1366,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "time": "139.7",
+    "visual": {
+      "h": 709.34375,
+      "w": 1261.0546875,
+      "x": 329.46875,
+      "y": 139
+    },
+    "width": 1920,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "time": "140",
+    "visual": {
+      "h": 709.34375,
+      "w": 399,
+      "x": 760.5,
+      "y": 139
+    },
+    "width": 1920,
+    "mode": "2D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 800,
+    "overflow": false,
+    "time": "140.6",
+    "visual": {
+      "h": 202.5,
+      "w": 360,
+      "x": 0,
+      "y": 295.5
+    },
+    "width": 360,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 800,
+    "overflow": false,
+    "time": "140.8",
+    "visual": {
+      "h": 278.5,
+      "w": 156.65625,
+      "x": 101.671875,
+      "y": 257.5
+    },
+    "width": 360,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 844,
+    "overflow": false,
+    "time": "141.2",
+    "visual": {
+      "h": 219.375,
+      "w": 390,
+      "x": 0,
+      "y": 303.78125
+    },
+    "width": 390,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 844,
+    "overflow": false,
+    "time": "141.5",
+    "visual": {
+      "h": 311.9375,
+      "w": 175.4609375,
+      "x": 107.265625,
+      "y": 257.5
+    },
+    "width": 390,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 390,
+    "overflow": false,
+    "time": "141.8",
+    "visual": {
+      "h": 143,
+      "w": 254.21875,
+      "x": 294.890625,
+      "y": 104
+    },
+    "width": 844,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 390,
+    "overflow": false,
+    "time": "142.1",
+    "visual": {
+      "h": 143,
+      "w": 80.4375,
+      "x": 381.78125,
+      "y": 104
+    },
+    "width": 844,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1024,
+    "overflow": false,
+    "time": "142.4",
+    "visual": {
+      "h": 432,
+      "w": 768,
+      "x": 0,
+      "y": 275.203125
+    },
+    "width": 768,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1024,
+    "overflow": false,
+    "time": "142.7",
+    "visual": {
+      "h": 610.40625,
+      "w": 343.3515625,
+      "x": 212.3203125,
+      "y": 186
+    },
+    "width": 768,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 768,
+    "overflow": false,
+    "time": "143",
+    "visual": {
+      "h": 423.28125,
+      "w": 752.5,
+      "x": 306.75,
+      "y": 139
+    },
+    "width": 1366,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 768,
+    "overflow": false,
+    "time": "143.4",
+    "visual": {
+      "h": 423.28125,
+      "w": 238.09375,
+      "x": 563.953125,
+      "y": 139
+    },
+    "width": 1366,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "landscape",
+    "height": 1080,
+    "overflow": false,
+    "time": "143.8",
+    "visual": {
+      "h": 709.34375,
+      "w": 1261.0546875,
+      "x": 329.46875,
+      "y": 139
+    },
+    "width": 1920,
+    "mode": "3D"
+  },
+  {
+    "fitsStage": true,
+    "format": "portrait",
+    "height": 1080,
+    "overflow": false,
+    "time": "144.1",
+    "visual": {
+      "h": 709.34375,
+      "w": 399,
+      "x": 760.5,
+      "y": 139
+    },
+    "width": 1920,
+    "mode": "3D"
+  }
+]

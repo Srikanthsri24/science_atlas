@@ -1,6 +1,6 @@
 {
   "labId": "CL-0102",
-  "status": "await_native_gesture_check",
+  "status": "passed_internal_functional_review",
   "implemented": [
     "validatedtwo-stockfiniteAgClprecipitationmodel",
     "120secondguidewith80secondmetereddelivery",
@@ -40,10 +40,8 @@
     "17actualtrials782workedresults3861independentnumericchecksPASS",
     "notebookplan/conclusion/note17literalHTMLpersistedreload",
     "dark390pxportraitandlightdesktopchecked;consoleempty",
-    "finalTypeScript/build93927terminalexit0"
+    "finalTypeScript/build93927terminalexit0",
+    "Native gestures passed after unlock; final source hashes frozen in review.json"
   ],
-  "remaining": [
-    "nativeleftdragandwheel(Maclocked)",
-    "internalreview"
-  ]
+  "remaining": []
 }

@@ -1,0 +1,10 @@
+{
+  "labId": "CL-0110",
+  "status": "passed_internal_functional_review",
+  "internallyReviewed": true,
+  "independentExpertReviewed": false,
+  "pending": [],
+  "evidence": "review.json",
+  "sourceHashCount": 28,
+  "scope": "Internal functional and numerical-model review; not external expert, official curriculum, all physical devices, touch, FPS or printer certification."
+}

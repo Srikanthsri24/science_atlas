@@ -1,0 +1,13 @@
+{
+  "disconnectedLabel119": true,
+  "lifted119": {
+    "depth": "0",
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current0 µA",
+      "Cell constantUnavailable m⁻¹",
+      "Reconstructed κUnavailable S/m"
+    ]
+  },
+  "fieldToggleChanged": true
+}

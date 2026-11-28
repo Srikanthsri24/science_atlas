@@ -1,0 +1,1202 @@
+[
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 208,
+    "canvasWidth": 117,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 208,
+    "canvasWidth": 117,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 208,
+    "canvasWidth": 117,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 208,
+    "canvasWidth": 117,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": true,
+    "canvasHeight": 208,
+    "canvasWidth": 117,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 219.375,
+    "canvasWidth": 390,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 219.375,
+    "canvasWidth": 390,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 219.375,
+    "canvasWidth": 390,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 219.375,
+    "canvasWidth": 390,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 219.375,
+    "canvasWidth": 390,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 484,
+    "canvasWidth": 272.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 484,
+    "canvasWidth": 272.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 484,
+    "canvasWidth": 272.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 484,
+    "canvasWidth": 272.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": true,
+    "canvasHeight": 484,
+    "canvasWidth": 272.25,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 320,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 101.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 101.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 101.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 101.25,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": true,
+    "canvasHeight": 180,
+    "canvasWidth": 101.25,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 432,
+    "canvasWidth": 768,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 432,
+    "canvasWidth": 768,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 432,
+    "canvasWidth": 768,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 432,
+    "canvasWidth": 768,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 432,
+    "canvasWidth": 768,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 664,
+    "canvasWidth": 373.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 664,
+    "canvasWidth": 373.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 664,
+    "canvasWidth": 373.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 664,
+    "canvasWidth": 373.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": true,
+    "canvasHeight": 664,
+    "canvasWidth": 373.5,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 407.9921875,
+    "canvasWidth": 725.328125,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 407.9921875,
+    "canvasWidth": 725.328125,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 407.9921875,
+    "canvasWidth": 725.328125,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 407.9921875,
+    "canvasWidth": 725.328125,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 407.9921875,
+    "canvasWidth": 725.328125,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 408,
+    "canvasWidth": 229.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 408,
+    "canvasWidth": 229.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 408,
+    "canvasWidth": 229.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 408,
+    "canvasWidth": 229.5,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": true,
+    "canvasHeight": 408,
+    "canvasWidth": 229.5,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 1280,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 1280,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 1280,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 1280,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 1280,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 405,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 405,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 405,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 405,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": true,
+    "canvasHeight": 720,
+    "canvasWidth": 405,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 158.625,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 158.625,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 158.625,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 158.625,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 158.625,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 501.328125,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 501.328125,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 501.328125,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 501.328125,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 320,
+    "height": 568,
+    "theatre": false,
+    "canvasHeight": 501.328125,
+    "canvasWidth": 282,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 198,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 198,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 198,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 198,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 198,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 625.7734375,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 625.7734375,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 625.7734375,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 625.7734375,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 390,
+    "height": 844,
+    "theatre": false,
+    "canvasHeight": 625.7734375,
+    "canvasWidth": 352,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 326.25,
+    "canvasWidth": 580,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 326.25,
+    "canvasWidth": 580,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 326.25,
+    "canvasWidth": 580,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 326.25,
+    "canvasWidth": 580,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 326.25,
+    "canvasWidth": 580,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 844,
+    "height": 390,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 283.5,
+    "canvasWidth": 504,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 283.5,
+    "canvasWidth": 504,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 283.5,
+    "canvasWidth": 504,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 283.5,
+    "canvasWidth": 504,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 283.5,
+    "canvasWidth": 504,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 768,
+    "height": 1024,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 423.5625,
+    "canvasWidth": 753,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 423.5625,
+    "canvasWidth": 753,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 423.5625,
+    "canvasWidth": 753,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 423.5625,
+    "canvasWidth": 753,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 423.5625,
+    "canvasWidth": 753,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 1366,
+    "height": 768,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 683.4375,
+    "canvasWidth": 1215,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 683.4375,
+    "canvasWidth": 1215,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "soap-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 683.4375,
+    "canvasWidth": 1215,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 683.4375,
+    "canvasWidth": 1215,
+    "overflow": false
+  },
+  {
+    "fmt": "landscape",
+    "scope": "detergent-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 683.4375,
+    "canvasWidth": 1215,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "all",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "soap-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-soft",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  },
+  {
+    "fmt": "portrait",
+    "scope": "detergent-hard",
+    "width": 1920,
+    "height": 1080,
+    "theatre": false,
+    "canvasHeight": 800,
+    "canvasWidth": 450,
+    "overflow": false
+  }
+]

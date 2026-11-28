@@ -1,0 +1,26 @@
+[
+  {
+    "group": "soap-soft",
+    "count": 41
+  },
+  {
+    "group": "soap-hard",
+    "count": 41
+  },
+  {
+    "group": "detergent-soft",
+    "count": 41
+  },
+  {
+    "group": "detergent-hard",
+    "count": 41
+  },
+  {
+    "group": "comparison",
+    "count": 4
+  },
+  {
+    "group": "all",
+    "count": 168
+  }
+]

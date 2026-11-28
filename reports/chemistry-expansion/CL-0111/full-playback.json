@@ -1,0 +1,12 @@
+{
+  "twoD": {
+    "time": "120",
+    "replayVisible": true,
+    "recordEnabled": true,
+    "readings": "Water control\n0 mmol/L · 1000.00 mL exposure\nSolid: 0.1 g · loss 0 mg\nUniform removal: 0 µm\nCalcium: 0 µmol · acid left 0 µmol\nCaptured dry CO₂ equivalent: 0 mL\nEscaped CO₂: 0 mg\nMaterial residual: 0.00e+0 g\nCharge residual: 0.00e+0 mol charge\nHalf-strength acid\n0.05 mmol/L · 1000.00 mL exposure\nSolid: 0.097498 g · loss 2.5022 mg\nUniform removal: 9.233 µm\nCalcium: 25 µmol · acid left 0 µmol\nCaptured dry CO₂ equivalent: 0.61164 mL\nEscaped CO₂: 0 mg\nMaterial residual: -1.14e-13 g\nCharge residual: 0.00e+0 mol charge\nSelected acid\n0.1 mmol/L · 1000.00 mL exposure\nSolid: 0.094996 g · loss 5.0043 mg\nUniform removal: 18.466 µm\nCalcium: 50 µmol · acid left 0 µmol\nCaptured dry CO₂ equivalent: 1.2233 mL\nEscaped CO₂: 0 mg\nMaterial residual: 0.00e+0 g\nCharge residual: 0.00e+0 mol charge\nReagent blank\n0.1 mmol/L · 1000.00 mL exposure\nSolid: 0 g · loss 0 mg\nUniform removal: 0 µm\nCalcium: 0 µmol · acid left 100 µmol\nCaptured dry CO₂ equivalent: 0 mL\nEscaped CO₂: 0 mg\nMaterial residual: 0.00e+0 g\nCharge residual: 0.00e+0 mol charge\n\nDefined acid capacity, not pH-derived acidity. Stock is finite: 1000 mL per control. Water excludes natural carbonic-acid weathering in this selected reaction channel. The blank has no carbonate."
+  },
+  "threeD": {
+    "time": "120",
+    "verification": "Observed the guide timeline at 120 before the original browser tab was closed; native camera checks subsequently used a reopened tab."
+  }
+}

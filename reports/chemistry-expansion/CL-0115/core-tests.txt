@@ -1,0 +1,16 @@
+✔ verified H–Ar reference configurations aggregate to the stated shell counts and neutral electron totals (2.372478ms)
+✔ all supported isotope constructions count nucleons, fill neutral slots and balance charge (1.032478ms)
+✔ every admissible partial token count preserves target inventory and never invents an identified ion (107.881742ms)
+✔ an empty balanced token diagram is not a completed neutral atom (0.274248ms)
+✔ isotope and element comparisons distinguish changed neutron counts from changed atomic number (0.317357ms)
+✔ charge calculation keeps coulomb and elementary-charge counts distinct (0.129363ms)
+✔ 150second guide has bounded integer construction counts and ends each target correctly (1.670342ms)
+✔ unknown isotopes, fractional tokens and excess target counts are rejected (0.435581ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 707.453058

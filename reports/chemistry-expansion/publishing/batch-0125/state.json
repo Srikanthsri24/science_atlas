@@ -1,0 +1,20 @@
+{
+  "status": "isolated_gates_passed",
+  "worktree": "/var/folders/zb/8z0kjrgx1rndmsrj24twvwb00000gn/T/atlas-chemistry-0125-as2yqju9",
+  "baseCommit": "61dcbf3ad7ab237219b8589ca627d2d27cb62b90",
+  "reviewedLabsAtPreparation": 125,
+  "publishedLabsAtPreparation": 100,
+  "copiedFiles": 7441,
+  "preservedOriginalStagedBlobs": 146,
+  "validation": {
+    "typecheck": 0,
+    "tests": 0,
+    "inventory": 0,
+    "ledger": 0,
+    "practicals": 0,
+    "concept-reviews": 0,
+    "progress": 0,
+    "prepare-public": 0,
+    "pages-build": 0
+  }
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPredict two selected oxide responses: CuO consumes acid; dissolved carbon dioxide responds to added alkali. The stations remain independent, and these examples do not classify every oxide.150-second explanation; dual controlled sweep from45–105s. Display seconds are narration time, not reaction kinetics. Closed carbon starts dissolved; dose markers do not track individual molecules or an in-flight stock.",
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0 mol0.005 mol acid equivalents remain · no-contact control. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "0.5"
+  },
+  {
+    "labels": [
+      "OXIDE NEUTRALIZATION · TWO INDEPENDENT STATIONS",
+      "0",
+      "5",
+      "10",
+      "15",
+      "20",
+      "pH 6.74",
+      "ideal25°C reference",
+      "CO2*",
+      "HCO3−",
+      "CO3²−",
+      "CuO + 2HCl → CuCl₂ + H₂O",
+      "0.0647932 g CuO remains",
+      "Left pH not modelled",
+      "Closed carbon · 50.7041 mL",
+      "NaOH stock · mL",
+      "1.29586 mL stored",
+      "CO₂* = CO₂(aq) + H₂CO₃ · normalized solid and fraction displays"
+    ],
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.000442603 mol0.00411479 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "66.1"
+  },
+  {
+    "labels": [
+      "OXIDE NEUTRALIZATION · TWO INDEPENDENT STATIONS",
+      "0",
+      "5",
+      "10",
+      "15",
+      "20",
+      "pH 10.66",
+      "ideal25°C reference",
+      "CO2*",
+      "HCO3−",
+      "CO3²−",
+      "CuO + 2HCl → CuCl₂ + H₂O",
+      "0.00390417 g CuO remains",
+      "Left pH not modelled",
+      "Closed carbon · 51.9219 mL",
+      "NaOH stock · mL",
+      "0.0780833 mL stored",
+      "CO₂* = CO₂(aq) + H₂CO₃ · normalized solid and fraction displays"
+    ],
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.00120807 mol0.00258386 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "102.7"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONApply m/M, cV and finite neutralization extent. The advanced right-station calculation solves charge balance and water/diprotic equilibria. CO2* is the combined aqueous CO2/H2CO3 neutral pool.150-second explanation; dual controlled sweep from45–105s. Display seconds are narration time, not reaction kinetics. Closed carbon starts dissolved; dose markers do not track individual molecules or an in-flight stock.",
+    "labels": [
+      "OXIDE NEUTRALIZATION · TWO INDEPENDENT STATIONS",
+      "0",
+      "5",
+      "10",
+      "15",
+      "20",
+      "pH 10.73",
+      "ideal25°C reference",
+      "CO2*",
+      "HCO3−",
+      "CO3²−",
+      "CuO + 2HCl → CuCl₂ + H₂O",
+      "0 g CuO remains",
+      "Left pH not modelled",
+      "Closed carbon · 52 mL",
+      "NaOH stock · mL",
+      "0 mL stored",
+      "CO₂* = CO₂(aq) + H₂CO₃ · normalized solid and fraction displays"
+    ],
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.00125715 mol0.0024857 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "139.1"
+  },
+  {
+    "caption": "150-SECOND GUIDED INVESTIGATIONPause and record. Check Cu, chloride, carbon, sodium and charge accounts. Left pH stays unavailable without Cu(II) hydrolysis/complexation. State the ideal25°C and controlled-extent assumptions.150-second explanation; dual controlled sweep from45–105s. Display seconds are narration time, not reaction kinetics. Closed carbon starts dissolved; dose markers do not track individual molecules or an in-flight stock.",
+    "stocks": "CuO + 2H+ → Cu2+ + H2O · extent 0.00125715 mol0.0024857 mol acid equivalents remain · CuO. Left pH unavailable without Cu(II) hydrolysis/complexation.Vessel heights and dosing-stock stroke use cm and reference mL through πr²h. Delivery increases the carbon solution volume. CuO grains encode normalized remaining stock, not measured dimensions/density; no-contact grains are outside solution. Carbon bars encode analytical fractions, not literal molecular arrangements; CO2* includes dissolved CO2 plus H2CO3. Drops are explanatory dose signs, not a kinetic or in-flight inventory. The stations never exchange material; solution colours are schematic, not calibrated indicators.",
+    "timeline": "150"
+  }
+]

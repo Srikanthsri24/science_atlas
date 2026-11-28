@@ -1,0 +1,9 @@
+/* Fit this lab to the actual space left by wrapping controls and captions. */
+.chem-formal-ions .formal-ion-frame{min-width:0}
+.chem-formal-ions .theatre .chem-bench-stage>.formal-ion-viewer{height:100%!important;display:grid;grid-template-rows:auto minmax(0,1fr) auto;min-height:0}
+.chem-formal-ions .theatre .formal-ion-frame{container-type:size;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.chem-formal-ions .theatre .formal-ion-frame .fibre-visual{width:min(100cqw,calc(100cqh * 16 / 9));height:min(100cqh,calc(100cqw * 9 / 16));max-width:none;margin:0;flex:none}
+.chem-formal-ions .theatre.portrait .formal-ion-frame .fibre-visual{width:min(100cqw,calc(100cqh * 9 / 16));height:min(100cqh,calc(100cqw * 16 / 9))}
+.chem-formal-ions .theatre .fibre-footnote{max-height:72px;overflow:auto;padding:6px 12px}
+.chem-formal-ions .theatre .fibre-footnote p{margin:3px 0;font-size:12px}
+@media(max-height:500px){.chem-formal-ions .theatre .fibre-tools{flex-wrap:nowrap;overflow:auto;max-height:48px;padding:4px}.chem-formal-ions .theatre .fibre-tools>*{flex:none}.chem-formal-ions .theatre .fibre-footnote{max-height:38px}}

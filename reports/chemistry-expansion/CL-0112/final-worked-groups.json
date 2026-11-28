@@ -1,0 +1,22 @@
+[
+  {
+    "group": "cotton",
+    "blocks": 36
+  },
+  {
+    "group": "wool",
+    "blocks": 36
+  },
+  {
+    "group": "nylon",
+    "blocks": 36
+  },
+  {
+    "group": "polyester",
+    "blocks": 36
+  },
+  {
+    "group": "all",
+    "blocks": 144
+  }
+]

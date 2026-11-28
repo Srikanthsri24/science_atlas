@@ -1,0 +1,18 @@
+[
+  {
+    "group": "a",
+    "count": 65
+  },
+  {
+    "group": "b",
+    "count": 65
+  },
+  {
+    "group": "comparison",
+    "count": 3
+  },
+  {
+    "group": "all",
+    "count": 133
+  }
+]

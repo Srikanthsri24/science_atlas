@@ -1,0 +1,62 @@
+[
+  {
+    "field": "uptakeG",
+    "rejected": true
+  },
+  {
+    "field": "strongAtLiftG",
+    "rejected": true
+  },
+  {
+    "field": "drainableAtLiftG",
+    "rejected": true
+  },
+  {
+    "field": "drainableRemainingG",
+    "rejected": true
+  },
+  {
+    "field": "drainedG",
+    "rejected": true
+  },
+  {
+    "field": "retainedG",
+    "rejected": true
+  },
+  {
+    "field": "remainingBathG",
+    "rejected": true
+  },
+  {
+    "field": "wetCouponG",
+    "rejected": true
+  },
+  {
+    "field": "dryBasisGainPercent",
+    "rejected": true
+  },
+  {
+    "field": "wetBasisWaterPercent",
+    "rejected": true
+  },
+  {
+    "field": "indicatedWaterG",
+    "rejected": true
+  },
+  {
+    "field": "materialResidualG",
+    "rejected": true
+  },
+  {
+    "field": "waterResidualG",
+    "rejected": true
+  },
+  {
+    "field": "wetGrossMilliG",
+    "rejected": true
+  },
+  {
+    "field": "erased-tiny-positive-retained-water",
+    "rejected": true
+  }
+]

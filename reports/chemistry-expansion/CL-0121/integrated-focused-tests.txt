@@ -1,0 +1,27 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (1.331671ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.426423ms)
+✔ tube geometry matches capacity and retained volume rather than arbitrary fill animation (3.250482ms)
+✔ hydrogen is collected at negative cathode and oxygen at positive anode (0.314959ms)
+✔ bubbles remain inside liquid and disappear when source stops or liquid column is exhausted (0.930059ms)
+✔ paused geometry is deterministic and marker identities persist as markers move (2.588327ms)
+✔ worked charge uses every source segment, and zero-gas ratio remains unavailable (2.049217ms)
+✔ saturated gas report includes retained plus overflow and distinguishes ratios (0.445616ms)
+✔ guide records preserve base history and source conditions; forged snapshots rejected (0.698124ms)
+✔ HTML contains four consistent tables, escaped notes and original round-trippable inputs (2.209247ms)
+✔ charge predicts stoichiometric gas moles and common-condition dry volumes (2.248122ms)
+✔ disconnecting or changing source current preserves prior collected gas and passed charge (0.325055ms)
+✔ finite tube retention plus overflow conserves generated gas and can change collected ratio (0.225078ms)
+✔ temperature and pressure affect volume, not generated charge or moles (0.263755ms)
+✔ no-charge states have unavailable ratios, not a misleading 2:1 measurement (0.314409ms)
+✔ continuous integration and segmentation agree; identical source segments merge (1.317324ms)
+✔ guide starts a fresh reference, stops new production at110s and preserves gas through verification (0.360378ms)
+✔ invalid source history, bounds and advance durations are rejected (0.539558ms)
+✔ prediction stage has no source current or generated gas (0.239996ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 558.563921

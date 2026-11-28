@@ -1,0 +1,32 @@
+✔ electrode immersion gap and facing width match the electrical cell geometry (10.399566ms)
+✔ carrier sign schematic keeps all identities within its panel and returns exactly each cycle (12.144177ms)
+✔ wire carriers remain electrons on their own leads and current direction accounts for path orientation (1.036079ms)
+✔ absent excitation freezes all carrier positions regardless of phase and neutral sucrose stays neutral (1.779943ms)
+✔ waveform displays the physical reference period with separately normalized in-phase channels (0.501888ms)
+✔ apparatus leads electrode extremes and carrier panel remain inside the camera envelope (3.849399ms)
+✔ paused geometry is deterministic without random carrier creation (2.541431ms)
+✔ dry-cell voltage channel remains visible while the normalized current channel is flat (0.415067ms)
+✔ guide base preserves intended sample gap and excitation while current snapshots change (4.414761ms)
+✔ unavailable controls remain null and honestly labelled even at verified guide stages (1.608152ms)
+✔ all substitutions and their units remain valid across reference and apparatus controls (12.649479ms)
+✔ exam report escapes original student notes and preserves input-only guide metadata (1.760337ms)
+✔ reference units preserve molality and do not confuse S/m S/cm and microS/cm (2.012267ms)
+✔ ideal parallel-plate cell recovers conductivity from independent geometry and RMS values (0.418544ms)
+✔ geometry changes conductance without changing intrinsic assigned solution conductivity (0.544492ms)
+✔ open dry and zero-excitation controls show unavailable readings rather than falsely zero conductivity (0.424418ms)
+✔ AC signs reverse both ionic carriers and external electrons correctly (3.563739ms)
+✔ all sample and geometry corners retain finite valid inversions including the water background (9.625346ms)
+✔ nonelectrolyte assumption and matched comparison are explicit rather than inventing measured chemistry (0.290817ms)
+✔ guide times and unavailable controls remain honest throughout the150second sequence (0.726575ms)
+✔ invalid source and sample values are rejected without coercion (0.987861ms)
+✔ geometry demonstration changes the gap even at both allowed bounds (0.798528ms)
+✔ water and sucrose starting selections still receive a defined KCl comparison then return to their selected reference (0.278289ms)
+✔ dry connected electrodes retain voltage while the liquid conduction and field channels are absent (0.152238ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 554.230902

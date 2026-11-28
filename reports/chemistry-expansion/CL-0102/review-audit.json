@@ -1,6 +1,6 @@
 {
   "labId": "CL-0102",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "223cases10035independentcorechecks",
     "15focusedtests",
@@ -9,10 +9,9 @@
     "actual120second2Dand3Dguides",
     "204normal8theatreand5earlyresponsivechecks",
     "17actualtrials782results3861independentreportchecks",
-    "persistence/safeHTML/partialstockaccounts"
+    "persistence/safeHTML/partialstockaccounts",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "nativeleftdragandwheelonCL-0102;Maclocked"
-  ],
+  "unverified": [],
   "scope": "Internal functional review only; no independent expert, official board, physical all-device, touch, FPS or printer certification"
 }

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Orbit left",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Orbit right",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Zoom in",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Zoom out",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Reset camera",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Glass cutaway",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Labels",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Qualitative zinc facets",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Initial iron outline",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  },
+  {
+    "name": "Separate coating",
+    "scope": "canvas screenshot only",
+    "changed": true,
+    "readingsUnchanged": true
+  }
+]

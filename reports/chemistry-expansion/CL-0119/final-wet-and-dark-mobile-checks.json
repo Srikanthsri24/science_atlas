@@ -1,0 +1,28 @@
+{
+  "wetFinal119": {
+    "coincidentNormalizedChannels": true,
+    "readings": [
+      "Assigned κ0.140823 S/m",
+      "RMS bulk current70.4115 µA",
+      "Cell constant100 m⁻¹",
+      "Reconstructed κ0.140823 S/m"
+    ],
+    "readout": [
+      "RMS cell 0.05 V · 70.4115 µA. Assigned κ 0.140823 S/m · Ideal in-phase bulk reading; reactive/interface currents excluded.",
+      "Instantaneous v 0.0707107 V, i 0.0000995769 A. Carrier inset: drift-only signs, arbitrary particle count/amplitude. Wires carry electrons; liquid carries ions. Display cycle4s = physical1ms; no interface chemistry or thermal motion shown.",
+      "● K+ positive · ● Cl− negative"
+    ]
+  },
+  "darkFinal119": {
+    "images": 0,
+    "overflow": false,
+    "rows": [
+      27,
+      27,
+      27,
+      27,
+      27
+    ],
+    "workings": 31
+  }
+}

@@ -1,0 +1,14 @@
+✔ solid has pre-existing immobile ions, applied voltage and no fabricated solid conductivity (2.681203ms)
+✔ aqueous reference retains quantitative KCl result and reverses ionic drift (0.486505ms)
+✔ water comparison is a tiny positive current, not a false zero (0.269965ms)
+✔ source and immersion controls preserve unavailable inverse readings for both aqueous modes (0.673372ms)
+✔ dissolution storyboard never interpolates a made-up conductivity or marks an early snapshot verified (1.735987ms)
+✔ invalid phases, non-KCl pairings and guide times are rejected (0.535999ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 601.250021

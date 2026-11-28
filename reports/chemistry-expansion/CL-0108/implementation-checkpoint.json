@@ -1,0 +1,51 @@
+{
+  "labId": "CL-0108",
+  "status": "ready",
+  "implemented": [
+    "Four separate finite-metal comparison cells: bare, intact, scratched contact and electrically isolated",
+    "Selected shared oxygen-current ceiling, zinc support limit and explicit unmet iron demand",
+    "Analytic phase stepping at finite zinc/iron exhaustion, with post-exhaustion current changes",
+    "Matched unapplied zinc stock, open material account and divalent metal/hydroxide-equivalent charge/atom balances",
+    "120-second guide function: 15 seconds setup, 90 seconds reference evolution, 15 seconds interpretation",
+    "Independent 80-digit Decimal reference with separate analytic exhaustion branches",
+    "Equivalent-volume coupon and four-patch coating geometry; explicit insulating apparatus and separate dry carrier stock",
+    "Connected 2D face/section comparison with readable live readings",
+    "Corrected detached zinc: no barrier on iron, two wetted zinc faces, open insulating support rails",
+    "Original 3D scene with exact metal patches, qualitative zinc facets, layer separation, metal isolation and separate dry-carrier reservoir",
+    "Connected controller, catalogue route, seven observation tables and source-only persistent notebook",
+    "Exam-style report with current-limit, metal, phase-charge and open-material formula substitutions"
+  ],
+  "verification": [
+    "12 focused tests passed, including 864 corner/cell/contact states and 1201 guide samples",
+    "Hand-derived zinc-first and iron-first exhaustion calculations passed",
+    "Core TypeScript process terminal exit 0 with empty log",
+    "392 preparations / 1568 cells / 106364 independent field and phase checks passed",
+    "Nine deliberately corrupted core/phase results rejected",
+    "14 focused model/geometry tests passed",
+    "Core/geometry TypeScript completed with exit 0",
+    "Full regression: 3369 passed, zero failures, 142.76 seconds",
+    "Corrected reference: 394 preparations / 1576 cells / 107278 independent field and phase checks; nine core mutations rejected",
+    "20 focused model/geometry/notebook tests passed",
+    "14 synthetic report trials: 2470 worked results, 14548 numeric checks, 4952 unit checks, 2466 expression checks and 6310 operand checks",
+    "Ten report mutations rejected, including wrong operator, wrong value hidden by a zero product, wrong unit and erased near-event loss",
+    "Integrated TypeScript passed with empty log; production build passed in 26.39 seconds",
+    "Corrected integrated regression: 3375 tests passed, zero failed, 188.27 seconds",
+    "Actual uninterrupted 2D guide 0.0951 to 120 seconds; actual full 3D guide 0 to 120 with 72.2865-second intermediate reading and moving arrows inspected",
+    "Six actual browser observations, plan/conclusion and literal HTML-like note persisted after reload",
+    "Actual downloaded report: 1052 worked results, 6148 numeric checks, 2121 unit checks, 1048 expression checks and 2668 operand checks passed independently",
+    "First 2D React key warning fixed; no captured new warnings/errors after reload",
+    "Final focused model/geometry/notebook and catalogue tests passed; final TypeScript empty log; production build passed in 26.60 seconds",
+    "240 responsive scope checks passed: five scopes, both formats, six viewport dimensions, normal/theatre and 2D/3D; 2D text bounds and nonzero canvas/view bounds checked",
+    "Ten canvas-only control effect comparisons changed pixels without changing scientific readings",
+    "Paused 60-second frame remained byte-identical; resize preserved paused time and readings",
+    "All ten numeric controls reached both supported endpoints (20 endpoint checks)",
+    "Calculation groups verified at 44/44/46/44, 178 total for seven-day preparation",
+    "Isolation visibility fixed: initial iron outline hidden for zinc-only; zinc facets/separation controls hidden for iron-only",
+    "Enabled contact setting distinguished from remaining-metal contact availability in UI and report header",
+    "Final synthetic report validation passed 2470 results and all ten report mutation checks rejected corruptions"
+  ],
+  "remaining": [],
+  "verified": [
+    "Native drag/wheel passed with unchanged readings/time and stable canvas bounds; internal review source hashes frozen"
+  ]
+}

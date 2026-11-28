@@ -1,0 +1,162 @@
+[
+  {
+    "key": "dryMassG",
+    "edge": "Home",
+    "expected": true,
+    "max": "5",
+    "min": "0.2",
+    "valid": true,
+    "value": "0.2",
+    "readings": 4
+  },
+  {
+    "key": "dryMassG",
+    "edge": "End",
+    "expected": true,
+    "max": "5",
+    "min": "0.2",
+    "valid": true,
+    "value": "5",
+    "readings": 4
+  },
+  {
+    "key": "bathMl",
+    "edge": "Home",
+    "expected": true,
+    "max": "50",
+    "min": "0",
+    "valid": true,
+    "value": "0",
+    "readings": 4
+  },
+  {
+    "key": "bathMl",
+    "edge": "End",
+    "expected": true,
+    "max": "50",
+    "min": "0",
+    "valid": true,
+    "value": "50",
+    "readings": 4
+  },
+  {
+    "key": "soakS",
+    "edge": "Home",
+    "expected": true,
+    "max": "300",
+    "min": "0",
+    "valid": true,
+    "value": "0",
+    "readings": 4
+  },
+  {
+    "key": "soakS",
+    "edge": "End",
+    "expected": true,
+    "max": "300",
+    "min": "0",
+    "valid": true,
+    "value": "300",
+    "readings": 4
+  },
+  {
+    "key": "drainS",
+    "edge": "Home",
+    "expected": true,
+    "max": "180",
+    "min": "0",
+    "valid": true,
+    "value": "0",
+    "readings": 4
+  },
+  {
+    "key": "drainS",
+    "edge": "End",
+    "expected": true,
+    "max": "180",
+    "min": "0",
+    "valid": true,
+    "value": "180",
+    "readings": 4
+  },
+  {
+    "key": "constructionFactor",
+    "edge": "Home",
+    "expected": true,
+    "max": "2",
+    "min": "0.25",
+    "valid": true,
+    "value": "0.25",
+    "readings": 4
+  },
+  {
+    "key": "constructionFactor",
+    "edge": "End",
+    "expected": true,
+    "max": "2",
+    "min": "0.25",
+    "valid": true,
+    "value": "2",
+    "readings": 4
+  },
+  {
+    "key": "retentionScale",
+    "edge": "Home",
+    "expected": true,
+    "max": "2",
+    "min": "0",
+    "valid": true,
+    "value": "0",
+    "readings": 4
+  },
+  {
+    "key": "retentionScale",
+    "edge": "End",
+    "expected": true,
+    "max": "2",
+    "min": "0",
+    "valid": true,
+    "value": "2",
+    "readings": 4
+  },
+  {
+    "key": "wettingScale",
+    "edge": "Home",
+    "expected": true,
+    "max": "2",
+    "min": "0",
+    "valid": true,
+    "value": "0",
+    "readings": 4
+  },
+  {
+    "key": "wettingScale",
+    "edge": "End",
+    "expected": true,
+    "max": "2",
+    "min": "0",
+    "valid": true,
+    "value": "2",
+    "readings": 4
+  },
+  {
+    "key": "panTareG",
+    "edge": "Home",
+    "expected": true,
+    "max": "100",
+    "min": "10",
+    "valid": true,
+    "value": "10",
+    "readings": 4
+  },
+  {
+    "key": "panTareG",
+    "edge": "End",
+    "expected": true,
+    "max": "100",
+    "min": "10",
+    "valid": true,
+    "value": "100",
+    "readings": 4
+  }
+]

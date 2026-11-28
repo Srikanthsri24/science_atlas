@@ -1,0 +1,38 @@
+[
+  {
+    "mutation": "wrong-primary-electron-count",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-oxygen-reduction-account",
+    "rejected": true
+  },
+  {
+    "mutation": "missing-external-water",
+    "rejected": true
+  },
+  {
+    "mutation": "invented-isolated-contact",
+    "rejected": true
+  },
+  {
+    "mutation": "current-after-iron-exhaustion",
+    "rejected": true
+  },
+  {
+    "mutation": "unaccounted-stock-zinc",
+    "rejected": true
+  },
+  {
+    "mutation": "erased-small-post-event-iron-conversion",
+    "rejected": true
+  },
+  {
+    "mutation": "wrong-active-phase-current",
+    "rejected": true
+  },
+  {
+    "mutation": "broken-phase-timeline",
+    "rejected": true
+  }
+]

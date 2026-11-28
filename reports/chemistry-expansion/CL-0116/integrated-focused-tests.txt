@@ -1,0 +1,23 @@
+✔ every formal count partitions every electron token into exactly one counted pool (217.392344ms)
+✔ gain and loss reverse the same token endpoints without changing its identity (2.067236ms)
+✔ guide token paths meet exact arrival and departure positions continuously (7.300502ms)
+✔ paused geometry stays deterministic and invalid progress is rejected (1.198072ms)
+✔ endpoint notebook includes four aligned tables and 27 unique worked substitutions (2.373559ms)
+✔ guided in-flight snapshots are valid observations but never falsely verified endpoints (1.706217ms)
+✔ forged guide times, wrong targets and manual travelling electrons are rejected (0.624625ms)
+✔ safe report preserves original inputs and all exam sections without executing notes (1.33142ms)
+✔ electron loss gives positive atomic count and compensating reservoir charge (1.711505ms)
+✔ electron gain gives negative count without changing the isotope (0.259739ms)
+✔ a travelling electron belongs to a third pool rather than both or neither endpoints (1.1435ms)
+✔ every supported formal count and admissible travelling direction conserves charge and electrons (3.839547ms)
+✔ formal comparisons separate electron changes from fixed nuclear identity (0.362679ms)
+✔ 150second guide gives source, transit and destination exact integer pools throughout transfer (3.76972ms)
+✔ invalid counts and travelling electrons beyond the range cannot enter the model (1.193956ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 902.836775

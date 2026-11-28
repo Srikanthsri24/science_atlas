@@ -1,0 +1,22 @@
+✔ every completed catalogue lab has a presentation description and an actual dedicated route (2.119917ms)
+✔ presentation availability corresponds to implemented routes rather than planned placeholders (0.734614ms)
+✔ soap/detergent inputs reject coercion, missing values and invalid matching (3.909196ms)
+✔ hand calculation of equal-molar 20 mL dose separates soap consumption from hardness persistence (3.175868ms)
+✔ equal mass delivers different mole counts; neutral detergent remains electrically neutral (0.636171ms)
+✔ low dose exhausts soap proportionally but does not soften water in the neutral-detergent channel (0.665111ms)
+✔ zero dose availability is undefined rather than a claimed zero percentage (0.444355ms)
+✔ CMC range is labelled only as a reference; soap has no nonionic classification (3.105019ms)
+✔ 768 preparations preserve finite stocks, material, ions and surfactant inventory (23.764611ms)
+✔ agitation does not invent chemical conversion or empirical foam performance (2.524426ms)
+✔ 120-second guide supplies 90 seconds of dose/agitation staging and deterministic source conditions (28.870596ms)
+✔ practical record retains only valid source inputs, matching basis and bounded writing (1.201271ms)
+✔ 168 worked blocks distinguish zero-dose availability from numerical zero and retain comparison units (7.729712ms)
+✔ observation tables include actual dose basis, salt persistence and source-only escaped report (4.253721ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1115.151666

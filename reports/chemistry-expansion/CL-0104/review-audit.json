@@ -1,6 +1,6 @@
 {
   "labId": "CL-0104",
-  "status": "incomplete_native_interaction_check",
+  "status": "passed_internal_functional_review",
   "completedEvidence": [
     "18focusedtestsPASS",
     "117cases9243independentcorechecksPASS",
@@ -17,10 +17,9 @@
     "calculationgroups36/36/5/77correct",
     "notebookplan/conclusion/note29literalHTMLpersistedreload",
     "2Doutline6\u21923polygons/labels6\u21924texts;3Doutline/labels/cutaway/orbit/zoom/resetbuttonsverified",
-    "dark390pxportraittheatreandlightdesktopverified;consoleempty"
+    "dark390pxportraittheatreandlightdesktopverified;consoleempty",
+    "Native left drag/wheel checked after unlock; screenshots and stable-readings/time proof saved."
   ],
-  "unverified": [
-    "nativeleftdragandwheelonCL-0104;Maclocked"
-  ],
+  "unverified": [],
   "scope": "Internal functional review only; no independent expert, official board, physical all-device, touch, FPS or printer certification"
 }

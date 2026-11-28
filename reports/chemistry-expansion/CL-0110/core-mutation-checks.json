@@ -1,0 +1,54 @@
+[
+  {
+    "field": "freeSurfactantMol",
+    "rejected": true
+  },
+  {
+    "field": "sodiumMol",
+    "rejected": true
+  },
+  {
+    "field": "chlorideMol",
+    "rejected": true
+  },
+  {
+    "field": "initialHardnessMgL",
+    "rejected": true
+  },
+  {
+    "field": "residualHardnessMgL",
+    "rejected": true
+  },
+  {
+    "field": "materialResidualG",
+    "rejected": true
+  },
+  {
+    "field": "aqueousChargeResidualMol",
+    "rejected": true
+  },
+  {
+    "field": "deliveredCarrierG",
+    "rejected": true
+  },
+  {
+    "field": "formulaMassGmol",
+    "rejected": true
+  },
+  {
+    "field": "remainingStockG",
+    "rejected": true
+  },
+  {
+    "field": "availableFraction",
+    "rejected": true
+  },
+  {
+    "field": "nonionicCmcReferencePosition",
+    "rejected": true
+  },
+  {
+    "field": "isSoap",
+    "rejected": true
+  }
+]

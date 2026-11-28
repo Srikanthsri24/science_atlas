@@ -1,0 +1,29 @@
+{
+  "worktree": "/var/folders/zb/8z0kjrgx1rndmsrj24twvwb00000gn/T/atlas-chemistry-0100-goamyz5j",
+  "baseCommit": "8becc856433ead47aa0f2b5939ebf2000e96740f",
+  "status": "deployed-and-live-verified",
+  "copiedFiles": 6288,
+  "reviewedLabsAtPreparation": 100,
+  "publishedLabsAtPreparation": 75,
+  "scope": "Chemistry-only scope; 100 reviewed, CL-0101\u20130107 honestly in progress. Original 146 staged blobs excluded and unchanged.",
+  "preliminaryValidation": "Superseded by final nine-gate pass at 100 reviewed labs",
+  "commit": "3f76b9e79f0eea875582786294f62f57d6ed0d7c",
+  "validation": {
+    "typecheck": 0,
+    "tests": 0,
+    "inventory": 0,
+    "ledger": 0,
+    "practicals": 0,
+    "concept-reviews": 0,
+    "progress": 0,
+    "prepare-public": 0,
+    "pages-build": 0
+  },
+  "changedPaths": 1099,
+  "sourceBranchAligned": true,
+  "preservedOriginalStagedBlobs": 146,
+  "previousCommit": "21b60cf5f0e3f708d1a2ef34ac232aaa192a3fba",
+  "codeCommit": "3f76b9e79f0eea875582786294f62f57d6ed0d7c",
+  "receiptCommit": "61dcbf3ad7ab237219b8589ca627d2d27cb62b90",
+  "deploymentRun": 46005917871
+}

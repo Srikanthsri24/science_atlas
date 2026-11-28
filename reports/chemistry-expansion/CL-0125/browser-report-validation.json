@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "observations": 7,
+  "workedBlocks": 308,
+  "validator": "scripts/chemistry/validate_oxide_neutral_report.py",
+  "note": "Actual browser download; six observations checked before reload and seven in final export. Plan, literal note and conclusion persisted."
+}

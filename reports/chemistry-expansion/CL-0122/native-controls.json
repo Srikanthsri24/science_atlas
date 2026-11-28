@@ -1,0 +1,11 @@
+{
+  "pausedIdentical": true,
+  "selection": "Anode: 1.90121 g remaining · loss 0.0987912 g",
+  "Charge-flow markers": true,
+  "Magnified sections": true,
+  "Glass vessel": true,
+  "Electrode labels": true,
+  "orbit": true,
+  "wheel": true,
+  "reset": true
+}

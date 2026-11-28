@@ -1,0 +1,17 @@
+{
+  "rejectedCorruptions": 12,
+  "checks": [
+    "solid falsely measured",
+    "solid inverse fabricated",
+    "false snapshot verification",
+    "formula changed",
+    "voltage unit changed",
+    "same-value substitution hides operands",
+    "area arithmetic changed",
+    "tiny water current erased",
+    "unavailable result falsely numeric",
+    "reference field falsified",
+    "table current unit falsified",
+    "guide time forged"
+  ]
+}

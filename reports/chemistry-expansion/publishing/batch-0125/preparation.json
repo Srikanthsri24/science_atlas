@@ -1,0 +1,16 @@
+{
+  "status": "preparing_not_ready_to_publish",
+  "reviewed": 124,
+  "nextRequiredReview": "CL-0125",
+  "scope": [
+    "data/chemistry-labs.json",
+    "public/data/chemistry-labs.json",
+    "src/components/chemistry",
+    "src/lib/chemistry",
+    "scripts/chemistry",
+    "tests/chemistry*",
+    "reports/chemistry-expansion"
+  ],
+  "preserveStagedManifest": "reports/chemistry-expansion/publishing/pre-existing-index.json",
+  "plan": "Prepare isolated chemistry-only checkout from remote main; copy reviewed chemistry changes, verify every frozen review hash and required app gates; publish after125reviewed, preserve146originalstagedblobs withoutreset/force."
+}

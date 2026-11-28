@@ -1,0 +1,22 @@
+[
+  {
+    "button": "Remove lone pair",
+    "after": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 3 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction.",
+    "restored": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 4 lone pairs. Electron residual 0. Completed selected Lewis reference."
+  },
+  {
+    "button": "Remove shared pair",
+    "after": "Carbon dioxide construction: 3/3 atoms placed, 3 shared pairs, 4 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction.",
+    "restored": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 4 lone pairs. Electron residual 0. Completed selected Lewis reference."
+  },
+  {
+    "button": "Return atom to inventory",
+    "after": "Carbon dioxide construction: 2/3 atoms placed, 2 shared pairs, 2 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction.",
+    "restored": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 4 lone pairs. Electron residual 0. Completed selected Lewis reference."
+  },
+  {
+    "button": "Reset construction",
+    "after": "Carbon dioxide construction: 0/3 atoms placed, 0 shared pairs, 0 lone pairs. Electron residual 0. Unfinished construction — not a physical species prediction.",
+    "restored": "Carbon dioxide construction: 3/3 atoms placed, 4 shared pairs, 4 lone pairs. Electron residual 0. Completed selected Lewis reference."
+  }
+]
